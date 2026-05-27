@@ -1,0 +1,928 @@
+{
+  "id": "1515",
+  "title": "#1515「冷蔵庫（れいぞうこ）について！」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/05/Beginners-con-Teppei1515.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/05/09/1515%e3%80%8c%e5%86%b7%e8%94%b5%e5%ba%ab%ef%bc%88%e3%82%8c%e3%81%84%e3%81%9e%e3%81%86%e3%81%93%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.72,
+      "ts": "00:00.000 -> 00:03.720",
+      "jp": "シャッキン",
+      "jp_html": "シャッキン",
+      "zh": "夏肯宁",
+      "en": "Shakkīn"
+    },
+    {
+      "id": 1,
+      "start": 3.72,
+      "end": 8.5,
+      "ts": "00:03.720 -> 00:08.500",
+      "jp": "今日は冷蔵庫について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>について",
+      "zh": "今天关于冰箱的话题",
+      "en": "Today, I will talk about the refrigerator."
+    },
+    {
+      "id": 2,
+      "start": 8.5,
+      "end": 12.66,
+      "ts": "00:08.500 -> 00:12.660",
+      "jp": "はいみなさんおはようございます",
+      "jp_html": "はいみなさんおはようございます",
+      "zh": "大家早上好",
+      "en": "Good morning everyone"
+    },
+    {
+      "id": 3,
+      "start": 12.66,
+      "end": 15.3,
+      "ts": "00:12.660 -> 00:15.300",
+      "jp": "今日は雨ですね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>雨<rt>あめ</rt></ruby>ですね",
+      "zh": "今天下雨呢",
+      "en": "It's raining today, isn't it?"
+    },
+    {
+      "id": 4,
+      "start": 15.3,
+      "end": 21.0,
+      "ts": "00:15.300 -> 00:21.000",
+      "jp": "雨なので外には行かず",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>なので<ruby>外<rt>そと</rt></ruby>には<ruby>行か<rt>いか</rt></ruby>ず",
+      "zh": "因为下雨所以不去外面了",
+      "en": "It's raining, so I won't go outside."
+    },
+    {
+      "id": 5,
+      "start": 21.0,
+      "end": 26.5,
+      "ts": "00:21.000 -> 00:26.500",
+      "jp": "外出せずに家でゆっくりしたいと思います",
+      "jp_html": "<ruby>外出<rt>がいしゅつ</rt></ruby>せずに<ruby>家<rt>いえ</rt></ruby>でゆっくりしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想待在家里不出去慢慢放松一下",
+      "en": "I want to stay at home and relax without going out."
+    },
+    {
+      "id": 6,
+      "start": 26.5,
+      "end": 30.38,
+      "ts": "00:26.500 -> 00:30.380",
+      "jp": "例えば料理とかをして",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>とかをして",
+      "zh": "比如做饭等",
+      "en": "For example, cooking or doing chores"
+    },
+    {
+      "id": 7,
+      "start": 30.38,
+      "end": 37.18,
+      "ts": "00:30.380 -> 00:37.180",
+      "jp": "僕の家にはまあまあ大きい冷蔵庫があります",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>にはまあまあ<ruby>大きい<rt>おおきい</rt></ruby><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>があります",
+      "zh": "我的家里有一个中等大小的冰箱",
+      "en": "I have a pretty big refrigerator at my house."
+    },
+    {
+      "id": 8,
+      "start": 37.18,
+      "end": 41.6,
+      "ts": "00:37.180 -> 00:41.600",
+      "jp": "まあ大きすぎない小さすぎない",
+      "jp_html": "まあ<ruby>大きす<rt>おおきす</rt></ruby>ぎない<ruby>小さす<rt>ちーさす</rt></ruby>ぎない",
+      "zh": "不大不小",
+      "en": "Not too big, not too small"
+    },
+    {
+      "id": 9,
+      "start": 41.6,
+      "end": 46.04,
+      "ts": "00:41.600 -> 00:46.040",
+      "jp": "僕と奥さんと子供の3人で",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>と<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>の3<ruby>人<rt>にん</rt></ruby>で",
+      "zh": "我和妻子以及孩子共三人",
+      "en": "My wife and I with our child of three."
+    },
+    {
+      "id": 10,
+      "start": 46.04,
+      "end": 51.0,
+      "ts": "00:46.040 -> 00:51.000",
+      "jp": "まあちょうどいいぐらい冷蔵庫があるんですが",
+      "jp_html": "まあちょうどいいぐらい<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>があるんですが",
+      "zh": "反正刚好有一个冷藏柜也不错。",
+      "en": "Well, I have a refrigerator that's just about right."
+    },
+    {
+      "id": 11,
+      "start": 51.0,
+      "end": 56.42,
+      "ts": "00:51.000 -> 00:56.420",
+      "jp": "中には結構たくさんの野菜が入ってますね",
+      "jp_html": "<ruby>中に<rt>なかに</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>たくさんの<ruby>野菜<rt>やさい</rt></ruby>が<ruby>入っ<rt>いっっ</rt></ruby>てますね",
+      "zh": "里面竟然有很多蔬菜呢",
+      "en": "There are actually quite a lot of vegetables in it."
+    },
+    {
+      "id": 12,
+      "start": 56.42,
+      "end": 62.76,
+      "ts": "00:56.420 -> 01:02.760",
+      "jp": "これが僕にとって結構ストレスになりますね",
+      "jp_html": "これが<ruby>僕<rt>ぼく</rt></ruby>にとって<ruby>結構<rt>けっこう</rt></ruby>ストレスになりますね",
+      "zh": "这对我来说确实有点压力呢",
+      "en": "This actually becomes quite stressful for me."
+    },
+    {
+      "id": 13,
+      "start": 62.76,
+      "end": 66.0,
+      "ts": "01:02.760 -> 01:06.000",
+      "jp": "毎週毎週ストレスになる",
+      "jp_html": "<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby>ストレスになる",
+      "zh": "每周都会变成压力",
+      "en": "Week by week, it becomes more stressful."
+    },
+    {
+      "id": 14,
+      "start": 66.0,
+      "end": 71.8,
+      "ts": "01:06.000 -> 01:11.800",
+      "jp": "僕の奥さんは野菜をたくさん買うんです",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>は<ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>買う<rt>かう</rt></ruby>んです",
+      "zh": "我的妻子经常买很多蔬菜",
+      "en": "My wife buys a lot of vegetables."
+    },
+    {
+      "id": 15,
+      "start": 71.8,
+      "end": 74.68,
+      "ts": "01:11.800 -> 01:14.680",
+      "jp": "野菜を買ってくる",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てくる",
+      "zh": "去买蔬菜",
+      "en": "Go buy some vegetables."
+    },
+    {
+      "id": 16,
+      "start": 74.68,
+      "end": 79.18,
+      "ts": "01:14.680 -> 01:19.180",
+      "jp": "1週間に1度スーパーから",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>度<rt>ど</rt></ruby>スーパーから",
+      "zh": "每周去超市一次",
+      "en": "Once a week from the supermarket"
+    },
+    {
+      "id": 17,
+      "start": 79.18,
+      "end": 83.44000000000001,
+      "ts": "01:19.180 -> 01:23.440",
+      "jp": "たくさんの食べ物が届きます",
+      "jp_html": "たくさんの<ruby>食べ物<rt>たべもの</rt></ruby>が<ruby>届き<rt>とどき</rt></ruby>ます",
+      "zh": "很多食物会送到这里来。",
+      "en": "Many foods will arrive."
+    },
+    {
+      "id": 18,
+      "start": 83.44000000000001,
+      "end": 86.08000000000001,
+      "ts": "01:23.440 -> 01:26.080",
+      "jp": "そのデリバリーのサービスがあります",
+      "jp_html": "そのデリバリーのサービスがあります",
+      "zh": "该配送服务有",
+      "en": "That delivery service is available."
+    },
+    {
+      "id": 19,
+      "start": 86.08000000000001,
+      "end": 89.04,
+      "ts": "01:26.080 -> 01:29.040",
+      "jp": "それだけじゃなくて",
+      "jp_html": "それだけじゃなくて",
+      "zh": "那还不止",
+      "en": "That's not all"
+    },
+    {
+      "id": 20,
+      "start": 89.04,
+      "end": 94.08000000000001,
+      "ts": "01:29.040 -> 01:34.080",
+      "jp": "奥さんがよくスーパーから野菜を買ってくるんですが",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>がよくスーパーから<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てくるんですが",
+      "zh": "我妻子经常从超市买蔬菜回来",
+      "en": "The wife often buys vegetables from the supermarket."
+    },
+    {
+      "id": 21,
+      "start": 94.08000000000001,
+      "end": 100.68,
+      "ts": "01:34.080 -> 01:40.680",
+      "jp": "野菜というのは結構早く悪くなりますよね",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>というのは<ruby>結構<rt>けっこう</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なりますよね",
+      "zh": "蔬菜确实会很快变坏吧？",
+      "en": "Vegetables do tend to go bad quite quickly, don't they?"
+    },
+    {
+      "id": 22,
+      "start": 100.68,
+      "end": 104.52000000000001,
+      "ts": "01:40.680 -> 01:44.520",
+      "jp": "野菜によってはね",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>によってはね",
+      "zh": "蔬菜因品种而异",
+      "en": "Some vegetables can be wilted."
+    },
+    {
+      "id": 23,
+      "start": 104.52000000000001,
+      "end": 109.58000000000001,
+      "ts": "01:44.520 -> 01:49.580",
+      "jp": "人参とかは1週間ぐらい全然大丈夫です",
+      "jp_html": "<ruby>人参<rt>にんじん</rt></ruby>とかは1<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "人参之类的一周左右完全没问题",
+      "en": "Ginseng can be stored for about one week without any problem."
+    },
+    {
+      "id": 24,
+      "start": 109.58000000000001,
+      "end": 114.56,
+      "ts": "01:49.580 -> 01:54.560",
+      "jp": "だけどキャベツとかレタスとか",
+      "jp_html": "だけどキャベツとかレタスとか",
+      "zh": "但是白菜或者生菜",
+      "en": "But cabbage and lettuce, etc."
+    },
+    {
+      "id": 25,
+      "start": 114.56,
+      "end": 117.46000000000001,
+      "ts": "01:54.560 -> 01:57.460",
+      "jp": "あとはキノコとか",
+      "jp_html": "あとはキノコとか",
+      "zh": "剩下的就是蘑菇之类的",
+      "en": "And then mushrooms, etc."
+    },
+    {
+      "id": 26,
+      "start": 117.46000000000001,
+      "end": 125.12,
+      "ts": "01:57.460 -> 02:05.120",
+      "jp": "なんかいろいろなものは結構早く悪くなるんですよ",
+      "jp_html": "なんかいろいろなものは<ruby>結構<rt>けっこう</rt></ruby><ruby>早く<rt>はやく</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なるんですよ",
+      "zh": "各种东西其实都会很快变坏的",
+      "en": "Lots of things tend to get bad pretty quickly, you know?"
+    },
+    {
+      "id": 27,
+      "start": 125.12,
+      "end": 129.08,
+      "ts": "02:05.120 -> 02:09.080",
+      "jp": "だから早く料理をしなければいけません",
+      "jp_html": "だから<ruby>早く<rt>はやく</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>をしなければいけません",
+      "zh": "所以我们要赶快做饭了",
+      "en": "So I should cook quickly."
+    },
+    {
+      "id": 28,
+      "start": 129.08,
+      "end": 132.36,
+      "ts": "02:09.080 -> 02:12.360",
+      "jp": "なので結構忙しいですね",
+      "jp_html": "なので<ruby>結構<rt>けっこう</rt></ruby><ruby>忙しい<rt>いそがしい</rt></ruby>ですね",
+      "zh": "所以你挺忙的吧",
+      "en": "So you're quite busy, I see."
+    },
+    {
+      "id": 29,
+      "start": 132.36,
+      "end": 135.06,
+      "ts": "02:12.360 -> 02:15.060",
+      "jp": "僕はいつもいつも料理をしている",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>いつもいつも<ruby>料理<rt>りょうり</rt></ruby>をしている",
+      "zh": "我总是 always 在做做饭烹饪食物",
+      "en": "I am always cooking."
+    },
+    {
+      "id": 30,
+      "start": 135.06,
+      "end": 137.82000000000002,
+      "ts": "02:15.060 -> 02:17.820",
+      "jp": "野菜がね",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>がね",
+      "zh": "蔬菜羹",
+      "en": "Vegetables are good."
+    },
+    {
+      "id": 31,
+      "start": 137.82000000000002,
+      "end": 142.92000000000002,
+      "ts": "02:17.820 -> 02:22.920",
+      "jp": "野菜がね結構めんどくさいんですね",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>がね<ruby>結構<rt>けっこう</rt></ruby>めんどくさいんですね",
+      "zh": "蔬菜挺麻烦的啊",
+      "en": "Vegetables can be quite troublesome, huh?"
+    },
+    {
+      "id": 32,
+      "start": 142.92000000000002,
+      "end": 147.84,
+      "ts": "02:22.920 -> 02:27.840",
+      "jp": "健康にはいいですよ",
+      "jp_html": "<ruby>健康<rt>けんこう</rt></ruby>にはいいですよ",
+      "zh": "对健康有好处",
+      "en": "It's good for your health."
+    },
+    {
+      "id": 33,
+      "start": 147.84,
+      "end": 150.98000000000002,
+      "ts": "02:27.840 -> 02:30.980",
+      "jp": "僕は毎日たくさん野菜を食べてますね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>たくさん<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>ますね",
+      "zh": "我每天吃很多蔬菜呢",
+      "en": "I eat lots of vegetables every day."
+    },
+    {
+      "id": 34,
+      "start": 150.98000000000002,
+      "end": 153.88000000000002,
+      "ts": "02:30.980 -> 02:33.880",
+      "jp": "でも正直もうちょっとね",
+      "jp_html": "でも<ruby>正直<rt>しょうじき</rt></ruby>もうちょっとね",
+      "zh": "但说实话再稍微多一点呢",
+      "en": "But honestly, I wish it were just a little bit more."
+    },
+    {
+      "id": 35,
+      "start": 153.88,
+      "end": 156.42,
+      "ts": "02:33.880 -> 02:36.420",
+      "jp": "野菜が多すぎる",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>が<ruby>多す<rt>おおす</rt></ruby>ぎる",
+      "zh": "蔬菜太多了",
+      "en": "There are too many vegetables."
+    },
+    {
+      "id": 36,
+      "start": 156.42,
+      "end": 158.85999999999999,
+      "ts": "02:36.420 -> 02:38.860",
+      "jp": "野菜が多すぎなんです",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>が<ruby>多す<rt>おおす</rt></ruby>ぎなんです",
+      "zh": "蔬菜太多了",
+      "en": "There are too many vegetables."
+    },
+    {
+      "id": 37,
+      "start": 158.85999999999999,
+      "end": 161.62,
+      "ts": "02:38.860 -> 02:41.620",
+      "jp": "野菜を食べすぎると",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>すぎると",
+      "zh": "吃太多蔬菜也会",
+      "en": "Eating too many vegetables can be bad."
+    },
+    {
+      "id": 38,
+      "start": 161.62,
+      "end": 165.79999999999998,
+      "ts": "02:41.620 -> 02:45.800",
+      "jp": "なんかいつもトイレに行く気がするんですね",
+      "jp_html": "なんかいつもトイレに<ruby>行く<rt>いく</rt></ruby><ruby>気が<rt>きが</rt></ruby>するんですね",
+      "zh": "总觉得总是想上厕所",
+      "en": "I feel like I always need to go to the bathroom."
+    },
+    {
+      "id": 39,
+      "start": 165.79999999999998,
+      "end": 167.76,
+      "ts": "02:45.800 -> 02:47.760",
+      "jp": "まるであの",
+      "jp_html": "まるであの",
+      "zh": "仿佛那般",
+      "en": "Just like that"
+    },
+    {
+      "id": 40,
+      "start": 167.76,
+      "end": 171.16,
+      "ts": "02:47.760 -> 02:51.160",
+      "jp": "なんか動物みたいなね",
+      "jp_html": "なんか<ruby>動物<rt>どうぶつ</rt></ruby>みたいなね",
+      "zh": "好像动物一样呢",
+      "en": "It's kind of like an animal, ne?"
+    },
+    {
+      "id": 41,
+      "start": 171.16,
+      "end": 173.51999999999998,
+      "ts": "02:51.160 -> 02:53.520",
+      "jp": "牛とか馬とか",
+      "jp_html": "<ruby>牛<rt>うし</rt></ruby>とか<ruby>馬<rt>うま</rt></ruby>とか",
+      "zh": "牛或者马",
+      "en": "Cows and horses"
+    },
+    {
+      "id": 42,
+      "start": 173.51999999999998,
+      "end": 176.35999999999999,
+      "ts": "02:53.520 -> 02:56.360",
+      "jp": "いつも野菜をたくさん食べて",
+      "jp_html": "いつも<ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "总是多吃蔬菜",
+      "en": "I always eat lots of vegetables."
+    },
+    {
+      "id": 43,
+      "start": 176.35999999999999,
+      "end": 178.54,
+      "ts": "02:56.360 -> 02:58.540",
+      "jp": "いつもトイレをたくさんしますよね",
+      "jp_html": "いつもトイレをたくさんしますよね",
+      "zh": "你总是经常上厕所吧？",
+      "en": "Don't you go to the toilet a lot?"
+    },
+    {
+      "id": 44,
+      "start": 178.54,
+      "end": 180.29999999999998,
+      "ts": "02:58.540 -> 03:00.300",
+      "jp": "トイレじゃないですよね",
+      "jp_html": "トイレじゃないですよね",
+      "zh": "那不是厕所吧？",
+      "en": "It's not a toilet, right?"
+    },
+    {
+      "id": 45,
+      "start": 180.29999999999998,
+      "end": 181.7,
+      "ts": "03:00.300 -> 03:01.700",
+      "jp": "外でね",
+      "jp_html": "<ruby>外<rt>そと</rt></ruby>でね",
+      "zh": "外面呢",
+      "en": "outside"
+    },
+    {
+      "id": 46,
+      "start": 181.7,
+      "end": 183.7,
+      "ts": "03:01.700 -> 03:03.700",
+      "jp": "まあまあ馬とか",
+      "jp_html": "まあまあ<ruby>馬<rt>うま</rt></ruby>とか",
+      "zh": "嗯嗯，马之类的东西",
+      "en": "Well, horses or something like that."
+    },
+    {
+      "id": 47,
+      "start": 183.7,
+      "end": 187.73999999999998,
+      "ts": "03:03.700 -> 03:07.740",
+      "jp": "あの牛とか歩きながらとかね",
+      "jp_html": "あの<ruby>牛<rt>うし</rt></ruby>とか<ruby>歩き<rt>あるき</rt></ruby>ながらとかね",
+      "zh": "那些牛一边走一边ển",
+      "en": "Those cows or walking while doing it, I guess."
+    },
+    {
+      "id": 48,
+      "start": 187.73999999999998,
+      "end": 188.82,
+      "ts": "03:07.740 -> 03:08.820",
+      "jp": "食べながらとか",
+      "jp_html": "<ruby>食べ<rt>たべ</rt></ruby>ながらとか",
+      "zh": "边吃边做",
+      "en": "while eating"
+    },
+    {
+      "id": 49,
+      "start": 188.82,
+      "end": 190.92,
+      "ts": "03:08.820 -> 03:10.920",
+      "jp": "できるんで",
+      "jp_html": "できるんで",
+      "zh": "能做 (~(可以做))",
+      "en": "Can do"
+    },
+    {
+      "id": 50,
+      "start": 190.92,
+      "end": 193.04,
+      "ts": "03:10.920 -> 03:13.040",
+      "jp": "まあ楽でしょうけど",
+      "jp_html": "まあ<ruby>楽<rt>らく</rt></ruby>でしょうけど",
+      "zh": "反正也挺轻松的吧",
+      "en": "Well, it must be pleasant, though."
+    },
+    {
+      "id": 51,
+      "start": 193.04,
+      "end": 195.51999999999998,
+      "ts": "03:13.040 -> 03:15.520",
+      "jp": "僕はやっぱりトイレに行くから",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>やっぱりトイレに<ruby>行く<rt>いく</rt></ruby>から",
+      "zh": "我还是要去厕所",
+      "en": "I'm going to the toilet again."
+    },
+    {
+      "id": 52,
+      "start": 195.51999999999998,
+      "end": 197.82,
+      "ts": "03:15.520 -> 03:17.820",
+      "jp": "人間ですからね",
+      "jp_html": "<ruby>人間<rt>にんげん</rt></ruby>ですからね",
+      "zh": "毕竟人嘛",
+      "en": "As humans, of course."
+    },
+    {
+      "id": 53,
+      "start": 197.82,
+      "end": 199.82,
+      "ts": "03:17.820 -> 03:19.820",
+      "jp": "僕は牛じゃないですよ",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>牛<rt>うし</rt></ruby>じゃないですよ",
+      "zh": "我不是牛。",
+      "en": "I am not a cow."
+    },
+    {
+      "id": 54,
+      "start": 199.82,
+      "end": 200.94,
+      "ts": "03:19.820 -> 03:20.940",
+      "jp": "僕は馬じゃない",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>馬<rt>うま</rt></ruby>じゃない",
+      "zh": "我不是马",
+      "en": "I am not a horse."
+    },
+    {
+      "id": 55,
+      "start": 200.94,
+      "end": 202.45999999999998,
+      "ts": "03:20.940 -> 03:22.460",
+      "jp": "僕は人間だからね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>人間<rt>にんげん</rt></ruby>だからね",
+      "zh": "我是人类嘛",
+      "en": "I am human, you know."
+    },
+    {
+      "id": 56,
+      "start": 202.45999999999998,
+      "end": 203.79999999999998,
+      "ts": "03:22.460 -> 03:23.800",
+      "jp": "忘れないでくださいね",
+      "jp_html": "<ruby>忘れ<rt>わすれ</rt></ruby>ないでくださいね",
+      "zh": "请不要忘记",
+      "en": "Please don't forget."
+    },
+    {
+      "id": 57,
+      "start": 203.79999999999998,
+      "end": 206.94,
+      "ts": "03:23.800 -> 03:26.940",
+      "jp": "僕は人間の日本語の先生だから",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>人間<rt>にんげん</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>だから",
+      "zh": "我是人类的日语老师",
+      "en": "I am a teacher of Japanese for humans."
+    },
+    {
+      "id": 58,
+      "start": 206.94,
+      "end": 209.5,
+      "ts": "03:26.940 -> 03:29.500",
+      "jp": "まあトイレに行くわけですね",
+      "jp_html": "まあトイレに<ruby>行く<rt>いく</rt></ruby>わけですね",
+      "zh": "这么说你是去厕所呢",
+      "en": "You're going to the toilet, I see."
+    },
+    {
+      "id": 59,
+      "start": 209.5,
+      "end": 212.42,
+      "ts": "03:29.500 -> 03:32.420",
+      "jp": "まあ日本語の先生じゃなくても",
+      "jp_html": "まあ<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>じゃなくても",
+      "zh": "反正不用日语老师也能",
+      "en": "Well, even without being a Japanese teacher,..."
+    },
+    {
+      "id": 60,
+      "start": 212.42,
+      "end": 213.3,
+      "ts": "03:32.420 -> 03:33.300",
+      "jp": "トイレに行くでしょ",
+      "jp_html": "トイレに<ruby>行く<rt>いく</rt></ruby>でしょ",
+      "zh": "去上厕所吧",
+      "en": "You're going to the toilet, right?"
+    },
+    {
+      "id": 61,
+      "start": 213.3,
+      "end": 215.64,
+      "ts": "03:33.300 -> 03:35.640",
+      "jp": "行きますよね人間は",
+      "jp_html": "<ruby>行き<rt>いき</rt></ruby>ますよね<ruby>人間<rt>にんげん</rt></ruby>は",
+      "zh": "你们去吧人类",
+      "en": "Are you going, humans?"
+    },
+    {
+      "id": 62,
+      "start": 215.64,
+      "end": 216.48,
+      "ts": "03:35.640 -> 03:36.480",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 63,
+      "start": 216.48,
+      "end": 219.06,
+      "ts": "03:36.480 -> 03:39.060",
+      "jp": "たくさん野菜を食べるから",
+      "jp_html": "たくさん<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>るから",
+      "zh": "多吃蔬菜",
+      "en": "Because I eat lots of vegetables."
+    },
+    {
+      "id": 64,
+      "start": 219.06,
+      "end": 220.46,
+      "ts": "03:39.060 -> 03:40.460",
+      "jp": "たくさんトイレに行くんで",
+      "jp_html": "たくさんトイレに<ruby>行く<rt>いく</rt></ruby>んで",
+      "zh": "我要多上厕所",
+      "en": "I'm going to the bathroom a lot."
+    },
+    {
+      "id": 65,
+      "start": 220.46,
+      "end": 222.78,
+      "ts": "03:40.460 -> 03:42.780",
+      "jp": "もうね忙しいんですよね",
+      "jp_html": "もうね<ruby>忙しい<rt>いそがしい</rt></ruby>んですよね",
+      "zh": "确实呢，好忙啊",
+      "en": "Well, I'm just really busy, you know?"
+    },
+    {
+      "id": 66,
+      "start": 222.78,
+      "end": 226.22,
+      "ts": "03:42.780 -> 03:46.220",
+      "jp": "野菜を料理するのも忙しいし",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>料理<rt>りょうり</rt></ruby>するのも<ruby>忙しい<rt>いそがしい</rt></ruby>し",
+      "zh": "烹饪蔬菜也很忙碌",
+      "en": "Cooking vegetables is also quite busy."
+    },
+    {
+      "id": 67,
+      "start": 226.22,
+      "end": 227.78,
+      "ts": "03:46.220 -> 03:47.780",
+      "jp": "トイレに行くのも忙しいし",
+      "jp_html": "トイレに<ruby>行く<rt>いく</rt></ruby>のも<ruby>忙しい<rt>いそがしい</rt></ruby>し",
+      "zh": "去厕所也很忙碌",
+      "en": "Going to the toilet is also busy."
+    },
+    {
+      "id": 68,
+      "start": 227.78,
+      "end": 229.6,
+      "ts": "03:47.780 -> 03:49.600",
+      "jp": "野菜を食べるのも忙しいし",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>るのも<ruby>忙しい<rt>いそがしい</rt></ruby>し",
+      "zh": "吃饭也很忙",
+      "en": "Eating vegetables is also busy."
+    },
+    {
+      "id": 69,
+      "start": 229.6,
+      "end": 231.9,
+      "ts": "03:49.600 -> 03:51.900",
+      "jp": "もうね",
+      "jp_html": "もうね",
+      "zh": "真是的",
+      "en": "Well, ne"
+    },
+    {
+      "id": 70,
+      "start": 231.9,
+      "end": 233.62,
+      "ts": "03:51.900 -> 03:53.620",
+      "jp": "大変です",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>です",
+      "zh": "很糟糕",
+      "en": "It's terrible."
+    },
+    {
+      "id": 71,
+      "start": 233.62,
+      "end": 237.28,
+      "ts": "03:53.620 -> 03:57.280",
+      "jp": "だからこれから",
+      "jp_html": "だからこれから",
+      "zh": "所以从现在开始",
+      "en": "That's why from now on"
+    },
+    {
+      "id": 72,
+      "start": 237.28,
+      "end": 238.08,
+      "ts": "03:57.280 -> 03:58.080",
+      "jp": "今からね",
+      "jp_html": "<ruby>今か<rt>いまか</rt></ruby>らね",
+      "zh": "现在呢",
+      "en": "Now, ne (used for attention or to get someone's attention)"
+    },
+    {
+      "id": 73,
+      "start": 238.08,
+      "end": 240.06,
+      "ts": "03:58.080 -> 04:00.060",
+      "jp": "ちょっとカレーライスを作ろうと思う",
+      "jp_html": "ちょっとカレーライスを<ruby>作ろ<rt>つくろ</rt></ruby>うと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想做一点咖喱饭",
+      "en": "I want to make some curry rice."
+    },
+    {
+      "id": 74,
+      "start": 240.06,
+      "end": 241.58,
+      "ts": "04:00.060 -> 04:01.580",
+      "jp": "カレーライスを作ると",
+      "jp_html": "カレーライスを<ruby>作る<rt>つくる</rt></ruby>と",
+      "zh": "做咖喱饭",
+      "en": "I will make curry rice."
+    },
+    {
+      "id": 75,
+      "start": 241.58,
+      "end": 244.1,
+      "ts": "04:01.580 -> 04:04.100",
+      "jp": "たくさんの野菜をね",
+      "jp_html": "たくさんの<ruby>野菜<rt>やさい</rt></ruby>をね",
+      "zh": "吃了许多蔬菜",
+      "en": "I ate a lot of vegetables."
+    },
+    {
+      "id": 76,
+      "start": 244.1,
+      "end": 245.88,
+      "ts": "04:04.100 -> 04:05.880",
+      "jp": "使うことができる",
+      "jp_html": "<ruby>使う<rt>つかう</rt></ruby>ことができる",
+      "zh": "可以使用",
+      "en": "can be used"
+    },
+    {
+      "id": 77,
+      "start": 245.88,
+      "end": 247.88,
+      "ts": "04:05.880 -> 04:07.880",
+      "jp": "そしてその後",
+      "jp_html": "そしてその<ruby>後<rt>のち</rt></ruby>",
+      "zh": "然后之后",
+      "en": "And then afterwards"
+    },
+    {
+      "id": 78,
+      "start": 247.88,
+      "end": 249.70000000000002,
+      "ts": "04:07.880 -> 04:09.700",
+      "jp": "スープを作りましょうかね",
+      "jp_html": "スープを<ruby>作り<rt>つくり</rt></ruby>ましょうかね",
+      "zh": "我们来做汤吧",
+      "en": "Shall we make some soup?"
+    },
+    {
+      "id": 79,
+      "start": 249.70000000000002,
+      "end": 251.64000000000001,
+      "ts": "04:09.700 -> 04:11.640",
+      "jp": "スープを作ると",
+      "jp_html": "スープを<ruby>作る<rt>つくる</rt></ruby>と",
+      "zh": "做汤",
+      "en": "Making soup"
+    },
+    {
+      "id": 80,
+      "start": 251.64000000000001,
+      "end": 254.1,
+      "ts": "04:11.640 -> 04:14.100",
+      "jp": "たくさんの野菜を使うことができる",
+      "jp_html": "たくさんの<ruby>野菜<rt>やさい</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>ことができる",
+      "zh": "可以使用大量的蔬菜",
+      "en": "You can use a variety of vegetables."
+    },
+    {
+      "id": 81,
+      "start": 254.70000000000002,
+      "end": 257.12,
+      "ts": "04:14.700 -> 04:17.120",
+      "jp": "あとは大きいサラダでも作ろうかな",
+      "jp_html": "あとは<ruby>大きい<rt>おおきい</rt></ruby>サラダでも<ruby>作ろ<rt>つくろ</rt></ruby>うかな",
+      "zh": "然后做个大份沙拉怎么样呢",
+      "en": "I might make a big salad as well."
+    },
+    {
+      "id": 82,
+      "start": 257.12,
+      "end": 260.1,
+      "ts": "04:17.120 -> 04:20.100",
+      "jp": "そうすればたくさんの野菜を使うことができる",
+      "jp_html": "そうすればたくさんの<ruby>野菜<rt>やさい</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>ことができる",
+      "zh": "这样就可以用很多蔬菜了",
+      "en": "Then you can use a lot of vegetables."
+    },
+    {
+      "id": 83,
+      "start": 260.1,
+      "end": 263.72,
+      "ts": "04:20.100 -> 04:23.720",
+      "jp": "そして夜はたくさん食べるんですね",
+      "jp_html": "そして<ruby>夜<rt>よる</rt></ruby>はたくさん<ruby>食べ<rt>たべ</rt></ruby>るんですね",
+      "zh": "然后晚上就会吃很多东西吧",
+      "en": "And at night, you eat a lot, right?"
+    },
+    {
+      "id": 84,
+      "start": 263.72,
+      "end": 266.14000000000004,
+      "ts": "04:23.720 -> 04:26.140",
+      "jp": "そして明日の朝",
+      "jp_html": "そして<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>",
+      "zh": "然后明天早上",
+      "en": "And tomorrow morning"
+    },
+    {
+      "id": 85,
+      "start": 266.14000000000004,
+      "end": 267.46000000000004,
+      "ts": "04:26.140 -> 04:27.460",
+      "jp": "たくさんトイレに行く",
+      "jp_html": "たくさんトイレに<ruby>行く<rt>いく</rt></ruby>",
+      "zh": "去很多次厕所",
+      "en": "To go to the toilet many times"
+    },
+    {
+      "id": 86,
+      "start": 267.46000000000004,
+      "end": 268.86,
+      "ts": "04:27.460 -> 04:28.860",
+      "jp": "健康ですね",
+      "jp_html": "<ruby>健康<rt>けんこう</rt></ruby>ですね",
+      "zh": "健康呢",
+      "en": "You are healthy."
+    },
+    {
+      "id": 87,
+      "start": 268.86,
+      "end": 270.1,
+      "ts": "04:28.860 -> 04:30.100",
+      "jp": "健康的です",
+      "jp_html": "<ruby>健康的<rt>けんこうてき</rt></ruby>です",
+      "zh": "健康的",
+      "en": "It is healthy."
+    },
+    {
+      "id": 88,
+      "start": 270.1,
+      "end": 272.52000000000004,
+      "ts": "04:30.100 -> 04:32.520",
+      "jp": "皆さんもたくさん野菜を食べて",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>もたくさん<ruby>野菜<rt>やさい</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "大家也要多吃蔬菜",
+      "en": "Everyone should also eat lots of vegetables"
+    },
+    {
+      "id": 89,
+      "start": 272.52000000000004,
+      "end": 274.8,
+      "ts": "04:32.520 -> 04:34.800",
+      "jp": "たくさんトイレに行ってください",
+      "jp_html": "たくさんトイレに<ruby>行って<rt>いって</rt></ruby>ください",
+      "zh": "请多去厕所",
+      "en": "Please go to the toilet many times."
+    },
+    {
+      "id": 90,
+      "start": 274.8,
+      "end": 276.3,
+      "ts": "04:34.800 -> 04:36.300",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    },
+    {
+      "id": 91,
+      "start": 276.3,
+      "end": 306.28000000000003,
+      "ts": "04:36.300 -> 05:06.280",
+      "jp": "ご視聴ありがとうございました",
+      "jp_html": "ご<ruby>視聴<rt>しちょう</rt></ruby>ありがとうございました",
+      "zh": "感谢您的观看",
+      "en": "Thank you for watching."
+    }
+  ]
+}

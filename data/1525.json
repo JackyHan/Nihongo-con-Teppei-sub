@@ -1,0 +1,2408 @@
+{
+  "id": "1525",
+  "title": "#1525「給食（きゅうしょく）について！」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/05/Beginners-con-Teppei1525.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/05/26/1525%e3%80%8c%e7%b5%a6%e9%a3%9f%ef%bc%88%e3%81%8d%e3%82%85%e3%81%86%e3%81%97%e3%82%87%e3%81%8f%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.2800000000000002,
+      "ts": "00:00.000 -> 00:03.280",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.2800000000000002,
+      "end": 6.6000000000000005,
+      "ts": "00:03.280 -> 00:06.600",
+      "jp": "今日は給食について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>給食<rt>きゅうしょく</rt></ruby>について",
+      "zh": "今天关于校餐的话题",
+      "en": "Today, I will talk about school lunch."
+    },
+    {
+      "id": 2,
+      "start": 6.6000000000000005,
+      "end": 9.4,
+      "ts": "00:06.600 -> 00:09.400",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 9.4,
+      "end": 13.98,
+      "ts": "00:09.400 -> 00:13.980",
+      "jp": "もうすぐ昼ご飯の時間ですね",
+      "jp_html": "もうすぐ<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "马上就要吃午饭了吧",
+      "en": "It's almost time for lunch, isn't it?"
+    },
+    {
+      "id": 4,
+      "start": 13.98,
+      "end": 19.240000000000002,
+      "ts": "00:13.980 -> 00:19.240",
+      "jp": "僕の子供は今小学校に行っています",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>います",
+      "zh": "我的孩子现在上小学",
+      "en": "My child is going to elementary school now."
+    },
+    {
+      "id": 5,
+      "start": 19.240000000000002,
+      "end": 24.26,
+      "ts": "00:19.240 -> 00:24.260",
+      "jp": "日本の小学校では給食が出ます",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>では<ruby>給食<rt>きゅうしょく</rt></ruby>が<ruby>出ま<rt>でま</rt></ruby>す",
+      "zh": "日本的小学里有校餐",
+      "en": "In Japanese elementary schools, lunch is served."
+    },
+    {
+      "id": 6,
+      "start": 24.26,
+      "end": 26.2,
+      "ts": "00:24.260 -> 00:26.200",
+      "jp": "まあ普通ね",
+      "jp_html": "まあ<ruby>普通<rt>ふつう</rt></ruby>ね",
+      "zh": "嘛，很正常吧",
+      "en": "Well, that's normal."
+    },
+    {
+      "id": 7,
+      "start": 26.2,
+      "end": 30.64,
+      "ts": "00:26.200 -> 00:30.640",
+      "jp": "たまに私立小学校",
+      "jp_html": "たまに<ruby>私立<rt>しりつ</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>",
+      "zh": "偶尔有私立小学",
+      "en": "Sometimes private elementary school"
+    },
+    {
+      "id": 8,
+      "start": 30.64,
+      "end": 33.6,
+      "ts": "00:30.640 -> 00:33.600",
+      "jp": "プライベートの小学校とかは",
+      "jp_html": "プライベートの<ruby>小学校<rt>しょうがっこう</rt></ruby>とかは",
+      "zh": "私人的小学等等",
+      "en": "Private elementary schools, etc."
+    },
+    {
+      "id": 9,
+      "start": 33.6,
+      "end": 39.7,
+      "ts": "00:33.600 -> 00:39.700",
+      "jp": "私立小学校では給食がない学校もあるかもしれませんが",
+      "jp_html": "<ruby>私立<rt>しりつ</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>では<ruby>給食<rt>きゅうしょく</rt></ruby>がない<ruby>学校<rt>がっこう</rt></ruby>もあるかもしれませんが",
+      "zh": "私立小学里也可能没有校餐",
+      "en": "There may be private elementary schools that do not have school lunches."
+    },
+    {
+      "id": 10,
+      "start": 39.7,
+      "end": 44.980000000000004,
+      "ts": "00:39.700 -> 00:44.980",
+      "jp": "僕の子供が行っている公立の小学校",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が<ruby>行って<rt>いって</rt></ruby>いる<ruby>公立<rt>こうりつ</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>",
+      "zh": "我的孩子所在的公立小学",
+      "en": "My child attends a public elementary school."
+    },
+    {
+      "id": 11,
+      "start": 44.980000000000004,
+      "end": 46.64,
+      "ts": "00:44.980 -> 00:46.640",
+      "jp": "パブリックですね",
+      "jp_html": "パブリックですね",
+      "zh": "公共的呢",
+      "en": "Public, right?"
+    },
+    {
+      "id": 12,
+      "start": 46.64,
+      "end": 48.56,
+      "ts": "00:46.640 -> 00:48.560",
+      "jp": "公立の小学校だと",
+      "jp_html": "<ruby>公立<rt>こうりつ</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>だと",
+      "zh": "公立的小学里",
+      "en": "If it's a public elementary school"
+    },
+    {
+      "id": 13,
+      "start": 48.56,
+      "end": 51.34,
+      "ts": "00:48.560 -> 00:51.340",
+      "jp": "普通は給食があります",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>給食<rt>きゅうしょく</rt></ruby>があります",
+      "zh": "通常有校餐",
+      "en": "Usually there is school lunch."
+    },
+    {
+      "id": 14,
+      "start": 51.34,
+      "end": 55.06,
+      "ts": "00:51.340 -> 00:55.060",
+      "jp": "僕が子供の時も給食がありました",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>も<ruby>給食<rt>きゅうしょく</rt></ruby>がありました",
+      "zh": "我小时候也有校餐",
+      "en": "When I was a child, there was school lunch too."
+    },
+    {
+      "id": 15,
+      "start": 55.06,
+      "end": 57.2,
+      "ts": "00:55.060 -> 00:57.200",
+      "jp": "小学校の時",
+      "jp_html": "<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "小学的时候",
+      "en": "When I was in elementary school"
+    },
+    {
+      "id": 16,
+      "start": 57.2,
+      "end": 59.5,
+      "ts": "00:57.200 -> 00:59.500",
+      "jp": "そして中学校の時",
+      "jp_html": "そして<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "然后在初中时",
+      "en": "And in middle school"
+    },
+    {
+      "id": 17,
+      "start": 59.5,
+      "end": 62.580000000000005,
+      "ts": "00:59.500 -> 01:02.580",
+      "jp": "高校は給食がなかったな",
+      "jp_html": "<ruby>高校<rt>こうこう</rt></ruby>は<ruby>給食<rt>きゅうしょく</rt></ruby>がなかったな",
+      "zh": "那时候高中没有校餐",
+      "en": "The high school didn't have school lunch."
+    },
+    {
+      "id": 18,
+      "start": 62.580000000000005,
+      "end": 65.72,
+      "ts": "01:02.580 -> 01:05.720",
+      "jp": "高校の時はお弁当",
+      "jp_html": "<ruby>高校<rt>こうこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はお<ruby>弁当<rt>べんとう</rt></ruby>",
+      "zh": "高中时的便当",
+      "en": "I went to school with a lunch box."
+    },
+    {
+      "id": 19,
+      "start": 65.72,
+      "end": 69.82000000000001,
+      "ts": "01:05.720 -> 01:09.820",
+      "jp": "お母さんが毎日お弁当を作ってくれました",
+      "jp_html": "お<ruby>母さん<rt>かあさん</rt></ruby>が<ruby>毎日<rt>まいにち</rt></ruby>お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作っ<rt>つくっ</rt></ruby>てくれました",
+      "zh": "妈妈每天给我做便当",
+      "en": "My mother made lunch boxes for me every day."
+    },
+    {
+      "id": 20,
+      "start": 69.82000000000001,
+      "end": 75.18,
+      "ts": "01:09.820 -> 01:15.180",
+      "jp": "でも小学校と中学校は給食を食べていた",
+      "jp_html": "でも<ruby>小学校<rt>しょうがっこう</rt></ruby>と<ruby>中学校<rt>ちゅうがっこう</rt></ruby>は<ruby>給食<rt>きゅうしょく</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>いた",
+      "zh": "但是小学和中学都是吃校餐的",
+      "en": "But I was eating school lunch at elementary and middle school."
+    },
+    {
+      "id": 21,
+      "start": 75.18,
+      "end": 76.28,
+      "ts": "01:15.180 -> 01:16.280",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 22,
+      "start": 76.28,
+      "end": 78.16,
+      "ts": "01:16.280 -> 01:18.160",
+      "jp": "給食ですけど",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>ですけど",
+      "zh": "这是饭},\"",
+      "en": "It's school lunch."
+    },
+    {
+      "id": 23,
+      "start": 78.16,
+      "end": 80.39999999999999,
+      "ts": "01:18.160 -> 01:20.400",
+      "jp": "学校の昼ご飯",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>",
+      "zh": "学校的午餐",
+      "en": "School lunch"
+    },
+    {
+      "id": 24,
+      "start": 80.39999999999999,
+      "end": 84.47999999999999,
+      "ts": "01:20.400 -> 01:24.480",
+      "jp": "給食は日本の給食は悪くない",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>給食<rt>きゅうしょく</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>ない",
+      "zh": "日本学校的午餐还不错",
+      "en": "School lunches in Japan aren't bad."
+    },
+    {
+      "id": 25,
+      "start": 84.47999999999999,
+      "end": 87.6,
+      "ts": "01:24.480 -> 01:27.600",
+      "jp": "結構いいですね",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>いいですね",
+      "zh": "结构很好呢",
+      "en": "It's nice, isn't it?"
+    },
+    {
+      "id": 26,
+      "start": 87.6,
+      "end": 90.53999999999999,
+      "ts": "01:27.600 -> 01:30.540",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 27,
+      "start": 90.53999999999999,
+      "end": 94.44,
+      "ts": "01:30.540 -> 01:34.440",
+      "jp": "よく本当によく",
+      "jp_html": "よく<ruby>本当<rt>ほんとう</rt></ruby>によく",
+      "zh": "真的好常好",
+      "en": "Often really often"
+    },
+    {
+      "id": 28,
+      "start": 94.44,
+      "end": 97.62,
+      "ts": "01:34.440 -> 01:37.620",
+      "jp": "作ってくれてると思います",
+      "jp_html": "<ruby>作っ<rt>つくっ</rt></ruby>てくれてると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为是在做",
+      "en": "I think they are making it for us."
+    },
+    {
+      "id": 29,
+      "start": 97.62,
+      "end": 100.16,
+      "ts": "01:37.620 -> 01:40.160",
+      "jp": "本当に素晴らしいと思う",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>素晴らしい<rt>すばらしい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "真的认为很精彩",
+      "en": "I really think it's wonderful."
+    },
+    {
+      "id": 30,
+      "start": 100.16,
+      "end": 102.8,
+      "ts": "01:40.160 -> 01:42.800",
+      "jp": "ご飯とか",
+      "jp_html": "ご<ruby>飯<rt>めし</rt></ruby>とか",
+      "zh": "饭之类的",
+      "en": "rice or food"
+    },
+    {
+      "id": 31,
+      "start": 102.8,
+      "end": 104.56,
+      "ts": "01:42.800 -> 01:44.560",
+      "jp": "味噌汁とか",
+      "jp_html": "<ruby>味噌汁<rt>みそしる</rt></ruby>とか",
+      "zh": "味噌汤之类的",
+      "en": "Miso soup"
+    },
+    {
+      "id": 32,
+      "start": 104.56,
+      "end": 108.53999999999999,
+      "ts": "01:44.560 -> 01:48.540",
+      "jp": "あとは肉か魚か野菜と",
+      "jp_html": "あとは<ruby>肉<rt>にく</rt></ruby>か<ruby>魚<rt>さかな</rt></ruby>か<ruby>野菜<rt>やさい</rt></ruby>と",
+      "zh": "剩下的就是肉类、鱼类还是蔬菜了",
+      "en": "Then it's either meat or fish and vegetables"
+    },
+    {
+      "id": 33,
+      "start": 108.53999999999999,
+      "end": 109.58,
+      "ts": "01:48.540 -> 01:49.580",
+      "jp": "まあいろいろです",
+      "jp_html": "まあいろいろです",
+      "zh": "嗯，各种各样的东西。",
+      "en": "Well, it varies."
+    },
+    {
+      "id": 34,
+      "start": 109.58,
+      "end": 110.72,
+      "ts": "01:49.580 -> 01:50.720",
+      "jp": "いろいろ",
+      "jp_html": "いろいろ",
+      "zh": "各种各样",
+      "en": "various"
+    },
+    {
+      "id": 35,
+      "start": 110.72,
+      "end": 112.6,
+      "ts": "01:50.720 -> 01:52.600",
+      "jp": "パンもあるし",
+      "jp_html": "パンもあるし",
+      "zh": "也有面包",
+      "en": "There is also bread."
+    },
+    {
+      "id": 36,
+      "start": 112.6,
+      "end": 113.67999999999999,
+      "ts": "01:52.600 -> 01:53.680",
+      "jp": "牛乳",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>",
+      "zh": "牛奶",
+      "en": "Milk"
+    },
+    {
+      "id": 37,
+      "start": 113.67999999999999,
+      "end": 115.38,
+      "ts": "01:53.680 -> 01:55.380",
+      "jp": "毎日牛乳を飲んで",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>で",
+      "zh": "每天喝牛奶",
+      "en": "I drink milk every day."
+    },
+    {
+      "id": 38,
+      "start": 115.38,
+      "end": 119.47999999999999,
+      "ts": "01:55.380 -> 01:59.480",
+      "jp": "栄養のバランスはとてもいいですね",
+      "jp_html": "<ruby>栄養<rt>えいよう</rt></ruby>のバランスはとてもいいですね",
+      "zh": "营养的搭配很好呢",
+      "en": "The balance of nutrition is very good, isn't it?"
+    },
+    {
+      "id": 39,
+      "start": 119.48,
+      "end": 124.42,
+      "ts": "01:59.480 -> 02:04.420",
+      "jp": "まあ一つ問題があるとすると",
+      "jp_html": "まあ<ruby>一つ<rt>ひとつ</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>があるとすると",
+      "zh": "也许有一个问题是",
+      "en": "Well, if there is one issue"
+    },
+    {
+      "id": 40,
+      "start": 124.42,
+      "end": 128.34,
+      "ts": "02:04.420 -> 02:08.340",
+      "jp": "もう少し多くてもいいかもしれない",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>多く<rt>おおく</rt></ruby>てもいいかもしれない",
+      "zh": "也许再多一些也行",
+      "en": "It might be okay if it were a little more."
+    },
+    {
+      "id": 41,
+      "start": 128.34,
+      "end": 130.5,
+      "ts": "02:08.340 -> 02:10.500",
+      "jp": "多くても",
+      "jp_html": "<ruby>多く<rt>おおく</rt></ruby>ても",
+      "zh": "多的话",
+      "en": "At most"
+    },
+    {
+      "id": 42,
+      "start": 130.5,
+      "end": 133.28,
+      "ts": "02:10.500 -> 02:13.280",
+      "jp": "ちょっと少ない気がしますね",
+      "jp_html": "ちょっと<ruby>少ない<rt>すくない</rt></ruby><ruby>気が<rt>きが</rt></ruby>しますね",
+      "zh": "感觉有点少吧",
+      "en": "I feel it's a bit少 few."
+    },
+    {
+      "id": 43,
+      "start": 133.28,
+      "end": 137.3,
+      "ts": "02:13.280 -> 02:17.300",
+      "jp": "まあ小学校の時はまあ悪くないけど",
+      "jp_html": "まあ<ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はまあ<ruby>悪く<rt>わるく</rt></ruby>ないけど",
+      "zh": "小学的时候还算不错吧",
+      "en": "Well, elementary school wasn't too bad though."
+    },
+    {
+      "id": 44,
+      "start": 137.3,
+      "end": 139.16,
+      "ts": "02:17.300 -> 02:19.160",
+      "jp": "中学校の時",
+      "jp_html": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "初中的时候",
+      "en": "When I was in junior high school"
+    },
+    {
+      "id": 45,
+      "start": 139.16,
+      "end": 142.74,
+      "ts": "02:19.160 -> 02:22.740",
+      "jp": "僕はいつもお腹が空いてましたね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>いつもお<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>てましたね",
+      "zh": "我总是饿着肚子呢",
+      "en": "I was always hungry."
+    },
+    {
+      "id": 46,
+      "start": 142.74,
+      "end": 144.28,
+      "ts": "02:22.740 -> 02:24.280",
+      "jp": "もっと食べたかった",
+      "jp_html": "もっと<ruby>食べた<rt>たべた</rt></ruby>かった",
+      "zh": "还想多吃一点",
+      "en": "I wanted to eat more."
+    },
+    {
+      "id": 47,
+      "start": 144.28,
+      "end": 145.94,
+      "ts": "02:24.280 -> 02:25.940",
+      "jp": "ちょっと少ない気がした",
+      "jp_html": "ちょっと<ruby>少ない<rt>すくない</rt></ruby><ruby>気が<rt>きが</rt></ruby>した",
+      "zh": "觉得有点少",
+      "en": "I felt it was a bit small."
+    },
+    {
+      "id": 48,
+      "start": 145.94,
+      "end": 149.98,
+      "ts": "02:25.940 -> 02:29.980",
+      "jp": "中学生ぐらいになるとたくさん食べたいから",
+      "jp_html": "<ruby>中学生<rt>ちゅうがくせい</rt></ruby>ぐらいになるとたくさん<ruby>食べた<rt>たべた</rt></ruby>いから",
+      "zh": "到了初中左右，就想吃很多东西了",
+      "en": "By around middle school age, you start wanting to eat a lot."
+    },
+    {
+      "id": 49,
+      "start": 149.98,
+      "end": 152.7,
+      "ts": "02:29.980 -> 02:32.700",
+      "jp": "もう少し",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby>",
+      "zh": "再接再厉",
+      "en": "A little more"
+    },
+    {
+      "id": 50,
+      "start": 152.7,
+      "end": 156.5,
+      "ts": "02:32.700 -> 02:36.500",
+      "jp": "給食が大きくてもいいかもしれません",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>てもいいかもしれません",
+      "zh": "给食量大一些也行。",
+      "en": "It might be okay if the school lunch is large."
+    },
+    {
+      "id": 51,
+      "start": 156.5,
+      "end": 162.36,
+      "ts": "02:36.500 -> 02:42.360",
+      "jp": "まあ僕はたくさん食べてたけど",
+      "jp_html": "まあ<ruby>僕は<rt>ぼくは</rt></ruby>たくさん<ruby>食べて<rt>たべて</rt></ruby>たけど",
+      "zh": "我吃了很多东西不过",
+      "en": "Well, I was eating a lot anyway."
+    },
+    {
+      "id": 52,
+      "start": 162.36,
+      "end": 164.38,
+      "ts": "02:42.360 -> 02:44.380",
+      "jp": "でも痩せてましたからね",
+      "jp_html": "でも<ruby>痩せ<rt>やせ</rt></ruby>てましたからね",
+      "zh": "但也瘦了呢",
+      "en": "But they were skinny, you know."
+    },
+    {
+      "id": 53,
+      "start": 164.38,
+      "end": 168.74,
+      "ts": "02:44.380 -> 02:48.740",
+      "jp": "家でもたくさん食べてたけど痩せていた",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>でもたくさん<ruby>食べて<rt>たべて</rt></ruby>たけど<ruby>痩せ<rt>やせ</rt></ruby>ていた",
+      "zh": "在家里吃了很多，但是还是瘦的",
+      "en": "I ate a lot at home but was still skinny."
+    },
+    {
+      "id": 54,
+      "start": 168.74,
+      "end": 170.36,
+      "ts": "02:48.740 -> 02:50.360",
+      "jp": "だからまあ",
+      "jp_html": "だからまあ",
+      "zh": "所以大概",
+      "en": "So, basically"
+    },
+    {
+      "id": 55,
+      "start": 170.36,
+      "end": 171.88,
+      "ts": "02:50.360 -> 02:51.880",
+      "jp": "そうですね",
+      "jp_html": "そうですね",
+      "zh": "是呢",
+      "en": "Yes, that's right."
+    },
+    {
+      "id": 56,
+      "start": 171.88,
+      "end": 174.8,
+      "ts": "02:51.880 -> 02:54.800",
+      "jp": "14歳15歳ぐらいの時は",
+      "jp_html": "14<ruby>歳<rt>とし</rt></ruby>15<ruby>歳<rt>とし</rt></ruby>ぐらいの<ruby>時<rt>とき</rt></ruby>は",
+      "zh": "大约14岁15岁的时候",
+      "en": "Around 14 and 15 years old"
+    },
+    {
+      "id": 57,
+      "start": 174.8,
+      "end": 177.10000000000002,
+      "ts": "02:54.800 -> 02:57.100",
+      "jp": "たくさん食べたいですよね",
+      "jp_html": "たくさん<ruby>食べた<rt>たべた</rt></ruby>いですよね",
+      "zh": "想吃很多对吧",
+      "en": "Don't you want to eat a lot?"
+    },
+    {
+      "id": 58,
+      "start": 177.10000000000002,
+      "end": 179.12,
+      "ts": "02:57.100 -> 02:59.120",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 59,
+      "start": 179.12,
+      "end": 182.06,
+      "ts": "02:59.120 -> 03:02.060",
+      "jp": "でも僕の子供は毎日",
+      "jp_html": "でも<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>",
+      "zh": "但是我的孩子每天",
+      "en": "But my children are every day"
+    },
+    {
+      "id": 60,
+      "start": 182.06,
+      "end": 184.08,
+      "ts": "03:02.060 -> 03:04.080",
+      "jp": "給食を食べてます",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>ます",
+      "zh": "我在吃飯。",
+      "en": "I am eating school lunch."
+    },
+    {
+      "id": 61,
+      "start": 184.08,
+      "end": 185.26000000000002,
+      "ts": "03:04.080 -> 03:05.260",
+      "jp": "素晴らしい",
+      "jp_html": "<ruby>素晴らしい<rt>すばらしい</rt></ruby>",
+      "zh": "棒极了",
+      "en": "Wonderful"
+    },
+    {
+      "id": 62,
+      "start": 185.26000000000002,
+      "end": 188.8,
+      "ts": "03:05.260 -> 03:08.800",
+      "jp": "そして給食はとても安い",
+      "jp_html": "そして<ruby>給食<rt>きゅうしょく</rt></ruby>はとても<ruby>安い<rt>やすい</rt></ruby>",
+      "zh": "然后食堂非常便宜",
+      "en": "And the school lunch is very cheap."
+    },
+    {
+      "id": 63,
+      "start": 189.38000000000002,
+      "end": 190.76000000000002,
+      "ts": "03:09.380 -> 03:10.760",
+      "jp": "安いというか",
+      "jp_html": "<ruby>安い<rt>やすい</rt></ruby>というか",
+      "zh": "便宜地说",
+      "en": "便宜来说"
+    },
+    {
+      "id": 64,
+      "start": 190.76000000000002,
+      "end": 192.64000000000001,
+      "ts": "03:10.760 -> 03:12.640",
+      "jp": "今無料ですね",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby><ruby>無料<rt>むりょう</rt></ruby>ですね",
+      "zh": "现在是免费的呢",
+      "en": "It's free now."
+    },
+    {
+      "id": 65,
+      "start": 192.64000000000001,
+      "end": 196.74,
+      "ts": "03:12.640 -> 03:16.740",
+      "jp": "僕はお金を払ってないですね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>てないですね",
+      "zh": "我没有付钱呢。",
+      "en": "I haven't paid for it, you see."
+    },
+    {
+      "id": 66,
+      "start": 196.74,
+      "end": 199.26000000000002,
+      "ts": "03:16.740 -> 03:19.260",
+      "jp": "僕だけじゃなくて",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>だけじゃなくて",
+      "zh": "不只是我",
+      "en": "Not just me"
+    },
+    {
+      "id": 67,
+      "start": 199.26000000000002,
+      "end": 201.14000000000001,
+      "ts": "03:19.260 -> 03:21.140",
+      "jp": "みんなお金を払ってないですね",
+      "jp_html": "みんなお<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>てないですね",
+      "zh": "大家都没有付钱呢。",
+      "en": "Everyone hasn't paid money, though."
+    },
+    {
+      "id": 68,
+      "start": 201.14000000000001,
+      "end": 204.56,
+      "ts": "03:21.140 -> 03:24.560",
+      "jp": "これはいつからかな",
+      "jp_html": "これはいつからかな",
+      "zh": "这是从什么时候开始的呢",
+      "en": "When did this start?"
+    },
+    {
+      "id": 69,
+      "start": 204.56,
+      "end": 208.9,
+      "ts": "03:24.560 -> 03:28.900",
+      "jp": "多分2年ぐらい前からかもしれない",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>2<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>前か<rt>ぜんか</rt></ruby>らかもしれない",
+      "zh": "可能是在两三年前吧",
+      "en": "It might have been about 2 years ago or so."
+    },
+    {
+      "id": 70,
+      "start": 208.9,
+      "end": 213.52,
+      "ts": "03:28.900 -> 03:33.520",
+      "jp": "最近たくさんの街で",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>たくさんの<ruby>街<rt>まち</rt></ruby>で",
+      "zh": "最近在很多城市里",
+      "en": "Recently, in many cities,"
+    },
+    {
+      "id": 71,
+      "start": 213.52,
+      "end": 215.92000000000002,
+      "ts": "03:33.520 -> 03:35.920",
+      "jp": "給食が無料になってますね",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>が<ruby>無料<rt>むりょう</rt></ruby>になってますね",
+      "zh": "给餐食现在是免费的呢",
+      "en": "The school lunch is free now, isn't it?"
+    },
+    {
+      "id": 72,
+      "start": 215.92000000000002,
+      "end": 220.02,
+      "ts": "03:35.920 -> 03:40.020",
+      "jp": "でもまだお金を払っている街もあります",
+      "jp_html": "でもまだお<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>ている<ruby>街<rt>まち</rt></ruby>もあります",
+      "zh": "但仍然有一些街道还在支付费用。",
+      "en": "But there are still towns that are paying for it."
+    },
+    {
+      "id": 73,
+      "start": 220.02,
+      "end": 223.14000000000001,
+      "ts": "03:40.020 -> 03:43.140",
+      "jp": "だから街によりますね",
+      "jp_html": "だから<ruby>街<rt>まち</rt></ruby>によりますね",
+      "zh": "所以因街道而异吧",
+      "en": "So it varies by city, right?"
+    },
+    {
+      "id": 74,
+      "start": 223.14000000000001,
+      "end": 227.06,
+      "ts": "03:43.140 -> 03:47.060",
+      "jp": "この東京の僕が住んでいるエリア",
+      "jp_html": "この<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>僕<rt>ぼく</rt></ruby>が<ruby>住ん<rt>すん</rt></ruby>でいるエリア",
+      "zh": "这是我住在东京的区域",
+      "en": "This Tokyo area where I live"
+    },
+    {
+      "id": 75,
+      "start": 227.06,
+      "end": 228.78,
+      "ts": "03:47.060 -> 03:48.780",
+      "jp": "ここは無料です",
+      "jp_html": "ここは<ruby>無料<rt>むりょう</rt></ruby>です",
+      "zh": "这里免费",
+      "en": "This is free."
+    },
+    {
+      "id": 76,
+      "start": 228.78,
+      "end": 230.7,
+      "ts": "03:48.780 -> 03:50.700",
+      "jp": "でも多分他のエリアは",
+      "jp_html": "でも<ruby>多分<rt>たぶん</rt></ruby><ruby>他の<rt>ほかの</rt></ruby>エリアは",
+      "zh": "但是其他地区可能也是",
+      "en": "But probably other areas are"
+    },
+    {
+      "id": 77,
+      "start": 230.7,
+      "end": 234.04,
+      "ts": "03:50.700 -> 03:54.040",
+      "jp": "少しお金を払わなければいけない",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>お<ruby>金<rt>きん</rt></ruby>を<ruby>払わ<rt>はらわ</rt></ruby>なければいけない",
+      "zh": "需要付一点钱",
+      "en": "I need to pay a little money."
+    },
+    {
+      "id": 78,
+      "start": 234.04,
+      "end": 236.44,
+      "ts": "03:54.040 -> 03:56.440",
+      "jp": "でも結構安いと思う",
+      "jp_html": "でも<ruby>結構<rt>けっこう</rt></ruby><ruby>安い<rt>やすい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "但也觉得挺便宜的",
+      "en": "But I think it's fairly cheap."
+    },
+    {
+      "id": 79,
+      "start": 236.44,
+      "end": 237.98,
+      "ts": "03:56.440 -> 03:57.980",
+      "jp": "結構安いと思う",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>安い<rt>やすい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "觉得结构很便宜",
+      "en": "I think it's quite cheap."
+    },
+    {
+      "id": 80,
+      "start": 237.98,
+      "end": 239.62,
+      "ts": "03:57.980 -> 03:59.620",
+      "jp": "本当に1ヶ月",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に1ヶ<ruby>月<rt>がつ</rt></ruby>",
+      "zh": "真的是一个月",
+      "en": "Really one month"
+    },
+    {
+      "id": 81,
+      "start": 239.62,
+      "end": 244.42000000000002,
+      "ts": "03:59.620 -> 04:04.420",
+      "jp": "まあ5000円ぐらいだったかな",
+      "jp_html": "まあ5000<ruby>円<rt>えん</rt></ruby>ぐらいだったかな",
+      "zh": "大概花了五千日元左右吧",
+      "en": "It was about 5000 yen, I think."
+    },
+    {
+      "id": 82,
+      "start": 244.42000000000002,
+      "end": 247.88,
+      "ts": "04:04.420 -> 04:07.880",
+      "jp": "かなり安かったと思います",
+      "jp_html": "かなり<ruby>安か<rt>やすか</rt></ruby>ったと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得很便宜",
+      "en": "I think it was quite cheap."
+    },
+    {
+      "id": 83,
+      "start": 247.88,
+      "end": 249.84,
+      "ts": "04:07.880 -> 04:09.840",
+      "jp": "驚くぐらい",
+      "jp_html": "<ruby>驚く<rt>おどろく</rt></ruby>ぐらい",
+      "zh": "令人惊讶的是",
+      "en": "Surprisedingly"
+    },
+    {
+      "id": 84,
+      "start": 249.84,
+      "end": 256.54,
+      "ts": "04:09.840 -> 04:16.540",
+      "jp": "家で昼ご飯を作ると",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>で<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>と",
+      "zh": "在家做午饭",
+      "en": "I make lunch at home."
+    },
+    {
+      "id": 85,
+      "start": 256.54,
+      "end": 258.32,
+      "ts": "04:16.540 -> 04:18.320",
+      "jp": "まあもっと高くなりますよね",
+      "jp_html": "まあもっと<ruby>高く<rt>たかく</rt></ruby>なりますよね",
+      "zh": "毕竟还会更高吧",
+      "en": "Well, it will probably go higher, won't it?"
+    },
+    {
+      "id": 86,
+      "start": 258.32,
+      "end": 261.26,
+      "ts": "04:18.320 -> 04:21.260",
+      "jp": "だから学校はとても",
+      "jp_html": "だから<ruby>学校<rt>がっこう</rt></ruby>はとても",
+      "zh": "所以学校很",
+      "en": "that's why school is very"
+    },
+    {
+      "id": 87,
+      "start": 261.26,
+      "end": 263.34000000000003,
+      "ts": "04:21.260 -> 04:23.340",
+      "jp": "学校というか",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>というか",
+      "zh": "学校或者说",
+      "en": "School, sort of"
+    },
+    {
+      "id": 88,
+      "start": 263.34000000000003,
+      "end": 265.5,
+      "ts": "04:23.340 -> 04:25.500",
+      "jp": "まあその給食センターと言いますね",
+      "jp_html": "まあその<ruby>給食<rt>きゅうしょく</rt></ruby>センターと<ruby>言い<rt>いい</rt></ruby>ますね",
+      "zh": "嗯，那就是所说的供餐中心吧？",
+      "en": "Well, they call it the school food center, I suppose."
+    },
+    {
+      "id": 89,
+      "start": 265.5,
+      "end": 268.38,
+      "ts": "04:25.500 -> 04:28.380",
+      "jp": "給食を作る場所を給食センターと言います",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>を<ruby>給食<rt>きゅうしょく</rt></ruby>センターと<ruby>言い<rt>いい</rt></ruby>ます",
+      "zh": "把制作食物的地方称为食堂",
+      "en": "The place where school meals are prepared is called a cafeteria."
+    },
+    {
+      "id": 90,
+      "start": 268.38,
+      "end": 271.48,
+      "ts": "04:28.380 -> 04:31.480",
+      "jp": "給食センターの人たちは",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>センターの<ruby>人<rt>にん</rt></ruby>たちは",
+      "zh": "给餐中心的人们",
+      "en": "The people at the cafeteriaeteria staff"
+    },
+    {
+      "id": 91,
+      "start": 271.48,
+      "end": 275.36,
+      "ts": "04:31.480 -> 04:35.360",
+      "jp": "本当によく頑張ってくれてると思う",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>によく<ruby>頑張っ<rt>がんばっ</rt></ruby>てくれてると<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我真的觉得你很努力",
+      "en": "I think you've been working really hard."
+    },
+    {
+      "id": 92,
+      "start": 275.36,
+      "end": 279.86,
+      "ts": "04:35.360 -> 04:39.860",
+      "jp": "僕はもう少し高くてもいいと思いますけどね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>もう<ruby>少し<rt>すこし</rt></ruby><ruby>高く<rt>たかく</rt></ruby>てもいいと<ruby>思い<rt>おもい</rt></ruby>ますけどね",
+      "zh": "我觉得再高一点也行呢",
+      "en": "I think it could be a little bit higher though."
+    },
+    {
+      "id": 93,
+      "start": 279.86,
+      "end": 282.76,
+      "ts": "04:39.860 -> 04:42.760",
+      "jp": "僕がスペインに行った時",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がスペインに<ruby>行った<rt>いった</rt></ruby><ruby>時<rt>とき</rt></ruby>",
+      "zh": "我去了西班牙的时候",
+      "en": "When I went to Spain."
+    },
+    {
+      "id": 94,
+      "start": 282.76,
+      "end": 284.26,
+      "ts": "04:42.760 -> 04:44.260",
+      "jp": "バルセロナに行った時",
+      "jp_html": "バルセロナに<ruby>行った<rt>いった</rt></ruby><ruby>時<rt>とき</rt></ruby>",
+      "zh": "我去巴塞罗那的时候",
+      "en": "When I went to Barcelona"
+    },
+    {
+      "id": 95,
+      "start": 284.26,
+      "end": 287.32,
+      "ts": "04:44.260 -> 04:47.320",
+      "jp": "子供の給食はもっと高かったです",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>給食<rt>きゅうしょく</rt></ruby>はもっと<ruby>高かっ<rt>たかっ</rt></ruby>たです",
+      "zh": "孩子的校餐原来更贵一些",
+      "en": "The school lunch for children was higher in cost."
+    },
+    {
+      "id": 96,
+      "start": 287.32,
+      "end": 289.32,
+      "ts": "04:47.320 -> 04:49.320",
+      "jp": "もっとお金を払って",
+      "jp_html": "もっとお<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て",
+      "zh": "多付钱",
+      "en": "Pay more money"
+    },
+    {
+      "id": 97,
+      "start": 289.32,
+      "end": 290.76,
+      "ts": "04:49.320 -> 04:50.760",
+      "jp": "でももっと大きかった",
+      "jp_html": "でももっと<ruby>大きか<rt>おーきか</rt></ruby>った",
+      "zh": "但是更大了",
+      "en": "But it was even larger before."
+    },
+    {
+      "id": 98,
+      "start": 290.76,
+      "end": 294.14,
+      "ts": "04:50.760 -> 04:54.140",
+      "jp": "もっとたくさんの食べ物がありました",
+      "jp_html": "もっとたくさんの<ruby>食べ物<rt>たべもの</rt></ruby>がありました",
+      "zh": "有更多的食物",
+      "en": "There were more foods available."
+    },
+    {
+      "id": 99,
+      "start": 294.14,
+      "end": 297.92,
+      "ts": "04:54.140 -> 04:57.920",
+      "jp": "だからやっぱり食べ物は大事だからね",
+      "jp_html": "だからやっぱり<ruby>食べ物<rt>たべもの</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>だからね",
+      "zh": "所以食物还是很重要呢",
+      "en": "So food is really important, you know?"
+    },
+    {
+      "id": 100,
+      "start": 297.92,
+      "end": 299.5,
+      "ts": "04:57.920 -> 04:59.500",
+      "jp": "食べ物は大事なので",
+      "jp_html": "<ruby>食べ物<rt>たべもの</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>なので",
+      "zh": "食物很重要所以",
+      "en": "Food is important so"
+    },
+    {
+      "id": 101,
+      "start": 299.5,
+      "end": 305.14000000000004,
+      "ts": "04:59.500 -> 05:05.140",
+      "jp": "まあ子供の給食はもう少し高くてもいいから",
+      "jp_html": "まあ<ruby>子供<rt>こども</rt></ruby>の<ruby>給食<rt>きゅうしょく</rt></ruby>はもう<ruby>少し<rt>すこし</rt></ruby><ruby>高く<rt>たかく</rt></ruby>てもいいから",
+      "zh": "孩子的午餐费再高一些也无妨",
+      "en": "Well, school lunches for children could be a bit more expensive."
+    },
+    {
+      "id": 102,
+      "start": 305.14000000000004,
+      "end": 307.40000000000003,
+      "ts": "05:05.140 -> 05:07.400",
+      "jp": "もっとたくさん食べてほしいですね",
+      "jp_html": "もっとたくさん<ruby>食べて<rt>たべて</rt></ruby>ほしいですね",
+      "zh": "希望他能多吃一点。",
+      "en": "I wish they would eat more."
+    },
+    {
+      "id": 103,
+      "start": 307.40000000000003,
+      "end": 310.5,
+      "ts": "05:07.400 -> 05:10.500",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 104,
+      "start": 310.5,
+      "end": 313.8,
+      "ts": "05:10.500 -> 05:13.800",
+      "jp": "お金のない家族もいると思うので",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>のない<ruby>家族<rt>かぞく</rt></ruby>もいると<ruby>思う<rt>おもう</rt></ruby>ので",
+      "zh": "也想到有些家庭是没有钱的",
+      "en": "I think there are also families who don't have money."
+    },
+    {
+      "id": 105,
+      "start": 313.8,
+      "end": 314.58000000000004,
+      "ts": "05:13.800 -> 05:14.580",
+      "jp": "そこはまあ",
+      "jp_html": "そこはまあ",
+      "zh": "那里嘛",
+      "en": "Well, there's"
+    },
+    {
+      "id": 106,
+      "start": 314.58000000000004,
+      "end": 318.3,
+      "ts": "05:14.580 -> 05:18.300",
+      "jp": "いろいろな方法で助ければいいと思います",
+      "jp_html": "いろいろな<ruby>方法<rt>ほうほう</rt></ruby>で<ruby>助け<rt>たすけ</rt></ruby>ればいいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想用各种方法帮助你",
+      "en": "I think it would be good to help in various ways."
+    },
+    {
+      "id": 107,
+      "start": 318.3,
+      "end": 320.40000000000003,
+      "ts": "05:18.300 -> 05:20.400",
+      "jp": "どうですか",
+      "jp_html": "どうですか",
+      "zh": "您怎么样？",
+      "en": "How is it?"
+    },
+    {
+      "id": 108,
+      "start": 320.40000000000003,
+      "end": 324.04,
+      "ts": "05:20.400 -> 05:24.040",
+      "jp": "皆さんの国には給食がありますか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>には<ruby>給食<rt>きゅうしょく</rt></ruby>がありますか",
+      "zh": "你们的国家有校餐吗？",
+      "en": "Do your countries have school lunches?"
+    },
+    {
+      "id": 109,
+      "start": 324.04,
+      "end": 332.3,
+      "ts": "05:24.040 -> 05:32.300",
+      "jp": "日本の給食で多分一番人気なのは",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>給食<rt>きゅうしょく</rt></ruby>で<ruby>多分<rt>たぶん</rt></ruby><ruby>一番人気<rt>いちばんにんき</rt></ruby>なのは",
+      "zh": "日本学校的午餐中最受欢迎的可能是",
+      "en": "The dish that is probably the most popular in Japanese school lunches is"
+    },
+    {
+      "id": 110,
+      "start": 332.3,
+      "end": 334.84000000000003,
+      "ts": "05:32.300 -> 05:34.840",
+      "jp": "やっぱりカレーライスですよね",
+      "jp_html": "やっぱりカレーライスですよね",
+      "zh": "果然就是咖喱饭吧",
+      "en": "Yeah, it has to be curry rice, right?"
+    },
+    {
+      "id": 111,
+      "start": 334.84000000000003,
+      "end": 337.54,
+      "ts": "05:34.840 -> 05:37.540",
+      "jp": "カレーライスは多分",
+      "jp_html": "カレーライスは<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "咖喱饭可能是",
+      "en": "Curry rice is probably"
+    },
+    {
+      "id": 112,
+      "start": 337.54,
+      "end": 341.82000000000005,
+      "ts": "05:37.540 -> 05:41.820",
+      "jp": "2週間に1回ぐらいあったかな",
+      "jp_html": "2<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>ぐらいあったかな",
+      "zh": "大约每两周一次吧",
+      "en": "It was about once every two weeks."
+    },
+    {
+      "id": 113,
+      "start": 341.82,
+      "end": 345.4,
+      "ts": "05:41.820 -> 05:45.400",
+      "jp": "1ヶ月に2回ぐらいあったかな",
+      "jp_html": "1ヶ<ruby>月<rt>がつ</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>ぐらいあったかな",
+      "zh": "大约每个月两次吧",
+      "en": "About twice a month."
+    },
+    {
+      "id": 114,
+      "start": 345.4,
+      "end": 347.15999999999997,
+      "ts": "05:45.400 -> 05:47.160",
+      "jp": "みんな好きでしたね",
+      "jp_html": "みんな<ruby>好き<rt>すき</rt></ruby>でしたね",
+      "zh": "大家喜欢呢",
+      "en": "Everyone liked it, didn't they?"
+    },
+    {
+      "id": 115,
+      "start": 347.15999999999997,
+      "end": 348.42,
+      "ts": "05:47.160 -> 05:48.420",
+      "jp": "カレーライス",
+      "jp_html": "カレーライス",
+      "zh": "咖喱饭",
+      "en": "Curry rice"
+    },
+    {
+      "id": 116,
+      "start": 348.42,
+      "end": 350.04,
+      "ts": "05:48.420 -> 05:50.040",
+      "jp": "みんな大好き",
+      "jp_html": "みんな<ruby>大好き<rt>だいすき</rt></ruby>",
+      "zh": "大家都喜欢",
+      "en": "Everyone loves it"
+    },
+    {
+      "id": 117,
+      "start": 350.04,
+      "end": 352.8,
+      "ts": "05:50.040 -> 05:52.800",
+      "jp": "給食のカレー",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>のカレー",
+      "zh": "给食的咖喱",
+      "en": "School lunch curry"
+    },
+    {
+      "id": 118,
+      "start": 352.8,
+      "end": 354.2,
+      "ts": "05:52.800 -> 05:54.200",
+      "jp": "あの全然辛くない",
+      "jp_html": "あの<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>辛く<rt>つらく</rt></ruby>ない",
+      "zh": "那个完全不辣",
+      "en": "That's not at all spicy."
+    },
+    {
+      "id": 119,
+      "start": 354.2,
+      "end": 356.08,
+      "ts": "05:54.200 -> 05:56.080",
+      "jp": "全然辛くない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>辛く<rt>つらく</rt></ruby>ない",
+      "zh": "完全不辛苦",
+      "en": "It's not at all difficult."
+    },
+    {
+      "id": 120,
+      "start": 356.08,
+      "end": 360.03999999999996,
+      "ts": "05:56.080 -> 06:00.040",
+      "jp": "日本のカレーの子供バージョン",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>のカレーの<ruby>子供<rt>こども</rt></ruby>バージョン",
+      "zh": "日本版儿童咖喱",
+      "en": "Japanese curry for children"
+    },
+    {
+      "id": 121,
+      "start": 360.03999999999996,
+      "end": 361.34,
+      "ts": "06:00.040 -> 06:01.340",
+      "jp": "みたいな感じなので",
+      "jp_html": "みたいな<ruby>感じ<rt>かんじ</rt></ruby>なので",
+      "zh": "就像这样子的感觉所以",
+      "en": "like that"
+    },
+    {
+      "id": 122,
+      "start": 361.34,
+      "end": 363.56,
+      "ts": "06:01.340 -> 06:03.560",
+      "jp": "全然辛くありません",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>辛く<rt>つらく</rt></ruby>ありません",
+      "zh": "一点也不辛苦",
+      "en": "It is not at all bitter."
+    },
+    {
+      "id": 123,
+      "start": 363.56,
+      "end": 365.46,
+      "ts": "06:03.560 -> 06:05.460",
+      "jp": "でも美味しかった",
+      "jp_html": "でも<ruby>美味しか<rt>おいしか</rt></ruby>った",
+      "zh": "但是很好吃",
+      "en": "But it was delicious"
+    },
+    {
+      "id": 124,
+      "start": 365.46,
+      "end": 368.3,
+      "ts": "06:05.460 -> 06:08.300",
+      "jp": "僕が好きだったのは",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だったのは",
+      "zh": "我最喜欢的是",
+      "en": "What I liked was"
+    },
+    {
+      "id": 125,
+      "start": 368.3,
+      "end": 369.58,
+      "ts": "06:08.300 -> 06:09.580",
+      "jp": "カレーライスと",
+      "jp_html": "カレーライスと",
+      "zh": "咖喱饭和",
+      "en": "Curry rice and"
+    },
+    {
+      "id": 126,
+      "start": 369.58,
+      "end": 371.78000000000003,
+      "ts": "06:09.580 -> 06:11.780",
+      "jp": "あとクリームシチュー",
+      "jp_html": "あとクリームシチュー",
+      "zh": "另外奶油炖菜",
+      "en": "And cream stew"
+    },
+    {
+      "id": 127,
+      "start": 371.78000000000003,
+      "end": 372.96,
+      "ts": "06:11.780 -> 06:12.960",
+      "jp": "ほとんど同じですね",
+      "jp_html": "ほとんど<ruby>同じ<rt>おなじ</rt></ruby>ですね",
+      "zh": "几乎一样呢",
+      "en": "It's almost the same, right?"
+    },
+    {
+      "id": 128,
+      "start": 372.96,
+      "end": 376.2,
+      "ts": "06:12.960 -> 06:16.200",
+      "jp": "カレーとクリームシチューはすごく似てる",
+      "jp_html": "カレーとクリームシチューはすごく<ruby>似て<rt>にて</rt></ruby>る",
+      "zh": "咖喱和奶油炖菜非常相似",
+      "en": "Curry and cream stew are pretty similar."
+    },
+    {
+      "id": 129,
+      "start": 376.2,
+      "end": 378.3,
+      "ts": "06:16.200 -> 06:18.300",
+      "jp": "クリームシチューはちょっと",
+      "jp_html": "クリームシチューはちょっと",
+      "zh": "奶油炖菜有点儿",
+      "en": "Cream stew is a bit..."
+    },
+    {
+      "id": 130,
+      "start": 378.3,
+      "end": 381.74,
+      "ts": "06:18.300 -> 06:21.740",
+      "jp": "まあ牛乳っぽい",
+      "jp_html": "まあ<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>っぽい",
+      "zh": "嗯，有点像牛奶",
+      "en": "Well, it kind of tastes like milk."
+    },
+    {
+      "id": 131,
+      "start": 381.74,
+      "end": 383.84000000000003,
+      "ts": "06:21.740 -> 06:23.840",
+      "jp": "あのカレーというか",
+      "jp_html": "あのカレーというか",
+      "zh": "那个咖喱这么说吧",
+      "en": "That curry, I mean"
+    },
+    {
+      "id": 132,
+      "start": 383.84000000000003,
+      "end": 385.2,
+      "ts": "06:23.840 -> 06:25.200",
+      "jp": "シチュー",
+      "jp_html": "シチュー",
+      "zh": "炖菜",
+      "en": "Stew"
+    },
+    {
+      "id": 133,
+      "start": 385.2,
+      "end": 385.84000000000003,
+      "ts": "06:25.200 -> 06:25.840",
+      "jp": "甘い",
+      "jp_html": "<ruby>甘い<rt>あまい</rt></ruby>",
+      "zh": "甜的",
+      "en": "sweet"
+    },
+    {
+      "id": 134,
+      "start": 385.84000000000003,
+      "end": 388.58,
+      "ts": "06:25.840 -> 06:28.580",
+      "jp": "あの全然辛くない",
+      "jp_html": "あの<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>辛く<rt>つらく</rt></ruby>ない",
+      "zh": "那个完全不辣",
+      "en": "That's not at all spicy."
+    },
+    {
+      "id": 135,
+      "start": 388.58,
+      "end": 390.24,
+      "ts": "06:28.580 -> 06:30.240",
+      "jp": "甘くないか",
+      "jp_html": "<ruby>甘く<rt>あまく</rt></ruby>ないか",
+      "zh": "不甜吧",
+      "en": "Is it not sweet?"
+    },
+    {
+      "id": 136,
+      "start": 390.24,
+      "end": 390.7,
+      "ts": "06:30.240 -> 06:30.700",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 137,
+      "start": 390.7,
+      "end": 392.38,
+      "ts": "06:30.700 -> 06:32.380",
+      "jp": "でも美味しい",
+      "jp_html": "でも<ruby>美味しい<rt>おいしい</rt></ruby>",
+      "zh": "但是很好吃",
+      "en": "But it's delicious"
+    },
+    {
+      "id": 138,
+      "start": 392.38,
+      "end": 393.86,
+      "ts": "06:32.380 -> 06:33.860",
+      "jp": "美味しいです",
+      "jp_html": "<ruby>美味しい<rt>おいしい</rt></ruby>です",
+      "zh": "很好吃",
+      "en": "It is delicious."
+    },
+    {
+      "id": 139,
+      "start": 393.86,
+      "end": 396.8,
+      "ts": "06:33.860 -> 06:36.800",
+      "jp": "クリームシチューとカレーライス",
+      "jp_html": "クリームシチューとカレーライス",
+      "zh": "奶油炖菜和咖喱饭",
+      "en": "Cream stew and curry rice"
+    },
+    {
+      "id": 140,
+      "start": 396.8,
+      "end": 398.26,
+      "ts": "06:36.800 -> 06:38.260",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 141,
+      "start": 398.26,
+      "end": 402.18,
+      "ts": "06:38.260 -> 06:42.180",
+      "jp": "あと何ですかね",
+      "jp_html": "あと<ruby>何で<rt>なんで</rt></ruby>すかね",
+      "zh": "那接下来是什么呢",
+      "en": "What else, right?"
+    },
+    {
+      "id": 142,
+      "start": 402.18,
+      "end": 403.65999999999997,
+      "ts": "06:42.180 -> 06:43.660",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 143,
+      "start": 403.65999999999997,
+      "end": 405.56,
+      "ts": "06:43.660 -> 06:45.560",
+      "jp": "わかめご飯とかね",
+      "jp_html": "わかめご<ruby>飯<rt>めし</rt></ruby>とかね",
+      "zh": "海带饭啦",
+      "en": "kombu-gohan ya ne"
+    },
+    {
+      "id": 144,
+      "start": 405.56,
+      "end": 406.42,
+      "ts": "06:45.560 -> 06:46.420",
+      "jp": "わかめご飯",
+      "jp_html": "わかめご<ruby>飯<rt>めし</rt></ruby>",
+      "zh": "海带饭",
+      "en": "kombu-gohan"
+    },
+    {
+      "id": 145,
+      "start": 406.42,
+      "end": 407.92,
+      "ts": "06:46.420 -> 06:47.920",
+      "jp": "わかめご飯は",
+      "jp_html": "わかめご<ruby>飯<rt>めし</rt></ruby>は",
+      "zh": "海带饭是",
+      "en": "Kombu-gohan is"
+    },
+    {
+      "id": 146,
+      "start": 407.92,
+      "end": 410.38,
+      "ts": "06:47.920 -> 06:50.380",
+      "jp": "食べたことありますか",
+      "jp_html": "<ruby>食べた<rt>たべた</rt></ruby>ことありますか",
+      "zh": "您吃过吗？",
+      "en": "Have you eaten yet?"
+    },
+    {
+      "id": 147,
+      "start": 410.38,
+      "end": 411.36,
+      "ts": "06:50.380 -> 06:51.360",
+      "jp": "なんか",
+      "jp_html": "なんか",
+      "zh": "什么玩意儿",
+      "en": "Something"
+    },
+    {
+      "id": 148,
+      "start": 411.36,
+      "end": 414.08,
+      "ts": "06:51.360 -> 06:54.080",
+      "jp": "塩のわかめの",
+      "jp_html": "<ruby>塩<rt>しお</rt></ruby>のわかめの",
+      "zh": "盐海带的",
+      "en": "kelp with salt"
+    },
+    {
+      "id": 149,
+      "start": 414.08,
+      "end": 416.71999999999997,
+      "ts": "06:54.080 -> 06:56.720",
+      "jp": "味のご飯",
+      "jp_html": "<ruby>味<rt>あじ</rt></ruby>のご<ruby>飯<rt>めし</rt></ruby>",
+      "zh": "口味饭",
+      "en": "meal with taste"
+    },
+    {
+      "id": 150,
+      "start": 416.71999999999997,
+      "end": 418.08,
+      "ts": "06:56.720 -> 06:58.080",
+      "jp": "すごく",
+      "jp_html": "すごく",
+      "zh": "非常地",
+      "en": "very"
+    },
+    {
+      "id": 151,
+      "start": 418.08,
+      "end": 419.44,
+      "ts": "06:58.080 -> 06:59.440",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 152,
+      "start": 419.44,
+      "end": 421.04,
+      "ts": "06:59.440 -> 07:01.040",
+      "jp": "シンプルな",
+      "jp_html": "シンプルな",
+      "zh": "简单的",
+      "en": "Simple"
+    },
+    {
+      "id": 153,
+      "start": 421.04,
+      "end": 422.12,
+      "ts": "07:01.040 -> 07:02.120",
+      "jp": "食べ物",
+      "jp_html": "<ruby>食べ物<rt>たべもの</rt></ruby>",
+      "zh": "食物",
+      "en": "food"
+    },
+    {
+      "id": 154,
+      "start": 422.12,
+      "end": 423.16,
+      "ts": "07:02.120 -> 07:03.160",
+      "jp": "わかめご飯",
+      "jp_html": "わかめご<ruby>飯<rt>めし</rt></ruby>",
+      "zh": "海带饭",
+      "en": "kombu-gohan"
+    },
+    {
+      "id": 155,
+      "start": 423.16,
+      "end": 423.6,
+      "ts": "07:03.160 -> 07:03.600",
+      "jp": "とかね",
+      "jp_html": "とかね",
+      "zh": "或者",
+      "en": "or something"
+    },
+    {
+      "id": 156,
+      "start": 423.6,
+      "end": 426.32,
+      "ts": "07:03.600 -> 07:06.320",
+      "jp": "あと毎日の",
+      "jp_html": "あと<ruby>毎日<rt>まいにち</rt></ruby>の",
+      "zh": "另外每天",
+      "en": "And every day"
+    },
+    {
+      "id": 157,
+      "start": 426.32,
+      "end": 427.68,
+      "ts": "07:06.320 -> 07:07.680",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 158,
+      "start": 427.68,
+      "end": 428.2,
+      "ts": "07:07.680 -> 07:08.200",
+      "jp": "スープ",
+      "jp_html": "スープ",
+      "zh": "汤",
+      "en": "Soup"
+    },
+    {
+      "id": 159,
+      "start": 428.2,
+      "end": 429.3,
+      "ts": "07:08.200 -> 07:09.300",
+      "jp": "スープがありますね",
+      "jp_html": "スープがありますね",
+      "zh": "汤已经准备好了吧",
+      "en": "There is some soup."
+    },
+    {
+      "id": 160,
+      "start": 429.3,
+      "end": 430.3,
+      "ts": "07:09.300 -> 07:10.300",
+      "jp": "いつもスープがある",
+      "jp_html": "いつもスープがある",
+      "zh": "总是有汤",
+      "en": "There is always soup."
+    },
+    {
+      "id": 161,
+      "start": 430.3,
+      "end": 431.82,
+      "ts": "07:10.300 -> 07:11.820",
+      "jp": "味噌汁とか",
+      "jp_html": "<ruby>味噌汁<rt>みそしる</rt></ruby>とか",
+      "zh": "味噌汤之类的",
+      "en": "Miso soup"
+    },
+    {
+      "id": 162,
+      "start": 431.82,
+      "end": 433.28000000000003,
+      "ts": "07:11.820 -> 07:13.280",
+      "jp": "他の",
+      "jp_html": "<ruby>他の<rt>ほかの</rt></ruby>",
+      "zh": "其他的",
+      "en": "other"
+    },
+    {
+      "id": 163,
+      "start": 433.28000000000003,
+      "end": 435.66,
+      "ts": "07:13.280 -> 07:15.660",
+      "jp": "いろいろなスープ",
+      "jp_html": "いろいろなスープ",
+      "zh": "各种汤",
+      "en": "various soups"
+    },
+    {
+      "id": 164,
+      "start": 435.66,
+      "end": 436.76,
+      "ts": "07:15.660 -> 07:16.760",
+      "jp": "豚汁とか",
+      "jp_html": "<ruby>豚汁<rt>とんじる</rt></ruby>とか",
+      "zh": "豚汁啦",
+      "en": "Oden soup or stew"
+    },
+    {
+      "id": 165,
+      "start": 436.76,
+      "end": 437.6,
+      "ts": "07:16.760 -> 07:17.600",
+      "jp": "好きでしたね",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>でしたね",
+      "zh": "你喜欢呢",
+      "en": "You liked it, didn't you?"
+    },
+    {
+      "id": 166,
+      "start": 437.6,
+      "end": 440.92,
+      "ts": "07:17.600 -> 07:20.920",
+      "jp": "牛乳はね",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>はね",
+      "zh": "牛奶是nez",
+      "en": "Milk is bad."
+    },
+    {
+      "id": 167,
+      "start": 440.92,
+      "end": 445.22,
+      "ts": "07:20.920 -> 07:25.220",
+      "jp": "まあまあだったな",
+      "jp_html": "まあまあだったな",
+      "zh": "还行吧",
+      "en": "It was okay, wasn't it?"
+    },
+    {
+      "id": 168,
+      "start": 445.22,
+      "end": 445.52000000000004,
+      "ts": "07:25.220 -> 07:25.520",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 169,
+      "start": 445.52000000000004,
+      "end": 448.0,
+      "ts": "07:25.520 -> 07:28.000",
+      "jp": "問題はですね",
+      "jp_html": "<ruby>問題<rt>もんだい</rt></ruby>はですね",
+      "zh": "问题是呢",
+      "en": "The problem is, you know,"
+    },
+    {
+      "id": 170,
+      "start": 448.0,
+      "end": 449.34000000000003,
+      "ts": "07:28.000 -> 07:29.340",
+      "jp": "たまに",
+      "jp_html": "たまに",
+      "zh": "偶尔",
+      "en": "Sometimes"
+    },
+    {
+      "id": 171,
+      "start": 449.34000000000003,
+      "end": 450.78000000000003,
+      "ts": "07:29.340 -> 07:30.780",
+      "jp": "牛乳に合わない",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>に<ruby>合わ<rt>あわ</rt></ruby>ない",
+      "zh": "不耐受牛奶",
+      "en": "I don't tolerate milk."
+    },
+    {
+      "id": 172,
+      "start": 450.78000000000003,
+      "end": 450.98,
+      "ts": "07:30.780 -> 07:30.980",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 173,
+      "start": 450.98,
+      "end": 451.34000000000003,
+      "ts": "07:30.980 -> 07:31.340",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 174,
+      "start": 451.34000000000003,
+      "end": 452.26000000000005,
+      "ts": "07:31.340 -> 07:32.260",
+      "jp": "例えばですよ",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ですよ",
+      "zh": "比如吧",
+      "en": "For example,"
+    },
+    {
+      "id": 175,
+      "start": 452.26000000000005,
+      "end": 452.82000000000005,
+      "ts": "07:32.260 -> 07:32.820",
+      "jp": "味噌汁",
+      "jp_html": "<ruby>味噌汁<rt>みそしる</rt></ruby>",
+      "zh": "味噌汤",
+      "en": "miso soup"
+    },
+    {
+      "id": 176,
+      "start": 452.82000000000005,
+      "end": 454.26000000000005,
+      "ts": "07:32.820 -> 07:34.260",
+      "jp": "とか",
+      "jp_html": "とか",
+      "zh": "或者",
+      "en": "or"
+    },
+    {
+      "id": 177,
+      "start": 454.26000000000005,
+      "end": 455.42,
+      "ts": "07:34.260 -> 07:35.420",
+      "jp": "わかめご飯",
+      "jp_html": "わかめご<ruby>飯<rt>めし</rt></ruby>",
+      "zh": "海带饭",
+      "en": "kombu-gohan"
+    },
+    {
+      "id": 178,
+      "start": 455.42,
+      "end": 456.84000000000003,
+      "ts": "07:35.420 -> 07:36.840",
+      "jp": "味噌汁と",
+      "jp_html": "<ruby>味噌汁<rt>みそしる</rt></ruby>と",
+      "zh": "味噌汤和",
+      "en": "Miso soup and"
+    },
+    {
+      "id": 179,
+      "start": 456.84000000000003,
+      "end": 458.04,
+      "ts": "07:36.840 -> 07:38.040",
+      "jp": "わかめご飯と",
+      "jp_html": "わかめご<ruby>飯<rt>めし</rt></ruby>と",
+      "zh": "海带饭和",
+      "en": "kombu-gohanとにかわらず"
+    },
+    {
+      "id": 180,
+      "start": 458.04,
+      "end": 459.06,
+      "ts": "07:38.040 -> 07:39.060",
+      "jp": "あとは魚",
+      "jp_html": "あとは<ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "剩下的就是鱼",
+      "en": "The rest is fish."
+    },
+    {
+      "id": 181,
+      "start": 459.06,
+      "end": 461.82000000000005,
+      "ts": "07:39.060 -> 07:41.820",
+      "jp": "焼いた魚ですね",
+      "jp_html": "<ruby>焼い<rt>やい</rt></ruby>た<ruby>魚<rt>さかな</rt></ruby>ですね",
+      "zh": "烤过的鱼吧",
+      "en": "It's baked fish, right?"
+    },
+    {
+      "id": 182,
+      "start": 461.82000000000005,
+      "end": 462.62,
+      "ts": "07:41.820 -> 07:42.620",
+      "jp": "焼き魚",
+      "jp_html": "<ruby>焼き魚<rt>やきざかな</rt></ruby>",
+      "zh": "烤鱼",
+      "en": "Grilled fish"
+    },
+    {
+      "id": 183,
+      "start": 462.62,
+      "end": 464.06,
+      "ts": "07:42.620 -> 07:44.060",
+      "jp": "そういう",
+      "jp_html": "そういう",
+      "zh": "这样的",
+      "en": "That's it"
+    },
+    {
+      "id": 184,
+      "start": 464.06,
+      "end": 465.42,
+      "ts": "07:44.060 -> 07:45.420",
+      "jp": "給食の日に",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>の<ruby>日<rt>にち</rt></ruby>に",
+      "zh": "给食日",
+      "en": "School Lunch Day"
+    },
+    {
+      "id": 185,
+      "start": 465.42,
+      "end": 466.86,
+      "ts": "07:45.420 -> 07:46.860",
+      "jp": "まあ牛乳なんですよね",
+      "jp_html": "まあ<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>なんですよね",
+      "zh": "毕竟还是牛奶呢",
+      "en": "Well, it is milk, isn't it?"
+    },
+    {
+      "id": 186,
+      "start": 466.86,
+      "end": 468.72,
+      "ts": "07:46.860 -> 07:48.720",
+      "jp": "いつも牛乳だから",
+      "jp_html": "いつも<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>だから",
+      "zh": "总是牛奶所以",
+      "en": "It's always milk because"
+    },
+    {
+      "id": 187,
+      "start": 468.72,
+      "end": 470.5,
+      "ts": "07:48.720 -> 07:50.500",
+      "jp": "牛乳と",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>と",
+      "zh": "牛奶和",
+      "en": "milk and"
+    },
+    {
+      "id": 188,
+      "start": 470.5,
+      "end": 471.22,
+      "ts": "07:50.500 -> 07:51.220",
+      "jp": "パンとか",
+      "jp_html": "パンとか",
+      "zh": "面包之类的",
+      "en": "bread or cakes"
+    },
+    {
+      "id": 189,
+      "start": 471.22,
+      "end": 472.88,
+      "ts": "07:51.220 -> 07:52.880",
+      "jp": "牛乳と",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>と",
+      "zh": "牛奶和",
+      "en": "milk and"
+    },
+    {
+      "id": 190,
+      "start": 472.88,
+      "end": 473.78000000000003,
+      "ts": "07:52.880 -> 07:53.780",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 191,
+      "start": 473.78000000000003,
+      "end": 475.0,
+      "ts": "07:53.780 -> 07:55.000",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 192,
+      "start": 475.0,
+      "end": 476.54,
+      "ts": "07:55.000 -> 07:56.540",
+      "jp": "パンね",
+      "jp_html": "パンね",
+      "zh": "面包",
+      "en": "bread"
+    },
+    {
+      "id": 193,
+      "start": 476.54,
+      "end": 478.22,
+      "ts": "07:56.540 -> 07:58.220",
+      "jp": "パンの時は牛乳はいいけど",
+      "jp_html": "パンの<ruby>時<rt>とき</rt></ruby>は<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>はいいけど",
+      "zh": "吃面包的时候牛奶不错",
+      "en": "When it's bread, milk is good though"
+    },
+    {
+      "id": 194,
+      "start": 478.22,
+      "end": 479.78000000000003,
+      "ts": "07:58.220 -> 07:59.780",
+      "jp": "ご飯の時に",
+      "jp_html": "ご<ruby>飯<rt>めし</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "吃饭时",
+      "en": "When eating饭 (meal)"
+    },
+    {
+      "id": 195,
+      "start": 479.78000000000003,
+      "end": 481.62,
+      "ts": "07:59.780 -> 08:01.620",
+      "jp": "牛乳がちょっと変な感じが",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>がちょっと<ruby>変な<rt>へんな</rt></ruby><ruby>感じ<rt>かんじ</rt></ruby>が",
+      "zh": "牛奶有点奇怪的感觉",
+      "en": "The milk feels a little strange."
+    },
+    {
+      "id": 196,
+      "start": 481.62,
+      "end": 483.14,
+      "ts": "08:01.620 -> 08:03.140",
+      "jp": "しましたけど",
+      "jp_html": "しましたけど",
+      "zh": "做完了但是",
+      "en": "I did it but"
+    },
+    {
+      "id": 197,
+      "start": 483.14,
+      "end": 484.26,
+      "ts": "08:03.140 -> 08:04.260",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 198,
+      "start": 484.26,
+      "end": 485.52,
+      "ts": "08:04.260 -> 08:05.520",
+      "jp": "子供の",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の",
+      "zh": "孩子的",
+      "en": "Child"
+    },
+    {
+      "id": 199,
+      "start": 485.52,
+      "end": 487.21999999999997,
+      "ts": "08:05.520 -> 08:07.220",
+      "jp": "ためだからね",
+      "jp_html": "ためだからね",
+      "zh": "因为所以呢",
+      "en": "Because I want to."
+    },
+    {
+      "id": 200,
+      "start": 487.21999999999997,
+      "end": 488.71999999999997,
+      "ts": "08:07.220 -> 08:08.720",
+      "jp": "子供のためなので",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>のためなので",
+      "zh": "为了孩子",
+      "en": "It's for the children."
+    },
+    {
+      "id": 201,
+      "start": 488.71999999999997,
+      "end": 490.09999999999997,
+      "ts": "08:08.720 -> 08:10.100",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 202,
+      "start": 490.09999999999997,
+      "end": 491.59999999999997,
+      "ts": "08:10.100 -> 08:11.600",
+      "jp": "やっぱり牛乳は",
+      "jp_html": "やっぱり<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>は",
+      "zh": "果然牛奶是",
+      "en": "Surely milk is"
+    },
+    {
+      "id": 203,
+      "start": 491.59999999999997,
+      "end": 493.06,
+      "ts": "08:11.600 -> 08:13.060",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 204,
+      "start": 493.06,
+      "end": 493.76,
+      "ts": "08:13.060 -> 08:13.760",
+      "jp": "たくさんの",
+      "jp_html": "たくさんの",
+      "zh": "很多",
+      "en": "many"
+    },
+    {
+      "id": 205,
+      "start": 493.76,
+      "end": 494.53999999999996,
+      "ts": "08:13.760 -> 08:14.540",
+      "jp": "タンパク質",
+      "jp_html": "タンパク<ruby>質<rt>しつ</rt></ruby>",
+      "zh": "蛋白质",
+      "en": "protein"
+    },
+    {
+      "id": 206,
+      "start": 494.53999999999996,
+      "end": 495.53999999999996,
+      "ts": "08:14.540 -> 08:15.540",
+      "jp": "プロテインね",
+      "jp_html": "プロテインね",
+      "zh": "蛋白质呢",
+      "en": "Protein ne"
+    },
+    {
+      "id": 207,
+      "start": 495.53999999999996,
+      "end": 496.65999999999997,
+      "ts": "08:15.540 -> 08:16.660",
+      "jp": "タンパク質と",
+      "jp_html": "タンパク<ruby>質<rt>しつ</rt></ruby>と",
+      "zh": "蛋白质和",
+      "en": "protein and"
+    },
+    {
+      "id": 208,
+      "start": 496.65999999999997,
+      "end": 497.53999999999996,
+      "ts": "08:16.660 -> 08:17.540",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 209,
+      "start": 497.53999999999996,
+      "end": 498.52,
+      "ts": "08:17.540 -> 08:18.520",
+      "jp": "ビタミンとか",
+      "jp_html": "ビタミンとか",
+      "zh": "维生素等等",
+      "en": "Vitamins"
+    },
+    {
+      "id": 210,
+      "start": 498.52,
+      "end": 500.84,
+      "ts": "08:18.520 -> 08:20.840",
+      "jp": "あとカルシウム",
+      "jp_html": "あとカルシウム",
+      "zh": "还有钙",
+      "en": "And calcium"
+    },
+    {
+      "id": 211,
+      "start": 500.84,
+      "end": 501.36,
+      "ts": "08:20.840 -> 08:21.360",
+      "jp": "ですよね",
+      "jp_html": "ですよね",
+      "zh": "呢",
+      "en": "Isn't it so?"
+    },
+    {
+      "id": 212,
+      "start": 501.36,
+      "end": 502.94,
+      "ts": "08:21.360 -> 08:22.940",
+      "jp": "入ってるので",
+      "jp_html": "<ruby>入っ<rt>いっっ</rt></ruby>てるので",
+      "zh": "进去了所以",
+      "en": "They're already inside."
+    },
+    {
+      "id": 213,
+      "start": 502.94,
+      "end": 503.96,
+      "ts": "08:22.940 -> 08:23.960",
+      "jp": "子供の",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の",
+      "zh": "孩子的",
+      "en": "children's"
+    },
+    {
+      "id": 214,
+      "start": 503.96,
+      "end": 505.82,
+      "ts": "08:23.960 -> 08:25.820",
+      "jp": "成長のために",
+      "jp_html": "<ruby>成長<rt>せいちょう</rt></ruby>のために",
+      "zh": "为了成长",
+      "en": "To grow"
+    },
+    {
+      "id": 215,
+      "start": 505.82,
+      "end": 507.02,
+      "ts": "08:25.820 -> 08:27.020",
+      "jp": "牛乳は",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>は",
+      "zh": "牛奶是",
+      "en": "Milk is"
+    },
+    {
+      "id": 216,
+      "start": 507.02,
+      "end": 508.02,
+      "ts": "08:27.020 -> 08:28.020",
+      "jp": "いいですよね",
+      "jp_html": "いいですよね",
+      "zh": "不错吧",
+      "en": "Isn't it good?"
+    },
+    {
+      "id": 217,
+      "start": 508.02,
+      "end": 509.0,
+      "ts": "08:28.020 -> 08:29.000",
+      "jp": "だから",
+      "jp_html": "だから",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 218,
+      "start": 509.0,
+      "end": 509.9,
+      "ts": "08:29.000 -> 08:29.900",
+      "jp": "日本の",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の",
+      "zh": "日本",
+      "en": "Japanese"
+    },
+    {
+      "id": 219,
+      "start": 509.9,
+      "end": 510.7,
+      "ts": "08:29.900 -> 08:30.700",
+      "jp": "給食では",
+      "jp_html": "<ruby>給食<rt>きゅうしょく</rt></ruby>では",
+      "zh": "供餐中",
+      "en": "School lunch program"
+    },
+    {
+      "id": 220,
+      "start": 510.7,
+      "end": 511.59999999999997,
+      "ts": "08:30.700 -> 08:31.600",
+      "jp": "いつもいつも",
+      "jp_html": "いつもいつも",
+      "zh": "总是总是",
+      "en": "Always always"
+    },
+    {
+      "id": 221,
+      "start": 511.59999999999997,
+      "end": 512.42,
+      "ts": "08:31.600 -> 08:32.420",
+      "jp": "牛乳が",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>が",
+      "zh": "牛奶가",
+      "en": "Milk is"
+    },
+    {
+      "id": 222,
+      "start": 512.42,
+      "end": 513.1999999999999,
+      "ts": "08:32.420 -> 08:33.200",
+      "jp": "出ます",
+      "jp_html": "<ruby>出ま<rt>でま</rt></ruby>す",
+      "zh": "出去了",
+      "en": "Comes out"
+    },
+    {
+      "id": 223,
+      "start": 513.1999999999999,
+      "end": 514.7199999999999,
+      "ts": "08:33.200 -> 08:34.720",
+      "jp": "毎日毎日",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>",
+      "zh": "天天adayaday",
+      "en": "Day by day"
+    },
+    {
+      "id": 224,
+      "start": 514.7199999999999,
+      "end": 516.06,
+      "ts": "08:34.720 -> 08:36.060",
+      "jp": "牛乳を飲みます",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby>ます",
+      "zh": "喝牛奶",
+      "en": "I drink milk."
+    },
+    {
+      "id": 225,
+      "start": 516.06,
+      "end": 517.62,
+      "ts": "08:36.060 -> 08:37.620",
+      "jp": "そして子供たちは",
+      "jp_html": "そして<ruby>子供<rt>こども</rt></ruby>たちは",
+      "zh": "然后孩子们",
+      "en": "And the children are"
+    },
+    {
+      "id": 226,
+      "start": 517.62,
+      "end": 518.54,
+      "ts": "08:37.620 -> 08:38.540",
+      "jp": "大きく",
+      "jp_html": "<ruby>大きく<rt>おおきく</rt></ruby>",
+      "zh": "大",
+      "en": "big"
+    },
+    {
+      "id": 227,
+      "start": 518.54,
+      "end": 519.78,
+      "ts": "08:38.540 -> 08:39.780",
+      "jp": "なっていきます",
+      "jp_html": "なっていきます",
+      "zh": "会逐渐变成",
+      "en": "will transform"
+    },
+    {
+      "id": 228,
+      "start": 519.78,
+      "end": 521.9399999999999,
+      "ts": "08:39.780 -> 08:41.940",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 229,
+      "start": 521.9399999999999,
+      "end": 523.02,
+      "ts": "08:41.940 -> 08:43.020",
+      "jp": "僕の子供は",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は",
+      "zh": "我的孩子是",
+      "en": "My child is"
+    },
+    {
+      "id": 230,
+      "start": 523.02,
+      "end": 523.62,
+      "ts": "08:43.020 -> 08:43.620",
+      "jp": "ちょっとまだ",
+      "jp_html": "ちょっとまだ",
+      "zh": "稍微等等",
+      "en": "Just a moment still"
+    },
+    {
+      "id": 231,
+      "start": 523.62,
+      "end": 526.12,
+      "ts": "08:43.620 -> 08:46.120",
+      "jp": "大きくないけどね",
+      "jp_html": "<ruby>大きく<rt>おおきく</rt></ruby>ないけどね",
+      "zh": "虽然不大呢",
+      "en": "It's not big, though."
+    },
+    {
+      "id": 232,
+      "start": 526.12,
+      "end": 527.66,
+      "ts": "08:46.120 -> 08:47.660",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 233,
+      "start": 527.66,
+      "end": 528.56,
+      "ts": "08:47.660 -> 08:48.560",
+      "jp": "もっとたくさん",
+      "jp_html": "もっとたくさん",
+      "zh": "更多一些",
+      "en": "more"
+    },
+    {
+      "id": 234,
+      "start": 528.56,
+      "end": 529.0799999999999,
+      "ts": "08:48.560 -> 08:49.080",
+      "jp": "食べて",
+      "jp_html": "<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "吃",
+      "en": "eat"
+    },
+    {
+      "id": 235,
+      "start": 529.0799999999999,
+      "end": 530.24,
+      "ts": "08:49.080 -> 08:50.240",
+      "jp": "大きくなって",
+      "jp_html": "<ruby>大きく<rt>おおきく</rt></ruby>なって",
+      "zh": "长大了",
+      "en": "grow up"
+    },
+    {
+      "id": 236,
+      "start": 530.24,
+      "end": 530.8199999999999,
+      "ts": "08:50.240 -> 08:50.820",
+      "jp": "ほしいと",
+      "jp_html": "ほしいと",
+      "zh": "希望",
+      "en": "want"
+    },
+    {
+      "id": 237,
+      "start": 530.8199999999999,
+      "end": 532.64,
+      "ts": "08:50.820 -> 08:52.640",
+      "jp": "思いますね",
+      "jp_html": "<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "是这样吧",
+      "en": "I think, ne?"
+    },
+    {
+      "id": 238,
+      "start": 532.64,
+      "end": 533.8199999999999,
+      "ts": "08:52.640 -> 08:53.820",
+      "jp": "それでは",
+      "jp_html": "それでは",
+      "zh": "那么",
+      "en": "Let's proceed."
+    },
+    {
+      "id": 239,
+      "start": 533.8199999999999,
+      "end": 534.7199999999999,
+      "ts": "08:53.820 -> 08:54.720",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}
