@@ -1,0 +1,278 @@
+:root {
+  --bg: #f6f1de;
+  --panel: #fffdf7;
+  --border: #ddd2b1;
+  --text: #2f2b22;
+  --muted: #8b8068;
+  --accent: #d4a017;
+  --accent-soft: #fff4c4;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: "Hiragino Sans", "Noto Sans CJK SC", "Arial", sans-serif;
+  background:
+    radial-gradient(circle at top left, #fff8dc 0, #fff8dc 18%, transparent 45%),
+    linear-gradient(180deg, #efe4bd 0%, var(--bg) 18%, #f8f4e7 100%);
+  color: var(--text);
+}
+
+.app-shell {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+}
+
+.episode-panel {
+  border-right: 1px solid var(--border);
+  background: rgba(255, 252, 243, 0.84);
+  backdrop-filter: blur(8px);
+  padding: 20px 16px;
+  overflow-y: auto;
+}
+
+.panel-title {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 16px;
+}
+
+.episode-list {
+  display: grid;
+  gap: 10px;
+}
+
+.episode-button {
+  width: 100%;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 14px;
+  text-align: left;
+  padding: 12px 14px;
+  cursor: pointer;
+  transition: transform 120ms ease, border-color 120ms ease, background 120ms ease;
+}
+
+.episode-button:hover {
+  transform: translateY(-1px);
+  border-color: var(--accent);
+}
+
+.episode-button.active {
+  border-color: var(--accent);
+  background: #fff6d6;
+}
+
+.episode-id {
+  display: block;
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 4px;
+}
+
+.episode-name {
+  display: block;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.player-panel {
+  min-width: 0;
+  min-height: 0;
+  height: 100vh;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.player-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 18px;
+  flex: 0 0 auto;
+}
+
+.eyebrow {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 28px;
+  line-height: 1.2;
+}
+
+.source-link {
+  display: inline-block;
+  margin-top: 8px;
+  color: #7a5d0a;
+  text-decoration: none;
+}
+
+.source-link:hover {
+  text-decoration: underline;
+}
+
+.furigana-toggle {
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 10px 14px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.audio-card {
+  border: 1px solid var(--border);
+  background: rgba(255, 253, 247, 0.95);
+  border-radius: 18px;
+  padding: 16px;
+  margin-bottom: 18px;
+  box-shadow: 0 10px 30px rgba(98, 82, 32, 0.08);
+  flex: 0 0 auto;
+}
+
+#audio-player {
+  width: 100%;
+}
+
+.player-status {
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.subtitle-list {
+  display: grid;
+  gap: 0;
+  min-height: 0;
+  flex: 1 1 auto;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: rgba(255, 253, 247, 0.95);
+  box-shadow: 0 10px 30px rgba(98, 82, 32, 0.08);
+  overscroll-behavior: contain;
+}
+
+.subtitle-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(280px, 1fr);
+  border-bottom: 1px solid #ebdfbc;
+  transition: background 120ms ease;
+}
+
+.subtitle-row:last-child {
+  border-bottom: none;
+}
+
+.subtitle-row.active {
+  background: var(--accent-soft);
+}
+
+.subtitle-jp-cell,
+.subtitle-trans-cell {
+  padding: 12px 14px;
+}
+
+.subtitle-trans-cell {
+  border-left: 1px solid #ebdfbc;
+}
+
+.subtitle-row.active .subtitle-jp-cell {
+  border-left: 4px solid var(--accent);
+  padding-left: 10px;
+}
+
+.subtitle-ts {
+  font-size: 10px;
+  color: #b3a88a;
+  margin-bottom: 4px;
+}
+
+.subtitle-jp {
+  font-size: 18px;
+  line-height: 2.35;
+}
+
+.subtitle-jp rt {
+  font-size: 10px;
+  color: #8c8574;
+}
+
+.subtitle-en,
+.subtitle-zh {
+  font-size: 13px;
+  line-height: 1.6;
+  color: #39342a;
+}
+
+.subtitle-zh {
+  margin-top: 6px;
+}
+
+body.hide-furigana .subtitle-jp {
+  line-height: 1.7;
+}
+
+body.hide-furigana .subtitle-jp rt {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  body {
+    overflow: auto;
+  }
+
+  .app-shell {
+    height: auto;
+    min-height: 100vh;
+    grid-template-columns: 1fr;
+  }
+
+  .episode-panel {
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    max-height: 240px;
+  }
+
+  .player-panel {
+    height: auto;
+    min-height: 0;
+  }
+
+  .subtitle-list {
+    max-height: 60vh;
+  }
+
+  .subtitle-row {
+    grid-template-columns: 1fr;
+  }
+
+  .subtitle-trans-cell {
+    border-left: none;
+    border-top: 1px solid #ebdfbc;
+  }
+}

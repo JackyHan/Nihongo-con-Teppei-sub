@@ -1,0 +1,3108 @@
+{
+  "id": "1519",
+  "title": "#1519「壁（かべ）、床（ゆか）、天井（てんじょう）について！」",
+  "audio_url": "http://media.blubrry.com/nihongo_con_teppei/p/nihongoconteppei.com/wp-content/uploads/2026/05/Beginners-con-Teppei1519.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/05/16/1519%E3%80%8C%E5%A3%81%EF%BC%88%E3%81%8B%E3%81%B9%EF%BC%89%E3%80%81%E5%BA%8A%EF%BC%88%E3%82%86%E3%81%8B%EF%BC%89%E3%80%81%E5%A4%A9%E4%BA%95%EF%BC%88%E3%81%A6%E3%82%93%E3%81%98%E3%82%87%E3%81%86%EF%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%81/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.7,
+      "ts": "00:00.000 -> 00:03.700",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.7,
+      "end": 11.34,
+      "ts": "00:03.700 -> 00:11.340",
+      "jp": "今日は壁、床、そして天井について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>壁<rt>かべ</rt></ruby>、<ruby>床<rt>とこ</rt></ruby>、そして<ruby>天井<rt>てんじょう</rt></ruby>について",
+      "zh": "今天关于墙壁、地面以及天花板",
+      "en": "Today about walls, floors, and ceilings"
+    },
+    {
+      "id": 2,
+      "start": 11.34,
+      "end": 15.28,
+      "ts": "00:11.340 -> 00:15.280",
+      "jp": "はい、皆さんおはようございます",
+      "jp_html": "はい、<ruby>皆さん<rt>みなさん</rt></ruby>おはようございます",
+      "zh": "大家好，早上好",
+      "en": "Yes, good morning everyone"
+    },
+    {
+      "id": 3,
+      "start": 15.28,
+      "end": 24.12,
+      "ts": "00:15.280 -> 00:24.120",
+      "jp": "今日は壁、床、そして天井について話したいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>壁<rt>かべ</rt></ruby>、<ruby>床<rt>とこ</rt></ruby>、そして<ruby>天井<rt>てんじょう</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "今天我想谈谈墙、地板以及天花板",
+      "en": "I want to talk about walls, floors, and ceilings today."
+    },
+    {
+      "id": 4,
+      "start": 25.12,
+      "end": 27.66,
+      "ts": "00:25.120 -> 00:27.660",
+      "jp": "日本の家についてですね",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>についてですね",
+      "zh": "关于日本的房屋",
+      "en": "About Japanese homes."
+    },
+    {
+      "id": 5,
+      "start": 27.66,
+      "end": 29.92,
+      "ts": "00:27.660 -> 00:29.920",
+      "jp": "日本の部屋についてですね",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>についてですね",
+      "zh": "关于日本的房间",
+      "en": "About the rooms in Japan."
+    },
+    {
+      "id": 6,
+      "start": 29.92,
+      "end": 35.1,
+      "ts": "00:29.920 -> 00:35.100",
+      "jp": "壁、壁ですね",
+      "jp_html": "<ruby>壁<rt>かべ</rt></ruby>、<ruby>壁<rt>かべ</rt></ruby>ですね",
+      "zh": "墙、墙呢",
+      "en": "Wall, wall, indeed."
+    },
+    {
+      "id": 7,
+      "start": 35.1,
+      "end": 40.44,
+      "ts": "00:35.100 -> 00:40.440",
+      "jp": "壁は家の中、部屋の中にあるでしょ",
+      "jp_html": "<ruby>壁<rt>かべ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、<ruby>部屋<rt>へや</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>あるでしょ",
+      "zh": "墙在房子里面、在房间里面吧",
+      "en": "Walls are in the house, in the rooms, right?"
+    },
+    {
+      "id": 8,
+      "start": 40.44,
+      "end": 45.5,
+      "ts": "00:40.440 -> 00:45.500",
+      "jp": "隣の部屋と自分の部屋の",
+      "jp_html": "<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>と<ruby>自分<rt>じぶん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>の",
+      "zh": "隔壁和自己的房间",
+      "en": "The room next door and my room"
+    },
+    {
+      "id": 9,
+      "start": 45.5,
+      "end": 48.4,
+      "ts": "00:45.500 -> 00:48.400",
+      "jp": "その間にあるのが壁ですね",
+      "jp_html": "その<ruby>間に<rt>まに</rt></ruby>あるのが<ruby>壁<rt>かべ</rt></ruby>ですね",
+      "zh": "那中间的就是墙壁吧",
+      "en": "That's where the wall is located."
+    },
+    {
+      "id": 10,
+      "start": 48.4,
+      "end": 57.58,
+      "ts": "00:48.400 -> 00:57.580",
+      "jp": "壁は結構薄い壁が多いですね",
+      "jp_html": "<ruby>壁<rt>かべ</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>薄い<rt>うすい</rt></ruby><ruby>壁<rt>かべ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ですね",
+      "zh": "墙壁大多相当薄。",
+      "en": "Most walls are quite thin."
+    },
+    {
+      "id": 11,
+      "start": 57.58,
+      "end": 65.76,
+      "ts": "00:57.580 -> 01:05.760",
+      "jp": "僕が今住んでいる部屋の壁はめちゃめちゃ薄いです",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>今<rt>いま</rt></ruby><ruby>住ん<rt>すん</rt></ruby>でいる<ruby>部屋<rt>へや</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>はめちゃめちゃ<ruby>薄い<rt>うすい</rt></ruby>です",
+      "zh": "我现在的房间的墙壁非常薄",
+      "en": "The walls of the room I'm living in are incredibly thin."
+    },
+    {
+      "id": 12,
+      "start": 65.76,
+      "end": 70.1,
+      "ts": "01:05.760 -> 01:10.100",
+      "jp": "ほとんど意味がない壁ですね",
+      "jp_html": "ほとんど<ruby>意味<rt>いみ</rt></ruby>がない<ruby>壁<rt>かべ</rt></ruby>ですね",
+      "zh": "这几乎是个没有意义的墙吧",
+      "en": "It's a wall with almost no meaning, huh?"
+    },
+    {
+      "id": 13,
+      "start": 70.1,
+      "end": 74.64,
+      "ts": "01:10.100 -> 01:14.640",
+      "jp": "僕は家に住んでます",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>家<rt>いえ</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でます",
+      "zh": "我住在家里",
+      "en": "I live at home."
+    },
+    {
+      "id": 14,
+      "start": 74.64,
+      "end": 76.28,
+      "ts": "01:14.640 -> 01:16.280",
+      "jp": "家を借りています",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>を<ruby>借り<rt>かり</rt></ruby>ています",
+      "zh": "我租房子住",
+      "en": "I am renting a house."
+    },
+    {
+      "id": 15,
+      "start": 76.28,
+      "end": 83.52,
+      "ts": "01:16.280 -> 01:23.520",
+      "jp": "この家の壁は本当に薄いです",
+      "jp_html": "この<ruby>家<rt>いえ</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>薄い<rt>うすい</rt></ruby>です",
+      "zh": "这家的墙真的很薄",
+      "en": "The walls of this house are really thin."
+    },
+    {
+      "id": 16,
+      "start": 83.52,
+      "end": 88.7,
+      "ts": "01:23.520 -> 01:28.700",
+      "jp": "例えば僕の子供が隣の部屋にいて",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>にいて",
+      "zh": "比如我的孩子在隔壁房间里",
+      "en": "For example, my child is in the next room."
+    },
+    {
+      "id": 17,
+      "start": 88.7,
+      "end": 94.88,
+      "ts": "01:28.700 -> 01:34.880",
+      "jp": "鼻水を噛みますね",
+      "jp_html": "<ruby>鼻水<rt>はなみず</rt></ruby>を<ruby>噛み<rt>かみ</rt></ruby>ますね",
+      "zh": "他在咬鼻涕呢。",
+      "en": "He's sucking his nose."
+    },
+    {
+      "id": 18,
+      "start": 94.88,
+      "end": 99.48,
+      "ts": "01:34.880 -> 01:39.480",
+      "jp": "鼻、鼻水とか、あとくしゃみ",
+      "jp_html": "<ruby>鼻<rt>はな</rt></ruby>、<ruby>鼻水<rt>はなみず</rt></ruby>とか、あとくしゃみ",
+      "zh": "鼻子、鼻涕，还有打喷嚏",
+      "en": "nose, runny nose, and sneezing"
+    },
+    {
+      "id": 19,
+      "start": 99.48,
+      "end": 101.22,
+      "ts": "01:39.480 -> 01:41.220",
+      "jp": "くしゅんとかね",
+      "jp_html": "くしゅんとかね",
+      "zh": "震感或金钱",
+      "en": "shunjiu and kane"
+    },
+    {
+      "id": 20,
+      "start": 101.22,
+      "end": 102.3,
+      "ts": "01:41.220 -> 01:42.300",
+      "jp": "全然聞こえます",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>聞こ<rt>きこ</rt></ruby>えます",
+      "zh": "全然听得到",
+      "en": "I can hear you perfectly."
+    },
+    {
+      "id": 21,
+      "start": 102.3,
+      "end": 103.88,
+      "ts": "01:42.300 -> 01:43.880",
+      "jp": "普通に聞こえます",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>に<ruby>聞こ<rt>きこ</rt></ruby>えます",
+      "zh": "听起来很普通",
+      "en": "It sounds ordinary."
+    },
+    {
+      "id": 22,
+      "start": 103.88,
+      "end": 106.88,
+      "ts": "01:43.880 -> 01:46.880",
+      "jp": "僕の奥さんが隣の部屋で",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>が<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>で",
+      "zh": "我的妻子在隔壁房间",
+      "en": "My wife is in the next room."
+    },
+    {
+      "id": 23,
+      "start": 106.88,
+      "end": 110.48,
+      "ts": "01:46.880 -> 01:50.480",
+      "jp": "電話をしてたら全部聞こえます",
+      "jp_html": "<ruby>電話<rt>でんわ</rt></ruby>をしてたら<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>聞こ<rt>きこ</rt></ruby>えます",
+      "zh": "打电话时都能听到",
+      "en": "If I answer the call, I can hear everything."
+    },
+    {
+      "id": 24,
+      "start": 110.48,
+      "end": 114.38,
+      "ts": "01:50.480 -> 01:54.380",
+      "jp": "この壁は薄すぎる",
+      "jp_html": "この<ruby>壁<rt>かべ</rt></ruby>は<ruby>薄<rt>はく</rt></ruby>すぎる",
+      "zh": "这面墙太薄了",
+      "en": "This wall is too thin."
+    },
+    {
+      "id": 25,
+      "start": 114.38,
+      "end": 117.94,
+      "ts": "01:54.380 -> 01:57.940",
+      "jp": "家の壁は本当に薄いです",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>薄い<rt>うすい</rt></ruby>です",
+      "zh": "家里的墙壁真的非常薄",
+      "en": "The walls of the house are really thin."
+    },
+    {
+      "id": 26,
+      "start": 117.94,
+      "end": 121.86,
+      "ts": "01:57.940 -> 02:01.860",
+      "jp": "僕の家の隣にアパートがあります",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>にアパートがあります",
+      "zh": "我家旁边有一个公寓",
+      "en": "There is an apartment next to my house."
+    },
+    {
+      "id": 27,
+      "start": 121.86,
+      "end": 126.08,
+      "ts": "02:01.860 -> 02:06.080",
+      "jp": "そこに人が住んでいます",
+      "jp_html": "そこに<ruby>人<rt>にん</rt></ruby>が<ruby>住ん<rt>すん</rt></ruby>でいます",
+      "zh": "那里有人住。",
+      "en": "There is someone living there."
+    },
+    {
+      "id": 28,
+      "start": 126.08,
+      "end": 129.72,
+      "ts": "02:06.080 -> 02:09.720",
+      "jp": "その人が電子レンジ",
+      "jp_html": "その<ruby>人<rt>にん</rt></ruby>が<ruby>電子レンジ<rt>でんしれんじ</rt></ruby>",
+      "zh": "那个人微波炉",
+      "en": "That person used the microwave."
+    },
+    {
+      "id": 29,
+      "start": 129.72,
+      "end": 131.54,
+      "ts": "02:09.720 -> 02:11.540",
+      "jp": "マイクロウェーブ",
+      "jp_html": "マイクロウェーブ",
+      "zh": "微波",
+      "en": "Microwave"
+    },
+    {
+      "id": 30,
+      "start": 131.54,
+      "end": 133.16,
+      "ts": "02:11.540 -> 02:13.160",
+      "jp": "電子レンジを使うと",
+      "jp_html": "<ruby>電子レンジ<rt>でんしれんじ</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>と",
+      "zh": "使用微波炉可以",
+      "en": "Using the microwave will"
+    },
+    {
+      "id": 31,
+      "start": 133.16,
+      "end": 137.92,
+      "ts": "02:13.160 -> 02:17.920",
+      "jp": "チーンという音が聞こえます",
+      "jp_html": "チーンという<ruby>音<rt>おと</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えます",
+      "zh": "听到了一声清脆的声音",
+      "en": "I hear a swooshing sound."
+    },
+    {
+      "id": 32,
+      "start": 137.92,
+      "end": 139.96,
+      "ts": "02:17.920 -> 02:19.960",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 33,
+      "start": 139.96,
+      "end": 143.48,
+      "ts": "02:19.960 -> 02:23.480",
+      "jp": "この家の壁と",
+      "jp_html": "この<ruby>家<rt>いえ</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>と",
+      "zh": "这座房子的墙壁和",
+      "en": "The walls of this house and"
+    },
+    {
+      "id": 34,
+      "start": 143.48,
+      "end": 146.66,
+      "ts": "02:23.480 -> 02:26.660",
+      "jp": "あとは隣のアパートの壁は",
+      "jp_html": "あとは<ruby>隣<rt>となり</rt></ruby>のアパートの<ruby>壁<rt>かべ</rt></ruby>は",
+      "zh": "然后隔壁公寓的墙是",
+      "en": "The wall of the apartment next door is"
+    },
+    {
+      "id": 35,
+      "start": 146.66,
+      "end": 149.14,
+      "ts": "02:26.660 -> 02:29.140",
+      "jp": "本当に薄い",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>薄い<rt>うすい</rt></ruby>",
+      "zh": "真的很薄",
+      "en": "Truly very thin"
+    },
+    {
+      "id": 36,
+      "start": 149.14,
+      "end": 152.66,
+      "ts": "02:29.140 -> 02:32.660",
+      "jp": "本当に紙みたいな",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>紙<rt>かみ</rt></ruby>みたいな",
+      "zh": "真的像纸一样",
+      "en": "Truly like paper-like"
+    },
+    {
+      "id": 37,
+      "start": 152.66,
+      "end": 155.0,
+      "ts": "02:32.660 -> 02:35.000",
+      "jp": "紙みたいな薄さですね",
+      "jp_html": "<ruby>紙<rt>かみ</rt></ruby>みたいな<ruby>薄<rt>はく</rt></ruby>さですね",
+      "zh": "像纸一样薄吧",
+      "en": "It's like the thickness of paper, right?"
+    },
+    {
+      "id": 38,
+      "start": 155.0,
+      "end": 155.82,
+      "ts": "02:35.000 -> 02:35.820",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 39,
+      "start": 155.82,
+      "end": 157.68,
+      "ts": "02:35.820 -> 02:37.680",
+      "jp": "全部聞こえる",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>聞こ<rt>きこ</rt></ruby>える",
+      "zh": "全都听得见",
+      "en": "All can be heard"
+    },
+    {
+      "id": 40,
+      "start": 157.68,
+      "end": 158.82,
+      "ts": "02:37.680 -> 02:38.820",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 41,
+      "start": 158.82,
+      "end": 161.42,
+      "ts": "02:38.820 -> 02:41.420",
+      "jp": "床ね",
+      "jp_html": "<ruby>床<rt>とこ</rt></ruby>ね",
+      "zh": "床nego",
+      "en": "Bed"
+    },
+    {
+      "id": 42,
+      "start": 161.42,
+      "end": 162.22,
+      "ts": "02:41.420 -> 02:42.220",
+      "jp": "今度は床ですね",
+      "jp_html": "<ruby>今度<rt>こんど</rt></ruby>は<ruby>床<rt>とこ</rt></ruby>ですね",
+      "zh": "这次是地板呢",
+      "en": "This time it's the floor."
+    },
+    {
+      "id": 43,
+      "start": 162.22,
+      "end": 162.54,
+      "ts": "02:42.220 -> 02:42.540",
+      "jp": "床",
+      "jp_html": "<ruby>床<rt>とこ</rt></ruby>",
+      "zh": "床",
+      "en": "bed"
+    },
+    {
+      "id": 44,
+      "start": 162.54,
+      "end": 164.8,
+      "ts": "02:42.540 -> 02:44.800",
+      "jp": "床は",
+      "jp_html": "<ruby>床<rt>とこ</rt></ruby>は",
+      "zh": "床是",
+      "en": "The bed is"
+    },
+    {
+      "id": 45,
+      "start": 164.8,
+      "end": 165.46,
+      "ts": "02:44.800 -> 02:45.460",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 46,
+      "start": 165.46,
+      "end": 166.96,
+      "ts": "02:45.460 -> 02:46.960",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 47,
+      "start": 166.96,
+      "end": 167.56,
+      "ts": "02:46.960 -> 02:47.560",
+      "jp": "畳",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>",
+      "zh": "榻榻米",
+      "en": "Rug"
+    },
+    {
+      "id": 48,
+      "start": 167.56,
+      "end": 169.92,
+      "ts": "02:47.560 -> 02:49.920",
+      "jp": "畳の床と",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>の<ruby>床<rt>とこ</rt></ruby>と",
+      "zh": "榻榻米的地板和",
+      "en": "The floor of tatami mats and"
+    },
+    {
+      "id": 49,
+      "start": 169.92,
+      "end": 172.76,
+      "ts": "02:49.920 -> 02:52.760",
+      "jp": "フローリングの床があります",
+      "jp_html": "フローリングの<ruby>床<rt>とこ</rt></ruby>があります",
+      "zh": "有木地板地板。",
+      "en": "There is a wooden floor."
+    },
+    {
+      "id": 50,
+      "start": 172.76,
+      "end": 175.0,
+      "ts": "02:52.760 -> 02:55.000",
+      "jp": "僕の家は",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>は",
+      "zh": "我的家是",
+      "en": "My house is"
+    },
+    {
+      "id": 51,
+      "start": 175.0,
+      "end": 175.52,
+      "ts": "02:55.000 -> 02:55.520",
+      "jp": "全部",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>",
+      "zh": "全部",
+      "en": "All"
+    },
+    {
+      "id": 52,
+      "start": 175.52,
+      "end": 177.02,
+      "ts": "02:55.520 -> 02:57.020",
+      "jp": "フローリングです",
+      "jp_html": "フローリングです",
+      "zh": "木地板",
+      "en": "It's hardwood flooring."
+    },
+    {
+      "id": 53,
+      "start": 177.02,
+      "end": 178.5,
+      "ts": "02:57.020 -> 02:58.500",
+      "jp": "でも",
+      "jp_html": "でも",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 54,
+      "start": 178.5,
+      "end": 179.14,
+      "ts": "02:58.500 -> 02:59.140",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 55,
+      "start": 179.14,
+      "end": 180.86,
+      "ts": "02:59.140 -> 03:00.860",
+      "jp": "これはね",
+      "jp_html": "これはね",
+      "zh": "这是呢",
+      "en": "This is uh"
+    },
+    {
+      "id": 56,
+      "start": 180.86,
+      "end": 182.64,
+      "ts": "03:00.860 -> 03:02.640",
+      "jp": "もともとは",
+      "jp_html": "もともとは",
+      "zh": "最初是",
+      "en": "Originally"
+    },
+    {
+      "id": 57,
+      "start": 182.64,
+      "end": 183.78,
+      "ts": "03:02.640 -> 03:03.780",
+      "jp": "オリジナルは",
+      "jp_html": "オリジナルは",
+      "zh": "原创是",
+      "en": "The original is"
+    },
+    {
+      "id": 58,
+      "start": 183.78,
+      "end": 185.36,
+      "ts": "03:03.780 -> 03:05.360",
+      "jp": "多分畳です",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby><ruby>畳<rt>たたみ</rt></ruby>です",
+      "zh": "大概是榻榻米吧",
+      "en": "Probably it's tatami."
+    },
+    {
+      "id": 59,
+      "start": 185.36,
+      "end": 187.74,
+      "ts": "03:05.360 -> 03:07.740",
+      "jp": "畳の上に",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby>",
+      "zh": "铺在榻榻米上",
+      "en": "on the tatami mat"
+    },
+    {
+      "id": 60,
+      "start": 187.74,
+      "end": 189.5,
+      "ts": "03:07.740 -> 03:09.500",
+      "jp": "フローリングの",
+      "jp_html": "フローリングの",
+      "zh": "木地板的",
+      "en": "Flooring of"
+    },
+    {
+      "id": 61,
+      "start": 189.5,
+      "end": 190.58,
+      "ts": "03:09.500 -> 03:10.580",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 62,
+      "start": 190.58,
+      "end": 192.08,
+      "ts": "03:10.580 -> 03:12.080",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 63,
+      "start": 192.08,
+      "end": 193.46,
+      "ts": "03:12.080 -> 03:13.460",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "好吧",
+      "en": "Well"
+    },
+    {
+      "id": 64,
+      "start": 193.46,
+      "end": 194.34,
+      "ts": "03:13.460 -> 03:14.340",
+      "jp": "薄い",
+      "jp_html": "<ruby>薄い<rt>うすい</rt></ruby>",
+      "zh": "薄的",
+      "en": "thin"
+    },
+    {
+      "id": 65,
+      "start": 194.34,
+      "end": 195.66,
+      "ts": "03:14.340 -> 03:15.660",
+      "jp": "フローリングシート",
+      "jp_html": "フローリングシート",
+      "zh": "地板贴片",
+      "en": "Flooring sheet"
+    },
+    {
+      "id": 66,
+      "start": 195.66,
+      "end": 196.66,
+      "ts": "03:15.660 -> 03:16.660",
+      "jp": "みたいなのを",
+      "jp_html": "みたいなのを",
+      "zh": "像这样的东西",
+      "en": "like ones"
+    },
+    {
+      "id": 67,
+      "start": 196.66,
+      "end": 199.46,
+      "ts": "03:16.660 -> 03:19.460",
+      "jp": "乗せてるだけだと思う",
+      "jp_html": "<ruby>乗せ<rt>のせ</rt></ruby>てるだけだと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得只是搭便车而已",
+      "en": "I think they're just riding along."
+    },
+    {
+      "id": 68,
+      "start": 199.46,
+      "end": 201.42,
+      "ts": "03:19.460 -> 03:21.420",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "那个-Allow me to introduce myself.",
+      "en": "Um-"
+    },
+    {
+      "id": 69,
+      "start": 201.42,
+      "end": 202.76,
+      "ts": "03:21.420 -> 03:22.760",
+      "jp": "本当の木じゃないです",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>木<rt>き</rt></ruby>じゃないです",
+      "zh": "不是真的树",
+      "en": "It's not a real tree."
+    },
+    {
+      "id": 70,
+      "start": 202.76,
+      "end": 203.42,
+      "ts": "03:22.760 -> 03:23.420",
+      "jp": "これは",
+      "jp_html": "これは",
+      "zh": "这是",
+      "en": "This is"
+    },
+    {
+      "id": 71,
+      "start": 203.42,
+      "end": 205.8,
+      "ts": "03:23.420 -> 03:25.800",
+      "jp": "偽物の木でしょうね",
+      "jp_html": "<ruby>偽物<rt>にせもの</rt></ruby>の<ruby>木<rt>き</rt></ruby>でしょうね",
+      "zh": "应该是假木头吧",
+      "en": "It's probably fake wood."
+    },
+    {
+      "id": 72,
+      "start": 205.8,
+      "end": 207.26,
+      "ts": "03:25.800 -> 03:27.260",
+      "jp": "偽物の木を",
+      "jp_html": "<ruby>偽物<rt>にせもの</rt></ruby>の<ruby>木<rt>き</rt></ruby>を",
+      "zh": "假树",
+      "en": "fake tree to"
+    },
+    {
+      "id": 73,
+      "start": 207.26,
+      "end": 208.08,
+      "ts": "03:27.260 -> 03:28.080",
+      "jp": "木の",
+      "jp_html": "<ruby>木<rt>き</rt></ruby>の",
+      "zh": "木的",
+      "en": "tree"
+    },
+    {
+      "id": 74,
+      "start": 208.08,
+      "end": 209.26,
+      "ts": "03:28.080 -> 03:29.260",
+      "jp": "マット",
+      "jp_html": "マット",
+      "zh": "matt",
+      "en": "Matt"
+    },
+    {
+      "id": 75,
+      "start": 209.26,
+      "end": 210.52,
+      "ts": "03:29.260 -> 03:30.520",
+      "jp": "フローマット",
+      "jp_html": "フローマット",
+      "zh": "格式",
+      "en": "Flow format"
+    },
+    {
+      "id": 76,
+      "start": 210.52,
+      "end": 211.46,
+      "ts": "03:30.520 -> 03:31.460",
+      "jp": "みたいなものを",
+      "jp_html": "みたいなものを",
+      "zh": "像这样的东西",
+      "en": "like something"
+    },
+    {
+      "id": 77,
+      "start": 211.46,
+      "end": 213.46,
+      "ts": "03:31.460 -> 03:33.460",
+      "jp": "畳の上に",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby>",
+      "zh": "铺在榻榻米上",
+      "en": "on the tatami mat"
+    },
+    {
+      "id": 78,
+      "start": 213.46,
+      "end": 215.88,
+      "ts": "03:33.460 -> 03:35.880",
+      "jp": "敷いてるんだと思います",
+      "jp_html": "<ruby>敷い<rt>しい</rt></ruby>てるんだと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得是敷在上面的",
+      "en": "I think it's laid out."
+    },
+    {
+      "id": 79,
+      "start": 215.88,
+      "end": 217.26,
+      "ts": "03:35.880 -> 03:37.260",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 80,
+      "start": 217.26,
+      "end": 217.3,
+      "ts": "03:37.260 -> 03:37.300",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 81,
+      "start": 217.3,
+      "end": 218.58,
+      "ts": "03:37.300 -> 03:38.580",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 82,
+      "start": 218.58,
+      "end": 219.34,
+      "ts": "03:38.580 -> 03:39.340",
+      "jp": "たくさんの",
+      "jp_html": "たくさんの",
+      "zh": "很多",
+      "en": "many"
+    },
+    {
+      "id": 83,
+      "start": 219.34,
+      "end": 220.8,
+      "ts": "03:39.340 -> 03:40.800",
+      "jp": "外国人の人は",
+      "jp_html": "<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "外国的人",
+      "en": "Foreign people"
+    },
+    {
+      "id": 84,
+      "start": 220.8,
+      "end": 222.64,
+      "ts": "03:40.800 -> 03:42.640",
+      "jp": "畳が好きですよね",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>ですよね",
+      "zh": "榻榻米你喜欢吧",
+      "en": "Don't you like tatami?"
+    },
+    {
+      "id": 85,
+      "start": 222.64,
+      "end": 225.38,
+      "ts": "03:42.640 -> 03:45.380",
+      "jp": "僕も畳が好きです",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>畳<rt>たたみ</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>です",
+      "zh": "我也喜欢榻榻米。",
+      "en": "I also like tatami."
+    },
+    {
+      "id": 86,
+      "start": 225.38,
+      "end": 226.98,
+      "ts": "03:45.380 -> 03:46.980",
+      "jp": "好きだけど",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>だけど",
+      "zh": "我喜欢但",
+      "en": "I like it but"
+    },
+    {
+      "id": 87,
+      "start": 226.98,
+      "end": 228.94,
+      "ts": "03:46.980 -> 03:48.940",
+      "jp": "畳は",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>は",
+      "zh": "榻是",
+      "en": "Rug is"
+    },
+    {
+      "id": 88,
+      "start": 228.94,
+      "end": 231.32,
+      "ts": "03:48.940 -> 03:51.320",
+      "jp": "小さい子供がいると",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>子供<rt>こども</rt></ruby>がいると",
+      "zh": "有小孩",
+      "en": "There is a small child."
+    },
+    {
+      "id": 89,
+      "start": 231.32,
+      "end": 231.62,
+      "ts": "03:51.320 -> 03:51.620",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 90,
+      "start": 231.62,
+      "end": 234.24,
+      "ts": "03:51.620 -> 03:54.240",
+      "jp": "めんどくさいかもしれない",
+      "jp_html": "めんどくさいかもしれない",
+      "zh": "可能有点麻烦",
+      "en": "It might be troublesome."
+    },
+    {
+      "id": 91,
+      "start": 234.24,
+      "end": 235.98,
+      "ts": "03:54.240 -> 03:55.980",
+      "jp": "もし",
+      "jp_html": "もし",
+      "zh": "如果",
+      "en": "If"
+    },
+    {
+      "id": 92,
+      "start": 235.98,
+      "end": 237.2,
+      "ts": "03:55.980 -> 03:57.200",
+      "jp": "子供が",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が",
+      "zh": "孩子在",
+      "en": "The child is"
+    },
+    {
+      "id": 93,
+      "start": 237.2,
+      "end": 239.74,
+      "ts": "03:57.200 -> 03:59.740",
+      "jp": "牛乳をこぼしたり",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>をこぼしたり",
+      "zh": "把牛奶弄洒了",
+      "en": "To spill milk"
+    },
+    {
+      "id": 94,
+      "start": 239.74,
+      "end": 242.86,
+      "ts": "03:59.740 -> 04:02.860",
+      "jp": "オレンジジュースをこぼしたり",
+      "jp_html": "オレンジジュースをこぼしたり",
+      "zh": "把橙汁弄洒了",
+      "en": "To spill orange juice"
+    },
+    {
+      "id": 95,
+      "start": 242.86,
+      "end": 244.24,
+      "ts": "04:02.860 -> 04:04.240",
+      "jp": "畳は",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>は",
+      "zh": "榻是",
+      "en": "Rug is"
+    },
+    {
+      "id": 96,
+      "start": 244.24,
+      "end": 245.12,
+      "ts": "04:04.240 -> 04:05.120",
+      "jp": "結構",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "结构",
+      "en": "Structure"
+    },
+    {
+      "id": 97,
+      "start": 245.12,
+      "end": 245.4,
+      "ts": "04:05.120 -> 04:05.400",
+      "jp": "その",
+      "jp_html": "その",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 98,
+      "start": 245.4,
+      "end": 246.16,
+      "ts": "04:05.400 -> 04:06.160",
+      "jp": "掃除が",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>が",
+      "zh": "打扫干净了",
+      "en": "Cleaning is"
+    },
+    {
+      "id": 99,
+      "start": 246.16,
+      "end": 248.06,
+      "ts": "04:06.160 -> 04:08.060",
+      "jp": "大変ですね",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>ですね",
+      "zh": "真麻烦啊",
+      "en": "It's very troublesome, isn't it?"
+    },
+    {
+      "id": 100,
+      "start": 248.06,
+      "end": 250.24,
+      "ts": "04:08.060 -> 04:10.240",
+      "jp": "フローリング",
+      "jp_html": "フローリング",
+      "zh": "实木地板",
+      "en": "Flooring"
+    },
+    {
+      "id": 101,
+      "start": 250.24,
+      "end": 251.2,
+      "ts": "04:10.240 -> 04:11.200",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 102,
+      "start": 251.2,
+      "end": 252.16,
+      "ts": "04:11.200 -> 04:12.160",
+      "jp": "こういうまあ",
+      "jp_html": "こういうまあ",
+      "zh": "这种嗯",
+      "en": "Well, this kind of"
+    },
+    {
+      "id": 103,
+      "start": 252.16,
+      "end": 254.4,
+      "ts": "04:12.160 -> 04:14.400",
+      "jp": "木みたいな",
+      "jp_html": "<ruby>木<rt>き</rt></ruby>みたいな",
+      "zh": "像木头一样",
+      "en": "like a tree"
+    },
+    {
+      "id": 104,
+      "start": 254.4,
+      "end": 255.7,
+      "ts": "04:14.400 -> 04:15.700",
+      "jp": "まあ木じゃないけど",
+      "jp_html": "まあ<ruby>木<rt>き</rt></ruby>じゃないけど",
+      "zh": "虽说不是木头",
+      "en": "Well, it's not wood though."
+    },
+    {
+      "id": 105,
+      "start": 255.7,
+      "end": 256.62,
+      "ts": "04:15.700 -> 04:16.620",
+      "jp": "木みたいな",
+      "jp_html": "<ruby>木<rt>き</rt></ruby>みたいな",
+      "zh": "像木头一样",
+      "en": "like a tree"
+    },
+    {
+      "id": 106,
+      "start": 256.62,
+      "end": 258.1,
+      "ts": "04:16.620 -> 04:18.100",
+      "jp": "フローリングの場合は",
+      "jp_html": "フローリングの<ruby>場合<rt>ばあい</rt></ruby>は",
+      "zh": "如果是木地板的话",
+      "en": "In the case of hardwood flooring,"
+    },
+    {
+      "id": 107,
+      "start": 258.1,
+      "end": 258.24,
+      "ts": "04:18.100 -> 04:18.240",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 108,
+      "start": 258.24,
+      "end": 259.12,
+      "ts": "04:18.240 -> 04:19.120",
+      "jp": "簡単に",
+      "jp_html": "<ruby>簡単<rt>かんたん</rt></ruby>に",
+      "zh": "简单地",
+      "en": "simply"
+    },
+    {
+      "id": 109,
+      "start": 259.12,
+      "end": 260.12,
+      "ts": "04:19.120 -> 04:20.120",
+      "jp": "掃除ができます",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>ができます",
+      "zh": "可以打扫卫生",
+      "en": "I can do cleaning."
+    },
+    {
+      "id": 110,
+      "start": 260.12,
+      "end": 263.1,
+      "ts": "04:20.120 -> 04:23.100",
+      "jp": "だから",
+      "jp_html": "だから",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 111,
+      "start": 263.1,
+      "end": 263.72,
+      "ts": "04:23.100 -> 04:23.720",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 112,
+      "start": 263.72,
+      "end": 264.82,
+      "ts": "04:23.720 -> 04:24.820",
+      "jp": "そうですね",
+      "jp_html": "そうですね",
+      "zh": "是啊",
+      "en": "Yes, that's right."
+    },
+    {
+      "id": 113,
+      "start": 264.82,
+      "end": 266.72,
+      "ts": "04:24.820 -> 04:26.720",
+      "jp": "子供が小さい時は",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が<ruby>小さい<rt>ちーさい</rt></ruby><ruby>時<rt>とき</rt></ruby>は",
+      "zh": "孩子小的时候",
+      "en": "When the children are young"
+    },
+    {
+      "id": 114,
+      "start": 266.72,
+      "end": 268.0,
+      "ts": "04:26.720 -> 04:28.000",
+      "jp": "畳は",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>は",
+      "zh": "榻是",
+      "en": "Rug is"
+    },
+    {
+      "id": 115,
+      "start": 268.0,
+      "end": 268.68,
+      "ts": "04:28.000 -> 04:28.680",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 116,
+      "start": 268.68,
+      "end": 270.32,
+      "ts": "04:28.680 -> 04:30.320",
+      "jp": "気持ちいいですよね",
+      "jp_html": "<ruby>気持ちい<rt>きもちい</rt></ruby>いですよね",
+      "zh": "不错吧？",
+      "en": "Isn't it nice?"
+    },
+    {
+      "id": 117,
+      "start": 270.32,
+      "end": 271.08,
+      "ts": "04:30.320 -> 04:31.080",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 118,
+      "start": 271.08,
+      "end": 272.92,
+      "ts": "04:31.080 -> 04:32.920",
+      "jp": "気持ちがいいですよ",
+      "jp_html": "<ruby>気持ち<rt>きもち</rt></ruby>がいいですよ",
+      "zh": "感觉很好啊",
+      "en": "It feels good."
+    },
+    {
+      "id": 119,
+      "start": 272.92,
+      "end": 274.26,
+      "ts": "04:32.920 -> 04:34.260",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 120,
+      "start": 274.26,
+      "end": 275.44,
+      "ts": "04:34.260 -> 04:35.440",
+      "jp": "畳は気持ちがいい",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>は<ruby>気持ち<rt>きもち</rt></ruby>がいい",
+      "zh": "榻榻米摸起来很舒服",
+      "en": "The tatami feels nice."
+    },
+    {
+      "id": 121,
+      "start": 275.44,
+      "end": 276.22,
+      "ts": "04:35.440 -> 04:36.220",
+      "jp": "夏",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>",
+      "zh": "夏",
+      "en": "Summer"
+    },
+    {
+      "id": 122,
+      "start": 276.22,
+      "end": 277.58,
+      "ts": "04:36.220 -> 04:37.580",
+      "jp": "特に夏は",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby><ruby>夏<rt>なつ</rt></ruby>は",
+      "zh": "尤其是夏天",
+      "en": "Especially in summer,"
+    },
+    {
+      "id": 123,
+      "start": 277.58,
+      "end": 278.96,
+      "ts": "04:37.580 -> 04:38.960",
+      "jp": "気持ちがいい",
+      "jp_html": "<ruby>気持ち<rt>きもち</rt></ruby>がいい",
+      "zh": "感觉好舒服",
+      "en": "It feels good"
+    },
+    {
+      "id": 124,
+      "start": 278.96,
+      "end": 280.38,
+      "ts": "04:38.960 -> 04:40.380",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 125,
+      "start": 280.38,
+      "end": 281.3,
+      "ts": "04:40.380 -> 04:41.300",
+      "jp": "裸足でね",
+      "jp_html": "<ruby>裸足<rt>はだし</rt></ruby>でね",
+      "zh": "光着脚呢",
+      "en": "Naked feet."
+    },
+    {
+      "id": 126,
+      "start": 281.3,
+      "end": 282.68,
+      "ts": "04:41.300 -> 04:42.680",
+      "jp": "靴下を履かずに",
+      "jp_html": "<ruby>靴下<rt>くつした</rt></ruby>を<ruby>履か<rt>はか</rt></ruby>ずに",
+      "zh": "光脚穿着袜子",
+      "en": "Wearing socks"
+    },
+    {
+      "id": 127,
+      "start": 282.68,
+      "end": 283.96,
+      "ts": "04:42.680 -> 04:43.960",
+      "jp": "裸足でそのまま",
+      "jp_html": "<ruby>裸足<rt>はだし</rt></ruby>でそのまま",
+      "zh": "赤脚直接",
+      "en": "Naked and barefoot"
+    },
+    {
+      "id": 128,
+      "start": 283.96,
+      "end": 285.08,
+      "ts": "04:43.960 -> 04:45.080",
+      "jp": "歩いて",
+      "jp_html": "<ruby>歩い<rt>あるい</rt></ruby>て",
+      "zh": "走着",
+      "en": "walk"
+    },
+    {
+      "id": 129,
+      "start": 285.08,
+      "end": 286.14,
+      "ts": "04:45.080 -> 04:46.140",
+      "jp": "座って",
+      "jp_html": "<ruby>座っ<rt>すわっ</rt></ruby>て",
+      "zh": "坐下",
+      "en": "Sit"
+    },
+    {
+      "id": 130,
+      "start": 286.14,
+      "end": 287.36,
+      "ts": "04:46.140 -> 04:47.360",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "好吧",
+      "en": "Well"
+    },
+    {
+      "id": 131,
+      "start": 287.36,
+      "end": 288.6,
+      "ts": "04:47.360 -> 04:48.600",
+      "jp": "寝てもいいし",
+      "jp_html": "<ruby>寝て<rt>ねて</rt></ruby>もいいし",
+      "zh": "可以睡觉也可以",
+      "en": "I can sleep if I want to."
+    },
+    {
+      "id": 132,
+      "start": 288.6,
+      "end": 290.32,
+      "ts": "04:48.600 -> 04:50.320",
+      "jp": "気持ちがいいですよ",
+      "jp_html": "<ruby>気持ち<rt>きもち</rt></ruby>がいいですよ",
+      "zh": "感觉很好啊",
+      "en": "It feels good."
+    },
+    {
+      "id": 133,
+      "start": 290.32,
+      "end": 290.84,
+      "ts": "04:50.320 -> 04:50.840",
+      "jp": "畳は",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>は",
+      "zh": "榻是",
+      "en": "Rug is"
+    },
+    {
+      "id": 134,
+      "start": 290.84,
+      "end": 292.42,
+      "ts": "04:50.840 -> 04:52.420",
+      "jp": "僕は大好き",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>大好き<rt>だいすき</rt></ruby>",
+      "zh": "我非常喜欢",
+      "en": "I love it"
+    },
+    {
+      "id": 135,
+      "start": 292.42,
+      "end": 293.28,
+      "ts": "04:52.420 -> 04:53.280",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 136,
+      "start": 293.28,
+      "end": 295.0,
+      "ts": "04:53.280 -> 04:55.000",
+      "jp": "毎日毎日",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>",
+      "zh": "天天adayaday",
+      "en": "Day by day"
+    },
+    {
+      "id": 137,
+      "start": 295.0,
+      "end": 297.38,
+      "ts": "04:55.000 -> 04:57.380",
+      "jp": "掃除をする時に",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>をする<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "打扫卫生时",
+      "en": "When cleaning"
+    },
+    {
+      "id": 138,
+      "start": 297.38,
+      "end": 297.62,
+      "ts": "04:57.380 -> 04:57.620",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 139,
+      "start": 297.62,
+      "end": 300.2,
+      "ts": "04:57.620 -> 05:00.200",
+      "jp": "うーん",
+      "jp_html": "うーん",
+      "zh": "嗯嗯",
+      "en": "Hmm"
+    },
+    {
+      "id": 140,
+      "start": 300.2,
+      "end": 302.22,
+      "ts": "05:00.200 -> 05:02.220",
+      "jp": "畳じゃない方が便利かな",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>じゃない<ruby>方が<rt>ほうが</rt></ruby><ruby>便利<rt>べんり</rt></ruby>かな",
+      "zh": "不是榻榻米的话会更方便吧",
+      "en": "A tatami mat isn't better in terms of convenience."
+    },
+    {
+      "id": 141,
+      "start": 302.22,
+      "end": 303.5,
+      "ts": "05:02.220 -> 05:03.500",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 142,
+      "start": 303.5,
+      "end": 305.08,
+      "ts": "05:03.500 -> 05:05.080",
+      "jp": "あと",
+      "jp_html": "あと",
+      "zh": "之后",
+      "en": "later"
+    },
+    {
+      "id": 143,
+      "start": 305.08,
+      "end": 306.24,
+      "ts": "05:05.080 -> 05:06.240",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 144,
+      "start": 306.24,
+      "end": 307.2,
+      "ts": "05:06.240 -> 05:07.200",
+      "jp": "ベッドを",
+      "jp_html": "ベッドを",
+      "zh": "床を",
+      "en": "bed"
+    },
+    {
+      "id": 145,
+      "start": 307.2,
+      "end": 308.18,
+      "ts": "05:07.200 -> 05:08.180",
+      "jp": "敷く人",
+      "jp_html": "<ruby>敷く<rt>しく</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+      "zh": "敷的人",
+      "en": "The person who lays down"
+    },
+    {
+      "id": 146,
+      "start": 308.18,
+      "end": 309.98,
+      "ts": "05:08.180 -> 05:09.980",
+      "jp": "ベッドを置く人",
+      "jp_html": "ベッドを<ruby>置く<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+      "zh": "放置床的人",
+      "en": "The person placing the bed"
+    },
+    {
+      "id": 147,
+      "start": 309.98,
+      "end": 311.78,
+      "ts": "05:09.980 -> 05:11.780",
+      "jp": "ベッドを置きたい場合",
+      "jp_html": "ベッドを<ruby>置き<rt>おき</rt></ruby>たい<ruby>場合<rt>ばあい</rt></ruby>",
+      "zh": "如果想放置床",
+      "en": "If you want to place a bed"
+    },
+    {
+      "id": 148,
+      "start": 311.78,
+      "end": 313.38,
+      "ts": "05:11.780 -> 05:13.380",
+      "jp": "畳じゃない方が",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>じゃない<ruby>方が<rt>ほうが</rt></ruby>",
+      "zh": "不是榻榻米更好吗？",
+      "en": "It's better without tatami."
+    },
+    {
+      "id": 149,
+      "start": 313.38,
+      "end": 314.8,
+      "ts": "05:13.380 -> 05:14.800",
+      "jp": "いいですよね",
+      "jp_html": "いいですよね",
+      "zh": "不错吧",
+      "en": "Isn't it good?"
+    },
+    {
+      "id": 150,
+      "start": 314.8,
+      "end": 317.5,
+      "ts": "05:14.800 -> 05:17.500",
+      "jp": "やっぱりこう",
+      "jp_html": "やっぱりこう",
+      "zh": "果然这样",
+      "en": "Surely like this"
+    },
+    {
+      "id": 151,
+      "start": 317.5,
+      "end": 319.7,
+      "ts": "05:17.500 -> 05:19.700",
+      "jp": "畳の上にベッドを置くと",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby>ベッドを<ruby>置く<rt>おく</rt></ruby>と",
+      "zh": "把床放在榻上",
+      "en": "To place a bed on top of tatami mats"
+    },
+    {
+      "id": 152,
+      "start": 319.7,
+      "end": 320.24,
+      "ts": "05:19.700 -> 05:20.240",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 153,
+      "start": 320.24,
+      "end": 322.44,
+      "ts": "05:20.240 -> 05:22.440",
+      "jp": "うーん",
+      "jp_html": "うーん",
+      "zh": "嗯嗯",
+      "en": "Hmm"
+    },
+    {
+      "id": 154,
+      "start": 322.44,
+      "end": 323.0,
+      "ts": "05:22.440 -> 05:23.000",
+      "jp": "変かな",
+      "jp_html": "<ruby>変<rt>へん</rt></ruby>かな",
+      "zh": "变了呢",
+      "en": "Is it strange?"
+    },
+    {
+      "id": 155,
+      "start": 323.0,
+      "end": 324.28,
+      "ts": "05:23.000 -> 05:24.280",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 156,
+      "start": 324.28,
+      "end": 326.32,
+      "ts": "05:24.280 -> 05:26.320",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 157,
+      "start": 326.32,
+      "end": 328.16,
+      "ts": "05:26.320 -> 05:28.160",
+      "jp": "次は天井ですね",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>は<ruby>天井<rt>てんじょう</rt></ruby>ですね",
+      "zh": "接下来是天花板呢",
+      "en": "Next is the ceiling, right?"
+    },
+    {
+      "id": 158,
+      "start": 328.16,
+      "end": 329.26,
+      "ts": "05:28.160 -> 05:29.260",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 159,
+      "start": 329.26,
+      "end": 331.04,
+      "ts": "05:29.260 -> 05:31.040",
+      "jp": "天井は上にありますよね",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>は<ruby>上に<rt>うえに</rt></ruby>ありますよね",
+      "zh": "天花板在上面，对吧？",
+      "en": "The ceiling is above you, right?"
+    },
+    {
+      "id": 160,
+      "start": 331.04,
+      "end": 332.22,
+      "ts": "05:31.040 -> 05:32.220",
+      "jp": "頭の上にある",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby>ある",
+      "zh": "头上方的",
+      "en": "Above the head"
+    },
+    {
+      "id": 161,
+      "start": 332.22,
+      "end": 334.28,
+      "ts": "05:32.220 -> 05:34.280",
+      "jp": "日本の",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の",
+      "zh": "日本",
+      "en": "Japanese"
+    },
+    {
+      "id": 162,
+      "start": 334.28,
+      "end": 335.24,
+      "ts": "05:34.280 -> 05:35.240",
+      "jp": "天井は",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>は",
+      "zh": "天井是",
+      "en": "The ceiling is"
+    },
+    {
+      "id": 163,
+      "start": 335.24,
+      "end": 337.16,
+      "ts": "05:35.240 -> 05:37.160",
+      "jp": "普通は結構",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "普通人相当",
+      "en": "Usually quite"
+    },
+    {
+      "id": 164,
+      "start": 337.16,
+      "end": 337.94,
+      "ts": "05:37.160 -> 05:37.940",
+      "jp": "低いです",
+      "jp_html": "<ruby>低い<rt>ひくい</rt></ruby>です",
+      "zh": "很低",
+      "en": "It is low."
+    },
+    {
+      "id": 165,
+      "start": 337.94,
+      "end": 339.58,
+      "ts": "05:37.940 -> 05:39.580",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 166,
+      "start": 339.58,
+      "end": 340.98,
+      "ts": "05:39.580 -> 05:40.980",
+      "jp": "僕の家の天井も",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>天井<rt>てんじょう</rt></ruby>も",
+      "zh": "我的天花板也",
+      "en": "My ceiling also"
+    },
+    {
+      "id": 167,
+      "start": 340.98,
+      "end": 342.1,
+      "ts": "05:40.980 -> 05:42.100",
+      "jp": "かなり低いです",
+      "jp_html": "かなり<ruby>低い<rt>ひくい</rt></ruby>です",
+      "zh": "很低",
+      "en": "It is quite low."
+    },
+    {
+      "id": 168,
+      "start": 342.1,
+      "end": 344.24,
+      "ts": "05:42.100 -> 05:44.240",
+      "jp": "とても",
+      "jp_html": "とても",
+      "zh": "很",
+      "en": "very"
+    },
+    {
+      "id": 169,
+      "start": 344.24,
+      "end": 347.04,
+      "ts": "05:44.240 -> 05:47.040",
+      "jp": "背が高い人は",
+      "jp_html": "<ruby>背が<rt>せが</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>人<rt>にん</rt></ruby>は",
+      "zh": "高个子的人",
+      "en": "Tall people"
+    },
+    {
+      "id": 170,
+      "start": 347.04,
+      "end": 348.72,
+      "ts": "05:47.040 -> 05:48.720",
+      "jp": "ちょっと大変かな",
+      "jp_html": "ちょっと<ruby>大変<rt>たいへん</rt></ruby>かな",
+      "zh": "可能有点麻烦吧",
+      "en": "It might be a bit troublesome, huh?"
+    },
+    {
+      "id": 171,
+      "start": 348.72,
+      "end": 349.74,
+      "ts": "05:48.720 -> 05:49.740",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 172,
+      "start": 349.74,
+      "end": 352.42,
+      "ts": "05:49.740 -> 05:52.420",
+      "jp": "普通",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>",
+      "zh": "普通",
+      "en": "Ordinary"
+    },
+    {
+      "id": 173,
+      "start": 352.42,
+      "end": 354.26,
+      "ts": "05:52.420 -> 05:54.260",
+      "jp": "日本人は",
+      "jp_html": "<ruby>日本人<rt>にほんじん</rt></ruby>は",
+      "zh": "日本人是",
+      "en": "The Japanese people are"
+    },
+    {
+      "id": 174,
+      "start": 354.26,
+      "end": 354.84,
+      "ts": "05:54.260 -> 05:54.840",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "好吧",
+      "en": "Well"
+    },
+    {
+      "id": 175,
+      "start": 354.84,
+      "end": 356.24,
+      "ts": "05:54.840 -> 05:56.240",
+      "jp": "男の人が",
+      "jp_html": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が",
+      "zh": "男人",
+      "en": "A man"
+    },
+    {
+      "id": 176,
+      "start": 356.24,
+      "end": 357.98,
+      "ts": "05:56.240 -> 05:57.980",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 177,
+      "start": 357.98,
+      "end": 362.52,
+      "ts": "05:57.980 -> 06:02.520",
+      "jp": "175センチ",
+      "jp_html": "175センチ",
+      "zh": "175厘米",
+      "en": "175 centimeters"
+    },
+    {
+      "id": 178,
+      "start": 362.52,
+      "end": 363.46,
+      "ts": "06:02.520 -> 06:03.460",
+      "jp": "ぐらいなのかな",
+      "jp_html": "ぐらいなのかな",
+      "zh": "大概就是吧",
+      "en": "I wonder if it's about that much."
+    },
+    {
+      "id": 179,
+      "start": 363.46,
+      "end": 366.12,
+      "ts": "06:03.460 -> 06:06.120",
+      "jp": "もう少し低いかもしれない",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>低い<rt>ひくい</rt></ruby>かもしれない",
+      "zh": "可能再低一点",
+      "en": "It might be a bit lower."
+    },
+    {
+      "id": 180,
+      "start": 366.12,
+      "end": 368.34,
+      "ts": "06:06.120 -> 06:08.340",
+      "jp": "僕は実は結構",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>実は<rt>じつは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "我其实挺",
+      "en": "I actually happen to be quite"
+    },
+    {
+      "id": 181,
+      "start": 368.34,
+      "end": 369.44,
+      "ts": "06:08.340 -> 06:09.440",
+      "jp": "背が高くて",
+      "jp_html": "<ruby>背が<rt>せが</rt></ruby><ruby>高く<rt>たかく</rt></ruby>て",
+      "zh": "个子高",
+      "en": "He is tall."
+    },
+    {
+      "id": 182,
+      "start": 369.44,
+      "end": 371.08,
+      "ts": "06:09.440 -> 06:11.080",
+      "jp": "180センチ",
+      "jp_html": "180センチ",
+      "zh": "180厘米",
+      "en": "180 centimeters"
+    },
+    {
+      "id": 183,
+      "start": 371.08,
+      "end": 372.22,
+      "ts": "06:11.080 -> 06:12.220",
+      "jp": "近い",
+      "jp_html": "<ruby>近い<rt>ちかい</rt></ruby>",
+      "zh": "近的",
+      "en": "near"
+    },
+    {
+      "id": 184,
+      "start": 372.22,
+      "end": 372.72,
+      "ts": "06:12.220 -> 06:12.720",
+      "jp": "ほとんど",
+      "jp_html": "ほとんど",
+      "zh": "几乎",
+      "en": "almost"
+    },
+    {
+      "id": 185,
+      "start": 372.72,
+      "end": 374.04,
+      "ts": "06:12.720 -> 06:14.040",
+      "jp": "180センチぐらい",
+      "jp_html": "180センチぐらい",
+      "zh": "大约180厘米",
+      "en": "About 180 centimeters"
+    },
+    {
+      "id": 186,
+      "start": 374.04,
+      "end": 377.6,
+      "ts": "06:14.040 -> 06:17.600",
+      "jp": "179ぐらいかな",
+      "jp_html": "179ぐらいかな",
+      "zh": "大约179吧",
+      "en": "About 179, I guess."
+    },
+    {
+      "id": 187,
+      "start": 377.6,
+      "end": 378.18,
+      "ts": "06:17.600 -> 06:18.180",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 188,
+      "start": 378.18,
+      "end": 380.08,
+      "ts": "06:18.180 -> 06:20.080",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 189,
+      "start": 380.08,
+      "end": 380.74,
+      "ts": "06:20.080 -> 06:20.740",
+      "jp": "僕は結構",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "我挺",
+      "en": "I am quite"
+    },
+    {
+      "id": 190,
+      "start": 380.74,
+      "end": 382.24,
+      "ts": "06:20.740 -> 06:22.240",
+      "jp": "日本人の中では",
+      "jp_html": "<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では",
+      "zh": "在日本人中",
+      "en": "Among the Japanese people"
+    },
+    {
+      "id": 191,
+      "start": 382.24,
+      "end": 383.56,
+      "ts": "06:22.240 -> 06:23.560",
+      "jp": "背が高い方です",
+      "jp_html": "<ruby>背が<rt>せが</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>方<rt>ほう</rt></ruby>です",
+      "zh": "身高较高的人",
+      "en": "He is tall."
+    },
+    {
+      "id": 192,
+      "start": 383.56,
+      "end": 386.06,
+      "ts": "06:23.560 -> 06:26.060",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 193,
+      "start": 386.06,
+      "end": 387.08,
+      "ts": "06:26.060 -> 06:27.080",
+      "jp": "僕より",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>より",
+      "zh": "我比",
+      "en": "Me than"
+    },
+    {
+      "id": 194,
+      "start": 387.08,
+      "end": 389.32,
+      "ts": "06:27.080 -> 06:29.320",
+      "jp": "背が高い人は",
+      "jp_html": "<ruby>背が<rt>せが</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>人<rt>にん</rt></ruby>は",
+      "zh": "身高高的人",
+      "en": "Tall people"
+    },
+    {
+      "id": 195,
+      "start": 389.32,
+      "end": 390.3,
+      "ts": "06:29.320 -> 06:30.300",
+      "jp": "ちょっと大変かな",
+      "jp_html": "ちょっと<ruby>大変<rt>たいへん</rt></ruby>かな",
+      "zh": "可能有点麻烦吧",
+      "en": "It might be a bit troublesome, huh?"
+    },
+    {
+      "id": 196,
+      "start": 390.3,
+      "end": 392.08,
+      "ts": "06:30.300 -> 06:32.080",
+      "jp": "日本の家は",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>は",
+      "zh": "日本的房子是",
+      "en": "Japanese houses are"
+    },
+    {
+      "id": 197,
+      "start": 392.08,
+      "end": 392.6,
+      "ts": "06:32.080 -> 06:32.600",
+      "jp": "普通",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>",
+      "zh": "普通",
+      "en": "Ordinary"
+    },
+    {
+      "id": 198,
+      "start": 392.6,
+      "end": 393.84,
+      "ts": "06:32.600 -> 06:33.840",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 199,
+      "start": 393.84,
+      "end": 394.22,
+      "ts": "06:33.840 -> 06:34.220",
+      "jp": "100",
+      "jp_html": "100",
+      "zh": "100",
+      "en": "One hundred"
+    },
+    {
+      "id": 200,
+      "start": 394.22,
+      "end": 396.02,
+      "ts": "06:34.220 -> 06:36.020",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 201,
+      "start": 396.02,
+      "end": 397.7,
+      "ts": "06:36.020 -> 06:37.700",
+      "jp": "170センチぐらいの人は",
+      "jp_html": "170センチぐらいの<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "身高大约170厘米的人",
+      "en": "People who are about 170 centimeters tall"
+    },
+    {
+      "id": 202,
+      "start": 397.7,
+      "end": 399.18,
+      "ts": "06:37.700 -> 06:39.180",
+      "jp": "問題がないでしょうね",
+      "jp_html": "<ruby>問題<rt>もんだい</rt></ruby>がないでしょうね",
+      "zh": "应该没有问题吧",
+      "en": "There shouldn't be any problems, right?"
+    },
+    {
+      "id": 203,
+      "start": 399.18,
+      "end": 400.08,
+      "ts": "06:39.180 -> 06:40.080",
+      "jp": "でも",
+      "jp_html": "でも",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 204,
+      "start": 400.08,
+      "end": 402.36,
+      "ts": "06:40.080 -> 06:42.360",
+      "jp": "190センチ",
+      "jp_html": "190センチ",
+      "zh": "190厘米",
+      "en": "190 centimeters"
+    },
+    {
+      "id": 205,
+      "start": 402.36,
+      "end": 403.74,
+      "ts": "06:42.360 -> 06:43.740",
+      "jp": "とかの人は",
+      "jp_html": "とかの<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "的人",
+      "en": "like those people"
+    },
+    {
+      "id": 206,
+      "start": 403.74,
+      "end": 404.58,
+      "ts": "06:43.740 -> 06:44.580",
+      "jp": "ちょっと大変かな",
+      "jp_html": "ちょっと<ruby>大変<rt>たいへん</rt></ruby>かな",
+      "zh": "可能有点麻烦吧",
+      "en": "It might be a bit troublesome, huh?"
+    },
+    {
+      "id": 207,
+      "start": 404.58,
+      "end": 408.36,
+      "ts": "06:44.580 -> 06:48.360",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 208,
+      "start": 408.36,
+      "end": 408.94,
+      "ts": "06:48.360 -> 06:48.940",
+      "jp": "いつもこう",
+      "jp_html": "いつもこう",
+      "zh": "总是这样",
+      "en": "Always like this"
+    },
+    {
+      "id": 209,
+      "start": 408.94,
+      "end": 411.26,
+      "ts": "06:48.940 -> 06:51.260",
+      "jp": "頭を気をつけなければいけないですね",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>を<ruby>気を<rt>きを</rt></ruby>つけなければいけないですね",
+      "zh": "需要注意头部哦",
+      "en": "You should be careful with your head, I suppose."
+    },
+    {
+      "id": 210,
+      "start": 411.26,
+      "end": 412.6,
+      "ts": "06:51.260 -> 06:52.600",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 211,
+      "start": 412.6,
+      "end": 414.46,
+      "ts": "06:52.600 -> 06:54.460",
+      "jp": "実は天井は問題がない",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>天井<rt>てんじょう</rt></ruby>は<ruby>問題<rt>もんだい</rt></ruby>がない",
+      "zh": "实际上天花板没有问题",
+      "en": "Actually, there is nothing wrong with the ceiling."
+    },
+    {
+      "id": 212,
+      "start": 414.46,
+      "end": 416.08,
+      "ts": "06:54.460 -> 06:56.080",
+      "jp": "天井は問題がないけど",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>は<ruby>問題<rt>もんだい</rt></ruby>がないけど",
+      "zh": "天井是没有问题的",
+      "en": "The ceiling is okay but"
+    },
+    {
+      "id": 213,
+      "start": 416.08,
+      "end": 418.12,
+      "ts": "06:56.080 -> 06:58.120",
+      "jp": "部屋と部屋",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>と<ruby>部屋<rt>へや</rt></ruby>",
+      "zh": "房间与房间",
+      "en": "Room and room"
+    },
+    {
+      "id": 214,
+      "start": 418.12,
+      "end": 419.4,
+      "ts": "06:58.120 -> 06:59.400",
+      "jp": "を",
+      "jp_html": "を",
+      "zh": "的",
+      "en": "to"
+    },
+    {
+      "id": 215,
+      "start": 419.4,
+      "end": 419.82,
+      "ts": "06:59.400 -> 06:59.820",
+      "jp": "こう",
+      "jp_html": "こう",
+      "zh": "这样",
+      "en": "Like this"
+    },
+    {
+      "id": 216,
+      "start": 419.82,
+      "end": 420.8,
+      "ts": "06:59.820 -> 07:00.800",
+      "jp": "間ですね",
+      "jp_html": "<ruby>間<rt>かん</rt></ruby>ですね",
+      "zh": "间呢",
+      "en": "Timing."
+    },
+    {
+      "id": 217,
+      "start": 420.8,
+      "end": 422.32,
+      "ts": "07:00.800 -> 07:02.320",
+      "jp": "部屋と部屋の間に",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>と<ruby>部屋<rt>へや</rt></ruby>の<ruby>間に<rt>まに</rt></ruby>",
+      "zh": "房间与房间之间",
+      "en": "Between room and room"
+    },
+    {
+      "id": 218,
+      "start": 422.32,
+      "end": 423.54,
+      "ts": "07:02.320 -> 07:03.540",
+      "jp": "なんかすごい",
+      "jp_html": "なんかすごい",
+      "zh": "好厉害",
+      "en": "Something amazing"
+    },
+    {
+      "id": 219,
+      "start": 423.54,
+      "end": 424.9,
+      "ts": "07:03.540 -> 07:04.900",
+      "jp": "低い場所があるんですね",
+      "jp_html": "<ruby>低い<rt>ひくい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>があるんですね",
+      "zh": "原来有个低洼的地方。",
+      "en": "There's a low place, huh?"
+    },
+    {
+      "id": 220,
+      "start": 424.9,
+      "end": 425.36,
+      "ts": "07:04.900 -> 07:05.360",
+      "jp": "ドア",
+      "jp_html": "ドア",
+      "zh": "门",
+      "en": "door"
+    },
+    {
+      "id": 221,
+      "start": 425.36,
+      "end": 426.6,
+      "ts": "07:05.360 -> 07:06.600",
+      "jp": "ドアの部分ですね",
+      "jp_html": "ドアの<ruby>部分<rt>ぶぶん</rt></ruby>ですね",
+      "zh": "门的部分吧",
+      "en": "It's the part of the door, right?"
+    },
+    {
+      "id": 222,
+      "start": 426.6,
+      "end": 428.68,
+      "ts": "07:06.600 -> 07:08.680",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 223,
+      "start": 428.68,
+      "end": 430.36,
+      "ts": "07:08.680 -> 07:10.360",
+      "jp": "日本の",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の",
+      "zh": "日本",
+      "en": "Japanese"
+    },
+    {
+      "id": 224,
+      "start": 430.36,
+      "end": 431.52,
+      "ts": "07:10.360 -> 07:11.520",
+      "jp": "こう",
+      "jp_html": "こう",
+      "zh": "这样",
+      "en": "Like this"
+    },
+    {
+      "id": 225,
+      "start": 431.52,
+      "end": 433.26,
+      "ts": "07:11.520 -> 07:13.260",
+      "jp": "伝統的な家の",
+      "jp_html": "<ruby>伝統的<rt>でんとうてき</rt></ruby>な<ruby>家<rt>いえ</rt></ruby>の",
+      "zh": "传统房屋",
+      "en": "traditional house"
+    },
+    {
+      "id": 226,
+      "start": 433.26,
+      "end": 434.42,
+      "ts": "07:13.260 -> 07:14.420",
+      "jp": "部屋と",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>と",
+      "zh": "房间和",
+      "en": "Room and"
+    },
+    {
+      "id": 227,
+      "start": 434.42,
+      "end": 435.76,
+      "ts": "07:14.420 -> 07:15.760",
+      "jp": "部屋の",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>の",
+      "zh": "房间的",
+      "en": "room的"
+    },
+    {
+      "id": 228,
+      "start": 435.76,
+      "end": 436.98,
+      "ts": "07:15.760 -> 07:16.980",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 229,
+      "start": 436.98,
+      "end": 437.72,
+      "ts": "07:16.980 -> 07:17.720",
+      "jp": "その",
+      "jp_html": "その",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 230,
+      "start": 437.72,
+      "end": 438.98,
+      "ts": "07:17.720 -> 07:18.980",
+      "jp": "ドアですね",
+      "jp_html": "ドアですね",
+      "zh": "门啊",
+      "en": "It's the door, right?"
+    },
+    {
+      "id": 231,
+      "start": 438.98,
+      "end": 440.84,
+      "ts": "07:18.980 -> 07:20.840",
+      "jp": "ドアのところ",
+      "jp_html": "ドアのところ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 232,
+      "start": 440.84,
+      "end": 443.5,
+      "ts": "07:20.840 -> 07:23.500",
+      "jp": "障子とかね",
+      "jp_html": "<ruby>障子<rt>しょうじ</rt></ruby>とかね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 233,
+      "start": 443.5,
+      "end": 443.78,
+      "ts": "07:23.500 -> 07:23.780",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 234,
+      "start": 443.78,
+      "end": 445.34,
+      "ts": "07:23.780 -> 07:25.340",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 235,
+      "start": 445.34,
+      "end": 446.7,
+      "ts": "07:25.340 -> 07:26.700",
+      "jp": "日本っぽいドアもある",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>っぽいドアもある",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 236,
+      "start": 446.7,
+      "end": 447.08,
+      "ts": "07:26.700 -> 07:27.080",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 237,
+      "start": 447.08,
+      "end": 447.6,
+      "ts": "07:27.080 -> 07:27.600",
+      "jp": "そこがね",
+      "jp_html": "そこがね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 238,
+      "start": 447.6,
+      "end": 449.16,
+      "ts": "07:27.600 -> 07:29.160",
+      "jp": "すごく低いんですよね",
+      "jp_html": "すごく<ruby>低い<rt>ひくい</rt></ruby>んですよね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 239,
+      "start": 449.16,
+      "end": 450.58,
+      "ts": "07:29.160 -> 07:30.580",
+      "jp": "そこで",
+      "jp_html": "そこで",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 240,
+      "start": 450.58,
+      "end": 452.0,
+      "ts": "07:30.580 -> 07:32.000",
+      "jp": "頭を打つかもしれない",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>を<ruby>打つ<rt>うつ</rt></ruby>かもしれない",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 241,
+      "start": 452.0,
+      "end": 453.52,
+      "ts": "07:32.000 -> 07:33.520",
+      "jp": "気をつけなければ",
+      "jp_html": "<ruby>気を<rt>きを</rt></ruby>つけなければ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 242,
+      "start": 453.52,
+      "end": 455.92,
+      "ts": "07:33.520 -> 07:35.920",
+      "jp": "あと階段の",
+      "jp_html": "あと<ruby>階段<rt>かいだん</rt></ruby>の",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 243,
+      "start": 455.92,
+      "end": 456.64,
+      "ts": "07:35.920 -> 07:36.640",
+      "jp": "ところも",
+      "jp_html": "ところも",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 244,
+      "start": 456.64,
+      "end": 457.58,
+      "ts": "07:36.640 -> 07:37.580",
+      "jp": "ちょっと低いし",
+      "jp_html": "ちょっと<ruby>低い<rt>ひくい</rt></ruby>し",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 245,
+      "start": 457.58,
+      "end": 459.78,
+      "ts": "07:37.580 -> 07:39.780",
+      "jp": "天井は",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>は",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 246,
+      "start": 459.78,
+      "end": 460.24,
+      "ts": "07:39.780 -> 07:40.240",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 247,
+      "start": 460.24,
+      "end": 461.28,
+      "ts": "07:40.240 -> 07:41.280",
+      "jp": "天井も低いですね",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>も<ruby>低い<rt>ひくい</rt></ruby>ですね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 248,
+      "start": 461.28,
+      "end": 462.74,
+      "ts": "07:41.280 -> 07:42.740",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 249,
+      "start": 462.74,
+      "end": 464.12,
+      "ts": "07:42.740 -> 07:44.120",
+      "jp": "低い天井に",
+      "jp_html": "<ruby>低い<rt>ひくい</rt></ruby><ruby>天井<rt>てんじょう</rt></ruby>に",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 250,
+      "start": 464.12,
+      "end": 465.36,
+      "ts": "07:44.120 -> 07:45.360",
+      "jp": "まあ電気",
+      "jp_html": "まあ<ruby>電気<rt>でんき</rt></ruby>",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 251,
+      "start": 465.36,
+      "end": 466.86,
+      "ts": "07:45.360 -> 07:46.860",
+      "jp": "照明ですね",
+      "jp_html": "<ruby>照明<rt>しょうめい</rt></ruby>ですね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 252,
+      "start": 466.86,
+      "end": 467.24,
+      "ts": "07:46.860 -> 07:47.240",
+      "jp": "その",
+      "jp_html": "その",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 253,
+      "start": 467.24,
+      "end": 469.08,
+      "ts": "07:47.240 -> 07:49.080",
+      "jp": "ライトをつける",
+      "jp_html": "ライトをつける",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 254,
+      "start": 469.08,
+      "end": 470.22,
+      "ts": "07:49.080 -> 07:50.220",
+      "jp": "それが結構",
+      "jp_html": "それが<ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 255,
+      "start": 470.22,
+      "end": 471.16,
+      "ts": "07:50.220 -> 07:51.160",
+      "jp": "また低くなる",
+      "jp_html": "また<ruby>低く<rt>ひくく</rt></ruby>なる",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 256,
+      "start": 471.16,
+      "end": 473.58,
+      "ts": "07:51.160 -> 07:53.580",
+      "jp": "なんで",
+      "jp_html": "なんで",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 257,
+      "start": 473.58,
+      "end": 474.14,
+      "ts": "07:53.580 -> 07:54.140",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 258,
+      "start": 474.14,
+      "end": 476.34,
+      "ts": "07:54.140 -> 07:56.340",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 259,
+      "start": 476.34,
+      "end": 477.2,
+      "ts": "07:56.340 -> 07:57.200",
+      "jp": "背が高い",
+      "jp_html": "<ruby>背が<rt>せが</rt></ruby><ruby>高い<rt>たかい</rt></ruby>",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 260,
+      "start": 477.2,
+      "end": 478.66,
+      "ts": "07:57.200 -> 07:58.660",
+      "jp": "人はちょっと",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>はちょっと",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 261,
+      "start": 478.66,
+      "end": 480.62,
+      "ts": "07:58.660 -> 08:00.620",
+      "jp": "頭に",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>に",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 262,
+      "start": 480.62,
+      "end": 481.64,
+      "ts": "08:00.620 -> 08:01.640",
+      "jp": "気をつけてください",
+      "jp_html": "<ruby>気を<rt>きを</rt></ruby>つけてください",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 263,
+      "start": 481.64,
+      "end": 483.16,
+      "ts": "08:01.640 -> 08:03.160",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 264,
+      "start": 483.16,
+      "end": 485.18,
+      "ts": "08:03.160 -> 08:05.180",
+      "jp": "なので最初は",
+      "jp_html": "なので<ruby>最初<rt>さいしょ</rt></ruby>は",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 265,
+      "start": 485.18,
+      "end": 485.84,
+      "ts": "08:05.180 -> 08:05.840",
+      "jp": "壁でした",
+      "jp_html": "<ruby>壁<rt>かべ</rt></ruby>でした",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 266,
+      "start": 485.84,
+      "end": 486.34,
+      "ts": "08:05.840 -> 08:06.340",
+      "jp": "壁",
+      "jp_html": "<ruby>壁<rt>かべ</rt></ruby>",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 267,
+      "start": 486.34,
+      "end": 488.18,
+      "ts": "08:06.340 -> 08:08.180",
+      "jp": "壁は薄いから",
+      "jp_html": "<ruby>壁<rt>かべ</rt></ruby>は<ruby>薄い<rt>うすい</rt></ruby>から",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 268,
+      "start": 488.18,
+      "end": 490.5,
+      "ts": "08:08.180 -> 08:10.500",
+      "jp": "大きい声で",
+      "jp_html": "<ruby>大きい<rt>おおきい</rt></ruby><ruby>声<rt>こえ</rt></ruby>で",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 269,
+      "start": 490.5,
+      "end": 492.72,
+      "ts": "08:10.500 -> 08:12.720",
+      "jp": "電話をしたり",
+      "jp_html": "<ruby>電話<rt>でんわ</rt></ruby>をしたり",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 270,
+      "start": 492.72,
+      "end": 493.9,
+      "ts": "08:12.720 -> 08:13.900",
+      "jp": "話したり",
+      "jp_html": "<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 271,
+      "start": 493.9,
+      "end": 495.78,
+      "ts": "08:13.900 -> 08:15.780",
+      "jp": "しないでください",
+      "jp_html": "しないでください",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 272,
+      "start": 495.78,
+      "end": 497.28,
+      "ts": "08:15.780 -> 08:17.280",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 273,
+      "start": 497.28,
+      "end": 499.24,
+      "ts": "08:17.280 -> 08:19.240",
+      "jp": "壁が薄いからね",
+      "jp_html": "<ruby>壁<rt>かべ</rt></ruby>が<ruby>薄い<rt>うすい</rt></ruby>からね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 274,
+      "start": 499.24,
+      "end": 500.68,
+      "ts": "08:19.240 -> 08:20.680",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 275,
+      "start": 500.68,
+      "end": 501.96,
+      "ts": "08:20.680 -> 08:21.960",
+      "jp": "床ですね",
+      "jp_html": "<ruby>床<rt>とこ</rt></ruby>ですね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 276,
+      "start": 501.96,
+      "end": 502.92,
+      "ts": "08:21.960 -> 08:22.920",
+      "jp": "床は",
+      "jp_html": "<ruby>床<rt>とこ</rt></ruby>は",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 277,
+      "start": 502.92,
+      "end": 503.3,
+      "ts": "08:22.920 -> 08:23.300",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 278,
+      "start": 503.3,
+      "end": 504.62,
+      "ts": "08:23.300 -> 08:24.620",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 279,
+      "start": 504.62,
+      "end": 505.84,
+      "ts": "08:24.620 -> 08:25.840",
+      "jp": "畳だったら",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>だったら",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 280,
+      "start": 505.84,
+      "end": 507.0,
+      "ts": "08:25.840 -> 08:27.000",
+      "jp": "気持ちはいいけど",
+      "jp_html": "<ruby>気持ち<rt>きもち</rt></ruby>はいいけど",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 281,
+      "start": 507.0,
+      "end": 508.36,
+      "ts": "08:27.000 -> 08:28.360",
+      "jp": "牛乳とか",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>とか",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 282,
+      "start": 508.36,
+      "end": 509.4,
+      "ts": "08:28.360 -> 08:29.400",
+      "jp": "コーヒーとか",
+      "jp_html": "コーヒーとか",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 283,
+      "start": 509.4,
+      "end": 510.9,
+      "ts": "08:29.400 -> 08:30.900",
+      "jp": "こぼさないように",
+      "jp_html": "こぼさないように",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 284,
+      "start": 510.9,
+      "end": 511.82,
+      "ts": "08:30.900 -> 08:31.820",
+      "jp": "してください",
+      "jp_html": "してください",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 285,
+      "start": 511.82,
+      "end": 513.56,
+      "ts": "08:31.820 -> 08:33.560",
+      "jp": "食べ物とかね",
+      "jp_html": "<ruby>食べ物<rt>たべもの</rt></ruby>とかね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 286,
+      "start": 513.56,
+      "end": 515.0,
+      "ts": "08:33.560 -> 08:35.000",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 287,
+      "start": 515.0,
+      "end": 516.3,
+      "ts": "08:35.000 -> 08:36.300",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 288,
+      "start": 516.3,
+      "end": 517.16,
+      "ts": "08:36.300 -> 08:37.160",
+      "jp": "天井ですね",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>ですね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 289,
+      "start": 517.16,
+      "end": 518.6,
+      "ts": "08:37.160 -> 08:38.600",
+      "jp": "天井は低いので",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>は<ruby>低い<rt>ひくい</rt></ruby>ので",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 290,
+      "start": 518.6,
+      "end": 519.78,
+      "ts": "08:38.600 -> 08:39.780",
+      "jp": "頭に",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>に",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 291,
+      "start": 519.78,
+      "end": 521.12,
+      "ts": "08:39.780 -> 08:41.120",
+      "jp": "気をつけてください",
+      "jp_html": "<ruby>気を<rt>きを</rt></ruby>つけてください",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 292,
+      "start": 521.12,
+      "end": 521.58,
+      "ts": "08:41.120 -> 08:41.580",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 293,
+      "start": 521.58,
+      "end": 522.12,
+      "ts": "08:41.580 -> 08:42.120",
+      "jp": "天井は",
+      "jp_html": "<ruby>天井<rt>てんじょう</rt></ruby>は",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 294,
+      "start": 522.12,
+      "end": 522.3,
+      "ts": "08:42.120 -> 08:42.300",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 295,
+      "start": 522.3,
+      "end": 523.24,
+      "ts": "08:42.300 -> 08:43.240",
+      "jp": "大丈夫ですけど",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですけど",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 296,
+      "start": 523.24,
+      "end": 523.76,
+      "ts": "08:43.240 -> 08:43.760",
+      "jp": "その",
+      "jp_html": "その",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 297,
+      "start": 523.76,
+      "end": 524.86,
+      "ts": "08:43.760 -> 08:44.860",
+      "jp": "さっき言ったように",
+      "jp_html": "さっき<ruby>言った<rt>いった</rt></ruby>ように",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 298,
+      "start": 524.86,
+      "end": 526.24,
+      "ts": "08:44.860 -> 08:46.240",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 299,
+      "start": 526.24,
+      "end": 527.2,
+      "ts": "08:46.240 -> 08:47.200",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 300,
+      "start": 527.2,
+      "end": 528.06,
+      "ts": "08:47.200 -> 08:48.060",
+      "jp": "部屋と部屋の",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>と<ruby>部屋<rt>へや</rt></ruby>の",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 301,
+      "start": 528.06,
+      "end": 528.82,
+      "ts": "08:48.060 -> 08:48.820",
+      "jp": "間",
+      "jp_html": "<ruby>間<rt>かん</rt></ruby>",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 302,
+      "start": 528.82,
+      "end": 532.1,
+      "ts": "08:48.820 -> 08:52.100",
+      "jp": "ドアのところですね",
+      "jp_html": "ドアのところですね",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 303,
+      "start": 532.1,
+      "end": 533.46,
+      "ts": "08:52.100 -> 08:53.460",
+      "jp": "低いので",
+      "jp_html": "<ruby>低い<rt>ひくい</rt></ruby>ので",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 304,
+      "start": 533.46,
+      "end": 535.02,
+      "ts": "08:53.460 -> 08:55.020",
+      "jp": "気をつけてください",
+      "jp_html": "<ruby>気を<rt>きを</rt></ruby>つけてください",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 305,
+      "start": 535.02,
+      "end": 535.96,
+      "ts": "08:55.020 -> 08:55.960",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 306,
+      "start": 535.96,
+      "end": 537.64,
+      "ts": "08:55.960 -> 08:57.640",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 307,
+      "start": 537.64,
+      "end": 539.3,
+      "ts": "08:57.640 -> 08:59.300",
+      "jp": "家について",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>について",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 308,
+      "start": 539.3,
+      "end": 540.88,
+      "ts": "08:59.300 -> 09:00.880",
+      "jp": "部屋についてでした",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>についてでした",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    },
+    {
+      "id": 309,
+      "start": 540.88,
+      "end": 541.98,
+      "ts": "09:00.880 -> 09:01.980",
+      "jp": "戻る",
+      "jp_html": "<ruby>戻る<rt>もどる</rt></ruby>",
+      "zh": "[Translation pending]",
+      "en": "[Translation pending]"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nihongo con Teppei Player</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="episode-panel">
+      <div class="panel-title">Episodes</div>
+      <div id="episode-list" class="episode-list"></div>
+    </aside>
+
+    <main class="player-panel">
+      <header class="player-header">
+        <div>
+          <div class="eyebrow">Nihongo con Teppei Player</div>
+          <h1 id="episode-title">Loading…</h1>
+          <a id="source-link" class="source-link" href="https://nihongoconteppei.com/" target="_blank" rel="noreferrer">Open source page</a>
+        </div>
+        <button id="furigana-toggle" class="furigana-toggle" type="button">Furigana: ON</button>
+      </header>
+
+      <section class="audio-card">
+        <audio id="audio-player" controls preload="metadata"></audio>
+        <div id="player-status" class="player-status">Loading episode…</div>
+      </section>
+
+      <section id="subtitle-list" class="subtitle-list"></section>
+    </main>
+  </div>
+
+  <template id="subtitle-row-template">
+    <article class="subtitle-row">
+      <div class="subtitle-jp-cell">
+        <div class="subtitle-ts"></div>
+        <div class="subtitle-jp"></div>
+      </div>
+      <div class="subtitle-trans-cell">
+        <div class="subtitle-en"></div>
+        <div class="subtitle-zh"></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>
