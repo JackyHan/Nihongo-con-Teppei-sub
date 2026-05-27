@@ -131,6 +131,7 @@ async function loadEpisode(meta) {
   }
   currentEpisode = await response.json();
   episodeTitleEl.textContent = currentEpisode.title;
+  sourceLinkEl.href = currentEpisode.source_url || "https://nihongoconteppei.com/";
   audioPlayerEl.src = resolveAudioUrl(currentEpisode.audio_url);
   renderEpisodeList();
   renderSubtitleRows(currentEpisode.entries);
