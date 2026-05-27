@@ -9,8 +9,18 @@
 <body>
   <div class="app-shell">
     <aside class="episode-panel">
-      <div class="panel-title">Episodes</div>
+      <div class="episode-panel-header">
+        <div class="panel-title">Episodes</div>
+        <button id="episode-panel-toggle" class="episode-panel-toggle" type="button" aria-expanded="false">
+          Browse
+        </button>
+      </div>
       <div id="episode-list" class="episode-list"></div>
+      <div class="episode-pagination">
+        <button id="page-prev" class="page-button" type="button">Previous</button>
+        <div id="page-label" class="page-label">Page 1 / 1</div>
+        <button id="page-next" class="page-button" type="button">Next</button>
+      </div>
     </aside>
 
     <main class="player-panel">

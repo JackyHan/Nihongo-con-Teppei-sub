@@ -1,4 +1,8 @@
 const episodeListEl = document.getElementById("episode-list");
+const episodePanelToggleEl = document.getElementById("episode-panel-toggle");
+const pagePrevEl = document.getElementById("page-prev");
+const pageNextEl = document.getElementById("page-next");
+const pageLabelEl = document.getElementById("page-label");
 const episodeTitleEl = document.getElementById("episode-title");
 const sourceLinkEl = document.getElementById("source-link");
 const audioPlayerEl = document.getElementById("audio-player");
@@ -7,14 +11,37 @@ const subtitleListEl = document.getElementById("subtitle-list");
 const furiganaToggleEl = document.getElementById("furigana-toggle");
 const subtitleTemplateEl = document.getElementById("subtitle-row-template");
 
+const EPISODES_PER_PAGE = 10;
+
 let episodeCatalog = [];
 let currentEpisode = null;
 let subtitleRowEls = [];
 let activeRowIndex = -1;
 let furiganaVisible = true;
+let currentPage = 0;
+let episodePanelExpanded = false;
 
 function isMobileLayout() {
   return window.matchMedia("(max-width: 900px)").matches;
+}
+
+function getTotalPages() {
+  return Math.max(1, Math.ceil(episodeCatalog.length / EPISODES_PER_PAGE));
+}
+
+function getEpisodePageIndex(episodeId) {
+  const foundIndex = episodeCatalog.findIndex((episode) => episode.id === episodeId);
+  if (foundIndex < 0) {
+    return 0;
+  }
+  return Math.floor(foundIndex / EPISODES_PER_PAGE);
+}
+
+function updateEpisodePanelState() {
+  const expanded = !isMobileLayout() || episodePanelExpanded;
+  document.body.classList.toggle("episode-panel-open", expanded);
+  episodePanelToggleEl.setAttribute("aria-expanded", String(expanded));
+  episodePanelToggleEl.textContent = expanded ? "Hide" : "Browse";
 }
 
 function resolveAudioUrl(url) {
@@ -34,7 +61,12 @@ function escapeHtml(text) {
 
 function renderEpisodeList() {
   episodeListEl.innerHTML = "";
-  for (const episode of episodeCatalog) {
+  const totalPages = getTotalPages();
+  currentPage = Math.min(currentPage, totalPages - 1);
+  const start = currentPage * EPISODES_PER_PAGE;
+  const visibleEpisodes = episodeCatalog.slice(start, start + EPISODES_PER_PAGE);
+
+  for (const episode of visibleEpisodes) {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "episode-button";
@@ -49,9 +81,17 @@ function renderEpisodeList() {
       if (!currentEpisode || currentEpisode.id !== episode.id) {
         loadEpisode(episode);
       }
+      if (isMobileLayout()) {
+        episodePanelExpanded = false;
+        updateEpisodePanelState();
+      }
     });
     episodeListEl.appendChild(button);
   }
+
+  pageLabelEl.textContent = `Page ${currentPage + 1} / ${totalPages}`;
+  pagePrevEl.disabled = currentPage === 0;
+  pageNextEl.disabled = currentPage >= totalPages - 1;
 }
 
 function renderSubtitleRows(entries) {
@@ -130,6 +170,7 @@ async function loadEpisode(meta) {
     throw new Error(`Failed to load episode data for ${meta.id}`);
   }
   currentEpisode = await response.json();
+  currentPage = getEpisodePageIndex(currentEpisode.id);
   episodeTitleEl.textContent = currentEpisode.title;
   sourceLinkEl.href = currentEpisode.source_url || "https://nihongoconteppei.com/";
   audioPlayerEl.src = resolveAudioUrl(currentEpisode.audio_url);
@@ -172,10 +213,38 @@ audioPlayerEl.addEventListener("error", () => {
   setStatus("Audio failed to load. The remote host may be blocking direct playback.");
 });
 
+episodePanelToggleEl.addEventListener("click", () => {
+  episodePanelExpanded = !episodePanelExpanded;
+  updateEpisodePanelState();
+});
+
+pagePrevEl.addEventListener("click", () => {
+  if (currentPage === 0) {
+    return;
+  }
+  currentPage -= 1;
+  renderEpisodeList();
+});
+
+pageNextEl.addEventListener("click", () => {
+  if (currentPage >= getTotalPages() - 1) {
+    return;
+  }
+  currentPage += 1;
+  renderEpisodeList();
+});
+
 furiganaToggleEl.addEventListener("click", () => {
   furiganaVisible = !furiganaVisible;
   document.body.classList.toggle("hide-furigana", !furiganaVisible);
   furiganaToggleEl.textContent = furiganaVisible ? "Furigana: ON" : "Furigana: OFF";
+});
+
+window.addEventListener("resize", () => {
+  if (!isMobileLayout()) {
+    episodePanelExpanded = false;
+  }
+  updateEpisodePanelState();
 });
 
 boot().catch((error) => {
@@ -183,3 +252,5 @@ boot().catch((error) => {
   setStatus(error.message);
   episodeTitleEl.textContent = "Failed to load player";
 });
+
+updateEpisodePanelState();
