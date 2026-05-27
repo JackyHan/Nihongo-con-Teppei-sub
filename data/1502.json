@@ -1,0 +1,1378 @@
+{
+  "id": "1502",
+  "title": "#1502「春の天気について！」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/04/Beginners-con-Teppei1502.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/04/16/1502%e3%80%8c%e6%98%a5%e3%81%ae%e5%a4%a9%e6%b0%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.4,
+      "ts": "00:00.000 -> 00:03.400",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.4,
+      "end": 8.68,
+      "ts": "00:03.400 -> 00:08.680",
+      "jp": "今日は春の天気について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>春<rt>はる</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>について",
+      "zh": "今天关于春天的天气",
+      "en": "Today's weather in spring"
+    },
+    {
+      "id": 2,
+      "start": 8.68,
+      "end": 11.8,
+      "ts": "00:08.680 -> 00:11.800",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好👋",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 11.8,
+      "end": 14.26,
+      "ts": "00:11.800 -> 00:14.260",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语 Conteppe 的时间呢",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 14.26,
+      "end": 15.26,
+      "ts": "00:14.260 -> 00:15.260",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 15.26,
+      "end": 20.82,
+      "ts": "00:15.260 -> 00:20.820",
+      "jp": "あの前回1500回でしたね",
+      "jp_html": "あの<ruby>前回<rt>ぜんかい</rt></ruby>1500<ruby>回<rt>かい</rt></ruby>でしたね",
+      "zh": "上次是第1500次吧",
+      "en": "That was 1500 times last time, right?"
+    },
+    {
+      "id": 6,
+      "start": 20.82,
+      "end": 24.02,
+      "ts": "00:20.820 -> 00:24.020",
+      "jp": "今日は1501回",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>1501<ruby>回<rt>かい</rt></ruby>",
+      "zh": "今天是第1501次",
+      "en": "Today is day 1501."
+    },
+    {
+      "id": 7,
+      "start": 24.02,
+      "end": 26.62,
+      "ts": "00:24.020 -> 00:26.620",
+      "jp": "頑張っていきましょう",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>ていきましょう",
+      "zh": "让我们继续努力吧",
+      "en": "Let's work hard together."
+    },
+    {
+      "id": 8,
+      "start": 26.62,
+      "end": 31.740000000000002,
+      "ts": "00:26.620 -> 00:31.740",
+      "jp": "でもね今日は天気が悪い",
+      "jp_html": "でもね<ruby>今日は<rt>こんにちは</rt></ruby><ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>",
+      "zh": "但是今天天气不好",
+      "en": "But you know today the weather is bad."
+    },
+    {
+      "id": 9,
+      "start": 31.740000000000002,
+      "end": 39.5,
+      "ts": "00:31.740 -> 00:39.500",
+      "jp": "なんかね春の東京は結構",
+      "jp_html": "なんかね<ruby>春<rt>はる</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "嗯，春天的东京还是挺不错的",
+      "en": "Well, Tokyo in spring is quite"
+    },
+    {
+      "id": 10,
+      "start": 39.5,
+      "end": 44.38,
+      "ts": "00:39.500 -> 00:44.380",
+      "jp": "まあ難しい天気ですね",
+      "jp_html": "まあ<ruby>難しい<rt>むずかしい</rt></ruby><ruby>天気<rt>てんき</rt></ruby>ですね",
+      "zh": "天气真是难预料呢",
+      "en": "The weather is pretty tricky, huh?"
+    },
+    {
+      "id": 11,
+      "start": 44.38,
+      "end": 47.92,
+      "ts": "00:44.380 -> 00:47.920",
+      "jp": "ある時はとてもとてもいい天気",
+      "jp_html": "ある<ruby>時<rt>とき</rt></ruby>はとてもとてもいい<ruby>天気<rt>てんき</rt></ruby>",
+      "zh": "有时天气非常好",
+      "en": "Sometimes it is nice weather."
+    },
+    {
+      "id": 12,
+      "start": 47.92,
+      "end": 53.620000000000005,
+      "ts": "00:47.920 -> 00:53.620",
+      "jp": "暖かくて寒くない暑くない",
+      "jp_html": "<ruby>暖かく<rt>あたたかく</rt></ruby>て<ruby>寒く<rt>さむく</rt></ruby>ない<ruby>暑く<rt>あつく</rt></ruby>ない",
+      "zh": "温暖不冷也不热",
+      "en": "It's warm and neither too hot nor too cold."
+    },
+    {
+      "id": 13,
+      "start": 53.620000000000005,
+      "end": 55.36,
+      "ts": "00:53.620 -> 00:55.360",
+      "jp": "最高の天気",
+      "jp_html": "<ruby>最高<rt>さいこう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>",
+      "zh": "最好的天气",
+      "en": "The best weather"
+    },
+    {
+      "id": 14,
+      "start": 55.36,
+      "end": 60.24,
+      "ts": "00:55.360 -> 01:00.240",
+      "jp": "ただ次の日は雨が降ったり",
+      "jp_html": "ただ<ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>にち</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たり",
+      "zh": "只是第二天下雨了",
+      "en": "Just the next day, it rained."
+    },
+    {
+      "id": 15,
+      "start": 60.24,
+      "end": 62.86,
+      "ts": "01:00.240 -> 01:02.860",
+      "jp": "曇りだったり",
+      "jp_html": "<ruby>曇り<rt>くもり</rt></ruby>だったり",
+      "zh": "阴天或者",
+      "en": "It was cloudy or"
+    },
+    {
+      "id": 16,
+      "start": 62.86,
+      "end": 67.46,
+      "ts": "01:02.860 -> 01:07.460",
+      "jp": "なんか一日中雨なのか曇りなのか",
+      "jp_html": "なんか<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>雨<rt>あめ</rt></ruby>なのか<ruby>曇り<rt>くもり</rt></ruby>なのか",
+      "zh": "一整天都在下雨还是阴天呢",
+      "en": "It's either raining all day or it's overcast."
+    },
+    {
+      "id": 17,
+      "start": 67.46,
+      "end": 70.06,
+      "ts": "01:07.460 -> 01:10.060",
+      "jp": "よくわからない天気だったり",
+      "jp_html": "よくわからない<ruby>天気<rt>てんき</rt></ruby>だったり",
+      "zh": "天气让人摸不透",
+      "en": "The weather was pretty confusing or unclear."
+    },
+    {
+      "id": 18,
+      "start": 70.06,
+      "end": 74.94,
+      "ts": "01:10.060 -> 01:14.940",
+      "jp": "そしたらまたいい天気になったり",
+      "jp_html": "そしたらまたいい<ruby>天気<rt>てんき</rt></ruby>になったり",
+      "zh": "然后天气又变好了或者",
+      "en": "Then it would turn out to be nice weather again."
+    },
+    {
+      "id": 19,
+      "start": 74.94,
+      "end": 80.44,
+      "ts": "01:14.940 -> 01:20.440",
+      "jp": "そして次の日はまた風が強くて",
+      "jp_html": "そして<ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>にち</rt></ruby>はまた<ruby>風<rt>かぜ</rt></ruby>が<ruby>強く<rt>つよく</rt></ruby>て",
+      "zh": "然后第二天风又很强",
+      "en": "And the next day, the wind was strong again."
+    },
+    {
+      "id": 20,
+      "start": 80.44,
+      "end": 82.66,
+      "ts": "01:20.440 -> 01:22.660",
+      "jp": "寒くなったり",
+      "jp_html": "<ruby>寒く<rt>さむく</rt></ruby>なったり",
+      "zh": "冷下来了",
+      "en": "It gets cold sometimes."
+    },
+    {
+      "id": 21,
+      "start": 82.66,
+      "end": 85.44,
+      "ts": "01:22.660 -> 01:25.440",
+      "jp": "もう毎日毎日忙しいですね",
+      "jp_html": "もう<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>忙しい<rt>いそがしい</rt></ruby>ですね",
+      "zh": "每天都很忙吧",
+      "en": "You seem to be busy every day every day."
+    },
+    {
+      "id": 22,
+      "start": 85.44,
+      "end": 89.5,
+      "ts": "01:25.440 -> 01:29.500",
+      "jp": "日本の冬は",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>は",
+      "zh": "日本冬天是",
+      "en": "Winter in Japan is"
+    },
+    {
+      "id": 23,
+      "start": 89.5,
+      "end": 95.5,
+      "ts": "01:29.500 -> 01:35.500",
+      "jp": "東京の冬はもっと",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>はもっと",
+      "zh": "东京的冬天更加",
+      "en": "Winter in Tokyo is much"
+    },
+    {
+      "id": 24,
+      "start": 95.5,
+      "end": 97.0,
+      "ts": "01:35.500 -> 01:37.000",
+      "jp": "もっと",
+      "jp_html": "もっと",
+      "zh": "更多",
+      "en": "more"
+    },
+    {
+      "id": 25,
+      "start": 97.0,
+      "end": 99.84,
+      "ts": "01:37.000 -> 01:39.840",
+      "jp": "毎日が同じですよね",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>が<ruby>同じ<rt>おなじ</rt></ruby>ですよね",
+      "zh": "每一天都一样吧？",
+      "en": "Isn't every day the same?"
+    },
+    {
+      "id": 26,
+      "start": 99.84,
+      "end": 103.6,
+      "ts": "01:39.840 -> 01:43.600",
+      "jp": "雨がほとんどなくて",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>がほとんどなくて",
+      "zh": "几乎没有下雨",
+      "en": "There was almost no rain"
+    },
+    {
+      "id": 27,
+      "start": 103.6,
+      "end": 107.76,
+      "ts": "01:43.600 -> 01:47.760",
+      "jp": "夜と朝はとても寒いんですが",
+      "jp_html": "<ruby>夜<rt>よる</rt></ruby>と<ruby>朝<rt>あさ</rt></ruby>はとても<ruby>寒い<rt>さむい</rt></ruby>んですが",
+      "zh": "夜晚和早晨都非常冷",
+      "en": "Night and morning are very cold."
+    },
+    {
+      "id": 28,
+      "start": 107.76,
+      "end": 110.48,
+      "ts": "01:47.760 -> 01:50.480",
+      "jp": "昼はとても暖かくて",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>はとても<ruby>暖かく<rt>あたたかく</rt></ruby>て",
+      "zh": "白天非常温暖",
+      "en": "It was very warm in the afternoon."
+    },
+    {
+      "id": 29,
+      "start": 110.48,
+      "end": 112.7,
+      "ts": "01:50.480 -> 01:52.700",
+      "jp": "まあとても暖かいというかまあ天気がいい",
+      "jp_html": "まあとても<ruby>暖かい<rt>あたたかい</rt></ruby>というかまあ<ruby>天気<rt>てんき</rt></ruby>がいい",
+      "zh": "天气很好，或者说非常温暖",
+      "en": "Well, it's quite warm, I suppose the weather is nice."
+    },
+    {
+      "id": 30,
+      "start": 112.7,
+      "end": 114.06,
+      "ts": "01:52.700 -> 01:54.060",
+      "jp": "晴れてるんですね",
+      "jp_html": "<ruby>晴れ<rt>はれ</rt></ruby>てるんですね",
+      "zh": "天气晴朗啊",
+      "en": "It's sunny, isn't it?"
+    },
+    {
+      "id": 31,
+      "start": 114.06,
+      "end": 117.24000000000001,
+      "ts": "01:54.060 -> 01:57.240",
+      "jp": "太陽があって天気がいい",
+      "jp_html": "<ruby>太陽<rt>たいよう</rt></ruby>があって<ruby>天気<rt>てんき</rt></ruby>がいい",
+      "zh": "太阳出来天气好",
+      "en": "The sun is out and the weather is nice."
+    },
+    {
+      "id": 32,
+      "start": 117.24000000000001,
+      "end": 120.24000000000001,
+      "ts": "01:57.240 -> 02:00.240",
+      "jp": "まあもちろんちょっと寒い日もあるけど",
+      "jp_html": "まあもちろんちょっと<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>にち</rt></ruby>もあるけど",
+      "zh": "当然，偶尔也会有点冷。",
+      "en": "Of course, there are also slightly cold days."
+    },
+    {
+      "id": 33,
+      "start": 120.24000000000001,
+      "end": 122.16,
+      "ts": "02:00.240 -> 02:02.160",
+      "jp": "でも天気はいい",
+      "jp_html": "でも<ruby>天気<rt>てんき</rt></ruby>はいい",
+      "zh": "但是天气很好",
+      "en": "But the weather is nice."
+    },
+    {
+      "id": 34,
+      "start": 122.16,
+      "end": 123.88000000000001,
+      "ts": "02:02.160 -> 02:03.880",
+      "jp": "それが冬ですね",
+      "jp_html": "それが<ruby>冬<rt>ふゆ</rt></ruby>ですね",
+      "zh": "那是冬天吧",
+      "en": "That's winter, isn't it?"
+    },
+    {
+      "id": 35,
+      "start": 123.88000000000001,
+      "end": 128.74,
+      "ts": "02:03.880 -> 02:08.740",
+      "jp": "ただ春はやっぱり雨が増えるし",
+      "jp_html": "ただ<ruby>春<rt>はる</rt></ruby>はやっぱり<ruby>雨<rt>あめ</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>るし",
+      "zh": "只是春天果然雨水增多",
+      "en": "Just like spring, it seems to have more rain."
+    },
+    {
+      "id": 36,
+      "start": 128.74,
+      "end": 130.98000000000002,
+      "ts": "02:08.740 -> 02:10.980",
+      "jp": "曇りが増えます",
+      "jp_html": "<ruby>曇り<rt>くもり</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>ます",
+      "zh": "云越来越多",
+      "en": "Clouds increase"
+    },
+    {
+      "id": 37,
+      "start": 130.98000000000002,
+      "end": 134.42000000000002,
+      "ts": "02:10.980 -> 02:14.420",
+      "jp": "3月の真ん中ぐらいかな",
+      "jp_html": "3<ruby>月<rt>がつ</rt></ruby>の<ruby>真ん中<rt>まんなか</rt></ruby>ぐらいかな",
+      "zh": "大概在三月份的中间左右吧",
+      "en": "It's around the middle of March."
+    },
+    {
+      "id": 38,
+      "start": 134.42000000000002,
+      "end": 138.86,
+      "ts": "02:14.420 -> 02:18.860",
+      "jp": "3月の真ん中ぐらいから雨が増えてきて",
+      "jp_html": "3<ruby>月<rt>がつ</rt></ruby>の<ruby>真ん中<rt>まんなか</rt></ruby>ぐらいから<ruby>雨<rt>あめ</rt></ruby>が<ruby>増え<rt>ふえ</rt></ruby>てきて",
+      "zh": "从三月份的中间左右开始下雨增多",
+      "en": "Around mid-March, it started raining more."
+    },
+    {
+      "id": 39,
+      "start": 138.86,
+      "end": 140.56,
+      "ts": "02:18.860 -> 02:20.560",
+      "jp": "たまに",
+      "jp_html": "たまに",
+      "zh": "偶尔",
+      "en": "Sometimes"
+    },
+    {
+      "id": 40,
+      "start": 140.56,
+      "end": 143.24,
+      "ts": "02:20.560 -> 02:23.240",
+      "jp": "まあ大雨ですね",
+      "jp_html": "まあ<ruby>大雨<rt>おおあめ</rt></ruby>ですね",
+      "zh": "真是场大雨呢",
+      "en": "Well, it's a heavy rain, isn't it?"
+    },
+    {
+      "id": 41,
+      "start": 143.24,
+      "end": 145.20000000000002,
+      "ts": "02:23.240 -> 02:25.200",
+      "jp": "結構強い雨が降ったり",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たり",
+      "zh": "结构强的雨下个不停",
+      "en": "It rained very hard at times."
+    },
+    {
+      "id": 42,
+      "start": 145.20000000000002,
+      "end": 146.5,
+      "ts": "02:25.200 -> 02:26.500",
+      "jp": "結構めんどくさい",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>めんどくさい",
+      "zh": "结构麻烦",
+      "en": "It's troublesome."
+    },
+    {
+      "id": 43,
+      "start": 146.5,
+      "end": 150.74,
+      "ts": "02:26.500 -> 02:30.740",
+      "jp": "僕は日本の春はちょっと",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>はちょっと",
+      "zh": "我感觉日本的春天有点儿",
+      "en": "I think Japan's spring is just a little bit"
+    },
+    {
+      "id": 44,
+      "start": 150.74,
+      "end": 152.82000000000002,
+      "ts": "02:30.740 -> 02:32.820",
+      "jp": "めんどくさいと思いますね",
+      "jp_html": "めんどくさいと<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "你觉得麻烦吧",
+      "en": "I think you find it troublesome, right?"
+    },
+    {
+      "id": 45,
+      "start": 152.82,
+      "end": 155.35999999999999,
+      "ts": "02:32.820 -> 02:35.360",
+      "jp": "とてもいい日もあるけど",
+      "jp_html": "とてもいい<ruby>日<rt>にち</rt></ruby>もあるけど",
+      "zh": "有时候也会很好晴朗",
+      "en": "There are also days that are very good."
+    },
+    {
+      "id": 46,
+      "start": 155.35999999999999,
+      "end": 156.95999999999998,
+      "ts": "02:35.360 -> 02:36.960",
+      "jp": "なんか悪い日もあって",
+      "jp_html": "なんか<ruby>悪い<rt>わるい</rt></ruby><ruby>日<rt>にち</rt></ruby>もあって",
+      "zh": "有些日子感觉不太好",
+      "en": "There were also some bad days."
+    },
+    {
+      "id": 47,
+      "start": 156.95999999999998,
+      "end": 157.76,
+      "ts": "02:36.960 -> 02:37.760",
+      "jp": "天気ですね",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>ですね",
+      "zh": "天气呢",
+      "en": "The weather, right?"
+    },
+    {
+      "id": 48,
+      "start": 157.76,
+      "end": 158.94,
+      "ts": "02:37.760 -> 02:38.940",
+      "jp": "天気がいい日があって",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>がいい<ruby>日<rt>にち</rt></ruby>があって",
+      "zh": "有一个好天气的日子",
+      "en": "There is a day with good weather"
+    },
+    {
+      "id": 49,
+      "start": 158.94,
+      "end": 160.26,
+      "ts": "02:38.940 -> 02:40.260",
+      "jp": "天気が悪い日があって",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>日<rt>にち</rt></ruby>があって",
+      "zh": "有一个天气不好的日子",
+      "en": "There is a day when the weather is bad."
+    },
+    {
+      "id": 50,
+      "start": 160.26,
+      "end": 162.5,
+      "ts": "02:40.260 -> 02:42.500",
+      "jp": "ちょっと難しいですね",
+      "jp_html": "ちょっと<ruby>難しい<rt>むずかしい</rt></ruby>ですね",
+      "zh": "这有点难呢",
+      "en": "It's a bit difficult, huh?"
+    },
+    {
+      "id": 51,
+      "start": 162.5,
+      "end": 163.72,
+      "ts": "02:42.500 -> 02:43.720",
+      "jp": "ちょっとこう",
+      "jp_html": "ちょっとこう",
+      "zh": "稍微这样",
+      "en": "Just a little like this"
+    },
+    {
+      "id": 52,
+      "start": 163.72,
+      "end": 167.04,
+      "ts": "02:43.720 -> 02:47.040",
+      "jp": "今日は傘が必要なのかな",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>傘<rt>かさ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なのかな",
+      "zh": "今天需要带伞吗",
+      "en": "Do I need an umbrella today?"
+    },
+    {
+      "id": 53,
+      "start": 167.04,
+      "end": 169.76,
+      "ts": "02:47.040 -> 02:49.760",
+      "jp": "それとも傘が必要じゃないのかな",
+      "jp_html": "それとも<ruby>傘<rt>かさ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>じゃないのかな",
+      "zh": "那 maybe 不需要伞吧",
+      "en": "Or do you not need an umbrella?"
+    },
+    {
+      "id": 54,
+      "start": 169.76,
+      "end": 171.72,
+      "ts": "02:49.760 -> 02:51.720",
+      "jp": "ちょっと分かりにくいです",
+      "jp_html": "ちょっと<ruby>分か<rt>わか</rt></ruby>りにくいです",
+      "zh": "有点难懂。",
+      "en": "It's a bit hard to understand."
+    },
+    {
+      "id": 55,
+      "start": 171.72,
+      "end": 175.44,
+      "ts": "02:51.720 -> 02:55.440",
+      "jp": "だからたくさんの人はいつも",
+      "jp_html": "だからたくさんの<ruby>人<rt>にん</rt></ruby>はいつも",
+      "zh": "所以很多人总是",
+      "en": "So many people always"
+    },
+    {
+      "id": 56,
+      "start": 175.44,
+      "end": 176.95999999999998,
+      "ts": "02:55.440 -> 02:56.960",
+      "jp": "小さい傘を",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>傘<rt>かさ</rt></ruby>を",
+      "zh": "小伞",
+      "en": "Small umbrella"
+    },
+    {
+      "id": 57,
+      "start": 176.95999999999998,
+      "end": 179.64,
+      "ts": "02:56.960 -> 02:59.640",
+      "jp": "カバンの中に入れてますね",
+      "jp_html": "カバンの<ruby>中に<rt>なかに</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>てますね",
+      "zh": "我把它们放在包里了。",
+      "en": "I put it in my bag, huh?"
+    },
+    {
+      "id": 58,
+      "start": 179.64,
+      "end": 182.76,
+      "ts": "02:59.640 -> 03:02.760",
+      "jp": "僕もいつも外に出るときは",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>もいつも<ruby>外<rt>そと</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>ときは",
+      "zh": "我每次外出时也会",
+      "en": "I also always go out when"
+    },
+    {
+      "id": 59,
+      "start": 182.76,
+      "end": 185.56,
+      "ts": "03:02.760 -> 03:05.560",
+      "jp": "小さい傘を持っていきます",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>傘<rt>かさ</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていきます",
+      "zh": "带一把小伞",
+      "en": "I will bring a small umbrella."
+    },
+    {
+      "id": 60,
+      "start": 185.56,
+      "end": 188.57999999999998,
+      "ts": "03:05.560 -> 03:08.580",
+      "jp": "小さい傘をバックパックに入れている",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>傘<rt>かさ</rt></ruby>をバックパックに<ruby>入れ<rt>いれ</rt></ruby>ている",
+      "zh": "把小伞放进背包里",
+      "en": "I have a small umbrella in my backpack."
+    },
+    {
+      "id": 61,
+      "start": 188.57999999999998,
+      "end": 191.0,
+      "ts": "03:08.580 -> 03:11.000",
+      "jp": "でもちょっとめんどくさいですよね",
+      "jp_html": "でもちょっとめんどくさいですよね",
+      "zh": "但也挺麻烦的吧",
+      "en": "But it's a bit troublesome, isn't it?"
+    },
+    {
+      "id": 62,
+      "start": 191.0,
+      "end": 193.78,
+      "ts": "03:11.000 -> 03:13.780",
+      "jp": "重いし",
+      "jp_html": "<ruby>重い<rt>おもい</rt></ruby>し",
+      "zh": "好重啊",
+      "en": "It's heavy."
+    },
+    {
+      "id": 63,
+      "start": 193.78,
+      "end": 197.51999999999998,
+      "ts": "03:13.780 -> 03:17.520",
+      "jp": "小さい傘だけど少し重いでしょ",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>傘<rt>かさ</rt></ruby>だけど<ruby>少し<rt>すこし</rt></ruby><ruby>重い<rt>おもい</rt></ruby>でしょ",
+      "zh": "这个小伞虽然小，但有点重吧",
+      "en": "The umbrella is small but it's a bit heavy, right?"
+    },
+    {
+      "id": 64,
+      "start": 197.51999999999998,
+      "end": 199.29999999999998,
+      "ts": "03:17.520 -> 03:19.300",
+      "jp": "めんどくさいしね",
+      "jp_html": "めんどくさいしね",
+      "zh": "麻烦啊",
+      "en": "It's troublesome, you know?"
+    },
+    {
+      "id": 65,
+      "start": 199.3,
+      "end": 203.12,
+      "ts": "03:19.300 -> 03:23.120",
+      "jp": "そして洗濯もめんどくさい",
+      "jp_html": "そして<ruby>洗濯<rt>せんたく</rt></ruby>もめんどくさい",
+      "zh": "然后洗衣服也麻烦",
+      "en": "And laundry is also troublesome."
+    },
+    {
+      "id": 66,
+      "start": 203.12,
+      "end": 204.98000000000002,
+      "ts": "03:23.120 -> 03:24.980",
+      "jp": "洗濯物が乾かない",
+      "jp_html": "<ruby>洗濯物<rt>せんたくもの</rt></ruby>が<ruby>乾か<rt>かわか</rt></ruby>ない",
+      "zh": "衣服晾不干",
+      "en": "Clothes don't dry"
+    },
+    {
+      "id": 67,
+      "start": 204.98000000000002,
+      "end": 210.46,
+      "ts": "03:24.980 -> 03:30.460",
+      "jp": "今日も実は天気が悪くて",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>実は<rt>じつは</rt></ruby><ruby>天気<rt>てんき</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>て",
+      "zh": "今天实际上天气不太好",
+      "en": "Today actually turned out to have bad weather."
+    },
+    {
+      "id": 68,
+      "start": 210.46,
+      "end": 211.84,
+      "ts": "03:30.460 -> 03:31.840",
+      "jp": "でも洗濯をしました",
+      "jp_html": "でも<ruby>洗濯<rt>せんたく</rt></ruby>をしました",
+      "zh": "但是我洗了衣服",
+      "en": "But I did do the laundry."
+    },
+    {
+      "id": 69,
+      "start": 211.84,
+      "end": 215.84,
+      "ts": "03:31.840 -> 03:35.840",
+      "jp": "洗濯をしたけど乾かないんですね",
+      "jp_html": "<ruby>洗濯<rt>せんたく</rt></ruby>をしたけど<ruby>乾か<rt>かわか</rt></ruby>ないんですね",
+      "zh": "洗了但是晾不干",
+      "en": "I washed it but it's not drying."
+    },
+    {
+      "id": 70,
+      "start": 215.84,
+      "end": 221.24,
+      "ts": "03:35.840 -> 03:41.240",
+      "jp": "じゃあ今日洗濯をしなければよかったじゃないですか",
+      "jp_html": "じゃあ<ruby>今日<rt>きょう</rt></ruby><ruby>洗濯<rt>せんたく</rt></ruby>をしなければよかったじゃないですか",
+      "zh": "那你今天就不应该洗衣服了对吧",
+      "en": "Then you shouldn't have done the laundry today, right?"
+    },
+    {
+      "id": 71,
+      "start": 221.24,
+      "end": 221.96,
+      "ts": "03:41.240 -> 03:41.960",
+      "jp": "先生と",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>と",
+      "zh": "先生和",
+      "en": "teacher and"
+    },
+    {
+      "id": 72,
+      "start": 221.96,
+      "end": 225.82,
+      "ts": "03:41.960 -> 03:45.820",
+      "jp": "明日洗濯をすればいいんじゃないですかと",
+      "jp_html": "<ruby>明日<rt>あした</rt></ruby><ruby>洗濯<rt>せんたく</rt></ruby>をすればいいんじゃないですかと",
+      "zh": "不是明天洗衣服就好了嘛",
+      "en": "Don't you think it's better to do the laundry tomorrow?"
+    },
+    {
+      "id": 73,
+      "start": 225.82,
+      "end": 227.46,
+      "ts": "03:45.820 -> 03:47.460",
+      "jp": "まあ思うでしょう",
+      "jp_html": "まあ<ruby>思う<rt>おもう</rt></ruby>でしょう",
+      "zh": "大概会这么想吧",
+      "en": "Well, you'd think so."
+    },
+    {
+      "id": 74,
+      "start": 227.46,
+      "end": 230.24,
+      "ts": "03:47.460 -> 03:50.240",
+      "jp": "でも実は昨日も雨だったし",
+      "jp_html": "でも<ruby>実は<rt>じつは</rt></ruby><ruby>昨日<rt>きのう</rt></ruby>も<ruby>雨<rt>あめ</rt></ruby>だったし",
+      "zh": "但其实昨天也是下雨的",
+      "en": "But actually, it was raining yesterday too."
+    },
+    {
+      "id": 75,
+      "start": 230.24,
+      "end": 232.18,
+      "ts": "03:50.240 -> 03:52.180",
+      "jp": "明日も雨なんですね",
+      "jp_html": "<ruby>明日<rt>あした</rt></ruby>も<ruby>雨<rt>あめ</rt></ruby>なんですね",
+      "zh": "明天也会下雨呢",
+      "en": "It seems it will rain tomorrow too."
+    },
+    {
+      "id": 76,
+      "start": 232.18,
+      "end": 235.1,
+      "ts": "03:52.180 -> 03:55.100",
+      "jp": "3日間くらい雨だと",
+      "jp_html": "3<ruby>日間<rt>にちかん</rt></ruby>くらい<ruby>雨<rt>あめ</rt></ruby>だと",
+      "zh": "下雨持续三天地左右",
+      "en": "It will rain for about 3 days."
+    },
+    {
+      "id": 77,
+      "start": 235.1,
+      "end": 238.0,
+      "ts": "03:55.100 -> 03:58.000",
+      "jp": "ちょっとね洗濯が必要ですよね",
+      "jp_html": "ちょっとね<ruby>洗濯<rt>せんたく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>ですよね",
+      "zh": "稍微的话，需要洗衣了吧？",
+      "en": "Um, we need to do some laundry, right?"
+    },
+    {
+      "id": 78,
+      "start": 238.0,
+      "end": 240.96,
+      "ts": "03:58.000 -> 04:00.960",
+      "jp": "で僕はドライヤー",
+      "jp_html": "で<ruby>僕は<rt>ぼくは</rt></ruby>ドライヤー",
+      "zh": "我用吹风机",
+      "en": "So I used the hair dryer"
+    },
+    {
+      "id": 79,
+      "start": 240.96,
+      "end": 241.20000000000002,
+      "ts": "04:00.960 -> 04:01.200",
+      "jp": "その",
+      "jp_html": "その",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 80,
+      "start": 241.20000000000002,
+      "end": 243.0,
+      "ts": "04:01.200 -> 04:03.000",
+      "jp": "えっと",
+      "jp_html": "えっと",
+      "zh": "嗯twor",
+      "en": "Ummmaaand..."
+    },
+    {
+      "id": 81,
+      "start": 243.0,
+      "end": 245.22,
+      "ts": "04:03.000 -> 04:05.220",
+      "jp": "衣類洗",
+      "jp_html": "<ruby>衣類<rt>いるい</rt></ruby><ruby>洗<rt>せん</rt></ruby>",
+      "zh": "衣物洗",
+      "en": "Clothes washing"
+    },
+    {
+      "id": 82,
+      "start": 245.22,
+      "end": 246.84,
+      "ts": "04:05.220 -> 04:06.840",
+      "jp": "衣類乾燥機",
+      "jp_html": "<ruby>衣類<rt>いるい</rt></ruby><ruby>乾燥機<rt>かんそうき</rt></ruby>",
+      "zh": "衣物干燥机",
+      "en": "Clothes dryer"
+    },
+    {
+      "id": 83,
+      "start": 246.98000000000002,
+      "end": 248.74,
+      "ts": "04:06.980 -> 04:08.740",
+      "jp": "乾燥機と言いますね",
+      "jp_html": "<ruby>乾燥機<rt>かんそうき</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ますね",
+      "zh": "叫作烘干机吧",
+      "en": "It's called a dryer, right?"
+    },
+    {
+      "id": 84,
+      "start": 248.74,
+      "end": 249.46,
+      "ts": "04:08.740 -> 04:09.460",
+      "jp": "乾燥機",
+      "jp_html": "<ruby>乾燥機<rt>かんそうき</rt></ruby>",
+      "zh": "烘干机",
+      "en": "dryer"
+    },
+    {
+      "id": 85,
+      "start": 249.46,
+      "end": 250.60000000000002,
+      "ts": "04:09.460 -> 04:10.600",
+      "jp": "そのドライヤーね",
+      "jp_html": "そのドライヤーね",
+      "zh": "那个吹风机呢",
+      "en": "That dryer, right?"
+    },
+    {
+      "id": 86,
+      "start": 250.60000000000002,
+      "end": 252.0,
+      "ts": "04:10.600 -> 04:12.000",
+      "jp": "ドライヤー",
+      "jp_html": "ドライヤー",
+      "zh": "吹风机",
+      "en": "Hair dryer"
+    },
+    {
+      "id": 87,
+      "start": 252.0,
+      "end": 255.16,
+      "ts": "04:12.000 -> 04:15.160",
+      "jp": "乾燥機を持ってません",
+      "jp_html": "<ruby>乾燥機<rt>かんそうき</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>てません",
+      "zh": "没有烘干机",
+      "en": "I don't have a dryer."
+    },
+    {
+      "id": 88,
+      "start": 255.16,
+      "end": 259.82,
+      "ts": "04:15.160 -> 04:19.820",
+      "jp": "たくさんの人は持ってないと思う",
+      "jp_html": "たくさんの<ruby>人<rt>にん</rt></ruby>は<ruby>持っ<rt>もっ</rt></ruby>てないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想很多人没有",
+      "en": "I think many people don't have it."
+    },
+    {
+      "id": 89,
+      "start": 259.82,
+      "end": 264.52,
+      "ts": "04:19.820 -> 04:24.520",
+      "jp": "新しい家に住んでる人は持ってると思う",
+      "jp_html": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>家<rt>いえ</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でる<ruby>人<rt>にん</rt></ruby>は<ruby>持っ<rt>もっ</rt></ruby>てると<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "住在新家里的人应该有这个想法吧",
+      "en": "I think people who live in the new house have one."
+    },
+    {
+      "id": 90,
+      "start": 264.52,
+      "end": 269.76,
+      "ts": "04:24.520 -> 04:29.760",
+      "jp": "だから洗濯をしなければいけない",
+      "jp_html": "だから<ruby>洗濯<rt>せんたく</rt></ruby>をしなければいけない",
+      "zh": "所以必须要洗衣服",
+      "en": "So I need to do laundry."
+    },
+    {
+      "id": 91,
+      "start": 269.76,
+      "end": 272.4,
+      "ts": "04:29.760 -> 04:32.400",
+      "jp": "だけど乾燥機がない",
+      "jp_html": "だけど<ruby>乾燥機<rt>かんそうき</rt></ruby>がない",
+      "zh": "但是没有烘干机",
+      "en": "But there is no dryer."
+    },
+    {
+      "id": 92,
+      "start": 272.4,
+      "end": 278.42,
+      "ts": "04:32.400 -> 04:38.420",
+      "jp": "なので部屋の中に洗濯物を干します",
+      "jp_html": "なので<ruby>部屋<rt>へや</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>干し<rt>ほし</rt></ruby>ます",
+      "zh": "所以我把衣服晾在了房间里",
+      "en": "So I dry my laundry inside the room."
+    },
+    {
+      "id": 93,
+      "start": 278.42,
+      "end": 280.2,
+      "ts": "04:38.420 -> 04:40.200",
+      "jp": "ちょっと時間がかかる",
+      "jp_html": "ちょっと<ruby>時間<rt>じかん</rt></ruby>がかかる",
+      "zh": "需要花一点时间",
+      "en": "It will take a little bit of time."
+    },
+    {
+      "id": 94,
+      "start": 280.2,
+      "end": 284.64,
+      "ts": "04:40.200 -> 04:44.640",
+      "jp": "天気がいい日だったら2時間とか",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>がいい<ruby>日<rt>にち</rt></ruby>だったら2<ruby>時間<rt>じかん</rt></ruby>とか",
+      "zh": "天气好的话可能是两小时左右",
+      "en": "If it's a nice day, maybe 2 hours or so."
+    },
+    {
+      "id": 95,
+      "start": 284.64,
+      "end": 287.24,
+      "ts": "04:44.640 -> 04:47.240",
+      "jp": "3時間くらいで乾く",
+      "jp_html": "3<ruby>時間<rt>じかん</rt></ruby>くらいで<ruby>乾く<rt>かわく</rt></ruby>",
+      "zh": "大约3小时变干",
+      "en": "It dries in about 3 hours."
+    },
+    {
+      "id": 96,
+      "start": 287.24,
+      "end": 289.41999999999996,
+      "ts": "04:47.240 -> 04:49.420",
+      "jp": "でも家の中だと",
+      "jp_html": "でも<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>だと",
+      "zh": "但是在家里却",
+      "en": "But inside the house and"
+    },
+    {
+      "id": 97,
+      "start": 289.41999999999996,
+      "end": 291.62,
+      "ts": "04:49.420 -> 04:51.620",
+      "jp": "まあ1日かかりますね",
+      "jp_html": "まあ1<ruby>日<rt>にち</rt></ruby>かかりますね",
+      "zh": "大概需要一天吧",
+      "en": "It will take about 1 day, right?"
+    },
+    {
+      "id": 98,
+      "start": 291.62,
+      "end": 292.46,
+      "ts": "04:51.620 -> 04:52.460",
+      "jp": "1日中",
+      "jp_html": "1<ruby>日中<rt>にっちゅう</rt></ruby>",
+      "zh": "1日中",
+      "en": "During the day"
+    },
+    {
+      "id": 99,
+      "start": 292.46,
+      "end": 296.34,
+      "ts": "04:52.460 -> 04:56.340",
+      "jp": "まあまあまあ仕方がない",
+      "jp_html": "まあまあまあ<ruby>仕方<rt>しかた</rt></ruby>がない",
+      "zh": "没办法",
+      "en": "Well, there's nothing we can do about it."
+    },
+    {
+      "id": 100,
+      "start": 296.34,
+      "end": 298.15999999999997,
+      "ts": "04:56.340 -> 04:58.160",
+      "jp": "仕方がないです",
+      "jp_html": "<ruby>仕方<rt>しかた</rt></ruby>がないです",
+      "zh": "没有办法了",
+      "en": "There is nothing we can do."
+    },
+    {
+      "id": 101,
+      "start": 299.15999999999997,
+      "end": 300.36,
+      "ts": "04:59.160 -> 05:00.360",
+      "jp": "仕方がないけど",
+      "jp_html": "<ruby>仕方<rt>しかた</rt></ruby>がないけど",
+      "zh": "没办法吧",
+      "en": "There's nothing we can do but"
+    },
+    {
+      "id": 102,
+      "start": 300.36,
+      "end": 304.53999999999996,
+      "ts": "05:00.360 -> 05:04.540",
+      "jp": "春も多分終わってまた夏になるんですよね",
+      "jp_html": "<ruby>春<rt>はる</rt></ruby>も<ruby>多分<rt>たぶん</rt></ruby><ruby>終わ<rt>おわ</rt></ruby>ってまた<ruby>夏<rt>なつ</rt></ruby>になるんですよね",
+      "zh": "春天大概也已经结束了，又要变成夏天了吧",
+      "en": "Spring has probably ended and it will become summer again, right?"
+    },
+    {
+      "id": 103,
+      "start": 304.53999999999996,
+      "end": 306.02,
+      "ts": "05:04.540 -> 05:06.020",
+      "jp": "そうすると",
+      "jp_html": "そうすると",
+      "zh": "那么就会",
+      "en": "Then it will result in"
+    },
+    {
+      "id": 104,
+      "start": 306.02,
+      "end": 309.52,
+      "ts": "05:06.020 -> 05:09.520",
+      "jp": "夏は夏で大変ですね",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>夏<rt>なつ</rt></ruby>で<ruby>大変<rt>たいへん</rt></ruby>ですね",
+      "zh": "夏天也很辛苦呢",
+      "en": "Summer can be tough, you know?"
+    },
+    {
+      "id": 105,
+      "start": 309.52,
+      "end": 312.52,
+      "ts": "05:09.520 -> 05:12.520",
+      "jp": "いやその前に梅雨がきますね",
+      "jp_html": "いやその<ruby>前<rt>まえ</rt></ruby>に<ruby>梅雨<rt>つゆ</rt></ruby>がきますね",
+      "zh": "不过在此之前，梅雨季就要来了呢",
+      "en": "No, before that, the rainy season is coming."
+    },
+    {
+      "id": 106,
+      "start": 312.52,
+      "end": 314.15999999999997,
+      "ts": "05:12.520 -> 05:14.160",
+      "jp": "日本の場合は梅雨が来る",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>梅雨<rt>つゆ</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>",
+      "zh": "日本的话是梅雨季节来临",
+      "en": "In Japan, rainy season arrives."
+    },
+    {
+      "id": 107,
+      "start": 314.64,
+      "end": 315.84,
+      "ts": "05:14.640 -> 05:15.840",
+      "jp": "これがまた",
+      "jp_html": "これがまた",
+      "zh": "这可真是",
+      "en": "This is also"
+    },
+    {
+      "id": 108,
+      "start": 315.84,
+      "end": 320.24,
+      "ts": "05:15.840 -> 05:20.240",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嗯嗯嗯",
+      "en": "Well well well"
+    },
+    {
+      "id": 109,
+      "start": 320.24,
+      "end": 321.46,
+      "ts": "05:20.240 -> 05:21.460",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 110,
+      "start": 321.46,
+      "end": 324.78,
+      "ts": "05:21.460 -> 05:24.780",
+      "jp": "まあ文句が多すぎる",
+      "jp_html": "まあ<ruby>文句<rt>もんく</rt></ruby>が<ruby>多す<rt>おおす</rt></ruby>ぎる",
+      "zh": "唉，抱怨太多了吧",
+      "en": "You're complaining too much."
+    },
+    {
+      "id": 111,
+      "start": 324.78,
+      "end": 327.0,
+      "ts": "05:24.780 -> 05:27.000",
+      "jp": "文句を言っても仕方がない",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>も<ruby>仕方<rt>しかた</rt></ruby>がない",
+      "zh": "说也没用",
+      "en": "There's no point in saying anything anyway."
+    },
+    {
+      "id": 112,
+      "start": 327.0,
+      "end": 329.9,
+      "ts": "05:27.000 -> 05:29.900",
+      "jp": "文句を言っても仕方がないです",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>も<ruby>仕方<rt>しかた</rt></ruby>がないです",
+      "zh": "说也没用",
+      "en": "There's no point in saying nasty things."
+    },
+    {
+      "id": 113,
+      "start": 329.9,
+      "end": 333.18,
+      "ts": "05:29.900 -> 05:33.180",
+      "jp": "仕方がないけど文句を言いたくなる",
+      "jp_html": "<ruby>仕方<rt>しかた</rt></ruby>がないけど<ruby>文句<rt>もんく</rt></ruby>を<ruby>言い<rt>いい</rt></ruby>たくなる",
+      "zh": "没办法，但还是想抱怨一下",
+      "en": "There's nothing we can do, but I want to complain."
+    },
+    {
+      "id": 114,
+      "start": 333.18,
+      "end": 335.0,
+      "ts": "05:33.180 -> 05:35.000",
+      "jp": "文句だから",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby>だから",
+      "zh": "文案所以",
+      "en": "Because of the words"
+    },
+    {
+      "id": 115,
+      "start": 335.0,
+      "end": 337.62,
+      "ts": "05:35.000 -> 05:37.620",
+      "jp": "文句がどんどん出てくる",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby>がどんどん<ruby>出て<rt>でて</rt></ruby>くる",
+      "zh": "话越来越多",
+      "en": "Complaints keep coming up."
+    },
+    {
+      "id": 116,
+      "start": 337.62,
+      "end": 340.08,
+      "ts": "05:37.620 -> 05:40.080",
+      "jp": "まあ皆さんも文句を言ってください",
+      "jp_html": "まあ<ruby>皆さん<rt>みなさん</rt></ruby>も<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "大家也可以提出意见",
+      "en": "Well, please also complain if you have anything to say."
+    },
+    {
+      "id": 117,
+      "start": 340.08,
+      "end": 342.97999999999996,
+      "ts": "05:40.080 -> 05:42.980",
+      "jp": "文句を日本語で言ってください",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby>を<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "请用日语说一句话。",
+      "en": "Say a sentence in Japanese."
+    },
+    {
+      "id": 118,
+      "start": 342.97999999999996,
+      "end": 345.5,
+      "ts": "05:42.980 -> 05:45.500",
+      "jp": "日本語で文句を言えば",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>文句<rt>もんく</rt></ruby>を<ruby>言え<rt>いえ</rt></ruby>ば",
+      "zh": "用日语抱怨的话",
+      "en": "If you say anything in Japanese,投诉"
+    },
+    {
+      "id": 119,
+      "start": 345.5,
+      "end": 350.21999999999997,
+      "ts": "05:45.500 -> 05:50.220",
+      "jp": "それは本当に日本語の勉強の役に立ちます",
+      "jp_html": "それは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>役に立ち<rt>やくにたち</rt></ruby>ます",
+      "zh": "那真的会对学习日语有帮助",
+      "en": "It really helps with studying Japanese."
+    },
+    {
+      "id": 120,
+      "start": 350.22,
+      "end": 353.04,
+      "ts": "05:50.220 -> 05:53.040",
+      "jp": "とてもいい勉強方法です",
+      "jp_html": "とてもいい<ruby>勉強方法<rt>べんきょうほうほう</rt></ruby>です",
+      "zh": "这是一个很好的学习方法。",
+      "en": "It's a very good studying method."
+    },
+    {
+      "id": 121,
+      "start": 353.04,
+      "end": 354.48,
+      "ts": "05:53.040 -> 05:54.480",
+      "jp": "文句を言ってください",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "请说句话。",
+      "en": "Say something bad."
+    },
+    {
+      "id": 122,
+      "start": 354.48,
+      "end": 358.04,
+      "ts": "05:54.480 -> 05:58.040",
+      "jp": "あー今日も天気が悪いなー",
+      "jp_html": "あー<ruby>今日<rt>きょう</rt></ruby>も<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby>なー",
+      "zh": "哎，今天天气也真糟。",
+      "en": "Ah, the weather is bad again today."
+    },
+    {
+      "id": 123,
+      "start": 358.04,
+      "end": 360.3,
+      "ts": "05:58.040 -> 06:00.300",
+      "jp": "なんで雨なんだよーとかね",
+      "jp_html": "なんで<ruby>雨<rt>あめ</rt></ruby>なんだよーとかね",
+      "zh": "为什么下雨了呀",
+      "en": "Why is it raining, you know?"
+    },
+    {
+      "id": 124,
+      "start": 360.3,
+      "end": 362.62,
+      "ts": "06:00.300 -> 06:02.620",
+      "jp": "散歩したかったなー",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>したかったなー",
+      "zh": "我想出去散步呢",
+      "en": "I wanted to go for a walk~"
+    },
+    {
+      "id": 125,
+      "start": 362.62,
+      "end": 366.20000000000005,
+      "ts": "06:02.620 -> 06:06.200",
+      "jp": "散歩をしながらポッドキャスト聞きたかったなーとかね",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>をしながらポッドキャスト<ruby>聞き<rt>きき</rt></ruby>たかったなーとかね",
+      "zh": "我想边散步边听播客呢",
+      "en": "I wished I could have listened to a podcast while taking a walk, you know?"
+    },
+    {
+      "id": 126,
+      "start": 366.20000000000005,
+      "end": 367.62,
+      "ts": "06:06.200 -> 06:07.620",
+      "jp": "文句言ってください",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby><ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "请说句话。",
+      "en": "Say something."
+    },
+    {
+      "id": 127,
+      "start": 367.62,
+      "end": 370.54,
+      "ts": "06:07.620 -> 06:10.540",
+      "jp": "文句を言って日本語を勉強してください",
+      "jp_html": "<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>してください",
+      "zh": "请说句话以便我用日语学习",
+      "en": "Please study Japanese by saying some complaints."
+    },
+    {
+      "id": 128,
+      "start": 370.54,
+      "end": 373.38,
+      "ts": "06:10.540 -> 06:13.380",
+      "jp": "ポジティブな文句ですね",
+      "jp_html": "ポジティブな<ruby>文句<rt>もんく</rt></ruby>ですね",
+      "zh": "这是一个积极的评价呢",
+      "en": "That's a positive comment."
+    },
+    {
+      "id": 129,
+      "start": 373.38,
+      "end": 376.52000000000004,
+      "ts": "06:13.380 -> 06:16.520",
+      "jp": "いやいや文句はネガティブでいいです",
+      "jp_html": "いやいや<ruby>文句<rt>もんく</rt></ruby>はネガティブでいいです",
+      "zh": "不不抱怨也是消极的",
+      "en": "No, no, complaints are negative."
+    },
+    {
+      "id": 130,
+      "start": 376.52000000000004,
+      "end": 378.96000000000004,
+      "ts": "06:16.520 -> 06:18.960",
+      "jp": "ネガティブじゃないと文句じゃない",
+      "jp_html": "ネガティブじゃないと<ruby>文句<rt>もんく</rt></ruby>じゃない",
+      "zh": "不是消极的批评不算批评",
+      "en": "Not negative, it's not criticism."
+    },
+    {
+      "id": 131,
+      "start": 378.96000000000004,
+      "end": 382.82000000000005,
+      "ts": "06:18.960 -> 06:22.820",
+      "jp": "だけどその目的はポジティブです",
+      "jp_html": "だけどその<ruby>目的<rt>もくてき</rt></ruby>はポジティブです",
+      "zh": "但是那个目标是积极的",
+      "en": "But that goal is positive."
+    },
+    {
+      "id": 132,
+      "start": 382.82000000000005,
+      "end": 384.04,
+      "ts": "06:22.820 -> 06:24.040",
+      "jp": "目的は",
+      "jp_html": "<ruby>目的<rt>もくてき</rt></ruby>は",
+      "zh": "目的是",
+      "en": "The goal is"
+    },
+    {
+      "id": 133,
+      "start": 384.04,
+      "end": 386.44,
+      "ts": "06:24.040 -> 06:26.440",
+      "jp": "日本語の勉強のため",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>のため",
+      "zh": "为了学习日语",
+      "en": "To study Japanese"
+    },
+    {
+      "id": 134,
+      "start": 386.44,
+      "end": 388.02000000000004,
+      "ts": "06:26.440 -> 06:28.020",
+      "jp": "いいことでしょ",
+      "jp_html": "いいことでしょ",
+      "zh": "不错吧",
+      "en": "Isn't it good, right?"
+    },
+    {
+      "id": 135,
+      "start": 388.02000000000004,
+      "end": 391.28000000000003,
+      "ts": "06:28.020 -> 06:31.280",
+      "jp": "いいことのために文句を言ってください",
+      "jp_html": "いいことのために<ruby>文句<rt>もんく</rt></ruby>を<ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "为了好事请抱怨一下",
+      "en": "Say your complaints for the sake of good things."
+    },
+    {
+      "id": 136,
+      "start": 391.28000000000003,
+      "end": 393.94,
+      "ts": "06:31.280 -> 06:33.940",
+      "jp": "というわけでまたね",
+      "jp_html": "というわけでまたね",
+      "zh": "所以下次见吧",
+      "en": "So anyway, see you later."
+    }
+  ]
+}

@@ -1,0 +1,1578 @@
+{
+  "id": "1506",
+  "title": "#1506「勉強のアドバイス！①」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/04/Beginners-con-Teppei1506.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/04/22/1506%e3%80%8c%e5%8b%89%e5%bc%b7%e3%81%ae%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b9%ef%bc%81%e2%91%a0%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.8000000000000003,
+      "ts": "00:00.000 -> 00:03.800",
+      "jp": "シャッキー",
+      "jp_html": "シャッキー",
+      "zh": "沙克利",
+      "en": "Shackey"
+    },
+    {
+      "id": 1,
+      "start": 3.8000000000000003,
+      "end": 9.48,
+      "ts": "00:03.800 -> 00:09.480",
+      "jp": "今日は勉強のアドバイス",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>のアドバイス",
+      "zh": "今天的学习建议",
+      "en": "Today's study advice"
+    },
+    {
+      "id": 2,
+      "start": 9.48,
+      "end": 14.1,
+      "ts": "00:09.480 -> 00:14.100",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 3,
+      "start": 14.1,
+      "end": 25.080000000000002,
+      "ts": "00:14.100 -> 00:25.080",
+      "jp": "今日は勉強へのアドバイスをいくつかしたいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>へのアドバイスをいくつかしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想给一些关于学习的建议",
+      "en": "I want to give some advice on studying today."
+    },
+    {
+      "id": 4,
+      "start": 25.080000000000002,
+      "end": 29.980000000000004,
+      "ts": "00:25.080 -> 00:29.980",
+      "jp": "僕は日本語の先生ですね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>ですね",
+      "zh": "我是日语老师呢",
+      "en": "I am a Japanese teacher."
+    },
+    {
+      "id": 5,
+      "start": 29.980000000000004,
+      "end": 33.92,
+      "ts": "00:29.980 -> 00:33.920",
+      "jp": "日本語の先生として",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>として",
+      "zh": "作为日语老师",
+      "en": "As a Japanese teacher"
+    },
+    {
+      "id": 6,
+      "start": 33.92,
+      "end": 41.1,
+      "ts": "00:33.920 -> 00:41.100",
+      "jp": "たくさんの生徒さんに日本語を教えてきました",
+      "jp_html": "たくさんの<ruby>生徒<rt>せいと</rt></ruby>さんに<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>教え<rt>おしえ</rt></ruby>てきました",
+      "zh": "我已经教了无数的学生日语",
+      "en": "I have taught Japanese to many students."
+    },
+    {
+      "id": 7,
+      "start": 41.1,
+      "end": 48.52,
+      "ts": "00:41.100 -> 00:48.520",
+      "jp": "そしてポッドキャストで世界中のたくさんの人たちを",
+      "jp_html": "そしてポッドキャストで<ruby>世界中<rt>せかいじゅう</rt></ruby>のたくさんの<ruby>人<rt>にん</rt></ruby>たちを",
+      "zh": "然后通过播客让全世界许多人都能听到",
+      "en": "And then through podcasts, connecting with many people around the world"
+    },
+    {
+      "id": 8,
+      "start": 48.52,
+      "end": 51.34,
+      "ts": "00:48.520 -> 00:51.340",
+      "jp": "助けているつもりです",
+      "jp_html": "<ruby>助け<rt>たすけ</rt></ruby>ているつもりです",
+      "zh": "我是在帮助。",
+      "en": "I am trying to help."
+    },
+    {
+      "id": 9,
+      "start": 51.34,
+      "end": 60.38,
+      "ts": "00:51.340 -> 01:00.380",
+      "jp": "そこで僕がいくつかのアドバイスをしたいと思います",
+      "jp_html": "そこで<ruby>僕<rt>ぼく</rt></ruby>がいくつかのアドバイスをしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想给一些建议",
+      "en": "There, I want to give you some advice."
+    },
+    {
+      "id": 10,
+      "start": 60.38,
+      "end": 65.34,
+      "ts": "01:00.380 -> 01:05.340",
+      "jp": "これは本当に役に立つはずです",
+      "jp_html": "これは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>役に立つ<rt>やくにたつ</rt></ruby>はずです",
+      "zh": "这真的应该会很有帮助",
+      "en": "This should really be helpful."
+    },
+    {
+      "id": 11,
+      "start": 65.34,
+      "end": 67.14,
+      "ts": "01:05.340 -> 01:07.140",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "好吧",
+      "en": "Well"
+    },
+    {
+      "id": 12,
+      "start": 67.14,
+      "end": 72.24000000000001,
+      "ts": "01:07.140 -> 01:12.240",
+      "jp": "てっぺい先生の言っていることは僕は違う",
+      "jp_html": "てっぺい<ruby>先生<rt>せんせい</rt></ruby>の<ruby>言って<rt>いって</rt></ruby>いることは<ruby>僕は<rt>ぼくは</rt></ruby><ruby>違う<rt>ちがう</rt></ruby>",
+      "zh": "我对藤田先生说的不一样",
+      "en": "What Mr. Teppei says is different from me."
+    },
+    {
+      "id": 13,
+      "start": 72.24000000000001,
+      "end": 76.80000000000001,
+      "ts": "01:12.240 -> 01:16.800",
+      "jp": "まあそういう人がいても仕方がありませんけど",
+      "jp_html": "まあそういう<ruby>人<rt>にん</rt></ruby>がいても<ruby>仕方<rt>しかた</rt></ruby>がありませんけど",
+      "zh": "虽然有这样的一个人也无可奈何吧",
+      "en": "Well, there's nothing we can do about people like that, I suppose."
+    },
+    {
+      "id": 14,
+      "start": 76.8,
+      "end": 84.2,
+      "ts": "01:16.800 -> 01:24.200",
+      "jp": "もし僕のアドバイスが何人かの人を助けられたら",
+      "jp_html": "もし<ruby>僕<rt>ぼく</rt></ruby>のアドバイスが<ruby>何人<rt>なんにん</rt></ruby>かの<ruby>人<rt>にん</rt></ruby>を<ruby>助け<rt>たすけ</rt></ruby>られたら",
+      "zh": "如果我的建议能帮助到几个人",
+      "en": "If my advice could help even just a few people"
+    },
+    {
+      "id": 15,
+      "start": 84.2,
+      "end": 85.89999999999999,
+      "ts": "01:24.200 -> 01:25.900",
+      "jp": "とてもうれしいですね",
+      "jp_html": "とてもうれしいですね",
+      "zh": "真的很高兴呢",
+      "en": "It's very happy, isn't it?"
+    },
+    {
+      "id": 16,
+      "start": 85.89999999999999,
+      "end": 91.84,
+      "ts": "01:25.900 -> 01:31.840",
+      "jp": "というわけで日本語学習についてのとてもいいアドバイス",
+      "jp_html": "というわけで<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>習<rt>しゅう</rt></ruby>についてのとてもいいアドバイス",
+      "zh": "因此这是关于日语学习非常好的建议",
+      "en": "Therefore, very good advice about learning Japanese"
+    },
+    {
+      "id": 17,
+      "start": 91.84,
+      "end": 96.96,
+      "ts": "01:31.840 -> 01:36.960",
+      "jp": "多分いいアドバイスをいくつかしたいと思います",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>いいアドバイスをいくつかしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想给出一些好的建议",
+      "en": "I want to give some good advice."
+    },
+    {
+      "id": 18,
+      "start": 96.96000000000001,
+      "end": 100.36000000000001,
+      "ts": "01:36.960 -> 01:40.360",
+      "jp": "今日は一つ一つ目ね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>一つ一つ<rt>ひとつひとつ</rt></ruby><ruby>目ね<rt>めね</rt></ruby>",
+      "zh": "今天一个个目เน",
+      "en": "Today, I will look at it one by one."
+    },
+    {
+      "id": 19,
+      "start": 100.36000000000001,
+      "end": 102.68,
+      "ts": "01:40.360 -> 01:42.680",
+      "jp": "一つ目は",
+      "jp_html": "<ruby>一つ目<rt>ひとつめ</rt></ruby>は",
+      "zh": "第一个是",
+      "en": "The first one is"
+    },
+    {
+      "id": 20,
+      "start": 102.68,
+      "end": 108.2,
+      "ts": "01:42.680 -> 01:48.200",
+      "jp": "勉強を勉強と思わないこと",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>ないこと",
+      "zh": "不把学习当成学习",
+      "en": "Not thinking of studying as study"
+    },
+    {
+      "id": 21,
+      "start": 108.2,
+      "end": 112.02000000000001,
+      "ts": "01:48.200 -> 01:52.020",
+      "jp": "これが本当に大事です",
+      "jp_html": "これが<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "这真的很重要。",
+      "en": "This is really important."
+    },
+    {
+      "id": 22,
+      "start": 112.02000000000001,
+      "end": 116.0,
+      "ts": "01:52.020 -> 01:56.000",
+      "jp": "勉強を勉強と思わないこと",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>ないこと",
+      "zh": "不把学习当成学习",
+      "en": "Not thinking of studying as study"
+    },
+    {
+      "id": 23,
+      "start": 116.0,
+      "end": 126.34,
+      "ts": "01:56.000 -> 02:06.340",
+      "jp": "勉強っていう言葉を皆さんはどう感じますか",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>っていう<ruby>言葉<rt>ことば</rt></ruby>を<ruby>皆さん<rt>みなさん</rt></ruby>はどう<ruby>感じ<rt>かんじ</rt></ruby>ますか",
+      "zh": "您觉得“学习”这个词语是什么感觉呢",
+      "en": "How do you feel about the word \"studying\"?"
+    },
+    {
+      "id": 24,
+      "start": 126.34,
+      "end": 127.4,
+      "ts": "02:06.340 -> 02:07.400",
+      "jp": "勉強",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>",
+      "zh": "学习",
+      "en": "study"
+    },
+    {
+      "id": 25,
+      "start": 127.4,
+      "end": 134.08,
+      "ts": "02:07.400 -> 02:14.080",
+      "jp": "子供の時から勉強という言葉が好きでしたか",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>から<ruby>勉強<rt>べんきょう</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>でしたか",
+      "zh": "你从小喜欢“学习”这个词语吗？",
+      "en": "Did you like the word \"study\" when you were young?"
+    },
+    {
+      "id": 26,
+      "start": 134.08,
+      "end": 138.74,
+      "ts": "02:14.080 -> 02:18.740",
+      "jp": "勉強という言葉はもちろん",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby>はもちろん",
+      "zh": "当然，“学习”这个词语也不例外",
+      "en": "The word \"study\" of course"
+    },
+    {
+      "id": 27,
+      "start": 138.74,
+      "end": 141.88,
+      "ts": "02:18.740 -> 02:21.880",
+      "jp": "まあ人によるでしょうね",
+      "jp_html": "まあ<ruby>人<rt>にん</rt></ruby>によるでしょうね",
+      "zh": "这得看人了",
+      "en": "Well, it depends on the person, I suppose."
+    },
+    {
+      "id": 28,
+      "start": 141.88,
+      "end": 146.08,
+      "ts": "02:21.880 -> 02:26.080",
+      "jp": "ああ先生僕は子供の時から勉強が大好きだった",
+      "jp_html": "ああ<ruby>先生<rt>せんせい</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>から<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>大好き<rt>だいすき</rt></ruby>だった",
+      "zh": "啊，老师，我从小就很喜欢学习。",
+      "en": "Ah, teacher. I have loved studying since I was a child."
+    },
+    {
+      "id": 29,
+      "start": 146.08,
+      "end": 151.56,
+      "ts": "02:26.080 -> 02:31.560",
+      "jp": "そういうポジティブな感じがする人",
+      "jp_html": "そういうポジティブな<ruby>感じ<rt>かんじ</rt></ruby>がする<ruby>人<rt>にん</rt></ruby>",
+      "zh": "这种感觉像是一个积极的人",
+      "en": "That person gives off a positive feeling."
+    },
+    {
+      "id": 30,
+      "start": 151.56,
+      "end": 155.78,
+      "ts": "02:31.560 -> 02:35.780",
+      "jp": "人によっては勉強というのは素晴らしい言葉",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>によっては<ruby>勉強<rt>べんきょう</rt></ruby>というのは<ruby>素晴らしい<rt>すばらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>",
+      "zh": "对有些人来说，学习是一个美妙的词语",
+      "en": "For some people, studying is a wonderful thing."
+    },
+    {
+      "id": 31,
+      "start": 155.78,
+      "end": 157.14000000000001,
+      "ts": "02:35.780 -> 02:37.140",
+      "jp": "一番好きな言葉",
+      "jp_html": "<ruby>一番好き<rt>いちばんすき</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>",
+      "zh": "最喜欢的话",
+      "en": "My favorite word"
+    },
+    {
+      "id": 32,
+      "start": 157.14000000000001,
+      "end": 160.42000000000002,
+      "ts": "02:37.140 -> 02:40.420",
+      "jp": "だけど人によっては",
+      "jp_html": "だけど<ruby>人<rt>にん</rt></ruby>によっては",
+      "zh": "但是有些人却",
+      "en": "But for some people"
+    },
+    {
+      "id": 33,
+      "start": 160.42000000000002,
+      "end": 163.88,
+      "ts": "02:40.420 -> 02:43.880",
+      "jp": "そして多くの人にとっては",
+      "jp_html": "そして<ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>にん</rt></ruby>にとっては",
+      "zh": "然后对许多人来说",
+      "en": "And for many people,"
+    },
+    {
+      "id": 34,
+      "start": 163.88,
+      "end": 169.48,
+      "ts": "02:43.880 -> 02:49.480",
+      "jp": "たくさんの人にとっては勉強っていうのはちょっと嫌な言葉でしょ",
+      "jp_html": "たくさんの<ruby>人<rt>にん</rt></ruby>にとっては<ruby>勉強<rt>べんきょう</rt></ruby>っていうのはちょっと<ruby>嫌な<rt>いやな</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>でしょ",
+      "zh": "对很多人来说，学习这个词稍微让人觉得不太pleasant呢",
+      "en": "For many people, studying is kind of a unpleasant word, isn't it?"
+    },
+    {
+      "id": 35,
+      "start": 169.48,
+      "end": 174.14,
+      "ts": "02:49.480 -> 02:54.140",
+      "jp": "子供の時から勉強しなさい",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>から<ruby>勉強<rt>べんきょう</rt></ruby>しなさい",
+      "zh": "从小时候就要好好学习",
+      "en": "You should study hard from childhood."
+    },
+    {
+      "id": 36,
+      "start": 174.14,
+      "end": 177.9,
+      "ts": "02:54.140 -> 02:57.900",
+      "jp": "お父さんやお母さんや先生や",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>やお<ruby>母さん<rt>かあさん</rt></ruby>や<ruby>先生<rt>せんせい</rt></ruby>や",
+      "zh": "爸爸、妈妈、老师和",
+      "en": "father and mother and teacher and"
+    },
+    {
+      "id": 37,
+      "start": 177.9,
+      "end": 181.48,
+      "ts": "02:57.900 -> 03:01.480",
+      "jp": "おじいちゃんおばあちゃんいろいろな人に言われて",
+      "jp_html": "おじいちゃんおばあちゃんいろいろな<ruby>人<rt>にん</rt></ruby>に<ruby>言わ<rt>いわ</rt></ruby>れて",
+      "zh": "爷爷奶奶被很多人说过",
+      "en": "Grandparents were told by many people"
+    },
+    {
+      "id": 38,
+      "start": 181.48,
+      "end": 182.8,
+      "ts": "03:01.480 -> 03:02.800",
+      "jp": "勉強しなさい",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>しなさい",
+      "zh": "好好学习",
+      "en": "Study hard"
+    },
+    {
+      "id": 39,
+      "start": 182.8,
+      "end": 183.85999999999999,
+      "ts": "03:02.800 -> 03:03.860",
+      "jp": "勉強しなさい",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>しなさい",
+      "zh": "好好学习",
+      "en": "Study hard"
+    },
+    {
+      "id": 40,
+      "start": 183.85999999999999,
+      "end": 185.7,
+      "ts": "03:03.860 -> 03:05.700",
+      "jp": "勉強した?",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>した?",
+      "zh": "学过了？",
+      "en": "Did you study?"
+    },
+    {
+      "id": 41,
+      "start": 186.6,
+      "end": 187.12,
+      "ts": "03:06.600 -> 03:07.120",
+      "jp": "勉強した?",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>した?",
+      "zh": "学过了？",
+      "en": "Did you study?"
+    },
+    {
+      "id": 42,
+      "start": 187.6,
+      "end": 188.38,
+      "ts": "03:07.600 -> 03:08.380",
+      "jp": "勉強してる?",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>してる?",
+      "zh": "在学习吗？",
+      "en": "Are you studying?"
+    },
+    {
+      "id": 43,
+      "start": 190.51999999999998,
+      "end": 192.1,
+      "ts": "03:10.520 -> 03:12.100",
+      "jp": "ちょっともう嫌ですよね",
+      "jp_html": "ちょっともう<ruby>嫌で<rt>いやで</rt></ruby>すよね",
+      "zh": "真是够了，我已经厌烦了。",
+      "en": "A little more and you're really getting annoyed, right?"
+    },
+    {
+      "id": 44,
+      "start": 192.1,
+      "end": 196.18,
+      "ts": "03:12.100 -> 03:16.180",
+      "jp": "もう少し大きくなって",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>大きく<rt>おおきく</rt></ruby>なって",
+      "zh": "再大一点",
+      "en": "Wait a bit longer until you're bigger"
+    },
+    {
+      "id": 45,
+      "start": 196.18,
+      "end": 199.07999999999998,
+      "ts": "03:16.180 -> 03:19.080",
+      "jp": "勉強しなきゃいけない",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>しなきゃいけない",
+      "zh": "我必须学习",
+      "en": "I need to study."
+    },
+    {
+      "id": 46,
+      "start": 199.07999999999998,
+      "end": 200.26,
+      "ts": "03:19.080 -> 03:20.260",
+      "jp": "勉強しなきゃ",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>しなきゃ",
+      "zh": "得不偿失",
+      "en": "I should study."
+    },
+    {
+      "id": 47,
+      "start": 200.26,
+      "end": 203.35999999999999,
+      "ts": "03:20.260 -> 03:23.360",
+      "jp": "勉強しなければいけない",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>しなければいけない",
+      "zh": "必须学习",
+      "en": "I need to study."
+    },
+    {
+      "id": 48,
+      "start": 203.35999999999999,
+      "end": 205.92,
+      "ts": "03:23.360 -> 03:25.920",
+      "jp": "勉強しなければ大学に行けない",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>しなければ<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>ない",
+      "zh": "如果不学习就上不了大学",
+      "en": "If I don't study, I can't go to university."
+    },
+    {
+      "id": 49,
+      "start": 205.92,
+      "end": 207.88,
+      "ts": "03:25.920 -> 03:27.880",
+      "jp": "大学に行きたくない",
+      "jp_html": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たくない",
+      "zh": "不想去大学",
+      "en": "I don't want to go to university."
+    },
+    {
+      "id": 50,
+      "start": 207.88,
+      "end": 209.94,
+      "ts": "03:27.880 -> 03:29.940",
+      "jp": "勉強したくない",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>したくない",
+      "zh": "不想学习",
+      "en": "Don't want to study"
+    },
+    {
+      "id": 51,
+      "start": 209.94,
+      "end": 213.92,
+      "ts": "03:29.940 -> 03:33.920",
+      "jp": "そして大人になって",
+      "jp_html": "そして<ruby>大人<rt>おとな</rt></ruby>になって",
+      "zh": "然后长大后",
+      "en": "And then when I grew up"
+    },
+    {
+      "id": 52,
+      "start": 213.92,
+      "end": 217.04,
+      "ts": "03:33.920 -> 03:37.040",
+      "jp": "会社に入って",
+      "jp_html": "<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>て",
+      "zh": "进入公司",
+      "en": "Entering the company"
+    },
+    {
+      "id": 53,
+      "start": 217.04,
+      "end": 219.18,
+      "ts": "03:37.040 -> 03:39.180",
+      "jp": "仕事を見つけて",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けて",
+      "zh": "找到工作",
+      "en": "Finding a job"
+    },
+    {
+      "id": 54,
+      "start": 219.18,
+      "end": 221.79999999999998,
+      "ts": "03:39.180 -> 03:41.800",
+      "jp": "でもいろいろ勉強しなきゃいけないんですよね",
+      "jp_html": "でもいろいろ<ruby>勉強<rt>べんきょう</rt></ruby>しなきゃいけないんですよね",
+      "zh": "但我也得好好学习才行呢",
+      "en": "But I need to study various things, you know?"
+    },
+    {
+      "id": 55,
+      "start": 221.8,
+      "end": 224.98000000000002,
+      "ts": "03:41.800 -> 03:44.980",
+      "jp": "勉強勉強勉強",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>",
+      "zh": "努力努力努力",
+      "en": "Study study study"
+    },
+    {
+      "id": 56,
+      "start": 224.98000000000002,
+      "end": 228.20000000000002,
+      "ts": "03:44.980 -> 03:48.200",
+      "jp": "そして日本語の勉強",
+      "jp_html": "そして<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>",
+      "zh": "然后学习日语",
+      "en": "And studying Japanese"
+    },
+    {
+      "id": 57,
+      "start": 228.20000000000002,
+      "end": 233.38000000000002,
+      "ts": "03:48.200 -> 03:53.380",
+      "jp": "勉強という言葉がちょっと嫌なんじゃないですか",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby>がちょっと<ruby>嫌な<rt>いやな</rt></ruby>んじゃないですか",
+      "zh": "“学习”这个词语你觉得有点讨厌吗",
+      "en": "Don't you kind of dislike the word \"studying\"?"
+    },
+    {
+      "id": 58,
+      "start": 233.38000000000002,
+      "end": 237.34,
+      "ts": "03:53.380 -> 03:57.340",
+      "jp": "というわけで最初のアドバイスは",
+      "jp_html": "というわけで<ruby>最初<rt>さいしょ</rt></ruby>のアドバイスは",
+      "zh": "因此第一个建议是",
+      "en": "Therefore, the first advice is"
+    },
+    {
+      "id": 59,
+      "start": 237.34,
+      "end": 240.78,
+      "ts": "03:57.340 -> 04:00.780",
+      "jp": "勉強という言葉を",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby>を",
+      "zh": "学习这个词语",
+      "en": "The word \"studying\""
+    },
+    {
+      "id": 60,
+      "start": 240.78,
+      "end": 245.88000000000002,
+      "ts": "04:00.780 -> 04:05.880",
+      "jp": "あまり使わなくてもいいかなと思いますね",
+      "jp_html": "あまり<ruby>使わ<rt>つかわ</rt></ruby>なくてもいいかなと<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "我想，不经常使用也行吧。",
+      "en": "I think it's okay if I don't use it much."
+    },
+    {
+      "id": 61,
+      "start": 245.88,
+      "end": 247.88,
+      "ts": "04:05.880 -> 04:07.880",
+      "jp": "まあまあ使ってもいいですよ",
+      "jp_html": "まあまあ<ruby>使って<rt>つかって</rt></ruby>もいいですよ",
+      "zh": "可以用用也可以",
+      "en": "You may use it okay enough."
+    },
+    {
+      "id": 62,
+      "start": 247.88,
+      "end": 249.06,
+      "ts": "04:07.880 -> 04:09.060",
+      "jp": "日本語の勉強をした",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をした",
+      "zh": "我学习了日语",
+      "en": "I studied Japanese."
+    },
+    {
+      "id": 63,
+      "start": 249.06,
+      "end": 250.44,
+      "ts": "04:09.060 -> 04:10.440",
+      "jp": "全然いいんですよ",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>いいんですよ",
+      "zh": "完全没问题",
+      "en": "It's totally fine."
+    },
+    {
+      "id": 64,
+      "start": 250.44,
+      "end": 251.35999999999999,
+      "ts": "04:10.440 -> 04:11.360",
+      "jp": "日本語の勉強をした",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をした",
+      "zh": "我学习了日语",
+      "en": "I studied Japanese."
+    },
+    {
+      "id": 65,
+      "start": 251.35999999999999,
+      "end": 252.07999999999998,
+      "ts": "04:11.360 -> 04:12.080",
+      "jp": "でも",
+      "jp_html": "でも",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 66,
+      "start": 252.07999999999998,
+      "end": 254.82,
+      "ts": "04:12.080 -> 04:14.820",
+      "jp": "勉強と思わない方がいいね",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いいね",
+      "zh": "最好不要把它当成是学习",
+      "en": "It's better not to think of it as studying."
+    },
+    {
+      "id": 67,
+      "start": 254.82,
+      "end": 256.3,
+      "ts": "04:14.820 -> 04:16.300",
+      "jp": "勉強と思わない",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>ない",
+      "zh": "不把学习当回事",
+      "en": "Don't think it's just studying"
+    },
+    {
+      "id": 68,
+      "start": 256.3,
+      "end": 260.26,
+      "ts": "04:16.300 -> 04:20.260",
+      "jp": "勉強を勉強と思わない",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>ない",
+      "zh": "不把学习当回事",
+      "en": "Don't approach studying without thinking it's important."
+    },
+    {
+      "id": 69,
+      "start": 260.26,
+      "end": 261.71999999999997,
+      "ts": "04:20.260 -> 04:21.720",
+      "jp": "まあ勉強",
+      "jp_html": "まあ<ruby>勉強<rt>べんきょう</rt></ruby>",
+      "zh": "好吧，我再去温习一下。",
+      "en": "Well, let's study."
+    },
+    {
+      "id": 70,
+      "start": 261.72,
+      "end": 264.72,
+      "ts": "04:21.720 -> 04:24.720",
+      "jp": "楽しいと思う",
+      "jp_html": "<ruby>楽しい<rt>たのしい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "觉得快乐",
+      "en": "I think it's fun"
+    },
+    {
+      "id": 71,
+      "start": 264.72,
+      "end": 266.06,
+      "ts": "04:24.720 -> 04:26.060",
+      "jp": "勉強を",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>を",
+      "zh": "学习要",
+      "en": "study"
+    },
+    {
+      "id": 72,
+      "start": 266.06,
+      "end": 268.54,
+      "ts": "04:26.060 -> 04:28.540",
+      "jp": "嫌だと思わない",
+      "jp_html": "<ruby>嫌だ<rt>いやだ</rt></ruby>と<ruby>思わ<rt>おもわ</rt></ruby>ない",
+      "zh": "不会觉得讨厌吧",
+      "en": "Don't think it's unpleasant."
+    },
+    {
+      "id": 73,
+      "start": 268.54,
+      "end": 270.84000000000003,
+      "ts": "04:28.540 -> 04:30.840",
+      "jp": "日本語の勉強",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>",
+      "zh": "日语的学习",
+      "en": "Studying Japanese"
+    },
+    {
+      "id": 74,
+      "start": 270.84000000000003,
+      "end": 274.5,
+      "ts": "04:30.840 -> 04:34.500",
+      "jp": "日本語の勉強は楽しいと思う",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>は<ruby>楽しい<rt>たのしい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得学习日语是有趣的",
+      "en": "I think studying Japanese is fun."
+    },
+    {
+      "id": 75,
+      "start": 274.5,
+      "end": 277.68,
+      "ts": "04:34.500 -> 04:37.680",
+      "jp": "じゃあどうやって",
+      "jp_html": "じゃあどうやって",
+      "zh": "那我们怎么做到呢",
+      "en": "Then how do we do it?"
+    },
+    {
+      "id": 76,
+      "start": 277.68,
+      "end": 280.68,
+      "ts": "04:37.680 -> 04:40.680",
+      "jp": "日本語の勉強を楽しくするかというと",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>楽しく<rt>たのしく</rt></ruby>するかというと",
+      "zh": "让学习日语变得有趣吗？",
+      "en": "Would making Japanese studies fun be..."
+    },
+    {
+      "id": 77,
+      "start": 281.22,
+      "end": 284.12,
+      "ts": "04:41.220 -> 04:44.120",
+      "jp": "まあやっぱり好きなことですよね",
+      "jp_html": "まあやっぱり<ruby>好き<rt>すき</rt></ruby>なことですよね",
+      "zh": "毕竟喜欢做的事情嘛",
+      "en": "Well, of course it's something you like, right?"
+    },
+    {
+      "id": 78,
+      "start": 284.12,
+      "end": 287.86,
+      "ts": "04:44.120 -> 04:47.860",
+      "jp": "嫌いじゃない方法ですよね",
+      "jp_html": "<ruby>嫌い<rt>きらい</rt></ruby>じゃない<ruby>方法<rt>ほうほう</rt></ruby>ですよね",
+      "zh": "不是不喜欢的方法吧？",
+      "en": "Isn't that a method you don't dislike?"
+    },
+    {
+      "id": 79,
+      "start": 287.86,
+      "end": 290.76,
+      "ts": "04:47.860 -> 04:50.760",
+      "jp": "例えばポッドキャスト",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ポッドキャスト",
+      "zh": "例如播客",
+      "en": "For example, podcast"
+    },
+    {
+      "id": 80,
+      "start": 290.76,
+      "end": 294.12,
+      "ts": "04:50.760 -> 04:54.120",
+      "jp": "皆さんはポッドキャストが好きですよね",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はポッドキャストが<ruby>好き<rt>すき</rt></ruby>ですよね",
+      "zh": "你们喜欢播客吗？",
+      "en": "Don't you all like podcasts?"
+    },
+    {
+      "id": 81,
+      "start": 294.12,
+      "end": 295.98,
+      "ts": "04:54.120 -> 04:55.980",
+      "jp": "ポッドキャストが好きだから",
+      "jp_html": "ポッドキャストが<ruby>好き<rt>すき</rt></ruby>だから",
+      "zh": "因为喜欢播客",
+      "en": "Because I like podcasts"
+    },
+    {
+      "id": 82,
+      "start": 295.98,
+      "end": 298.04,
+      "ts": "04:55.980 -> 04:58.040",
+      "jp": "ポッドキャストを聞く",
+      "jp_html": "ポッドキャストを<ruby>聞く<rt>きく</rt></ruby>",
+      "zh": "听播客",
+      "en": "To listen to a podcast"
+    },
+    {
+      "id": 83,
+      "start": 298.04,
+      "end": 299.98,
+      "ts": "04:58.040 -> 04:59.980",
+      "jp": "そういう時に",
+      "jp_html": "そういう<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "在这种时候",
+      "en": "At such times"
+    },
+    {
+      "id": 84,
+      "start": 299.98,
+      "end": 303.52000000000004,
+      "ts": "04:59.980 -> 05:03.520",
+      "jp": "ああ今日はポッドキャストを",
+      "jp_html": "ああ<ruby>今日は<rt>こんにちは</rt></ruby>ポッドキャストを",
+      "zh": "啊今天我要播客播出",
+      "en": "Ah today I'm doing a podcast"
+    },
+    {
+      "id": 85,
+      "start": 303.52000000000004,
+      "end": 307.28000000000003,
+      "ts": "05:03.520 -> 05:07.280",
+      "jp": "30分聞いて疲れた",
+      "jp_html": "30<ruby>分<rt>ふん</rt></ruby><ruby>聞い<rt>きい</rt></ruby>て<ruby>疲れ<rt>つかれ</rt></ruby>た",
+      "zh": "听了30分钟觉得累了",
+      "en": "I got tired after listening for 30 minutes."
+    },
+    {
+      "id": 86,
+      "start": 307.28000000000003,
+      "end": 309.90000000000003,
+      "ts": "05:07.280 -> 05:09.900",
+      "jp": "そういう風に思わないでしょ",
+      "jp_html": "そういう<ruby>風<rt>かぜ</rt></ruby>に<ruby>思わ<rt>おもわ</rt></ruby>ないでしょ",
+      "zh": "你可别这么想啊",
+      "en": "Don't think that way, okay?"
+    },
+    {
+      "id": 87,
+      "start": 309.90000000000003,
+      "end": 312.46000000000004,
+      "ts": "05:09.900 -> 05:12.460",
+      "jp": "ああ今日はポッドキャストを30分聞いて",
+      "jp_html": "ああ<ruby>今日は<rt>こんにちは</rt></ruby>ポッドキャストを30<ruby>分<rt>ふん</rt></ruby><ruby>聞い<rt>きい</rt></ruby>て",
+      "zh": "啊今天听了30分钟的播客",
+      "en": "Ah today I listened to a podcast for 30 minutes"
+    },
+    {
+      "id": 88,
+      "start": 312.46000000000004,
+      "end": 314.26,
+      "ts": "05:12.460 -> 05:14.260",
+      "jp": "よかった",
+      "jp_html": "よかった",
+      "zh": "很好",
+      "en": "Good"
+    },
+    {
+      "id": 89,
+      "start": 314.26,
+      "end": 318.22,
+      "ts": "05:14.260 -> 05:18.220",
+      "jp": "だから勉強",
+      "jp_html": "だから<ruby>勉強<rt>べんきょう</rt></ruby>",
+      "zh": "所以学习",
+      "en": "So I study"
+    },
+    {
+      "id": 90,
+      "start": 318.22,
+      "end": 320.86,
+      "ts": "05:18.220 -> 05:20.860",
+      "jp": "ああ今日は30分勉強した",
+      "jp_html": "ああ<ruby>今日は<rt>こんにちは</rt></ruby>30<ruby>分<rt>ふん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>した",
+      "zh": "啊今天我学习了30分钟",
+      "en": "Ah today I studied for 30 minutes."
+    },
+    {
+      "id": 91,
+      "start": 320.86,
+      "end": 325.52000000000004,
+      "ts": "05:20.860 -> 05:25.520",
+      "jp": "いやー今日はポッドキャストを30分聞いた",
+      "jp_html": "いやー<ruby>今日は<rt>こんにちは</rt></ruby>ポッドキャストを30<ruby>分<rt>ふん</rt></ruby><ruby>聞い<rt>きい</rt></ruby>た",
+      "zh": "哎呀，今天听了30分钟的播客",
+      "en": "Oh, today I listened to a podcast for 30 minutes."
+    },
+    {
+      "id": 92,
+      "start": 325.52,
+      "end": 330.08,
+      "ts": "05:25.520 -> 05:30.080",
+      "jp": "やっぱりちょっとポジティブになりますよね",
+      "jp_html": "やっぱりちょっとポジティブになりますよね",
+      "zh": "果然稍微变得积极起来了呢",
+      "en": "It's true that you become a little more positive, isn't it?"
+    },
+    {
+      "id": 93,
+      "start": 330.08,
+      "end": 331.78,
+      "ts": "05:30.080 -> 05:31.780",
+      "jp": "好きなこと",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>なこと",
+      "zh": "喜欢的事情",
+      "en": "favorite things"
+    },
+    {
+      "id": 94,
+      "start": 331.78,
+      "end": 335.64,
+      "ts": "05:31.780 -> 05:35.640",
+      "jp": "ああ今日は日本語で漫画を",
+      "jp_html": "ああ<ruby>今日は<rt>こんにちは</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>で<ruby>漫画<rt>まんが</rt></ruby>を",
+      "zh": "啊今天用日语看漫画",
+      "en": "Ah today I'm reading a manga in Japanese"
+    },
+    {
+      "id": 95,
+      "start": 335.64,
+      "end": 337.4,
+      "ts": "05:35.640 -> 05:37.400",
+      "jp": "1時間読んだ",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby><ruby>読んだ<rt>よんだ</rt></ruby>",
+      "zh": "读了1小时",
+      "en": "I read for 1 hour"
+    },
+    {
+      "id": 96,
+      "start": 337.4,
+      "end": 338.88,
+      "ts": "05:37.400 -> 05:38.880",
+      "jp": "疲れた",
+      "jp_html": "<ruby>疲れ<rt>つかれ</rt></ruby>た",
+      "zh": "累赘",
+      "en": "Tired"
+    },
+    {
+      "id": 97,
+      "start": 338.88,
+      "end": 340.29999999999995,
+      "ts": "05:38.880 -> 05:40.300",
+      "jp": "でも楽しかった",
+      "jp_html": "でも<ruby>楽しか<rt>たのしか</rt></ruby>った",
+      "zh": "但也很开心",
+      "en": "But it was fun."
+    },
+    {
+      "id": 98,
+      "start": 340.29999999999995,
+      "end": 343.9,
+      "ts": "05:40.300 -> 05:43.900",
+      "jp": "ああ今日は日本語でゲームをした",
+      "jp_html": "ああ<ruby>今日は<rt>こんにちは</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>でゲームをした",
+      "zh": "啊今天用日语玩了游戏",
+      "en": "Ah today I played a game in Japanese"
+    },
+    {
+      "id": 99,
+      "start": 343.9,
+      "end": 345.09999999999997,
+      "ts": "05:43.900 -> 05:45.100",
+      "jp": "2時間",
+      "jp_html": "2<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "2小时",
+      "en": "2 hours"
+    },
+    {
+      "id": 100,
+      "start": 345.09999999999997,
+      "end": 347.34,
+      "ts": "05:45.100 -> 05:47.340",
+      "jp": "ちょっとやりすぎたけど",
+      "jp_html": "ちょっとやりすぎたけど",
+      "zh": "有点过头了不过",
+      "en": "I might have gone a bit too far but"
+    },
+    {
+      "id": 101,
+      "start": 347.34,
+      "end": 349.2,
+      "ts": "05:47.340 -> 05:49.200",
+      "jp": "まあまあ楽しかった",
+      "jp_html": "まあまあ<ruby>楽しか<rt>たのしか</rt></ruby>った",
+      "zh": "还好玩呢",
+      "en": "It was pretty fun."
+    },
+    {
+      "id": 102,
+      "start": 349.2,
+      "end": 351.53999999999996,
+      "ts": "05:49.200 -> 05:51.540",
+      "jp": "ゲームも意味がありますよ",
+      "jp_html": "ゲームも<ruby>意味<rt>いみ</rt></ruby>がありますよ",
+      "zh": "游戏也有意义啊",
+      "en": "The game also has meaning."
+    },
+    {
+      "id": 103,
+      "start": 351.53999999999996,
+      "end": 352.85999999999996,
+      "ts": "05:51.540 -> 05:52.860",
+      "jp": "日本語だったら",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だったら",
+      "zh": "如果是日语的话",
+      "en": "If it were in Japanese,"
+    },
+    {
+      "id": 104,
+      "start": 352.85999999999996,
+      "end": 354.84,
+      "ts": "05:52.860 -> 05:54.840",
+      "jp": "全てのことが",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>のことが",
+      "zh": "所有的事情",
+      "en": "Everything is"
+    },
+    {
+      "id": 105,
+      "start": 354.84000000000003,
+      "end": 356.6,
+      "ts": "05:54.840 -> 05:56.600",
+      "jp": "日本語だったら",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だったら",
+      "zh": "如果是日语的话",
+      "en": "If it were in Japanese,"
+    },
+    {
+      "id": 106,
+      "start": 356.6,
+      "end": 358.06000000000006,
+      "ts": "05:56.600 -> 05:58.060",
+      "jp": "意味があります",
+      "jp_html": "<ruby>意味<rt>いみ</rt></ruby>があります",
+      "zh": "有意义",
+      "en": "It has meaning."
+    },
+    {
+      "id": 107,
+      "start": 358.06000000000006,
+      "end": 360.66,
+      "ts": "05:58.060 -> 06:00.660",
+      "jp": "全てのことが",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>のことが",
+      "zh": "所有的事情",
+      "en": "Everything is"
+    },
+    {
+      "id": 108,
+      "start": 360.66,
+      "end": 362.20000000000005,
+      "ts": "06:00.660 -> 06:02.200",
+      "jp": "日本語だったら",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だったら",
+      "zh": "如果是日语的话",
+      "en": "If it were in Japanese,"
+    },
+    {
+      "id": 109,
+      "start": 362.20000000000005,
+      "end": 363.20000000000005,
+      "ts": "06:02.200 -> 06:03.200",
+      "jp": "大丈夫",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "大丈夫",
+      "en": "It's okay"
+    },
+    {
+      "id": 110,
+      "start": 363.20000000000005,
+      "end": 365.22,
+      "ts": "06:03.200 -> 06:05.220",
+      "jp": "いい勉強です",
+      "jp_html": "いい<ruby>勉強<rt>べんきょう</rt></ruby>です",
+      "zh": "好的学习",
+      "en": "Good study."
+    },
+    {
+      "id": 111,
+      "start": 365.22,
+      "end": 367.38000000000005,
+      "ts": "06:05.220 -> 06:07.380",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 112,
+      "start": 367.38000000000005,
+      "end": 368.32000000000005,
+      "ts": "06:07.380 -> 06:08.320",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 113,
+      "start": 368.32000000000005,
+      "end": 370.14000000000004,
+      "ts": "06:08.320 -> 06:10.140",
+      "jp": "勉強は",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>は",
+      "zh": "学习是",
+      "en": "studying is"
+    },
+    {
+      "id": 114,
+      "start": 370.14000000000004,
+      "end": 371.78000000000003,
+      "ts": "06:10.140 -> 06:11.780",
+      "jp": "まあ教科書を使う",
+      "jp_html": "まあ<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>",
+      "zh": "好吧，使用教科书",
+      "en": "Well, let's use the textbook."
+    },
+    {
+      "id": 115,
+      "start": 371.78000000000003,
+      "end": 373.6,
+      "ts": "06:11.780 -> 06:13.600",
+      "jp": "勉強だけじゃないですね",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>だけじゃないですね",
+      "zh": "不只是学习呢",
+      "en": "It's not just about studying, though."
+    },
+    {
+      "id": 116,
+      "start": 373.6,
+      "end": 377.90000000000003,
+      "ts": "06:13.600 -> 06:17.900",
+      "jp": "特に言語の勉強は",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby><ruby>言語<rt>げんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>は",
+      "zh": "特别是学习语言",
+      "en": "Especially studying languages is"
+    },
+    {
+      "id": 117,
+      "start": 377.90000000000003,
+      "end": 379.52000000000004,
+      "ts": "06:17.900 -> 06:19.520",
+      "jp": "ポッドキャストとか",
+      "jp_html": "ポッドキャストとか",
+      "zh": "播客或 podcast",
+      "en": "Podcasts"
+    },
+    {
+      "id": 118,
+      "start": 379.52,
+      "end": 381.28,
+      "ts": "06:19.520 -> 06:21.280",
+      "jp": "youtubeとか",
+      "jp_html": "youtubeとか",
+      "zh": "YouTube之类",
+      "en": "YouTube or other video sharing platforms"
+    },
+    {
+      "id": 119,
+      "start": 381.28,
+      "end": 386.88,
+      "ts": "06:21.280 -> 06:26.880",
+      "jp": "なんかテレビを見たり",
+      "jp_html": "なんかテレビを<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "看看电视或者什么的",
+      "en": "I watched TV or something like that."
+    },
+    {
+      "id": 120,
+      "start": 386.88,
+      "end": 388.97999999999996,
+      "ts": "06:26.880 -> 06:28.980",
+      "jp": "アニメを見たり",
+      "jp_html": "アニメを<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "看动画或听anime",
+      "en": "To watch anime or watching anime"
+    },
+    {
+      "id": 121,
+      "start": 388.97999999999996,
+      "end": 390.0,
+      "ts": "06:28.980 -> 06:30.000",
+      "jp": "ゲームをしたり",
+      "jp_html": "ゲームをしたり",
+      "zh": "玩游戏或",
+      "en": "to play games"
+    },
+    {
+      "id": 122,
+      "start": 390.0,
+      "end": 391.15999999999997,
+      "ts": "06:30.000 -> 06:31.160",
+      "jp": "漫画を読んだり",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "看了漫画",
+      "en": "I read manga or"
+    },
+    {
+      "id": 123,
+      "start": 391.15999999999997,
+      "end": 393.85999999999996,
+      "ts": "06:31.160 -> 06:33.860",
+      "jp": "先生と話したり",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "与先生交谈",
+      "en": "Talked with the teacher"
+    },
+    {
+      "id": 124,
+      "start": 393.85999999999996,
+      "end": 396.29999999999995,
+      "ts": "06:33.860 -> 06:36.300",
+      "jp": "その全ては",
+      "jp_html": "その<ruby>全て<rt>すべて</rt></ruby>は",
+      "zh": "那全部是",
+      "en": "All of that is"
+    },
+    {
+      "id": 125,
+      "start": 396.29999999999995,
+      "end": 398.2,
+      "ts": "06:36.300 -> 06:38.200",
+      "jp": "意味があります",
+      "jp_html": "<ruby>意味<rt>いみ</rt></ruby>があります",
+      "zh": "有意义",
+      "en": "It has meaning."
+    },
+    {
+      "id": 126,
+      "start": 398.2,
+      "end": 400.21999999999997,
+      "ts": "06:38.200 -> 06:40.220",
+      "jp": "日本語だったら",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だったら",
+      "zh": "如果是日语的话",
+      "en": "If it were in Japanese,"
+    },
+    {
+      "id": 127,
+      "start": 400.21999999999997,
+      "end": 402.88,
+      "ts": "06:40.220 -> 06:42.880",
+      "jp": "日本語でやれば意味がある",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>でやれば<ruby>意味<rt>いみ</rt></ruby>がある",
+      "zh": "用日语说就会有意义",
+      "en": "If done in Japanese, it would have meaning."
+    },
+    {
+      "id": 128,
+      "start": 402.88,
+      "end": 404.38,
+      "ts": "06:42.880 -> 06:44.380",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 129,
+      "start": 404.38,
+      "end": 406.0,
+      "ts": "06:44.380 -> 06:46.000",
+      "jp": "たくさんたくさん",
+      "jp_html": "たくさんたくさん",
+      "zh": "很多很多",
+      "en": "many many"
+    },
+    {
+      "id": 130,
+      "start": 406.0,
+      "end": 407.82,
+      "ts": "06:46.000 -> 06:47.820",
+      "jp": "日本語を聞いて",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て",
+      "zh": "听日语",
+      "en": "To hear Japanese"
+    },
+    {
+      "id": 131,
+      "start": 407.82,
+      "end": 408.65999999999997,
+      "ts": "06:47.820 -> 06:48.660",
+      "jp": "読んで",
+      "jp_html": "<ruby>読んで<rt>よんで</rt></ruby>",
+      "zh": "读",
+      "en": "read"
+    },
+    {
+      "id": 132,
+      "start": 408.65999999999997,
+      "end": 409.24,
+      "ts": "06:48.660 -> 06:49.240",
+      "jp": "書いて",
+      "jp_html": "<ruby>書い<rt>かい</rt></ruby>て",
+      "zh": "写",
+      "en": "Write"
+    },
+    {
+      "id": 133,
+      "start": 409.24,
+      "end": 410.14,
+      "ts": "06:49.240 -> 06:50.140",
+      "jp": "話して",
+      "jp_html": "<ruby>話し<rt>はなし</rt></ruby>て",
+      "zh": "说",
+      "en": "Talk"
+    },
+    {
+      "id": 134,
+      "start": 410.14,
+      "end": 411.94,
+      "ts": "06:50.140 -> 06:51.940",
+      "jp": "日本語だけ",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だけ",
+      "zh": "日语-only",
+      "en": "Japanese only"
+    },
+    {
+      "id": 135,
+      "start": 411.94,
+      "end": 413.74,
+      "ts": "06:51.940 -> 06:53.740",
+      "jp": "日本語は大事ですよ",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>ですよ",
+      "zh": "日语很重要哦",
+      "en": "Japanese is important, yes."
+    },
+    {
+      "id": 136,
+      "start": 413.74,
+      "end": 416.68,
+      "ts": "06:53.740 -> 06:56.680",
+      "jp": "youtubeのコメントとかで",
+      "jp_html": "youtubeのコメントとかで",
+      "zh": "YouTube的评论区里",
+      "en": "in YouTube comments"
+    },
+    {
+      "id": 137,
+      "start": 416.68,
+      "end": 417.96,
+      "ts": "06:56.680 -> 06:57.960",
+      "jp": "先生ありがとうございます",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>ありがとうございます",
+      "zh": "先生谢谢您",
+      "en": "Teacher thank you"
+    },
+    {
+      "id": 138,
+      "start": 417.96,
+      "end": 420.15999999999997,
+      "ts": "06:57.960 -> 07:00.160",
+      "jp": "と日本語で",
+      "jp_html": "と<ruby>日本語<rt>にほんご</rt></ruby>で",
+      "zh": "用日语",
+      "en": "and in Japanese"
+    },
+    {
+      "id": 139,
+      "start": 420.15999999999997,
+      "end": 421.28,
+      "ts": "07:00.160 -> 07:01.280",
+      "jp": "メッセージをください",
+      "jp_html": "メッセージをください",
+      "zh": "请给我消息",
+      "en": "Please give me the message."
+    },
+    {
+      "id": 140,
+      "start": 421.28,
+      "end": 422.62,
+      "ts": "07:01.280 -> 07:02.620",
+      "jp": "日本語でね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>でね",
+      "zh": "用日语哦",
+      "en": "In Japanese"
+    },
+    {
+      "id": 141,
+      "start": 422.62,
+      "end": 424.42,
+      "ts": "07:02.620 -> 07:04.420",
+      "jp": "英語じゃないですよ",
+      "jp_html": "<ruby>英語<rt>えいご</rt></ruby>じゃないですよ",
+      "zh": "不是英语哦",
+      "en": "It's not in English, you know."
+    },
+    {
+      "id": 142,
+      "start": 424.42,
+      "end": 425.74,
+      "ts": "07:04.420 -> 07:05.740",
+      "jp": "日本語でお願いします",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>でお<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "请用日语说。",
+      "en": "Please in Japanese."
+    },
+    {
+      "id": 143,
+      "start": 425.74,
+      "end": 428.56,
+      "ts": "07:05.740 -> 07:08.560",
+      "jp": "すべてのことを",
+      "jp_html": "すべてのことを",
+      "zh": "所有的事情",
+      "en": "All things"
+    },
+    {
+      "id": 144,
+      "start": 428.56,
+      "end": 429.74,
+      "ts": "07:08.560 -> 07:09.740",
+      "jp": "日本語ですれば",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>ですれば",
+      "zh": "你会日语吗？",
+      "en": "If you speak Japanese"
+    },
+    {
+      "id": 145,
+      "start": 429.74,
+      "end": 430.74,
+      "ts": "07:09.740 -> 07:10.740",
+      "jp": "意味がある",
+      "jp_html": "<ruby>意味<rt>いみ</rt></ruby>がある",
+      "zh": "有意义",
+      "en": "It has meaning"
+    },
+    {
+      "id": 146,
+      "start": 430.74,
+      "end": 432.1,
+      "ts": "07:10.740 -> 07:12.100",
+      "jp": "ということで",
+      "jp_html": "ということで",
+      "zh": "因此",
+      "en": "So"
+    },
+    {
+      "id": 147,
+      "start": 432.1,
+      "end": 434.82,
+      "ts": "07:12.100 -> 07:14.820",
+      "jp": "今日のアドバイスは",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>のアドバイスは",
+      "zh": "今天的建议是",
+      "en": "Today's advice is"
+    },
+    {
+      "id": 148,
+      "start": 434.82,
+      "end": 436.74,
+      "ts": "07:14.820 -> 07:16.740",
+      "jp": "勉強を勉強と思わずに",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>と<ruby>思わず<rt>おもわず</rt></ruby>に",
+      "zh": "不要把学习当成学习",
+      "en": "Don't think of studying as just another chore."
+    },
+    {
+      "id": 149,
+      "start": 437.48,
+      "end": 439.06,
+      "ts": "07:17.480 -> 07:19.060",
+      "jp": "いろいろなことを",
+      "jp_html": "いろいろなことを",
+      "zh": "做各种事情",
+      "en": "Various things"
+    },
+    {
+      "id": 150,
+      "start": 439.06,
+      "end": 440.72,
+      "ts": "07:19.060 -> 07:20.720",
+      "jp": "日本語でしてください",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>でしてください",
+      "zh": "请用日语说。",
+      "en": "Please do it in Japanese."
+    },
+    {
+      "id": 151,
+      "start": 440.72,
+      "end": 442.76,
+      "ts": "07:20.720 -> 07:22.760",
+      "jp": "そしてそれを",
+      "jp_html": "そしてそれを",
+      "zh": "然后就那样做了",
+      "en": "and then that"
+    },
+    {
+      "id": 152,
+      "start": 442.76,
+      "end": 443.86,
+      "ts": "07:22.760 -> 07:23.860",
+      "jp": "楽しんでください",
+      "jp_html": "<ruby>楽し<rt>たのし</rt></ruby>んでください",
+      "zh": "请享受它",
+      "en": "Enjoy yourself"
+    },
+    {
+      "id": 153,
+      "start": 443.86,
+      "end": 445.88,
+      "ts": "07:23.860 -> 07:25.880",
+      "jp": "それが今日のアドバイス",
+      "jp_html": "それが<ruby>今日<rt>きょう</rt></ruby>のアドバイス",
+      "zh": "这就是今天的建议",
+      "en": "That is today's advice."
+    },
+    {
+      "id": 154,
+      "start": 445.88,
+      "end": 446.74,
+      "ts": "07:25.880 -> 07:26.740",
+      "jp": "次回",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>",
+      "zh": "下次",
+      "en": "Next time"
+    },
+    {
+      "id": 155,
+      "start": 446.74,
+      "end": 449.58,
+      "ts": "07:26.740 -> 07:29.580",
+      "jp": "二つ目のアドバイスをします",
+      "jp_html": "<ruby>二つ目<rt>ふたつめ</rt></ruby>のアドバイスをします",
+      "zh": "我给出第二个建议",
+      "en": "I will give you the second piece of advice."
+    },
+    {
+      "id": 156,
+      "start": 449.58,
+      "end": 450.64,
+      "ts": "07:29.580 -> 07:30.640",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "id": "1499",
+  "title": "#1499「果物（くだもの）について！」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/04/Beginners-con-Teppei1499.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/04/12/1499%e3%80%8c%e6%9e%9c%e7%89%a9%ef%bc%88%e3%81%8f%e3%81%a0%e3%82%82%e3%81%ae%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.54,
+      "ts": "00:00.000 -> 00:03.540",
+      "jp": "シャッキン",
+      "jp_html": "シャッキン",
+      "zh": "夏cken",
+      "en": "Shakkī"
+    },
+    {
+      "id": 1,
+      "start": 3.54,
+      "end": 7.68,
+      "ts": "00:03.540 -> 00:07.680",
+      "jp": "今日は果物について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>果物<rt>くだもの</rt></ruby>について",
+      "zh": "今天关于水果",
+      "en": "Today about fruit"
+    },
+    {
+      "id": 2,
+      "start": 7.68,
+      "end": 9.8,
+      "ts": "00:07.680 -> 00:09.800",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all well?"
+    },
+    {
+      "id": 3,
+      "start": 9.8,
+      "end": 11.98,
+      "ts": "00:09.800 -> 00:11.980",
+      "jp": "朝ですね",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>ですね",
+      "zh": "早上好",
+      "en": "It's morning."
+    },
+    {
+      "id": 4,
+      "start": 11.98,
+      "end": 13.540000000000001,
+      "ts": "00:11.980 -> 00:13.540",
+      "jp": "朝なので",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>なので",
+      "zh": "早上好",
+      "en": "It's morning so"
+    },
+    {
+      "id": 5,
+      "start": 13.540000000000001,
+      "end": 16.8,
+      "ts": "00:13.540 -> 00:16.800",
+      "jp": "今日はバナナを食べました",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>バナナを<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "今天吃了香蕉",
+      "en": "I ate bananas today."
+    },
+    {
+      "id": 6,
+      "start": 16.8,
+      "end": 19.84,
+      "ts": "00:16.800 -> 00:19.840",
+      "jp": "今日はというか毎日ね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>というか<ruby>毎日<rt>まいにち</rt></ruby>ね",
+      "zh": "今天或者说每天都这样呢",
+      "en": "Today, I mean every day."
+    },
+    {
+      "id": 7,
+      "start": 19.84,
+      "end": 23.82,
+      "ts": "00:19.840 -> 00:23.820",
+      "jp": "今日は果物について話したいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>果物<rt>くだもの</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "今天我想谈谈水果的话题",
+      "en": "Today, I want to talk about fruit."
+    },
+    {
+      "id": 8,
+      "start": 23.82,
+      "end": 24.68,
+      "ts": "00:23.820 -> 00:24.680",
+      "jp": "フルーツ",
+      "jp_html": "フルーツ",
+      "zh": "水果",
+      "en": "fruits"
+    },
+    {
+      "id": 9,
+      "start": 24.68,
+      "end": 25.6,
+      "ts": "00:24.680 -> 00:25.600",
+      "jp": "果物",
+      "jp_html": "<ruby>果物<rt>くだもの</rt></ruby>",
+      "zh": "水果",
+      "en": "fruit"
+    },
+    {
+      "id": 10,
+      "start": 25.6,
+      "end": 30.5,
+      "ts": "00:25.600 -> 00:30.500",
+      "jp": "皆さんは毎日果物を食べますか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>果物<rt>くだもの</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ますか",
+      "zh": "你们每天吃水果吗？",
+      "en": "Do you eat fruit every day?"
+    },
+    {
+      "id": 11,
+      "start": 30.5,
+      "end": 32.42,
+      "ts": "00:30.500 -> 00:32.420",
+      "jp": "僕はまあ",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>まあ",
+      "zh": "我嘛",
+      "en": "I'm sort of"
+    },
+    {
+      "id": 12,
+      "start": 32.42,
+      "end": 37.34,
+      "ts": "00:32.420 -> 00:37.340",
+      "jp": "1日1つ2つ3つ食べますね",
+      "jp_html": "1<ruby>日<rt>にち</rt></ruby>1つ2つ3つ<ruby>食べ<rt>たべ</rt></ruby>ますね",
+      "zh": "一天吃一个两个三个",
+      "en": "We eat one or two or three per day, right?"
+    },
+    {
+      "id": 13,
+      "start": 37.34,
+      "end": 42.32,
+      "ts": "00:37.340 -> 00:42.320",
+      "jp": "朝はバナナが多いですね",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>はバナナが<ruby>多い<rt>おおい</rt></ruby>ですね",
+      "zh": "早晨香蕉很多呢",
+      "en": "Morning has a lot of bananas, doesn't it?"
+    },
+    {
+      "id": 14,
+      "start": 42.32,
+      "end": 44.3,
+      "ts": "00:42.320 -> 00:44.300",
+      "jp": "バナナはまあ",
+      "jp_html": "バナナはまあ",
+      "zh": "香蕉还算可以。",
+      "en": "Banana is sort of"
+    },
+    {
+      "id": 15,
+      "start": 44.3,
+      "end": 47.400000000000006,
+      "ts": "00:44.300 -> 00:47.400",
+      "jp": "日本のバナナはないので",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>のバナナはないので",
+      "zh": "日本没有香蕉",
+      "en": "There are no bananas in Japan."
+    },
+    {
+      "id": 16,
+      "start": 47.400000000000006,
+      "end": 51.32,
+      "ts": "00:47.400 -> 00:51.320",
+      "jp": "日本でバナナはほとんどない",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>でバナナはほとんどない",
+      "zh": "在日本几乎买不到香蕉",
+      "en": "In Japan, bananas are hardly available."
+    },
+    {
+      "id": 17,
+      "start": 51.88,
+      "end": 54.74,
+      "ts": "00:51.880 -> 00:54.740",
+      "jp": "多分沖縄に少しかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby><ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>少し<rt>すこし</rt></ruby>かな",
+      "zh": "大概冲绳会多一点吧",
+      "en": "Probably there's a little something in Okinawa."
+    },
+    {
+      "id": 18,
+      "start": 54.74,
+      "end": 60.56,
+      "ts": "00:54.740 -> 01:00.560",
+      "jp": "でも東京でスーパーに行くと",
+      "jp_html": "でも<ruby>東京<rt>とうきょう</rt></ruby>でスーパーに<ruby>行く<rt>いく</rt></ruby>と",
+      "zh": "但是东京去超市买菜",
+      "en": "But when I go to the supermarket in Tokyo"
+    },
+    {
+      "id": 19,
+      "start": 60.56,
+      "end": 63.900000000000006,
+      "ts": "01:00.560 -> 01:03.900",
+      "jp": "いつもフィリピンのバナナ",
+      "jp_html": "いつもフィリピンのバナナ",
+      "zh": "总是菲律宾的香蕉",
+      "en": "I always eat bananas from the Philippines."
+    },
+    {
+      "id": 20,
+      "start": 63.900000000000006,
+      "end": 66.8,
+      "ts": "01:03.900 -> 01:06.800",
+      "jp": "最近メキシコのバナナ",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>メキシコのバナナ",
+      "zh": "最近墨西哥的香蕉",
+      "en": "Recently about bananas in Mexico"
+    },
+    {
+      "id": 21,
+      "start": 66.8,
+      "end": 69.82000000000001,
+      "ts": "01:06.800 -> 01:09.820",
+      "jp": "あとはエクアドルとか",
+      "jp_html": "あとはエクアドルとか",
+      "zh": "剩下的就是厄瓜多尔之类的地方了",
+      "en": "It's also about Ecuador or something like that."
+    },
+    {
+      "id": 22,
+      "start": 69.82000000000001,
+      "end": 73.98,
+      "ts": "01:09.820 -> 01:13.980",
+      "jp": "あとラオスも最近あるかな",
+      "jp_html": "あとラオスも<ruby>最近<rt>さいきん</rt></ruby>あるかな",
+      "zh": "另外，最近老挝也有吧？",
+      "en": "Also, has something happened recently in Laos?"
+    },
+    {
+      "id": 23,
+      "start": 73.98,
+      "end": 75.22,
+      "ts": "01:13.980 -> 01:15.220",
+      "jp": "タイとか",
+      "jp_html": "タイとか",
+      "zh": "泰国或者",
+      "en": "Thai or Thailand"
+    },
+    {
+      "id": 24,
+      "start": 75.22,
+      "end": 79.24000000000001,
+      "ts": "01:15.220 -> 01:19.240",
+      "jp": "でも一番多いのはフィリピンだと思う",
+      "jp_html": "でも<ruby>一番<rt>いちばん</rt></ruby><ruby>多い<rt>おおい</rt></ruby>のはフィリピンだと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "但我认为最多的还是菲律宾的。",
+      "en": "But I think the most common is from the Philippines."
+    },
+    {
+      "id": 25,
+      "start": 79.24000000000001,
+      "end": 81.74000000000001,
+      "ts": "01:19.240 -> 01:21.740",
+      "jp": "フィリピンのバナナが多いと思う",
+      "jp_html": "フィリピンのバナナが<ruby>多い<rt>おおい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "菲律宾的香蕉很多",
+      "en": "I think there are many bananas in the Philippines."
+    },
+    {
+      "id": 26,
+      "start": 81.74,
+      "end": 84.61999999999999,
+      "ts": "01:21.740 -> 01:24.620",
+      "jp": "バナナはまあ",
+      "jp_html": "バナナはまあ",
+      "zh": "香蕉还算可以。",
+      "en": "Banana is sort of"
+    },
+    {
+      "id": 27,
+      "start": 84.61999999999999,
+      "end": 86.16,
+      "ts": "01:24.620 -> 01:26.160",
+      "jp": "おいしいし",
+      "jp_html": "おいしいし",
+      "zh": "很好吃",
+      "en": "It's delicious."
+    },
+    {
+      "id": 28,
+      "start": 86.16,
+      "end": 88.47999999999999,
+      "ts": "01:26.160 -> 01:28.480",
+      "jp": "まあまあ安いですね",
+      "jp_html": "まあまあ<ruby>安い<rt>やすい</rt></ruby>ですね",
+      "zh": "还算便宜呢",
+      "en": "It's pretty cheap, huh?"
+    },
+    {
+      "id": 29,
+      "start": 88.47999999999999,
+      "end": 90.89999999999999,
+      "ts": "01:28.480 -> 01:30.900",
+      "jp": "高くないですね",
+      "jp_html": "<ruby>高く<rt>たかく</rt></ruby>ないですね",
+      "zh": "不贵呢",
+      "en": "It's not expensive, right?"
+    },
+    {
+      "id": 30,
+      "start": 90.89999999999999,
+      "end": 97.02,
+      "ts": "01:30.900 -> 01:37.020",
+      "jp": "春はイチゴの季節ですけど",
+      "jp_html": "<ruby>春<rt>はる</rt></ruby>はイチゴの<ruby>季節<rt>きせつ</rt></ruby>ですけど",
+      "zh": "春天是草莓的季节但是",
+      "en": "Spring is strawberry season, though."
+    },
+    {
+      "id": 31,
+      "start": 97.02,
+      "end": 99.96,
+      "ts": "01:37.020 -> 01:39.960",
+      "jp": "イチゴは結構高いですね",
+      "jp_html": "イチゴは<ruby>結構<rt>けっこう</rt></ruby><ruby>高い<rt>たかい</rt></ruby>ですね",
+      "zh": "草莓好贵啊",
+      "en": "Strawberries are quite expensive, aren't they?"
+    },
+    {
+      "id": 32,
+      "start": 99.96,
+      "end": 104.14,
+      "ts": "01:39.960 -> 01:44.140",
+      "jp": "僕の子供はイチゴが大好きだけど",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>はイチゴが<ruby>大好き<rt>だいすき</rt></ruby>だけど",
+      "zh": "我的孩子很喜欢草莓",
+      "en": "My child loves strawberries but"
+    },
+    {
+      "id": 33,
+      "start": 104.14,
+      "end": 108.7,
+      "ts": "01:44.140 -> 01:48.700",
+      "jp": "まあイチゴは1週間に1回ぐらい買うかな",
+      "jp_html": "まあイチゴは1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>ぐらい<ruby>買う<rt>かう</rt></ruby>かな",
+      "zh": "大概一周买一次草莓吧",
+      "en": "I buy strawberries about once a week, I guess."
+    },
+    {
+      "id": 34,
+      "start": 108.7,
+      "end": 113.68,
+      "ts": "01:48.700 -> 01:53.680",
+      "jp": "あと毎日食べるのはリンゴですね",
+      "jp_html": "あと<ruby>毎日<rt>まいにち</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>るのはリンゴですね",
+      "zh": "之后每天吃的是苹果吧",
+      "en": "By the way, you eat apples every day, right?"
+    },
+    {
+      "id": 35,
+      "start": 113.68,
+      "end": 115.54,
+      "ts": "01:53.680 -> 01:55.540",
+      "jp": "リンゴもよく食べます",
+      "jp_html": "リンゴもよく<ruby>食べ<rt>たべ</rt></ruby>ます",
+      "zh": "我也经常吃苹果。",
+      "en": "I also eat apples often."
+    },
+    {
+      "id": 36,
+      "start": 115.54,
+      "end": 119.68,
+      "ts": "01:55.540 -> 01:59.680",
+      "jp": "リンゴは安くない",
+      "jp_html": "リンゴは<ruby>安く<rt>やすく</rt></ruby>ない",
+      "zh": "苹果不便宜",
+      "en": "Apples are not cheap."
+    },
+    {
+      "id": 37,
+      "start": 119.68,
+      "end": 123.1,
+      "ts": "01:59.680 -> 02:03.100",
+      "jp": "安くないです",
+      "jp_html": "<ruby>安く<rt>やすく</rt></ruby>ないです",
+      "zh": "不便宜",
+      "en": "It is not cheap."
+    },
+    {
+      "id": 38,
+      "start": 123.10000000000001,
+      "end": 125.30000000000001,
+      "ts": "02:03.100 -> 02:05.300",
+      "jp": "日本でリンゴは安くない",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>でリンゴは<ruby>安く<rt>やすく</rt></ruby>ない",
+      "zh": "在日本苹果不便宜",
+      "en": "Apples are not cheap in Japan."
+    },
+    {
+      "id": 39,
+      "start": 125.30000000000001,
+      "end": 128.94,
+      "ts": "02:05.300 -> 02:08.940",
+      "jp": "だけどまあおいしいので食べます",
+      "jp_html": "だけどまあおいしいので<ruby>食べ<rt>たべ</rt></ruby>ます",
+      "zh": "但是嘛，既然好吃我就吃了。",
+      "en": "But anyway, since it's tasty, I eat it."
+    },
+    {
+      "id": 40,
+      "start": 128.94,
+      "end": 131.16,
+      "ts": "02:08.940 -> 02:11.160",
+      "jp": "リンゴは冬ですね",
+      "jp_html": "リンゴは<ruby>冬<rt>ふゆ</rt></ruby>ですね",
+      "zh": "苹果是冬天的水果。",
+      "en": "Apples are in season in winter."
+    },
+    {
+      "id": 41,
+      "start": 131.16,
+      "end": 132.02,
+      "ts": "02:11.160 -> 02:12.020",
+      "jp": "冬",
+      "jp_html": "<ruby>冬<rt>ふゆ</rt></ruby>",
+      "zh": "冬",
+      "en": "Winter"
+    },
+    {
+      "id": 42,
+      "start": 132.02,
+      "end": 137.52,
+      "ts": "02:12.020 -> 02:17.520",
+      "jp": "まあ春ぐらいも大丈夫かな",
+      "jp_html": "まあ<ruby>春<rt>はる</rt></ruby>ぐらいも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かな",
+      "zh": "大概春天应该还好吧",
+      "en": "Maybe it's okay for spring at least."
+    },
+    {
+      "id": 43,
+      "start": 137.52,
+      "end": 140.64000000000001,
+      "ts": "02:17.520 -> 02:20.640",
+      "jp": "夏はないかな",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>はないかな",
+      "zh": "没有夏天吗？",
+      "en": "Is there no summer?"
+    },
+    {
+      "id": 44,
+      "start": 140.64000000000001,
+      "end": 142.02,
+      "ts": "02:20.640 -> 02:22.020",
+      "jp": "少ないですね",
+      "jp_html": "<ruby>少ない<rt>すくない</rt></ruby>ですね",
+      "zh": "确实不多。",
+      "en": "It's few."
+    },
+    {
+      "id": 45,
+      "start": 142.02,
+      "end": 142.98000000000002,
+      "ts": "02:22.020 -> 02:22.980",
+      "jp": "リンゴは",
+      "jp_html": "リンゴは",
+      "zh": "苹果是",
+      "en": "The apple is"
+    },
+    {
+      "id": 46,
+      "start": 142.98000000000002,
+      "end": 145.10000000000002,
+      "ts": "02:22.980 -> 02:25.100",
+      "jp": "あるけど高い",
+      "jp_html": "あるけど<ruby>高い<rt>たかい</rt></ruby>",
+      "zh": "有的但是贵",
+      "en": "It's there but it's expensive."
+    },
+    {
+      "id": 47,
+      "start": 145.1,
+      "end": 148.9,
+      "ts": "02:25.100 -> 02:28.900",
+      "jp": "夏はスイカですね",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>はスイカですね",
+      "zh": "夏天是西瓜呢",
+      "en": "Summer is watermelon, right?"
+    },
+    {
+      "id": 48,
+      "start": 148.9,
+      "end": 150.06,
+      "ts": "02:28.900 -> 02:30.060",
+      "jp": "夏はスイカ",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>はスイカ",
+      "zh": "夏天吃西瓜",
+      "en": "Summer is watermelon"
+    },
+    {
+      "id": 49,
+      "start": 150.06,
+      "end": 153.06,
+      "ts": "02:30.060 -> 02:33.060",
+      "jp": "冬はみかん",
+      "jp_html": "<ruby>冬<rt>ふゆ</rt></ruby>はみかん",
+      "zh": "冬天吃柑橘",
+      "en": "Winter is orange"
+    },
+    {
+      "id": 50,
+      "start": 153.06,
+      "end": 154.64,
+      "ts": "02:33.060 -> 02:34.640",
+      "jp": "リンゴとみかん",
+      "jp_html": "リンゴとみかん",
+      "zh": "苹果和橘子",
+      "en": "Apple and orange"
+    },
+    {
+      "id": 51,
+      "start": 154.64,
+      "end": 155.88,
+      "ts": "02:34.640 -> 02:35.880",
+      "jp": "春はイチゴ",
+      "jp_html": "<ruby>春<rt>はる</rt></ruby>はイチゴ",
+      "zh": "春天是草莓",
+      "en": "Spring is strawberries"
+    },
+    {
+      "id": 52,
+      "start": 155.88,
+      "end": 158.38,
+      "ts": "02:35.880 -> 02:38.380",
+      "jp": "夏はスイカとメロンかな",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>はスイカとメロンかな",
+      "zh": "夏天是西瓜和melon吧",
+      "en": "Summer is for watermelons and melons, I guess."
+    },
+    {
+      "id": 53,
+      "start": 158.38,
+      "end": 160.48,
+      "ts": "02:38.380 -> 02:40.480",
+      "jp": "あと桃",
+      "jp_html": "あと<ruby>桃<rt>もも</rt></ruby>",
+      "zh": "还有桃子",
+      "en": "And peach"
+    },
+    {
+      "id": 54,
+      "start": 160.48,
+      "end": 163.4,
+      "ts": "02:40.480 -> 02:43.400",
+      "jp": "桃も夏はいいですね",
+      "jp_html": "<ruby>桃<rt>もも</rt></ruby>も<ruby>夏<rt>なつ</rt></ruby>はいいですね",
+      "zh": "桃也适合在夏天食用呢",
+      "en": "Peaches are also nice in summer, aren't they?"
+    },
+    {
+      "id": 55,
+      "start": 163.4,
+      "end": 168.9,
+      "ts": "02:43.400 -> 02:48.900",
+      "jp": "まあ他にもいろいろな果物がもちろんあります",
+      "jp_html": "まあ<ruby>他に<rt>ほかに</rt></ruby>もいろいろな<ruby>果物<rt>くだもの</rt></ruby>がもちろんあります",
+      "zh": "当然还有很多其他的水果呢",
+      "en": "Of course, there are also many other fruits as well."
+    },
+    {
+      "id": 56,
+      "start": 168.9,
+      "end": 169.68,
+      "ts": "02:48.900 -> 02:49.680",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 57,
+      "start": 169.68,
+      "end": 174.62,
+      "ts": "02:49.680 -> 02:54.620",
+      "jp": "まあちょっと最近果物が高すぎる",
+      "jp_html": "まあちょっと<ruby>最近<rt>さいきん</rt></ruby><ruby>果物<rt>くだもの</rt></ruby>が<ruby>高す<rt>たかす</rt></ruby>ぎる",
+      "zh": "哎，最近水果有点贵",
+      "en": "Well, lately fruit has been a bit too expensive."
+    },
+    {
+      "id": 58,
+      "start": 174.62,
+      "end": 179.22,
+      "ts": "02:54.620 -> 02:59.220",
+      "jp": "日本はいつも果物が高いです",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>はいつも<ruby>果物<rt>くだもの</rt></ruby>が<ruby>高い<rt>たかい</rt></ruby>です",
+      "zh": "在日本水果总是很贵",
+      "en": "Fruits are always expensive in Japan."
+    },
+    {
+      "id": 59,
+      "start": 179.22,
+      "end": 181.9,
+      "ts": "02:59.220 -> 03:01.900",
+      "jp": "だけど最近は特に高い",
+      "jp_html": "だけど<ruby>最近<rt>さいきん</rt></ruby>は<ruby>特に<rt>とくに</rt></ruby><ruby>高い<rt>たかい</rt></ruby>",
+      "zh": "但是最近特别贵",
+      "en": "But lately, it's especially high."
+    },
+    {
+      "id": 60,
+      "start": 182.66,
+      "end": 186.94,
+      "ts": "03:02.660 -> 03:06.940",
+      "jp": "まあ子供は果物が好きだから",
+      "jp_html": "まあ<ruby>子供<rt>こども</rt></ruby>は<ruby>果物<rt>くだもの</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だから",
+      "zh": "毕竟孩子们喜欢吃水果",
+      "en": "Well, kids generally like fruits anyway."
+    },
+    {
+      "id": 61,
+      "start": 186.94,
+      "end": 189.96,
+      "ts": "03:06.940 -> 03:09.960",
+      "jp": "まあできるだけね買いますけど",
+      "jp_html": "まあできるだけね<ruby>買い<rt>かい</rt></ruby>ますけど",
+      "zh": "我会尽量买的。",
+      "en": "Well, I'll try to buy as much as possible though."
+    },
+    {
+      "id": 62,
+      "start": 189.96,
+      "end": 192.0,
+      "ts": "03:09.960 -> 03:12.000",
+      "jp": "メロンとか",
+      "jp_html": "メロンとか",
+      "zh": "西瓜之类的",
+      "en": "Melon and stuff"
+    },
+    {
+      "id": 63,
+      "start": 192.0,
+      "end": 194.54000000000002,
+      "ts": "03:12.000 -> 03:14.540",
+      "jp": "まあマンゴーとか",
+      "jp_html": "まあマンゴーとか",
+      "zh": "嗯，芒果之类的东西",
+      "en": "Well, mangoes and so on"
+    },
+    {
+      "id": 64,
+      "start": 194.54,
+      "end": 199.22,
+      "ts": "03:14.540 -> 03:19.220",
+      "jp": "なんかそういうちょっと高すぎる果物は",
+      "jp_html": "なんかそういうちょっと<ruby>高す<rt>たかす</rt></ruby>ぎる<ruby>果物<rt>くだもの</rt></ruby>は",
+      "zh": "那种稍微贵一点的水果",
+      "en": "Some fruits are a bit too expensive, though."
+    },
+    {
+      "id": 65,
+      "start": 199.22,
+      "end": 201.0,
+      "ts": "03:19.220 -> 03:21.000",
+      "jp": "あんまり買えないですね",
+      "jp_html": "あんまり<ruby>買え<rt>かえ</rt></ruby>ないですね",
+      "zh": "买不了多少呢",
+      "en": "I can't buy it very often."
+    },
+    {
+      "id": 66,
+      "start": 201.0,
+      "end": 203.2,
+      "ts": "03:21.000 -> 03:23.200",
+      "jp": "メロンは本当に高い",
+      "jp_html": "メロンは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>高い<rt>たかい</rt></ruby>",
+      "zh": "西瓜真的好贵",
+      "en": "Melons are really expensive."
+    },
+    {
+      "id": 67,
+      "start": 203.2,
+      "end": 206.51999999999998,
+      "ts": "03:23.200 -> 03:26.520",
+      "jp": "だけどまあリンゴとか",
+      "jp_html": "だけどまあリンゴとか",
+      "zh": "但是嘛，苹果之类的",
+      "en": "But anyway, like apples or"
+    },
+    {
+      "id": 68,
+      "start": 206.51999999999998,
+      "end": 207.39999999999998,
+      "ts": "03:26.520 -> 03:27.400",
+      "jp": "イチゴ",
+      "jp_html": "イチゴ",
+      "zh": "草莓",
+      "en": "Strawberry"
+    },
+    {
+      "id": 69,
+      "start": 207.39999999999998,
+      "end": 209.78,
+      "ts": "03:27.400 -> 03:29.780",
+      "jp": "春もね春のイチゴとか",
+      "jp_html": "<ruby>春<rt>はる</rt></ruby>もね<ruby>春<rt>はる</rt></ruby>のイチゴとか",
+      "zh": "春天的草莓之类的",
+      "en": "Spring and spring strawberries, etc."
+    },
+    {
+      "id": 70,
+      "start": 209.78,
+      "end": 211.57999999999998,
+      "ts": "03:29.780 -> 03:31.580",
+      "jp": "あとスイカとか",
+      "jp_html": "あとスイカとか",
+      "zh": "还有西瓜之类的",
+      "en": "And watermelon too."
+    },
+    {
+      "id": 71,
+      "start": 211.57999999999998,
+      "end": 213.01999999999998,
+      "ts": "03:31.580 -> 03:33.020",
+      "jp": "バナナ",
+      "jp_html": "バナナ",
+      "zh": "香蕉",
+      "en": "banana"
+    },
+    {
+      "id": 72,
+      "start": 213.01999999999998,
+      "end": 215.12,
+      "ts": "03:33.020 -> 03:35.120",
+      "jp": "やっぱバナナが一番いいな",
+      "jp_html": "やっぱバナナが<ruby>一番<rt>いちばん</rt></ruby>いいな",
+      "zh": "果然香蕉最好了呢",
+      "en": "I think bananas are the best, though."
+    },
+    {
+      "id": 73,
+      "start": 215.12,
+      "end": 216.7,
+      "ts": "03:35.120 -> 03:36.700",
+      "jp": "バナナは",
+      "jp_html": "バナナは",
+      "zh": "香蕉是",
+      "en": "Banana is"
+    },
+    {
+      "id": 74,
+      "start": 216.7,
+      "end": 218.76,
+      "ts": "03:36.700 -> 03:38.760",
+      "jp": "まあ安いし",
+      "jp_html": "まあ<ruby>安い<rt>やすい</rt></ruby>し",
+      "zh": "反正便宜嘛",
+      "en": "Well, it's cheap anyway."
+    },
+    {
+      "id": 75,
+      "start": 218.76,
+      "end": 220.54,
+      "ts": "03:38.760 -> 03:40.540",
+      "jp": "おいしいし",
+      "jp_html": "おいしいし",
+      "zh": "很好吃",
+      "en": "It's delicious."
+    },
+    {
+      "id": 76,
+      "start": 220.54,
+      "end": 222.85999999999999,
+      "ts": "03:40.540 -> 03:42.860",
+      "jp": "栄養があるし",
+      "jp_html": "<ruby>栄養<rt>えいよう</rt></ruby>があるし",
+      "zh": "有营养",
+      "en": "It's nutritious"
+    },
+    {
+      "id": 77,
+      "start": 222.86,
+      "end": 224.68,
+      "ts": "03:42.860 -> 03:44.680",
+      "jp": "元気になりますね",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>になりますね",
+      "zh": "感觉好多了呢",
+      "en": "You seem more energetic now."
+    },
+    {
+      "id": 78,
+      "start": 224.68,
+      "end": 227.36,
+      "ts": "03:44.680 -> 03:47.360",
+      "jp": "なので皆さんも",
+      "jp_html": "なので<ruby>皆さん<rt>みなさん</rt></ruby>も",
+      "zh": "所以大家也",
+      "en": "So everyone also"
+    },
+    {
+      "id": 79,
+      "start": 227.36,
+      "end": 228.52,
+      "ts": "03:47.360 -> 03:48.520",
+      "jp": "まあ果物",
+      "jp_html": "まあ<ruby>果物<rt>くだもの</rt></ruby>",
+      "zh": "水果",
+      "en": "Well, fruit"
+    },
+    {
+      "id": 80,
+      "start": 228.52,
+      "end": 230.08,
+      "ts": "03:48.520 -> 03:50.080",
+      "jp": "食べてください",
+      "jp_html": "<ruby>食べて<rt>たべて</rt></ruby>ください",
+      "zh": "请吃一下",
+      "en": "Please eat."
+    },
+    {
+      "id": 81,
+      "start": 230.08,
+      "end": 232.58,
+      "ts": "03:50.080 -> 03:52.580",
+      "jp": "ちょっと高いけどね",
+      "jp_html": "ちょっと<ruby>高い<rt>たかい</rt></ruby>けどね",
+      "zh": "稍微贵一点呢",
+      "en": "It's a bit expensive, though."
+    },
+    {
+      "id": 82,
+      "start": 232.58,
+      "end": 235.04000000000002,
+      "ts": "03:52.580 -> 03:55.040",
+      "jp": "ビタミンCとか",
+      "jp_html": "ビタミンCとか",
+      "zh": "维生素C之类的东西",
+      "en": "Vitamin C, etc."
+    },
+    {
+      "id": 83,
+      "start": 235.04000000000002,
+      "end": 235.46,
+      "ts": "03:55.040 -> 03:55.460",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 84,
+      "start": 235.46,
+      "end": 238.24,
+      "ts": "03:55.460 -> 03:58.240",
+      "jp": "まあ他にもいろいろなミネラルとか",
+      "jp_html": "まあ<ruby>他に<rt>ほかに</rt></ruby>もいろいろなミネラルとか",
+      "zh": "反正还有很多其他的矿物质之类的",
+      "en": "Well, there are also various minerals and such."
+    },
+    {
+      "id": 85,
+      "start": 238.24,
+      "end": 239.5,
+      "ts": "03:58.240 -> 03:59.500",
+      "jp": "入ってるので",
+      "jp_html": "<ruby>入っ<rt>いっっ</rt></ruby>てるので",
+      "zh": "进去所以",
+      "en": "They're already inside."
+    },
+    {
+      "id": 86,
+      "start": 239.5,
+      "end": 243.04000000000002,
+      "ts": "03:59.500 -> 04:03.040",
+      "jp": "デザートは果物がいいと思います",
+      "jp_html": "デザートは<ruby>果物<rt>くだもの</rt></ruby>がいいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得甜点吃水果不错",
+      "en": "I think fruit would be good for dessert."
+    },
+    {
+      "id": 87,
+      "start": 243.04000000000002,
+      "end": 244.74,
+      "ts": "04:03.040 -> 04:04.740",
+      "jp": "チョコレートじゃない",
+      "jp_html": "チョコレートじゃない",
+      "zh": "不是巧克力",
+      "en": "It's not chocolate."
+    },
+    {
+      "id": 88,
+      "start": 244.74,
+      "end": 248.0,
+      "ts": "04:04.740 -> 04:08.000",
+      "jp": "もちろんお酒じゃない",
+      "jp_html": "もちろんお<ruby>酒<rt>さけ</rt></ruby>じゃない",
+      "zh": "当然不是酒",
+      "en": "Of course not alcohol."
+    },
+    {
+      "id": 89,
+      "start": 248.0,
+      "end": 249.94000000000003,
+      "ts": "04:08.000 -> 04:09.940",
+      "jp": "果物を食べましょう",
+      "jp_html": "<ruby>果物<rt>くだもの</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ましょう",
+      "zh": "吃些水果吧",
+      "en": "Let's eat fruits."
+    },
+    {
+      "id": 90,
+      "start": 249.94000000000003,
+      "end": 252.8,
+      "ts": "04:09.940 -> 04:12.800",
+      "jp": "皆さんは果物を食べてください",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>果物<rt>くだもの</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>ください",
+      "zh": "请你们吃水果",
+      "en": "Please eat the fruit."
+    },
+    {
+      "id": 91,
+      "start": 252.8,
+      "end": 256.40000000000003,
+      "ts": "04:12.800 -> 04:16.400",
+      "jp": "僕はチョコレートとコーヒー",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>チョコレートとコーヒー",
+      "zh": "我喜欢巧克力和咖啡",
+      "en": "I like chocolate and coffee."
+    },
+    {
+      "id": 92,
+      "start": 256.40000000000003,
+      "end": 259.14,
+      "ts": "04:16.400 -> 04:19.140",
+      "jp": "そして夜はウイスキーを飲みたいと思います",
+      "jp_html": "そして<ruby>夜<rt>よる</rt></ruby>はウイスキーを<ruby>飲み<rt>のみ</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "然后晚上我想喝威士忌",
+      "en": "And at night, I want to drink whiskey."
+    },
+    {
+      "id": 93,
+      "start": 259.14,
+      "end": 260.48,
+      "ts": "04:19.140 -> 04:20.480",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    },
+    {
+      "id": 94,
+      "start": 260.48,
+      "end": 264.14000000000004,
+      "ts": "04:20.480 -> 04:24.140",
+      "jp": "ご視聴ありがとうございました",
+      "jp_html": "ご<ruby>視聴<rt>しちょう</rt></ruby>ありがとうございました",
+      "zh": "感谢您的观看",
+      "en": "Thank you for watching."
+    },
+    {
+      "id": 95,
+      "start": 264.14,
+      "end": 294.12,
+      "ts": "04:24.140 -> 04:54.120",
+      "jp": "ご視聴ありがとうございました",
+      "jp_html": "ご<ruby>視聴<rt>しちょう</rt></ruby>ありがとうございました",
+      "zh": "感谢您的观看",
+      "en": "Thank you for watching."
+    }
+  ]
+}

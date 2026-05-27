@@ -1,0 +1,1238 @@
+{
+  "id": "1497",
+  "title": "#1497「エレベーターとエスカレーターについて！」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/04/Beginners-con-Teppei1497.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/04/09/1497%e3%80%8c%e3%82%a8%e3%83%ac%e3%83%99%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%a8%e3%82%a8%e3%82%b9%e3%82%ab%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.86,
+      "ts": "00:00.000 -> 00:03.860",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.86,
+      "end": 5.68,
+      "ts": "00:03.860 -> 00:05.680",
+      "jp": "今日は",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>",
+      "zh": "今天",
+      "en": "Today"
+    },
+    {
+      "id": 2,
+      "start": 5.68,
+      "end": 11.48,
+      "ts": "00:05.680 -> 00:11.480",
+      "jp": "エレベーターとエスカレーターについて",
+      "jp_html": "エレベーターとエスカレーターについて",
+      "zh": "关于电梯和自动扶梯",
+      "en": "About elevators and escalators"
+    },
+    {
+      "id": 3,
+      "start": 11.48,
+      "end": 14.36,
+      "ts": "00:11.480 -> 00:14.360",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 4,
+      "start": 14.36,
+      "end": 16.080000000000002,
+      "ts": "00:14.360 -> 00:16.080",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 5,
+      "start": 16.080000000000002,
+      "end": 20.0,
+      "ts": "00:16.080 -> 00:20.000",
+      "jp": "まあ僕は東京に住んでいますね",
+      "jp_html": "まあ<ruby>僕は<rt>ぼくは</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいますね",
+      "zh": "我住在东京呢",
+      "en": "Well, I live in Tokyo."
+    },
+    {
+      "id": 6,
+      "start": 20.68,
+      "end": 24.1,
+      "ts": "00:20.680 -> 00:24.100",
+      "jp": "であの駅に行くと",
+      "jp_html": "であの<ruby>駅<rt>えき</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>と",
+      "zh": "我去那个车站",
+      "en": "When I go to that station"
+    },
+    {
+      "id": 7,
+      "start": 24.1,
+      "end": 27.02,
+      "ts": "00:24.100 -> 00:27.020",
+      "jp": "エスカレーターがあります",
+      "jp_html": "エスカレーターがあります",
+      "zh": "有自动扶梯。",
+      "en": "There is an escalator."
+    },
+    {
+      "id": 8,
+      "start": 27.02,
+      "end": 30.32,
+      "ts": "00:27.020 -> 00:30.320",
+      "jp": "東京の駅にはエスカレーターがある",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>にはエスカレーターがある",
+      "zh": "东京的车站有电梯",
+      "en": "There are escalators at Tokyo's stations."
+    },
+    {
+      "id": 9,
+      "start": 30.32,
+      "end": 32.019999999999996,
+      "ts": "00:30.320 -> 00:32.020",
+      "jp": "あとはデパート",
+      "jp_html": "あとはデパート",
+      "zh": "剩下的就是百货商店了",
+      "en": "The rest is at the department store."
+    },
+    {
+      "id": 10,
+      "start": 32.019999999999996,
+      "end": 35.96,
+      "ts": "00:32.020 -> 00:35.960",
+      "jp": "デパートとかまあいろいろなところですね",
+      "jp_html": "デパートとかまあいろいろなところですね",
+      "zh": "百货店或者各种地方呢",
+      "en": "Department stores and various other places, you know."
+    },
+    {
+      "id": 11,
+      "start": 35.96,
+      "end": 37.68,
+      "ts": "00:35.960 -> 00:37.680",
+      "jp": "エスカレーターがある",
+      "jp_html": "エスカレーターがある",
+      "zh": "有自动扶梯",
+      "en": "There is an escalator."
+    },
+    {
+      "id": 12,
+      "start": 37.68,
+      "end": 42.76,
+      "ts": "00:37.680 -> 00:42.760",
+      "jp": "東京の人たちは左に",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちは<ruby>左<rt>ひだり</rt></ruby>に",
+      "zh": "东京的人们向左走",
+      "en": "People in Tokyo turn left."
+    },
+    {
+      "id": 13,
+      "start": 42.76,
+      "end": 47.2,
+      "ts": "00:42.760 -> 00:47.200",
+      "jp": "え?ちょっと待ってよ",
+      "jp_html": "え?ちょっと<ruby>待っ<rt>まっ</rt></ruby>てよ",
+      "zh": "嗯？等等一下呀",
+      "en": "Hm? Wait a moment please."
+    },
+    {
+      "id": 14,
+      "start": 47.2,
+      "end": 51.480000000000004,
+      "ts": "00:47.200 -> 00:51.480",
+      "jp": "東京の人たちは左に並びますね",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちは<ruby>左<rt>ひだり</rt></ruby>に<ruby>並び<rt>ならび</rt></ruby>ますね",
+      "zh": "东京的人们排在左边吧",
+      "en": "The people in Tokyo seem to line up on the left."
+    },
+    {
+      "id": 15,
+      "start": 51.480000000000004,
+      "end": 52.9,
+      "ts": "00:51.480 -> 00:52.900",
+      "jp": "左側",
+      "jp_html": "<ruby>左側<rt>ひだりがわ</rt></ruby>",
+      "zh": "左侧",
+      "en": "left side"
+    },
+    {
+      "id": 16,
+      "start": 52.9,
+      "end": 60.32,
+      "ts": "00:52.900 -> 01:00.320",
+      "jp": "そして右側を歩いている人が多い",
+      "jp_html": "そして<ruby>右側<rt>みぎがわ</rt></ruby>を<ruby>歩い<rt>あるい</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>",
+      "zh": "然后右边走的人比较多",
+      "en": "And there are more people walking on the right side."
+    },
+    {
+      "id": 17,
+      "start": 60.32,
+      "end": 63.36,
+      "ts": "01:00.320 -> 01:03.360",
+      "jp": "っていうかほとんどみんなそうだと思う",
+      "jp_html": "っていうかほとんどみんなそうだと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得几乎 everyone 都是这样",
+      "en": "I think most people are like that."
+    },
+    {
+      "id": 18,
+      "start": 63.36,
+      "end": 63.82,
+      "ts": "01:03.360 -> 01:03.820",
+      "jp": "そうですね",
+      "jp_html": "そうですね",
+      "zh": "是啊",
+      "en": "Yes, that's right."
+    },
+    {
+      "id": 19,
+      "start": 63.82,
+      "end": 67.53999999999999,
+      "ts": "01:03.820 -> 01:07.540",
+      "jp": "東京でエスカレーターに乗った時は",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>でエスカレーターに<ruby>乗っ<rt>じょうっ</rt></ruby>た<ruby>時<rt>とき</rt></ruby>は",
+      "zh": "东京乘电梯时",
+      "en": "When riding an escalator in Tokyo,..."
+    },
+    {
+      "id": 20,
+      "start": 67.53999999999999,
+      "end": 71.0,
+      "ts": "01:07.540 -> 01:11.000",
+      "jp": "左に行ってください",
+      "jp_html": "<ruby>左<rt>ひだり</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>ください",
+      "zh": "请向左走",
+      "en": "Go left please."
+    },
+    {
+      "id": 21,
+      "start": 71.0,
+      "end": 72.74,
+      "ts": "01:11.000 -> 01:12.740",
+      "jp": "で右は歩く人",
+      "jp_html": "で<ruby>右<rt>みぎ</rt></ruby>は<ruby>歩く<rt>あるく</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+      "zh": "而右边是行走的人",
+      "en": "and the right is a walker"
+    },
+    {
+      "id": 22,
+      "start": 72.74,
+      "end": 78.12,
+      "ts": "01:12.740 -> 01:18.120",
+      "jp": "で大阪はそれが反対らしいですね",
+      "jp_html": "で<ruby>大阪<rt>おおさか</rt></ruby>はそれが<ruby>反対<rt>はんたい</rt></ruby>らしいですね",
+      "zh": "大阪似乎正好相反呢",
+      "en": "So it seems that Osaka is the opposite."
+    },
+    {
+      "id": 23,
+      "start": 78.12,
+      "end": 80.84,
+      "ts": "01:18.120 -> 01:20.840",
+      "jp": "はい反対らしいです",
+      "jp_html": "はい<ruby>反対<rt>はんたい</rt></ruby>らしいです",
+      "zh": "好像反对似的",
+      "en": "It seems they are against it."
+    },
+    {
+      "id": 24,
+      "start": 80.84,
+      "end": 86.46000000000001,
+      "ts": "01:20.840 -> 01:26.460",
+      "jp": "ちょっと僕は最近大阪に行ってないので分かりません",
+      "jp_html": "ちょっと<ruby>僕は<rt>ぼくは</rt></ruby><ruby>最近<rt>さいきん</rt></ruby><ruby>大阪<rt>おおさか</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>ないので<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "最近我没有去大阪，所以不清楚。",
+      "en": "I haven't been to Osaka recently, so I don't know."
+    },
+    {
+      "id": 25,
+      "start": 86.46000000000001,
+      "end": 87.34,
+      "ts": "01:26.460 -> 01:27.340",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 26,
+      "start": 87.34,
+      "end": 90.08000000000001,
+      "ts": "01:27.340 -> 01:30.080",
+      "jp": "でも確か反対って言ってましたね",
+      "jp_html": "でも<ruby>確か<rt>たしか</rt></ruby><ruby>反対<rt>はんたい</rt></ruby>って<ruby>言って<rt>いって</rt></ruby>ましたね",
+      "zh": "但记得他说过反对吧",
+      "en": "But I'm sure you said the opposite."
+    },
+    {
+      "id": 27,
+      "start": 90.08000000000001,
+      "end": 96.60000000000001,
+      "ts": "01:30.080 -> 01:36.600",
+      "jp": "で東京にはたくさんのエスカレーターがあるけど",
+      "jp_html": "で<ruby>東京<rt>とうきょう</rt></ruby>にはたくさんのエスカレーターがあるけど",
+      "zh": "东京有很多电梯",
+      "en": "There are many escalators in Tokyo but"
+    },
+    {
+      "id": 28,
+      "start": 96.60000000000001,
+      "end": 101.96000000000001,
+      "ts": "01:36.600 -> 01:41.960",
+      "jp": "本当は歩くのはやめた方がいいらしいですよね",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>は<ruby>歩く<rt>あるく</rt></ruby>のはやめた<ruby>方が<rt>ほうが</rt></ruby>いいらしいですよね",
+      "zh": "说真的，最好还是不要走路了对吧？",
+      "en": "It seems that it would be better to stop walking, right?"
+    },
+    {
+      "id": 29,
+      "start": 101.96000000000001,
+      "end": 104.16,
+      "ts": "01:41.960 -> 01:44.160",
+      "jp": "それもらしいです",
+      "jp_html": "それもらしいです",
+      "zh": "那好像就是那样",
+      "en": "That seems plausible."
+    },
+    {
+      "id": 30,
+      "start": 104.16,
+      "end": 107.46,
+      "ts": "01:44.160 -> 01:47.460",
+      "jp": "はい危ないからと言ってね",
+      "jp_html": "はい<ruby>危ない<rt>あぶない</rt></ruby>からと<ruby>言って<rt>いって</rt></ruby>ね",
+      "zh": "好吧，我说的是因为危险才这样说的",
+      "en": "Okay, even if it's dangerous, please say so."
+    },
+    {
+      "id": 31,
+      "start": 107.46,
+      "end": 109.82,
+      "ts": "01:47.460 -> 01:49.820",
+      "jp": "でも僕はいつも歩きます",
+      "jp_html": "でも<ruby>僕は<rt>ぼくは</rt></ruby>いつも<ruby>歩き<rt>あるき</rt></ruby>ます",
+      "zh": "但我总是步行去那里",
+      "en": "But I always walk."
+    },
+    {
+      "id": 32,
+      "start": 109.82,
+      "end": 113.5,
+      "ts": "01:49.820 -> 01:53.500",
+      "jp": "はいエスカレーターを歩いてしまう",
+      "jp_html": "はいエスカレーターを<ruby>歩い<rt>あるい</rt></ruby>てしまう",
+      "zh": "是的我不小心走上了自动扶梯",
+      "en": "Yes, I ended up walking on the escalator."
+    },
+    {
+      "id": 33,
+      "start": 113.5,
+      "end": 116.03999999999999,
+      "ts": "01:53.500 -> 01:56.040",
+      "jp": "はいまあいいのか悪いのかは分かりません",
+      "jp_html": "はいまあいいのか<ruby>悪い<rt>わるい</rt></ruby>のかは<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "不清楚是好还是坏",
+      "en": "I don't know if it's good or bad."
+    },
+    {
+      "id": 34,
+      "start": 116.03999999999999,
+      "end": 121.16,
+      "ts": "01:56.040 -> 02:01.160",
+      "jp": "でもたくさんの人たちは左に立って",
+      "jp_html": "でもたくさんの<ruby>人<rt>にん</rt></ruby>たちは<ruby>左<rt>ひだり</rt></ruby>に<ruby>立っ<rt>たっ</rt></ruby>て",
+      "zh": "但是很多人站在左边",
+      "en": "But many people are standing on the left."
+    },
+    {
+      "id": 35,
+      "start": 121.16,
+      "end": 124.16,
+      "ts": "02:01.160 -> 02:04.160",
+      "jp": "右は右側を歩いている",
+      "jp_html": "<ruby>右<rt>みぎ</rt></ruby>は<ruby>右側<rt>みぎがわ</rt></ruby>を<ruby>歩い<rt>あるい</rt></ruby>ている",
+      "zh": "右边是在右边行走",
+      "en": "The right is walking on the right side."
+    },
+    {
+      "id": 36,
+      "start": 124.16,
+      "end": 126.94,
+      "ts": "02:04.160 -> 02:06.940",
+      "jp": "でエレベーター",
+      "jp_html": "でエレベーター",
+      "zh": "乘电梯",
+      "en": "in the elevator"
+    },
+    {
+      "id": 37,
+      "start": 126.94,
+      "end": 129.46,
+      "ts": "02:06.940 -> 02:09.460",
+      "jp": "エレベーターはたくさんありません",
+      "jp_html": "エレベーターはたくさんありません",
+      "zh": "电梯不多",
+      "en": "There aren't many elevators."
+    },
+    {
+      "id": 38,
+      "start": 129.46,
+      "end": 131.34,
+      "ts": "02:09.460 -> 02:11.340",
+      "jp": "たくさんない",
+      "jp_html": "たくさんない",
+      "zh": "没有很多",
+      "en": "There aren't many."
+    },
+    {
+      "id": 39,
+      "start": 131.34,
+      "end": 135.5,
+      "ts": "02:11.340 -> 02:15.500",
+      "jp": "なので例えば赤ちゃんですね",
+      "jp_html": "なので<ruby>例えば<rt>たとえば</rt></ruby><ruby>赤ちゃん<rt>あかちゃん</rt></ruby>ですね",
+      "zh": "所以比如是婴儿呢",
+      "en": "So for example, it's like an infant."
+    },
+    {
+      "id": 40,
+      "start": 135.5,
+      "end": 138.60000000000002,
+      "ts": "02:15.500 -> 02:18.600",
+      "jp": "赤ちゃんのベビーカー",
+      "jp_html": "<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>のベビーカー",
+      "zh": "婴儿的婴儿车",
+      "en": "Baby stroller"
+    },
+    {
+      "id": 41,
+      "start": 138.60000000000002,
+      "end": 143.8,
+      "ts": "02:18.600 -> 02:23.800",
+      "jp": "ベビーカーに乗せている人は結構大変ですね",
+      "jp_html": "ベビーカーに<ruby>乗せ<rt>のせ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>は<ruby>結構大変<rt>けっこうたいへん</rt></ruby>ですね",
+      "zh": "推着婴儿车的人看起来挺辛苦的。",
+      "en": "People with strollers seem to be quite辛苦呢"
+    },
+    {
+      "id": 42,
+      "start": 143.8,
+      "end": 149.46,
+      "ts": "02:23.800 -> 02:29.460",
+      "jp": "ベビーカーに赤ちゃんを乗せている人は結構大変です",
+      "jp_html": "ベビーカーに<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>を<ruby>乗せ<rt>のせ</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>は<ruby>結構大変<rt>けっこうたいへん</rt></ruby>です",
+      "zh": "推着婴儿车的妈妈挺辛苦的",
+      "en": "People with babies in strollers seem to be having it rough."
+    },
+    {
+      "id": 43,
+      "start": 149.46,
+      "end": 151.76000000000002,
+      "ts": "02:29.460 -> 02:31.760",
+      "jp": "結構待たなければいけない",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>待た<rt>また</rt></ruby>なければいけない",
+      "zh": "结构需要等待",
+      "en": "I have to wait结构待たなければいけない"
+    },
+    {
+      "id": 44,
+      "start": 151.76000000000002,
+      "end": 154.32,
+      "ts": "02:31.760 -> 02:34.320",
+      "jp": "駅にもエレベーターはあります",
+      "jp_html": "<ruby>駅<rt>えき</rt></ruby>にもエレベーターはあります",
+      "zh": "车站里也有电梯",
+      "en": "There is an elevator at the station as well."
+    },
+    {
+      "id": 45,
+      "start": 154.32,
+      "end": 157.16,
+      "ts": "02:34.320 -> 02:37.160",
+      "jp": "デパートにもエレベーターはあります",
+      "jp_html": "デパートにもエレベーターはあります",
+      "zh": "百货商店里也有电梯",
+      "en": "There is an elevator in the department store as well."
+    },
+    {
+      "id": 46,
+      "start": 157.16,
+      "end": 158.22,
+      "ts": "02:37.160 -> 02:38.220",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 47,
+      "start": 158.22,
+      "end": 160.2,
+      "ts": "02:38.220 -> 02:40.200",
+      "jp": "まあ少ないですね",
+      "jp_html": "まあ<ruby>少ない<rt>すくない</rt></ruby>ですね",
+      "zh": "确实不多呢",
+      "en": "Well, that's rather few, isn't it?"
+    },
+    {
+      "id": 48,
+      "start": 160.2,
+      "end": 161.66,
+      "ts": "02:40.200 -> 02:41.660",
+      "jp": "十分じゃないので",
+      "jp_html": "<ruby>十分<rt>じゅうぶん</rt></ruby>じゃないので",
+      "zh": "不够十分",
+      "en": "It's not enough."
+    },
+    {
+      "id": 49,
+      "start": 161.66,
+      "end": 164.76,
+      "ts": "02:41.660 -> 02:44.760",
+      "jp": "ちょっと待たなければいけない",
+      "jp_html": "ちょっと<ruby>待た<rt>また</rt></ruby>なければいけない",
+      "zh": "稍微等一下才行",
+      "en": "I need to wait a moment."
+    },
+    {
+      "id": 50,
+      "start": 164.76,
+      "end": 167.06,
+      "ts": "02:44.760 -> 02:47.060",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 51,
+      "start": 167.06,
+      "end": 169.01999999999998,
+      "ts": "02:47.060 -> 02:49.020",
+      "jp": "車椅子の人とか",
+      "jp_html": "<ruby>車椅子<rt>くるまいす</rt></ruby>の<ruby>人<rt>にん</rt></ruby>とか",
+      "zh": "坐輪椅的人",
+      "en": "People in wheelchairs"
+    },
+    {
+      "id": 52,
+      "start": 169.01999999999998,
+      "end": 171.45999999999998,
+      "ts": "02:49.020 -> 02:51.460",
+      "jp": "足が悪い人とかは",
+      "jp_html": "<ruby>足<rt>あし</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>人<rt>にん</rt></ruby>とかは",
+      "zh": "脚不好的人或者",
+      "en": "People with bad feet"
+    },
+    {
+      "id": 53,
+      "start": 171.45999999999998,
+      "end": 172.51999999999998,
+      "ts": "02:51.460 -> 02:52.520",
+      "jp": "ちょっと大変ですね",
+      "jp_html": "ちょっと<ruby>大変<rt>たいへん</rt></ruby>ですね",
+      "zh": "情况有点棘手呢",
+      "en": "It's a bit troublesome, isn't it?"
+    },
+    {
+      "id": 54,
+      "start": 172.51999999999998,
+      "end": 174.54,
+      "ts": "02:52.520 -> 02:54.540",
+      "jp": "エレベーターは少ない",
+      "jp_html": "エレベーターは<ruby>少ない<rt>すくない</rt></ruby>",
+      "zh": "电梯很少",
+      "en": "There are few elevators."
+    },
+    {
+      "id": 55,
+      "start": 174.54,
+      "end": 178.14,
+      "ts": "02:54.540 -> 02:58.140",
+      "jp": "エスカレーターはたくさんあるけど",
+      "jp_html": "エスカレーターはたくさんあるけど",
+      "zh": "虽然有很多电梯",
+      "en": "There are many escalators but"
+    },
+    {
+      "id": 56,
+      "start": 178.14000000000001,
+      "end": 182.8,
+      "ts": "02:58.140 -> 03:02.800",
+      "jp": "ちょっとベビーカーは危ないですね",
+      "jp_html": "ちょっとベビーカーは<ruby>危ない<rt>あぶない</rt></ruby>ですね",
+      "zh": "稍微婴儿车有点危险呢",
+      "en": "The baby stroller seems a bit dangerous, though."
+    },
+    {
+      "id": 57,
+      "start": 182.8,
+      "end": 186.02,
+      "ts": "03:02.800 -> 03:06.020",
+      "jp": "ベビーカーはちょっとエスカレーターは危ないと思います",
+      "jp_html": "ベビーカーはちょっとエスカレーターは<ruby>危ない<rt>あぶない</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我推婴儿车时觉得电梯有点危险",
+      "en": "I think the baby stroller is a bit dangerous on the escalator."
+    },
+    {
+      "id": 58,
+      "start": 186.02,
+      "end": 192.44000000000003,
+      "ts": "03:06.020 -> 03:12.440",
+      "jp": "僕は",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>",
+      "zh": "我",
+      "en": "I am"
+    },
+    {
+      "id": 59,
+      "start": 192.44000000000003,
+      "end": 196.28000000000003,
+      "ts": "03:12.440 -> 03:16.280",
+      "jp": "エレベーターはあんまり使わないですね",
+      "jp_html": "エレベーターはあんまり<ruby>使わ<rt>つかわ</rt></ruby>ないですね",
+      "zh": "电梯好像也不怎么用呢",
+      "en": "We don't use the elevator much, huh?"
+    },
+    {
+      "id": 60,
+      "start": 196.28000000000003,
+      "end": 198.8,
+      "ts": "03:16.280 -> 03:18.800",
+      "jp": "特に駅でエレベーターは使わない",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby><ruby>駅<rt>えき</rt></ruby>でエレベーターは<ruby>使わ<rt>つかわ</rt></ruby>ない",
+      "zh": "特别是在车站不用电梯",
+      "en": "Especially at the station, we don't use the elevator."
+    },
+    {
+      "id": 61,
+      "start": 198.8,
+      "end": 200.24,
+      "ts": "03:18.800 -> 03:20.240",
+      "jp": "デパートでも",
+      "jp_html": "デパートでも",
+      "zh": "百货商店里也",
+      "en": "In department stores also"
+    },
+    {
+      "id": 62,
+      "start": 200.24,
+      "end": 205.32000000000002,
+      "ts": "03:20.240 -> 03:25.320",
+      "jp": "例えば少しだったらエスカレーターを使います",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>少し<rt>すこし</rt></ruby>だったらエスカレーターを<ruby>使い<rt>つかい</rt></ruby>ます",
+      "zh": "比如少一点的话我会用电梯。",
+      "en": "For example, if I'm in a hurry, I'll use the escalator."
+    },
+    {
+      "id": 63,
+      "start": 205.32,
+      "end": 207.48,
+      "ts": "03:25.320 -> 03:27.480",
+      "jp": "でも例えばデパートの",
+      "jp_html": "でも<ruby>例えば<rt>たとえば</rt></ruby>デパートの",
+      "zh": "比如比如说百货商店的",
+      "en": "But for example at a department store"
+    },
+    {
+      "id": 64,
+      "start": 207.48,
+      "end": 210.64,
+      "ts": "03:27.480 -> 03:30.640",
+      "jp": "例えば新宿高島屋",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>新宿<rt>しんじゅく</rt></ruby><ruby>高島<rt>たかしま</rt></ruby><ruby>屋<rt>や</rt></ruby>",
+      "zh": "例如新宿高岛屋",
+      "en": "For example, Shinjuku Hudson Plaza"
+    },
+    {
+      "id": 65,
+      "start": 210.64,
+      "end": 212.6,
+      "ts": "03:30.640 -> 03:32.600",
+      "jp": "高島屋デパート",
+      "jp_html": "<ruby>高島<rt>たかしま</rt></ruby><ruby>屋<rt>や</rt></ruby>デパート",
+      "zh": "高岛屋百货",
+      "en": "High Okada Department Store"
+    },
+    {
+      "id": 66,
+      "start": 212.6,
+      "end": 217.51999999999998,
+      "ts": "03:32.600 -> 03:37.520",
+      "jp": "一番上にレストランがたくさんありますね",
+      "jp_html": "<ruby>一番上<rt>いちばんうえ</rt></ruby>にレストランがたくさんありますね",
+      "zh": "最上面有很多餐馆呢",
+      "en": "There are many restaurants at the very top, don't they?"
+    },
+    {
+      "id": 67,
+      "start": 217.51999999999998,
+      "end": 219.0,
+      "ts": "03:37.520 -> 03:39.000",
+      "jp": "そういう時は",
+      "jp_html": "そういう<ruby>時<rt>とき</rt></ruby>は",
+      "zh": "那时候",
+      "en": "Then"
+    },
+    {
+      "id": 68,
+      "start": 219.0,
+      "end": 221.29999999999998,
+      "ts": "03:39.000 -> 03:41.300",
+      "jp": "エスカレーターじゃなくて",
+      "jp_html": "エスカレーターじゃなくて",
+      "zh": "不是电梯",
+      "en": "Not by escalator"
+    },
+    {
+      "id": 69,
+      "start": 221.29999999999998,
+      "end": 222.88,
+      "ts": "03:41.300 -> 03:42.880",
+      "jp": "エレベーターに乗ります",
+      "jp_html": "エレベーターに<ruby>乗り<rt>のり</rt></ruby>ます",
+      "zh": "乘电梯",
+      "en": "We will take the elevator."
+    },
+    {
+      "id": 70,
+      "start": 222.88,
+      "end": 226.28,
+      "ts": "03:42.880 -> 03:46.280",
+      "jp": "レストランに行くためにエレベーターに乗ります",
+      "jp_html": "レストランに<ruby>行く<rt>いく</rt></ruby>ためにエレベーターに<ruby>乗り<rt>のり</rt></ruby>ます",
+      "zh": "为了去餐厅，我乘电梯上去。",
+      "en": "I will get on the elevator to go to the restaurant."
+    },
+    {
+      "id": 71,
+      "start": 226.28,
+      "end": 227.76,
+      "ts": "03:46.280 -> 03:47.760",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 72,
+      "start": 227.76,
+      "end": 231.24,
+      "ts": "03:47.760 -> 03:51.240",
+      "jp": "1階2階3階4階",
+      "jp_html": "1<ruby>階<rt>かい</rt></ruby>2<ruby>階<rt>かい</rt></ruby>3<ruby>階<rt>かい</rt></ruby>4<ruby>階<rt>かい</rt></ruby>",
+      "zh": "1层2层3层4层",
+      "en": "1st floor 2nd floor 3rd floor 4th floor"
+    },
+    {
+      "id": 73,
+      "start": 231.24,
+      "end": 234.51999999999998,
+      "ts": "03:51.240 -> 03:54.520",
+      "jp": "それぐらいはエスカレーターで行きます",
+      "jp_html": "それぐらいはエスカレーターで<ruby>行き<rt>いき</rt></ruby>ます",
+      "zh": "那我就会乘自动扶梯上去",
+      "en": "I'll go that far by using the escalator."
+    },
+    {
+      "id": 74,
+      "start": 234.52,
+      "end": 243.96,
+      "ts": "03:54.520 -> 04:03.960",
+      "jp": "特にエレベーターのルールはないですけど",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby>エレベーターのルールはないですけど",
+      "zh": "特别是没有关于电梯的特殊规则",
+      "en": "There aren't any specific elevator rules though."
+    },
+    {
+      "id": 75,
+      "start": 243.96,
+      "end": 247.96,
+      "ts": "04:03.960 -> 04:07.960",
+      "jp": "やっぱり並んだ方がいいですね",
+      "jp_html": "やっぱり<ruby>並ん<rt>ならん</rt></ruby>だ<ruby>方が<rt>ほうが</rt></ruby>いいですね",
+      "zh": "果然排队比较好呢",
+      "en": "It's better to queue up, isn't it?"
+    },
+    {
+      "id": 76,
+      "start": 247.96,
+      "end": 252.70000000000002,
+      "ts": "04:07.960 -> 04:12.700",
+      "jp": "日本ではいつも人々は並びます",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>ではいつも<ruby>人々<rt>ひとびと</rt></ruby>は<ruby>並び<rt>ならび</rt></ruby>ます",
+      "zh": "在日本人们总是排队。",
+      "en": "In Japan, people always queue up."
+    },
+    {
+      "id": 77,
+      "start": 252.70000000000002,
+      "end": 255.96,
+      "ts": "04:12.700 -> 04:15.960",
+      "jp": "エレベーターの前で",
+      "jp_html": "エレベーターの<ruby>前<rt>まえ</rt></ruby>で",
+      "zh": "电梯前面",
+      "en": "In front of the elevator"
+    },
+    {
+      "id": 78,
+      "start": 255.96,
+      "end": 259.78000000000003,
+      "ts": "04:15.960 -> 04:19.780",
+      "jp": "大体この人が最初",
+      "jp_html": "<ruby>大体<rt>だいたい</rt></ruby>この<ruby>人<rt>にん</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>",
+      "zh": "大概这个人是第一个。",
+      "en": "大致这个人是第一个。"
+    },
+    {
+      "id": 79,
+      "start": 259.78000000000003,
+      "end": 261.02,
+      "ts": "04:19.780 -> 04:21.020",
+      "jp": "この人が2番目",
+      "jp_html": "この<ruby>人<rt>にん</rt></ruby>が2<ruby>番目<rt>ばんめ</rt></ruby>",
+      "zh": "这个人是第二个",
+      "en": "This person is second."
+    },
+    {
+      "id": 80,
+      "start": 261.02,
+      "end": 262.34000000000003,
+      "ts": "04:21.020 -> 04:22.340",
+      "jp": "この人が3番目",
+      "jp_html": "この<ruby>人<rt>にん</rt></ruby>が3<ruby>番目<rt>ばんめ</rt></ruby>",
+      "zh": "这个人是第三个",
+      "en": "This person is the third one."
+    },
+    {
+      "id": 81,
+      "start": 262.34000000000003,
+      "end": 263.54,
+      "ts": "04:22.340 -> 04:23.540",
+      "jp": "大体わかるでしょ",
+      "jp_html": "<ruby>大体<rt>だいたい</rt></ruby>わかるでしょ",
+      "zh": "你大概明白吧",
+      "en": "Don't you get it?"
+    },
+    {
+      "id": 82,
+      "start": 263.54,
+      "end": 264.98,
+      "ts": "04:23.540 -> 04:24.980",
+      "jp": "だから",
+      "jp_html": "だから",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 83,
+      "start": 264.98,
+      "end": 268.92,
+      "ts": "04:24.980 -> 04:28.920",
+      "jp": "一番最初に入ろうとしないでくださいね",
+      "jp_html": "<ruby>一番最初<rt>いちばんさいしょ</rt></ruby>に<ruby>入ろ<rt>いろ</rt></ruby>うとしないでくださいね",
+      "zh": "请不要一开始就尝试进入。",
+      "en": "Please don't try to go in first."
+    },
+    {
+      "id": 84,
+      "start": 268.92,
+      "end": 270.98,
+      "ts": "04:28.920 -> 04:30.980",
+      "jp": "自分が一番最初だったらいいけど",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>一番最初<rt>いちばんさいしょ</rt></ruby>だったらいいけど",
+      "zh": "如果是第一个就好了",
+      "en": "If I were the first one, that would be good."
+    },
+    {
+      "id": 85,
+      "start": 270.98,
+      "end": 274.86,
+      "ts": "04:30.980 -> 04:34.860",
+      "jp": "ちゃんと並んだ方がいいですね",
+      "jp_html": "ちゃんと<ruby>並ん<rt>ならん</rt></ruby>だ<ruby>方が<rt>ほうが</rt></ruby>いいですね",
+      "zh": "排好队才是好的呢",
+      "en": "It's better to line up properly, isn't it?"
+    },
+    {
+      "id": 86,
+      "start": 274.86,
+      "end": 275.98,
+      "ts": "04:34.860 -> 04:35.980",
+      "jp": "順番があります",
+      "jp_html": "<ruby>順番<rt>じゅんばん</rt></ruby>があります",
+      "zh": "顺序有先后",
+      "en": "There is an order."
+    },
+    {
+      "id": 87,
+      "start": 276.64000000000004,
+      "end": 278.92,
+      "ts": "04:36.640 -> 04:38.920",
+      "jp": "一番最初にいた人が一番最初",
+      "jp_html": "<ruby>一番最初<rt>いちばんさいしょ</rt></ruby>にいた<ruby>人<rt>にん</rt></ruby>が<ruby>一番最初<rt>いちばんさいしょ</rt></ruby>",
+      "zh": "最先来到的人最先",
+      "en": "The person who was first is first."
+    },
+    {
+      "id": 88,
+      "start": 278.92,
+      "end": 280.38,
+      "ts": "04:38.920 -> 04:40.380",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 89,
+      "start": 280.38,
+      "end": 282.28000000000003,
+      "ts": "04:40.380 -> 04:42.280",
+      "jp": "まず降りる人ですね",
+      "jp_html": "まず<ruby>降り<rt>おり</rt></ruby>る<ruby>人<rt>にん</rt></ruby>ですね",
+      "zh": "首先下车的人呢",
+      "en": "First, the people getting off, please."
+    },
+    {
+      "id": 90,
+      "start": 282.28000000000003,
+      "end": 283.76,
+      "ts": "04:42.280 -> 04:43.760",
+      "jp": "降りる人が最初ですね",
+      "jp_html": "<ruby>降り<rt>おり</rt></ruby>る<ruby>人<rt>にん</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>ですね",
+      "zh": "下车的人最先啊",
+      "en": "The person getting off is first."
+    },
+    {
+      "id": 91,
+      "start": 283.76,
+      "end": 285.6,
+      "ts": "04:43.760 -> 04:45.600",
+      "jp": "エレベーターが来た",
+      "jp_html": "エレベーターが<ruby>来た<rt>きた</rt></ruby>",
+      "zh": "电梯来了",
+      "en": "The elevator came."
+    },
+    {
+      "id": 92,
+      "start": 285.6,
+      "end": 286.66,
+      "ts": "04:45.600 -> 04:46.660",
+      "jp": "ピーン",
+      "jp_html": "ピーン",
+      "zh": "砰",
+      "en": "Pin"
+    },
+    {
+      "id": 93,
+      "start": 286.66,
+      "end": 290.04,
+      "ts": "04:46.660 -> 04:50.040",
+      "jp": "そしてまず中から人が出てきます",
+      "jp_html": "そしてまず<ruby>中<rt>なか</rt></ruby>から<ruby>人<rt>にん</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>きます",
+      "zh": "然后首先从里面出来人",
+      "en": "And first, people come out from inside."
+    },
+    {
+      "id": 94,
+      "start": 290.04,
+      "end": 291.62,
+      "ts": "04:50.040 -> 04:51.620",
+      "jp": "なんでそれを待って",
+      "jp_html": "なんでそれを<ruby>待っ<rt>まっ</rt></ruby>て",
+      "zh": "为什么你icester",
+      "en": "Why did you wait for that?"
+    },
+    {
+      "id": 95,
+      "start": 291.62,
+      "end": 294.1,
+      "ts": "04:51.620 -> 04:54.100",
+      "jp": "中から人が出てきたら",
+      "jp_html": "<ruby>中<rt>なか</rt></ruby>から<ruby>人<rt>にん</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>きたら",
+      "zh": "如果有人从里面出来",
+      "en": "If someone comes out from there"
+    },
+    {
+      "id": 96,
+      "start": 294.1,
+      "end": 296.36,
+      "ts": "04:54.100 -> 04:56.360",
+      "jp": "入ってください",
+      "jp_html": "<ruby>入っ<rt>いっっ</rt></ruby>てください",
+      "zh": "请进",
+      "en": "Come in."
+    },
+    {
+      "id": 97,
+      "start": 296.36,
+      "end": 300.58000000000004,
+      "ts": "04:56.360 -> 05:00.580",
+      "jp": "まあ多分世界中で同じだと思いますけど",
+      "jp_html": "まあ<ruby>多分<rt>たぶん</rt></ruby><ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>同じ<rt>おなじ</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ますけど",
+      "zh": "大概全世界都一样吧",
+      "en": "I think it's the same everywhere in the world."
+    },
+    {
+      "id": 98,
+      "start": 300.58000000000004,
+      "end": 301.3,
+      "ts": "05:00.580 -> 05:01.300",
+      "jp": "どうですか",
+      "jp_html": "どうですか",
+      "zh": "您怎么了？",
+      "en": "How is it?"
+    },
+    {
+      "id": 99,
+      "start": 301.3,
+      "end": 303.74,
+      "ts": "05:01.300 -> 05:03.740",
+      "jp": "日本人は結構",
+      "jp_html": "<ruby>日本人<rt>にほんじん</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "日本人确实",
+      "en": "Japanese people are quite"
+    },
+    {
+      "id": 100,
+      "start": 303.74,
+      "end": 306.12,
+      "ts": "05:03.740 -> 05:06.120",
+      "jp": "順番は守りますね",
+      "jp_html": "<ruby>順番<rt>じゅんばん</rt></ruby>は<ruby>守り<rt>まもり</rt></ruby>ますね",
+      "zh": "我们会遵守顺序的。",
+      "en": "I will abide by the order."
+    },
+    {
+      "id": 101,
+      "start": 306.12,
+      "end": 307.90000000000003,
+      "ts": "05:06.120 -> 05:07.900",
+      "jp": "順番はとても大事です",
+      "jp_html": "<ruby>順番<rt>じゅんばん</rt></ruby>はとても<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "顺序非常重要",
+      "en": "Order is very important."
+    },
+    {
+      "id": 102,
+      "start": 307.90000000000003,
+      "end": 309.32,
+      "ts": "05:07.900 -> 05:09.320",
+      "jp": "特に東京で",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>で",
+      "zh": "特别是在东京",
+      "en": "Especially in Tokyo"
+    },
+    {
+      "id": 103,
+      "start": 309.32,
+      "end": 311.04,
+      "ts": "05:09.320 -> 05:11.040",
+      "jp": "電車とか",
+      "jp_html": "<ruby>電車<rt>でんしゃ</rt></ruby>とか",
+      "zh": "电车或者",
+      "en": "train or subway"
+    },
+    {
+      "id": 104,
+      "start": 311.04,
+      "end": 313.96,
+      "ts": "05:11.040 -> 05:13.960",
+      "jp": "ちょっとアグレッシブな人も多いけどね",
+      "jp_html": "ちょっとアグレッシブな<ruby>人<rt>にん</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>けどね",
+      "zh": "有不少人比较激进呢",
+      "en": "There are quite a few people who can be pretty aggressive, you know?"
+    },
+    {
+      "id": 105,
+      "start": 313.96,
+      "end": 314.7,
+      "ts": "05:13.960 -> 05:14.700",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 106,
+      "start": 314.7,
+      "end": 318.09999999999997,
+      "ts": "05:14.700 -> 05:18.100",
+      "jp": "まあ電車も一応並びますね",
+      "jp_html": "まあ<ruby>電車<rt>でんしゃ</rt></ruby>も<ruby>一応<rt>いちおう</rt></ruby><ruby>並び<rt>ならび</rt></ruby>ますね",
+      "zh": "毕竟电车也还是排队的吧",
+      "en": "Well, the trains do line up somewhat."
+    },
+    {
+      "id": 107,
+      "start": 318.09999999999997,
+      "end": 319.04,
+      "ts": "05:18.100 -> 05:19.040",
+      "jp": "みんな並んで",
+      "jp_html": "みんな<ruby>並ん<rt>ならん</rt></ruby>で",
+      "zh": "大家排好队",
+      "en": "Everyone is lining up"
+    },
+    {
+      "id": 108,
+      "start": 319.04,
+      "end": 321.82,
+      "ts": "05:19.040 -> 05:21.820",
+      "jp": "電車が来たら",
+      "jp_html": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>来た<rt>きた</rt></ruby>ら",
+      "zh": "电车来了就",
+      "en": "When the train comes"
+    },
+    {
+      "id": 109,
+      "start": 321.82,
+      "end": 324.76,
+      "ts": "05:21.820 -> 05:24.760",
+      "jp": "人が最初に出てきて",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>出て<rt>でて</rt></ruby>きて",
+      "zh": "人一开始出现",
+      "en": "People start by coming out."
+    },
+    {
+      "id": 110,
+      "start": 324.76,
+      "end": 325.64,
+      "ts": "05:24.760 -> 05:25.640",
+      "jp": "みんなが出て",
+      "jp_html": "みんなが<ruby>出て<rt>でて</rt></ruby>",
+      "zh": "大家都出来",
+      "en": "Everyone appears"
+    },
+    {
+      "id": 111,
+      "start": 325.64,
+      "end": 326.64,
+      "ts": "05:25.640 -> 05:26.640",
+      "jp": "出て",
+      "jp_html": "<ruby>出て<rt>でて</rt></ruby>",
+      "zh": "出去",
+      "en": "Come out"
+    },
+    {
+      "id": 112,
+      "start": 326.64,
+      "end": 327.98,
+      "ts": "05:26.640 -> 05:27.980",
+      "jp": "出終わったら",
+      "jp_html": "<ruby>出<rt>しゅつ</rt></ruby><ruby>終わ<rt>おわ</rt></ruby>ったら",
+      "zh": "结束后",
+      "en": "When it ends"
+    },
+    {
+      "id": 113,
+      "start": 327.98,
+      "end": 329.5,
+      "ts": "05:27.980 -> 05:29.500",
+      "jp": "中に入る",
+      "jp_html": "<ruby>中に<rt>なかに</rt></ruby><ruby>入る<rt>いる</rt></ruby>",
+      "zh": "进中",
+      "en": "Enter the middle"
+    },
+    {
+      "id": 114,
+      "start": 329.5,
+      "end": 331.72,
+      "ts": "05:29.500 -> 05:31.720",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 115,
+      "start": 331.72,
+      "end": 333.14,
+      "ts": "05:31.720 -> 05:33.140",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 116,
+      "start": 333.14,
+      "end": 334.72,
+      "ts": "05:33.140 -> 05:34.720",
+      "jp": "今日はどうですか",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>どうですか",
+      "zh": "今天怎么样？",
+      "en": "How is today?"
+    },
+    {
+      "id": 117,
+      "start": 334.72,
+      "end": 336.74,
+      "ts": "05:34.720 -> 05:36.740",
+      "jp": "どんな一日になりそうですか",
+      "jp_html": "どんな<ruby>一日<rt>ついたち</rt></ruby>になりそうですか",
+      "zh": "今天会是怎样的一天呢",
+      "en": "What does the day seem to be going to become?"
+    },
+    {
+      "id": 118,
+      "start": 336.74,
+      "end": 337.84,
+      "ts": "05:36.740 -> 05:37.840",
+      "jp": "今朝ですか",
+      "jp_html": "<ruby>今朝<rt>けさ</rt></ruby>ですか",
+      "zh": "今天吗？",
+      "en": "Is it morning?"
+    },
+    {
+      "id": 119,
+      "start": 337.84,
+      "end": 338.54,
+      "ts": "05:37.840 -> 05:38.540",
+      "jp": "昼ですか",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ですか",
+      "zh": "白天吗？",
+      "en": "Is it daytime?"
+    },
+    {
+      "id": 120,
+      "start": 338.54,
+      "end": 339.16,
+      "ts": "05:38.540 -> 05:39.160",
+      "jp": "夜ですか",
+      "jp_html": "<ruby>夜<rt>よる</rt></ruby>ですか",
+      "zh": "晚上吗？",
+      "en": "Is it night?"
+    },
+    {
+      "id": 121,
+      "start": 339.16,
+      "end": 342.18,
+      "ts": "05:39.160 -> 05:42.180",
+      "jp": "今日もいい一日を過ごしてください",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>もいい<ruby>一日<rt>ついたち</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>してください",
+      "zh": "希望你今天过得好orefined by AI",
+      "en": "Have a great day today"
+    },
+    {
+      "id": 122,
+      "start": 342.18,
+      "end": 343.06,
+      "ts": "05:42.180 -> 05:43.060",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}

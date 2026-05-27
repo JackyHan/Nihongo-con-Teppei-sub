@@ -1,0 +1,2648 @@
+{
+  "id": "1496",
+  "title": "#1496「新幹線（しんかんせん）について！」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/04/Beginners-con-Teppei1496.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/04/07/1496%e3%80%8c%e6%96%b0%e5%b9%b9%e7%b7%9a%ef%bc%88%e3%81%97%e3%82%93%e3%81%8b%e3%82%93%e3%81%9b%e3%82%93%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.5,
+      "ts": "00:00.000 -> 00:03.500",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.5,
+      "end": 7.98,
+      "ts": "00:03.500 -> 00:07.980",
+      "jp": "今日は新幹線について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>について",
+      "zh": "今天关于新干线",
+      "en": "Today, about the Shinkansen."
+    },
+    {
+      "id": 2,
+      "start": 7.98,
+      "end": 10.92,
+      "ts": "00:07.980 -> 00:10.920",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 10.92,
+      "end": 14.76,
+      "ts": "00:10.920 -> 00:14.760",
+      "jp": "日本語コンテッペの時間朝ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby><ruby>朝<rt>あさ</rt></ruby>ですね",
+      "zh": "日语晨读的时间到了吧",
+      "en": "Japanese class time in the morning."
+    },
+    {
+      "id": 4,
+      "start": 14.76,
+      "end": 17.68,
+      "ts": "00:14.760 -> 00:17.680",
+      "jp": "朝なのでちょっと喉が",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>なのでちょっと<ruby>喉<rt>のど</rt></ruby>が",
+      "zh": "早上所以喉咙稍微有点儿不舒服",
+      "en": "It's morning so my throat is a little dry."
+    },
+    {
+      "id": 5,
+      "start": 17.68,
+      "end": 22.580000000000002,
+      "ts": "00:17.680 -> 00:22.580",
+      "jp": "喉の調子が完璧ではありません",
+      "jp_html": "<ruby>喉<rt>のど</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>完璧<rt>かんぺき</rt></ruby>ではありません",
+      "zh": "喉咙状况并不完美",
+      "en": "My throat is not perfect."
+    },
+    {
+      "id": 6,
+      "start": 22.580000000000002,
+      "end": 24.0,
+      "ts": "00:22.580 -> 00:24.000",
+      "jp": "でも大丈夫",
+      "jp_html": "でも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "没事",
+      "en": "But it's okay."
+    },
+    {
+      "id": 7,
+      "start": 24.0,
+      "end": 27.38,
+      "ts": "00:24.000 -> 00:27.380",
+      "jp": "多分ポッドキャストを撮れば",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ポッドキャストを<ruby>撮れ<rt>とれ</rt></ruby>ば",
+      "zh": "多亏制作了播客",
+      "en": "I think if I record a podcast,"
+    },
+    {
+      "id": 8,
+      "start": 27.38,
+      "end": 29.88,
+      "ts": "00:27.380 -> 00:29.880",
+      "jp": "元気になると思います",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>になると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我相信你会振作起来的",
+      "en": "I think you will cheer up."
+    },
+    {
+      "id": 9,
+      "start": 29.88,
+      "end": 35.12,
+      "ts": "00:29.880 -> 00:35.120",
+      "jp": "今日は新幹線について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>について",
+      "zh": "今天关于新干线",
+      "en": "Today, about the Shinkansen."
+    },
+    {
+      "id": 10,
+      "start": 35.12,
+      "end": 37.9,
+      "ts": "00:35.120 -> 00:37.900",
+      "jp": "新幹線",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>",
+      "zh": "新干线",
+      "en": "Shinkansen"
+    },
+    {
+      "id": 11,
+      "start": 37.9,
+      "end": 40.72,
+      "ts": "00:37.900 -> 00:40.720",
+      "jp": "とても便利で",
+      "jp_html": "とても<ruby>便利<rt>べんり</rt></ruby>で",
+      "zh": "非常方便",
+      "en": "Very convenient"
+    },
+    {
+      "id": 12,
+      "start": 40.72,
+      "end": 43.72,
+      "ts": "00:40.720 -> 00:43.720",
+      "jp": "早い電車ですね",
+      "jp_html": "<ruby>早い<rt>はやい</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>ですね",
+      "zh": "这趟车挺早的吧",
+      "en": "The train is early, isn't it?"
+    },
+    {
+      "id": 13,
+      "start": 43.72,
+      "end": 46.879999999999995,
+      "ts": "00:43.720 -> 00:46.880",
+      "jp": "だけどちょっと高い",
+      "jp_html": "だけどちょっと<ruby>高い<rt>たかい</rt></ruby>",
+      "zh": "但是稍微贵了一点",
+      "en": "But it's a bit expensive."
+    },
+    {
+      "id": 14,
+      "start": 46.879999999999995,
+      "end": 50.06,
+      "ts": "00:46.880 -> 00:50.060",
+      "jp": "それは仕方がない",
+      "jp_html": "それは<ruby>仕方<rt>しかた</rt></ruby>がない",
+      "zh": "那也没办法",
+      "en": "That is unavoidable."
+    },
+    {
+      "id": 15,
+      "start": 50.06,
+      "end": 53.76,
+      "ts": "00:50.060 -> 00:53.760",
+      "jp": "新幹線は本当に便利です",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>です",
+      "zh": "新干线真的很方便",
+      "en": "The Shinkansen is really convenient."
+    },
+    {
+      "id": 16,
+      "start": 55.32,
+      "end": 57.36,
+      "ts": "00:55.320 -> 00:57.360",
+      "jp": "例えば東京から",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>から",
+      "zh": "例如从东京出发",
+      "en": "For example, from Tokyo"
+    },
+    {
+      "id": 17,
+      "start": 57.38,
+      "end": 62.940000000000005,
+      "ts": "00:57.380 -> 01:02.940",
+      "jp": "大阪まで2時間半ぐらいですかね",
+      "jp_html": "<ruby>大阪<rt>おおさか</rt></ruby>まで2<ruby>時間半<rt>じかんはん</rt></ruby>ぐらいですかね",
+      "zh": "大概需要两个半小时到达大阪吧",
+      "en": "It's about 2 and a half hours to Osaka, I think."
+    },
+    {
+      "id": 18,
+      "start": 62.940000000000005,
+      "end": 67.74000000000001,
+      "ts": "01:02.940 -> 01:07.740",
+      "jp": "京都、大阪、神戸",
+      "jp_html": "<ruby>京都<rt>きょうと</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>、<ruby>神戸<rt>こうべ</rt></ruby>",
+      "zh": "京都、大阪、 Kobe",
+      "en": "Kyoto, Osaka, Kobe"
+    },
+    {
+      "id": 19,
+      "start": 67.74000000000001,
+      "end": 70.98,
+      "ts": "01:07.740 -> 01:10.980",
+      "jp": "そういうところに行くときは",
+      "jp_html": "そういうところに<ruby>行く<rt>いく</rt></ruby>ときは",
+      "zh": "去那种地方的时候",
+      "en": "When going to such places,"
+    },
+    {
+      "id": 20,
+      "start": 70.98,
+      "end": 72.48,
+      "ts": "01:10.980 -> 01:12.480",
+      "jp": "新幹線が便利ですね",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>ですね",
+      "zh": "新干线很方便呢",
+      "en": "The Shinkansen is convenient, isn't it?"
+    },
+    {
+      "id": 21,
+      "start": 72.48,
+      "end": 77.86,
+      "ts": "01:12.480 -> 01:17.860",
+      "jp": "東京から大阪に飛行機もあるけど",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>飛行機<rt>ひこうき</rt></ruby>もあるけど",
+      "zh": "从东京到大阪也有飞机可以乘坐",
+      "en": "There are also flights from Tokyo to Osaka."
+    },
+    {
+      "id": 22,
+      "start": 77.86,
+      "end": 81.36,
+      "ts": "01:17.860 -> 01:21.360",
+      "jp": "新幹線の方が便利だと思います",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby><ruby>便利<rt>べんり</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为新干线更方便",
+      "en": "I think the Shinkansen is more convenient."
+    },
+    {
+      "id": 23,
+      "start": 81.36,
+      "end": 83.42,
+      "ts": "01:21.360 -> 01:23.420",
+      "jp": "理由は",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は",
+      "zh": "原因是",
+      "en": "The reason is"
+    },
+    {
+      "id": 24,
+      "start": 83.42,
+      "end": 90.4,
+      "ts": "01:23.420 -> 01:30.400",
+      "jp": "やっぱり羽田空港とか成田空港は少し遠いですよね",
+      "jp_html": "やっぱり<ruby>羽田空港<rt>はねだくうこう</rt></ruby>とか<ruby>成田空港<rt>なりたくうこう</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>ですよね",
+      "zh": "果然，羽田机场或者成田机场稍微远一点吧？",
+      "en": "Yeah, Haneda Airport or Narita Airport are a bit far away, aren't they?"
+    },
+    {
+      "id": 25,
+      "start": 90.4,
+      "end": 96.94,
+      "ts": "01:30.400 -> 01:36.940",
+      "jp": "新幹線は東京駅とか品川駅とか",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>東京駅<rt>とうきょうえき</rt></ruby>とか<ruby>品川駅<rt>しながわえき</rt></ruby>とか",
+      "zh": "新干线是东京站或者品川站",
+      "en": "The Shinkansen is at Tokyo Station or Shinagawa Station"
+    },
+    {
+      "id": 26,
+      "start": 96.94,
+      "end": 100.5,
+      "ts": "01:36.940 -> 01:40.500",
+      "jp": "結構便利な場所にあります",
+      "jp_html": "<ruby>結構便利<rt>けっこうべんり</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>にあります",
+      "zh": "位于结构便利的地方",
+      "en": "It is located in a very convenient place."
+    },
+    {
+      "id": 27,
+      "start": 100.5,
+      "end": 101.5,
+      "ts": "01:40.500 -> 01:41.500",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 28,
+      "start": 101.5,
+      "end": 105.3,
+      "ts": "01:41.500 -> 01:45.300",
+      "jp": "駅に行ってすぐに乗れますね",
+      "jp_html": "<ruby>駅<rt>えき</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>すぐに<ruby>乗れ<rt>のれ</rt></ruby>ますね",
+      "zh": "去了车站就可以马上乘车吧",
+      "en": "You can get on it right after you go to the station."
+    },
+    {
+      "id": 29,
+      "start": 105.3,
+      "end": 108.5,
+      "ts": "01:45.300 -> 01:48.500",
+      "jp": "飛行機だと色々な",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>だと<ruby>色々<rt>いろいろ</rt></ruby>な",
+      "zh": "飞机的话有很多",
+      "en": "Flying offers various"
+    },
+    {
+      "id": 30,
+      "start": 108.5,
+      "end": 110.98,
+      "ts": "01:48.500 -> 01:50.980",
+      "jp": "チェックがあるでしょ",
+      "jp_html": "チェックがあるでしょ",
+      "zh": "不是有检查吧",
+      "en": "Don't you have a check?"
+    },
+    {
+      "id": 31,
+      "start": 110.98,
+      "end": 113.98,
+      "ts": "01:50.980 -> 01:53.980",
+      "jp": "色々スーツケースとか",
+      "jp_html": "<ruby>色々<rt>いろいろ</rt></ruby>スーツケースとか",
+      "zh": "各种行李箱之类的",
+      "en": "Various suitcases and such"
+    },
+    {
+      "id": 32,
+      "start": 113.98,
+      "end": 116.54,
+      "ts": "01:53.980 -> 01:56.540",
+      "jp": "パスポートはないですね",
+      "jp_html": "パスポートはないですね",
+      "zh": "没有护照哦",
+      "en": "You don't have a passport, right?"
+    },
+    {
+      "id": 33,
+      "start": 116.54,
+      "end": 119.54,
+      "ts": "01:56.540 -> 01:59.540",
+      "jp": "日本だからパスポートは必要ないけど",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>だからパスポートは<ruby>必要<rt>ひつよう</rt></ruby>ないけど",
+      "zh": "因为是日本，所以不需要护照",
+      "en": "Because it's Japan, a passport is not needed but"
+    },
+    {
+      "id": 34,
+      "start": 119.54,
+      "end": 124.82000000000001,
+      "ts": "01:59.540 -> 02:04.820",
+      "jp": "ちょっと早く行かなければいけない",
+      "jp_html": "ちょっと<ruby>早く<rt>はやく</rt></ruby><ruby>行か<rt>いか</rt></ruby>なければいけない",
+      "zh": "我必须早点走。",
+      "en": "I need to leave a little earlier."
+    },
+    {
+      "id": 35,
+      "start": 124.82000000000001,
+      "end": 127.30000000000001,
+      "ts": "02:04.820 -> 02:07.300",
+      "jp": "早く行って色々",
+      "jp_html": "<ruby>早く<rt>はやく</rt></ruby><ruby>行って<rt>いって</rt></ruby><ruby>色々<rt>いろいろ</rt></ruby>",
+      "zh": "早点去那边看看",
+      "en": "Go early and see everything"
+    },
+    {
+      "id": 36,
+      "start": 127.30000000000001,
+      "end": 129.54,
+      "ts": "02:07.300 -> 02:09.540",
+      "jp": "空港は広いですからね",
+      "jp_html": "<ruby>空港<rt>くうこう</rt></ruby>は<ruby>広い<rt>ひろい</rt></ruby>ですからね",
+      "zh": "机场很大呢",
+      "en": "The airport is wide, you know?"
+    },
+    {
+      "id": 37,
+      "start": 129.54,
+      "end": 132.07999999999998,
+      "ts": "02:09.540 -> 02:12.080",
+      "jp": "東京駅も広いけど",
+      "jp_html": "<ruby>東京駅<rt>とうきょうえき</rt></ruby>も<ruby>広い<rt>ひろい</rt></ruby>けど",
+      "zh": "东京站也很宽敞但是",
+      "en": "Tokyo Station is also spacious but"
+    },
+    {
+      "id": 38,
+      "start": 132.07999999999998,
+      "end": 134.64,
+      "ts": "02:12.080 -> 02:14.640",
+      "jp": "空港ほどではないですね",
+      "jp_html": "<ruby>空港<rt>くうこう</rt></ruby>ほどではないですね",
+      "zh": "不像机场那样吧",
+      "en": "It's not as much as an airport, though."
+    },
+    {
+      "id": 39,
+      "start": 134.64,
+      "end": 138.79999999999998,
+      "ts": "02:14.640 -> 02:18.800",
+      "jp": "なのでほとんどの人は",
+      "jp_html": "なのでほとんどの<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "所以大多数人",
+      "en": "So most people"
+    },
+    {
+      "id": 40,
+      "start": 138.79999999999998,
+      "end": 142.56,
+      "ts": "02:18.800 -> 02:22.560",
+      "jp": "関東から関西に行くとき",
+      "jp_html": "<ruby>関東<rt>かんとう</rt></ruby>から<ruby>関西<rt>かんさい</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とき",
+      "zh": "从关东去关西的时候",
+      "en": "When going from Kanto to Kansai"
+    },
+    {
+      "id": 41,
+      "start": 142.56,
+      "end": 145.29999999999998,
+      "ts": "02:22.560 -> 02:25.300",
+      "jp": "東京から大阪とか",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>大阪<rt>おおさか</rt></ruby>とか",
+      "zh": "从东京到大阪等地",
+      "en": "From Tokyo to Osaka, etc."
+    },
+    {
+      "id": 42,
+      "start": 145.29999999999998,
+      "end": 147.78,
+      "ts": "02:25.300 -> 02:27.780",
+      "jp": "あと名古屋も",
+      "jp_html": "あと<ruby>名古屋<rt>なごや</rt></ruby>も",
+      "zh": "接下来是名古屋吧？",
+      "en": "Next is Nagoya also"
+    },
+    {
+      "id": 43,
+      "start": 147.78,
+      "end": 150.12,
+      "ts": "02:27.780 -> 02:30.120",
+      "jp": "新幹線で行けますね",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>行け<rt>いけ</rt></ruby>ますね",
+      "zh": "可以坐新干线去呢",
+      "en": "You can go by bullet train, right?"
+    },
+    {
+      "id": 44,
+      "start": 150.12,
+      "end": 151.51999999999998,
+      "ts": "02:30.120 -> 02:31.520",
+      "jp": "名古屋とか",
+      "jp_html": "<ruby>名古屋<rt>なごや</rt></ruby>とか",
+      "zh": "名古屋或者",
+      "en": "Nagoya or something"
+    },
+    {
+      "id": 45,
+      "start": 151.51999999999998,
+      "end": 156.06,
+      "ts": "02:31.520 -> 02:36.060",
+      "jp": "例えば伊豆",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>伊豆<rt>いず</rt></ruby>",
+      "zh": "例如伊豆",
+      "en": "For example, Izu"
+    },
+    {
+      "id": 46,
+      "start": 156.06,
+      "end": 158.82,
+      "ts": "02:36.060 -> 02:38.820",
+      "jp": "伊豆に温泉に行くときね",
+      "jp_html": "<ruby>伊豆<rt>いず</rt></ruby>に<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ときね",
+      "zh": "去伊豆泡温泉的时候",
+      "en": "When we go to Izu for hot springs,"
+    },
+    {
+      "id": 47,
+      "start": 158.82,
+      "end": 160.72,
+      "ts": "02:38.820 -> 02:40.720",
+      "jp": "とか熱海とか",
+      "jp_html": "とか<ruby>熱海<rt>あたみ</rt></ruby>とか",
+      "zh": "或者热海等地",
+      "en": "or hot springs in Hot Springs"
+    },
+    {
+      "id": 48,
+      "start": 160.72,
+      "end": 162.54,
+      "ts": "02:40.720 -> 02:42.540",
+      "jp": "熱海に温泉に行くとき",
+      "jp_html": "<ruby>熱海<rt>あたみ</rt></ruby>に<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とき",
+      "zh": "去热海泡温泉的时候",
+      "en": "When going to hot springs in热海"
+    },
+    {
+      "id": 49,
+      "start": 162.54,
+      "end": 165.51999999999998,
+      "ts": "02:42.540 -> 02:45.520",
+      "jp": "これも新幹線は本当に便利です",
+      "jp_html": "これも<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>です",
+      "zh": "这也确实方便的是新干线",
+      "en": "This is also really convenient about the Shinkansen."
+    },
+    {
+      "id": 50,
+      "start": 165.51999999999998,
+      "end": 168.0,
+      "ts": "02:45.520 -> 02:48.000",
+      "jp": "東京駅から熱海",
+      "jp_html": "<ruby>東京駅<rt>とうきょうえき</rt></ruby>から<ruby>熱海<rt>あたみ</rt></ruby>",
+      "zh": "从东京站到热海",
+      "en": "From Tokyo Station to热海"
+    },
+    {
+      "id": 51,
+      "start": 168.0,
+      "end": 169.44,
+      "ts": "02:48.000 -> 02:49.440",
+      "jp": "温泉がある街",
+      "jp_html": "<ruby>温泉<rt>おんせん</rt></ruby>がある<ruby>街<rt>まち</rt></ruby>",
+      "zh": "有温泉的城镇",
+      "en": "The town has hot springs."
+    },
+    {
+      "id": 52,
+      "start": 169.44,
+      "end": 171.54,
+      "ts": "02:49.440 -> 02:51.540",
+      "jp": "東京駅から熱海まで",
+      "jp_html": "<ruby>東京駅<rt>とうきょうえき</rt></ruby>から<ruby>熱海<rt>あたみ</rt></ruby>まで",
+      "zh": "从东京站到热海",
+      "en": "From Tokyo Station to Hot Springs"
+    },
+    {
+      "id": 53,
+      "start": 171.54,
+      "end": 173.0,
+      "ts": "02:51.540 -> 02:53.000",
+      "jp": "新幹線で",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>で",
+      "zh": "新干线",
+      "en": "By Shinkansen"
+    },
+    {
+      "id": 54,
+      "start": 173.0,
+      "end": 175.0,
+      "ts": "02:53.000 -> 02:55.000",
+      "jp": "40分ぐらい",
+      "jp_html": "40<ruby>分<rt>ふん</rt></ruby>ぐらい",
+      "zh": "大约40分",
+      "en": "About 40 minutes"
+    },
+    {
+      "id": 55,
+      "start": 175.0,
+      "end": 176.79999999999998,
+      "ts": "02:55.000 -> 02:56.800",
+      "jp": "35分とか",
+      "jp_html": "35<ruby>分と<rt>ふんと</rt></ruby>か",
+      "zh": "35分钟或那么多次",
+      "en": "35 minutes or so"
+    },
+    {
+      "id": 56,
+      "start": 176.79999999999998,
+      "end": 177.85999999999999,
+      "ts": "02:56.800 -> 02:57.860",
+      "jp": "40分とか",
+      "jp_html": "40<ruby>分と<rt>ふんと</rt></ruby>か",
+      "zh": "40分或者",
+      "en": "40 minutes or so"
+    },
+    {
+      "id": 57,
+      "start": 177.85999999999999,
+      "end": 179.14,
+      "ts": "02:57.860 -> 02:59.140",
+      "jp": "本当にすぐ",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>にすぐ",
+      "zh": "真的很快",
+      "en": "Really right away"
+    },
+    {
+      "id": 58,
+      "start": 179.14,
+      "end": 180.44,
+      "ts": "02:59.140 -> 03:00.440",
+      "jp": "聞きます",
+      "jp_html": "<ruby>聞き<rt>きき</rt></ruby>ます",
+      "zh": "听一听",
+      "en": "I will listen."
+    },
+    {
+      "id": 59,
+      "start": 180.44,
+      "end": 185.42,
+      "ts": "03:00.440 -> 03:05.420",
+      "jp": "あとは広島かな",
+      "jp_html": "あとは<ruby>広島<rt>ひろしま</rt></ruby>かな",
+      "zh": "那 maybe 是广岛吧",
+      "en": "It was probably Hiroshima then."
+    },
+    {
+      "id": 60,
+      "start": 185.42,
+      "end": 186.57999999999998,
+      "ts": "03:05.420 -> 03:06.580",
+      "jp": "広島はね",
+      "jp_html": "<ruby>広島<rt>ひろしま</rt></ruby>はね",
+      "zh": "广岛是né",
+      "en": "Hiroshima is it"
+    },
+    {
+      "id": 61,
+      "start": 186.58,
+      "end": 189.9,
+      "ts": "03:06.580 -> 03:09.900",
+      "jp": "飛行機もあるけど",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>もあるけど",
+      "zh": "飞机也有",
+      "en": "There are also airplanes."
+    },
+    {
+      "id": 62,
+      "start": 189.9,
+      "end": 192.5,
+      "ts": "03:09.900 -> 03:12.500",
+      "jp": "やっぱり新幹線が便利かな",
+      "jp_html": "やっぱり<ruby>新幹線<rt>しんかんせん</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>かな",
+      "zh": "果然新干线很方便吧",
+      "en": "I guess the Shinkansen is convenient, huh?"
+    },
+    {
+      "id": 63,
+      "start": 192.5,
+      "end": 196.02,
+      "ts": "03:12.500 -> 03:16.020",
+      "jp": "新幹線は",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は",
+      "zh": "新干线是",
+      "en": "The Shinkansen is"
+    },
+    {
+      "id": 64,
+      "start": 196.02,
+      "end": 200.0,
+      "ts": "03:16.020 -> 03:20.000",
+      "jp": "4時間半ぐらいでしたっけ",
+      "jp_html": "4<ruby>時間半<rt>じかんはん</rt></ruby>ぐらいでしたっけ",
+      "zh": "大概花了四小时半吧",
+      "en": "Was it about 4 and a half hours?"
+    },
+    {
+      "id": 65,
+      "start": 200.0,
+      "end": 202.64000000000001,
+      "ts": "03:20.000 -> 03:22.640",
+      "jp": "あと",
+      "jp_html": "あと",
+      "zh": "之后",
+      "en": "later"
+    },
+    {
+      "id": 66,
+      "start": 202.64000000000001,
+      "end": 205.48000000000002,
+      "ts": "03:22.640 -> 03:25.480",
+      "jp": "新幹線が便利なのは",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>なのは",
+      "zh": "新干线很方便",
+      "en": "It's convenient because of the Shinkansen."
+    },
+    {
+      "id": 67,
+      "start": 205.48000000000002,
+      "end": 208.32000000000002,
+      "ts": "03:25.480 -> 03:28.320",
+      "jp": "東京から京都に行ってね",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>京都<rt>きょうと</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>ね",
+      "zh": "从东京去京都吧",
+      "en": "Go from Tokyo to Kyoto."
+    },
+    {
+      "id": 68,
+      "start": 208.32000000000002,
+      "end": 209.52,
+      "ts": "03:28.320 -> 03:29.520",
+      "jp": "最初は",
+      "jp_html": "<ruby>最初<rt>さいしょ</rt></ruby>は",
+      "zh": "最初是",
+      "en": "At first"
+    },
+    {
+      "id": 69,
+      "start": 209.52,
+      "end": 212.52,
+      "ts": "03:29.520 -> 03:32.520",
+      "jp": "京都とか大阪を観光して",
+      "jp_html": "<ruby>京都<rt>きょうと</rt></ruby>とか<ruby>大阪<rt>おおさか</rt></ruby>を<ruby>観光<rt>かんこう</rt></ruby>して",
+      "zh": "在京都或大阪观光",
+      "en": "Traveling around Kyoto and Osaka"
+    },
+    {
+      "id": 70,
+      "start": 212.52,
+      "end": 214.70000000000002,
+      "ts": "03:32.520 -> 03:34.700",
+      "jp": "その後広島に行く",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby><ruby>広島<rt>ひろしま</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>",
+      "zh": "之后去广岛",
+      "en": "Then I will go to Hiroshima."
+    },
+    {
+      "id": 71,
+      "start": 214.70000000000002,
+      "end": 216.0,
+      "ts": "03:34.700 -> 03:36.000",
+      "jp": "そういうことが",
+      "jp_html": "そういうことが",
+      "zh": "这种事情",
+      "en": "Such things happen"
+    },
+    {
+      "id": 72,
+      "start": 216.0,
+      "end": 218.44,
+      "ts": "03:36.000 -> 03:38.440",
+      "jp": "すごく簡単にできますね",
+      "jp_html": "すごく<ruby>簡単<rt>かんたん</rt></ruby>にできますね",
+      "zh": "这可以很容易地做到",
+      "en": "It can be done surprisingly easily."
+    },
+    {
+      "id": 73,
+      "start": 219.44,
+      "end": 220.68,
+      "ts": "03:39.440 -> 03:40.680",
+      "jp": "九州",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>",
+      "zh": "九州",
+      "en": "Kyushu"
+    },
+    {
+      "id": 74,
+      "start": 220.68,
+      "end": 222.92000000000002,
+      "ts": "03:40.680 -> 03:42.920",
+      "jp": "九州は",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>は",
+      "zh": "九州是",
+      "en": "Kyushu is"
+    },
+    {
+      "id": 75,
+      "start": 222.92000000000002,
+      "end": 225.86,
+      "ts": "03:42.920 -> 03:45.860",
+      "jp": "僕は飛行機の方がいいと思います",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为飞机比较好",
+      "en": "I think airplanes are better."
+    },
+    {
+      "id": 76,
+      "start": 225.86,
+      "end": 229.24,
+      "ts": "03:45.860 -> 03:49.240",
+      "jp": "例えば福岡に行くとき",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>福岡<rt>ふくおか</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とき",
+      "zh": "比如去福冈的时候",
+      "en": "For example, when going to Fukuoka"
+    },
+    {
+      "id": 77,
+      "start": 229.24,
+      "end": 232.56,
+      "ts": "03:49.240 -> 03:52.560",
+      "jp": "福岡は新幹線と飛行機",
+      "jp_html": "<ruby>福岡<rt>ふくおか</rt></ruby>は<ruby>新幹線<rt>しんかんせん</rt></ruby>と<ruby>飛行機<rt>ひこうき</rt></ruby>",
+      "zh": "福冈有新干线和飞机",
+      "en": "Fukuoka is accessible by Shinkansen and airplane."
+    },
+    {
+      "id": 78,
+      "start": 232.56,
+      "end": 234.18,
+      "ts": "03:52.560 -> 03:54.180",
+      "jp": "両方がありますね",
+      "jp_html": "<ruby>両方<rt>りょうほう</rt></ruby>がありますね",
+      "zh": "两边都有吧",
+      "en": "Both are there, I see."
+    },
+    {
+      "id": 79,
+      "start": 234.18,
+      "end": 235.68,
+      "ts": "03:54.180 -> 03:55.680",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 80,
+      "start": 235.68,
+      "end": 238.02,
+      "ts": "03:55.680 -> 03:58.020",
+      "jp": "飛行機の方がいいと思う",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得飞机比较好",
+      "en": "I think the airplane is better."
+    },
+    {
+      "id": 81,
+      "start": 238.02,
+      "end": 239.70000000000002,
+      "ts": "03:58.020 -> 03:59.700",
+      "jp": "新幹線はちょっと時間が",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>はちょっと<ruby>時間<rt>じかん</rt></ruby>が",
+      "zh": "新干线稍微晚点了",
+      "en": "The Shinkansen is a little late"
+    },
+    {
+      "id": 82,
+      "start": 239.70000000000002,
+      "end": 240.72000000000003,
+      "ts": "03:59.700 -> 04:00.720",
+      "jp": "かかりすぎるかな",
+      "jp_html": "かかりすぎるかな",
+      "zh": "会不会太麻烦了",
+      "en": "It might be too costly, right?"
+    },
+    {
+      "id": 83,
+      "start": 240.72000000000003,
+      "end": 243.78000000000003,
+      "ts": "04:00.720 -> 04:03.780",
+      "jp": "もちろん新幹線の",
+      "jp_html": "もちろん<ruby>新幹線<rt>しんかんせん</rt></ruby>の",
+      "zh": "当然新干线的",
+      "en": "Of course, the Shinkansen is"
+    },
+    {
+      "id": 84,
+      "start": 243.78000000000003,
+      "end": 244.84,
+      "ts": "04:03.780 -> 04:04.840",
+      "jp": "いいこともあります",
+      "jp_html": "いいこともあります",
+      "zh": "也有好的事情",
+      "en": "There are also good things."
+    },
+    {
+      "id": 85,
+      "start": 244.84,
+      "end": 247.36,
+      "ts": "04:04.840 -> 04:07.360",
+      "jp": "景色が見える",
+      "jp_html": "<ruby>景色<rt>けしき</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>る",
+      "zh": "能看到景色",
+      "en": "The scenery can be seen."
+    },
+    {
+      "id": 86,
+      "start": 247.36,
+      "end": 250.28,
+      "ts": "04:07.360 -> 04:10.280",
+      "jp": "東京から",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>から",
+      "zh": "从东京",
+      "en": "From Tokyo"
+    },
+    {
+      "id": 87,
+      "start": 250.28,
+      "end": 253.56,
+      "ts": "04:10.280 -> 04:13.560",
+      "jp": "静岡を通るときは",
+      "jp_html": "<ruby>静岡<rt>しずおか</rt></ruby>を<ruby>通る<rt>とうる</rt></ruby>ときは",
+      "zh": "经过静冈的时候",
+      "en": "When passing through Shizuoka"
+    },
+    {
+      "id": 88,
+      "start": 253.56,
+      "end": 256.36,
+      "ts": "04:13.560 -> 04:16.360",
+      "jp": "富士山が見えたりね",
+      "jp_html": "<ruby>富士山<rt>ふじさん</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>たりね",
+      "zh": "富士山有时能看见呢",
+      "en": "You can see Mount Fuji sometimes, you know."
+    },
+    {
+      "id": 89,
+      "start": 256.36,
+      "end": 259.76,
+      "ts": "04:16.360 -> 04:19.760",
+      "jp": "いい景色が見えますね",
+      "jp_html": "いい<ruby>景色<rt>けしき</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>ますね",
+      "zh": "可以看到 nice 景色 呢",
+      "en": "The view is nice, isn't it?"
+    },
+    {
+      "id": 90,
+      "start": 259.76,
+      "end": 262.40000000000003,
+      "ts": "04:19.760 -> 04:22.400",
+      "jp": "飛行機は少しは見えるけど",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>は<ruby>見え<rt>みえ</rt></ruby>るけど",
+      "zh": "飞机还能隐约看见一点",
+      "en": "The plane is somewhat visible but"
+    },
+    {
+      "id": 91,
+      "start": 262.40000000000003,
+      "end": 262.84000000000003,
+      "ts": "04:22.400 -> 04:22.840",
+      "jp": "ほとんど",
+      "jp_html": "ほとんど",
+      "zh": "几乎",
+      "en": "almost"
+    },
+    {
+      "id": 92,
+      "start": 262.84000000000003,
+      "end": 264.12,
+      "ts": "04:22.840 -> 04:24.120",
+      "jp": "空の上",
+      "jp_html": "<ruby>空<rt>そら</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>",
+      "zh": "天空中",
+      "en": "Above the Sky"
+    },
+    {
+      "id": 93,
+      "start": 264.12,
+      "end": 266.7,
+      "ts": "04:24.120 -> 04:26.700",
+      "jp": "だからあんまり見えない",
+      "jp_html": "だからあんまり<ruby>見え<rt>みえ</rt></ruby>ない",
+      "zh": "所以不太看得见",
+      "en": "So it's not very visible."
+    },
+    {
+      "id": 94,
+      "start": 266.7,
+      "end": 267.64,
+      "ts": "04:26.700 -> 04:27.640",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 95,
+      "start": 267.64,
+      "end": 269.1,
+      "ts": "04:27.640 -> 04:29.100",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 96,
+      "start": 269.1,
+      "end": 271.78000000000003,
+      "ts": "04:29.100 -> 04:31.780",
+      "jp": "東京から福岡までの",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>福岡<rt>ふくおか</rt></ruby>までの",
+      "zh": "从东京到福冈的",
+      "en": "From Tokyo to Fukuoka"
+    },
+    {
+      "id": 97,
+      "start": 271.78000000000003,
+      "end": 272.96000000000004,
+      "ts": "04:31.780 -> 04:32.960",
+      "jp": "新幹線は",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は",
+      "zh": "新干线是",
+      "en": "The Shinkansen is"
+    },
+    {
+      "id": 98,
+      "start": 272.96000000000004,
+      "end": 273.76,
+      "ts": "04:32.960 -> 04:33.760",
+      "jp": "少し",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>",
+      "zh": "稍微",
+      "en": "a little"
+    },
+    {
+      "id": 99,
+      "start": 273.76,
+      "end": 275.86,
+      "ts": "04:33.760 -> 04:35.860",
+      "jp": "長すぎるかな",
+      "jp_html": "<ruby>長す<rt>ながす</rt></ruby>ぎるかな",
+      "zh": "觉得太长了吗？",
+      "en": "Is it too long?"
+    },
+    {
+      "id": 100,
+      "start": 275.86,
+      "end": 277.65999999999997,
+      "ts": "04:35.860 -> 04:37.660",
+      "jp": "5時間以上",
+      "jp_html": "5<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>",
+      "zh": "5小时以上",
+      "en": "More than 5 hours"
+    },
+    {
+      "id": 101,
+      "start": 277.65999999999997,
+      "end": 279.59999999999997,
+      "ts": "04:37.660 -> 04:39.600",
+      "jp": "6時間ぐらい",
+      "jp_html": "6<ruby>時間<rt>じかん</rt></ruby>ぐらい",
+      "zh": "大约6个小时",
+      "en": "About 6 hours"
+    },
+    {
+      "id": 102,
+      "start": 279.59999999999997,
+      "end": 282.03999999999996,
+      "ts": "04:39.600 -> 04:42.040",
+      "jp": "ちょっと覚えてないですけど",
+      "jp_html": "ちょっと<ruby>覚え<rt>おぼえ</rt></ruby>てないですけど",
+      "zh": "我还记不太清楚了但是",
+      "en": "I kind of remember but not very clearly."
+    },
+    {
+      "id": 103,
+      "start": 282.03999999999996,
+      "end": 283.46,
+      "ts": "04:42.040 -> 04:43.460",
+      "jp": "結構遠いですね",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>ですね",
+      "zh": "结构远得很呢",
+      "en": "It's quite far, isn't it?"
+    },
+    {
+      "id": 104,
+      "start": 283.46,
+      "end": 285.58,
+      "ts": "04:43.460 -> 04:45.580",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 105,
+      "start": 285.58,
+      "end": 288.0,
+      "ts": "04:45.580 -> 04:48.000",
+      "jp": "東京から",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>から",
+      "zh": "从东京",
+      "en": "From Tokyo"
+    },
+    {
+      "id": 106,
+      "start": 288.0,
+      "end": 290.71999999999997,
+      "ts": "04:48.000 -> 04:50.720",
+      "jp": "他の九州の",
+      "jp_html": "<ruby>他の<rt>ほかの</rt></ruby><ruby>九州<rt>きゅうしゅう</rt></ruby>の",
+      "zh": "其他九州的",
+      "en": "Other parts of Kyushu"
+    },
+    {
+      "id": 107,
+      "start": 290.71999999999997,
+      "end": 291.52,
+      "ts": "04:50.720 -> 04:51.520",
+      "jp": "場所",
+      "jp_html": "<ruby>場所<rt>ばしょ</rt></ruby>",
+      "zh": "地点",
+      "en": "place"
+    },
+    {
+      "id": 108,
+      "start": 291.52,
+      "end": 293.47999999999996,
+      "ts": "04:51.520 -> 04:53.480",
+      "jp": "例えば僕の出身の",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>の",
+      "zh": "例如我的出身的",
+      "en": "For example, my hometown is"
+    },
+    {
+      "id": 109,
+      "start": 293.47999999999996,
+      "end": 294.28,
+      "ts": "04:53.480 -> 04:54.280",
+      "jp": "大分とか",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>とか",
+      "zh": "大分县",
+      "en": "Daito or Dainan"
+    },
+    {
+      "id": 110,
+      "start": 294.28,
+      "end": 296.56,
+      "ts": "04:54.280 -> 04:56.560",
+      "jp": "他にも宮崎",
+      "jp_html": "<ruby>他に<rt>ほかに</rt></ruby>も<ruby>宮崎<rt>みやざき</rt></ruby>",
+      "zh": "他也曾去过宫崎",
+      "en": "He also mentioned宫崎."
+    },
+    {
+      "id": 111,
+      "start": 296.56,
+      "end": 297.47999999999996,
+      "ts": "04:56.560 -> 04:57.480",
+      "jp": "熊本",
+      "jp_html": "<ruby>熊本<rt>くまもと</rt></ruby>",
+      "zh": "熊本",
+      "en": "Kumamoto"
+    },
+    {
+      "id": 112,
+      "start": 297.47999999999996,
+      "end": 298.36,
+      "ts": "04:57.480 -> 04:58.360",
+      "jp": "鹿児島",
+      "jp_html": "<ruby>鹿児<rt>かこ</rt></ruby><ruby>島<rt>しま</rt></ruby>",
+      "zh": "鹿儿岛",
+      "en": "Kagoshima"
+    },
+    {
+      "id": 113,
+      "start": 298.36,
+      "end": 301.03999999999996,
+      "ts": "04:58.360 -> 05:01.040",
+      "jp": "長崎とか",
+      "jp_html": "<ruby>長崎<rt>ながさき</rt></ruby>とか",
+      "zh": "长崎或者",
+      "en": "Long崎或是在长崎"
+    },
+    {
+      "id": 114,
+      "start": 301.03999999999996,
+      "end": 301.58,
+      "ts": "05:01.040 -> 05:01.580",
+      "jp": "佐賀とか",
+      "jp_html": "<ruby>佐賀<rt>さが</rt></ruby>とか",
+      "zh": "佐贺或者",
+      "en": "Saga or Saga Prefecture"
+    },
+    {
+      "id": 115,
+      "start": 301.58,
+      "end": 301.9,
+      "ts": "05:01.580 -> 05:01.900",
+      "jp": "いろいろ",
+      "jp_html": "いろいろ",
+      "zh": "各种各样",
+      "en": "various"
+    },
+    {
+      "id": 116,
+      "start": 301.9,
+      "end": 302.96,
+      "ts": "05:01.900 -> 05:02.960",
+      "jp": "ありますけど",
+      "jp_html": "ありますけど",
+      "zh": "有但是",
+      "en": "There is but"
+    },
+    {
+      "id": 117,
+      "start": 302.96,
+      "end": 304.84,
+      "ts": "05:02.960 -> 05:04.840",
+      "jp": "そこは全部",
+      "jp_html": "そこは<ruby>全部<rt>ぜんぶ</rt></ruby>",
+      "zh": "那里全是",
+      "en": "It's all there."
+    },
+    {
+      "id": 118,
+      "start": 304.84,
+      "end": 305.38,
+      "ts": "05:04.840 -> 05:05.380",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 119,
+      "start": 305.38,
+      "end": 307.15999999999997,
+      "ts": "05:05.380 -> 05:07.160",
+      "jp": "新幹線より",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>より",
+      "zh": "比新干线",
+      "en": "Shinkansen yori"
+    },
+    {
+      "id": 120,
+      "start": 307.15999999999997,
+      "end": 308.44,
+      "ts": "05:07.160 -> 05:08.440",
+      "jp": "飛行機の方が",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>",
+      "zh": "飞机更快。",
+      "en": "The plane is faster."
+    },
+    {
+      "id": 121,
+      "start": 308.44,
+      "end": 309.24,
+      "ts": "05:08.440 -> 05:09.240",
+      "jp": "いいと思います",
+      "jp_html": "いいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得不错",
+      "en": "I think it's good."
+    },
+    {
+      "id": 122,
+      "start": 309.24,
+      "end": 312.15999999999997,
+      "ts": "05:09.240 -> 05:12.160",
+      "jp": "新幹線は楽しいけど",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>楽しい<rt>たのしい</rt></ruby>けど",
+      "zh": "新干线是有趣的不过",
+      "en": "The Shinkansen is fun but"
+    },
+    {
+      "id": 123,
+      "start": 312.15999999999997,
+      "end": 312.71999999999997,
+      "ts": "05:12.160 -> 05:12.720",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 124,
+      "start": 312.71999999999997,
+      "end": 314.44,
+      "ts": "05:12.720 -> 05:14.440",
+      "jp": "遠くになると",
+      "jp_html": "<ruby>遠く<rt>とおく</rt></ruby>になると",
+      "zh": "远看就",
+      "en": "The farther away it gets."
+    },
+    {
+      "id": 125,
+      "start": 314.44,
+      "end": 315.98,
+      "ts": "05:14.440 -> 05:15.980",
+      "jp": "時間がかかりますね",
+      "jp_html": "<ruby>時間<rt>じかん</rt></ruby>がかかりますね",
+      "zh": "确实花费时间呢",
+      "en": "It takes time, doesn't it?"
+    },
+    {
+      "id": 126,
+      "start": 315.98,
+      "end": 317.86,
+      "ts": "05:15.980 -> 05:17.860",
+      "jp": "北海道とかは",
+      "jp_html": "<ruby>北海道<rt>ほっかいどう</rt></ruby>とかは",
+      "zh": "北海道之类的",
+      "en": "Hokkaido and others"
+    },
+    {
+      "id": 127,
+      "start": 317.86,
+      "end": 319.34,
+      "ts": "05:17.860 -> 05:19.340",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 128,
+      "start": 319.34,
+      "end": 320.2,
+      "ts": "05:19.340 -> 05:20.200",
+      "jp": "飛行機の方が",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>",
+      "zh": "飞机更快。",
+      "en": "The plane is faster."
+    },
+    {
+      "id": 129,
+      "start": 320.2,
+      "end": 320.98,
+      "ts": "05:20.200 -> 05:20.980",
+      "jp": "いいと思います",
+      "jp_html": "いいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得不错",
+      "en": "I think it's good."
+    },
+    {
+      "id": 130,
+      "start": 320.98,
+      "end": 323.82,
+      "ts": "05:20.980 -> 05:23.820",
+      "jp": "東北でも",
+      "jp_html": "<ruby>東北<rt>とうほく</rt></ruby>でも",
+      "zh": "东北也",
+      "en": "In Tohoku as well"
+    },
+    {
+      "id": 131,
+      "start": 323.82,
+      "end": 327.12,
+      "ts": "05:23.820 -> 05:27.120",
+      "jp": "仙台とかね",
+      "jp_html": "<ruby>仙台<rt>せんだい</rt></ruby>とかね",
+      "zh": "仙台哦",
+      "en": "Sakai or something"
+    },
+    {
+      "id": 132,
+      "start": 327.12,
+      "end": 328.5,
+      "ts": "05:27.120 -> 05:28.500",
+      "jp": "そのくらいだったら",
+      "jp_html": "そのくらいだったら",
+      "zh": "那就这样吧",
+      "en": "That much, then."
+    },
+    {
+      "id": 133,
+      "start": 328.5,
+      "end": 329.44,
+      "ts": "05:28.500 -> 05:29.440",
+      "jp": "新幹線の方が",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>",
+      "zh": "新干线要比",
+      "en": "The Shinkansen is faster"
+    },
+    {
+      "id": 134,
+      "start": 329.44,
+      "end": 330.16,
+      "ts": "05:29.440 -> 05:30.160",
+      "jp": "早いかな",
+      "jp_html": "<ruby>早い<rt>はやい</rt></ruby>かな",
+      "zh": "快一点吗？",
+      "en": "Is it early yet?"
+    },
+    {
+      "id": 135,
+      "start": 330.16,
+      "end": 334.1,
+      "ts": "05:30.160 -> 05:34.100",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 136,
+      "start": 334.1,
+      "end": 336.1,
+      "ts": "05:34.100 -> 05:36.100",
+      "jp": "とにかく",
+      "jp_html": "とにかく",
+      "zh": "总之",
+      "en": "Just do it."
+    },
+    {
+      "id": 137,
+      "start": 336.1,
+      "end": 336.9,
+      "ts": "05:36.100 -> 05:36.900",
+      "jp": "新幹線は",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>は",
+      "zh": "新干线是",
+      "en": "The Shinkansen is"
+    },
+    {
+      "id": 138,
+      "start": 336.9,
+      "end": 338.46,
+      "ts": "05:36.900 -> 05:38.460",
+      "jp": "とてもとても便利です",
+      "jp_html": "とてもとても<ruby>便利<rt>べんり</rt></ruby>です",
+      "zh": "非常方便",
+      "en": "It is very very convenient."
+    },
+    {
+      "id": 139,
+      "start": 338.46,
+      "end": 340.3,
+      "ts": "05:38.460 -> 05:40.300",
+      "jp": "日本に旅行に",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に",
+      "zh": "去日本旅游",
+      "en": "I traveled to Japan."
+    },
+    {
+      "id": 140,
+      "start": 340.3,
+      "end": 340.92,
+      "ts": "05:40.300 -> 05:40.920",
+      "jp": "来た人",
+      "jp_html": "<ruby>来た<rt>きた</rt></ruby><ruby>人<rt>にん</rt></ruby>",
+      "zh": "来的那个人",
+      "en": "The person who came"
+    },
+    {
+      "id": 141,
+      "start": 340.92,
+      "end": 342.26,
+      "ts": "05:40.920 -> 05:42.260",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 142,
+      "start": 342.26,
+      "end": 343.65999999999997,
+      "ts": "05:42.260 -> 05:43.660",
+      "jp": "ほとんどの人は",
+      "jp_html": "ほとんどの<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "大多数人都",
+      "en": "Most people"
+    },
+    {
+      "id": 143,
+      "start": 343.65999999999997,
+      "end": 344.84,
+      "ts": "05:43.660 -> 05:44.840",
+      "jp": "京都に行くために",
+      "jp_html": "<ruby>京都<rt>きょうと</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ために",
+      "zh": "为了去京都",
+      "en": "I'm going to Kyoto."
+    },
+    {
+      "id": 144,
+      "start": 344.84,
+      "end": 345.68,
+      "ts": "05:44.840 -> 05:45.680",
+      "jp": "乗ったと思います",
+      "jp_html": "<ruby>乗っ<rt>じょうっ</rt></ruby>たと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想我坐上了。",
+      "en": "I think I got on."
+    },
+    {
+      "id": 145,
+      "start": 345.68,
+      "end": 347.21999999999997,
+      "ts": "05:45.680 -> 05:47.220",
+      "jp": "東京から京都",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>から<ruby>京都<rt>きょうと</rt></ruby>",
+      "zh": "从东京到京都",
+      "en": "From Tokyo to Kyoto"
+    },
+    {
+      "id": 146,
+      "start": 347.21999999999997,
+      "end": 348.88,
+      "ts": "05:47.220 -> 05:48.880",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 147,
+      "start": 348.88,
+      "end": 350.96,
+      "ts": "05:48.880 -> 05:50.960",
+      "jp": "新幹線の楽しみが",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>楽しみ<rt>たのしみ</rt></ruby>が",
+      "zh": "新干线的乐趣在于",
+      "en": "The enjoyment of the Shinkansen"
+    },
+    {
+      "id": 148,
+      "start": 350.96,
+      "end": 352.08,
+      "ts": "05:50.960 -> 05:52.080",
+      "jp": "駅弁ですね",
+      "jp_html": "<ruby>駅弁<rt>えきべん</rt></ruby>ですね",
+      "zh": "这是车站便当吧",
+      "en": "It's a station lunch box, right?"
+    },
+    {
+      "id": 149,
+      "start": 352.08,
+      "end": 353.88,
+      "ts": "05:52.080 -> 05:53.880",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 150,
+      "start": 353.88,
+      "end": 354.82,
+      "ts": "05:53.880 -> 05:54.820",
+      "jp": "駅弁というのは",
+      "jp_html": "<ruby>駅弁<rt>えきべん</rt></ruby>というのは",
+      "zh": "车站便当",
+      "en": "Station boxed lunches are"
+    },
+    {
+      "id": 151,
+      "start": 354.82,
+      "end": 355.3,
+      "ts": "05:54.820 -> 05:55.300",
+      "jp": "普通",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>",
+      "zh": "普通",
+      "en": "Ordinary"
+    },
+    {
+      "id": 152,
+      "start": 355.3,
+      "end": 356.8,
+      "ts": "05:55.300 -> 05:56.800",
+      "jp": "駅の中で買う",
+      "jp_html": "<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>買う<rt>かう</rt></ruby>",
+      "zh": "在车站购买",
+      "en": "Buy at the station"
+    },
+    {
+      "id": 153,
+      "start": 356.8,
+      "end": 358.15999999999997,
+      "ts": "05:56.800 -> 05:58.160",
+      "jp": "弁当ですけど",
+      "jp_html": "<ruby>弁当<rt>べんとう</rt></ruby>ですけど",
+      "zh": "这是便当",
+      "en": "It's a lunch box."
+    },
+    {
+      "id": 154,
+      "start": 358.15999999999997,
+      "end": 359.78,
+      "ts": "05:58.160 -> 05:59.780",
+      "jp": "まあ別に",
+      "jp_html": "まあ<ruby>別に<rt>べつに</rt></ruby>",
+      "zh": "嘛，没什么",
+      "en": "Well, not really."
+    },
+    {
+      "id": 155,
+      "start": 359.78,
+      "end": 361.26,
+      "ts": "05:59.780 -> 06:01.260",
+      "jp": "駅の中じゃなくても",
+      "jp_html": "<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>じゃなくても",
+      "zh": "即使不在车站里",
+      "en": "Even not inside the station"
+    },
+    {
+      "id": 156,
+      "start": 361.26,
+      "end": 362.02,
+      "ts": "06:01.260 -> 06:02.020",
+      "jp": "大丈夫です",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "他是真棒",
+      "en": "It's okay."
+    },
+    {
+      "id": 157,
+      "start": 362.02,
+      "end": 363.62,
+      "ts": "06:02.020 -> 06:03.620",
+      "jp": "でもやっぱり",
+      "jp_html": "でもやっぱり",
+      "zh": "但是还是",
+      "en": "But still"
+    },
+    {
+      "id": 158,
+      "start": 363.62,
+      "end": 364.7,
+      "ts": "06:03.620 -> 06:04.700",
+      "jp": "特別な弁当は",
+      "jp_html": "<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>弁当<rt>べんとう</rt></ruby>は",
+      "zh": "特别的便当是",
+      "en": "Special lunch box is"
+    },
+    {
+      "id": 159,
+      "start": 364.7,
+      "end": 365.5,
+      "ts": "06:04.700 -> 06:05.500",
+      "jp": "美味しいですね",
+      "jp_html": "<ruby>美味しい<rt>おいしい</rt></ruby>ですね",
+      "zh": "真好吃呢",
+      "en": "It tastes delicious, doesn't it?"
+    },
+    {
+      "id": 160,
+      "start": 365.5,
+      "end": 366.9,
+      "ts": "06:05.500 -> 06:06.900",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 161,
+      "start": 366.9,
+      "end": 368.06,
+      "ts": "06:06.900 -> 06:08.060",
+      "jp": "デパートにある",
+      "jp_html": "デパートにある",
+      "zh": "百货店中有一个",
+      "en": "There is a department store"
+    },
+    {
+      "id": 162,
+      "start": 368.06,
+      "end": 368.92,
+      "ts": "06:08.060 -> 06:08.920",
+      "jp": "ちょっとこう",
+      "jp_html": "ちょっとこう",
+      "zh": "稍微这样",
+      "en": "Just a little like this"
+    },
+    {
+      "id": 163,
+      "start": 368.92,
+      "end": 371.12,
+      "ts": "06:08.920 -> 06:11.120",
+      "jp": "ちょっと高い",
+      "jp_html": "ちょっと<ruby>高い<rt>たかい</rt></ruby>",
+      "zh": "有点贵",
+      "en": "A bit expensive"
+    },
+    {
+      "id": 164,
+      "start": 371.12,
+      "end": 371.8,
+      "ts": "06:11.120 -> 06:11.800",
+      "jp": "美味しい",
+      "jp_html": "<ruby>美味しい<rt>おいしい</rt></ruby>",
+      "zh": "好吃",
+      "en": "Delicious"
+    },
+    {
+      "id": 165,
+      "start": 371.8,
+      "end": 373.04,
+      "ts": "06:11.800 -> 06:13.040",
+      "jp": "弁当も",
+      "jp_html": "<ruby>弁当<rt>べんとう</rt></ruby>も",
+      "zh": "便当也",
+      "en": "Lunch box also"
+    },
+    {
+      "id": 166,
+      "start": 373.04,
+      "end": 373.78,
+      "ts": "06:13.040 -> 06:13.780",
+      "jp": "いいだろうし",
+      "jp_html": "いいだろうし",
+      "zh": "好吧吧",
+      "en": "It's probably okay."
+    },
+    {
+      "id": 167,
+      "start": 373.78,
+      "end": 375.74,
+      "ts": "06:13.780 -> 06:15.740",
+      "jp": "まあ駅の中にも",
+      "jp_html": "まあ<ruby>駅<rt>えき</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>も",
+      "zh": "哎，车站里也有",
+      "en": "Well, there are also inside the station"
+    },
+    {
+      "id": 168,
+      "start": 375.74,
+      "end": 376.36,
+      "ts": "06:15.740 -> 06:16.360",
+      "jp": "たくさんあります",
+      "jp_html": "たくさんあります",
+      "zh": "有很多",
+      "en": "There are many."
+    },
+    {
+      "id": 169,
+      "start": 376.36,
+      "end": 377.5,
+      "ts": "06:16.360 -> 06:17.500",
+      "jp": "東京駅の中は",
+      "jp_html": "<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は",
+      "zh": "东京站里面",
+      "en": "Inside Tokyo Station"
+    },
+    {
+      "id": 170,
+      "start": 377.5,
+      "end": 378.22,
+      "ts": "06:17.500 -> 06:18.220",
+      "jp": "すごいですね",
+      "jp_html": "すごいですね",
+      "zh": "真棒呢",
+      "en": "It's amazing, isn't it?"
+    },
+    {
+      "id": 171,
+      "start": 378.22,
+      "end": 380.34,
+      "ts": "06:18.220 -> 06:20.340",
+      "jp": "東京駅は",
+      "jp_html": "<ruby>東京駅<rt>とうきょうえき</rt></ruby>は",
+      "zh": "东京站是",
+      "en": "Tokyo Station is"
+    },
+    {
+      "id": 172,
+      "start": 380.34,
+      "end": 380.72,
+      "ts": "06:20.340 -> 06:20.720",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 173,
+      "start": 380.72,
+      "end": 382.46,
+      "ts": "06:20.720 -> 06:22.460",
+      "jp": "難しいですよ",
+      "jp_html": "<ruby>難しい<rt>むずかしい</rt></ruby>ですよ",
+      "zh": "这很难啊",
+      "en": "It's difficult, huh?"
+    },
+    {
+      "id": 174,
+      "start": 382.46,
+      "end": 383.46,
+      "ts": "06:22.460 -> 06:23.460",
+      "jp": "いろいろな",
+      "jp_html": "いろいろな",
+      "zh": "各种各样的",
+      "en": "various"
+    },
+    {
+      "id": 175,
+      "start": 383.46,
+      "end": 384.54,
+      "ts": "06:23.460 -> 06:24.540",
+      "jp": "場所があるので",
+      "jp_html": "<ruby>場所<rt>ばしょ</rt></ruby>があるので",
+      "zh": "有地方所以",
+      "en": "There is a place so"
+    },
+    {
+      "id": 176,
+      "start": 384.54,
+      "end": 384.94,
+      "ts": "06:24.540 -> 06:24.940",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 177,
+      "start": 384.94,
+      "end": 386.4,
+      "ts": "06:24.940 -> 06:26.400",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 178,
+      "start": 386.4,
+      "end": 388.7,
+      "ts": "06:26.400 -> 06:28.700",
+      "jp": "まあちょっと",
+      "jp_html": "まあちょっと",
+      "zh": "嗯，稍微",
+      "en": "Well, slightly."
+    },
+    {
+      "id": 179,
+      "start": 388.7,
+      "end": 389.12,
+      "ts": "06:28.700 -> 06:29.120",
+      "jp": "どう",
+      "jp_html": "どう",
+      "zh": "怎么",
+      "en": "How"
+    },
+    {
+      "id": 180,
+      "start": 389.12,
+      "end": 391.8,
+      "ts": "06:29.120 -> 06:31.800",
+      "jp": "どこに弁当があるか",
+      "jp_html": "どこに<ruby>弁当<rt>べんとう</rt></ruby>があるか",
+      "zh": "哪里有便当",
+      "en": "Where is the lunch box?"
+    },
+    {
+      "id": 181,
+      "start": 391.8,
+      "end": 392.12,
+      "ts": "06:31.800 -> 06:32.120",
+      "jp": "というと",
+      "jp_html": "というと",
+      "zh": "这么说",
+      "en": "And say"
+    },
+    {
+      "id": 182,
+      "start": 392.12,
+      "end": 392.5,
+      "ts": "06:32.120 -> 06:32.500",
+      "jp": "どこ",
+      "jp_html": "どこ",
+      "zh": "哪里",
+      "en": "Where"
+    },
+    {
+      "id": 183,
+      "start": 392.5,
+      "end": 393.8,
+      "ts": "06:32.500 -> 06:33.800",
+      "jp": "いろいろな場所に",
+      "jp_html": "いろいろな<ruby>場所<rt>ばしょ</rt></ruby>に",
+      "zh": "各种地方",
+      "en": "Various places"
+    },
+    {
+      "id": 184,
+      "start": 393.8,
+      "end": 394.62,
+      "ts": "06:33.800 -> 06:34.620",
+      "jp": "ありますからね",
+      "jp_html": "ありますからね",
+      "zh": "有的呢",
+      "en": "There is, you know."
+    },
+    {
+      "id": 185,
+      "start": 394.62,
+      "end": 395.26,
+      "ts": "06:34.620 -> 06:35.260",
+      "jp": "ちょっとこう",
+      "jp_html": "ちょっとこう",
+      "zh": "稍微这样",
+      "en": "Just a little like this"
+    },
+    {
+      "id": 186,
+      "start": 395.26,
+      "end": 396.26,
+      "ts": "06:35.260 -> 06:36.260",
+      "jp": "調べて",
+      "jp_html": "<ruby>調べ<rt>しらべ</rt></ruby>て",
+      "zh": "调查",
+      "en": "Investigate"
+    },
+    {
+      "id": 187,
+      "start": 396.26,
+      "end": 397.66,
+      "ts": "06:36.260 -> 06:37.660",
+      "jp": "頑張ってください",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>てください",
+      "zh": "请加油",
+      "en": "Please try your best."
+    },
+    {
+      "id": 188,
+      "start": 397.66,
+      "end": 400.28000000000003,
+      "ts": "06:37.660 -> 06:40.280",
+      "jp": "あの駅の中は",
+      "jp_html": "あの<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>は",
+      "zh": "那个车站里面",
+      "en": "Inside that station was"
+    },
+    {
+      "id": 189,
+      "start": 400.28000000000003,
+      "end": 401.0,
+      "ts": "06:40.280 -> 06:41.000",
+      "jp": "多分ね",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ね",
+      "zh": "大概吧",
+      "en": "Probably, you know?"
+    },
+    {
+      "id": 190,
+      "start": 401.0,
+      "end": 402.14,
+      "ts": "06:41.000 -> 06:42.140",
+      "jp": "Googleマップとかが",
+      "jp_html": "Googleマップとかが",
+      "zh": "谷歌地图之类的东西",
+      "en": "Google Maps and so on"
+    },
+    {
+      "id": 191,
+      "start": 402.14,
+      "end": 403.04,
+      "ts": "06:42.140 -> 06:43.040",
+      "jp": "使えないですね",
+      "jp_html": "<ruby>使え<rt>つかえ</rt></ruby>ないですね",
+      "zh": "真是无法相信呢",
+      "en": "It's unbelievable, huh?"
+    },
+    {
+      "id": 192,
+      "start": 403.04,
+      "end": 404.28000000000003,
+      "ts": "06:43.040 -> 06:44.280",
+      "jp": "だからちょっと",
+      "jp_html": "だからちょっと",
+      "zh": "所以稍微",
+      "en": "So slightly"
+    },
+    {
+      "id": 193,
+      "start": 404.28000000000003,
+      "end": 405.3,
+      "ts": "06:44.280 -> 06:45.300",
+      "jp": "難しいですけど",
+      "jp_html": "<ruby>難しい<rt>むずかしい</rt></ruby>ですけど",
+      "zh": "很难但",
+      "en": "It's difficult but"
+    },
+    {
+      "id": 194,
+      "start": 405.3,
+      "end": 406.08,
+      "ts": "06:45.300 -> 06:46.080",
+      "jp": "頑張って",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>て",
+      "zh": "加油",
+      "en": "Keep trying/Keep it up"
+    },
+    {
+      "id": 195,
+      "start": 406.08,
+      "end": 406.78000000000003,
+      "ts": "06:46.080 -> 06:46.780",
+      "jp": "歩いてください",
+      "jp_html": "<ruby>歩い<rt>あるい</rt></ruby>てください",
+      "zh": "请走开",
+      "en": "Please walk."
+    },
+    {
+      "id": 196,
+      "start": 406.78000000000003,
+      "end": 409.14,
+      "ts": "06:46.780 -> 06:49.140",
+      "jp": "美味しい弁当が",
+      "jp_html": "<ruby>美味しい<rt>おいしい</rt></ruby><ruby>弁当<rt>べんとう</rt></ruby>が",
+      "zh": "美味的便当",
+      "en": "Delicious lunch box is"
+    },
+    {
+      "id": 197,
+      "start": 409.14,
+      "end": 409.94,
+      "ts": "06:49.140 -> 06:49.940",
+      "jp": "たくさんあります",
+      "jp_html": "たくさんあります",
+      "zh": "有很多",
+      "en": "There are many."
+    },
+    {
+      "id": 198,
+      "start": 409.94,
+      "end": 411.9,
+      "ts": "06:49.940 -> 06:51.900",
+      "jp": "まあ日本なので",
+      "jp_html": "まあ<ruby>日本<rt>にっぽん</rt></ruby>なので",
+      "zh": "毕竟是在日本所以",
+      "en": "Well, in Japan so"
+    },
+    {
+      "id": 199,
+      "start": 411.9,
+      "end": 413.34000000000003,
+      "ts": "06:51.900 -> 06:53.340",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 200,
+      "start": 413.34000000000003,
+      "end": 414.78000000000003,
+      "ts": "06:53.340 -> 06:54.780",
+      "jp": "寿司の弁当とかも",
+      "jp_html": "<ruby>寿司<rt>すし</rt></ruby>の<ruby>弁当<rt>べんとう</rt></ruby>とかも",
+      "zh": "便当也可以是寿司的",
+      "en": "Sushi bento and also"
+    },
+    {
+      "id": 201,
+      "start": 414.78000000000003,
+      "end": 416.34000000000003,
+      "ts": "06:54.780 -> 06:56.340",
+      "jp": "あるしね",
+      "jp_html": "あるしね",
+      "zh": "有时候呢",
+      "en": "Well then"
+    },
+    {
+      "id": 202,
+      "start": 416.34000000000003,
+      "end": 416.68,
+      "ts": "06:56.340 -> 06:56.680",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 203,
+      "start": 416.68,
+      "end": 418.94,
+      "ts": "06:56.680 -> 06:58.940",
+      "jp": "まあ他の国だと",
+      "jp_html": "まあ<ruby>他の<rt>ほかの</rt></ruby><ruby>国<rt>くに</rt></ruby>だと",
+      "zh": "在其他国家的话",
+      "en": "Well, in other countries"
+    },
+    {
+      "id": 204,
+      "start": 418.94,
+      "end": 420.18,
+      "ts": "06:58.940 -> 07:00.180",
+      "jp": "ちょっと難しいですよね",
+      "jp_html": "ちょっと<ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "确实有点难吧？",
+      "en": "It's a bit difficult, isn't it?"
+    },
+    {
+      "id": 205,
+      "start": 420.18,
+      "end": 421.28000000000003,
+      "ts": "07:00.180 -> 07:01.280",
+      "jp": "寿司弁当とか",
+      "jp_html": "<ruby>寿司<rt>すし</rt></ruby><ruby>弁当<rt>べんとう</rt></ruby>とか",
+      "zh": "寿司便当或者",
+      "en": "Sushi bento"
+    },
+    {
+      "id": 206,
+      "start": 421.28000000000003,
+      "end": 422.04,
+      "ts": "07:01.280 -> 07:02.040",
+      "jp": "でも日本には",
+      "jp_html": "でも<ruby>日本<rt>にっぽん</rt></ruby>には",
+      "zh": "但是日本有",
+      "en": "But Japan has"
+    },
+    {
+      "id": 207,
+      "start": 422.04,
+      "end": 422.66,
+      "ts": "07:02.040 -> 07:02.660",
+      "jp": "たくさんの",
+      "jp_html": "たくさんの",
+      "zh": "很多",
+      "en": "many"
+    },
+    {
+      "id": 208,
+      "start": 422.66,
+      "end": 424.52,
+      "ts": "07:02.660 -> 07:04.520",
+      "jp": "生の魚",
+      "jp_html": "<ruby>生の<rt>うの</rt></ruby><ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "生鱼",
+      "en": "Fresh fish"
+    },
+    {
+      "id": 209,
+      "start": 424.52,
+      "end": 426.18,
+      "ts": "07:04.520 -> 07:06.180",
+      "jp": "の美味しい弁当も",
+      "jp_html": "の<ruby>美味しい<rt>おいしい</rt></ruby><ruby>弁当<rt>べんとう</rt></ruby>も",
+      "zh": "的美味便当也",
+      "en": "The delicious lunch box also"
+    },
+    {
+      "id": 210,
+      "start": 426.18,
+      "end": 426.58,
+      "ts": "07:06.180 -> 07:06.580",
+      "jp": "あるので",
+      "jp_html": "あるので",
+      "zh": "有的",
+      "en": "There is one."
+    },
+    {
+      "id": 211,
+      "start": 426.58,
+      "end": 428.88,
+      "ts": "07:06.580 -> 07:08.880",
+      "jp": "食べてみてください",
+      "jp_html": "<ruby>食べて<rt>たべて</rt></ruby>みてください",
+      "zh": "尝一尝吧",
+      "en": "Please try eating it."
+    },
+    {
+      "id": 212,
+      "start": 428.88,
+      "end": 429.97999999999996,
+      "ts": "07:08.880 -> 07:09.980",
+      "jp": "まああとはもちろん",
+      "jp_html": "まああとはもちろん",
+      "zh": "好吧，其他当然就不用多说了。",
+      "en": "Well, of course, that's all."
+    },
+    {
+      "id": 213,
+      "start": 429.97999999999996,
+      "end": 430.74,
+      "ts": "07:09.980 -> 07:10.740",
+      "jp": "和牛の",
+      "jp_html": "<ruby>和牛<rt>わぎゅう</rt></ruby>の",
+      "zh": "和牛的",
+      "en": "Wagyu"
+    },
+    {
+      "id": 214,
+      "start": 430.74,
+      "end": 433.71999999999997,
+      "ts": "07:10.740 -> 07:13.720",
+      "jp": "和牛の焼肉弁当とか",
+      "jp_html": "<ruby>和牛<rt>わぎゅう</rt></ruby>の<ruby>焼肉<rt>やきにく</rt></ruby><ruby>弁当<rt>べんとう</rt></ruby>とか",
+      "zh": "牛肉烤肉便当",
+      "en": "Grilled beef sushi bento or"
+    },
+    {
+      "id": 215,
+      "start": 433.71999999999997,
+      "end": 435.14,
+      "ts": "07:13.720 -> 07:15.140",
+      "jp": "すき焼き弁当とか",
+      "jp_html": "すき<ruby>焼き<rt>やき</rt></ruby><ruby>弁当<rt>べんとう</rt></ruby>とか",
+      "zh": "寿司便当或uforia便当",
+      "en": "Lunch box with sukiyaki"
+    },
+    {
+      "id": 216,
+      "start": 435.14,
+      "end": 436.15999999999997,
+      "ts": "07:15.140 -> 07:16.160",
+      "jp": "いろいろありますよね",
+      "jp_html": "いろいろありますよね",
+      "zh": "确实有很多吧",
+      "en": "There are many things, aren't there?"
+    },
+    {
+      "id": 217,
+      "start": 436.15999999999997,
+      "end": 438.7,
+      "ts": "07:16.160 -> 07:18.700",
+      "jp": "うん",
+      "jp_html": "うん",
+      "zh": "嗯",
+      "en": "Yeah"
+    },
+    {
+      "id": 218,
+      "start": 438.7,
+      "end": 441.15999999999997,
+      "ts": "07:18.700 -> 07:21.160",
+      "jp": "なんか新幹線に",
+      "jp_html": "なんか<ruby>新幹線<rt>しんかんせん</rt></ruby>に",
+      "zh": "好像在坐新干线",
+      "en": "Something about the Shinkansen"
+    },
+    {
+      "id": 219,
+      "start": 441.15999999999997,
+      "end": 442.76,
+      "ts": "07:21.160 -> 07:22.760",
+      "jp": "乗りたくなってきましたね",
+      "jp_html": "<ruby>乗り<rt>のり</rt></ruby>たくなってきましたね",
+      "zh": "看来你想要乘车了呢",
+      "en": "You must be feeling like getting on board now."
+    },
+    {
+      "id": 220,
+      "start": 442.76,
+      "end": 444.96,
+      "ts": "07:22.760 -> 07:24.960",
+      "jp": "僕は新幹線は大好き",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>大好き<rt>だいすき</rt></ruby>",
+      "zh": "我非常喜欢新干线",
+      "en": "I love the Shinkansen."
+    },
+    {
+      "id": 221,
+      "start": 444.96,
+      "end": 446.35999999999996,
+      "ts": "07:24.960 -> 07:26.360",
+      "jp": "さっき言ったみたいに",
+      "jp_html": "さっき<ruby>言った<rt>いった</rt></ruby>みたいに",
+      "zh": "就像刚才说的那样",
+      "en": "Just like I said earlier"
+    },
+    {
+      "id": 222,
+      "start": 446.35999999999996,
+      "end": 447.38,
+      "ts": "07:26.360 -> 07:27.380",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 223,
+      "start": 447.38,
+      "end": 448.29999999999995,
+      "ts": "07:27.380 -> 07:28.300",
+      "jp": "熱海とか",
+      "jp_html": "<ruby>熱海<rt>あたみ</rt></ruby>とか",
+      "zh": "热海或者",
+      "en": "Hot Springs or something like that"
+    },
+    {
+      "id": 224,
+      "start": 448.29999999999995,
+      "end": 449.26,
+      "ts": "07:28.300 -> 07:29.260",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 225,
+      "start": 449.26,
+      "end": 449.65999999999997,
+      "ts": "07:29.260 -> 07:29.660",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 226,
+      "start": 449.65999999999997,
+      "end": 451.76,
+      "ts": "07:29.660 -> 07:31.760",
+      "jp": "箱根はね",
+      "jp_html": "<ruby>箱根<rt>はこね</rt></ruby>はね",
+      "zh": "箱根是",
+      "en": "Hakone is"
+    },
+    {
+      "id": 227,
+      "start": 451.76,
+      "end": 452.52,
+      "ts": "07:31.760 -> 07:32.520",
+      "jp": "箱根は",
+      "jp_html": "<ruby>箱根<rt>はこね</rt></ruby>は",
+      "zh": "箱根是",
+      "en": "Boxing is (or Boxen are)"
+    },
+    {
+      "id": 228,
+      "start": 452.52,
+      "end": 454.06,
+      "ts": "07:32.520 -> 07:34.060",
+      "jp": "新幹線じゃない",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>じゃない",
+      "zh": "不是新干线",
+      "en": "It's not the Shinkansen."
+    },
+    {
+      "id": 229,
+      "start": 454.06,
+      "end": 455.36,
+      "ts": "07:34.060 -> 07:35.360",
+      "jp": "箱根は",
+      "jp_html": "<ruby>箱根<rt>はこね</rt></ruby>は",
+      "zh": "箱根是",
+      "en": "Boxing is (or, more contextually: \"Hakone is\")"
+    },
+    {
+      "id": 230,
+      "start": 455.36,
+      "end": 456.59999999999997,
+      "ts": "07:35.360 -> 07:36.600",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 231,
+      "start": 456.59999999999997,
+      "end": 459.64,
+      "ts": "07:36.600 -> 07:39.640",
+      "jp": "箱根ロマンスカー",
+      "jp_html": "<ruby>箱根<rt>はこね</rt></ruby>ロマンスカー",
+      "zh": "箱根浪漫客车",
+      "en": "Hakone Romance Car"
+    },
+    {
+      "id": 232,
+      "start": 459.64,
+      "end": 459.92,
+      "ts": "07:39.640 -> 07:39.920",
+      "jp": "という",
+      "jp_html": "という",
+      "zh": "说的",
+      "en": "and"
+    },
+    {
+      "id": 233,
+      "start": 459.92,
+      "end": 461.15999999999997,
+      "ts": "07:39.920 -> 07:41.160",
+      "jp": "ちょっと変な名前の",
+      "jp_html": "ちょっと<ruby>変な<rt>へんな</rt></ruby><ruby>名前<rt>なまえ</rt></ruby>の",
+      "zh": "有点奇怪的名字",
+      "en": "A bit strange name"
+    },
+    {
+      "id": 234,
+      "start": 461.15999999999997,
+      "end": 462.88,
+      "ts": "07:41.160 -> 07:42.880",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 235,
+      "start": 462.88,
+      "end": 464.92,
+      "ts": "07:42.880 -> 07:44.920",
+      "jp": "特急電車があります",
+      "jp_html": "<ruby>特急電車<rt>とっきゅうでんしゃ</rt></ruby>があります",
+      "zh": "特急电车有",
+      "en": "There is an express train."
+    },
+    {
+      "id": 236,
+      "start": 464.92,
+      "end": 466.0,
+      "ts": "07:44.920 -> 07:46.000",
+      "jp": "新宿から",
+      "jp_html": "<ruby>新宿<rt>しんじゅく</rt></ruby>から",
+      "zh": "新宿から",
+      "en": "From Shinjuku"
+    },
+    {
+      "id": 237,
+      "start": 466.0,
+      "end": 467.15999999999997,
+      "ts": "07:46.000 -> 07:47.160",
+      "jp": "ロマンスカーで",
+      "jp_html": "ロマンスカーで",
+      "zh": "浪漫特快列车中",
+      "en": "by Romance Car"
+    },
+    {
+      "id": 238,
+      "start": 467.15999999999997,
+      "end": 468.06,
+      "ts": "07:47.160 -> 07:48.060",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 239,
+      "start": 468.06,
+      "end": 468.59999999999997,
+      "ts": "07:48.060 -> 07:48.600",
+      "jp": "箱根",
+      "jp_html": "<ruby>箱根<rt>はこね</rt></ruby>",
+      "zh": "箱根",
+      "en": "Boxing"
+    },
+    {
+      "id": 240,
+      "start": 468.6,
+      "end": 470.62,
+      "ts": "07:48.600 -> 07:50.620",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 241,
+      "start": 470.62,
+      "end": 471.36,
+      "ts": "07:50.620 -> 07:51.360",
+      "jp": "他の",
+      "jp_html": "<ruby>他の<rt>ほかの</rt></ruby>",
+      "zh": "其他的",
+      "en": "other"
+    },
+    {
+      "id": 242,
+      "start": 471.36,
+      "end": 472.20000000000005,
+      "ts": "07:51.360 -> 07:52.200",
+      "jp": "場所ね",
+      "jp_html": "<ruby>場所<rt>ばしょ</rt></ruby>ね",
+      "zh": "地方呢",
+      "en": "Place, location, whereabouts"
+    },
+    {
+      "id": 243,
+      "start": 472.20000000000005,
+      "end": 472.58000000000004,
+      "ts": "07:52.200 -> 07:52.580",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 244,
+      "start": 472.58000000000004,
+      "end": 474.06,
+      "ts": "07:52.580 -> 07:54.060",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 245,
+      "start": 474.06,
+      "end": 475.16,
+      "ts": "07:54.060 -> 07:55.160",
+      "jp": "伊豆とか",
+      "jp_html": "<ruby>伊豆<rt>いず</rt></ruby>とか",
+      "zh": "伊豆或者",
+      "en": "Izu or something like that"
+    },
+    {
+      "id": 246,
+      "start": 475.16,
+      "end": 477.08000000000004,
+      "ts": "07:55.160 -> 07:57.080",
+      "jp": "伊豆に行くときは",
+      "jp_html": "<ruby>伊豆<rt>いず</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ときは",
+      "zh": "去伊豆的时候",
+      "en": "When I go to Izu,"
+    },
+    {
+      "id": 247,
+      "start": 477.08000000000004,
+      "end": 478.22,
+      "ts": "07:57.080 -> 07:58.220",
+      "jp": "新幹線で",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>で",
+      "zh": "新干线",
+      "en": "By Shinkansen"
+    },
+    {
+      "id": 248,
+      "start": 478.22,
+      "end": 480.18,
+      "ts": "07:58.220 -> 08:00.180",
+      "jp": "三島まで行ったりとかね",
+      "jp_html": "<ruby>三島<rt>みしま</rt></ruby>まで<ruby>行った<rt>いった</rt></ruby>りとかね",
+      "zh": "去了三次岛县呢",
+      "en": "I went to Mikajima or something like that."
+    },
+    {
+      "id": 249,
+      "start": 480.18,
+      "end": 481.42,
+      "ts": "08:00.180 -> 08:01.420",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 250,
+      "start": 481.42,
+      "end": 482.58000000000004,
+      "ts": "08:01.420 -> 08:02.580",
+      "jp": "いろいろな方法があります",
+      "jp_html": "いろいろな<ruby>方法<rt>ほうほう</rt></ruby>があります",
+      "zh": "有很多方法",
+      "en": "There are various methods."
+    },
+    {
+      "id": 251,
+      "start": 482.58000000000004,
+      "end": 484.06,
+      "ts": "08:02.580 -> 08:04.060",
+      "jp": "いろいろな方法がある",
+      "jp_html": "いろいろな<ruby>方法<rt>ほうほう</rt></ruby>がある",
+      "zh": "有很多方法",
+      "en": "There are various methods."
+    },
+    {
+      "id": 252,
+      "start": 484.06,
+      "end": 485.70000000000005,
+      "ts": "08:04.060 -> 08:05.700",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 253,
+      "start": 485.70000000000005,
+      "end": 487.38,
+      "ts": "08:05.700 -> 08:07.380",
+      "jp": "ちょっと温泉に行くときに",
+      "jp_html": "ちょっと<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>ときに",
+      "zh": "去泡温泉的时候",
+      "en": "I'm going to visit a hot spring."
+    },
+    {
+      "id": 254,
+      "start": 487.38,
+      "end": 488.76000000000005,
+      "ts": "08:07.380 -> 08:08.760",
+      "jp": "新幹線を使う",
+      "jp_html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>",
+      "zh": "使用新干线",
+      "en": "To use the Shinkansen"
+    },
+    {
+      "id": 255,
+      "start": 488.76000000000005,
+      "end": 488.96000000000004,
+      "ts": "08:08.760 -> 08:08.960",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 256,
+      "start": 488.96000000000004,
+      "end": 489.5,
+      "ts": "08:08.960 -> 08:09.500",
+      "jp": "それも",
+      "jp_html": "それも",
+      "zh": "那也",
+      "en": "That also"
+    },
+    {
+      "id": 257,
+      "start": 489.5,
+      "end": 490.24,
+      "ts": "08:09.500 -> 08:10.240",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 258,
+      "start": 490.24,
+      "end": 491.34000000000003,
+      "ts": "08:10.240 -> 08:11.340",
+      "jp": "いいと思います",
+      "jp_html": "いいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为不错",
+      "en": "I think it's good."
+    },
+    {
+      "id": 259,
+      "start": 491.34000000000003,
+      "end": 493.88000000000005,
+      "ts": "08:11.340 -> 08:13.880",
+      "jp": "特に熱海は近いですからね",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby><ruby>熱海<rt>あたみ</rt></ruby>は<ruby>近い<rt>ちかい</rt></ruby>ですからね",
+      "zh": "特别是热海很近呢",
+      "en": "Especially Hot Spring is close, you know?"
+    },
+    {
+      "id": 260,
+      "start": 493.88000000000005,
+      "end": 495.72,
+      "ts": "08:13.880 -> 08:15.720",
+      "jp": "熱海は本当に近い",
+      "jp_html": "<ruby>熱海<rt>あたみ</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>近い<rt>ちかい</rt></ruby>",
+      "zh": "热海真的近",
+      "en": "Hot Springs is really close."
+    },
+    {
+      "id": 261,
+      "start": 495.72,
+      "end": 496.74,
+      "ts": "08:15.720 -> 08:16.740",
+      "jp": "行ってみてください",
+      "jp_html": "<ruby>行って<rt>いって</rt></ruby>みてください",
+      "zh": "请去试试看",
+      "en": "Go and see please."
+    },
+    {
+      "id": 262,
+      "start": 496.74,
+      "end": 498.02000000000004,
+      "ts": "08:16.740 -> 08:18.020",
+      "jp": "それでは",
+      "jp_html": "それでは",
+      "zh": "那么",
+      "en": "Let's proceed."
+    },
+    {
+      "id": 263,
+      "start": 498.02000000000004,
+      "end": 498.88000000000005,
+      "ts": "08:18.020 -> 08:18.880",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}

@@ -1,0 +1,1998 @@
+{
+  "id": "1504",
+  "title": "#1504「肉と魚について！」",
+  "audio_url": "https://nihongoconteppei.com/wp-content/uploads/2026/04/Beginners-con-Teppei1504.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/04/18/1504%e3%80%8c%e8%82%89%e3%81%a8%e9%ad%9a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.64,
+      "ts": "00:00.000 -> 00:03.640",
+      "jp": "シャッキー",
+      "jp_html": "シャッキー",
+      "zh": "沙克利",
+      "en": "Shackey"
+    },
+    {
+      "id": 1,
+      "start": 3.64,
+      "end": 8.76,
+      "ts": "00:03.640 -> 00:08.760",
+      "jp": "今日は肉と魚について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>肉<rt>にく</rt></ruby>と<ruby>魚<rt>さかな</rt></ruby>について",
+      "zh": "今天关于肉和鱼的话题",
+      "en": "Today, I'll talk about meat and fish."
+    },
+    {
+      "id": 2,
+      "start": 8.76,
+      "end": 11.36,
+      "ts": "00:08.760 -> 00:11.360",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 11.36,
+      "end": 14.92,
+      "ts": "00:11.360 -> 00:14.920",
+      "jp": "日本語コンテッペボキャブラリーの時間です",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペボキャブラリーの<ruby>時間<rt>じかん</rt></ruby>です",
+      "zh": "日语词汇时间",
+      "en": "It's time for the Japanese vocabulary segment."
+    },
+    {
+      "id": 4,
+      "start": 14.92,
+      "end": 16.8,
+      "ts": "00:14.920 -> 00:16.800",
+      "jp": "みなさん元気ですか",
+      "jp_html": "みなさん<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好嗎？",
+      "en": "Are you all well?"
+    },
+    {
+      "id": 5,
+      "start": 16.8,
+      "end": 22.32,
+      "ts": "00:16.800 -> 00:22.320",
+      "jp": "このトピックはもう何回も話してますが",
+      "jp_html": "このトピックはもう<ruby>何回<rt>なんかい</rt></ruby>も<ruby>話し<rt>はなし</rt></ruby>てますが",
+      "zh": "这个话题已经说过好几次了",
+      "en": "I have talked about this topic several times already."
+    },
+    {
+      "id": 6,
+      "start": 22.32,
+      "end": 26.240000000000002,
+      "ts": "00:22.320 -> 00:26.240",
+      "jp": "肉と魚について話したいと思います",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>と<ruby>魚<rt>さかな</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想谈谈肉和鱼",
+      "en": "I want to talk about meat and fish."
+    },
+    {
+      "id": 7,
+      "start": 26.240000000000002,
+      "end": 31.980000000000004,
+      "ts": "00:26.240 -> 00:31.980",
+      "jp": "僕は今から魚屋に行ってきます",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>今か<rt>いまか</rt></ruby>ら<ruby>魚屋<rt>さかなや</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>きます",
+      "zh": "我马上要去鱼市场了",
+      "en": "I will go to the fish market now."
+    },
+    {
+      "id": 8,
+      "start": 31.980000000000004,
+      "end": 34.52,
+      "ts": "00:31.980 -> 00:34.520",
+      "jp": "今日は月曜日",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>",
+      "zh": "今天是周一",
+      "en": "Today is Monday"
+    },
+    {
+      "id": 9,
+      "start": 34.52,
+      "end": 36.620000000000005,
+      "ts": "00:34.520 -> 00:36.620",
+      "jp": "いい天気なので",
+      "jp_html": "いい<ruby>天気<rt>てんき</rt></ruby>なので",
+      "zh": "天气很好所以",
+      "en": "The weather is nice so"
+    },
+    {
+      "id": 10,
+      "start": 36.620000000000005,
+      "end": 41.940000000000005,
+      "ts": "00:36.620 -> 00:41.940",
+      "jp": "自転車に乗ってスーパーに行ってきたいと思います",
+      "jp_html": "<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗って<rt>のって</rt></ruby>スーパーに<ruby>行って<rt>いって</rt></ruby>きたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想骑车去超市",
+      "en": "I want to go to the supermarket by bicycle."
+    },
+    {
+      "id": 11,
+      "start": 41.940000000000005,
+      "end": 46.0,
+      "ts": "00:41.940 -> 00:46.000",
+      "jp": "そのスーパーには魚屋があります",
+      "jp_html": "そのスーパーには<ruby>魚屋<rt>さかなや</rt></ruby>があります",
+      "zh": "那个超市里有卖鱼的店铺",
+      "en": "That supermarket has a fishmonger."
+    },
+    {
+      "id": 12,
+      "start": 46.0,
+      "end": 52.18000000000001,
+      "ts": "00:46.000 -> 00:52.180",
+      "jp": "そこではとても新鮮で美味しい魚があります",
+      "jp_html": "そこではとても<ruby>新鮮<rt>しんせん</rt></ruby>で<ruby>美味しい<rt>おいしい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>があります",
+      "zh": "那里有很多新鲜美味的鱼",
+      "en": "There are very fresh and delicious fish there."
+    },
+    {
+      "id": 13,
+      "start": 52.18000000000001,
+      "end": 53.78,
+      "ts": "00:52.180 -> 00:53.780",
+      "jp": "新鮮ですね",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>ですね",
+      "zh": "新鲜呢",
+      "en": "It's fresh, huh?"
+    },
+    {
+      "id": 14,
+      "start": 53.78,
+      "end": 59.02,
+      "ts": "00:53.780 -> 00:59.020",
+      "jp": "新鮮と生の違いね",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>と<ruby>生の<rt>うの</rt></ruby><ruby>違い<rt>ちがい</rt></ruby>ね",
+      "zh": "新鲜和生的差别呢",
+      "en": "The difference between fresh and alive, huh?"
+    },
+    {
+      "id": 15,
+      "start": 59.02,
+      "end": 60.9,
+      "ts": "00:59.020 -> 01:00.900",
+      "jp": "わかりますか",
+      "jp_html": "わかりますか",
+      "zh": "你能理解吗？",
+      "en": "Do you understand?"
+    },
+    {
+      "id": 16,
+      "start": 60.9,
+      "end": 62.120000000000005,
+      "ts": "01:00.900 -> 01:02.120",
+      "jp": "新鮮な魚",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "新鲜的鱼",
+      "en": "Fresh fish"
+    },
+    {
+      "id": 17,
+      "start": 62.120000000000005,
+      "end": 63.3,
+      "ts": "01:02.120 -> 01:03.300",
+      "jp": "生の魚",
+      "jp_html": "<ruby>生の<rt>うの</rt></ruby><ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "生鱼",
+      "en": "Fresh fish"
+    },
+    {
+      "id": 18,
+      "start": 63.3,
+      "end": 66.42,
+      "ts": "01:03.300 -> 01:06.420",
+      "jp": "生の魚というのは",
+      "jp_html": "<ruby>生の<rt>うの</rt></ruby><ruby>魚<rt>さかな</rt></ruby>というのは",
+      "zh": "生的的鱼",
+      "en": "Raw fish."
+    },
+    {
+      "id": 19,
+      "start": 66.42,
+      "end": 69.74000000000001,
+      "ts": "01:06.420 -> 01:09.740",
+      "jp": "寿司とか刺身とか",
+      "jp_html": "<ruby>寿司<rt>すし</rt></ruby>とか<ruby>刺身<rt>さしみ</rt></ruby>とか",
+      "zh": "寿司或者生鱼片",
+      "en": "Sushi and sashimi"
+    },
+    {
+      "id": 20,
+      "start": 69.74000000000001,
+      "end": 71.78,
+      "ts": "01:09.740 -> 01:11.780",
+      "jp": "生の魚ですね",
+      "jp_html": "<ruby>生の<rt>うの</rt></ruby><ruby>魚<rt>さかな</rt></ruby>ですね",
+      "zh": "生的鱼呢",
+      "en": "It's raw fish."
+    },
+    {
+      "id": 21,
+      "start": 71.78,
+      "end": 74.2,
+      "ts": "01:11.780 -> 01:14.200",
+      "jp": "料理されてない魚",
+      "jp_html": "<ruby>料理<rt>りょうり</rt></ruby>されてない<ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "未加工的鱼",
+      "en": "Uncooked fish"
+    },
+    {
+      "id": 22,
+      "start": 74.2,
+      "end": 77.78,
+      "ts": "01:14.200 -> 01:17.780",
+      "jp": "新鮮というのは新しい",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>というのは<ruby>新しい<rt>あたらしい</rt></ruby>",
+      "zh": "新鲜是指新的。",
+      "en": "Fresh means new."
+    },
+    {
+      "id": 23,
+      "start": 77.78,
+      "end": 80.28,
+      "ts": "01:17.780 -> 01:20.280",
+      "jp": "とてもフレッシュという意味です",
+      "jp_html": "とてもフレッシュという<ruby>意味<rt>いみ</rt></ruby>です",
+      "zh": "意思是十分新鲜",
+      "en": "It means very fresh."
+    },
+    {
+      "id": 24,
+      "start": 80.28,
+      "end": 84.66,
+      "ts": "01:20.280 -> 01:24.660",
+      "jp": "もちろん新鮮な生の魚",
+      "jp_html": "もちろん<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>生の<rt>うの</rt></ruby><ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "当然新鲜的生鱼",
+      "en": "Of course fresh raw fish."
+    },
+    {
+      "id": 25,
+      "start": 84.66,
+      "end": 86.7,
+      "ts": "01:24.660 -> 01:26.700",
+      "jp": "新鮮で生の魚",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>で<ruby>生の<rt>うの</rt></ruby><ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "新鲜的生鱼",
+      "en": "Fresh and live fish"
+    },
+    {
+      "id": 26,
+      "start": 86.7,
+      "end": 89.1,
+      "ts": "01:26.700 -> 01:29.100",
+      "jp": "もあるけど",
+      "jp_html": "もあるけど",
+      "zh": "也有但是",
+      "en": "There is also one but"
+    },
+    {
+      "id": 27,
+      "start": 89.1,
+      "end": 92.4,
+      "ts": "01:29.100 -> 01:32.400",
+      "jp": "例えば僕が今日買うのは",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>が<ruby>今日<rt>きょう</rt></ruby><ruby>買う<rt>かう</rt></ruby>のは",
+      "zh": "比如我今天买的是",
+      "en": "For example, what I'm buying today is"
+    },
+    {
+      "id": 28,
+      "start": 92.4,
+      "end": 94.48,
+      "ts": "01:32.400 -> 01:34.480",
+      "jp": "新鮮な魚を買って",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚<rt>さかな</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て",
+      "zh": "买新鲜的鱼",
+      "en": "Buy fresh fish"
+    },
+    {
+      "id": 29,
+      "start": 94.48,
+      "end": 98.48,
+      "ts": "01:34.480 -> 01:38.480",
+      "jp": "それをもちろん生だけど",
+      "jp_html": "それをもちろん<ruby>生<rt>なま</rt></ruby>だけど",
+      "zh": "那是当然的活的",
+      "en": "That of course is live but"
+    },
+    {
+      "id": 30,
+      "start": 98.48,
+      "end": 102.12,
+      "ts": "01:38.480 -> 01:42.120",
+      "jp": "家に帰ってそれを焼きます",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てそれを<ruby>焼き<rt>やき</rt></ruby>ます",
+      "zh": "回家后我把它们烤了。",
+      "en": "I'll go home and bake it."
+    },
+    {
+      "id": 31,
+      "start": 102.12,
+      "end": 104.54,
+      "ts": "01:42.120 -> 01:44.540",
+      "jp": "新鮮な焼き魚",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>焼き魚<rt>やきざかな</rt></ruby>",
+      "zh": "新鲜的烤鱼",
+      "en": "Fresh grilled fish"
+    },
+    {
+      "id": 32,
+      "start": 104.54,
+      "end": 108.10000000000001,
+      "ts": "01:44.540 -> 01:48.100",
+      "jp": "焼いた魚だけど新鮮なんですね",
+      "jp_html": "<ruby>焼い<rt>やい</rt></ruby>た<ruby>魚<rt>さかな</rt></ruby>だけど<ruby>新鮮<rt>しんせん</rt></ruby>なんですね",
+      "zh": "这虽然是烤鱼，但很新鲜呢",
+      "en": "It's grilled fish, but it's fresh, isn't it?"
+    },
+    {
+      "id": 33,
+      "start": 108.10000000000001,
+      "end": 112.72,
+      "ts": "01:48.100 -> 01:52.720",
+      "jp": "だから新鮮と生はちょっと違いますね",
+      "jp_html": "だから<ruby>新鮮<rt>しんせん</rt></ruby>と<ruby>生<rt>なま</rt></ruby>はちょっと<ruby>違い<rt>ちがい</rt></ruby>ますね",
+      "zh": "所以新鲜和生稍微有点不同吧",
+      "en": "So freshness and liveliness are a little different, huh?"
+    },
+    {
+      "id": 34,
+      "start": 112.72,
+      "end": 115.72,
+      "ts": "01:52.720 -> 01:55.720",
+      "jp": "もちろん新鮮で生の",
+      "jp_html": "もちろん<ruby>新鮮<rt>しんせん</rt></ruby>で<ruby>生の<rt>うの</rt></ruby>",
+      "zh": "当然新鲜的生的",
+      "en": "Of course fresh and alive"
+    },
+    {
+      "id": 35,
+      "start": 115.72,
+      "end": 119.5,
+      "ts": "01:55.720 -> 01:59.500",
+      "jp": "の寿司とか刺身",
+      "jp_html": "の<ruby>寿司<rt>すし</rt></ruby>とか<ruby>刺身<rt>さしみ</rt></ruby>",
+      "zh": "的寿司或生鱼片",
+      "en": "Sushi and sashimi"
+    },
+    {
+      "id": 36,
+      "start": 119.5,
+      "end": 121.84,
+      "ts": "01:59.500 -> 02:01.840",
+      "jp": "これは一番いいですよね",
+      "jp_html": "これは<ruby>一番<rt>いちばん</rt></ruby>いいですよね",
+      "zh": "这是最好的吧",
+      "en": "This is the best, isn't it?"
+    },
+    {
+      "id": 37,
+      "start": 121.84,
+      "end": 124.22,
+      "ts": "02:01.840 -> 02:04.220",
+      "jp": "そして新鮮な焼き魚",
+      "jp_html": "そして<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>焼き魚<rt>やきざかな</rt></ruby>",
+      "zh": "然后是新鲜烤鱼",
+      "en": "And fresh grilled fish"
+    },
+    {
+      "id": 38,
+      "start": 124.22,
+      "end": 125.92,
+      "ts": "02:04.220 -> 02:05.920",
+      "jp": "これも一番いいですよね",
+      "jp_html": "これも<ruby>一番<rt>いちばん</rt></ruby>いいですよね",
+      "zh": "这不也是最好的吗？",
+      "en": "Isn't this also the best?"
+    },
+    {
+      "id": 39,
+      "start": 125.92,
+      "end": 129.92,
+      "ts": "02:05.920 -> 02:09.920",
+      "jp": "でも新鮮じゃない生の魚もあるし",
+      "jp_html": "でも<ruby>新鮮<rt>しんせん</rt></ruby>じゃない<ruby>生の<rt>うの</rt></ruby><ruby>魚<rt>さかな</rt></ruby>もあるし",
+      "zh": "但也有新鲜的生鱼",
+      "en": "But there are also fresh raw fish."
+    },
+    {
+      "id": 40,
+      "start": 129.92,
+      "end": 133.42,
+      "ts": "02:09.920 -> 02:13.420",
+      "jp": "新鮮じゃない焼き魚もあります",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>じゃない<ruby>焼き魚<rt>やきざかな</rt></ruby>もあります",
+      "zh": "也有不是新鲜的烤鱼",
+      "en": "There are also slightly less fresh grilled fish."
+    },
+    {
+      "id": 41,
+      "start": 133.42000000000002,
+      "end": 135.3,
+      "ts": "02:13.420 -> 02:15.300",
+      "jp": "新鮮な魚",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "新鲜的鱼",
+      "en": "Fresh fish"
+    },
+    {
+      "id": 42,
+      "start": 135.3,
+      "end": 137.50000000000003,
+      "ts": "02:15.300 -> 02:17.500",
+      "jp": "これは大事ですね",
+      "jp_html": "これは<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "这很重要呢",
+      "en": "This is important, huh?"
+    },
+    {
+      "id": 43,
+      "start": 137.50000000000003,
+      "end": 141.22000000000003,
+      "ts": "02:17.500 -> 02:21.220",
+      "jp": "新鮮じゃなかったらちょっと怖いですね",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>じゃなかったらちょっと<ruby>怖い<rt>こわい</rt></ruby>ですね",
+      "zh": "如果不够新鲜我会有点害怕呢",
+      "en": "It's a bit scary if it's not fresh, right?"
+    },
+    {
+      "id": 44,
+      "start": 141.22000000000003,
+      "end": 143.44000000000003,
+      "ts": "02:21.220 -> 02:23.440",
+      "jp": "ちょっと危ないですね",
+      "jp_html": "ちょっと<ruby>危ない<rt>あぶない</rt></ruby>ですね",
+      "zh": "有点危险呢",
+      "en": "It's a bit dangerous, isn't it?"
+    },
+    {
+      "id": 45,
+      "start": 143.44000000000003,
+      "end": 145.88000000000002,
+      "ts": "02:23.440 -> 02:25.880",
+      "jp": "そして肉ですね",
+      "jp_html": "そして<ruby>肉<rt>にく</rt></ruby>ですね",
+      "zh": "然后是肉呢",
+      "en": "And then there's the meat."
+    },
+    {
+      "id": 46,
+      "start": 145.88000000000002,
+      "end": 149.64000000000001,
+      "ts": "02:25.880 -> 02:29.640",
+      "jp": "肉ももちろん新鮮な肉を買った方がいいですね",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>ももちろん<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>肉<rt>にく</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>た<ruby>方が<rt>ほうが</rt></ruby>いいですね",
+      "zh": "当然，买新鲜的肉比较好",
+      "en": "Of course, it's better to buy fresh meat."
+    },
+    {
+      "id": 47,
+      "start": 149.64000000000001,
+      "end": 151.62,
+      "ts": "02:29.640 -> 02:31.620",
+      "jp": "新鮮な肉",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>肉<rt>にく</rt></ruby>",
+      "zh": "新鲜的肉",
+      "en": "Fresh meat"
+    },
+    {
+      "id": 48,
+      "start": 151.62,
+      "end": 154.88000000000002,
+      "ts": "02:31.620 -> 02:34.880",
+      "jp": "だけど肉はね",
+      "jp_html": "だけど<ruby>肉<rt>にく</rt></ruby>はね",
+      "zh": "但是肉呢",
+      "en": "But the meat is uh"
+    },
+    {
+      "id": 49,
+      "start": 154.88000000000002,
+      "end": 158.3,
+      "ts": "02:34.880 -> 02:38.300",
+      "jp": "結構冷凍の肉も多いですよね",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>冷凍<rt>れいとう</rt></ruby>の<ruby>肉<rt>にく</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>ですよね",
+      "zh": "冷冻的肉类也很多吧",
+      "en": "Don't many meats come frozen these days?"
+    },
+    {
+      "id": 50,
+      "start": 158.3,
+      "end": 159.06,
+      "ts": "02:38.300 -> 02:39.060",
+      "jp": "冷凍",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>",
+      "zh": "冷冻",
+      "en": "Freeze"
+    },
+    {
+      "id": 51,
+      "start": 159.06,
+      "end": 161.08,
+      "ts": "02:39.060 -> 02:41.080",
+      "jp": "冷凍食品",
+      "jp_html": "<ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby>",
+      "zh": "冷冻食品",
+      "en": "Frozen food"
+    },
+    {
+      "id": 52,
+      "start": 161.08,
+      "end": 162.46,
+      "ts": "02:41.080 -> 02:42.460",
+      "jp": "冷凍",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>",
+      "zh": "冷冻",
+      "en": "Freeze"
+    },
+    {
+      "id": 53,
+      "start": 162.46,
+      "end": 164.56,
+      "ts": "02:42.460 -> 02:44.560",
+      "jp": "凍ってる肉",
+      "jp_html": "<ruby>凍っ<rt>こごっ</rt></ruby>てる<ruby>肉<rt>にく</rt></ruby>",
+      "zh": "冻住的肉",
+      "en": "Frozen meat"
+    },
+    {
+      "id": 54,
+      "start": 164.56,
+      "end": 167.34,
+      "ts": "02:44.560 -> 02:47.340",
+      "jp": "これもたまに買います",
+      "jp_html": "これもたまに<ruby>買い<rt>かい</rt></ruby>ます",
+      "zh": "这偶尔也会买。",
+      "en": "I also buy this sometimes."
+    },
+    {
+      "id": 55,
+      "start": 167.34,
+      "end": 169.08,
+      "ts": "02:47.340 -> 02:49.080",
+      "jp": "僕は凍った肉",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>凍っ<rt>こごっ</rt></ruby>た<ruby>肉<rt>にく</rt></ruby>",
+      "zh": "我是冻肉",
+      "en": "I am frozen meat."
+    },
+    {
+      "id": 56,
+      "start": 169.08,
+      "end": 170.88,
+      "ts": "02:49.080 -> 02:50.880",
+      "jp": "冷凍の肉も買います",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>の<ruby>肉<rt>にく</rt></ruby>も<ruby>買い<rt>かい</rt></ruby>ます",
+      "zh": "我也买冷冻的肉",
+      "en": "I also buy frozen meat."
+    },
+    {
+      "id": 57,
+      "start": 170.88,
+      "end": 172.9,
+      "ts": "02:50.880 -> 02:52.900",
+      "jp": "新鮮な肉も買います",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>肉<rt>にく</rt></ruby>も<ruby>買い<rt>かい</rt></ruby>ます",
+      "zh": "我也买新鲜的肉",
+      "en": "I also buy fresh meat."
+    },
+    {
+      "id": 58,
+      "start": 172.9,
+      "end": 173.54000000000002,
+      "ts": "02:52.900 -> 02:53.540",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 59,
+      "start": 173.54000000000002,
+      "end": 177.8,
+      "ts": "02:53.540 -> 02:57.800",
+      "jp": "例えばステーキとかは",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ステーキとかは",
+      "zh": "比如牛排之类的",
+      "en": "For example, steak is"
+    },
+    {
+      "id": 60,
+      "start": 177.8,
+      "end": 180.20000000000002,
+      "ts": "02:57.800 -> 03:00.200",
+      "jp": "新鮮な肉がいいですね",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>肉<rt>にく</rt></ruby>がいいですね",
+      "zh": "新鲜的肉不错呢",
+      "en": "Fresh meat sounds good."
+    },
+    {
+      "id": 61,
+      "start": 180.20000000000002,
+      "end": 181.8,
+      "ts": "03:00.200 -> 03:01.800",
+      "jp": "でも多分",
+      "jp_html": "でも<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "但是大概",
+      "en": "But probably"
+    },
+    {
+      "id": 62,
+      "start": 181.8,
+      "end": 185.76000000000002,
+      "ts": "03:01.800 -> 03:05.760",
+      "jp": "多分ステーキも冷凍して",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ステーキも<ruby>冷凍<rt>れいとう</rt></ruby>して",
+      "zh": "大概牛排也是冷冻的",
+      "en": "Probably they also froze the steak."
+    },
+    {
+      "id": 63,
+      "start": 185.76000000000002,
+      "end": 188.16,
+      "ts": "03:05.760 -> 03:08.160",
+      "jp": "冷凍されて",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>されて",
+      "zh": "冷冻着",
+      "en": "Frozen"
+    },
+    {
+      "id": 64,
+      "start": 188.16,
+      "end": 191.46,
+      "ts": "03:08.160 -> 03:11.460",
+      "jp": "それをもう一度解凍して",
+      "jp_html": "それをもう<ruby>一度<rt>いちど</rt></ruby><ruby>解凍<rt>かいとう</rt></ruby>して",
+      "zh": "再解冻它",
+      "en": "Unfreeze that again"
+    },
+    {
+      "id": 65,
+      "start": 191.46,
+      "end": 192.70000000000002,
+      "ts": "03:11.460 -> 03:12.700",
+      "jp": "売っていると思います",
+      "jp_html": "<ruby>売っ<rt>うっ</rt></ruby>ていると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为在卖。",
+      "en": "I think they have it for sale."
+    },
+    {
+      "id": 66,
+      "start": 192.70000000000002,
+      "end": 194.98000000000002,
+      "ts": "03:12.700 -> 03:14.980",
+      "jp": "冷凍",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>",
+      "zh": "冷冻",
+      "en": "Freeze"
+    },
+    {
+      "id": 67,
+      "start": 194.98000000000002,
+      "end": 196.86,
+      "ts": "03:14.980 -> 03:16.860",
+      "jp": "そして解凍",
+      "jp_html": "そして<ruby>解凍<rt>かいとう</rt></ruby>",
+      "zh": "然后解冻",
+      "en": "and thawing"
+    },
+    {
+      "id": 68,
+      "start": 196.86,
+      "end": 200.34,
+      "ts": "03:16.860 -> 03:20.340",
+      "jp": "冷凍というのは凍らせることですね",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>というのは<ruby>凍ら<rt>こおら</rt></ruby>せることですね",
+      "zh": "冷冻就是把东西冻住的意思吧",
+      "en": "Freezing is just the act of freezing, right?"
+    },
+    {
+      "id": 69,
+      "start": 200.34,
+      "end": 202.24,
+      "ts": "03:20.340 -> 03:22.240",
+      "jp": "冷凍というのは凍らせること",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>というのは<ruby>凍ら<rt>こおら</rt></ruby>せること",
+      "zh": "冷冻就是把东西冻住",
+      "en": "Freezing means to freeze."
+    },
+    {
+      "id": 70,
+      "start": 202.24,
+      "end": 204.10000000000002,
+      "ts": "03:22.240 -> 03:24.100",
+      "jp": "解凍というのは",
+      "jp_html": "<ruby>解凍<rt>かいとう</rt></ruby>というのは",
+      "zh": "解冻是指",
+      "en": "Thawing is"
+    },
+    {
+      "id": 71,
+      "start": 204.10000000000002,
+      "end": 208.24,
+      "ts": "03:24.100 -> 03:28.240",
+      "jp": "凍ってるのを元に戻す",
+      "jp_html": "<ruby>凍っ<rt>こごっ</rt></ruby>てるのを<ruby>元に<rt>もとに</rt></ruby><ruby>戻す<rt>もどす</rt></ruby>",
+      "zh": "恢复冻住的状态",
+      "en": "To thaw it back out"
+    },
+    {
+      "id": 72,
+      "start": 208.24,
+      "end": 209.84,
+      "ts": "03:28.240 -> 03:29.840",
+      "jp": "ということですね",
+      "jp_html": "ということですね",
+      "zh": "这就是说吧",
+      "en": "That's right."
+    },
+    {
+      "id": 73,
+      "start": 209.84,
+      "end": 211.02,
+      "ts": "03:29.840 -> 03:31.020",
+      "jp": "解凍する",
+      "jp_html": "<ruby>解凍<rt>かいとう</rt></ruby>する",
+      "zh": "解冻",
+      "en": "Thawing"
+    },
+    {
+      "id": 74,
+      "start": 211.02,
+      "end": 212.76000000000002,
+      "ts": "03:31.020 -> 03:32.760",
+      "jp": "まず",
+      "jp_html": "まず",
+      "zh": "首先",
+      "en": "First"
+    },
+    {
+      "id": 75,
+      "start": 212.76000000000002,
+      "end": 212.8,
+      "ts": "03:32.760 -> 03:32.800",
+      "jp": "まず",
+      "jp_html": "まず",
+      "zh": "首先",
+      "en": "First"
+    },
+    {
+      "id": 76,
+      "start": 212.8,
+      "end": 213.62,
+      "ts": "03:32.800 -> 03:33.620",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "好吧",
+      "en": "Well"
+    },
+    {
+      "id": 77,
+      "start": 213.62,
+      "end": 216.8,
+      "ts": "03:33.620 -> 03:36.800",
+      "jp": "まあ牧場みたいなところでね",
+      "jp_html": "まあ<ruby>牧場<rt>ぼくじょう</rt></ruby>みたいなところでね",
+      "zh": "大概就是在牧场那样的地方吧",
+      "en": "Well, something like a ranch, you know?"
+    },
+    {
+      "id": 78,
+      "start": 216.8,
+      "end": 218.36,
+      "ts": "03:36.800 -> 03:38.360",
+      "jp": "まあ牛とか",
+      "jp_html": "まあ<ruby>牛<rt>うし</rt></ruby>とか",
+      "zh": "嘛，牛之类的",
+      "en": "Well, cows or something like that."
+    },
+    {
+      "id": 79,
+      "start": 218.36,
+      "end": 220.76000000000002,
+      "ts": "03:38.360 -> 03:40.760",
+      "jp": "豚とか",
+      "jp_html": "<ruby>豚<rt>ぶた</rt></ruby>とか",
+      "zh": "猪或者",
+      "en": "Pigs or pork."
+    },
+    {
+      "id": 80,
+      "start": 220.76000000000002,
+      "end": 223.04000000000002,
+      "ts": "03:40.760 -> 03:43.040",
+      "jp": "まああの",
+      "jp_html": "まああの",
+      "zh": "嗯，那个",
+      "en": "Well, those"
+    },
+    {
+      "id": 81,
+      "start": 223.04000000000002,
+      "end": 225.70000000000002,
+      "ts": "03:43.040 -> 03:45.700",
+      "jp": "鶏とか",
+      "jp_html": "<ruby>鶏<rt>にわとり</rt></ruby>とか",
+      "zh": "鸡或何か",
+      "en": "Chicken and stuff"
+    },
+    {
+      "id": 82,
+      "start": 225.70000000000002,
+      "end": 227.54000000000002,
+      "ts": "03:45.700 -> 03:47.540",
+      "jp": "鶏肉ね",
+      "jp_html": "<ruby>鶏肉<rt>とりにく</rt></ruby>ね",
+      "zh": "鸡肉né",
+      "en": "Chicken meat"
+    },
+    {
+      "id": 83,
+      "start": 227.54000000000002,
+      "end": 229.4,
+      "ts": "03:47.540 -> 03:49.400",
+      "jp": "鶏とかを殺して",
+      "jp_html": "<ruby>鶏<rt>にわとり</rt></ruby>とかを<ruby>殺し<rt>ころし</rt></ruby>て",
+      "zh": "杀鸡或者别的动物",
+      "en": "Kill chickens or something like that."
+    },
+    {
+      "id": 84,
+      "start": 229.4,
+      "end": 232.48000000000002,
+      "ts": "03:49.400 -> 03:52.480",
+      "jp": "そしてそれを",
+      "jp_html": "そしてそれを",
+      "zh": "然后就那样做了",
+      "en": "and then that"
+    },
+    {
+      "id": 85,
+      "start": 232.48000000000002,
+      "end": 232.82000000000002,
+      "ts": "03:52.480 -> 03:52.820",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 86,
+      "start": 232.82000000000002,
+      "end": 235.28,
+      "ts": "03:52.820 -> 03:55.280",
+      "jp": "冷凍することが多いですね",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>することが<ruby>多い<rt>おおい</rt></ruby>ですね",
+      "zh": "冷冻的次数很多吧",
+      "en": "It seems you freeze things often."
+    },
+    {
+      "id": 87,
+      "start": 235.28,
+      "end": 236.3,
+      "ts": "03:55.280 -> 03:56.300",
+      "jp": "冷凍して",
+      "jp_html": "<ruby>冷凍<rt>れいとう</rt></ruby>して",
+      "zh": "冷冻了",
+      "en": "Freeze it"
+    },
+    {
+      "id": 88,
+      "start": 236.3,
+      "end": 237.76000000000002,
+      "ts": "03:56.300 -> 03:57.760",
+      "jp": "でスーパーに",
+      "jp_html": "でスーパーに",
+      "zh": "去超市",
+      "en": "to the supermarket"
+    },
+    {
+      "id": 89,
+      "start": 237.76000000000002,
+      "end": 239.46,
+      "ts": "03:57.760 -> 03:59.460",
+      "jp": "持って行って",
+      "jp_html": "<ruby>持っ<rt>もっ</rt></ruby>て<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "拿着去吧",
+      "en": "Take it with you."
+    },
+    {
+      "id": 90,
+      "start": 239.46,
+      "end": 241.54000000000002,
+      "ts": "03:59.460 -> 04:01.540",
+      "jp": "それを解凍して",
+      "jp_html": "それを<ruby>解凍<rt>かいとう</rt></ruby>して",
+      "zh": "把它解冻了",
+      "en": "Decompress that"
+    },
+    {
+      "id": 91,
+      "start": 241.54000000000002,
+      "end": 242.34,
+      "ts": "04:01.540 -> 04:02.340",
+      "jp": "売るとかね",
+      "jp_html": "<ruby>売る<rt>うる</rt></ruby>とかね",
+      "zh": "卖吗？",
+      "en": "So you're selling, huh?"
+    },
+    {
+      "id": 92,
+      "start": 242.34,
+      "end": 244.24,
+      "ts": "04:02.340 -> 04:04.240",
+      "jp": "こういうのは普通だと思います",
+      "jp_html": "こういうのは<ruby>普通<rt>ふつう</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我这么想应该是正常的吧",
+      "en": "I think this is ordinary."
+    },
+    {
+      "id": 93,
+      "start": 244.24,
+      "end": 247.08,
+      "ts": "04:04.240 -> 04:07.080",
+      "jp": "一度冷凍していることが多い",
+      "jp_html": "<ruby>一度<rt>いちど</rt></ruby><ruby>冷凍<rt>れいとう</rt></ruby>していることが<ruby>多い<rt>おおい</rt></ruby>",
+      "zh": "通常会被冷冻一次",
+      "en": "It is often frozen once."
+    },
+    {
+      "id": 94,
+      "start": 247.08,
+      "end": 249.62,
+      "ts": "04:07.080 -> 04:09.620",
+      "jp": "まああとは冷凍しない時もありますよね",
+      "jp_html": "まああとは<ruby>冷凍<rt>れいとう</rt></ruby>しない<ruby>時<rt>とき</rt></ruby>もありますよね",
+      "zh": "毕竟也不是每次都不冷冻的吧",
+      "en": "Well, there are also times when I don't freeze it, right?"
+    },
+    {
+      "id": 95,
+      "start": 249.62,
+      "end": 250.58,
+      "ts": "04:09.620 -> 04:10.580",
+      "jp": "多分本当に",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby><ruby>本当<rt>ほんとう</rt></ruby>に",
+      "zh": "大概真的",
+      "en": "Probably really"
+    },
+    {
+      "id": 96,
+      "start": 250.58,
+      "end": 251.82000000000002,
+      "ts": "04:10.580 -> 04:11.820",
+      "jp": "本当に",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に",
+      "zh": "真的",
+      "en": "Truly"
+    },
+    {
+      "id": 97,
+      "start": 251.82000000000002,
+      "end": 253.14000000000001,
+      "ts": "04:11.820 -> 04:13.140",
+      "jp": "新鮮な",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な",
+      "zh": "新鲜的",
+      "en": "fresh"
+    },
+    {
+      "id": 98,
+      "start": 253.14000000000001,
+      "end": 253.54000000000002,
+      "ts": "04:13.140 -> 04:13.540",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 99,
+      "start": 253.54000000000002,
+      "end": 254.24,
+      "ts": "04:13.540 -> 04:14.240",
+      "jp": "肉",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>",
+      "zh": "肉",
+      "en": "meat"
+    },
+    {
+      "id": 100,
+      "start": 254.24,
+      "end": 255.64000000000001,
+      "ts": "04:14.240 -> 04:15.640",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 101,
+      "start": 255.64000000000001,
+      "end": 256.64,
+      "ts": "04:15.640 -> 04:16.640",
+      "jp": "昨日",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>",
+      "zh": "昨天",
+      "en": "yesterday"
+    },
+    {
+      "id": 102,
+      "start": 256.64,
+      "end": 257.58,
+      "ts": "04:16.640 -> 04:17.580",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 103,
+      "start": 257.58,
+      "end": 259.16,
+      "ts": "04:17.580 -> 04:19.160",
+      "jp": "残念ですが",
+      "jp_html": "<ruby>残念<rt>ざんねん</rt></ruby>ですが",
+      "zh": "可惜但愿如此",
+      "en": "Unfortunately"
+    },
+    {
+      "id": 104,
+      "start": 259.16,
+      "end": 261.02,
+      "ts": "04:19.160 -> 04:21.020",
+      "jp": "動物を殺して",
+      "jp_html": "<ruby>動物<rt>どうぶつ</rt></ruby>を<ruby>殺し<rt>ころし</rt></ruby>て",
+      "zh": "杀动物",
+      "en": "Kill the animals"
+    },
+    {
+      "id": 105,
+      "start": 261.02,
+      "end": 261.42,
+      "ts": "04:21.020 -> 04:21.420",
+      "jp": "今日",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>",
+      "zh": "今天",
+      "en": "Today"
+    },
+    {
+      "id": 106,
+      "start": 261.42,
+      "end": 262.44,
+      "ts": "04:21.420 -> 04:22.440",
+      "jp": "食べる",
+      "jp_html": "<ruby>食べ<rt>たべ</rt></ruby>る",
+      "zh": "吃",
+      "en": "eat"
+    },
+    {
+      "id": 107,
+      "start": 262.44,
+      "end": 262.62,
+      "ts": "04:22.440 -> 04:22.620",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 108,
+      "start": 262.62,
+      "end": 263.32,
+      "ts": "04:22.620 -> 04:23.320",
+      "jp": "そういう",
+      "jp_html": "そういう",
+      "zh": "这样的",
+      "en": "That's it"
+    },
+    {
+      "id": 109,
+      "start": 263.32,
+      "end": 264.7,
+      "ts": "04:23.320 -> 04:24.700",
+      "jp": "新鮮な",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な",
+      "zh": "新鲜的",
+      "en": "fresh"
+    },
+    {
+      "id": 110,
+      "start": 264.7,
+      "end": 266.0,
+      "ts": "04:24.700 -> 04:26.000",
+      "jp": "肉屋も",
+      "jp_html": "<ruby>肉屋<rt>にくや</rt></ruby>も",
+      "zh": "肉铺也",
+      "en": "Meat shop also"
+    },
+    {
+      "id": 111,
+      "start": 266.0,
+      "end": 267.58,
+      "ts": "04:26.000 -> 04:27.580",
+      "jp": "たくさんあると思います",
+      "jp_html": "たくさんあると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想有很多。",
+      "en": "I think there are many."
+    },
+    {
+      "id": 112,
+      "start": 267.58,
+      "end": 271.82,
+      "ts": "04:27.580 -> 04:31.820",
+      "jp": "まあ昔はもちろん",
+      "jp_html": "まあ<ruby>昔<rt>むかし</rt></ruby>はもちろん",
+      "zh": "当然，过去当然是",
+      "en": "Well, of course back then"
+    },
+    {
+      "id": 113,
+      "start": 271.82,
+      "end": 272.42,
+      "ts": "04:31.820 -> 04:32.420",
+      "jp": "肉屋",
+      "jp_html": "<ruby>肉屋<rt>にくや</rt></ruby>",
+      "zh": "肉铺",
+      "en": "Butcher shop"
+    },
+    {
+      "id": 114,
+      "start": 272.42,
+      "end": 273.52,
+      "ts": "04:32.420 -> 04:33.520",
+      "jp": "魚屋",
+      "jp_html": "<ruby>魚屋<rt>さかなや</rt></ruby>",
+      "zh": "鱼屋",
+      "en": "Fish shop"
+    },
+    {
+      "id": 115,
+      "start": 273.52,
+      "end": 274.82,
+      "ts": "04:33.520 -> 04:34.820",
+      "jp": "肉を売る店",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>",
+      "zh": "卖肉的店",
+      "en": "A store that sells meat"
+    },
+    {
+      "id": 116,
+      "start": 274.82,
+      "end": 275.46000000000004,
+      "ts": "04:34.820 -> 04:35.460",
+      "jp": "肉屋",
+      "jp_html": "<ruby>肉屋<rt>にくや</rt></ruby>",
+      "zh": "肉铺",
+      "en": "Butcher shop"
+    },
+    {
+      "id": 117,
+      "start": 275.46000000000004,
+      "end": 276.66,
+      "ts": "04:35.460 -> 04:36.660",
+      "jp": "魚屋",
+      "jp_html": "<ruby>魚屋<rt>さかなや</rt></ruby>",
+      "zh": "鱼屋",
+      "en": "Fish shop"
+    },
+    {
+      "id": 118,
+      "start": 276.66,
+      "end": 277.92,
+      "ts": "04:36.660 -> 04:37.920",
+      "jp": "魚を売る店",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>を<ruby>売る<rt>うる</rt></ruby><ruby>店<rt>みせ</rt></ruby>",
+      "zh": "卖鱼的店",
+      "en": "A store that sells fish"
+    },
+    {
+      "id": 119,
+      "start": 277.92,
+      "end": 278.7,
+      "ts": "04:37.920 -> 04:38.700",
+      "jp": "魚屋",
+      "jp_html": "<ruby>魚屋<rt>さかなや</rt></ruby>",
+      "zh": "鱼屋",
+      "en": "Fish shop"
+    },
+    {
+      "id": 120,
+      "start": 278.7,
+      "end": 279.96000000000004,
+      "ts": "04:38.700 -> 04:39.960",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 121,
+      "start": 279.96000000000004,
+      "end": 281.66,
+      "ts": "04:39.960 -> 04:41.660",
+      "jp": "果物屋",
+      "jp_html": "<ruby>果物屋<rt>くだものや</rt></ruby>",
+      "zh": "水果店",
+      "en": "fruit shop"
+    },
+    {
+      "id": 122,
+      "start": 281.66,
+      "end": 283.12,
+      "ts": "04:41.660 -> 04:43.120",
+      "jp": "とかね",
+      "jp_html": "とかね",
+      "zh": "或者",
+      "en": "or something"
+    },
+    {
+      "id": 123,
+      "start": 283.12,
+      "end": 284.86,
+      "ts": "04:43.120 -> 04:44.860",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 124,
+      "start": 284.86,
+      "end": 285.66,
+      "ts": "04:44.860 -> 04:45.660",
+      "jp": "そういう",
+      "jp_html": "そういう",
+      "zh": "这样的",
+      "en": "That's it"
+    },
+    {
+      "id": 125,
+      "start": 285.66,
+      "end": 286.96,
+      "ts": "04:45.660 -> 04:46.960",
+      "jp": "専門の店が",
+      "jp_html": "<ruby>専門<rt>せんもん</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>が",
+      "zh": "专门的店铺가",
+      "en": "Specialized stores that"
+    },
+    {
+      "id": 126,
+      "start": 286.96,
+      "end": 287.88,
+      "ts": "04:46.960 -> 04:47.880",
+      "jp": "普通でした",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>でした",
+      "zh": "普通的",
+      "en": "It was ordinary."
+    },
+    {
+      "id": 127,
+      "start": 287.88,
+      "end": 288.66,
+      "ts": "04:47.880 -> 04:48.660",
+      "jp": "昔は",
+      "jp_html": "<ruby>昔<rt>むかし</rt></ruby>は",
+      "zh": "以前是",
+      "en": "Long ago"
+    },
+    {
+      "id": 128,
+      "start": 288.66,
+      "end": 290.66,
+      "ts": "04:48.660 -> 04:50.660",
+      "jp": "だけど今は",
+      "jp_html": "だけど<ruby>今<rt>いま</rt></ruby>は",
+      "zh": "但是现在",
+      "en": "But now"
+    },
+    {
+      "id": 129,
+      "start": 290.66,
+      "end": 292.38,
+      "ts": "04:50.660 -> 04:52.380",
+      "jp": "まあスーパーマーケットですね",
+      "jp_html": "まあスーパーマーケットですね",
+      "zh": "大概就是超市吧",
+      "en": "Well, a supermarket, you know?"
+    },
+    {
+      "id": 130,
+      "start": 292.38,
+      "end": 294.02,
+      "ts": "04:52.380 -> 04:54.020",
+      "jp": "スーパーマーケットに行くと",
+      "jp_html": "スーパーマーケットに<ruby>行く<rt>いく</rt></ruby>と",
+      "zh": "去超市时",
+      "en": "To go to the supermarket"
+    },
+    {
+      "id": 131,
+      "start": 294.02,
+      "end": 295.14,
+      "ts": "04:54.020 -> 04:55.140",
+      "jp": "肉とか",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>とか",
+      "zh": "肉或食物",
+      "en": "meat"
+    },
+    {
+      "id": 132,
+      "start": 295.14,
+      "end": 296.26,
+      "ts": "04:55.140 -> 04:56.260",
+      "jp": "魚とか",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>とか",
+      "zh": "鱼或者",
+      "en": "fish and/or seafood"
+    },
+    {
+      "id": 133,
+      "start": 296.26,
+      "end": 298.28000000000003,
+      "ts": "04:56.260 -> 04:58.280",
+      "jp": "果物とか",
+      "jp_html": "<ruby>果物<rt>くだもの</rt></ruby>とか",
+      "zh": "水果之类的",
+      "en": "Fruits and vegetables"
+    },
+    {
+      "id": 134,
+      "start": 298.28000000000003,
+      "end": 299.06,
+      "ts": "04:58.280 -> 04:59.060",
+      "jp": "野菜とか",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>とか",
+      "zh": "蔬菜类",
+      "en": "vegetables"
+    },
+    {
+      "id": 135,
+      "start": 299.06,
+      "end": 300.08,
+      "ts": "04:59.060 -> 05:00.080",
+      "jp": "全部あります",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>あります",
+      "zh": "都有",
+      "en": "All is available"
+    },
+    {
+      "id": 136,
+      "start": 300.08,
+      "end": 303.76,
+      "ts": "05:00.080 -> 05:03.760",
+      "jp": "僕がよく行くのは",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がよく<ruby>行く<rt>いく</rt></ruby>のは",
+      "zh": "我经常去的是",
+      "en": "The place I go to often is"
+    },
+    {
+      "id": 137,
+      "start": 303.76,
+      "end": 307.08,
+      "ts": "05:03.760 -> 05:07.080",
+      "jp": "3つのスーパーマーケット",
+      "jp_html": "3つのスーパーマーケット",
+      "zh": "三个超市",
+      "en": "Three supermarkets"
+    },
+    {
+      "id": 138,
+      "start": 307.08,
+      "end": 309.18,
+      "ts": "05:07.080 -> 05:09.180",
+      "jp": "1つ目",
+      "jp_html": "1つ<ruby>目<rt>め</rt></ruby>",
+      "zh": "第一个",
+      "en": "First one"
+    },
+    {
+      "id": 139,
+      "start": 309.18,
+      "end": 311.14,
+      "ts": "05:09.180 -> 05:11.140",
+      "jp": "今日行くスーパーマーケットは",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby><ruby>行く<rt>いく</rt></ruby>スーパーマーケットは",
+      "zh": "今天去的超市是",
+      "en": "Today's supermarket is"
+    },
+    {
+      "id": 140,
+      "start": 311.14,
+      "end": 313.24,
+      "ts": "05:11.140 -> 05:13.240",
+      "jp": "魚が美味しいスーパーマーケット",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>が<ruby>美味しい<rt>おいしい</rt></ruby>スーパーマーケット",
+      "zh": "鱼很好吃的超市",
+      "en": "Supermarket with fresh fish"
+    },
+    {
+      "id": 141,
+      "start": 313.24,
+      "end": 314.96,
+      "ts": "05:13.240 -> 05:14.960",
+      "jp": "でも",
+      "jp_html": "でも",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 142,
+      "start": 314.96,
+      "end": 316.18,
+      "ts": "05:14.960 -> 05:16.180",
+      "jp": "肉とか",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>とか",
+      "zh": "肉或食物",
+      "en": "meat"
+    },
+    {
+      "id": 143,
+      "start": 316.18,
+      "end": 320.76,
+      "ts": "05:16.180 -> 05:20.760",
+      "jp": "野菜はちょっと高すぎるかな",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>はちょっと<ruby>高す<rt>たかす</rt></ruby>ぎるかな",
+      "zh": "蔬菜稍微贵了一点吧",
+      "en": "The vegetables are a bit too expensive, aren't they?"
+    },
+    {
+      "id": 144,
+      "start": 320.76,
+      "end": 322.71999999999997,
+      "ts": "05:20.760 -> 05:22.720",
+      "jp": "魚はいいです",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>はいいです",
+      "zh": "鱼很好",
+      "en": "The fish is good."
+    },
+    {
+      "id": 145,
+      "start": 322.71999999999997,
+      "end": 323.46,
+      "ts": "05:22.720 -> 05:23.460",
+      "jp": "いい値段",
+      "jp_html": "いい<ruby>値段<rt>ねだん</rt></ruby>",
+      "zh": "不错的价格",
+      "en": "Good price"
+    },
+    {
+      "id": 146,
+      "start": 323.46,
+      "end": 325.38,
+      "ts": "05:23.460 -> 05:25.380",
+      "jp": "だけど他はちょっと高い",
+      "jp_html": "だけど<ruby>他は<rt>たは</rt></ruby>ちょっと<ruby>高い<rt>たかい</rt></ruby>",
+      "zh": "但是其他的东西稍微贵一点",
+      "en": "But the others are a bit expensive."
+    },
+    {
+      "id": 147,
+      "start": 325.38,
+      "end": 327.47999999999996,
+      "ts": "05:25.380 -> 05:27.480",
+      "jp": "もう1つのスーパーは",
+      "jp_html": "もう1つのスーパーは",
+      "zh": "另一个超级市场是",
+      "en": "The other supermarket is"
+    },
+    {
+      "id": 148,
+      "start": 327.47999999999996,
+      "end": 328.78,
+      "ts": "05:27.480 -> 05:28.780",
+      "jp": "まあバランスがいい",
+      "jp_html": "まあバランスがいい",
+      "zh": "嗯，平衡得很好",
+      "en": "Well, it's balanced."
+    },
+    {
+      "id": 149,
+      "start": 328.78,
+      "end": 329.86,
+      "ts": "05:28.780 -> 05:29.860",
+      "jp": "肉",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>",
+      "zh": "肉",
+      "en": "meat"
+    },
+    {
+      "id": 150,
+      "start": 329.86,
+      "end": 330.88,
+      "ts": "05:29.860 -> 05:30.880",
+      "jp": "魚",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "鱼",
+      "en": "fish"
+    },
+    {
+      "id": 151,
+      "start": 330.88,
+      "end": 331.56,
+      "ts": "05:30.880 -> 05:31.560",
+      "jp": "野菜",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>",
+      "zh": "蔬菜",
+      "en": "vegetables"
+    },
+    {
+      "id": 152,
+      "start": 331.56,
+      "end": 332.36,
+      "ts": "05:31.560 -> 05:32.360",
+      "jp": "全部が",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>が",
+      "zh": "全部是",
+      "en": "All is"
+    },
+    {
+      "id": 153,
+      "start": 332.36,
+      "end": 333.28,
+      "ts": "05:32.360 -> 05:33.280",
+      "jp": "いい",
+      "jp_html": "いい",
+      "zh": "好",
+      "en": "Good"
+    },
+    {
+      "id": 154,
+      "start": 333.28,
+      "end": 334.5,
+      "ts": "05:33.280 -> 05:34.500",
+      "jp": "質",
+      "jp_html": "<ruby>質<rt>しつ</rt></ruby>",
+      "zh": "质",
+      "en": "Quality"
+    },
+    {
+      "id": 155,
+      "start": 334.5,
+      "end": 335.97999999999996,
+      "ts": "05:34.500 -> 05:35.980",
+      "jp": "そして値段も",
+      "jp_html": "そして<ruby>値段<rt>ねだん</rt></ruby>も",
+      "zh": "而且价格也",
+      "en": "And the price is also"
+    },
+    {
+      "id": 156,
+      "start": 335.97999999999996,
+      "end": 337.34,
+      "ts": "05:35.980 -> 05:37.340",
+      "jp": "高すぎない",
+      "jp_html": "<ruby>高す<rt>たかす</rt></ruby>ぎない",
+      "zh": "不高",
+      "en": "Not too high"
+    },
+    {
+      "id": 157,
+      "start": 337.34,
+      "end": 338.7,
+      "ts": "05:37.340 -> 05:38.700",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 158,
+      "start": 341.14,
+      "end": 342.53999999999996,
+      "ts": "05:41.140 -> 05:42.540",
+      "jp": "近いスーパーです",
+      "jp_html": "<ruby>近い<rt>ちかい</rt></ruby>スーパーです",
+      "zh": "附近的超市",
+      "en": "The nearby supermarket."
+    },
+    {
+      "id": 159,
+      "start": 342.53999999999996,
+      "end": 344.74,
+      "ts": "05:42.540 -> 05:44.740",
+      "jp": "家から一番近いスーパー",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>から<ruby>一番近い<rt>いちばんちかい</rt></ruby>スーパー",
+      "zh": "离我家最近的超市",
+      "en": "The supermarket closest to my home"
+    },
+    {
+      "id": 160,
+      "start": 344.74,
+      "end": 345.47999999999996,
+      "ts": "05:44.740 -> 05:45.480",
+      "jp": "問題は",
+      "jp_html": "<ruby>問題<rt>もんだい</rt></ruby>は",
+      "zh": "问题是",
+      "en": "The problem is"
+    },
+    {
+      "id": 161,
+      "start": 345.47999999999996,
+      "end": 346.02,
+      "ts": "05:45.480 -> 05:46.020",
+      "jp": "そこは",
+      "jp_html": "そこは",
+      "zh": "那里是",
+      "en": "There is"
+    },
+    {
+      "id": 162,
+      "start": 346.02,
+      "end": 347.44,
+      "ts": "05:46.020 -> 05:47.440",
+      "jp": "ちょっと小さすぎる",
+      "jp_html": "ちょっと<ruby>小さす<rt>ちーさす</rt></ruby>ぎる",
+      "zh": "稍微小了一点",
+      "en": "A little too small."
+    },
+    {
+      "id": 163,
+      "start": 347.44,
+      "end": 349.24,
+      "ts": "05:47.440 -> 05:49.240",
+      "jp": "小さいスーパーですね",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby>スーパーですね",
+      "zh": "这是一个小超市吧？",
+      "en": "It's a small supermarket, right?"
+    },
+    {
+      "id": 164,
+      "start": 349.24,
+      "end": 350.47999999999996,
+      "ts": "05:49.240 -> 05:50.480",
+      "jp": "そこでは",
+      "jp_html": "そこでは",
+      "zh": "在那里",
+      "en": "There was"
+    },
+    {
+      "id": 165,
+      "start": 350.47999999999996,
+      "end": 351.03999999999996,
+      "ts": "05:50.480 -> 05:51.040",
+      "jp": "普通",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>",
+      "zh": "普通",
+      "en": "Ordinary"
+    },
+    {
+      "id": 166,
+      "start": 351.03999999999996,
+      "end": 352.4,
+      "ts": "05:51.040 -> 05:52.400",
+      "jp": "牛乳とか",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>とか",
+      "zh": "牛奶等",
+      "en": "Milk or milk products"
+    },
+    {
+      "id": 167,
+      "start": 352.4,
+      "end": 353.53999999999996,
+      "ts": "05:52.400 -> 05:53.540",
+      "jp": "卵とか",
+      "jp_html": "<ruby>卵<rt>たまご</rt></ruby>とか",
+      "zh": "蛋或之类的东西",
+      "en": "eggs"
+    },
+    {
+      "id": 168,
+      "start": 353.53999999999996,
+      "end": 355.36,
+      "ts": "05:53.540 -> 05:55.360",
+      "jp": "そういうのを買います",
+      "jp_html": "そういうのを<ruby>買い<rt>かい</rt></ruby>ます",
+      "zh": "我买那种东西",
+      "en": "I buy things like that."
+    },
+    {
+      "id": 169,
+      "start": 355.36,
+      "end": 356.26,
+      "ts": "05:55.360 -> 05:56.260",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 170,
+      "start": 356.26,
+      "end": 358.14,
+      "ts": "05:56.260 -> 05:58.140",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 171,
+      "start": 358.14,
+      "end": 361.68,
+      "ts": "05:58.140 -> 06:01.680",
+      "jp": "いくつのスーパーに行きますか",
+      "jp_html": "いくつのスーパーに<ruby>行き<rt>いき</rt></ruby>ますか",
+      "zh": "您要去几个超市？",
+      "en": "How many supermarkets will you go to?"
+    },
+    {
+      "id": 172,
+      "start": 361.68,
+      "end": 362.58,
+      "ts": "06:01.680 -> 06:02.580",
+      "jp": "1つだけですか",
+      "jp_html": "1つだけですか",
+      "zh": "这只是一个吗？",
+      "en": "Is it just one?"
+    },
+    {
+      "id": 173,
+      "start": 362.58,
+      "end": 363.91999999999996,
+      "ts": "06:02.580 -> 06:03.920",
+      "jp": "それとも2つですか",
+      "jp_html": "それとも2つですか",
+      "zh": "那是两个吗？",
+      "en": "Or two, instead?"
+    },
+    {
+      "id": 174,
+      "start": 363.91999999999996,
+      "end": 366.12,
+      "ts": "06:03.920 -> 06:06.120",
+      "jp": "1週間に何回行きますか",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に<ruby>何回<rt>なんかい</rt></ruby><ruby>行き<rt>いき</rt></ruby>ますか",
+      "zh": "你一周去多少次？",
+      "en": "How many times do you go per week?"
+    },
+    {
+      "id": 175,
+      "start": 366.12,
+      "end": 366.88,
+      "ts": "06:06.120 -> 06:06.880",
+      "jp": "1回ですか",
+      "jp_html": "1<ruby>回<rt>かい</rt></ruby>ですか",
+      "zh": "一次吗？",
+      "en": "Is it one time?"
+    },
+    {
+      "id": 176,
+      "start": 366.88,
+      "end": 367.59999999999997,
+      "ts": "06:06.880 -> 06:07.600",
+      "jp": "2回ですか",
+      "jp_html": "2<ruby>回<rt>かい</rt></ruby>ですか",
+      "zh": "两回吗？",
+      "en": "Twice, right?"
+    },
+    {
+      "id": 177,
+      "start": 367.6,
+      "end": 371.70000000000005,
+      "ts": "06:07.600 -> 06:11.700",
+      "jp": "僕はだいたい2回か3回",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>だいたい2<ruby>回<rt>かい</rt></ruby>か3<ruby>回<rt>かい</rt></ruby>",
+      "zh": "我大概两三次",
+      "en": "I usually go about 2 or 3 times."
+    },
+    {
+      "id": 178,
+      "start": 371.70000000000005,
+      "end": 374.52000000000004,
+      "ts": "06:11.700 -> 06:14.520",
+      "jp": "1週間に2回か3回行きます",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>か3<ruby>回行<rt>かいこう</rt></ruby>きます",
+      "zh": "每周去两三次",
+      "en": "I go 2 times or 3 times a week."
+    },
+    {
+      "id": 179,
+      "start": 374.52000000000004,
+      "end": 377.06,
+      "ts": "06:14.520 -> 06:17.060",
+      "jp": "ちょっと多いと思う",
+      "jp_html": "ちょっと<ruby>多い<rt>おおい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "觉得有点多",
+      "en": "I think it's a bit too much."
+    },
+    {
+      "id": 180,
+      "start": 377.06,
+      "end": 377.5,
+      "ts": "06:17.060 -> 06:17.500",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 181,
+      "start": 377.5,
+      "end": 378.18,
+      "ts": "06:17.500 -> 06:18.180",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 182,
+      "start": 378.18,
+      "end": 379.42,
+      "ts": "06:18.180 -> 06:19.420",
+      "jp": "新鮮な",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な",
+      "zh": "新鲜的",
+      "en": "fresh"
+    },
+    {
+      "id": 183,
+      "start": 379.42,
+      "end": 380.3,
+      "ts": "06:19.420 -> 06:20.300",
+      "jp": "魚",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "鱼",
+      "en": "fish"
+    },
+    {
+      "id": 184,
+      "start": 380.3,
+      "end": 381.38,
+      "ts": "06:20.300 -> 06:21.380",
+      "jp": "新鮮な肉",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>肉<rt>にく</rt></ruby>",
+      "zh": "新鲜的肉",
+      "en": "Fresh meat"
+    },
+    {
+      "id": 185,
+      "start": 381.38,
+      "end": 382.42,
+      "ts": "06:21.380 -> 06:22.420",
+      "jp": "新鮮な野菜",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>野菜<rt>やさい</rt></ruby>",
+      "zh": "新鲜的蔬菜",
+      "en": "Fresh vegetables"
+    },
+    {
+      "id": 186,
+      "start": 382.42,
+      "end": 384.88,
+      "ts": "06:22.420 -> 06:24.880",
+      "jp": "新鮮な食べ物が",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>食べ物<rt>たべもの</rt></ruby>が",
+      "zh": "新鲜的食物",
+      "en": "Fresh food"
+    },
+    {
+      "id": 187,
+      "start": 384.88,
+      "end": 385.92,
+      "ts": "06:24.880 -> 06:25.920",
+      "jp": "食べたいので",
+      "jp_html": "<ruby>食べた<rt>たべた</rt></ruby>いので",
+      "zh": "因为想吃",
+      "en": "I want to eat so"
+    },
+    {
+      "id": 188,
+      "start": 385.92,
+      "end": 387.64000000000004,
+      "ts": "06:25.920 -> 06:27.640",
+      "jp": "1週間に3回ぐらい",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に3<ruby>回<rt>かい</rt></ruby>ぐらい",
+      "zh": "大约每周三次",
+      "en": "About 3 times a week"
+    },
+    {
+      "id": 189,
+      "start": 387.64000000000004,
+      "end": 388.58000000000004,
+      "ts": "06:27.640 -> 06:28.580",
+      "jp": "行きます",
+      "jp_html": "<ruby>行き<rt>いき</rt></ruby>ます",
+      "zh": "走去了",
+      "en": "Let's go"
+    },
+    {
+      "id": 190,
+      "start": 388.58000000000004,
+      "end": 389.44,
+      "ts": "06:28.580 -> 06:29.440",
+      "jp": "それでは",
+      "jp_html": "それでは",
+      "zh": "那么",
+      "en": "Let's proceed."
+    },
+    {
+      "id": 191,
+      "start": 389.44,
+      "end": 390.42,
+      "ts": "06:29.440 -> 06:30.420",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    },
+    {
+      "id": 192,
+      "start": 390.42,
+      "end": 397.56,
+      "ts": "06:30.420 -> 06:37.560",
+      "jp": "1週間に qui se Vietnam",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に qui se Vietnam",
+      "zh": "1周时间去越南",
+      "en": "1 week in que Vietnam"
+    },
+    {
+      "id": 193,
+      "start": 397.56,
+      "end": 399.3,
+      "ts": "06:37.560 -> 06:39.300",
+      "jp": "の外複に置きます",
+      "jp_html": "の<ruby>外<rt>そと</rt></ruby><ruby>複<rt>ふく</rt></ruby>に<ruby>置き<rt>おき</rt></ruby>ます",
+      "zh": "放在外面",
+      "en": "Place it outside."
+    },
+    {
+      "id": 194,
+      "start": 399.3,
+      "end": 399.90000000000003,
+      "ts": "06:39.300 -> 06:39.900",
+      "jp": "ここから",
+      "jp_html": "ここから",
+      "zh": "从这里",
+      "en": "From here"
+    },
+    {
+      "id": 195,
+      "start": 399.90000000000003,
+      "end": 400.52000000000004,
+      "ts": "06:39.900 -> 06:40.520",
+      "jp": "次回は",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>は",
+      "zh": "下次是",
+      "en": "Next time"
+    },
+    {
+      "id": 196,
+      "start": 400.52000000000004,
+      "end": 401.7,
+      "ts": "06:40.520 -> 06:41.700",
+      "jp": "2 часと",
+      "jp_html": "2 часと",
+      "zh": "2个小时和",
+      "en": "2 hours and"
+    },
+    {
+      "id": 197,
+      "start": 401.7,
+      "end": 402.44,
+      "ts": "06:41.700 -> 06:42.440",
+      "jp": "地神鮮な技術",
+      "jp_html": "<ruby>地神<rt>ちじん</rt></ruby><ruby>鮮<rt>せん</rt></ruby>な<ruby>技術<rt>ぎじゅつ</rt></ruby>",
+      "zh": "地神鲜新的技术",
+      "en": "Earth God fresh technology"
+    },
+    {
+      "id": 198,
+      "start": 402.44,
+      "end": 403.08000000000004,
+      "ts": "06:42.440 -> 06:43.080",
+      "jp": "それって",
+      "jp_html": "それって",
+      "zh": "那是什么",
+      "en": "That's what"
+    }
+  ]
+}
