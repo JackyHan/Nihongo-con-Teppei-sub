@@ -3,6 +3,7 @@ const episodePanelToggleEl = document.getElementById("episode-panel-toggle");
 const pagePrevEl = document.getElementById("page-prev");
 const pageNextEl = document.getElementById("page-next");
 const pageLabelEl = document.getElementById("page-label");
+const episodeSummaryEl = document.getElementById("episode-summary");
 const episodeTitleEl = document.getElementById("episode-title");
 const sourceLinkEl = document.getElementById("source-link");
 const audioPlayerEl = document.getElementById("audio-player");
@@ -41,7 +42,7 @@ function updateEpisodePanelState() {
   const expanded = !isMobileLayout() || episodePanelExpanded;
   document.body.classList.toggle("episode-panel-open", expanded);
   episodePanelToggleEl.setAttribute("aria-expanded", String(expanded));
-  episodePanelToggleEl.textContent = expanded ? "Hide" : "Browse";
+  episodePanelToggleEl.textContent = expanded ? "Hide episodes" : "Episodes";
 }
 
 function resolveAudioUrl(url) {
@@ -65,6 +66,7 @@ function renderEpisodeList() {
   currentPage = Math.min(currentPage, totalPages - 1);
   const start = currentPage * EPISODES_PER_PAGE;
   const visibleEpisodes = episodeCatalog.slice(start, start + EPISODES_PER_PAGE);
+  const end = start + visibleEpisodes.length;
 
   for (const episode of visibleEpisodes) {
     const button = document.createElement("button");
@@ -89,7 +91,8 @@ function renderEpisodeList() {
     episodeListEl.appendChild(button);
   }
 
-  pageLabelEl.textContent = `Page ${currentPage + 1} / ${totalPages}`;
+  pageLabelEl.textContent = `${currentPage + 1} / ${totalPages}`;
+  episodeSummaryEl.textContent = `Showing ${start + 1}-${end} of ${episodeCatalog.length}`;
   pagePrevEl.disabled = currentPage === 0;
   pageNextEl.disabled = currentPage >= totalPages - 1;
 }

@@ -10,16 +10,19 @@
   <div class="app-shell">
     <aside class="episode-panel">
       <div class="episode-panel-header">
-        <div class="panel-title">Episodes</div>
+        <div class="episode-panel-heading">
+          <div class="panel-title">Episodes</div>
+          <div id="episode-summary" class="episode-summary">Showing 1-10 of 10</div>
+        </div>
         <button id="episode-panel-toggle" class="episode-panel-toggle" type="button" aria-expanded="false">
-          Browse
+          Episodes
         </button>
       </div>
       <div id="episode-list" class="episode-list"></div>
       <div class="episode-pagination">
-        <button id="page-prev" class="page-button" type="button">Previous</button>
-        <div id="page-label" class="page-label">Page 1 / 1</div>
-        <button id="page-next" class="page-button" type="button">Next</button>
+        <button id="page-prev" class="page-button page-arrow" type="button" aria-label="Previous page">‹</button>
+        <div id="page-label" class="page-label">1 / 1</div>
+        <button id="page-next" class="page-button page-arrow" type="button" aria-label="Next page">›</button>
       </div>
     </aside>
 
