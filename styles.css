@@ -185,6 +185,7 @@ h1 {
   grid-template-columns: minmax(0, 1.25fr) minmax(280px, 1fr);
   border-bottom: 1px solid #ebdfbc;
   transition: background 120ms ease;
+  scroll-margin-block: 24px;
 }
 
 .subtitle-row:last-child {
@@ -291,6 +292,7 @@ body.hide-furigana .subtitle-jp rt {
 
   .subtitle-row {
     grid-template-columns: 1fr;
+    scroll-margin-block: 16px;
   }
 
   .subtitle-trans-cell {
