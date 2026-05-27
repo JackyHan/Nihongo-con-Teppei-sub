@@ -29,6 +29,7 @@ body {
 
 .app-shell {
   height: 100vh;
+  height: 100dvh;
   display: grid;
   grid-template-columns: 280px minmax(0, 1fr);
 }
@@ -175,6 +176,8 @@ h1 {
   background: rgba(255, 253, 247, 0.95);
   box-shadow: 0 10px 30px rgba(98, 82, 32, 0.08);
   overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  scroll-padding-block: 24px;
 }
 
 .subtitle-row {
@@ -243,28 +246,47 @@ body.hide-furigana .subtitle-jp rt {
 
 @media (max-width: 900px) {
   body {
-    overflow: auto;
+    overflow: hidden;
   }
 
   .app-shell {
-    height: auto;
-    min-height: 100vh;
+    height: 100vh;
+    height: 100dvh;
+    min-height: 0;
     grid-template-columns: 1fr;
+    grid-template-rows: auto minmax(0, 1fr);
   }
 
   .episode-panel {
     border-right: none;
     border-bottom: 1px solid var(--border);
-    max-height: 240px;
+    max-height: 180px;
   }
 
   .player-panel {
-    height: auto;
+    height: 100%;
     min-height: 0;
+    overflow: hidden;
+    padding: 16px 14px calc(env(safe-area-inset-bottom, 0px) + 16px);
+  }
+
+  .player-header {
+    margin-bottom: 14px;
+    gap: 12px;
+  }
+
+  h1 {
+    font-size: 22px;
+  }
+
+  .audio-card {
+    margin-bottom: 14px;
+    padding: 14px;
   }
 
   .subtitle-list {
-    max-height: 60vh;
+    max-height: none;
+    min-height: 0;
   }
 
   .subtitle-row {
@@ -274,5 +296,10 @@ body.hide-furigana .subtitle-jp rt {
   .subtitle-trans-cell {
     border-left: none;
     border-top: 1px solid #ebdfbc;
+  }
+
+  .subtitle-jp {
+    font-size: 17px;
+    line-height: 2.1;
   }
 }

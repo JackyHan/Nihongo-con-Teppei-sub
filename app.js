@@ -13,6 +13,10 @@ let subtitleRowEls = [];
 let activeRowIndex = -1;
 let furiganaVisible = true;
 
+function isMobileLayout() {
+  return window.matchMedia("(max-width: 900px)").matches;
+}
+
 function resolveAudioUrl(url) {
   if (window.location.protocol === "https:" && url.startsWith("http://")) {
     return `https://${url.slice("http://".length)}`;
@@ -80,11 +84,21 @@ function setActiveRow(nextIndex) {
   if (activeRowIndex >= 0 && subtitleRowEls[activeRowIndex]) {
     const rowEl = subtitleRowEls[activeRowIndex];
     rowEl.classList.add("active");
-    const targetTop = rowEl.offsetTop - (subtitleListEl.clientHeight / 2) + (rowEl.clientHeight / 2);
-    subtitleListEl.scrollTo({
-      top: Math.max(0, targetTop),
-      behavior: "smooth",
-    });
+    const safeMargin = isMobileLayout() ? 16 : 32;
+    const rowTop = rowEl.offsetTop;
+    const rowBottom = rowTop + rowEl.offsetHeight;
+    const viewTop = subtitleListEl.scrollTop + safeMargin;
+    const viewBottom = subtitleListEl.scrollTop + subtitleListEl.clientHeight - safeMargin;
+
+    if (rowTop < viewTop || rowBottom > viewBottom) {
+      const targetTop = isMobileLayout()
+        ? rowTop - safeMargin
+        : rowTop - (subtitleListEl.clientHeight / 2) + (rowEl.clientHeight / 2);
+      subtitleListEl.scrollTo({
+        top: Math.max(0, targetTop),
+        behavior: "smooth",
+      });
+    }
   }
 }
 
