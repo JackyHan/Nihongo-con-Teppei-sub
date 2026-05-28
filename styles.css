@@ -85,6 +85,8 @@ body {
 .episode-list {
   display: grid;
   gap: 10px;
+  align-content: start;
+  grid-auto-rows: max-content;
   flex: 1 1 auto;
   min-height: 0;
   overflow-y: auto;
