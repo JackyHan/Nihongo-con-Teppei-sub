@@ -1,27 +1,83 @@
-# Nihongo con Teppei Player Export
+# Nihongo con Teppei Player
 
-This directory contains only the static web player files needed for a separate GitHub Pages repository.
+Fan-made web player for studying with **Nihongo con Teppei** in a more readable way.
 
-## Contents
+This site lets you:
+
+- play podcast episodes in the browser
+- read synchronized subtitles while listening
+- view **Japanese + English + Simplified Chinese** together
+- toggle **furigana** on and off
+- browse episodes with a simple study-friendly interface
+
+## What This Is
+
+This repository contains the static website used for the public player.
+
+It is designed for learners who want a lightweight way to:
+
+- listen to an episode
+- follow along with subtitles
+- review Japanese line by line
+
+The audio is loaded from the original podcast source, and the subtitle data is generated separately with a local transcription and translation pipeline.
+
+## Features
+
+- synchronized trilingual subtitles
+- furigana toggle
+- episode list with pagination
+- mobile-friendly layout
+- direct link back to each original episode page
+
+## Live Site
+
+If GitHub Pages is enabled for this repository, the player is available from the repository's Pages URL.
+
+## Local Development
+
+This is a static site, so you can run it locally with a simple HTTP server.
+
+From the parent project:
+
+```bash
+cd /Users/jacky/Documents/Japanese/realtime-transcriber
+./run_web.sh
+```
+
+Then open:
+
+```text
+http://127.0.0.1:8000
+```
+
+## Repository Structure
 
 - `index.html`
+  Main page structure
 - `styles.css`
+  Layout and visual styling
 - `app.js`
-- `.nojekyll`
+  Audio sync, episode loading, pagination, and subtitle behavior
 - `data/episodes.json`
-- `data/1519.json`
-- `.github/workflows/deploy-pages.yml`
+  Episode catalog used by the sidebar
+- `data/*.json`
+  Per-episode subtitle payloads
 
-## What to do next
+## Updating Episode Data
 
-1. Create a new GitHub repository for the web player only.
-2. Copy the contents of this directory into that repository root.
-3. Push to the `main` branch.
-4. In GitHub, enable Pages for the repository if needed.
+New episode subtitle files are generated outside this repository and then committed into `data/`.
 
-The included workflow is already prepared to deploy the static site from the repository to GitHub Pages.
+Each episode JSON contains:
 
-## Note about audio
+- episode id
+- title
+- source page URL
+- audio URL
+- timestamped subtitle entries
 
-The player currently uses the original remote podcast audio URL.
-When served over HTTPS, the web app will automatically try the HTTPS version of that audio URL to avoid mixed-content blocking.
+## Notes
+
+- This is an unofficial study tool.
+- The player interface is intentionally simple and focused on listening + reading.
+- Some subtitle or translation lines may still contain small recognition artifacts because the content is produced through an automated local pipeline.
