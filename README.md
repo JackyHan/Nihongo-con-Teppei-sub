@@ -38,11 +38,10 @@ If GitHub Pages is enabled for this repository, the player is available from the
 
 This is a static site, so you can run it locally with a simple HTTP server.
 
-From the parent project:
+From this repository:
 
 ```bash
-cd /Users/jacky/Documents/Japanese/realtime-transcriber
-./run_web.sh
+python3 -m http.server 8000
 ```
 
 Then open:
