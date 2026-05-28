@@ -1,0 +1,1378 @@
+{
+  "id": "1526",
+  "title": "#1526「運動（うんどう）について！」",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/05/Beginners-con-Teppei1526.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/05/28/1526%e3%80%8c%e9%81%8b%e5%8b%95%ef%bc%88%e3%81%86%e3%82%93%e3%81%a9%e3%81%86%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 3.5,
+      "ts": "00:00.000 -> 00:03.500",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.5,
+      "end": 9.08,
+      "ts": "00:03.500 -> 00:09.080",
+      "jp": "今日は運動について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>について",
+      "zh": "今天关于运动的话题",
+      "en": "Today, about exercise."
+    },
+    {
+      "id": 2,
+      "start": 9.08,
+      "end": 12.44,
+      "ts": "00:09.080 -> 00:12.440",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all well?"
+    },
+    {
+      "id": 3,
+      "start": 12.44,
+      "end": 14.46,
+      "ts": "00:12.440 -> 00:14.460",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "那个-Allow me to introduce myself.",
+      "en": "Um-"
+    },
+    {
+      "id": 4,
+      "start": 14.46,
+      "end": 18.0,
+      "ts": "00:14.460 -> 00:18.000",
+      "jp": "小学校とか",
+      "jp_html": "<ruby>小学校<rt>しょうがっこう</rt></ruby>とか",
+      "zh": "小学或",
+      "en": "elementary school or"
+    },
+    {
+      "id": 5,
+      "start": 18.0,
+      "end": 19.88,
+      "ts": "00:18.000 -> 00:19.880",
+      "jp": "学校ですね",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>ですね",
+      "zh": "学校呢",
+      "en": "School, right?"
+    },
+    {
+      "id": 6,
+      "start": 19.88,
+      "end": 22.84,
+      "ts": "00:19.880 -> 00:22.840",
+      "jp": "そういう子供の時の話とか",
+      "jp_html": "そういう<ruby>子供<rt>こども</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>話<rt>はなし</rt></ruby>とか",
+      "zh": "那样的孩子时候的事情等等",
+      "en": "Such stories from childhood, etc."
+    },
+    {
+      "id": 7,
+      "start": 22.84,
+      "end": 25.98,
+      "ts": "00:22.840 -> 00:25.980",
+      "jp": "そういうのをいつもしてますけど",
+      "jp_html": "そういうのをいつもしてますけど",
+      "zh": "我总是这样做",
+      "en": "I do that all the time but"
+    },
+    {
+      "id": 8,
+      "start": 25.98,
+      "end": 28.16,
+      "ts": "00:25.980 -> 00:28.160",
+      "jp": "運動ですね",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>ですね",
+      "zh": "运动呢",
+      "en": "Exercise, I think."
+    },
+    {
+      "id": 9,
+      "start": 28.16,
+      "end": 31.2,
+      "ts": "00:28.160 -> 00:31.200",
+      "jp": "今日は運動について話したいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想谈谈关于运动的话题",
+      "en": "I want to talk about exercise today."
+    },
+    {
+      "id": 10,
+      "start": 31.2,
+      "end": 32.08,
+      "ts": "00:31.200 -> 00:32.080",
+      "jp": "運動ね",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>ね",
+      "zh": "运动呢",
+      "en": "Exercise ne"
+    },
+    {
+      "id": 11,
+      "start": 32.08,
+      "end": 35.32,
+      "ts": "00:32.080 -> 00:35.320",
+      "jp": "スポーツとか",
+      "jp_html": "スポーツとか",
+      "zh": "运动或者体育",
+      "en": "sports"
+    },
+    {
+      "id": 12,
+      "start": 35.32,
+      "end": 39.46,
+      "ts": "00:35.320 -> 00:39.460",
+      "jp": "いろいろ体を動かすことですね",
+      "jp_html": "いろいろ<ruby>体<rt>からだ</rt></ruby>を<ruby>動か<rt>うごか</rt></ruby>すことですね",
+      "zh": "各种运动身体的事情吧",
+      "en": "It's about moving the body around, though."
+    },
+    {
+      "id": 13,
+      "start": 39.46,
+      "end": 45.32,
+      "ts": "00:39.460 -> 00:45.320",
+      "jp": "僕が子供の時は運動は好きじゃなかったですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は<ruby>運動<rt>うんどう</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>じゃなかったですね",
+      "zh": "我小时候不喜欢运动。",
+      "en": "When I was a child, I wasn't particularly fond of sports."
+    },
+    {
+      "id": 14,
+      "start": 45.32,
+      "end": 46.7,
+      "ts": "00:45.320 -> 00:46.700",
+      "jp": "全然好きじゃない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "一点也不想喜欢",
+      "en": "I don't like it at all."
+    },
+    {
+      "id": 15,
+      "start": 46.7,
+      "end": 50.56,
+      "ts": "00:46.700 -> 00:50.560",
+      "jp": "学校の体育の授業",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>体育<rt>たいいく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>",
+      "zh": "学校的体育课",
+      "en": "Physical education class at school"
+    },
+    {
+      "id": 16,
+      "start": 50.56,
+      "end": 54.32,
+      "ts": "00:50.560 -> 00:54.320",
+      "jp": "体育というのはスポーツですね",
+      "jp_html": "<ruby>体育<rt>たいいく</rt></ruby>というのはスポーツですね",
+      "zh": "体育就是运动吧",
+      "en": "Sports is sports, right?"
+    },
+    {
+      "id": 17,
+      "start": 54.32,
+      "end": 55.5,
+      "ts": "00:54.320 -> 00:55.500",
+      "jp": "スポーツのクラス",
+      "jp_html": "スポーツのクラス",
+      "zh": "体育课",
+      "en": "Sports class"
+    },
+    {
+      "id": 18,
+      "start": 55.5,
+      "end": 58.96,
+      "ts": "00:55.500 -> 00:58.960",
+      "jp": "体育の授業は全然好きじゃなかった",
+      "jp_html": "<ruby>体育<rt>たいいく</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃなかった",
+      "zh": "我对体育课完全不喜欢",
+      "en": "I didn't like physical education at all."
+    },
+    {
+      "id": 19,
+      "start": 58.96,
+      "end": 61.24,
+      "ts": "00:58.960 -> 01:01.240",
+      "jp": "本当に好きじゃなかった",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>好き<rt>すき</rt></ruby>じゃなかった",
+      "zh": "真的不喜欢",
+      "en": "I didn't really like it."
+    },
+    {
+      "id": 20,
+      "start": 61.24,
+      "end": 66.8,
+      "ts": "01:01.240 -> 01:06.800",
+      "jp": "僕の子供もあんまり好きじゃないらしいですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>もあんまり<ruby>好き<rt>すき</rt></ruby>じゃないらしいですね",
+      "zh": "他们似乎也不太喜欢我的孩子。",
+      "en": "They don't seem to like my children very much either."
+    },
+    {
+      "id": 21,
+      "start": 66.8,
+      "end": 69.34,
+      "ts": "01:06.800 -> 01:09.340",
+      "jp": "なぜかというと",
+      "jp_html": "なぜかというと",
+      "zh": "因为这样",
+      "en": "Because of some reason"
+    },
+    {
+      "id": 22,
+      "start": 69.34,
+      "end": 71.2,
+      "ts": "01:09.340 -> 01:11.200",
+      "jp": "面白くない",
+      "jp_html": "<ruby>面白く<rt>おもしろく</rt></ruby>ない",
+      "zh": "不好笑",
+      "en": "Not interesting"
+    },
+    {
+      "id": 23,
+      "start": 71.2,
+      "end": 74.9,
+      "ts": "01:11.200 -> 01:14.900",
+      "jp": "全然楽しくないでしょ",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>ないでしょ",
+      "zh": "一点也不好玩吧",
+      "en": "It's not at all fun, right?"
+    },
+    {
+      "id": 24,
+      "start": 74.9,
+      "end": 83.96000000000001,
+      "ts": "01:14.900 -> 01:23.960",
+      "jp": "学校では小学校では",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>では<ruby>小学校<rt>しょうがっこう</rt></ruby>では",
+      "zh": "在学校里小学里",
+      "en": "At school, in elementary school,"
+    },
+    {
+      "id": 25,
+      "start": 83.96000000000001,
+      "end": 86.66,
+      "ts": "01:23.960 -> 01:26.660",
+      "jp": "中学校小学校中学校高校か",
+      "jp_html": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby><ruby>中学校<rt>ちゅうがっこう</rt></ruby><ruby>高校<rt>こうこう</rt></ruby>か",
+      "zh": "初中小学初中高中吗",
+      "en": "Middle school elementary school middle school high school?"
+    },
+    {
+      "id": 26,
+      "start": 86.66,
+      "end": 94.2,
+      "ts": "01:26.660 -> 01:34.200",
+      "jp": "暑い時とか寒い時とかありますよね",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby><ruby>時<rt>とき</rt></ruby>とか<ruby>寒い<rt>さむい</rt></ruby><ruby>時<rt>とき</rt></ruby>とかありますよね",
+      "zh": "夏天的时候或者冬天的时候，会有的吧？",
+      "en": "There are times when it's hot and times when it's cold, right?"
+    },
+    {
+      "id": 27,
+      "start": 94.2,
+      "end": 98.66,
+      "ts": "01:34.200 -> 01:38.660",
+      "jp": "暑い時とか",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby><ruby>時<rt>とき</rt></ruby>とか",
+      "zh": "热的时候",
+      "en": "When it's hot"
+    },
+    {
+      "id": 28,
+      "start": 98.66,
+      "end": 102.04,
+      "ts": "01:38.660 -> 01:42.040",
+      "jp": "例えば夏に走るとか",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>夏<rt>なつ</rt></ruby>に<ruby>走る<rt>はしる</rt></ruby>とか",
+      "zh": "比如夏天跑步",
+      "en": "For example, running in summer."
+    },
+    {
+      "id": 29,
+      "start": 102.04,
+      "end": 104.36,
+      "ts": "01:42.040 -> 01:44.360",
+      "jp": "全然楽しくないでしょ",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>ないでしょ",
+      "zh": "一点也不好玩吧",
+      "en": "It's not at all fun, right?"
+    },
+    {
+      "id": 30,
+      "start": 104.36,
+      "end": 110.62,
+      "ts": "01:44.360 -> 01:50.620",
+      "jp": "冬に走るとか",
+      "jp_html": "<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>走る<rt>はしる</rt></ruby>とか",
+      "zh": "冬天跑起来",
+      "en": "To run in winter, right?"
+    },
+    {
+      "id": 31,
+      "start": 110.62,
+      "end": 112.80000000000001,
+      "ts": "01:50.620 -> 01:52.800",
+      "jp": "全然楽しくないですよね",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>ないですよね",
+      "zh": "完全不有趣是吧",
+      "en": "Isn't it completely not fun, right?"
+    },
+    {
+      "id": 32,
+      "start": 112.8,
+      "end": 115.03999999999999,
+      "ts": "01:52.800 -> 01:55.040",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 33,
+      "start": 115.03999999999999,
+      "end": 116.74,
+      "ts": "01:55.040 -> 01:56.740",
+      "jp": "なんかこう",
+      "jp_html": "なんかこう",
+      "zh": "不知怎么的",
+      "en": "Well, kind of like this"
+    },
+    {
+      "id": 34,
+      "start": 116.74,
+      "end": 119.46,
+      "ts": "01:56.740 -> 01:59.460",
+      "jp": "例えば春とか秋のね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>春<rt>はる</rt></ruby>とか<ruby>秋<rt>あき</rt></ruby>のね",
+      "zh": "比如春天或者秋天的",
+      "en": "For example, in spring or autumn."
+    },
+    {
+      "id": 35,
+      "start": 119.46,
+      "end": 120.8,
+      "ts": "01:59.460 -> 02:00.800",
+      "jp": "とてもいい日に",
+      "jp_html": "とてもいい<ruby>日<rt>にち</rt></ruby>に",
+      "zh": "非常好的一天",
+      "en": "On a very good day"
+    },
+    {
+      "id": 36,
+      "start": 120.8,
+      "end": 122.92,
+      "ts": "02:00.800 -> 02:02.920",
+      "jp": "ちょっと運動するのはいいですよね",
+      "jp_html": "ちょっと<ruby>運動<rt>うんどう</rt></ruby>するのはいいですよね",
+      "zh": "稍微运动一下是不错的吧",
+      "en": "A little exercise is good, isn't it?"
+    },
+    {
+      "id": 37,
+      "start": 122.92,
+      "end": 125.75999999999999,
+      "ts": "02:02.920 -> 02:05.760",
+      "jp": "僕も今でも好きですよ",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>今<rt>いま</rt></ruby>でも<ruby>好き<rt>すき</rt></ruby>ですよ",
+      "zh": "我现在仍然喜欢呢",
+      "en": "I still like it/such things now too."
+    },
+    {
+      "id": 38,
+      "start": 125.75999999999999,
+      "end": 127.92,
+      "ts": "02:05.760 -> 02:07.920",
+      "jp": "春の天気がいい日に",
+      "jp_html": "<ruby>春<rt>はる</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>がいい<ruby>日<rt>にち</rt></ruby>に",
+      "zh": "在一个春天的好天气里",
+      "en": "On a nice spring day"
+    },
+    {
+      "id": 39,
+      "start": 127.92,
+      "end": 129.74,
+      "ts": "02:07.920 -> 02:09.740",
+      "jp": "子供と一緒に",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>",
+      "zh": "和孩子一起",
+      "en": "With children"
+    },
+    {
+      "id": 40,
+      "start": 129.74,
+      "end": 132.24,
+      "ts": "02:09.740 -> 02:12.240",
+      "jp": "ちょっと公園に行って走るとかね",
+      "jp_html": "ちょっと<ruby>公園<rt>こうえん</rt></ruby>に<ruby>行って<rt>いって</rt></ruby><ruby>走る<rt>はしる</rt></ruby>とかね",
+      "zh": "去公园跑一圈怎么样？",
+      "en": "I went to the park and ran for a while."
+    },
+    {
+      "id": 41,
+      "start": 132.24,
+      "end": 133.54,
+      "ts": "02:12.240 -> 02:13.540",
+      "jp": "楽しいですよね",
+      "jp_html": "<ruby>楽しい<rt>たのしい</rt></ruby>ですよね",
+      "zh": "不是很有趣吧",
+      "en": "Isn't it fun?"
+    },
+    {
+      "id": 42,
+      "start": 133.54,
+      "end": 135.68,
+      "ts": "02:13.540 -> 02:15.680",
+      "jp": "走るのは好きじゃないけど",
+      "jp_html": "<ruby>走る<rt>はしる</rt></ruby>のは<ruby>好き<rt>すき</rt></ruby>じゃないけど",
+      "zh": "不喜欢走路",
+      "en": "I don't really like walking."
+    },
+    {
+      "id": 43,
+      "start": 135.68,
+      "end": 136.74,
+      "ts": "02:15.680 -> 02:16.740",
+      "jp": "歩くとかね",
+      "jp_html": "<ruby>歩く<rt>あるく</rt></ruby>とかね",
+      "zh": "走路呢",
+      "en": "Walking I guess"
+    },
+    {
+      "id": 44,
+      "start": 136.74,
+      "end": 138.24,
+      "ts": "02:16.740 -> 02:18.240",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 45,
+      "start": 138.24,
+      "end": 140.86,
+      "ts": "02:18.240 -> 02:20.860",
+      "jp": "暑い時とか寒い時とか",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby><ruby>時<rt>とき</rt></ruby>とか<ruby>寒い<rt>さむい</rt></ruby><ruby>時<rt>とき</rt></ruby>とか",
+      "zh": "热的时候或者冷的时候",
+      "en": "When it's hot or when it's cold"
+    },
+    {
+      "id": 46,
+      "start": 140.86,
+      "end": 141.66000000000003,
+      "ts": "02:20.860 -> 02:21.660",
+      "jp": "嫌ですよね",
+      "jp_html": "<ruby>嫌で<rt>いやで</rt></ruby>すよね",
+      "zh": "觉得烦吧",
+      "en": "Don't you hate it?"
+    },
+    {
+      "id": 47,
+      "start": 141.66000000000003,
+      "end": 144.3,
+      "ts": "02:21.660 -> 02:24.300",
+      "jp": "そしてあの",
+      "jp_html": "そしてあの",
+      "zh": "然后那个",
+      "en": "And then that"
+    },
+    {
+      "id": 48,
+      "start": 144.3,
+      "end": 146.12,
+      "ts": "02:24.300 -> 02:26.120",
+      "jp": "まあ例えばサッカーとか",
+      "jp_html": "まあ<ruby>例えば<rt>たとえば</rt></ruby>サッカーとか",
+      "zh": "比如足球之类的",
+      "en": "Well, for example, soccer or football."
+    },
+    {
+      "id": 49,
+      "start": 146.12,
+      "end": 147.04000000000002,
+      "ts": "02:26.120 -> 02:27.040",
+      "jp": "野球とか",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>とか",
+      "zh": "棒球或者垒球",
+      "en": "Baseball or something like that"
+    },
+    {
+      "id": 50,
+      "start": 147.04000000000002,
+      "end": 149.52,
+      "ts": "02:27.040 -> 02:29.520",
+      "jp": "全然楽しくないですよね",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>ないですよね",
+      "zh": "完全不有趣是吧？",
+      "en": "Isn't it completely not fun, right?"
+    },
+    {
+      "id": 51,
+      "start": 149.52,
+      "end": 153.42000000000002,
+      "ts": "02:29.520 -> 02:33.420",
+      "jp": "もし上手かったら楽しいですよね",
+      "jp_html": "もし<ruby>上手か<rt>うまか</rt></ruby>ったら<ruby>楽しい<rt>たのしい</rt></ruby>ですよね",
+      "zh": "如果做得好的话，一定很有趣吧？",
+      "en": "If it went well, it would be fun, right?"
+    },
+    {
+      "id": 52,
+      "start": 153.42000000000002,
+      "end": 154.74,
+      "ts": "02:33.420 -> 02:34.740",
+      "jp": "上手かったらね",
+      "jp_html": "<ruby>上手か<rt>うまか</rt></ruby>ったらね",
+      "zh": "如果上手了的话",
+      "en": "If it goes well, you know?"
+    },
+    {
+      "id": 53,
+      "start": 154.74,
+      "end": 157.44000000000003,
+      "ts": "02:34.740 -> 02:37.440",
+      "jp": "僕は上手くなかったから",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>上手く<rt>うまく</rt></ruby>なかったから",
+      "zh": "因为我不够熟练",
+      "en": "I wasn't good at it."
+    },
+    {
+      "id": 54,
+      "start": 157.44000000000003,
+      "end": 158.32000000000002,
+      "ts": "02:37.440 -> 02:38.320",
+      "jp": "まあ今でも",
+      "jp_html": "まあ<ruby>今<rt>いま</rt></ruby>でも",
+      "zh": "反正现在还是这样",
+      "en": "Well, even now"
+    },
+    {
+      "id": 55,
+      "start": 158.32000000000002,
+      "end": 159.56,
+      "ts": "02:38.320 -> 02:39.560",
+      "jp": "上手くないんで",
+      "jp_html": "<ruby>上手く<rt>うまく</rt></ruby>ないんで",
+      "zh": "不太行",
+      "en": "It's not going well."
+    },
+    {
+      "id": 56,
+      "start": 159.56,
+      "end": 161.58,
+      "ts": "02:39.560 -> 02:41.580",
+      "jp": "楽しくないですよ",
+      "jp_html": "<ruby>楽しく<rt>たのしく</rt></ruby>ないですよ",
+      "zh": "这不好玩",
+      "en": "It's not fun."
+    },
+    {
+      "id": 57,
+      "start": 161.58,
+      "end": 164.28000000000003,
+      "ts": "02:41.580 -> 02:44.280",
+      "jp": "多分サッカーが得意な子供は",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>サッカーが<ruby>得意<rt>とくい</rt></ruby>な<ruby>子供<rt>こども</rt></ruby>は",
+      "zh": "大概喜欢足球的孩子是",
+      "en": "Probably the children who are good at soccer are"
+    },
+    {
+      "id": 58,
+      "start": 164.28000000000003,
+      "end": 165.58,
+      "ts": "02:44.280 -> 02:45.580",
+      "jp": "サッカーが楽しいでしょう",
+      "jp_html": "サッカーが<ruby>楽しい<rt>たのしい</rt></ruby>でしょう",
+      "zh": "足球应该是有趣的吧",
+      "en": "Soccer should be fun."
+    },
+    {
+      "id": 59,
+      "start": 165.58,
+      "end": 168.18,
+      "ts": "02:45.580 -> 02:48.180",
+      "jp": "野球が得意な子供は",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>な<ruby>子供<rt>こども</rt></ruby>は",
+      "zh": "擅长打棒球的孩子",
+      "en": "The children who are good at baseball"
+    },
+    {
+      "id": 60,
+      "start": 168.18,
+      "end": 169.22000000000003,
+      "ts": "02:48.180 -> 02:49.220",
+      "jp": "野球が楽しいでしょう",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>が<ruby>楽しい<rt>たのしい</rt></ruby>でしょう",
+      "zh": "打棒球一定很有趣吧",
+      "en": "Baseball must be fun."
+    },
+    {
+      "id": 61,
+      "start": 169.22000000000003,
+      "end": 170.66000000000003,
+      "ts": "02:49.220 -> 02:50.660",
+      "jp": "でも",
+      "jp_html": "でも",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 62,
+      "start": 170.66,
+      "end": 174.22,
+      "ts": "02:50.660 -> 02:54.220",
+      "jp": "多分ほとんどの子供は",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ほとんどの<ruby>子供<rt>こども</rt></ruby>は",
+      "zh": "大概大多数孩子是",
+      "en": "Probably most children are"
+    },
+    {
+      "id": 63,
+      "start": 174.22,
+      "end": 176.74,
+      "ts": "02:54.220 -> 02:56.740",
+      "jp": "サッカーが得意じゃないでしょう",
+      "jp_html": "サッカーが<ruby>得意<rt>とくい</rt></ruby>じゃないでしょう",
+      "zh": "你不太擅长足球吧",
+      "en": "You're not good at soccer, right?"
+    },
+    {
+      "id": 64,
+      "start": 176.74,
+      "end": 178.18,
+      "ts": "02:56.740 -> 02:58.180",
+      "jp": "野球が得意じゃない",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>じゃない",
+      "zh": "我不擅长打棒球",
+      "en": "I'm not good at baseball."
+    },
+    {
+      "id": 65,
+      "start": 178.18,
+      "end": 179.88,
+      "ts": "02:58.180 -> 02:59.880",
+      "jp": "バスケットボール得意じゃない",
+      "jp_html": "バスケットボール<ruby>得意<rt>とくい</rt></ruby>じゃない",
+      "zh": "篮球不太在行",
+      "en": "I'm not good at basketball"
+    },
+    {
+      "id": 66,
+      "start": 179.88,
+      "end": 181.32,
+      "ts": "02:59.880 -> 03:01.320",
+      "jp": "バレーボール得意じゃない",
+      "jp_html": "バレーボール<ruby>得意<rt>とくい</rt></ruby>じゃない",
+      "zh": "我不擅长排球",
+      "en": "I'm not good at volleyball."
+    },
+    {
+      "id": 67,
+      "start": 181.32,
+      "end": 185.54,
+      "ts": "03:01.320 -> 03:05.540",
+      "jp": "得意じゃないから楽しくないですよね",
+      "jp_html": "<ruby>得意<rt>とくい</rt></ruby>じゃないから<ruby>楽しく<rt>たのしく</rt></ruby>ないですよね",
+      "zh": "不高兴所以就不开心吧",
+      "en": "I'm not happy, so it's not fun, right?"
+    },
+    {
+      "id": 68,
+      "start": 185.54,
+      "end": 188.8,
+      "ts": "03:05.540 -> 03:08.800",
+      "jp": "運動は全部得意じゃないからね",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>得意<rt>とくい</rt></ruby>じゃないからね",
+      "zh": "不是所有的运动都擅长哦",
+      "en": "Not everything is my forte in terms of sports."
+    },
+    {
+      "id": 69,
+      "start": 188.8,
+      "end": 190.3,
+      "ts": "03:08.800 -> 03:10.300",
+      "jp": "僕は",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>",
+      "zh": "我",
+      "en": "I am"
+    },
+    {
+      "id": 70,
+      "start": 190.3,
+      "end": 193.0,
+      "ts": "03:10.300 -> 03:13.000",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 71,
+      "start": 193.0,
+      "end": 195.78,
+      "ts": "03:13.000 -> 03:15.780",
+      "jp": "まあまあまた",
+      "jp_html": "まあまあまた",
+      "zh": "嗯嗯，再一会儿吧",
+      "en": "Well well again"
+    },
+    {
+      "id": 72,
+      "start": 195.78,
+      "end": 199.74,
+      "ts": "03:15.780 -> 03:19.740",
+      "jp": "体育の先生が問題",
+      "jp_html": "<ruby>体育<rt>たいいく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>が<ruby>問題<rt>もんだい</rt></ruby>",
+      "zh": "体育的老师遇到了问题",
+      "en": "The sports teacher is the problem."
+    },
+    {
+      "id": 73,
+      "start": 199.74,
+      "end": 202.16,
+      "ts": "03:19.740 -> 03:22.160",
+      "jp": "体育の先生",
+      "jp_html": "<ruby>体育<rt>たいいく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>",
+      "zh": "体育老师",
+      "en": "Physical education teacher"
+    },
+    {
+      "id": 74,
+      "start": 202.16,
+      "end": 204.46,
+      "ts": "03:22.160 -> 03:24.460",
+      "jp": "体育の先生も",
+      "jp_html": "<ruby>体育<rt>たいいく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>も",
+      "zh": "体育的老师也",
+      "en": "The sports teacher also"
+    },
+    {
+      "id": 75,
+      "start": 204.46,
+      "end": 206.5,
+      "ts": "03:24.460 -> 03:26.500",
+      "jp": "体育が得意なんですよね",
+      "jp_html": "<ruby>体育<rt>たいいく</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>なんですよね",
+      "zh": "体育很好吧",
+      "en": "You're good at sports, right?"
+    },
+    {
+      "id": 76,
+      "start": 206.5,
+      "end": 208.7,
+      "ts": "03:26.500 -> 03:28.700",
+      "jp": "運動が得意なんです",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>なんです",
+      "zh": "运动很在行",
+      "en": "I am good at sports."
+    },
+    {
+      "id": 77,
+      "start": 208.7,
+      "end": 209.84,
+      "ts": "03:28.700 -> 03:29.840",
+      "jp": "先生が",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>が",
+      "zh": "先生说",
+      "en": "The teacher who"
+    },
+    {
+      "id": 78,
+      "start": 209.84,
+      "end": 212.3,
+      "ts": "03:29.840 -> 03:32.300",
+      "jp": "先生も",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>も",
+      "zh": "先生也",
+      "en": "The teacher also"
+    },
+    {
+      "id": 79,
+      "start": 212.3,
+      "end": 214.54,
+      "ts": "03:32.300 -> 03:34.540",
+      "jp": "運動が得意だから",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>だから",
+      "zh": "因为运动很在行",
+      "en": "I am good at sports."
+    },
+    {
+      "id": 80,
+      "start": 214.54,
+      "end": 216.86,
+      "ts": "03:34.540 -> 03:36.860",
+      "jp": "運動が得意じゃない",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>じゃない",
+      "zh": "运动不太擅长",
+      "en": "I'm not good at sports."
+    },
+    {
+      "id": 81,
+      "start": 216.86,
+      "end": 218.6,
+      "ts": "03:36.860 -> 03:38.600",
+      "jp": "子供の気持ちが",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>気持ち<rt>きもち</rt></ruby>が",
+      "zh": "孩子的感受",
+      "en": "The feeling of a child"
+    },
+    {
+      "id": 82,
+      "start": 218.6,
+      "end": 219.78,
+      "ts": "03:38.600 -> 03:39.780",
+      "jp": "わからないんですよね",
+      "jp_html": "わからないんですよね",
+      "zh": "确实不明白呢",
+      "en": "I don't understand, you see."
+    },
+    {
+      "id": 83,
+      "start": 219.78,
+      "end": 222.84,
+      "ts": "03:39.780 -> 03:42.840",
+      "jp": "だから全然楽しくなかった",
+      "jp_html": "だから<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>なかった",
+      "zh": "所以根本就没有乐趣",
+      "en": "So it was not at all fun."
+    },
+    {
+      "id": 84,
+      "start": 222.84,
+      "end": 225.16,
+      "ts": "03:42.840 -> 03:45.160",
+      "jp": "全然楽しくなかった",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>なかった",
+      "zh": "一点也没觉得有趣",
+      "en": "It was not at all fun."
+    },
+    {
+      "id": 85,
+      "start": 225.16,
+      "end": 228.88,
+      "ts": "03:45.160 -> 03:48.880",
+      "jp": "全然楽しくなかった",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>なかった",
+      "zh": "一点也没觉得有趣",
+      "en": "It was not at all fun."
+    },
+    {
+      "id": 86,
+      "start": 228.88,
+      "end": 234.35999999999999,
+      "ts": "03:48.880 -> 03:54.360",
+      "jp": "まあしょうがないですよね",
+      "jp_html": "まあしょうがないですよね",
+      "zh": "没办法吧？",
+      "en": "Well, there's no help for it, I suppose."
+    },
+    {
+      "id": 87,
+      "start": 234.35999999999999,
+      "end": 235.72,
+      "ts": "03:54.360 -> 03:55.720",
+      "jp": "好きじゃないからね",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>じゃないからね",
+      "zh": "因为不喜欢呢",
+      "en": "I don't like it, you know."
+    },
+    {
+      "id": 88,
+      "start": 235.72,
+      "end": 238.06,
+      "ts": "03:55.720 -> 03:58.060",
+      "jp": "今は",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>は",
+      "zh": "现在",
+      "en": "Now"
+    },
+    {
+      "id": 89,
+      "start": 238.06,
+      "end": 240.18,
+      "ts": "03:58.060 -> 04:00.180",
+      "jp": "ジムに行って",
+      "jp_html": "ジムに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "去健身房",
+      "en": "Go to the gym."
+    },
+    {
+      "id": 90,
+      "start": 240.18,
+      "end": 241.28,
+      "ts": "04:00.180 -> 04:01.280",
+      "jp": "少し",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>",
+      "zh": "稍微",
+      "en": "a little"
+    },
+    {
+      "id": 91,
+      "start": 241.28,
+      "end": 243.51999999999998,
+      "ts": "04:01.280 -> 04:03.520",
+      "jp": "運動するのは",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>するのは",
+      "zh": "运动的是",
+      "en": "To move is"
+    },
+    {
+      "id": 92,
+      "start": 243.51999999999998,
+      "end": 245.29999999999998,
+      "ts": "04:03.520 -> 04:05.300",
+      "jp": "嫌いじゃないです",
+      "jp_html": "<ruby>嫌い<rt>きらい</rt></ruby>じゃないです",
+      "zh": "我不讨厌",
+      "en": "I don't hate it."
+    },
+    {
+      "id": 93,
+      "start": 245.29999999999998,
+      "end": 247.68,
+      "ts": "04:05.300 -> 04:07.680",
+      "jp": "でも好きじゃない",
+      "jp_html": "でも<ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "但是不喜欢",
+      "en": "But I don't like it."
+    },
+    {
+      "id": 94,
+      "start": 247.68,
+      "end": 249.74,
+      "ts": "04:07.680 -> 04:09.740",
+      "jp": "嫌いじゃないです",
+      "jp_html": "<ruby>嫌い<rt>きらい</rt></ruby>じゃないです",
+      "zh": "我不讨厌",
+      "en": "I don't hate it."
+    },
+    {
+      "id": 95,
+      "start": 249.74,
+      "end": 251.14000000000001,
+      "ts": "04:09.740 -> 04:11.140",
+      "jp": "でも好きじゃない",
+      "jp_html": "でも<ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "但是不喜欢",
+      "en": "But I don't like it."
+    },
+    {
+      "id": 96,
+      "start": 251.14000000000001,
+      "end": 255.04000000000002,
+      "ts": "04:11.140 -> 04:15.040",
+      "jp": "でもそれは自由だからね",
+      "jp_html": "でもそれは<ruby>自由<rt>じゆう</rt></ruby>だからね",
+      "zh": "但这那是自由啊",
+      "en": "But that's free, you know."
+    },
+    {
+      "id": 97,
+      "start": 255.04000000000002,
+      "end": 256.0,
+      "ts": "04:15.040 -> 04:16.000",
+      "jp": "僕が今",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>今<rt>いま</rt></ruby>",
+      "zh": "我现在",
+      "en": "I am now"
+    },
+    {
+      "id": 98,
+      "start": 256.0,
+      "end": 257.68,
+      "ts": "04:16.000 -> 04:17.680",
+      "jp": "ジムに行く",
+      "jp_html": "ジムに<ruby>行く<rt>いく</rt></ruby>",
+      "zh": "去健身房",
+      "en": "Go to the gym"
+    },
+    {
+      "id": 99,
+      "start": 257.68,
+      "end": 259.36,
+      "ts": "04:17.680 -> 04:19.360",
+      "jp": "これは自由ですね",
+      "jp_html": "これは<ruby>自由<rt>じゆう</rt></ruby>ですね",
+      "zh": "这是自由呢",
+      "en": "This is free, right?"
+    },
+    {
+      "id": 100,
+      "start": 259.36,
+      "end": 260.96000000000004,
+      "ts": "04:19.360 -> 04:20.960",
+      "jp": "自分で決めます",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>決め<rt>きめ</rt></ruby>ます",
+      "zh": "自己决定",
+      "en": "I decide it myself"
+    },
+    {
+      "id": 101,
+      "start": 260.96000000000004,
+      "end": 263.38,
+      "ts": "04:20.960 -> 04:23.380",
+      "jp": "よし今日はジムに行こう",
+      "jp_html": "よし<ruby>今日は<rt>こんにちは</rt></ruby>ジムに<ruby>行こ<rt>いこ</rt></ruby>う",
+      "zh": "好了今天去健身房吧",
+      "en": "Let's go to the gym today."
+    },
+    {
+      "id": 102,
+      "start": 263.38,
+      "end": 265.14,
+      "ts": "04:23.380 -> 04:25.140",
+      "jp": "そして自分で行きます",
+      "jp_html": "そして<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行き<rt>いき</rt></ruby>ます",
+      "zh": "然后我自己去",
+      "en": "And I will go by myself."
+    },
+    {
+      "id": 103,
+      "start": 265.14,
+      "end": 266.88,
+      "ts": "04:25.140 -> 04:26.880",
+      "jp": "だから大丈夫",
+      "jp_html": "だから<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "所以没问题",
+      "en": "So it's okay"
+    },
+    {
+      "id": 104,
+      "start": 266.88,
+      "end": 269.82,
+      "ts": "04:26.880 -> 04:29.820",
+      "jp": "でも学校の授業は",
+      "jp_html": "でも<ruby>学校<rt>がっこう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は",
+      "zh": "但是学校的课程是",
+      "en": "But the school lessons are"
+    },
+    {
+      "id": 105,
+      "start": 269.82,
+      "end": 271.98,
+      "ts": "04:29.820 -> 04:31.980",
+      "jp": "決められないですよね",
+      "jp_html": "<ruby>決め<rt>きめ</rt></ruby>られないですよね",
+      "zh": "没办法吧？",
+      "en": "Can't decide, right?"
+    },
+    {
+      "id": 106,
+      "start": 271.98,
+      "end": 273.74,
+      "ts": "04:31.980 -> 04:33.740",
+      "jp": "先生が決めます",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>ます",
+      "zh": "先生决定",
+      "en": "The teacher decides."
+    },
+    {
+      "id": 107,
+      "start": 273.74,
+      "end": 275.36,
+      "ts": "04:33.740 -> 04:35.360",
+      "jp": "学校が決めます",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>が<ruby>決め<rt>きめ</rt></ruby>ます",
+      "zh": "学校决定",
+      "en": "The school decides."
+    },
+    {
+      "id": 108,
+      "start": 275.36,
+      "end": 277.72,
+      "ts": "04:35.360 -> 04:37.720",
+      "jp": "じゃあ今日は水泳です",
+      "jp_html": "じゃあ<ruby>今日は<rt>こんにちは</rt></ruby><ruby>水泳<rt>すいえい</rt></ruby>です",
+      "zh": "那么今天是游泳课",
+      "en": "So today we have swimming."
+    },
+    {
+      "id": 109,
+      "start": 277.72,
+      "end": 278.68,
+      "ts": "04:37.720 -> 04:38.680",
+      "jp": "スイミング",
+      "jp_html": "スイミング",
+      "zh": "游泳",
+      "en": "Swimming"
+    },
+    {
+      "id": 110,
+      "start": 278.68,
+      "end": 280.34000000000003,
+      "ts": "04:38.680 -> 04:40.340",
+      "jp": "今日は水泳です",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>水泳<rt>すいえい</rt></ruby>です",
+      "zh": "今天是游泳课",
+      "en": "Today is swimming."
+    },
+    {
+      "id": 111,
+      "start": 280.34000000000003,
+      "end": 282.72,
+      "ts": "04:40.340 -> 04:42.720",
+      "jp": "水に入ってください",
+      "jp_html": "<ruby>水<rt>みず</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>てください",
+      "zh": "请进水里",
+      "en": "Please enter the water."
+    },
+    {
+      "id": 112,
+      "start": 282.72,
+      "end": 284.48,
+      "ts": "04:42.720 -> 04:44.480",
+      "jp": "プールに入ってください",
+      "jp_html": "プールに<ruby>入っ<rt>いっっ</rt></ruby>てください",
+      "zh": "请进池子里来",
+      "en": "Please enter the pool."
+    },
+    {
+      "id": 113,
+      "start": 284.48,
+      "end": 286.0,
+      "ts": "04:44.480 -> 04:46.000",
+      "jp": "先生",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>",
+      "zh": "先生",
+      "en": "teacher"
+    },
+    {
+      "id": 114,
+      "start": 286.0,
+      "end": 288.22,
+      "ts": "04:46.000 -> 04:48.220",
+      "jp": "今日寒いですけど",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby><ruby>寒い<rt>さむい</rt></ruby>ですけど",
+      "zh": "今天好冷啊",
+      "en": "It's cold today but"
+    },
+    {
+      "id": 115,
+      "start": 288.22,
+      "end": 290.82,
+      "ts": "04:48.220 -> 04:50.820",
+      "jp": "関係ない",
+      "jp_html": "<ruby>関係<rt>かんけい</rt></ruby>ない",
+      "zh": "没关系",
+      "en": "It's irrelevant."
+    },
+    {
+      "id": 116,
+      "start": 290.82,
+      "end": 292.46000000000004,
+      "ts": "04:50.820 -> 04:52.460",
+      "jp": "プールに入れ",
+      "jp_html": "プールに<ruby>入れ<rt>いれ</rt></ruby>",
+      "zh": "把水加到游泳池里",
+      "en": "Put in the pool"
+    },
+    {
+      "id": 117,
+      "start": 292.46000000000004,
+      "end": 294.3,
+      "ts": "04:52.460 -> 04:54.300",
+      "jp": "すごい嫌です",
+      "jp_html": "すごい<ruby>嫌で<rt>いやで</rt></ruby>す",
+      "zh": "真棒，我很讨厌这个。",
+      "en": "It's really terrible."
+    },
+    {
+      "id": 118,
+      "start": 294.3,
+      "end": 296.34000000000003,
+      "ts": "04:54.300 -> 04:56.340",
+      "jp": "寒いのに",
+      "jp_html": "<ruby>寒い<rt>さむい</rt></ruby>のに",
+      "zh": "冷-UA-然",
+      "en": "It's cold, but"
+    },
+    {
+      "id": 119,
+      "start": 296.34000000000003,
+      "end": 300.06,
+      "ts": "04:56.340 -> 05:00.060",
+      "jp": "寒い日に水に入るなんて",
+      "jp_html": "<ruby>寒い<rt>さむい</rt></ruby><ruby>日<rt>にち</rt></ruby>に<ruby>水<rt>みず</rt></ruby>に<ruby>入る<rt>いる</rt></ruby>なんて",
+      "zh": "在冷的日子里跳进水中",
+      "en": "To jump into water on a cold day."
+    },
+    {
+      "id": 120,
+      "start": 300.06,
+      "end": 301.86,
+      "ts": "05:00.060 -> 05:01.860",
+      "jp": "楽しくないですよね",
+      "jp_html": "<ruby>楽しく<rt>たのしく</rt></ruby>ないですよね",
+      "zh": "不有趣吧？",
+      "en": "Isn't it not fun?"
+    },
+    {
+      "id": 121,
+      "start": 301.86,
+      "end": 304.3,
+      "ts": "05:01.860 -> 05:04.300",
+      "jp": "全然楽しくない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>楽しく<rt>たのしく</rt></ruby>ない",
+      "zh": "完全不有趣",
+      "en": "Not at all fun"
+    },
+    {
+      "id": 122,
+      "start": 304.3,
+      "end": 306.24,
+      "ts": "05:04.300 -> 05:06.240",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嗯嗯",
+      "en": "Well, okay."
+    },
+    {
+      "id": 123,
+      "start": 306.24,
+      "end": 308.08,
+      "ts": "05:06.240 -> 05:08.080",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 124,
+      "start": 308.08,
+      "end": 309.34,
+      "ts": "05:08.080 -> 05:09.340",
+      "jp": "運動が好きですか",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "你喜欢运动吗？",
+      "en": "Do you like sports?"
+    },
+    {
+      "id": 125,
+      "start": 309.34,
+      "end": 311.26,
+      "ts": "05:09.340 -> 05:11.260",
+      "jp": "僕は全然好きじゃないです",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃないです",
+      "zh": "我一点都不喜欢",
+      "en": "I don't like it at all."
+    },
+    {
+      "id": 126,
+      "start": 311.26,
+      "end": 312.68,
+      "ts": "05:11.260 -> 05:12.680",
+      "jp": "すごい",
+      "jp_html": "すごい",
+      "zh": "厉害",
+      "en": "Amazing"
+    },
+    {
+      "id": 127,
+      "start": 312.68,
+      "end": 314.2,
+      "ts": "05:12.680 -> 05:14.200",
+      "jp": "すごく好きじゃない",
+      "jp_html": "すごく<ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "不喜欢",
+      "en": "I don't like it very much."
+    },
+    {
+      "id": 128,
+      "start": 314.2,
+      "end": 317.2,
+      "ts": "05:14.200 -> 05:17.200",
+      "jp": "でも散歩は好きですよ",
+      "jp_html": "でも<ruby>散歩<rt>さんぽ</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>ですよ",
+      "zh": "但是散步我还是喜欢的",
+      "en": "But I do like taking walks."
+    },
+    {
+      "id": 129,
+      "start": 317.2,
+      "end": 317.68,
+      "ts": "05:17.200 -> 05:17.680",
+      "jp": "散歩",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>",
+      "zh": "散步",
+      "en": "walk"
+    },
+    {
+      "id": 130,
+      "start": 317.68,
+      "end": 319.7,
+      "ts": "05:17.680 -> 05:19.700",
+      "jp": "散歩は楽しい",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>は<ruby>楽しい<rt>たのしい</rt></ruby>",
+      "zh": "散步很愉快",
+      "en": "Walking is fun."
+    },
+    {
+      "id": 131,
+      "start": 319.7,
+      "end": 321.0,
+      "ts": "05:19.700 -> 05:21.000",
+      "jp": "散歩は大好き",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>は<ruby>大好き<rt>だいすき</rt></ruby>",
+      "zh": "散步我很喜欢",
+      "en": "I love taking walks."
+    },
+    {
+      "id": 132,
+      "start": 321.0,
+      "end": 323.34000000000003,
+      "ts": "05:21.000 -> 05:23.340",
+      "jp": "ポッドキャストを聞きながら",
+      "jp_html": "ポッドキャストを<ruby>聞き<rt>きき</rt></ruby>ながら",
+      "zh": "听着播客",
+      "en": "Listening to a podcast while"
+    },
+    {
+      "id": 133,
+      "start": 323.34000000000003,
+      "end": 325.56,
+      "ts": "05:23.340 -> 05:25.560",
+      "jp": "外を歩くのは楽しいです",
+      "jp_html": "<ruby>外<rt>そと</rt></ruby>を<ruby>歩く<rt>あるく</rt></ruby>のは<ruby>楽しい<rt>たのしい</rt></ruby>です",
+      "zh": "在外散步很愉快",
+      "en": "Walking outside is enjoyable."
+    },
+    {
+      "id": 134,
+      "start": 325.56,
+      "end": 328.46,
+      "ts": "05:25.560 -> 05:28.460",
+      "jp": "皆さんもポッドキャストを聞きながら",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>もポッドキャストを<ruby>聞き<rt>きき</rt></ruby>ながら",
+      "zh": "大家也可以在听播客的同时",
+      "en": "Everyone can also listen to podcasts while"
+    },
+    {
+      "id": 135,
+      "start": 328.46,
+      "end": 329.47999999999996,
+      "ts": "05:28.460 -> 05:29.480",
+      "jp": "散歩してください",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>してください",
+      "zh": "散步请'user'改为\"出去\"更符合句子意思：出去散步请",
+      "en": "Take a walk."
+    },
+    {
+      "id": 136,
+      "start": 329.47999999999996,
+      "end": 330.91999999999996,
+      "ts": "05:29.480 -> 05:30.920",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
