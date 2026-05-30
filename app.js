@@ -208,6 +208,29 @@ function seekBy(seconds) {
   audioPlayerEl.currentTime = Math.min(duration, Math.max(0, targetTime));
 }
 
+function isAtEpisodeEnd() {
+  return Number.isFinite(audioPlayerEl.duration) && audioPlayerEl.duration > 0
+    && audioPlayerEl.currentTime >= audioPlayerEl.duration - 0.1;
+}
+
+async function startPlayback() {
+  if (!audioPlayerEl.src) {
+    setStatus("Audio is not ready yet.");
+    return false;
+  }
+  if (isAtEpisodeEnd()) {
+    audioPlayerEl.currentTime = 0;
+  }
+  try {
+    await audioPlayerEl.play();
+    return true;
+  } catch (error) {
+    console.error(error);
+    setStatus("Playback was blocked by the browser.");
+    return false;
+  }
+}
+
 function getCurrentEpisodeIndex() {
   if (!currentEpisode) {
     return -1;
@@ -343,12 +366,7 @@ autoNextToggleEl.addEventListener("click", () => {
 
 customPlayToggleEl.addEventListener("click", async () => {
   if (audioPlayerEl.paused) {
-    try {
-      await audioPlayerEl.play();
-    } catch (error) {
-      console.error(error);
-      setStatus("Playback was blocked by the browser.");
-    }
+    await startPlayback();
     return;
   }
   audioPlayerEl.pause();
