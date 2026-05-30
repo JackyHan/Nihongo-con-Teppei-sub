@@ -234,20 +234,40 @@ h1 {
   flex: 0 0 auto;
 }
 
-.audio-controls-row {
+.custom-player {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid #ebdfbc;
+}
+
+.custom-player-row {
   display: flex;
+  flex-wrap: wrap;
+  align-items: center;
   gap: 10px;
   margin-bottom: 12px;
 }
 
-.seek-button {
+.custom-control-button {
   border: 1px solid var(--border);
   background: var(--panel);
   color: var(--text);
   border-radius: 999px;
-  padding: 8px 14px;
+  padding: 9px 14px;
   font-size: 13px;
   cursor: pointer;
+}
+
+.custom-time-label {
+  margin-left: auto;
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.custom-progress {
+  width: 100%;
+  accent-color: var(--accent);
 }
 
 #audio-player {
@@ -423,8 +443,18 @@ body.hide-furigana .subtitle-jp rt {
     padding: 14px;
   }
 
-  .audio-controls-row {
-    flex-wrap: wrap;
+  .custom-player-row {
+    align-items: stretch;
+  }
+
+  .custom-control-button {
+    flex: 1 1 calc(33.333% - 8px);
+    min-width: 0;
+  }
+
+  .custom-time-label {
+    width: 100%;
+    margin-left: 0;
   }
 
   .subtitle-list {

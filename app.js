@@ -8,8 +8,11 @@ const episodeTitleEl = document.getElementById("episode-title");
 const sourceLinkEl = document.getElementById("source-link");
 const audioPlayerEl = document.getElementById("audio-player");
 const playerStatusEl = document.getElementById("player-status");
-const seekBackwardEl = document.getElementById("seek-backward");
-const seekForwardEl = document.getElementById("seek-forward");
+const customPlayToggleEl = document.getElementById("custom-play-toggle");
+const customSeekBackwardEl = document.getElementById("custom-seek-backward");
+const customSeekForwardEl = document.getElementById("custom-seek-forward");
+const customTimeLabelEl = document.getElementById("custom-time-label");
+const customProgressEl = document.getElementById("custom-progress");
 const subtitleListEl = document.getElementById("subtitle-list");
 const furiganaToggleEl = document.getElementById("furigana-toggle");
 const autoNextToggleEl = document.getElementById("auto-next-toggle");
@@ -25,6 +28,7 @@ let furiganaVisible = true;
 let autoNextEnabled = false;
 let currentPage = 0;
 let episodePanelExpanded = false;
+let progressDragging = false;
 
 function isMobileLayout() {
   return window.matchMedia("(max-width: 900px)").matches;
@@ -170,6 +174,27 @@ function setStatus(text) {
   playerStatusEl.textContent = text;
 }
 
+function formatTime(seconds) {
+  if (!Number.isFinite(seconds) || seconds < 0) {
+    return "00:00";
+  }
+  const wholeSeconds = Math.floor(seconds);
+  const minutes = Math.floor(wholeSeconds / 60);
+  const remainder = wholeSeconds % 60;
+  return `${String(minutes).padStart(2, "0")}:${String(remainder).padStart(2, "0")}`;
+}
+
+function updateCustomControls() {
+  const duration = Number.isFinite(audioPlayerEl.duration) ? audioPlayerEl.duration : 0;
+  const currentTime = Number.isFinite(audioPlayerEl.currentTime) ? audioPlayerEl.currentTime : 0;
+  customPlayToggleEl.textContent = audioPlayerEl.paused ? "Play" : "Pause";
+  customTimeLabelEl.textContent = `${formatTime(currentTime)} / ${formatTime(duration)}`;
+  customProgressEl.max = String(duration);
+  if (!progressDragging) {
+    customProgressEl.value = String(Math.min(currentTime, duration));
+  }
+}
+
 function seekBy(seconds) {
   if (!audioPlayerEl.src) {
     return;
@@ -233,6 +258,8 @@ async function loadEpisode(meta) {
   audioPlayerEl.src = resolveAudioUrl(currentEpisode.audio_url);
   renderEpisodeList();
   renderSubtitleRows(currentEpisode.entries);
+  customProgressEl.value = "0";
+  updateCustomControls();
   setStatus("Ready.");
 }
 
@@ -250,19 +277,23 @@ async function boot() {
 
 audioPlayerEl.addEventListener("timeupdate", () => {
   syncSubtitleToTime(audioPlayerEl.currentTime);
+  updateCustomControls();
 });
 
 audioPlayerEl.addEventListener("play", () => {
   setStatus("Playing.");
+  updateCustomControls();
 });
 
 audioPlayerEl.addEventListener("pause", () => {
   if (!audioPlayerEl.ended) {
     setStatus("Paused.");
   }
+  updateCustomControls();
 });
 
 audioPlayerEl.addEventListener("ended", () => {
+  updateCustomControls();
   maybePlayNextEpisode().catch((error) => {
     console.error(error);
     setStatus(error.message);
@@ -271,6 +302,11 @@ audioPlayerEl.addEventListener("ended", () => {
 
 audioPlayerEl.addEventListener("error", () => {
   setStatus("Audio failed to load. The remote host may be blocking direct playback.");
+  updateCustomControls();
+});
+
+audioPlayerEl.addEventListener("loadedmetadata", () => {
+  updateCustomControls();
 });
 
 episodePanelToggleEl.addEventListener("click", () => {
@@ -305,12 +341,40 @@ autoNextToggleEl.addEventListener("click", () => {
   autoNextToggleEl.textContent = autoNextEnabled ? "Auto next: ON" : "Auto next: OFF";
 });
 
-seekBackwardEl.addEventListener("click", () => {
-  seekBy(-15);
+customPlayToggleEl.addEventListener("click", async () => {
+  if (audioPlayerEl.paused) {
+    try {
+      await audioPlayerEl.play();
+    } catch (error) {
+      console.error(error);
+      setStatus("Playback was blocked by the browser.");
+    }
+    return;
+  }
+  audioPlayerEl.pause();
 });
 
-seekForwardEl.addEventListener("click", () => {
+customSeekBackwardEl.addEventListener("click", () => {
+  seekBy(-15);
+  updateCustomControls();
+});
+
+customSeekForwardEl.addEventListener("click", () => {
   seekBy(15);
+  updateCustomControls();
+});
+
+customProgressEl.addEventListener("input", () => {
+  progressDragging = true;
+  const duration = Number.isFinite(audioPlayerEl.duration) ? audioPlayerEl.duration : 0;
+  const previewTime = Math.min(Number(customProgressEl.value), duration);
+  customTimeLabelEl.textContent = `${formatTime(previewTime)} / ${formatTime(duration)}`;
+});
+
+customProgressEl.addEventListener("change", () => {
+  progressDragging = false;
+  audioPlayerEl.currentTime = Number(customProgressEl.value);
+  updateCustomControls();
 });
 
 window.addEventListener("resize", () => {
@@ -327,3 +391,4 @@ boot().catch((error) => {
 });
 
 updateEpisodePanelState();
+updateCustomControls();
