@@ -8,6 +8,8 @@ const episodeTitleEl = document.getElementById("episode-title");
 const sourceLinkEl = document.getElementById("source-link");
 const audioPlayerEl = document.getElementById("audio-player");
 const playerStatusEl = document.getElementById("player-status");
+const seekBackwardEl = document.getElementById("seek-backward");
+const seekForwardEl = document.getElementById("seek-forward");
 const subtitleListEl = document.getElementById("subtitle-list");
 const furiganaToggleEl = document.getElementById("furigana-toggle");
 const autoNextToggleEl = document.getElementById("auto-next-toggle");
@@ -168,6 +170,19 @@ function setStatus(text) {
   playerStatusEl.textContent = text;
 }
 
+function seekBy(seconds) {
+  if (!audioPlayerEl.src) {
+    return;
+  }
+  const duration = Number.isFinite(audioPlayerEl.duration) ? audioPlayerEl.duration : null;
+  const targetTime = audioPlayerEl.currentTime + seconds;
+  if (duration === null) {
+    audioPlayerEl.currentTime = Math.max(0, targetTime);
+    return;
+  }
+  audioPlayerEl.currentTime = Math.min(duration, Math.max(0, targetTime));
+}
+
 function getCurrentEpisodeIndex() {
   if (!currentEpisode) {
     return -1;
@@ -288,6 +303,14 @@ furiganaToggleEl.addEventListener("click", () => {
 autoNextToggleEl.addEventListener("click", () => {
   autoNextEnabled = !autoNextEnabled;
   autoNextToggleEl.textContent = autoNextEnabled ? "Auto next: ON" : "Auto next: OFF";
+});
+
+seekBackwardEl.addEventListener("click", () => {
+  seekBy(-15);
+});
+
+seekForwardEl.addEventListener("click", () => {
+  seekBy(15);
 });
 
 window.addEventListener("resize", () => {
