@@ -10,6 +10,7 @@ const audioPlayerEl = document.getElementById("audio-player");
 const playerStatusEl = document.getElementById("player-status");
 const subtitleListEl = document.getElementById("subtitle-list");
 const furiganaToggleEl = document.getElementById("furigana-toggle");
+const autoNextToggleEl = document.getElementById("auto-next-toggle");
 const subtitleTemplateEl = document.getElementById("subtitle-row-template");
 
 const EPISODES_PER_PAGE = 10;
@@ -19,6 +20,7 @@ let currentEpisode = null;
 let subtitleRowEls = [];
 let activeRowIndex = -1;
 let furiganaVisible = true;
+let autoNextEnabled = false;
 let currentPage = 0;
 let episodePanelExpanded = false;
 
@@ -166,6 +168,43 @@ function setStatus(text) {
   playerStatusEl.textContent = text;
 }
 
+function getCurrentEpisodeIndex() {
+  if (!currentEpisode) {
+    return -1;
+  }
+  return episodeCatalog.findIndex((episode) => episode.id === currentEpisode.id);
+}
+
+async function playCurrentEpisode() {
+  try {
+    await audioPlayerEl.play();
+    return true;
+  } catch (error) {
+    console.error(error);
+    setStatus("Loaded next episode, but autoplay was blocked.");
+    return false;
+  }
+}
+
+async function maybePlayNextEpisode() {
+  if (!autoNextEnabled) {
+    setStatus("Finished.");
+    return;
+  }
+  const currentIndex = getCurrentEpisodeIndex();
+  const nextMeta = currentIndex >= 0 ? episodeCatalog[currentIndex + 1] : null;
+  if (!nextMeta) {
+    setStatus("Finished. No next episode.");
+    return;
+  }
+  setStatus(`Loading next episode: ${nextMeta.id}…`);
+  await loadEpisode(nextMeta);
+  const started = await playCurrentEpisode();
+  if (started) {
+    setStatus(`Playing next episode: ${nextMeta.id}.`);
+  }
+}
+
 async function loadEpisode(meta) {
   setStatus("Loading subtitles…");
   const response = await fetch(`./data/${meta.id}.json`);
@@ -209,7 +248,10 @@ audioPlayerEl.addEventListener("pause", () => {
 });
 
 audioPlayerEl.addEventListener("ended", () => {
-  setStatus("Finished.");
+  maybePlayNextEpisode().catch((error) => {
+    console.error(error);
+    setStatus(error.message);
+  });
 });
 
 audioPlayerEl.addEventListener("error", () => {
@@ -241,6 +283,11 @@ furiganaToggleEl.addEventListener("click", () => {
   furiganaVisible = !furiganaVisible;
   document.body.classList.toggle("hide-furigana", !furiganaVisible);
   furiganaToggleEl.textContent = furiganaVisible ? "Furigana: ON" : "Furigana: OFF";
+});
+
+autoNextToggleEl.addEventListener("click", () => {
+  autoNextEnabled = !autoNextEnabled;
+  autoNextToggleEl.textContent = autoNextEnabled ? "Auto next: ON" : "Auto next: OFF";
 });
 
 window.addEventListener("resize", () => {
