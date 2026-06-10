@@ -1,0 +1,1048 @@
+{
+  "id": "1532",
+  "title": "#1532「朝について！」",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1532.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/06/10/1532%e3%80%8c%e6%9c%9d%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.84,
+      "ts": "00:00.000 -> 00:02.840",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.84,
+      "end": 6.82,
+      "ts": "00:02.840 -> 00:06.820",
+      "jp": "今日は朝について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>朝<rt>あさ</rt></ruby>について",
+      "zh": "今天关于早晨的内容",
+      "en": "Today about morning."
+    },
+    {
+      "id": 2,
+      "start": 6.82,
+      "end": 10.32,
+      "ts": "00:06.820 -> 00:10.320",
+      "jp": "はいおはようございます",
+      "jp_html": "はいおはようございます",
+      "zh": "早上好",
+      "en": "Good morning."
+    },
+    {
+      "id": 3,
+      "start": 10.32,
+      "end": 13.02,
+      "ts": "00:10.320 -> 00:13.020",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 13.02,
+      "end": 14.040000000000001,
+      "ts": "00:13.020 -> 00:14.040",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 14.040000000000001,
+      "end": 21.740000000000002,
+      "ts": "00:14.040 -> 00:21.740",
+      "jp": "あの僕はすでに2杯目のコーヒーを飲んでいます",
+      "jp_html": "あの<ruby>僕は<rt>ぼくは</rt></ruby>すでに2<ruby>杯<rt>はい</rt></ruby><ruby>目の<rt>めの</rt></ruby>コーヒーを<ruby>飲ん<rt>のん</rt></ruby>でいます",
+      "zh": "那时我已经喝了第二杯咖啡了",
+      "en": "That guy has already had his second cup of coffee."
+    },
+    {
+      "id": 6,
+      "start": 21.740000000000002,
+      "end": 23.0,
+      "ts": "00:21.740 -> 00:23.000",
+      "jp": "2杯目",
+      "jp_html": "2<ruby>杯<rt>はい</rt></ruby><ruby>目<rt>め</rt></ruby>",
+      "zh": "第二杯",
+      "en": "Second cup"
+    },
+    {
+      "id": 7,
+      "start": 23.0,
+      "end": 31.46,
+      "ts": "00:23.000 -> 00:31.460",
+      "jp": "最近なんかコーヒーが1杯だと足りない",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>なんかコーヒーが1<ruby>杯<rt>はい</rt></ruby>だと<ruby>足り<rt>たり</rt></ruby>ない",
+      "zh": "最近感觉一杯咖啡不够",
+      "en": "Lately, I feel like one cup of coffee isn't enough."
+    },
+    {
+      "id": 8,
+      "start": 31.46,
+      "end": 35.46,
+      "ts": "00:31.460 -> 00:35.460",
+      "jp": "十分じゃない気がする",
+      "jp_html": "<ruby>十分<rt>じゅうぶん</rt></ruby>じゃない<ruby>気が<rt>きが</rt></ruby>する",
+      "zh": "感觉不够十分",
+      "en": "I feel it's not enough."
+    },
+    {
+      "id": 9,
+      "start": 35.46,
+      "end": 42.519999999999996,
+      "ts": "00:35.460 -> 00:42.520",
+      "jp": "普通は今まで普通は朝1杯",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>今まで<rt>いままで</rt></ruby><ruby>普通<rt>ふつう</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>1<ruby>杯<rt>はい</rt></ruby>",
+      "zh": "普通人以前通常是一天一杯",
+      "en": "Usually, I usually have one cup in the morning."
+    },
+    {
+      "id": 10,
+      "start": 42.519999999999996,
+      "end": 46.08,
+      "ts": "00:42.520 -> 00:46.080",
+      "jp": "そして昼1杯",
+      "jp_html": "そして<ruby>昼<rt>ひる</rt></ruby>1<ruby>杯<rt>はい</rt></ruby>",
+      "zh": "然后中午喝一杯",
+      "en": "And have one in the noon."
+    },
+    {
+      "id": 11,
+      "start": 46.08,
+      "end": 53.699999999999996,
+      "ts": "00:46.080 -> 00:53.700",
+      "jp": "でまあたまに夕方にもう1杯",
+      "jp_html": "でまあたまに<ruby>夕方<rt>ゆうがた</rt></ruby>にもう1<ruby>杯<rt>はい</rt></ruby>",
+      "zh": "所以偶尔傍晚再来一杯",
+      "en": "So sometimes I have one more drink in the evening."
+    },
+    {
+      "id": 12,
+      "start": 53.699999999999996,
+      "end": 55.76,
+      "ts": "00:53.700 -> 00:55.760",
+      "jp": "これが普通でした",
+      "jp_html": "これが<ruby>普通<rt>ふつう</rt></ruby>でした",
+      "zh": "这很常见",
+      "en": "This was considered normal."
+    },
+    {
+      "id": 13,
+      "start": 55.76,
+      "end": 62.08,
+      "ts": "00:55.760 -> 01:02.080",
+      "jp": "朝8時ぐらいに最初のコーヒー",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>8<ruby>時<rt>とき</rt></ruby>ぐらいに<ruby>最初<rt>さいしょ</rt></ruby>のコーヒー",
+      "zh": "早上大约8点喝第一杯咖啡",
+      "en": "Around 8 AM for the first coffee"
+    },
+    {
+      "id": 14,
+      "start": 62.72,
+      "end": 67.75999999999999,
+      "ts": "01:02.720 -> 01:07.760",
+      "jp": "昼の12時半ぐらいに2杯目のコーヒー",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>の12<ruby>時半<rt>じはん</rt></ruby>ぐらいに2<ruby>杯<rt>はい</rt></ruby><ruby>目の<rt>めの</rt></ruby>コーヒー",
+      "zh": "大约中午12点半喝了第二杯咖啡",
+      "en": "Around 12:30 PM for my second cup of coffee"
+    },
+    {
+      "id": 15,
+      "start": 67.75999999999999,
+      "end": 71.36,
+      "ts": "01:07.760 -> 01:11.360",
+      "jp": "そして3時ぐらいに3杯目のコーヒー",
+      "jp_html": "そして3<ruby>時<rt>とき</rt></ruby>ぐらいに3<ruby>杯<rt>はい</rt></ruby><ruby>目の<rt>めの</rt></ruby>コーヒー",
+      "zh": "然后大约3点喝了第三杯咖啡",
+      "en": "And around 3 o'clock, I had my third cup of coffee."
+    },
+    {
+      "id": 16,
+      "start": 71.36,
+      "end": 72.53999999999999,
+      "ts": "01:11.360 -> 01:12.540",
+      "jp": "これが普通でした",
+      "jp_html": "これが<ruby>普通<rt>ふつう</rt></ruby>でした",
+      "zh": "这很常见",
+      "en": "This was considered normal."
+    },
+    {
+      "id": 17,
+      "start": 72.54,
+      "end": 77.4,
+      "ts": "01:12.540 -> 01:17.400",
+      "jp": "最近は朝8時に1杯",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>8<ruby>時に<rt>ときに</rt></ruby>1<ruby>杯<rt>はい</rt></ruby>",
+      "zh": "最近早上8点喝一杯",
+      "en": "Recently, I have been having one cup at 8 AM."
+    },
+    {
+      "id": 18,
+      "start": 77.4,
+      "end": 81.08000000000001,
+      "ts": "01:17.400 -> 01:21.080",
+      "jp": "朝9時に2杯目",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>9<ruby>時に<rt>ときに</rt></ruby>2<ruby>杯<rt>はい</rt></ruby><ruby>目<rt>め</rt></ruby>",
+      "zh": "早上9点喝第二杯",
+      "en": "Drink the second cup at 9 AM."
+    },
+    {
+      "id": 19,
+      "start": 81.08000000000001,
+      "end": 86.82000000000001,
+      "ts": "01:21.080 -> 01:26.820",
+      "jp": "まあ午後12時半ぐらいに3杯目",
+      "jp_html": "まあ<ruby>午後<rt>ごご</rt></ruby>12<ruby>時半<rt>じはん</rt></ruby>ぐらいに3<ruby>杯<rt>はい</rt></ruby><ruby>目<rt>め</rt></ruby>",
+      "zh": "大概下午12点30分左右喝了第三杯",
+      "en": "About 12:30 pm for the third cup."
+    },
+    {
+      "id": 20,
+      "start": 86.82000000000001,
+      "end": 89.84,
+      "ts": "01:26.820 -> 01:29.840",
+      "jp": "そして3時ぐらいに4杯目",
+      "jp_html": "そして3<ruby>時<rt>とき</rt></ruby>ぐらいに4<ruby>杯<rt>はい</rt></ruby><ruby>目<rt>め</rt></ruby>",
+      "zh": "然后大约3点的时候喝了第四杯",
+      "en": "And around 3 o'clock, I had my fourth cup."
+    },
+    {
+      "id": 21,
+      "start": 89.84,
+      "end": 93.84,
+      "ts": "01:29.840 -> 01:33.840",
+      "jp": "そして5時ぐらいに",
+      "jp_html": "そして5<ruby>時<rt>とき</rt></ruby>ぐらいに",
+      "zh": "然后大约五点钟",
+      "en": "And around 5 o'clock"
+    },
+    {
+      "id": 22,
+      "start": 93.84,
+      "end": 97.36000000000001,
+      "ts": "01:33.840 -> 01:37.360",
+      "jp": "まあお茶かな",
+      "jp_html": "まあお<ruby>茶<rt>ちゃ</rt></ruby>かな",
+      "zh": "maybe 一杯茶吧",
+      "en": "Well, maybe tea?"
+    },
+    {
+      "id": 23,
+      "start": 97.36000000000001,
+      "end": 98.80000000000001,
+      "ts": "01:37.360 -> 01:38.800",
+      "jp": "お茶ですね",
+      "jp_html": "お<ruby>茶<rt>ちゃ</rt></ruby>ですね",
+      "zh": "这是茶吧",
+      "en": "It's tea, right?"
+    },
+    {
+      "id": 24,
+      "start": 98.8,
+      "end": 102.74,
+      "ts": "01:38.800 -> 01:42.740",
+      "jp": "コーヒーは飲まないけど",
+      "jp_html": "コーヒーは<ruby>飲ま<rt>のま</rt></ruby>ないけど",
+      "zh": "我不喝咖啡",
+      "en": "I don't drink coffee."
+    },
+    {
+      "id": 25,
+      "start": 102.74,
+      "end": 103.75999999999999,
+      "ts": "01:42.740 -> 01:43.760",
+      "jp": "お茶を飲んだり",
+      "jp_html": "お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だり",
+      "zh": "喝茶",
+      "en": "To drink tea"
+    },
+    {
+      "id": 26,
+      "start": 103.75999999999999,
+      "end": 106.34,
+      "ts": "01:43.760 -> 01:46.340",
+      "jp": "まあたまにコーヒー飲んだり",
+      "jp_html": "まあたまにコーヒー<ruby>飲ん<rt>のん</rt></ruby>だり",
+      "zh": "偶尔喝杯咖啡",
+      "en": "Sometimes I drink coffee."
+    },
+    {
+      "id": 27,
+      "start": 106.34,
+      "end": 109.58,
+      "ts": "01:46.340 -> 01:49.580",
+      "jp": "ちょっとコーヒー飲みすぎですね",
+      "jp_html": "ちょっとコーヒー<ruby>飲み<rt>のみ</rt></ruby>すぎですね",
+      "zh": "喝咖啡喝得有点多了吧",
+      "en": "You've had a bit too much coffee, hasn't it?"
+    },
+    {
+      "id": 28,
+      "start": 109.58,
+      "end": 112.58,
+      "ts": "01:49.580 -> 01:52.580",
+      "jp": "だけどなんか特にね",
+      "jp_html": "だけどなんか<ruby>特に<rt>とくに</rt></ruby>ね",
+      "zh": "但是不知为何总觉得",
+      "en": "But somehow, you know?"
+    },
+    {
+      "id": 29,
+      "start": 112.58,
+      "end": 113.6,
+      "ts": "01:52.580 -> 01:53.600",
+      "jp": "朝ですね",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>ですね",
+      "zh": "早上好",
+      "en": "It's morning."
+    },
+    {
+      "id": 30,
+      "start": 113.6,
+      "end": 114.25999999999999,
+      "ts": "01:53.600 -> 01:54.260",
+      "jp": "朝",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>",
+      "zh": "朝",
+      "en": "morning"
+    },
+    {
+      "id": 31,
+      "start": 114.25999999999999,
+      "end": 118.44,
+      "ts": "01:54.260 -> 01:58.440",
+      "jp": "朝なんかコーヒーがもっと飲みたい",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>なんかコーヒーがもっと<ruby>飲み<rt>のみ</rt></ruby>たい",
+      "zh": "早上我想喝更多的咖啡",
+      "en": "I want to drink more coffee in the morning."
+    },
+    {
+      "id": 32,
+      "start": 118.44,
+      "end": 122.38,
+      "ts": "01:58.440 -> 02:02.380",
+      "jp": "そんな気がします",
+      "jp_html": "そんな<ruby>気が<rt>きが</rt></ruby>します",
+      "zh": "我觉得是这样",
+      "en": "I feel that way."
+    },
+    {
+      "id": 33,
+      "start": 122.38,
+      "end": 125.42,
+      "ts": "02:02.380 -> 02:05.420",
+      "jp": "まあまあ小さいカップですよね",
+      "jp_html": "まあまあ<ruby>小さい<rt>ちーさい</rt></ruby>カップですよね",
+      "zh": "嗯嗯，是个小杯子吧？",
+      "en": "Well, it's a pretty small cup, isn't it?"
+    },
+    {
+      "id": 34,
+      "start": 125.42,
+      "end": 128.8,
+      "ts": "02:05.420 -> 02:08.800",
+      "jp": "あのー例えばアメリカで",
+      "jp_html": "あのー<ruby>例えば<rt>たとえば</rt></ruby>アメリカで",
+      "zh": "比如说在美国",
+      "en": "Um, for example in America"
+    },
+    {
+      "id": 35,
+      "start": 128.8,
+      "end": 131.46,
+      "ts": "02:08.800 -> 02:11.460",
+      "jp": "スターバックスグランデとかね",
+      "jp_html": "スターバックスグランデとかね",
+      "zh": "星巴克 Grande 啦",
+      "en": "Starbucks Grande, etc."
+    },
+    {
+      "id": 36,
+      "start": 131.46,
+      "end": 132.7,
+      "ts": "02:11.460 -> 02:12.700",
+      "jp": "めちゃめちゃ大きいでしょ",
+      "jp_html": "めちゃめちゃ<ruby>大きい<rt>おおきい</rt></ruby>でしょ",
+      "zh": "好大的啊",
+      "en": "It's really huge, right?"
+    },
+    {
+      "id": 37,
+      "start": 132.7,
+      "end": 135.04,
+      "ts": "02:12.700 -> 02:15.040",
+      "jp": "ベンティーみたいな",
+      "jp_html": "ベンティーみたいな",
+      "zh": "像贝尼特一样",
+      "en": "like Bentley's"
+    },
+    {
+      "id": 38,
+      "start": 135.04,
+      "end": 137.92,
+      "ts": "02:15.040 -> 02:17.920",
+      "jp": "そんなサイズではないです",
+      "jp_html": "そんなサイズではないです",
+      "zh": "那不是那个尺寸",
+      "en": "It is not that size."
+    },
+    {
+      "id": 39,
+      "start": 137.92,
+      "end": 140.4,
+      "ts": "02:17.920 -> 02:20.400",
+      "jp": "僕のコーヒーは普通の",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のコーヒーは<ruby>普通<rt>ふつう</rt></ruby>の",
+      "zh": "我的咖啡是普通的",
+      "en": "My coffee is ordinary."
+    },
+    {
+      "id": 40,
+      "start": 140.4,
+      "end": 143.76,
+      "ts": "02:20.400 -> 02:23.760",
+      "jp": "まあ小さいカップ",
+      "jp_html": "まあ<ruby>小さい<rt>ちーさい</rt></ruby>カップ",
+      "zh": "小一点的杯子",
+      "en": "Well, small cupcake."
+    },
+    {
+      "id": 41,
+      "start": 143.76,
+      "end": 147.51999999999998,
+      "ts": "02:23.760 -> 02:27.520",
+      "jp": "まあヨーロッパサイズというか",
+      "jp_html": "まあヨーロッパサイズというか",
+      "zh": "大概就是欧洲尺寸吧",
+      "en": "Well, more like European size."
+    },
+    {
+      "id": 42,
+      "start": 147.51999999999998,
+      "end": 148.98,
+      "ts": "02:27.520 -> 02:28.980",
+      "jp": "そんなに大きくない",
+      "jp_html": "そんなに<ruby>大きく<rt>おおきく</rt></ruby>ない",
+      "zh": "并没有那么大",
+      "en": "It's not that big."
+    },
+    {
+      "id": 43,
+      "start": 148.98,
+      "end": 153.01999999999998,
+      "ts": "02:28.980 -> 02:33.020",
+      "jp": "あのマグカップの小さいやつですね",
+      "jp_html": "あのマグカップの<ruby>小さい<rt>ちーさい</rt></ruby>やつですね",
+      "zh": "那个小的马克杯对吧？",
+      "en": "That small mug, right?"
+    },
+    {
+      "id": 44,
+      "start": 153.01999999999998,
+      "end": 155.64,
+      "ts": "02:33.020 -> 02:35.640",
+      "jp": "小さいマグカップに",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby>マグカップに",
+      "zh": "小巧的马克杯里",
+      "en": "A small mug with"
+    },
+    {
+      "id": 45,
+      "start": 155.64,
+      "end": 160.2,
+      "ts": "02:35.640 -> 02:40.200",
+      "jp": "1杯2杯3杯4杯ぐらいなので",
+      "jp_html": "1<ruby>杯<rt>はい</rt></ruby>2<ruby>杯<rt>はい</rt></ruby>3<ruby>杯<rt>はい</rt></ruby>4<ruby>杯<rt>はい</rt></ruby>ぐらいなので",
+      "zh": "大概是一杯两杯三杯四杯左右",
+      "en": "It's about 1 cup, 2 cups, 3 cups, 4 cups or so."
+    },
+    {
+      "id": 46,
+      "start": 160.20000000000002,
+      "end": 165.04000000000002,
+      "ts": "02:40.200 -> 02:45.040",
+      "jp": "多分アメリカのスターバックスのグランデ",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>アメリカのスターバックスのグランデ",
+      "zh": "大概就是美国星爸爸的 Grande 大杯",
+      "en": "Probably a Grande from Starbucks in America"
+    },
+    {
+      "id": 47,
+      "start": 165.04000000000002,
+      "end": 169.60000000000002,
+      "ts": "02:45.040 -> 02:49.600",
+      "jp": "グランデは大きいですよね",
+      "jp_html": "グランデは<ruby>大きい<rt>おおきい</rt></ruby>ですよね",
+      "zh": "Grande 很大吧",
+      "en": "Grand is big, isn't it?"
+    },
+    {
+      "id": 48,
+      "start": 169.60000000000002,
+      "end": 172.20000000000002,
+      "ts": "02:49.600 -> 02:52.200",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嗯嗯嗯",
+      "en": "Well well well"
+    },
+    {
+      "id": 49,
+      "start": 172.20000000000002,
+      "end": 177.94000000000003,
+      "ts": "02:52.200 -> 02:57.940",
+      "jp": "まあとにかく朝はいつもコーヒーを飲みます",
+      "jp_html": "まあとにかく<ruby>朝<rt>あさ</rt></ruby>はいつもコーヒーを<ruby>飲み<rt>のみ</rt></ruby>ます",
+      "zh": "总之早晨我总是喝咖啡",
+      "en": "By the way, I always drink coffee in the morning."
+    },
+    {
+      "id": 50,
+      "start": 177.94000000000003,
+      "end": 179.26000000000002,
+      "ts": "02:57.940 -> 02:59.260",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 51,
+      "start": 179.26000000000002,
+      "end": 180.74,
+      "ts": "02:59.260 -> 03:00.740",
+      "jp": "そして朝は",
+      "jp_html": "そして<ruby>朝<rt>あさ</rt></ruby>は",
+      "zh": "然后早晨是",
+      "en": "And morning is"
+    },
+    {
+      "id": 52,
+      "start": 180.74,
+      "end": 183.76000000000002,
+      "ts": "03:00.740 -> 03:03.760",
+      "jp": "うーん結構好きかな",
+      "jp_html": "うーん<ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>かな",
+      "zh": "嗯，挺喜欢的吧",
+      "en": "Hmm, I think I like it quite a bit."
+    },
+    {
+      "id": 53,
+      "start": 183.76000000000002,
+      "end": 188.70000000000002,
+      "ts": "03:03.760 -> 03:08.700",
+      "jp": "僕が若い時朝が嫌いでした",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>若い<rt>わかい</rt></ruby><ruby>時<rt>とき</rt></ruby><ruby>朝<rt>あさ</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>でした",
+      "zh": "我年轻的时候早晨不喜欢",
+      "en": "I didn't like mornings when I was young."
+    },
+    {
+      "id": 54,
+      "start": 188.70000000000002,
+      "end": 190.58,
+      "ts": "03:08.700 -> 03:10.580",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 55,
+      "start": 190.58,
+      "end": 192.36,
+      "ts": "03:10.580 -> 03:12.360",
+      "jp": "まあみんなそうでしょ",
+      "jp_html": "まあみんなそうでしょ",
+      "zh": "对吧 everyone都是这样吧",
+      "en": "Isn't that true for everyone?"
+    },
+    {
+      "id": 56,
+      "start": 192.36,
+      "end": 194.66000000000003,
+      "ts": "03:12.360 -> 03:14.660",
+      "jp": "若い時は朝が嫌いなんですね",
+      "jp_html": "<ruby>若い<rt>わかい</rt></ruby><ruby>時<rt>とき</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>なんですね",
+      "zh": "年轻的时候早上讨厌啊",
+      "en": "Younger people tend to dislike mornings, don't they?"
+    },
+    {
+      "id": 57,
+      "start": 194.66000000000003,
+      "end": 197.46,
+      "ts": "03:14.660 -> 03:17.460",
+      "jp": "もっと眠りたい",
+      "jp_html": "もっと<ruby>眠り<rt>ねむり</rt></ruby>たい",
+      "zh": "想睡更多觉",
+      "en": "I want to sleep more"
+    },
+    {
+      "id": 58,
+      "start": 197.46,
+      "end": 198.16000000000003,
+      "ts": "03:17.460 -> 03:18.160",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 59,
+      "start": 198.16000000000003,
+      "end": 200.92000000000002,
+      "ts": "03:18.160 -> 03:20.920",
+      "jp": "もっとベッドの中にいたい",
+      "jp_html": "もっとベッドの<ruby>中に<rt>なかに</rt></ruby>いたい",
+      "zh": "更想待在床里",
+      "en": "I want to stay in bed more."
+    },
+    {
+      "id": 60,
+      "start": 200.92000000000002,
+      "end": 203.02,
+      "ts": "03:20.920 -> 03:23.020",
+      "jp": "不思議なことに",
+      "jp_html": "<ruby>不思議<rt>ふしぎ</rt></ruby>なことに",
+      "zh": "奇妙的是",
+      "en": "By chance"
+    },
+    {
+      "id": 61,
+      "start": 203.02,
+      "end": 206.10000000000002,
+      "ts": "03:23.020 -> 03:26.100",
+      "jp": "でも不思議なことに",
+      "jp_html": "でも<ruby>不思議<rt>ふしぎ</rt></ruby>なことに",
+      "zh": "但奇怪的是",
+      "en": "But strangely enough"
+    },
+    {
+      "id": 62,
+      "start": 206.10000000000002,
+      "end": 208.4,
+      "ts": "03:26.100 -> 03:28.400",
+      "jp": "年を取れば取るほど",
+      "jp_html": "<ruby>年<rt>ねん</rt></ruby>を<ruby>取れ<rt>とれ</rt></ruby>ば<ruby>取る<rt>とる</rt></ruby>ほど",
+      "zh": "年纪越大越如此",
+      "en": "The older one gets, the more..."
+    },
+    {
+      "id": 63,
+      "start": 208.4,
+      "end": 209.74,
+      "ts": "03:28.400 -> 03:29.740",
+      "jp": "朝ね",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>ね",
+      "zh": "早nev",
+      "en": "morning"
+    },
+    {
+      "id": 64,
+      "start": 209.74,
+      "end": 211.54000000000002,
+      "ts": "03:29.740 -> 03:31.540",
+      "jp": "目が覚めるんですね",
+      "jp_html": "<ruby>目<rt>め</rt></ruby>が<ruby>覚め<rt>さめ</rt></ruby>るんですね",
+      "zh": "你醒了呢",
+      "en": "You're waking up, I see."
+    },
+    {
+      "id": 65,
+      "start": 211.54000000000002,
+      "end": 217.10000000000002,
+      "ts": "03:31.540 -> 03:37.100",
+      "jp": "僕はだいたい朝の6時ぐらいに",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>だいたい<ruby>朝<rt>あさ</rt></ruby>の6<ruby>時<rt>とき</rt></ruby>ぐらいに",
+      "zh": "我大概在早上六点左右",
+      "en": "I am usually around 6 o'clock in the morning."
+    },
+    {
+      "id": 66,
+      "start": 217.1,
+      "end": 220.04,
+      "ts": "03:37.100 -> 03:40.040",
+      "jp": "もうちょっとこう目が覚めて",
+      "jp_html": "もうちょっとこう<ruby>目<rt>め</rt></ruby>が<ruby>覚め<rt>さめ</rt></ruby>て",
+      "zh": "再加把油，精神集中一下",
+      "en": "Wake up a little more"
+    },
+    {
+      "id": 67,
+      "start": 220.04,
+      "end": 223.94,
+      "ts": "03:40.040 -> 03:43.940",
+      "jp": "あのー7時はもう",
+      "jp_html": "あのー7<ruby>時<rt>とき</rt></ruby>はもう",
+      "zh": "那个—七点已经了",
+      "en": "Um, 7 o'clock is already"
+    },
+    {
+      "id": 68,
+      "start": 223.94,
+      "end": 226.35999999999999,
+      "ts": "03:43.940 -> 03:46.360",
+      "jp": "もちろんもう眠れない",
+      "jp_html": "もちろんもう<ruby>眠れ<rt>ねむれ</rt></ruby>ない",
+      "zh": "当然现在睡不着了",
+      "en": "Of course I can't sleep anymore."
+    },
+    {
+      "id": 69,
+      "start": 226.35999999999999,
+      "end": 227.6,
+      "ts": "03:46.360 -> 03:47.600",
+      "jp": "もう無理です",
+      "jp_html": "もう<ruby>無理<rt>むり</rt></ruby>です",
+      "zh": "这已经不行了",
+      "en": "It's impossible now."
+    },
+    {
+      "id": 70,
+      "start": 227.6,
+      "end": 230.84,
+      "ts": "03:47.600 -> 03:50.840",
+      "jp": "7時の後眠ることができない",
+      "jp_html": "7<ruby>時の<rt>ときの</rt></ruby><ruby>後<rt>のち</rt></ruby><ruby>眠る<rt>ねむる</rt></ruby>ことができない",
+      "zh": "7点过后无法入睡",
+      "en": "I cannot sleep after 7 o'clock."
+    },
+    {
+      "id": 71,
+      "start": 230.84,
+      "end": 232.35999999999999,
+      "ts": "03:50.840 -> 03:52.360",
+      "jp": "全然できません",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>できません",
+      "zh": "完全不能",
+      "en": "Cannot do it at all"
+    },
+    {
+      "id": 72,
+      "start": 232.36,
+      "end": 236.52,
+      "ts": "03:52.360 -> 03:56.520",
+      "jp": "そしてまあコーヒー飲んで",
+      "jp_html": "そしてまあコーヒー<ruby>飲ん<rt>のん</rt></ruby>で",
+      "zh": "然后嘛喝杯咖啡",
+      "en": "And then, well, I drank some coffee."
+    },
+    {
+      "id": 73,
+      "start": 236.52,
+      "end": 237.36,
+      "ts": "03:56.520 -> 03:57.360",
+      "jp": "よし",
+      "jp_html": "よし",
+      "zh": "好嘞",
+      "en": "Good"
+    },
+    {
+      "id": 74,
+      "start": 237.36,
+      "end": 240.20000000000002,
+      "ts": "03:57.360 -> 04:00.200",
+      "jp": "1日始まった頑張るぞ",
+      "jp_html": "1<ruby>日<rt>にち</rt></ruby><ruby>始ま<rt>はじま</rt></ruby>った<ruby>頑張る<rt>がんばる</rt></ruby>ぞ",
+      "zh": "1号开始，我要努力了",
+      "en": "I'll work hard from today."
+    },
+    {
+      "id": 75,
+      "start": 240.20000000000002,
+      "end": 241.20000000000002,
+      "ts": "04:00.200 -> 04:01.200",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 76,
+      "start": 241.20000000000002,
+      "end": 243.48000000000002,
+      "ts": "04:01.200 -> 04:03.480",
+      "jp": "まあそんな感じ",
+      "jp_html": "まあそんな<ruby>感じ<rt>かんじ</rt></ruby>",
+      "zh": "大概就是那种感觉吧",
+      "en": "Well, that's kind of how it is."
+    },
+    {
+      "id": 77,
+      "start": 243.48000000000002,
+      "end": 246.16000000000003,
+      "ts": "04:03.480 -> 04:06.160",
+      "jp": "そんな気持ちなので",
+      "jp_html": "そんな<ruby>気持ち<rt>きもち</rt></ruby>なので",
+      "zh": "因此有这样的感觉",
+      "en": "That's how I feel."
+    },
+    {
+      "id": 78,
+      "start": 246.16000000000003,
+      "end": 248.3,
+      "ts": "04:06.160 -> 04:08.300",
+      "jp": "朝は好きですね",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>ですね",
+      "zh": "您喜欢早晨吗？",
+      "en": "Do you like morning?"
+    },
+    {
+      "id": 79,
+      "start": 248.3,
+      "end": 250.24,
+      "ts": "04:08.300 -> 04:10.240",
+      "jp": "結構好き",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>",
+      "zh": "喜欢结构",
+      "en": "I like it结构"
+    },
+    {
+      "id": 80,
+      "start": 250.24,
+      "end": 251.70000000000002,
+      "ts": "04:10.240 -> 04:11.700",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 81,
+      "start": 251.70000000000002,
+      "end": 253.84,
+      "ts": "04:11.700 -> 04:13.840",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 82,
+      "start": 253.84,
+      "end": 255.24,
+      "ts": "04:13.840 -> 04:15.240",
+      "jp": "朝が好きですか",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "你喜欢早晨吗？",
+      "en": "Do you like morning?"
+    },
+    {
+      "id": 83,
+      "start": 255.24,
+      "end": 257.34000000000003,
+      "ts": "04:15.240 -> 04:17.340",
+      "jp": "それとも朝が嫌いですか",
+      "jp_html": "それとも<ruby>朝<rt>あさ</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>ですか",
+      "zh": "还是不喜欢早晨？",
+      "en": "Do you dislike the morning?"
+    },
+    {
+      "id": 84,
+      "start": 257.34000000000003,
+      "end": 263.14000000000004,
+      "ts": "04:17.340 -> 04:23.140",
+      "jp": "朝が嫌いな人は多分結構若いんじゃないかな",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>な<ruby>人<rt>にん</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>若い<rt>わかい</rt></ruby>んじゃないかな",
+      "zh": "大概不喜欢早晨的人挺年轻的一群人吧",
+      "en": "People who don't like morning probably tend to be quite young, huh?"
+    },
+    {
+      "id": 85,
+      "start": 263.14000000000004,
+      "end": 265.52000000000004,
+      "ts": "04:23.140 -> 04:25.520",
+      "jp": "どうなんですかね",
+      "jp_html": "どうなんですかね",
+      "zh": "那是怎么回事呢",
+      "en": "I wonder how it is going."
+    },
+    {
+      "id": 86,
+      "start": 265.52000000000004,
+      "end": 270.34000000000003,
+      "ts": "04:25.520 -> 04:30.340",
+      "jp": "僕の両親もやっぱり朝が早いし",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>もやっぱり<ruby>朝<rt>あさ</rt></ruby>が<ruby>早い<rt>はやい</rt></ruby>し",
+      "zh": "我的父母也一样早起",
+      "en": "My parents are also early risers in the morning."
+    },
+    {
+      "id": 87,
+      "start": 270.34000000000003,
+      "end": 274.38000000000005,
+      "ts": "04:30.340 -> 04:34.380",
+      "jp": "年を取ると朝早いと思いますけど",
+      "jp_html": "<ruby>年<rt>ねん</rt></ruby>を<ruby>取る<rt>とる</rt></ruby>と<ruby>朝早い<rt>あさはやい</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ますけど",
+      "zh": "年纪大了觉得早上起得早。",
+      "en": "I think older people tend to wake up early."
+    },
+    {
+      "id": 88,
+      "start": 274.38000000000005,
+      "end": 275.28000000000003,
+      "ts": "04:34.380 -> 04:35.280",
+      "jp": "どうですか",
+      "jp_html": "どうですか",
+      "zh": "您怎么样？",
+      "en": "How is it?"
+    },
+    {
+      "id": 89,
+      "start": 275.28000000000003,
+      "end": 279.90000000000003,
+      "ts": "04:35.280 -> 04:39.900",
+      "jp": "まあ僕の子供も朝は早いな",
+      "jp_html": "まあ<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>も<ruby>朝<rt>あさ</rt></ruby>は<ruby>早い<rt>はやい</rt></ruby>な",
+      "zh": "我的孩子早上也起得很早呢",
+      "en": "Well, my kids also wake up early in the morning."
+    },
+    {
+      "id": 90,
+      "start": 279.90000000000003,
+      "end": 282.40000000000003,
+      "ts": "04:39.900 -> 04:42.400",
+      "jp": "まだまだ子供すぎるからね",
+      "jp_html": "まだまだ<ruby>子供<rt>こども</rt></ruby>すぎるからね",
+      "zh": "你还太像孩子了呢",
+      "en": "You're still too much of a kid, you know."
+    },
+    {
+      "id": 91,
+      "start": 282.40000000000003,
+      "end": 286.3,
+      "ts": "04:42.400 -> 04:46.300",
+      "jp": "でも多分ティンネイジャーですね",
+      "jp_html": "でも<ruby>多分<rt>たぶん</rt></ruby>ティンネイジャーですね",
+      "zh": "但恐怕是青少年呢",
+      "en": "But probably a teenager."
+    },
+    {
+      "id": 92,
+      "start": 286.3,
+      "end": 287.90000000000003,
+      "ts": "04:46.300 -> 04:47.900",
+      "jp": "15歳ぐらいになると",
+      "jp_html": "15<ruby>歳<rt>とし</rt></ruby>ぐらいになると",
+      "zh": "到了十五岁左右",
+      "en": "Around 15 years old and up"
+    },
+    {
+      "id": 93,
+      "start": 287.90000000000003,
+      "end": 290.40000000000003,
+      "ts": "04:47.900 -> 04:50.400",
+      "jp": "朝は眠りたい",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>は<ruby>眠り<rt>ねむり</rt></ruby>たい",
+      "zh": "早晨想睡觉",
+      "en": "Morning is when I want to sleep."
+    },
+    {
+      "id": 94,
+      "start": 290.40000000000003,
+      "end": 293.76000000000005,
+      "ts": "04:50.400 -> 04:53.760",
+      "jp": "多分みんなそうなんじゃないかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>みんなそうなんじゃないかな",
+      "zh": "大概大家都是吧",
+      "en": "I guess everyone feels that way, doesn't it?"
+    },
+    {
+      "id": 95,
+      "start": 293.76000000000005,
+      "end": 294.6,
+      "ts": "04:53.760 -> 04:54.600",
+      "jp": "どうですか",
+      "jp_html": "どうですか",
+      "zh": "您怎么了？",
+      "en": "How is it?"
+    },
+    {
+      "id": 96,
+      "start": 294.6,
+      "end": 295.58000000000004,
+      "ts": "04:54.600 -> 04:55.580",
+      "jp": "皆さん",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>",
+      "zh": "各位",
+      "en": "Everyone/everyone hello"
+    },
+    {
+      "id": 97,
+      "start": 295.58000000000004,
+      "end": 296.64000000000004,
+      "ts": "04:55.580 -> 04:56.640",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 98,
+      "start": 296.64000000000004,
+      "end": 298.50000000000006,
+      "ts": "04:56.640 -> 04:58.500",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Therefore"
+    },
+    {
+      "id": 99,
+      "start": 298.50000000000006,
+      "end": 299.74,
+      "ts": "04:58.500 -> 04:59.740",
+      "jp": "朝について",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>について",
+      "zh": "关于朝鮮",
+      "en": "About the morning"
+    },
+    {
+      "id": 100,
+      "start": 299.74,
+      "end": 301.28000000000003,
+      "ts": "04:59.740 -> 05:01.280",
+      "jp": "次回は夜",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>",
+      "zh": "下次是晚上",
+      "en": "Next time is night"
+    },
+    {
+      "id": 101,
+      "start": 301.28000000000003,
+      "end": 304.08000000000004,
+      "ts": "05:01.280 -> 05:04.080",
+      "jp": "について話したいと思います",
+      "jp_html": "について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想谈谈关于这个问题",
+      "en": "I want to talk about it."
+    },
+    {
+      "id": 102,
+      "start": 304.08000000000004,
+      "end": 304.94000000000005,
+      "ts": "05:04.080 -> 05:04.940",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    },
+    {
+      "id": 103,
+      "start": 304.94,
+      "end": 334.92,
+      "ts": "05:04.940 -> 05:34.920",
+      "jp": "お待ちしております",
+      "jp_html": "お<ruby>待ち<rt>まち</rt></ruby>しております",
+      "zh": "请等待",
+      "en": "Please wait."
+    }
+  ]
+}
