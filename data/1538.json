@@ -1,0 +1,2418 @@
+{
+  "id": "1538",
+  "title": "#1538「山登り（やまのぼり）について！」",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1538.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/06/22/1538%e3%80%8c%e5%b1%b1%e7%99%bb%e3%82%8a%ef%bc%88%e3%82%84%e3%81%be%e3%81%ae%e3%81%bc%e3%82%8a%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "entries": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 2.96,
+      "ts": "00:00.000 -> 00:02.960",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 2.96,
+      "end": 7.24,
+      "ts": "00:02.960 -> 00:07.240",
+      "jp": "今日は山登りについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>山登り<rt>やまのぼり</rt></ruby>について",
+      "zh": "今天关于爬山",
+      "en": "Today, about mountain climbing."
+    },
+    {
+      "id": 2,
+      "start": 7.24,
+      "end": 10.1,
+      "ts": "00:07.240 -> 00:10.100",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 10.1,
+      "end": 12.82,
+      "ts": "00:10.100 -> 00:12.820",
+      "jp": "日本語のてっぺんの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>のてっぺんの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语的头顶的时间呢",
+      "en": "It's time for the top of the hour in Japanese."
+    },
+    {
+      "id": 4,
+      "start": 12.82,
+      "end": 13.700000000000001,
+      "ts": "00:12.820 -> 00:13.700",
+      "jp": "元気ですか?",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "你还好吗？",
+      "en": "Are you okay?"
+    },
+    {
+      "id": 5,
+      "start": 14.6,
+      "end": 15.66,
+      "ts": "00:14.600 -> 00:15.660",
+      "jp": "僕は元気です",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>元気<rt>げんき</rt></ruby>です",
+      "zh": "我很好",
+      "en": "I am fine."
+    },
+    {
+      "id": 6,
+      "start": 15.66,
+      "end": 21.0,
+      "ts": "00:15.660 -> 00:21.000",
+      "jp": "あのーなんかこう子供時代シリーズというか",
+      "jp_html": "あのーなんかこう<ruby>子供時代<rt>こどもじだい</rt></ruby>シリーズというか",
+      "zh": "那个，嗯，感觉像是儿童时代系列那样的",
+      "en": "Um, well something like a childhood series, you know?"
+    },
+    {
+      "id": 7,
+      "start": 21.0,
+      "end": 22.36,
+      "ts": "00:21.000 -> 00:22.360",
+      "jp": "結構少年時代",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>少年時代<rt>しょうねんじだい</rt></ruby>",
+      "zh": "结构少年时代",
+      "en": "Structure of Youth Era"
+    },
+    {
+      "id": 8,
+      "start": 22.36,
+      "end": 24.900000000000002,
+      "ts": "00:22.360 -> 00:24.900",
+      "jp": "僕が子供の時の話とか",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>話<rt>はなし</rt></ruby>とか",
+      "zh": "我小时候的事情",
+      "en": "Talk about when I was a child."
+    },
+    {
+      "id": 9,
+      "start": 24.900000000000002,
+      "end": 26.6,
+      "ts": "00:24.900 -> 00:26.600",
+      "jp": "多いですね",
+      "jp_html": "<ruby>多い<rt>おおい</rt></ruby>ですね",
+      "zh": "真的很多呢",
+      "en": "It's a lot, isn't it?"
+    },
+    {
+      "id": 10,
+      "start": 26.6,
+      "end": 27.78,
+      "ts": "00:26.600 -> 00:27.780",
+      "jp": "悪くないですね",
+      "jp_html": "<ruby>悪く<rt>わるく</rt></ruby>ないですね",
+      "zh": "不错呢",
+      "en": "It's not bad, right?"
+    },
+    {
+      "id": 11,
+      "start": 27.78,
+      "end": 30.580000000000002,
+      "ts": "00:27.780 -> 00:30.580",
+      "jp": "夏になるとなんとなく",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>になるとなんとなく",
+      "zh": "夏天的时候总是会",
+      "en": "In summer, for some reason"
+    },
+    {
+      "id": 12,
+      "start": 30.580000000000002,
+      "end": 33.64,
+      "ts": "00:30.580 -> 00:33.640",
+      "jp": "子供の時を思い出す",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>を<ruby>思い出す<rt>おもいだす</rt></ruby>",
+      "zh": "想起童年的时光",
+      "en": "I remember my childhood."
+    },
+    {
+      "id": 13,
+      "start": 33.64,
+      "end": 35.04,
+      "ts": "00:33.640 -> 00:35.040",
+      "jp": "なんでかな",
+      "jp_html": "なんでかな",
+      "zh": "为什么呢",
+      "en": "Why is that?"
+    },
+    {
+      "id": 14,
+      "start": 35.04,
+      "end": 37.620000000000005,
+      "ts": "00:35.040 -> 00:37.620",
+      "jp": "やっぱり夏休みの",
+      "jp_html": "やっぱり<ruby>夏休み<rt>なつやすみ</rt></ruby>の",
+      "zh": "果然暑假的",
+      "en": "Still summer vacation time."
+    },
+    {
+      "id": 15,
+      "start": 37.620000000000005,
+      "end": 40.68,
+      "ts": "00:37.620 -> 00:40.680",
+      "jp": "こう記憶ですかね",
+      "jp_html": "こう<ruby>記憶<rt>きおく</rt></ruby>ですかね",
+      "zh": "你是这样记得吗？",
+      "en": "Is this how you remember it?"
+    },
+    {
+      "id": 16,
+      "start": 40.68,
+      "end": 42.1,
+      "ts": "00:40.680 -> 00:42.100",
+      "jp": "うん",
+      "jp_html": "うん",
+      "zh": "嗯",
+      "en": "Yeah"
+    },
+    {
+      "id": 17,
+      "start": 42.1,
+      "end": 44.260000000000005,
+      "ts": "00:42.100 -> 00:44.260",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 18,
+      "start": 44.260000000000005,
+      "end": 45.6,
+      "ts": "00:44.260 -> 00:45.600",
+      "jp": "前回は",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby>は",
+      "zh": "上次是",
+      "en": "Last time was"
+    },
+    {
+      "id": 19,
+      "start": 45.6,
+      "end": 47.64,
+      "ts": "00:45.600 -> 00:47.640",
+      "jp": "海水浴",
+      "jp_html": "<ruby>海水浴<rt>かいすいよく</rt></ruby>",
+      "zh": "海水浴场",
+      "en": "sea bathing"
+    },
+    {
+      "id": 20,
+      "start": 47.64,
+      "end": 49.28,
+      "ts": "00:47.640 -> 00:49.280",
+      "jp": "海ですね",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>ですね",
+      "zh": "海啊",
+      "en": "It's the sea, huh?"
+    },
+    {
+      "id": 21,
+      "start": 49.28,
+      "end": 51.44,
+      "ts": "00:49.280 -> 00:51.440",
+      "jp": "海について話しました",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>ました",
+      "zh": "我们谈到了海。",
+      "en": "We talked about the sea."
+    },
+    {
+      "id": 22,
+      "start": 51.44,
+      "end": 54.260000000000005,
+      "ts": "00:51.440 -> 00:54.260",
+      "jp": "僕はあんまり海に",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>あんまり<ruby>海<rt>うみ</rt></ruby>に",
+      "zh": "我不是很喜欢海里",
+      "en": "I don't go to the sea very often."
+    },
+    {
+      "id": 23,
+      "start": 54.260000000000005,
+      "end": 56.94,
+      "ts": "00:54.260 -> 00:56.940",
+      "jp": "行ってなかったという話ね",
+      "jp_html": "<ruby>行って<rt>いって</rt></ruby>なかったという<ruby>話<rt>はなし</rt></ruby>ね",
+      "zh": "听说他没去的事情",
+      "en": "The story is about not going there."
+    },
+    {
+      "id": 24,
+      "start": 56.94,
+      "end": 59.739999999999995,
+      "ts": "00:56.940 -> 00:59.740",
+      "jp": "今日は山登り",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>山登り<rt>やまのぼり</rt></ruby>",
+      "zh": "今天去爬山",
+      "en": "Today I went hiking in the mountains."
+    },
+    {
+      "id": 25,
+      "start": 59.739999999999995,
+      "end": 61.08,
+      "ts": "00:59.740 -> 01:01.080",
+      "jp": "山登り",
+      "jp_html": "<ruby>山登り<rt>やまのぼり</rt></ruby>",
+      "zh": "登山",
+      "en": "Hiking"
+    },
+    {
+      "id": 26,
+      "start": 61.08,
+      "end": 63.3,
+      "ts": "01:01.080 -> 01:03.300",
+      "jp": "ハイキングについてですね",
+      "jp_html": "ハイキングについてですね",
+      "zh": "关于远足呢",
+      "en": "About hiking, right?"
+    },
+    {
+      "id": 27,
+      "start": 63.3,
+      "end": 68.53999999999999,
+      "ts": "01:03.300 -> 01:08.540",
+      "jp": "僕はあのー",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>あのー",
+      "zh": "我umm",
+      "en": "I um"
+    },
+    {
+      "id": 28,
+      "start": 68.53999999999999,
+      "end": 70.9,
+      "ts": "01:08.540 -> 01:10.900",
+      "jp": "皆さんに何度も言ったように",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>に<ruby>何度<rt>なんど</rt></ruby>も<ruby>言った<rt>いった</rt></ruby>ように",
+      "zh": "我已经多次告诉过大家",
+      "en": "As I have said many times before"
+    },
+    {
+      "id": 29,
+      "start": 70.9,
+      "end": 73.44,
+      "ts": "01:10.900 -> 01:13.440",
+      "jp": "山の中で育ちました",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>育ち<rt>そだち</rt></ruby>ました",
+      "zh": "我在山中长大。",
+      "en": "I was raised in the mountains."
+    },
+    {
+      "id": 30,
+      "start": 73.44,
+      "end": 76.02,
+      "ts": "01:13.440 -> 01:16.020",
+      "jp": "僕の両親は今でも",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>でも",
+      "zh": "我的父母至今仍然",
+      "en": "My parents are still alive now."
+    },
+    {
+      "id": 31,
+      "start": 76.02,
+      "end": 77.24,
+      "ts": "01:16.020 -> 01:17.240",
+      "jp": "山に",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>に",
+      "zh": "山里",
+      "en": "mountain"
+    },
+    {
+      "id": 32,
+      "start": 77.24,
+      "end": 80.32,
+      "ts": "01:17.240 -> 01:20.320",
+      "jp": "山に住んでいるわけじゃないけど",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいるわけじゃないけど",
+      "zh": "我不是住在山上。",
+      "en": "I don't live in the mountains."
+    },
+    {
+      "id": 33,
+      "start": 80.32,
+      "end": 80.96,
+      "ts": "01:20.320 -> 01:20.960",
+      "jp": "山の",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の",
+      "zh": "山的",
+      "en": "mountain"
+    },
+    {
+      "id": 34,
+      "start": 80.96000000000001,
+      "end": 86.44000000000001,
+      "ts": "01:20.960 -> 01:26.440",
+      "jp": "山本当に山に囲まれたところに住んでます",
+      "jp_html": "<ruby>山本<rt>やまもと</rt></ruby><ruby>当<rt>とう</rt></ruby>に<ruby>山<rt>やま</rt></ruby>に<ruby>囲ま<rt>かこま</rt></ruby>れたところに<ruby>住ん<rt>すん</rt></ruby>でます",
+      "zh": "我确实住在被山包围的地方",
+      "en": "Yes, I really live in a place surrounded by mountains."
+    },
+    {
+      "id": 35,
+      "start": 86.44000000000001,
+      "end": 87.88000000000001,
+      "ts": "01:26.440 -> 01:27.880",
+      "jp": "山に囲まれている",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>に<ruby>囲ま<rt>かこま</rt></ruby>れている",
+      "zh": "被山脉环绕",
+      "en": "Surrounded by mountains"
+    },
+    {
+      "id": 36,
+      "start": 87.88000000000001,
+      "end": 91.12,
+      "ts": "01:27.880 -> 01:31.120",
+      "jp": "僕の家の周りは全部山です",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>山<rt>やま</rt></ruby>です",
+      "zh": "我的家周围全是山",
+      "en": "All around my house are mountains."
+    },
+    {
+      "id": 37,
+      "start": 91.12,
+      "end": 92.48,
+      "ts": "01:31.120 -> 01:32.480",
+      "jp": "山山山山山",
+      "jp_html": "<ruby>山山<rt>やまやま</rt></ruby><ruby>山山<rt>やまやま</rt></ruby><ruby>山<rt>やま</rt></ruby>",
+      "zh": "山山山山山",
+      "en": "Mountain Mountain Mountain Mountain Mountain"
+    },
+    {
+      "id": 38,
+      "start": 92.48,
+      "end": 96.64000000000001,
+      "ts": "01:32.480 -> 01:36.640",
+      "jp": "東京に来て初めて驚いたことね",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby><ruby>驚い<rt>おどろい</rt></ruby>たことね",
+      "zh": "来到东京后我才惊讶地发现",
+      "en": "The thing that surprised me when I came to Tokyo."
+    },
+    {
+      "id": 39,
+      "start": 96.64,
+      "end": 98.84,
+      "ts": "01:36.640 -> 01:38.840",
+      "jp": "えーたくさんのこう",
+      "jp_html": "えーたくさんのこう",
+      "zh": "嗯很多狗",
+      "en": "Oh, lots of cows"
+    },
+    {
+      "id": 40,
+      "start": 98.84,
+      "end": 100.14,
+      "ts": "01:38.840 -> 01:40.140",
+      "jp": "人がいるとか",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>がいるとか",
+      "zh": "有人在",
+      "en": "There are people there."
+    },
+    {
+      "id": 41,
+      "start": 100.14,
+      "end": 101.1,
+      "ts": "01:40.140 -> 01:41.100",
+      "jp": "たくさんの",
+      "jp_html": "たくさんの",
+      "zh": "很多",
+      "en": "many"
+    },
+    {
+      "id": 42,
+      "start": 101.1,
+      "end": 102.52,
+      "ts": "01:41.100 -> 01:42.520",
+      "jp": "ビルがあるとか",
+      "jp_html": "ビルがあるとか",
+      "zh": "有建筑物",
+      "en": "There is a building there."
+    },
+    {
+      "id": 43,
+      "start": 102.52,
+      "end": 104.5,
+      "ts": "01:42.520 -> 01:44.500",
+      "jp": "そういうことじゃなくて",
+      "jp_html": "そういうことじゃなくて",
+      "zh": "不是这样的意思",
+      "en": "That's not what I meant."
+    },
+    {
+      "id": 44,
+      "start": 104.5,
+      "end": 106.48,
+      "ts": "01:44.500 -> 01:46.480",
+      "jp": "山がないということ",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>がないということ",
+      "zh": "没有山这件事",
+      "en": "The mountain does not exist."
+    },
+    {
+      "id": 45,
+      "start": 106.48,
+      "end": 108.56,
+      "ts": "01:46.480 -> 01:48.560",
+      "jp": "これは驚きました",
+      "jp_html": "これは<ruby>驚き<rt>おどろき</rt></ruby>ました",
+      "zh": "这让我惊讶了",
+      "en": "I was surprised."
+    },
+    {
+      "id": 46,
+      "start": 108.56,
+      "end": 111.56,
+      "ts": "01:48.560 -> 01:51.560",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "嗯——",
+      "en": "Um-"
+    },
+    {
+      "id": 47,
+      "start": 111.56,
+      "end": 113.52,
+      "ts": "01:51.560 -> 01:53.520",
+      "jp": "まあ僕の出身の大分県は",
+      "jp_html": "まあ<ruby>僕<rt>ぼく</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>大分県<rt>おおいたけん</rt></ruby>は",
+      "zh": "我的家乡大分县是",
+      "en": "Well, my hometown is Osaka Prefecture."
+    },
+    {
+      "id": 48,
+      "start": 113.52,
+      "end": 115.02,
+      "ts": "01:53.520 -> 01:55.020",
+      "jp": "本当に山がたくさんあって",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>山<rt>やま</rt></ruby>がたくさんあって",
+      "zh": "真的有很多山",
+      "en": "There are really many mountains."
+    },
+    {
+      "id": 49,
+      "start": 115.02,
+      "end": 117.46000000000001,
+      "ts": "01:55.020 -> 01:57.460",
+      "jp": "まあどこ見ても山があります",
+      "jp_html": "まあどこ<ruby>見て<rt>みて</rt></ruby>も<ruby>山<rt>やま</rt></ruby>があります",
+      "zh": "到处都能看到山。",
+      "en": "Well, mountains can be seen everywhere."
+    },
+    {
+      "id": 50,
+      "start": 117.46000000000001,
+      "end": 117.8,
+      "ts": "01:57.460 -> 01:57.800",
+      "jp": "まず",
+      "jp_html": "まず",
+      "zh": "首先",
+      "en": "First"
+    },
+    {
+      "id": 51,
+      "start": 117.8,
+      "end": 118.92,
+      "ts": "01:57.800 -> 01:58.920",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 52,
+      "start": 118.92,
+      "end": 120.2,
+      "ts": "01:58.920 -> 02:00.200",
+      "jp": "え?と思って",
+      "jp_html": "え?と<ruby>思って<rt>おもって</rt></ruby>",
+      "zh": "咦？想到",
+      "en": "Oh? Thinking"
+    },
+    {
+      "id": 53,
+      "start": 120.2,
+      "end": 121.64,
+      "ts": "02:00.200 -> 02:01.640",
+      "jp": "山がないの?",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>がないの?",
+      "zh": "没有山吗？",
+      "en": "Are there no mountains?"
+    },
+    {
+      "id": 54,
+      "start": 122.24000000000001,
+      "end": 122.38,
+      "ts": "02:02.240 -> 02:02.380",
+      "jp": "ん?",
+      "jp_html": "ん?",
+      "zh": "嗯？",
+      "en": "Hmm?"
+    },
+    {
+      "id": 55,
+      "start": 122.38,
+      "end": 123.69999999999999,
+      "ts": "02:02.380 -> 02:03.700",
+      "jp": "驚いた",
+      "jp_html": "<ruby>驚い<rt>おどろい</rt></ruby>た",
+      "zh": "惊讶",
+      "en": "Surprised"
+    },
+    {
+      "id": 56,
+      "start": 123.69999999999999,
+      "end": 125.16,
+      "ts": "02:03.700 -> 02:05.160",
+      "jp": "山がないの?",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>がないの?",
+      "zh": "没有山吗？",
+      "en": "Are there no mountains?"
+    },
+    {
+      "id": 57,
+      "start": 125.3,
+      "end": 125.89999999999999,
+      "ts": "02:05.300 -> 02:05.900",
+      "jp": "東京は",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>は",
+      "zh": "东京是",
+      "en": "Tokyo is"
+    },
+    {
+      "id": 58,
+      "start": 125.89999999999999,
+      "end": 126.74,
+      "ts": "02:05.900 -> 02:06.740",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 59,
+      "start": 126.74,
+      "end": 129.26,
+      "ts": "02:06.740 -> 02:09.260",
+      "jp": "まあ東京だけじゃなくて",
+      "jp_html": "まあ<ruby>東京<rt>とうきょう</rt></ruby>だけじゃなくて",
+      "zh": "不只是东京",
+      "en": "Well, not just Tokyo"
+    },
+    {
+      "id": 60,
+      "start": 129.26,
+      "end": 130.2,
+      "ts": "02:09.260 -> 02:10.200",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "嗯——",
+      "en": "Um-"
+    },
+    {
+      "id": 61,
+      "start": 130.2,
+      "end": 131.74,
+      "ts": "02:10.200 -> 02:11.740",
+      "jp": "埼玉とかあの辺に行っても",
+      "jp_html": "<ruby>埼玉<rt>さいたま</rt></ruby>とかあの<ruby>辺<rt>へん</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>も",
+      "zh": "去到埼玉那边也可以",
+      "en": "Going to somewhere around Saitama might also work."
+    },
+    {
+      "id": 62,
+      "start": 131.74,
+      "end": 133.01999999999998,
+      "ts": "02:11.740 -> 02:13.020",
+      "jp": "全然山が見えない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>山<rt>やま</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>ない",
+      "zh": "完全看不见山",
+      "en": "I can't see any mountains."
+    },
+    {
+      "id": 63,
+      "start": 133.01999999999998,
+      "end": 135.07999999999998,
+      "ts": "02:13.020 -> 02:15.080",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "还行",
+      "en": "Well, okay."
+    },
+    {
+      "id": 64,
+      "start": 135.07999999999998,
+      "end": 136.16,
+      "ts": "02:15.080 -> 02:16.160",
+      "jp": "東京の",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>の",
+      "zh": "东京的",
+      "en": "Tokyo's"
+    },
+    {
+      "id": 65,
+      "start": 136.16,
+      "end": 136.84,
+      "ts": "02:16.160 -> 02:16.840",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 66,
+      "start": 136.84,
+      "end": 137.56,
+      "ts": "02:16.840 -> 02:17.560",
+      "jp": "どっちかな",
+      "jp_html": "どっちかな",
+      "zh": "哪个呢",
+      "en": "Which one?"
+    },
+    {
+      "id": 67,
+      "start": 137.56,
+      "end": 138.38,
+      "ts": "02:17.560 -> 02:18.380",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 68,
+      "start": 138.38,
+      "end": 139.06,
+      "ts": "02:18.380 -> 02:19.060",
+      "jp": "西ですね",
+      "jp_html": "<ruby>西<rt>にし</rt></ruby>ですね",
+      "zh": "西边呢",
+      "en": "It's west, right?"
+    },
+    {
+      "id": 69,
+      "start": 139.06,
+      "end": 141.42,
+      "ts": "02:19.060 -> 02:21.420",
+      "jp": "西の方にずーっと行くと山があります",
+      "jp_html": "<ruby>西<rt>にし</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>にずーっと<ruby>行く<rt>いく</rt></ruby>と<ruby>山<rt>やま</rt></ruby>があります",
+      "zh": "往西边走，会有一座山。",
+      "en": "If you go far to the west, there are mountains."
+    },
+    {
+      "id": 70,
+      "start": 141.42,
+      "end": 143.06,
+      "ts": "02:21.420 -> 02:23.060",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 71,
+      "start": 143.06,
+      "end": 145.04,
+      "ts": "02:23.060 -> 02:25.040",
+      "jp": "僕が住んでいるところから",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>住ん<rt>すん</rt></ruby>でいるところから",
+      "zh": "我住的地方从",
+      "en": "From where I live"
+    },
+    {
+      "id": 72,
+      "start": 145.04,
+      "end": 146.01999999999998,
+      "ts": "02:25.040 -> 02:26.020",
+      "jp": "全然見えない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>見え<rt>みえ</rt></ruby>ない",
+      "zh": "完全看不见",
+      "en": "Completely invisible"
+    },
+    {
+      "id": 73,
+      "start": 146.01999999999998,
+      "end": 147.34,
+      "ts": "02:26.020 -> 02:27.340",
+      "jp": "山が見えません",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>ません",
+      "zh": "看不见山",
+      "en": "I can't see the mountains."
+    },
+    {
+      "id": 74,
+      "start": 147.34,
+      "end": 148.07999999999998,
+      "ts": "02:27.340 -> 02:28.080",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 75,
+      "start": 148.07999999999998,
+      "end": 148.78,
+      "ts": "02:28.080 -> 02:28.780",
+      "jp": "山がない",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>がない",
+      "zh": "没有山",
+      "en": "There are no mountains."
+    },
+    {
+      "id": 76,
+      "start": 148.78,
+      "end": 150.9,
+      "ts": "02:28.780 -> 02:30.900",
+      "jp": "驚きましたね",
+      "jp_html": "<ruby>驚き<rt>おどろき</rt></ruby>ましたね",
+      "zh": "真了不起呢",
+      "en": "I was surprised, huh?"
+    },
+    {
+      "id": 77,
+      "start": 150.9,
+      "end": 153.54,
+      "ts": "02:30.900 -> 02:33.540",
+      "jp": "もう慣れたけど",
+      "jp_html": "もう<ruby>慣れ<rt>なれ</rt></ruby>たけど",
+      "zh": "我已经习惯了。",
+      "en": "I've gotten used to it but"
+    },
+    {
+      "id": 78,
+      "start": 153.54,
+      "end": 155.34,
+      "ts": "02:33.540 -> 02:35.340",
+      "jp": "最初は驚きました",
+      "jp_html": "<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>驚き<rt>おどろき</rt></ruby>ました",
+      "zh": "最初は驚きました",
+      "en": "At first, I was surprised."
+    },
+    {
+      "id": 79,
+      "start": 155.34,
+      "end": 156.96,
+      "ts": "02:35.340 -> 02:36.960",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "呃",
+      "en": "Ah"
+    },
+    {
+      "id": 80,
+      "start": 156.96,
+      "end": 158.52,
+      "ts": "02:36.960 -> 02:38.520",
+      "jp": "そして山登りね",
+      "jp_html": "そして<ruby>山登り<rt>やまのぼり</rt></ruby>ね",
+      "zh": "然后是登山呢",
+      "en": "And then there was mountain climbing."
+    },
+    {
+      "id": 81,
+      "start": 158.52,
+      "end": 159.64000000000001,
+      "ts": "02:38.520 -> 02:39.640",
+      "jp": "僕が子供の時",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "我小时候",
+      "en": "When I was a child"
+    },
+    {
+      "id": 82,
+      "start": 159.64000000000001,
+      "end": 161.62,
+      "ts": "02:39.640 -> 02:41.620",
+      "jp": "山登りをしたかというと",
+      "jp_html": "<ruby>山登り<rt>やまのぼり</rt></ruby>をしたかというと",
+      "zh": "是否去爬山了呢",
+      "en": "Did I go mountain climbing?"
+    },
+    {
+      "id": 83,
+      "start": 161.62,
+      "end": 163.0,
+      "ts": "02:41.620 -> 02:43.000",
+      "jp": "あんまりしないんですね",
+      "jp_html": "あんまりしないんですね",
+      "zh": "确实不经常做呢",
+      "en": "You don't do it very often, right?"
+    },
+    {
+      "id": 84,
+      "start": 163.0,
+      "end": 165.64000000000001,
+      "ts": "02:43.000 -> 02:45.640",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 85,
+      "start": 165.64000000000001,
+      "end": 168.58,
+      "ts": "02:45.640 -> 02:48.580",
+      "jp": "本当に山の近くに住んでると",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でると",
+      "zh": "真的住在山附近",
+      "en": "Truly living near the mountain,"
+    },
+    {
+      "id": 86,
+      "start": 168.58,
+      "end": 170.8,
+      "ts": "02:48.580 -> 02:50.800",
+      "jp": "山の中に入らない",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>入ら<rt>いら</rt></ruby>ない",
+      "zh": "不要进入山中",
+      "en": "Don't enter the mountains."
+    },
+    {
+      "id": 87,
+      "start": 170.8,
+      "end": 172.28,
+      "ts": "02:50.800 -> 02:52.280",
+      "jp": "山に行かないんです",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>に<ruby>行か<rt>いか</rt></ruby>ないんです",
+      "zh": "不去山里",
+      "en": "He doesn't go to the mountains."
+    },
+    {
+      "id": 88,
+      "start": 172.28,
+      "end": 173.76,
+      "ts": "02:52.280 -> 02:53.760",
+      "jp": "なぜかというと",
+      "jp_html": "なぜかというと",
+      "zh": "因为这样",
+      "en": "Because of some reason"
+    },
+    {
+      "id": 89,
+      "start": 173.76,
+      "end": 174.86,
+      "ts": "02:53.760 -> 02:54.860",
+      "jp": "怖いから",
+      "jp_html": "<ruby>怖い<rt>こわい</rt></ruby>から",
+      "zh": "害怕所以",
+      "en": "Scary because"
+    },
+    {
+      "id": 90,
+      "start": 174.86,
+      "end": 176.6,
+      "ts": "02:54.860 -> 02:56.600",
+      "jp": "危ないんですね",
+      "jp_html": "<ruby>危ない<rt>あぶない</rt></ruby>んですね",
+      "zh": "这很危险呢",
+      "en": "It's dangerous, right?"
+    },
+    {
+      "id": 91,
+      "start": 176.6,
+      "end": 179.46,
+      "ts": "02:56.600 -> 02:59.460",
+      "jp": "田舎の山は",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>の<ruby>山<rt>やま</rt></ruby>は",
+      "zh": "乡村的山",
+      "en": "The mountains in the countryside"
+    },
+    {
+      "id": 92,
+      "start": 179.46,
+      "end": 183.14,
+      "ts": "02:59.460 -> 03:03.140",
+      "jp": "ハイキングをするための山ではないんですね",
+      "jp_html": "ハイキングをするための<ruby>山<rt>やま</rt></ruby>ではないんですね",
+      "zh": "这并不是为了徒步爬山而设的山呢",
+      "en": "It's not a mountain for hiking, right?"
+    },
+    {
+      "id": 93,
+      "start": 183.14,
+      "end": 184.82,
+      "ts": "03:03.140 -> 03:04.820",
+      "jp": "道がない",
+      "jp_html": "<ruby>道<rt>みち</rt></ruby>がない",
+      "zh": "没有道路",
+      "en": "There is no way/path."
+    },
+    {
+      "id": 94,
+      "start": 184.82,
+      "end": 186.42,
+      "ts": "03:04.820 -> 03:06.420",
+      "jp": "全然道がない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>道<rt>みち</rt></ruby>がない",
+      "zh": "完全没有道路",
+      "en": "There is not a single path."
+    },
+    {
+      "id": 95,
+      "start": 186.42,
+      "end": 187.34,
+      "ts": "03:06.420 -> 03:07.340",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 96,
+      "start": 187.34,
+      "end": 188.92,
+      "ts": "03:07.340 -> 03:08.920",
+      "jp": "動物がいます",
+      "jp_html": "<ruby>動物<rt>どうぶつ</rt></ruby>がいます",
+      "zh": "有动物。",
+      "en": "There are animals."
+    },
+    {
+      "id": 97,
+      "start": 188.92,
+      "end": 189.98,
+      "ts": "03:08.920 -> 03:09.980",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 98,
+      "start": 189.98,
+      "end": 191.18,
+      "ts": "03:09.980 -> 03:11.180",
+      "jp": "イノシシ",
+      "jp_html": "イノシシ",
+      "zh": "野猪",
+      "en": "Pig"
+    },
+    {
+      "id": 99,
+      "start": 191.18,
+      "end": 192.74,
+      "ts": "03:11.180 -> 03:12.740",
+      "jp": "イノシシ",
+      "jp_html": "イノシシ",
+      "zh": "野猪",
+      "en": "Pig"
+    },
+    {
+      "id": 100,
+      "start": 192.74,
+      "end": 195.66,
+      "ts": "03:12.740 -> 03:15.660",
+      "jp": "イノシシというのは",
+      "jp_html": "イノシシというのは",
+      "zh": "猪是一种动物。",
+      "en": "The wild boar is"
+    },
+    {
+      "id": 101,
+      "start": 195.66,
+      "end": 198.48,
+      "ts": "03:15.660 -> 03:18.480",
+      "jp": "ちょっと豚みたいな動物ですね",
+      "jp_html": "ちょっと<ruby>豚<rt>ぶた</rt></ruby>みたいな<ruby>動物<rt>どうぶつ</rt></ruby>ですね",
+      "zh": "这种动物有点像猪。",
+      "en": "It's kind of like a pig animal, huh?"
+    },
+    {
+      "id": 102,
+      "start": 198.48,
+      "end": 201.79999999999998,
+      "ts": "03:18.480 -> 03:21.800",
+      "jp": "でも豚よりもっともっと怖いです",
+      "jp_html": "でも<ruby>豚<rt>ぶた</rt></ruby>よりもっともっと<ruby>怖い<rt>こわい</rt></ruby>です",
+      "zh": "但比猪更可怕得多",
+      "en": "But it's even more terrifying than pigs."
+    },
+    {
+      "id": 103,
+      "start": 201.79999999999998,
+      "end": 204.22,
+      "ts": "03:21.800 -> 03:24.220",
+      "jp": "豚よりもっともっと早いです",
+      "jp_html": "<ruby>豚<rt>ぶた</rt></ruby>よりもっともっと<ruby>早い<rt>はやい</rt></ruby>です",
+      "zh": "比猪更快得多",
+      "en": "It is faster than a pig."
+    },
+    {
+      "id": 104,
+      "start": 204.22,
+      "end": 205.76,
+      "ts": "03:24.220 -> 03:25.760",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 105,
+      "start": 205.76,
+      "end": 207.58,
+      "ts": "03:25.760 -> 03:27.580",
+      "jp": "牙",
+      "jp_html": "<ruby>牙<rt>きば</rt></ruby>",
+      "zh": "牙齒",
+      "en": "tooth"
+    },
+    {
+      "id": 106,
+      "start": 207.58,
+      "end": 208.48,
+      "ts": "03:27.580 -> 03:28.480",
+      "jp": "牙かな",
+      "jp_html": "<ruby>牙<rt>きば</rt></ruby>かな",
+      "zh": "牙齿呢",
+      "en": "Toothache"
+    },
+    {
+      "id": 107,
+      "start": 208.48,
+      "end": 209.08,
+      "ts": "03:28.480 -> 03:29.080",
+      "jp": "牙",
+      "jp_html": "<ruby>牙<rt>きば</rt></ruby>",
+      "zh": "牙齒",
+      "en": "tooth"
+    },
+    {
+      "id": 108,
+      "start": 209.08,
+      "end": 211.38,
+      "ts": "03:29.080 -> 03:31.380",
+      "jp": "ちょっとこう",
+      "jp_html": "ちょっとこう",
+      "zh": "稍微这样",
+      "en": "Just a little like this."
+    },
+    {
+      "id": 109,
+      "start": 211.38,
+      "end": 212.82,
+      "ts": "03:31.380 -> 03:32.820",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 110,
+      "start": 212.82,
+      "end": 216.46,
+      "ts": "03:32.820 -> 03:36.460",
+      "jp": "歯が",
+      "jp_html": "<ruby>歯<rt>は</rt></ruby>が",
+      "zh": "牙齿",
+      "en": "teeth"
+    },
+    {
+      "id": 111,
+      "start": 216.46,
+      "end": 218.86,
+      "ts": "03:36.460 -> 03:38.860",
+      "jp": "強い歯を持ってるし",
+      "jp_html": "<ruby>強い<rt>つよい</rt></ruby><ruby>歯を<rt>はを</rt></ruby><ruby>持っ<rt>もっ</rt></ruby>てるし",
+      "zh": "我有 strong 的牙齿",
+      "en": "I have strong teeth."
+    },
+    {
+      "id": 112,
+      "start": 218.86,
+      "end": 221.56,
+      "ts": "03:38.860 -> 03:41.560",
+      "jp": "顔からこう",
+      "jp_html": "<ruby>顔<rt>かお</rt></ruby>からこう",
+      "zh": "从脸上看出来",
+      "en": "From the face, like"
+    },
+    {
+      "id": 113,
+      "start": 221.56,
+      "end": 223.06,
+      "ts": "03:41.560 -> 03:43.060",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 114,
+      "start": 223.06,
+      "end": 225.72,
+      "ts": "03:43.060 -> 03:45.720",
+      "jp": "固い骨みたいなのが",
+      "jp_html": "<ruby>固い<rt>かたい</rt></ruby><ruby>骨<rt>ほね</rt></ruby>みたいなのが",
+      "zh": "像骨头一样硬的东西",
+      "en": "Something like a hard bone"
+    },
+    {
+      "id": 115,
+      "start": 225.72,
+      "end": 226.84,
+      "ts": "03:45.720 -> 03:46.840",
+      "jp": "出てて",
+      "jp_html": "<ruby>出て<rt>でて</rt></ruby>て",
+      "zh": "出来着",
+      "en": "Coming out."
+    },
+    {
+      "id": 116,
+      "start": 226.84,
+      "end": 228.26,
+      "ts": "03:46.840 -> 03:48.260",
+      "jp": "危ないんです",
+      "jp_html": "<ruby>危ない<rt>あぶない</rt></ruby>んです",
+      "zh": "很危险",
+      "en": "It's dangerous."
+    },
+    {
+      "id": 117,
+      "start": 228.26,
+      "end": 229.1,
+      "ts": "03:48.260 -> 03:49.100",
+      "jp": "本当に危ない",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>危ない<rt>あぶない</rt></ruby>",
+      "zh": "真的好危险",
+      "en": "It was really dangerous."
+    },
+    {
+      "id": 118,
+      "start": 229.1,
+      "end": 231.35999999999999,
+      "ts": "03:49.100 -> 03:51.360",
+      "jp": "えー",
+      "jp_html": "えー",
+      "zh": "嗯",
+      "en": "Ah"
+    },
+    {
+      "id": 119,
+      "start": 231.35999999999999,
+      "end": 232.46,
+      "ts": "03:51.360 -> 03:52.460",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 120,
+      "start": 232.46,
+      "end": 233.73999999999998,
+      "ts": "03:52.460 -> 03:53.740",
+      "jp": "町の人が",
+      "jp_html": "<ruby>町<rt>まち</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が",
+      "zh": "镇的人",
+      "en": "The people of the town"
+    },
+    {
+      "id": 121,
+      "start": 233.73999999999998,
+      "end": 235.48,
+      "ts": "03:53.740 -> 03:55.480",
+      "jp": "山の中とか",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中と<rt>あたと</rt></ruby>か",
+      "zh": "山中",
+      "en": "In the mountains"
+    },
+    {
+      "id": 122,
+      "start": 235.48,
+      "end": 235.92,
+      "ts": "03:55.480 -> 03:55.920",
+      "jp": "その",
+      "jp_html": "その",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 123,
+      "start": 235.92,
+      "end": 237.68,
+      "ts": "03:55.920 -> 03:57.680",
+      "jp": "まあ仕事をしますよね",
+      "jp_html": "まあ<ruby>仕事<rt>しごと</rt></ruby>をしますよね",
+      "zh": "毕竟还是要工作的吧",
+      "en": "Well, you do work, don't you?"
+    },
+    {
+      "id": 124,
+      "start": 237.68,
+      "end": 239.04,
+      "ts": "03:57.680 -> 03:59.040",
+      "jp": "木を切ったり",
+      "jp_html": "<ruby>木<rt>き</rt></ruby>を<ruby>切っ<rt>きっ</rt></ruby>たり",
+      "zh": "砍伐木材",
+      "en": "To cut down trees"
+    },
+    {
+      "id": 125,
+      "start": 239.04,
+      "end": 240.74,
+      "ts": "03:59.040 -> 04:00.740",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 126,
+      "start": 240.74,
+      "end": 241.62,
+      "ts": "04:00.740 -> 04:01.620",
+      "jp": "畑で",
+      "jp_html": "<ruby>畑<rt>はたけ</rt></ruby>で",
+      "zh": "田地里",
+      "en": "In the field"
+    },
+    {
+      "id": 127,
+      "start": 241.62,
+      "end": 244.04,
+      "ts": "04:01.620 -> 04:04.040",
+      "jp": "野菜を育てたりするときに",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>を<ruby>育て<rt>そだて</rt></ruby>たりするときに",
+      "zh": "种植蔬菜的时候",
+      "en": "When growing vegetables or something like that"
+    },
+    {
+      "id": 128,
+      "start": 244.04,
+      "end": 244.85999999999999,
+      "ts": "04:04.040 -> 04:04.860",
+      "jp": "イノシシに",
+      "jp_html": "イノシシに",
+      "zh": "猪",
+      "en": "Deer with"
+    },
+    {
+      "id": 129,
+      "start": 244.85999999999999,
+      "end": 246.54,
+      "ts": "04:04.860 -> 04:06.540",
+      "jp": "襲われることがあります",
+      "jp_html": "<ruby>襲わ<rt>おそわ</rt></ruby>れることがあります",
+      "zh": "有时会被袭击",
+      "en": "I am sometimes attacked."
+    },
+    {
+      "id": 130,
+      "start": 246.54,
+      "end": 247.85999999999999,
+      "ts": "04:06.540 -> 04:07.860",
+      "jp": "本当に危ない",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>危ない<rt>あぶない</rt></ruby>",
+      "zh": "真的好危险",
+      "en": "It was really dangerous."
+    },
+    {
+      "id": 131,
+      "start": 247.85999999999999,
+      "end": 249.4,
+      "ts": "04:07.860 -> 04:09.400",
+      "jp": "危ないです",
+      "jp_html": "<ruby>危ない<rt>あぶない</rt></ruby>です",
+      "zh": "危险",
+      "en": "It's dangerous."
+    },
+    {
+      "id": 132,
+      "start": 249.4,
+      "end": 252.0,
+      "ts": "04:09.400 -> 04:12.000",
+      "jp": "まああとは",
+      "jp_html": "まああとは",
+      "zh": "好吧，剩下的就",
+      "en": "Well, from there on"
+    },
+    {
+      "id": 133,
+      "start": 252.0,
+      "end": 253.24,
+      "ts": "04:12.000 -> 04:13.240",
+      "jp": "いろいろな虫とかも",
+      "jp_html": "いろいろな<ruby>虫<rt>むし</rt></ruby>とかも",
+      "zh": "各种各样的虫子也",
+      "en": "All sorts of insects and bugs as well"
+    },
+    {
+      "id": 134,
+      "start": 253.24,
+      "end": 254.35999999999999,
+      "ts": "04:13.240 -> 04:14.360",
+      "jp": "もちろんいるし",
+      "jp_html": "もちろんいるし",
+      "zh": "当然有啊",
+      "en": "Of course there is."
+    },
+    {
+      "id": 135,
+      "start": 254.35999999999999,
+      "end": 255.06,
+      "ts": "04:14.360 -> 04:15.060",
+      "jp": "あとね",
+      "jp_html": "あとね",
+      "zh": "而且",
+      "en": "and then"
+    },
+    {
+      "id": 136,
+      "start": 255.06,
+      "end": 255.9,
+      "ts": "04:15.060 -> 04:15.900",
+      "jp": "やっぱりね",
+      "jp_html": "やっぱりね",
+      "zh": "果然啊",
+      "en": "I thought so"
+    },
+    {
+      "id": 137,
+      "start": 255.9,
+      "end": 257.76,
+      "ts": "04:15.900 -> 04:17.760",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "嗯——",
+      "en": "Um-"
+    },
+    {
+      "id": 138,
+      "start": 257.76,
+      "end": 259.88,
+      "ts": "04:17.760 -> 04:19.880",
+      "jp": "道がない山は危ないんですね",
+      "jp_html": "<ruby>道<rt>みち</rt></ruby>がない<ruby>山<rt>やま</rt></ruby>は<ruby>危ない<rt>あぶない</rt></ruby>んですね",
+      "zh": "没有路的山是危险的啊",
+      "en": "A mountain without a path is dangerous, I see."
+    },
+    {
+      "id": 139,
+      "start": 259.88,
+      "end": 262.66,
+      "ts": "04:19.880 -> 04:22.660",
+      "jp": "特に子供とかが中に入ると",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby><ruby>子供<rt>こども</rt></ruby>とかが<ruby>中に<rt>なかに</rt></ruby><ruby>入る<rt>いる</rt></ruby>と",
+      "zh": "特别是孩子们进去的时候",
+      "en": "Especially when children go inside."
+    },
+    {
+      "id": 140,
+      "start": 262.66,
+      "end": 264.24,
+      "ts": "04:22.660 -> 04:24.240",
+      "jp": "わからなくなって",
+      "jp_html": "わからなくなって",
+      "zh": "看不懂了",
+      "en": "I'm confused"
+    },
+    {
+      "id": 141,
+      "start": 264.24,
+      "end": 266.14,
+      "ts": "04:24.240 -> 04:26.140",
+      "jp": "迷ってしまって",
+      "jp_html": "<ruby>迷っ<rt>まよっ</rt></ruby>てしまって",
+      "zh": "迷了进去",
+      "en": "Got lost"
+    },
+    {
+      "id": 142,
+      "start": 266.14,
+      "end": 267.38,
+      "ts": "04:26.140 -> 04:27.380",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "嗯——",
+      "en": "Um-"
+    },
+    {
+      "id": 143,
+      "start": 267.38,
+      "end": 268.2,
+      "ts": "04:27.380 -> 04:28.200",
+      "jp": "出られなくなる",
+      "jp_html": "<ruby>出ら<rt>でら</rt></ruby>れなくなる",
+      "zh": "出不了去了",
+      "en": "Cannot get out"
+    },
+    {
+      "id": 144,
+      "start": 268.2,
+      "end": 268.82,
+      "ts": "04:28.200 -> 04:28.820",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 145,
+      "start": 268.82,
+      "end": 270.2,
+      "ts": "04:28.820 -> 04:30.200",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 146,
+      "start": 270.2,
+      "end": 271.32,
+      "ts": "04:30.200 -> 04:31.320",
+      "jp": "天気も",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>も",
+      "zh": "天气也",
+      "en": "Weather also"
+    },
+    {
+      "id": 147,
+      "start": 271.32,
+      "end": 272.68,
+      "ts": "04:31.320 -> 04:32.680",
+      "jp": "変わりやすいし",
+      "jp_html": "<ruby>変わり<rt>かわり</rt></ruby>やすいし",
+      "zh": "变化无常的suming",
+      "en": "It's changeable."
+    },
+    {
+      "id": 148,
+      "start": 272.68,
+      "end": 273.96,
+      "ts": "04:32.680 -> 04:33.960",
+      "jp": "雨が降ったり",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>たり",
+      "zh": "雨下或停",
+      "en": "It rained or"
+    },
+    {
+      "id": 149,
+      "start": 273.96,
+      "end": 274.48,
+      "ts": "04:33.960 -> 04:34.480",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 150,
+      "start": 274.48,
+      "end": 275.96,
+      "ts": "04:34.480 -> 04:35.960",
+      "jp": "雷が落ちたり",
+      "jp_html": "<ruby>雷<rt>かみなり</rt></ruby>が<ruby>落ち<rt>おち</rt></ruby>たり",
+      "zh": "雷击中了",
+      "en": "Lightning strikes"
+    },
+    {
+      "id": 151,
+      "start": 275.96,
+      "end": 276.98,
+      "ts": "04:35.960 -> 04:36.980",
+      "jp": "結構危ないです",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>危ない<rt>あぶない</rt></ruby>です",
+      "zh": "结构危险",
+      "en": "It's quite dangerous."
+    },
+    {
+      "id": 152,
+      "start": 276.98,
+      "end": 278.3,
+      "ts": "04:36.980 -> 04:38.300",
+      "jp": "だから",
+      "jp_html": "だから",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 153,
+      "start": 278.3,
+      "end": 280.22,
+      "ts": "04:38.300 -> 04:40.220",
+      "jp": "子供たちは結構気をつけて",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>たちは<ruby>結構<rt>けっこう</rt></ruby><ruby>気を<rt>きを</rt></ruby>つけて",
+      "zh": "孩子们挺注意的",
+      "en": "The children are quite careful."
+    },
+    {
+      "id": 154,
+      "start": 280.22,
+      "end": 282.08000000000004,
+      "ts": "04:40.220 -> 04:42.080",
+      "jp": "山の中に入らないように",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>入ら<rt>いら</rt></ruby>ないように",
+      "zh": "不要进入山中",
+      "en": "Do not enter the mountains."
+    },
+    {
+      "id": 155,
+      "start": 282.08000000000004,
+      "end": 283.06,
+      "ts": "04:42.080 -> 04:43.060",
+      "jp": "するんですね",
+      "jp_html": "するんですね",
+      "zh": "原来如此",
+      "en": "I do that, huh?"
+    },
+    {
+      "id": 156,
+      "start": 283.06,
+      "end": 284.86,
+      "ts": "04:43.060 -> 04:44.860",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 157,
+      "start": 284.86,
+      "end": 286.32,
+      "ts": "04:44.860 -> 04:46.320",
+      "jp": "山の近くは大丈夫です",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>は<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "山的附近是安全的",
+      "en": "It's okay near the mountain."
+    },
+    {
+      "id": 158,
+      "start": 286.32,
+      "end": 287.42,
+      "ts": "04:46.320 -> 04:47.420",
+      "jp": "山の近く",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>",
+      "zh": "山附近",
+      "en": "Near the mountain"
+    },
+    {
+      "id": 159,
+      "start": 287.42,
+      "end": 287.8,
+      "ts": "04:47.420 -> 04:47.800",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 160,
+      "start": 287.8,
+      "end": 288.92,
+      "ts": "04:47.800 -> 04:48.920",
+      "jp": "山のその",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>のその",
+      "zh": "那座山",
+      "en": "The mountain that"
+    },
+    {
+      "id": 161,
+      "start": 288.92,
+      "end": 290.18,
+      "ts": "04:48.920 -> 04:50.180",
+      "jp": "ふもとっていうか",
+      "jp_html": "ふもとっていうか",
+      "zh": "仿佛说paralleled",
+      "en": "Kind of like a hug, you know?"
+    },
+    {
+      "id": 162,
+      "start": 290.18,
+      "end": 290.68,
+      "ts": "04:50.180 -> 04:50.680",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 163,
+      "start": 290.68,
+      "end": 291.08000000000004,
+      "ts": "04:50.680 -> 04:51.080",
+      "jp": "道",
+      "jp_html": "<ruby>道<rt>みち</rt></ruby>",
+      "zh": "道",
+      "en": "Dao"
+    },
+    {
+      "id": 164,
+      "start": 291.08000000000004,
+      "end": 292.52000000000004,
+      "ts": "04:51.080 -> 04:52.520",
+      "jp": "道があるところね",
+      "jp_html": "<ruby>道<rt>みち</rt></ruby>があるところね",
+      "zh": "那里有路吧",
+      "en": "There's a way, you know?"
+    },
+    {
+      "id": 165,
+      "start": 292.52000000000004,
+      "end": 294.98,
+      "ts": "04:52.520 -> 04:54.980",
+      "jp": "人間が作った道があるところは",
+      "jp_html": "<ruby>人間<rt>にんげん</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>道<rt>みち</rt></ruby>があるところは",
+      "zh": "有人造的路的地方",
+      "en": "There is where a road made by humans is."
+    },
+    {
+      "id": 166,
+      "start": 294.98,
+      "end": 295.6,
+      "ts": "04:54.980 -> 04:55.600",
+      "jp": "まだ大丈夫",
+      "jp_html": "まだ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "还行",
+      "en": "It's still okay."
+    },
+    {
+      "id": 167,
+      "start": 295.6,
+      "end": 296.8,
+      "ts": "04:55.600 -> 04:56.800",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 168,
+      "start": 296.8,
+      "end": 299.86,
+      "ts": "04:56.800 -> 04:59.860",
+      "jp": "人間が作った道がないところ",
+      "jp_html": "<ruby>人間<rt>にんげん</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>道<rt>みち</rt></ruby>がないところ",
+      "zh": "没有人走的地方",
+      "en": "There is nowhere where human-made roads exist."
+    },
+    {
+      "id": 169,
+      "start": 299.86,
+      "end": 300.92,
+      "ts": "04:59.860 -> 05:00.920",
+      "jp": "これは",
+      "jp_html": "これは",
+      "zh": "这是",
+      "en": "This is"
+    },
+    {
+      "id": 170,
+      "start": 300.92,
+      "end": 302.18,
+      "ts": "05:00.920 -> 05:02.180",
+      "jp": "ちょっと怖いです",
+      "jp_html": "ちょっと<ruby>怖い<rt>こわい</rt></ruby>です",
+      "zh": "有点害怕",
+      "en": "It's a little scary."
+    },
+    {
+      "id": 171,
+      "start": 302.18,
+      "end": 302.5,
+      "ts": "05:02.180 -> 05:02.500",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 172,
+      "start": 302.5,
+      "end": 304.06,
+      "ts": "05:02.500 -> 05:04.060",
+      "jp": "僕はそういうのが分かる",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>そういうのが<ruby>分か<rt>わか</rt></ruby>る",
+      "zh": "我知道那种感觉",
+      "en": "I understand that."
+    },
+    {
+      "id": 173,
+      "start": 304.06,
+      "end": 306.32,
+      "ts": "05:04.060 -> 05:06.320",
+      "jp": "やっぱり田舎で育って",
+      "jp_html": "やっぱり<ruby>田舎<rt>いなか</rt></ruby>で<ruby>育っ<rt>そだっ</rt></ruby>て",
+      "zh": "果然在乡下长大",
+      "en": "Sure, I grew up in the countryside."
+    },
+    {
+      "id": 174,
+      "start": 306.32,
+      "end": 306.88,
+      "ts": "05:06.320 -> 05:06.880",
+      "jp": "ね",
+      "jp_html": "ね",
+      "zh": "呢",
+      "en": "ne"
+    },
+    {
+      "id": 175,
+      "start": 306.88,
+      "end": 308.52,
+      "ts": "05:06.880 -> 05:08.520",
+      "jp": "山の近くで育ったから",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>で<ruby>育っ<rt>そだっ</rt></ruby>たから",
+      "zh": "因为我在山附近长大",
+      "en": "I grew up near the mountain."
+    },
+    {
+      "id": 176,
+      "start": 308.52,
+      "end": 310.2,
+      "ts": "05:08.520 -> 05:10.200",
+      "jp": "なんとなく分かるんです",
+      "jp_html": "なんとなく<ruby>分か<rt>わか</rt></ruby>るんです",
+      "zh": "大概能懂吧",
+      "en": "I kind of understand it."
+    },
+    {
+      "id": 177,
+      "start": 310.2,
+      "end": 311.02,
+      "ts": "05:10.200 -> 05:11.020",
+      "jp": "ここは",
+      "jp_html": "ここは",
+      "zh": "这里是",
+      "en": "This is"
+    },
+    {
+      "id": 178,
+      "start": 311.02,
+      "end": 312.02,
+      "ts": "05:11.020 -> 05:12.020",
+      "jp": "危ないぞ",
+      "jp_html": "<ruby>危ない<rt>あぶない</rt></ruby>ぞ",
+      "zh": "危险啊",
+      "en": "It's dangerous."
+    },
+    {
+      "id": 179,
+      "start": 312.02,
+      "end": 313.48,
+      "ts": "05:12.020 -> 05:13.480",
+      "jp": "これ以上は",
+      "jp_html": "これ<ruby>以上<rt>いじょう</rt></ruby>は",
+      "zh": "这以上是",
+      "en": "This much more is"
+    },
+    {
+      "id": 180,
+      "start": 313.48,
+      "end": 314.58,
+      "ts": "05:13.480 -> 05:14.580",
+      "jp": "危険だ",
+      "jp_html": "<ruby>危険<rt>きけん</rt></ruby>だ",
+      "zh": "危险",
+      "en": "It's dangerous."
+    },
+    {
+      "id": 181,
+      "start": 314.58,
+      "end": 316.48,
+      "ts": "05:14.580 -> 05:16.480",
+      "jp": "分かる",
+      "jp_html": "<ruby>分か<rt>わか</rt></ruby>る",
+      "zh": "明白",
+      "en": "Understood"
+    },
+    {
+      "id": 182,
+      "start": 316.48,
+      "end": 318.38,
+      "ts": "05:16.480 -> 05:18.380",
+      "jp": "でも多分",
+      "jp_html": "でも<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "但是大概吧",
+      "en": "But probably"
+    },
+    {
+      "id": 183,
+      "start": 318.38,
+      "end": 321.34,
+      "ts": "05:18.380 -> 05:21.340",
+      "jp": "都会で生まれ育った人とか",
+      "jp_html": "<ruby>都会<rt>とかい</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby><ruby>育っ<rt>そだっ</rt></ruby>た<ruby>人<rt>にん</rt></ruby>とか",
+      "zh": "在城市出生和长大的人等等",
+      "en": "People who were born and raised in the city"
+    },
+    {
+      "id": 184,
+      "start": 321.34,
+      "end": 323.26,
+      "ts": "05:21.340 -> 05:23.260",
+      "jp": "分からないと思う",
+      "jp_html": "<ruby>分か<rt>わか</rt></ruby>らないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想不明白",
+      "en": "I think you don't understand."
+    },
+    {
+      "id": 185,
+      "start": 323.26,
+      "end": 324.53999999999996,
+      "ts": "05:23.260 -> 05:24.540",
+      "jp": "だからたまーにね",
+      "jp_html": "だからたまーにね",
+      "zh": "所以偶尔会这样吧",
+      "en": "So sometimes, you know?"
+    },
+    {
+      "id": 186,
+      "start": 324.53999999999996,
+      "end": 325.86,
+      "ts": "05:24.540 -> 05:25.860",
+      "jp": "ハイキングをして",
+      "jp_html": "ハイキングをして",
+      "zh": "徒步旅行",
+      "en": "To go hiking"
+    },
+    {
+      "id": 187,
+      "start": 325.86,
+      "end": 327.5,
+      "ts": "05:25.860 -> 05:27.500",
+      "jp": "人が",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>が",
+      "zh": "人",
+      "en": "people"
+    },
+    {
+      "id": 188,
+      "start": 327.5,
+      "end": 329.28,
+      "ts": "05:27.500 -> 05:29.280",
+      "jp": "まあ迷って",
+      "jp_html": "まあ<ruby>迷っ<rt>まよっ</rt></ruby>て",
+      "zh": "算了，犹豫一下",
+      "en": "Well, pondering"
+    },
+    {
+      "id": 189,
+      "start": 329.28,
+      "end": 330.86,
+      "ts": "05:29.280 -> 05:30.860",
+      "jp": "いなくなったり",
+      "jp_html": "いなくなったり",
+      "zh": "不见了",
+      "en": "Disappeared or vanished"
+    },
+    {
+      "id": 190,
+      "start": 330.86,
+      "end": 332.2,
+      "ts": "05:30.860 -> 05:32.200",
+      "jp": "死んでしまったり",
+      "jp_html": "<ruby>死ん<rt>しん</rt></ruby>でしまったり",
+      "zh": "死了或者",
+      "en": "Died oristrate"
+    },
+    {
+      "id": 191,
+      "start": 332.2,
+      "end": 332.78,
+      "ts": "05:32.200 -> 05:32.780",
+      "jp": "そういうことも",
+      "jp_html": "そういうことも",
+      "zh": "这样的事情也",
+      "en": "Such things also"
+    },
+    {
+      "id": 192,
+      "start": 332.78,
+      "end": 332.98,
+      "ts": "05:32.780 -> 05:32.980",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 193,
+      "start": 332.98,
+      "end": 334.24,
+      "ts": "05:32.980 -> 05:34.240",
+      "jp": "あります",
+      "jp_html": "あります",
+      "zh": "有",
+      "en": "There is"
+    },
+    {
+      "id": 194,
+      "start": 334.24,
+      "end": 337.66,
+      "ts": "05:34.240 -> 05:37.660",
+      "jp": "ちょっと怖い話になってしまった",
+      "jp_html": "ちょっと<ruby>怖い<rt>こわい</rt></ruby><ruby>話<rt>はなし</rt></ruby>になってしまった",
+      "zh": "讲了个有点吓人的故事",
+      "en": "It turned into a slightly scary story."
+    },
+    {
+      "id": 195,
+      "start": 337.66,
+      "end": 338.82,
+      "ts": "05:37.660 -> 05:38.820",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 196,
+      "start": 338.82,
+      "end": 339.58,
+      "ts": "05:38.820 -> 05:39.580",
+      "jp": "まああの",
+      "jp_html": "まああの",
+      "zh": "嗯，那个",
+      "en": "Well, those"
+    },
+    {
+      "id": 197,
+      "start": 339.58,
+      "end": 341.08,
+      "ts": "05:39.580 -> 05:41.080",
+      "jp": "日本の山って",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>山<rt>やま</rt></ruby>って",
+      "zh": "日本的大山脈",
+      "en": "Japanese mountains"
+    },
+    {
+      "id": 198,
+      "start": 341.08,
+      "end": 342.12,
+      "ts": "05:41.080 -> 05:42.120",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 199,
+      "start": 342.12,
+      "end": 343.16,
+      "ts": "05:42.120 -> 05:43.160",
+      "jp": "遠くから見ると",
+      "jp_html": "<ruby>遠く<rt>とおく</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>と",
+      "zh": "从远处看",
+      "en": "From far away,"
+    },
+    {
+      "id": 200,
+      "start": 343.16,
+      "end": 344.64,
+      "ts": "05:43.160 -> 05:44.640",
+      "jp": "とても美しいんですね",
+      "jp_html": "とても<ruby>美しい<rt>うつくしい</rt></ruby>んですね",
+      "zh": "真的很美呢",
+      "en": "It's very beautiful, isn't it?"
+    },
+    {
+      "id": 201,
+      "start": 344.64,
+      "end": 346.62,
+      "ts": "05:44.640 -> 05:46.620",
+      "jp": "木がたくさんあって",
+      "jp_html": "<ruby>木<rt>き</rt></ruby>がたくさんあって",
+      "zh": "有很多树",
+      "en": "There are many trees."
+    },
+    {
+      "id": 202,
+      "start": 346.62,
+      "end": 347.44,
+      "ts": "05:46.620 -> 05:47.440",
+      "jp": "緑で",
+      "jp_html": "<ruby>緑<rt>みどり</rt></ruby>で",
+      "zh": "绿色",
+      "en": "Green"
+    },
+    {
+      "id": 203,
+      "start": 347.44,
+      "end": 347.96000000000004,
+      "ts": "05:47.440 -> 05:47.960",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 204,
+      "start": 347.96000000000004,
+      "end": 349.56,
+      "ts": "05:47.960 -> 05:49.560",
+      "jp": "やっぱり中に入るのは",
+      "jp_html": "やっぱり<ruby>中に<rt>なかに</rt></ruby><ruby>入る<rt>いる</rt></ruby>のは",
+      "zh": "果然进入里面的是",
+      "en": "Surely entering it is..."
+    },
+    {
+      "id": 205,
+      "start": 349.56,
+      "end": 351.86,
+      "ts": "05:49.560 -> 05:51.860",
+      "jp": "やめた方がいいと思う",
+      "jp_html": "やめた<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得最好别做这件事",
+      "en": "I think it's better to stop."
+    },
+    {
+      "id": 206,
+      "start": 351.86,
+      "end": 352.58,
+      "ts": "05:51.860 -> 05:52.580",
+      "jp": "本当に",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に",
+      "zh": "真的",
+      "en": "Truly"
+    },
+    {
+      "id": 207,
+      "start": 352.58,
+      "end": 353.16,
+      "ts": "05:52.580 -> 05:53.160",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 208,
+      "start": 353.16,
+      "end": 354.34000000000003,
+      "ts": "05:53.160 -> 05:54.340",
+      "jp": "ハイキングコース",
+      "jp_html": "ハイキングコース",
+      "zh": "徒步路线",
+      "en": "Hiking trail"
+    },
+    {
+      "id": 209,
+      "start": 354.34000000000003,
+      "end": 355.34000000000003,
+      "ts": "05:54.340 -> 05:55.340",
+      "jp": "みたいにね",
+      "jp_html": "みたいにね",
+      "zh": "像那样呢",
+      "en": "like that, you know"
+    },
+    {
+      "id": 210,
+      "start": 355.34000000000003,
+      "end": 356.98,
+      "ts": "05:55.340 -> 05:56.980",
+      "jp": "ちゃんとコースがあるところは",
+      "jp_html": "ちゃんとコースがあるところは",
+      "zh": "有固定课程的地方是",
+      "en": "There are places that have proper courses."
+    },
+    {
+      "id": 211,
+      "start": 356.98,
+      "end": 357.7,
+      "ts": "05:56.980 -> 05:57.700",
+      "jp": "大丈夫です",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "他是真棒",
+      "en": "It's okay."
+    },
+    {
+      "id": 212,
+      "start": 357.7,
+      "end": 360.28,
+      "ts": "05:57.700 -> 06:00.280",
+      "jp": "でもそうじゃない山は",
+      "jp_html": "でもそうじゃない<ruby>山<rt>やま</rt></ruby>は",
+      "zh": "但那不是山",
+      "en": "But that's not the mountain."
+    },
+    {
+      "id": 213,
+      "start": 360.28,
+      "end": 362.5,
+      "ts": "06:00.280 -> 06:02.500",
+      "jp": "絶対入らないようにしてください",
+      "jp_html": "<ruby>絶対<rt>ぜったい</rt></ruby><ruby>入ら<rt>いら</rt></ruby>ないようにしてください",
+      "zh": "请一定不要让他进来。",
+      "en": "Please make sure they don't enter absolutely."
+    },
+    {
+      "id": 214,
+      "start": 362.5,
+      "end": 363.28,
+      "ts": "06:02.500 -> 06:03.280",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 215,
+      "start": 363.28,
+      "end": 363.97999999999996,
+      "ts": "06:03.280 -> 06:03.980",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Therefore"
+    },
+    {
+      "id": 216,
+      "start": 363.97999999999996,
+      "end": 365.03999999999996,
+      "ts": "06:03.980 -> 06:05.040",
+      "jp": "山登り",
+      "jp_html": "<ruby>山登り<rt>やまのぼり</rt></ruby>",
+      "zh": "登山",
+      "en": "Hiking"
+    },
+    {
+      "id": 217,
+      "start": 365.03999999999996,
+      "end": 365.58,
+      "ts": "06:05.040 -> 06:05.580",
+      "jp": "まああと",
+      "jp_html": "まああと",
+      "zh": "好吧，剩下",
+      "en": "Well, anyway"
+    },
+    {
+      "id": 218,
+      "start": 365.58,
+      "end": 367.47999999999996,
+      "ts": "06:05.580 -> 06:07.480",
+      "jp": "まあどうなのかな",
+      "jp_html": "まあどうなのかな",
+      "zh": "那到底怎么样呢？",
+      "en": "Well, what do you think?"
+    },
+    {
+      "id": 219,
+      "start": 367.47999999999996,
+      "end": 368.7,
+      "ts": "06:07.480 -> 06:08.700",
+      "jp": "富士山とかね",
+      "jp_html": "<ruby>富士山<rt>ふじさん</rt></ruby>とかね",
+      "zh": "富士山呢",
+      "en": "Fuji Mountain, I know."
+    },
+    {
+      "id": 220,
+      "start": 368.7,
+      "end": 370.21999999999997,
+      "ts": "06:08.700 -> 06:10.220",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 221,
+      "start": 370.21999999999997,
+      "end": 371.2,
+      "ts": "06:10.220 -> 06:11.200",
+      "jp": "有名ですけど",
+      "jp_html": "<ruby>有名<rt>ゆうめい</rt></ruby>ですけど",
+      "zh": "很有名",
+      "en": "They are famous, though."
+    },
+    {
+      "id": 222,
+      "start": 371.2,
+      "end": 373.08,
+      "ts": "06:11.200 -> 06:13.080",
+      "jp": "僕はあんまり興味ないな",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>あんまり<ruby>興味<rt>きょうみ</rt></ruby>ないな",
+      "zh": "我对这不太感兴趣",
+      "en": "I don't really have much interest in it."
+    },
+    {
+      "id": 223,
+      "start": 373.08,
+      "end": 375.62,
+      "ts": "06:13.080 -> 06:15.620",
+      "jp": "わかんない",
+      "jp_html": "わかんない",
+      "zh": "不懂",
+      "en": "I don't understand."
+    },
+    {
+      "id": 224,
+      "start": 375.62,
+      "end": 376.41999999999996,
+      "ts": "06:15.620 -> 06:16.420",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 225,
+      "start": 376.41999999999996,
+      "end": 377.7,
+      "ts": "06:16.420 -> 06:17.700",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 226,
+      "start": 377.7,
+      "end": 379.5,
+      "ts": "06:17.700 -> 06:19.500",
+      "jp": "好きな人は好きですよね",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>ですよね",
+      "zh": "喜欢的人就是喜欢吧",
+      "en": "The person you like likes you, right?"
+    },
+    {
+      "id": 227,
+      "start": 379.5,
+      "end": 381.41999999999996,
+      "ts": "06:19.500 -> 06:21.420",
+      "jp": "でも僕はちょっと",
+      "jp_html": "でも<ruby>僕は<rt>ぼくは</rt></ruby>ちょっと",
+      "zh": "但我稍微",
+      "en": "But I'm just a little"
+    },
+    {
+      "id": 228,
+      "start": 381.41999999999996,
+      "end": 384.41999999999996,
+      "ts": "06:21.420 -> 06:24.420",
+      "jp": "なんかたくさんの人と一緒に",
+      "jp_html": "なんかたくさんの<ruby>人<rt>にん</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>",
+      "zh": "和很多人一起做什么事情",
+      "en": "Some kind of event with many people together."
+    },
+    {
+      "id": 229,
+      "start": 384.41999999999996,
+      "end": 387.34,
+      "ts": "06:24.420 -> 06:27.340",
+      "jp": "どうなんですかね",
+      "jp_html": "どうなんですかね",
+      "zh": "那是怎么回事呢",
+      "en": "I wonder how it is going."
+    },
+    {
+      "id": 230,
+      "start": 387.34,
+      "end": 389.34,
+      "ts": "06:27.340 -> 06:29.340",
+      "jp": "なんか遠くから見ると",
+      "jp_html": "なんか<ruby>遠く<rt>とおく</rt></ruby>から<ruby>見る<rt>みる</rt></ruby>と",
+      "zh": "从远处看好像",
+      "en": "It looks somehow different from far away."
+    },
+    {
+      "id": 231,
+      "start": 389.34,
+      "end": 391.79999999999995,
+      "ts": "06:29.340 -> 06:31.800",
+      "jp": "美しいなと思うけど",
+      "jp_html": "<ruby>美しい<rt>うつくしい</rt></ruby>なと<ruby>思う<rt>おもう</rt></ruby>けど",
+      "zh": "我觉得很美",
+      "en": "I think it's beautiful"
+    },
+    {
+      "id": 232,
+      "start": 391.79999999999995,
+      "end": 393.79999999999995,
+      "ts": "06:31.800 -> 06:33.800",
+      "jp": "登りたいかな",
+      "jp_html": "<ruby>登り<rt>のぼり</rt></ruby>たいかな",
+      "zh": "想不想爬上去呢",
+      "en": "Do you want to climb?"
+    },
+    {
+      "id": 233,
+      "start": 393.79999999999995,
+      "end": 395.08,
+      "ts": "06:33.800 -> 06:35.080",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 234,
+      "start": 395.08,
+      "end": 397.59999999999997,
+      "ts": "06:35.080 -> 06:37.600",
+      "jp": "今のところは思いません",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>のところは<ruby>思い<rt>おもい</rt></ruby>ません",
+      "zh": "目前不想",
+      "en": "I don't think so at the moment."
+    },
+    {
+      "id": 235,
+      "start": 397.6,
+      "end": 399.26000000000005,
+      "ts": "06:37.600 -> 06:39.260",
+      "jp": "もしかしたら",
+      "jp_html": "もしかしたら",
+      "zh": "也许会",
+      "en": "Maybe"
+    },
+    {
+      "id": 236,
+      "start": 399.26000000000005,
+      "end": 401.82000000000005,
+      "ts": "06:39.260 -> 06:41.820",
+      "jp": "気が変わるかもしれない",
+      "jp_html": "<ruby>気が<rt>きが</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るかもしれない",
+      "zh": "可能会改变主意",
+      "en": "It might change my mind."
+    },
+    {
+      "id": 237,
+      "start": 401.82000000000005,
+      "end": 403.40000000000003,
+      "ts": "06:41.820 -> 06:43.400",
+      "jp": "知れないけどね",
+      "jp_html": "<ruby>知れ<rt>しれ</rt></ruby>ないけどね",
+      "zh": "知道啦，不过",
+      "en": "But I don't know, you know?"
+    },
+    {
+      "id": 238,
+      "start": 403.40000000000003,
+      "end": 403.70000000000005,
+      "ts": "06:43.400 -> 06:43.700",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 239,
+      "start": 403.70000000000005,
+      "end": 404.76000000000005,
+      "ts": "06:43.700 -> 06:44.760",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 240,
+      "start": 404.76000000000005,
+      "end": 405.26000000000005,
+      "ts": "06:44.760 -> 06:45.260",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}
