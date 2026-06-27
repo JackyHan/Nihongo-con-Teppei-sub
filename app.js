@@ -434,7 +434,7 @@ pageNextEl.addEventListener("click", () => {
 
 Object.entries(filterButtons).forEach(([key, button]) => {
   button.addEventListener("click", () => {
-    if (activeFilter === key) {
+    if (activeCategory === key) {
       return;
     }
     currentPage = 0;
