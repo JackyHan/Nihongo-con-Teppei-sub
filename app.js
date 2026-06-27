@@ -16,8 +16,8 @@ const autoNextToggleEl = document.getElementById("auto-next-toggle");
 const subtitleTemplateEl = document.getElementById("subtitle-row-template");
 const filterButtons = {
   all: document.getElementById("filter-all"),
-  audio: document.getElementById("filter-audio"),
-  video: document.getElementById("filter-video"),
+  podcast: document.getElementById("filter-podcast"),
+  anime: document.getElementById("filter-anime"),
 };
 
 const EPISODES_PER_PAGE = 10;
@@ -31,7 +31,7 @@ let furiganaVisible = true;
 let autoNextEnabled = false;
 let currentPage = 0;
 let episodePanelExpanded = false;
-let activeFilter = "all";
+let activeCategory = "all";
 
 function isMobileLayout() {
   return window.matchMedia("(max-width: 900px)").matches;
@@ -89,7 +89,10 @@ function normalizeEpisodeMeta(meta) {
     ...meta,
     media_type: mediaType,
     media_url: meta.media_url || meta.audio_url || meta.video_url || "",
+    category_id: meta.category_id || (mediaType === "video" ? "anime" : "podcast"),
+    category_title: meta.category_title || (mediaType === "video" ? "Anime" : "Podcast"),
     series_title: meta.series_title || "Nihongo con Teppei",
+    series_id: meta.series_id || "nihongo-con-teppei",
   };
 }
 
@@ -104,23 +107,26 @@ function normalizeEpisodePayload(payload, meta) {
       payload.audio_url ||
       payload.video_url ||
       normalizedMeta.media_url,
+    category_id: payload.category_id || normalizedMeta.category_id,
+    category_title: payload.category_title || normalizedMeta.category_title,
+    series_id: payload.series_id || normalizedMeta.series_id,
     series_title: payload.series_title || normalizedMeta.series_title,
   };
 }
 
 function updateFilterButtons() {
   Object.entries(filterButtons).forEach(([key, button]) => {
-    button.classList.toggle("active", key === activeFilter);
+    button.classList.toggle("active", key === activeCategory);
   });
 }
 
 function applyFilter(nextFilter) {
-  activeFilter = nextFilter;
+  activeCategory = nextFilter;
   filteredCatalog = episodeCatalog.filter((episode) => {
-    if (activeFilter === "all") {
+    if (activeCategory === "all") {
       return true;
     }
-    return episode.media_type === activeFilter;
+    return episode.category_id === activeCategory;
   });
   if (!filteredCatalog.length) {
     currentPage = 0;
@@ -147,27 +153,60 @@ function renderEpisodeList() {
   const visibleEpisodes = visibleCatalog.slice(start, start + EPISODES_PER_PAGE);
   const end = start + visibleEpisodes.length;
 
+  const groupedEpisodes = [];
   for (const episode of visibleEpisodes) {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = "episode-button";
-    if (currentEpisode && currentEpisode.id === episode.id) {
-      button.classList.add("active");
+    const lastGroup = groupedEpisodes[groupedEpisodes.length - 1];
+    if (!lastGroup || lastGroup.series_id !== episode.series_id) {
+      groupedEpisodes.push({
+        series_id: episode.series_id,
+        series_title: episode.series_title,
+        category_title: episode.category_title,
+        episodes: [episode],
+      });
+    } else {
+      lastGroup.episodes.push(episode);
     }
-    button.innerHTML = `
-      <span class="episode-id">${escapeHtml(episode.id)} · ${escapeHtml(episode.media_type)}</span>
-      <span class="episode-name">${escapeHtml(episode.title)}</span>
+  }
+
+  for (const group of groupedEpisodes) {
+    const groupEl = document.createElement("section");
+    groupEl.className = "series-group";
+
+    const headerEl = document.createElement("div");
+    headerEl.className = "series-header";
+    headerEl.innerHTML = `
+      <div class="series-kicker">${escapeHtml(group.category_title)}</div>
+      <div class="series-name">${escapeHtml(group.series_title)}</div>
     `;
-    button.addEventListener("click", () => {
-      if (!currentEpisode || currentEpisode.id !== episode.id) {
-        loadEpisode(episode);
+    groupEl.appendChild(headerEl);
+
+    for (const episode of group.episodes) {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "episode-button";
+      if (currentEpisode && currentEpisode.id === episode.id) {
+        button.classList.add("active");
       }
-      if (isMobileLayout()) {
-        episodePanelExpanded = false;
-        updateEpisodePanelState();
-      }
-    });
-    episodeListEl.appendChild(button);
+      button.innerHTML = `
+        <div class="episode-meta">
+          <span class="episode-id">${escapeHtml(episode.id)}</span>
+          <span class="episode-badge">${escapeHtml(episode.media_type)}</span>
+        </div>
+        <span class="episode-name">${escapeHtml(episode.title)}</span>
+      `;
+      button.addEventListener("click", () => {
+        if (!currentEpisode || currentEpisode.id !== episode.id) {
+          loadEpisode(episode);
+        }
+        if (isMobileLayout()) {
+          episodePanelExpanded = false;
+          updateEpisodePanelState();
+        }
+      });
+      groupEl.appendChild(button);
+    }
+
+    episodeListEl.appendChild(groupEl);
   }
 
   if (visibleCatalog.length) {
@@ -304,7 +343,7 @@ async function loadEpisode(meta) {
   currentEpisode = normalizeEpisodePayload(await response.json(), normalizedMeta);
   currentPage = getEpisodePageIndex(currentEpisode.id);
   episodeTitleEl.textContent = currentEpisode.title;
-  seriesLabelEl.textContent = currentEpisode.series_title;
+  seriesLabelEl.textContent = `${currentEpisode.category_title} / ${currentEpisode.series_title}`;
   sourceLinkEl.href = currentEpisode.source_url || "https://nihongoconteppei.com/";
   document.body.classList.toggle("media-video", currentEpisode.media_type === "video");
   document.body.classList.toggle("media-audio", currentEpisode.media_type !== "video");
