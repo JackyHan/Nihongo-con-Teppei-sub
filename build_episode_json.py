@@ -79,9 +79,12 @@ def build_episode_payload(args: argparse.Namespace) -> dict:
     return build_web_episode_payload(
         episode_id=args.episode_id,
         title=args.title,
-        audio_url=args.audio_url,
+        media_url=args.media_url or args.audio_url,
         source_url=args.source_url,
         entries=normalized_entries,
+        media_type=args.media_type,
+        series_id=args.series_id,
+        series_title=args.series_title,
     )
 
 
@@ -89,7 +92,11 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--episode-id", required=True)
     parser.add_argument("--title", required=True)
-    parser.add_argument("--audio-url", required=True)
+    parser.add_argument("--audio-url", default="")
+    parser.add_argument("--media-url", default="")
+    parser.add_argument("--media-type", choices=("audio", "video"), default="audio")
+    parser.add_argument("--series-id", default="teppei")
+    parser.add_argument("--series-title", default="Nihongo con Teppei")
     parser.add_argument("--source-url", required=True)
     parser.add_argument("--srt", required=True)
     parser.add_argument("--output", required=True)

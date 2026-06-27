@@ -82,6 +82,28 @@ body {
   cursor: pointer;
 }
 
+.episode-filters {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.filter-button {
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 8px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: border-color 120ms ease, background 120ms ease;
+}
+
+.filter-button.active {
+  border-color: var(--accent);
+  background: #fff6d6;
+}
+
 .episode-list {
   display: grid;
   gap: 10px;
@@ -224,7 +246,7 @@ h1 {
   cursor: pointer;
 }
 
-.audio-card {
+.media-card {
   border: 1px solid var(--border);
   background: rgba(255, 253, 247, 0.95);
   border-radius: 18px;
@@ -234,8 +256,24 @@ h1 {
   flex: 0 0 auto;
 }
 
-#audio-player {
+#audio-player,
+#video-player {
   width: 100%;
+}
+
+#video-player {
+  display: none;
+  max-height: min(48vh, 540px);
+  border-radius: 12px;
+  background: #000;
+}
+
+body.media-video #audio-player {
+  display: none;
+}
+
+body.media-video #video-player {
+  display: block;
 }
 
 .player-status {
@@ -358,6 +396,10 @@ body.hide-furigana .subtitle-jp rt {
     display: none;
   }
 
+  body.episode-panel-open .episode-filters {
+    display: grid;
+  }
+
   body.episode-panel-open .episode-list {
     display: grid;
   }
@@ -402,7 +444,7 @@ body.hide-furigana .subtitle-jp rt {
     width: 100%;
   }
 
-  .audio-card {
+  .media-card {
     margin-bottom: 14px;
     padding: 14px;
   }

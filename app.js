@@ -6,16 +6,24 @@ const pageLabelEl = document.getElementById("page-label");
 const episodeSummaryEl = document.getElementById("episode-summary");
 const episodeTitleEl = document.getElementById("episode-title");
 const sourceLinkEl = document.getElementById("source-link");
+const seriesLabelEl = document.getElementById("series-label");
 const audioPlayerEl = document.getElementById("audio-player");
+const videoPlayerEl = document.getElementById("video-player");
 const playerStatusEl = document.getElementById("player-status");
 const subtitleListEl = document.getElementById("subtitle-list");
 const furiganaToggleEl = document.getElementById("furigana-toggle");
 const autoNextToggleEl = document.getElementById("auto-next-toggle");
 const subtitleTemplateEl = document.getElementById("subtitle-row-template");
+const filterButtons = {
+  all: document.getElementById("filter-all"),
+  audio: document.getElementById("filter-audio"),
+  video: document.getElementById("filter-video"),
+};
 
 const EPISODES_PER_PAGE = 10;
 
 let episodeCatalog = [];
+let filteredCatalog = [];
 let currentEpisode = null;
 let subtitleRowEls = [];
 let activeRowIndex = -1;
@@ -23,17 +31,30 @@ let furiganaVisible = true;
 let autoNextEnabled = false;
 let currentPage = 0;
 let episodePanelExpanded = false;
+let activeFilter = "all";
 
 function isMobileLayout() {
   return window.matchMedia("(max-width: 900px)").matches;
 }
 
+function getMediaPlayerEl() {
+  if (!currentEpisode) {
+    return audioPlayerEl;
+  }
+  return currentEpisode.media_type === "video" ? videoPlayerEl : audioPlayerEl;
+}
+
+function getVisibleCatalog() {
+  return filteredCatalog;
+}
+
 function getTotalPages() {
-  return Math.max(1, Math.ceil(episodeCatalog.length / EPISODES_PER_PAGE));
+  return Math.max(1, Math.ceil(getVisibleCatalog().length / EPISODES_PER_PAGE));
 }
 
 function getEpisodePageIndex(episodeId) {
-  const foundIndex = episodeCatalog.findIndex((episode) => episode.id === episodeId);
+  const visible = getVisibleCatalog();
+  const foundIndex = visible.findIndex((episode) => episode.id === episodeId);
   if (foundIndex < 0) {
     return 0;
   }
@@ -47,7 +68,7 @@ function updateEpisodePanelState() {
   episodePanelToggleEl.textContent = expanded ? "Hide episodes" : "Episodes";
 }
 
-function resolveAudioUrl(url) {
+function resolveMediaUrl(url) {
   if (window.location.protocol === "https:" && url.startsWith("http://")) {
     return `https://${url.slice("http://".length)}`;
   }
@@ -55,19 +76,75 @@ function resolveAudioUrl(url) {
 }
 
 function escapeHtml(text) {
-  return text
+  return String(text)
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;");
 }
 
+function normalizeEpisodeMeta(meta) {
+  const mediaType = meta.media_type || (meta.video_url ? "video" : "audio");
+  return {
+    ...meta,
+    media_type: mediaType,
+    media_url: meta.media_url || meta.audio_url || meta.video_url || "",
+    series_title: meta.series_title || "Nihongo con Teppei",
+  };
+}
+
+function normalizeEpisodePayload(payload, meta) {
+  const normalizedMeta = normalizeEpisodeMeta(meta || payload);
+  return {
+    ...payload,
+    ...normalizedMeta,
+    media_type: payload.media_type || normalizedMeta.media_type,
+    media_url:
+      payload.media_url ||
+      payload.audio_url ||
+      payload.video_url ||
+      normalizedMeta.media_url,
+    series_title: payload.series_title || normalizedMeta.series_title,
+  };
+}
+
+function updateFilterButtons() {
+  Object.entries(filterButtons).forEach(([key, button]) => {
+    button.classList.toggle("active", key === activeFilter);
+  });
+}
+
+function applyFilter(nextFilter) {
+  activeFilter = nextFilter;
+  filteredCatalog = episodeCatalog.filter((episode) => {
+    if (activeFilter === "all") {
+      return true;
+    }
+    return episode.media_type === activeFilter;
+  });
+  if (!filteredCatalog.length) {
+    currentPage = 0;
+    renderEpisodeList();
+    return;
+  }
+  if (!currentEpisode || !filteredCatalog.some((episode) => episode.id === currentEpisode.id)) {
+    loadEpisode(filteredCatalog[0]).catch((error) => {
+      console.error(error);
+      setStatus(error.message);
+    });
+    return;
+  }
+  currentPage = getEpisodePageIndex(currentEpisode.id);
+  renderEpisodeList();
+}
+
 function renderEpisodeList() {
   episodeListEl.innerHTML = "";
+  const visibleCatalog = getVisibleCatalog();
   const totalPages = getTotalPages();
   currentPage = Math.min(currentPage, totalPages - 1);
   const start = currentPage * EPISODES_PER_PAGE;
-  const visibleEpisodes = episodeCatalog.slice(start, start + EPISODES_PER_PAGE);
+  const visibleEpisodes = visibleCatalog.slice(start, start + EPISODES_PER_PAGE);
   const end = start + visibleEpisodes.length;
 
   for (const episode of visibleEpisodes) {
@@ -78,7 +155,7 @@ function renderEpisodeList() {
       button.classList.add("active");
     }
     button.innerHTML = `
-      <span class="episode-id">${escapeHtml(episode.id)}</span>
+      <span class="episode-id">${escapeHtml(episode.id)} · ${escapeHtml(episode.media_type)}</span>
       <span class="episode-name">${escapeHtml(episode.title)}</span>
     `;
     button.addEventListener("click", () => {
@@ -93,10 +170,16 @@ function renderEpisodeList() {
     episodeListEl.appendChild(button);
   }
 
-  pageLabelEl.textContent = `${currentPage + 1} / ${totalPages}`;
-  episodeSummaryEl.textContent = `Showing ${start + 1}-${end} of ${episodeCatalog.length}`;
-  pagePrevEl.disabled = currentPage === 0;
-  pageNextEl.disabled = currentPage >= totalPages - 1;
+  if (visibleCatalog.length) {
+    pageLabelEl.textContent = `${currentPage + 1} / ${totalPages}`;
+    episodeSummaryEl.textContent = `Showing ${start + 1}-${end} of ${visibleCatalog.length}`;
+  } else {
+    pageLabelEl.textContent = "0 / 0";
+    episodeSummaryEl.textContent = "No items in this view";
+  }
+  pagePrevEl.disabled = currentPage === 0 || !visibleCatalog.length;
+  pageNextEl.disabled = currentPage >= totalPages - 1 || !visibleCatalog.length;
+  updateFilterButtons();
 }
 
 function renderSubtitleRows(entries) {
@@ -106,9 +189,8 @@ function renderSubtitleRows(entries) {
 
   for (const entry of entries) {
     const fragment = subtitleTemplateEl.content.cloneNode(true);
-    const rowEl = fragment.querySelector(".subtitle-row");
-    rowEl.dataset.start = String(entry.start);
-    rowEl.dataset.end = String(entry.end);
+    fragment.querySelector(".subtitle-row").dataset.start = String(entry.start);
+    fragment.querySelector(".subtitle-row").dataset.end = String(entry.end);
     fragment.querySelector(".subtitle-ts").textContent = entry.ts;
     fragment.querySelector(".subtitle-jp").innerHTML = entry.jp_html;
     fragment.querySelector(".subtitle-en").innerHTML = escapeHtml(entry.en).replaceAll("\n", "<br>");
@@ -172,16 +254,16 @@ function getCurrentEpisodeIndex() {
   if (!currentEpisode) {
     return -1;
   }
-  return episodeCatalog.findIndex((episode) => episode.id === currentEpisode.id);
+  return getVisibleCatalog().findIndex((episode) => episode.id === currentEpisode.id);
 }
 
 async function playCurrentEpisode() {
   try {
-    await audioPlayerEl.play();
+    await getMediaPlayerEl().play();
     return true;
   } catch (error) {
     console.error(error);
-    setStatus("Loaded next episode, but autoplay was blocked.");
+    setStatus("Loaded next item, but autoplay was blocked.");
     return false;
   }
 }
@@ -192,32 +274,45 @@ async function maybePlayNextEpisode() {
     return;
   }
   const currentIndex = getCurrentEpisodeIndex();
-  const nextMeta = currentIndex >= 0 ? episodeCatalog[currentIndex + 1] : null;
+  const nextMeta = currentIndex >= 0 ? getVisibleCatalog()[currentIndex + 1] : null;
   if (!nextMeta) {
-    setStatus("Finished. No next episode.");
+    setStatus("Finished. No next item.");
     return;
   }
-  setStatus(`Loading next episode: ${nextMeta.id}…`);
+  setStatus(`Loading next item: ${nextMeta.id}…`);
   await loadEpisode(nextMeta);
   const started = await playCurrentEpisode();
   if (started) {
-    setStatus(`Playing next episode: ${nextMeta.id}.`);
+    setStatus(`Playing next item: ${nextMeta.id}.`);
   }
+}
+
+function resetInactivePlayer(nextMediaType) {
+  const inactivePlayer = nextMediaType === "video" ? audioPlayerEl : videoPlayerEl;
+  inactivePlayer.pause();
+  inactivePlayer.removeAttribute("src");
+  inactivePlayer.load();
 }
 
 async function loadEpisode(meta) {
   setStatus("Loading subtitles…");
-  const response = await fetch(`./data/${meta.id}.json`);
+  const normalizedMeta = normalizeEpisodeMeta(meta);
+  const response = await fetch(`./data/${normalizedMeta.id}.json`);
   if (!response.ok) {
-    throw new Error(`Failed to load episode data for ${meta.id}`);
+    throw new Error(`Failed to load episode data for ${normalizedMeta.id}`);
   }
-  currentEpisode = await response.json();
+  currentEpisode = normalizeEpisodePayload(await response.json(), normalizedMeta);
   currentPage = getEpisodePageIndex(currentEpisode.id);
   episodeTitleEl.textContent = currentEpisode.title;
+  seriesLabelEl.textContent = currentEpisode.series_title;
   sourceLinkEl.href = currentEpisode.source_url || "https://nihongoconteppei.com/";
-  audioPlayerEl.src = resolveAudioUrl(currentEpisode.audio_url);
+  document.body.classList.toggle("media-video", currentEpisode.media_type === "video");
+  document.body.classList.toggle("media-audio", currentEpisode.media_type !== "video");
+  resetInactivePlayer(currentEpisode.media_type);
+  getMediaPlayerEl().src = resolveMediaUrl(currentEpisode.media_url);
   renderEpisodeList();
   renderSubtitleRows(currentEpisode.entries);
+  syncSubtitleToTime(0);
   setStatus("Ready.");
 }
 
@@ -226,37 +321,56 @@ async function boot() {
   if (!response.ok) {
     throw new Error("Failed to load episode catalog.");
   }
-  episodeCatalog = await response.json();
+  episodeCatalog = (await response.json()).map(normalizeEpisodeMeta);
+  filteredCatalog = [...episodeCatalog];
   if (!episodeCatalog.length) {
     throw new Error("No episodes found.");
   }
-  await loadEpisode(episodeCatalog[0]);
+  await loadEpisode(filteredCatalog[0]);
 }
 
-audioPlayerEl.addEventListener("timeupdate", () => {
-  syncSubtitleToTime(audioPlayerEl.currentTime);
-});
-
-audioPlayerEl.addEventListener("play", () => {
-  setStatus("Playing.");
-});
-
-audioPlayerEl.addEventListener("pause", () => {
-  if (!audioPlayerEl.ended) {
-    setStatus("Paused.");
-  }
-});
-
-audioPlayerEl.addEventListener("ended", () => {
-  maybePlayNextEpisode().catch((error) => {
-    console.error(error);
-    setStatus(error.message);
+function bindMediaPlayerEvents(playerEl, mediaLabel) {
+  playerEl.addEventListener("timeupdate", () => {
+    if (playerEl !== getMediaPlayerEl()) {
+      return;
+    }
+    syncSubtitleToTime(playerEl.currentTime);
   });
-});
 
-audioPlayerEl.addEventListener("error", () => {
-  setStatus("Audio failed to load. The remote host may be blocking direct playback.");
-});
+  playerEl.addEventListener("play", () => {
+    if (playerEl !== getMediaPlayerEl()) {
+      return;
+    }
+    setStatus("Playing.");
+  });
+
+  playerEl.addEventListener("pause", () => {
+    if (playerEl !== getMediaPlayerEl() || playerEl.ended) {
+      return;
+    }
+    setStatus("Paused.");
+  });
+
+  playerEl.addEventListener("ended", () => {
+    if (playerEl !== getMediaPlayerEl()) {
+      return;
+    }
+    maybePlayNextEpisode().catch((error) => {
+      console.error(error);
+      setStatus(error.message);
+    });
+  });
+
+  playerEl.addEventListener("error", () => {
+    if (playerEl !== getMediaPlayerEl()) {
+      return;
+    }
+    setStatus(`${mediaLabel} failed to load. The remote host may be blocking direct playback.`);
+  });
+}
+
+bindMediaPlayerEvents(audioPlayerEl, "Audio");
+bindMediaPlayerEvents(videoPlayerEl, "Video");
 
 episodePanelToggleEl.addEventListener("click", () => {
   episodePanelExpanded = !episodePanelExpanded;
@@ -277,6 +391,16 @@ pageNextEl.addEventListener("click", () => {
   }
   currentPage += 1;
   renderEpisodeList();
+});
+
+Object.entries(filterButtons).forEach(([key, button]) => {
+  button.addEventListener("click", () => {
+    if (activeFilter === key) {
+      return;
+    }
+    currentPage = 0;
+    applyFilter(key);
+  });
 });
 
 furiganaToggleEl.addEventListener("click", () => {

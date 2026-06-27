@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Nihongo con Teppei Player</title>
+  <title>Japanese Study Player</title>
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
@@ -11,12 +11,17 @@
     <aside class="episode-panel">
       <div class="episode-panel-header">
         <div class="episode-panel-heading">
-          <div class="panel-title">Episodes</div>
+          <div class="panel-title">Library</div>
           <div id="episode-summary" class="episode-summary">Showing 1-10 of 10</div>
         </div>
         <button id="episode-panel-toggle" class="episode-panel-toggle" type="button" aria-expanded="false">
           Episodes
         </button>
+      </div>
+      <div class="episode-filters" aria-label="Media filters">
+        <button id="filter-all" class="filter-button active" type="button">All</button>
+        <button id="filter-audio" class="filter-button" type="button">Audio</button>
+        <button id="filter-video" class="filter-button" type="button">Video</button>
       </div>
       <div id="episode-list" class="episode-list"></div>
       <div class="episode-pagination">
@@ -29,7 +34,7 @@
     <main class="player-panel">
       <header class="player-header">
         <div>
-          <div class="eyebrow">Nihongo con Teppei Player</div>
+          <div id="series-label" class="eyebrow">Japanese Study Player</div>
           <h1 id="episode-title">Loading…</h1>
           <a id="source-link" class="source-link" href="https://nihongoconteppei.com/" target="_blank" rel="noreferrer">Open source page</a>
         </div>
@@ -39,8 +44,9 @@
         </div>
       </header>
 
-      <section class="audio-card">
+      <section class="media-card">
         <audio id="audio-player" controls preload="metadata"></audio>
+        <video id="video-player" controls preload="metadata" playsinline></video>
         <div id="player-status" class="player-status">Loading episode…</div>
       </section>
 
