@@ -1,0 +1,834 @@
+{
+  "id": "1540",
+  "title": "#1540「バーベキューについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1540.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1540.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/06/27/1540%e3%80%8c%e3%83%90%e3%83%bc%e3%83%99%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.62,
+      "end": 6.94,
+      "ts": "00:01.620 -> 00:06.940",
+      "jp": "借金 今日はバーベキューについて",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby> <ruby>今日は<rt>こんにちは</rt></ruby>バーベキューについて",
+      "zh": "借金 今天关于烧烤",
+      "en": "Debt Today we're going to talk about barbecue."
+    },
+    {
+      "id": 1,
+      "start": 6.94,
+      "end": 14.78,
+      "ts": "00:06.940 -> 00:14.780",
+      "jp": "はいみなさんこんにちは 夏のアクティビティシリーズですね",
+      "jp_html": "はいみなさんこんにちは <ruby>夏<rt>なつ</rt></ruby>のアクティビティシリーズですね",
+      "zh": "大家好，这是夏季活动系列呢",
+      "en": "Hello everyone, it's the summer activity series, isn't it?"
+    },
+    {
+      "id": 2,
+      "start": 14.78,
+      "end": 19.92,
+      "ts": "00:14.780 -> 00:19.920",
+      "jp": "今日はバーベキューについて話したいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>バーベキューについて<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "今天我想谈谈烧烤",
+      "en": "I want to talk about barbecue today."
+    },
+    {
+      "id": 3,
+      "start": 19.92,
+      "end": 29.7,
+      "ts": "00:19.920 -> 00:29.700",
+      "jp": "前回キャンプについて話しました 僕は結構キャンプが好きです",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby>キャンプについて<ruby>話し<rt>はなし</rt></ruby>ました <ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby>キャンプが<ruby>好き<rt>すき</rt></ruby>です",
+      "zh": "上次我们谈到了露营，我挺喜欢露营的",
+      "en": "I talked about the last camping trip. I quite like camping."
+    },
+    {
+      "id": 4,
+      "start": 29.7,
+      "end": 34.84,
+      "ts": "00:29.700 -> 00:34.840",
+      "jp": "だけど快適なキャンプが好き",
+      "jp_html": "だけど<ruby>快適<rt>かいてき</rt></ruby>なキャンプが<ruby>好き<rt>すき</rt></ruby>",
+      "zh": "但是喜欢舒适的露营",
+      "en": "But I like comfortable camping."
+    },
+    {
+      "id": 5,
+      "start": 34.84,
+      "end": 40.8,
+      "ts": "00:34.840 -> 00:40.800",
+      "jp": "トイレがあったりシャワーがあったり温泉があったり",
+      "jp_html": "トイレがあったりシャワーがあったり<ruby>温泉<rt>おんせん</rt></ruby>があったり",
+      "zh": "那里有厕所，有淋浴，还有温泉",
+      "en": "There were toilets, showers, and hot springs."
+    },
+    {
+      "id": 6,
+      "start": 40.8,
+      "end": 45.16,
+      "ts": "00:40.800 -> 00:45.160",
+      "jp": "キッチンがあったり電気があったり",
+      "jp_html": "キッチンがあったり<ruby>電気<rt>でんき</rt></ruby>があったり",
+      "zh": "厨房有或者电器有",
+      "en": "There was a kitchen and electricity."
+    },
+    {
+      "id": 7,
+      "start": 45.16,
+      "end": 51.5,
+      "ts": "00:45.160 -> 00:51.500",
+      "jp": "それキャンプじゃないじゃんって思うかもしれませんが",
+      "jp_html": "それキャンプじゃないじゃんって<ruby>思う<rt>おもう</rt></ruby>かもしれませんが",
+      "zh": "你可能会觉得那不是营地吧",
+      "en": "But you might think that's not a camp, right?"
+    },
+    {
+      "id": 8,
+      "start": 51.5,
+      "end": 56.72,
+      "ts": "00:51.500 -> 00:56.720",
+      "jp": "そういう便利で快適なキャンプが好きです",
+      "jp_html": "そういう<ruby>便利<rt>べんり</rt></ruby>で<ruby>快適<rt>かいてき</rt></ruby>なキャンプが<ruby>好き<rt>すき</rt></ruby>です",
+      "zh": "我喜欢这种方便舒适的露营",
+      "en": "I like such convenient and comfortable camping."
+    },
+    {
+      "id": 9,
+      "start": 56.72,
+      "end": 59.84,
+      "ts": "00:56.720 -> 00:59.840",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 10,
+      "start": 59.84,
+      "end": 63.02,
+      "ts": "00:59.840 -> 01:03.020",
+      "jp": "それはキャンプじゃないと思いますか",
+      "jp_html": "それはキャンプじゃないと<ruby>思い<rt>おもい</rt></ruby>ますか",
+      "zh": "你认为那不是营地吗",
+      "en": "Don't you think that's not a camp?"
+    },
+    {
+      "id": 11,
+      "start": 63.02,
+      "end": 64.48,
+      "ts": "01:03.020 -> 01:04.480",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 12,
+      "start": 64.48,
+      "end": 69.4,
+      "ts": "01:04.480 -> 01:09.400",
+      "jp": "とにかく最近僕がよく行くキャンプでは",
+      "jp_html": "とにかく<ruby>最近<rt>さいきん</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>がよく<ruby>行く<rt>いく</rt></ruby>キャンプでは",
+      "zh": "总之，我最近经常去的露营地是",
+      "en": "Anyway, recently I often go camping at"
+    },
+    {
+      "id": 13,
+      "start": 69.4,
+      "end": 74.38,
+      "ts": "01:09.400 -> 01:14.380",
+      "jp": "よくバーベキューをして食べます",
+      "jp_html": "よくバーベキューをして<ruby>食べ<rt>たべ</rt></ruby>ます",
+      "zh": "我们经常烧烤并吃食物",
+      "en": "We often have barbecues and eat there."
+    },
+    {
+      "id": 14,
+      "start": 74.38,
+      "end": 78.44,
+      "ts": "01:14.380 -> 01:18.440",
+      "jp": "肉ですよね",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>ですよね",
+      "zh": "是肉吧？",
+      "en": "It's meat, right?"
+    },
+    {
+      "id": 15,
+      "start": 78.44,
+      "end": 81.72,
+      "ts": "01:18.440 -> 01:21.720",
+      "jp": "肉を買ってきて野菜を買って",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>てきて<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て",
+      "zh": "买肉再买些蔬菜",
+      "en": "Buy meat and vegetables."
+    },
+    {
+      "id": 16,
+      "start": 81.72,
+      "end": 86.6,
+      "ts": "01:21.720 -> 01:26.600",
+      "jp": "肉や野菜をバーベキューにして食べる",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>をバーベキューにして<ruby>食べ<rt>たべ</rt></ruby>る",
+      "zh": "把肉和蔬菜做成烧烤来吃",
+      "en": "To eat meat and vegetables grilled on a barbecue"
+    },
+    {
+      "id": 17,
+      "start": 86.6,
+      "end": 90.78,
+      "ts": "01:26.600 -> 01:30.780",
+      "jp": "日本では結構焼肉っていうかな",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>では<ruby>結構<rt>けっこう</rt></ruby><ruby>焼肉<rt>やきにく</rt></ruby>っていうかな",
+      "zh": "在日本的话，挺流行吃烤肉的吧",
+      "en": "In Japan, barbecue is pretty popular, I guess."
+    },
+    {
+      "id": 18,
+      "start": 90.78,
+      "end": 94.38,
+      "ts": "01:30.780 -> 01:34.380",
+      "jp": "バーベキューのことを焼肉と言ったり",
+      "jp_html": "バーベキューのことを<ruby>焼肉<rt>やきにく</rt></ruby>と<ruby>言った<rt>いった</rt></ruby>り",
+      "zh": "把烧烤叫做烤肉",
+      "en": "We call barbecue \"yakiniku\" sometimes."
+    },
+    {
+      "id": 19,
+      "start": 94.38,
+      "end": 97.12,
+      "ts": "01:34.380 -> 01:37.120",
+      "jp": "ほとんど同じですよね",
+      "jp_html": "ほとんど<ruby>同じ<rt>おなじ</rt></ruby>ですよね",
+      "zh": "几乎是一样的吧？",
+      "en": "Isn't it almost the same, right?"
+    },
+    {
+      "id": 20,
+      "start": 97.12,
+      "end": 103.3,
+      "ts": "01:37.120 -> 01:43.300",
+      "jp": "肉とかソーセージとか野菜とかいろいろ",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>とかソーセージとか<ruby>野菜<rt>やさい</rt></ruby>とかいろいろ",
+      "zh": "肉或者香肠还有各种蔬菜等等",
+      "en": "Meat and sausages and vegetables and various other things."
+    },
+    {
+      "id": 21,
+      "start": 103.3,
+      "end": 110.02,
+      "ts": "01:43.300 -> 01:50.020",
+      "jp": "大分の僕の実家ですね",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>の<ruby>僕<rt>ぼく</rt></ruby>の<ruby>実家<rt>じっか</rt></ruby>ですね",
+      "zh": "我的老家在大分县呢",
+      "en": "That's my hometown in Kumamoto."
+    },
+    {
+      "id": 22,
+      "start": 110.02,
+      "end": 111.84,
+      "ts": "01:50.020 -> 01:51.840",
+      "jp": "僕の両親の家",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>",
+      "zh": "我的父母的家",
+      "en": "My parents' house"
+    },
+    {
+      "id": 23,
+      "start": 111.84,
+      "end": 114.94,
+      "ts": "01:51.840 -> 01:54.940",
+      "jp": "僕の両親の家ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>ですね",
+      "zh": "我父母的家呢",
+      "en": "This is my parents' house."
+    },
+    {
+      "id": 24,
+      "start": 114.94,
+      "end": 117.92,
+      "ts": "01:54.940 -> 01:57.920",
+      "jp": "両親の家は田舎にあります",
+      "jp_html": "<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>は<ruby>田舎<rt>いなか</rt></ruby>にあります",
+      "zh": "父母的家在乡下",
+      "en": "My parents' house is in the countryside."
+    },
+    {
+      "id": 25,
+      "start": 117.92,
+      "end": 123.18,
+      "ts": "01:57.920 -> 02:03.180",
+      "jp": "田舎にあって庭がありますね",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>にあって<ruby>庭<rt>にわ</rt></ruby>がありますね",
+      "zh": "那里有一个院子呢，坐落在乡下。",
+      "en": "You have a garden in the countryside, don't you?"
+    },
+    {
+      "id": 26,
+      "start": 123.18,
+      "end": 126.46,
+      "ts": "02:03.180 -> 02:06.460",
+      "jp": "その庭でバーベキューをよくします",
+      "jp_html": "その<ruby>庭<rt>にわ</rt></ruby>でバーベキューをよくします",
+      "zh": "我在那个庭院里经常举行烧烤派对",
+      "en": "I often grill barbecue in that yard."
+    },
+    {
+      "id": 27,
+      "start": 126.46,
+      "end": 134.84,
+      "ts": "02:06.460 -> 02:14.840",
+      "jp": "家族みんなで肉を焼いたり野菜を焼いたりして食べます",
+      "jp_html": "<ruby>家族<rt>かぞく</rt></ruby>みんなで<ruby>肉<rt>にく</rt></ruby>を<ruby>焼い<rt>やい</rt></ruby>たり<ruby>野菜<rt>やさい</rt></ruby>を<ruby>焼い<rt>やい</rt></ruby>たりして<ruby>食べ<rt>たべ</rt></ruby>ます",
+      "zh": "全家人一起烤肉或烤蔬菜吃",
+      "en": "We grill meat and vegetables together as a family and eat them."
+    },
+    {
+      "id": 28,
+      "start": 134.84,
+      "end": 140.56,
+      "ts": "02:14.840 -> 02:20.560",
+      "jp": "おにぎりとか一緒に食べたりする",
+      "jp_html": "おにぎりとか<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>りする",
+      "zh": "可以一起吃寿司和饭团",
+      "en": "I eat sushi together with onigiri."
+    },
+    {
+      "id": 29,
+      "start": 140.56,
+      "end": 143.64,
+      "ts": "02:20.560 -> 02:23.640",
+      "jp": "僕の子供は大好きですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>大好き<rt>だいすき</rt></ruby>ですね",
+      "zh": "我的孩子你们很喜欢吧",
+      "en": "I like my children very much."
+    },
+    {
+      "id": 30,
+      "start": 143.64,
+      "end": 146.58,
+      "ts": "02:23.640 -> 02:26.580",
+      "jp": "やっぱり子供は好きですよね",
+      "jp_html": "やっぱり<ruby>子供<rt>こども</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>ですよね",
+      "zh": "果然孩子们你还是喜欢对吧",
+      "en": "Yeah, you really do like kids, don't you?"
+    },
+    {
+      "id": 31,
+      "start": 146.58,
+      "end": 149.82,
+      "ts": "02:26.580 -> 02:29.820",
+      "jp": "自分で肉を焼いて食べたりとかね",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>肉<rt>にく</rt></ruby>を<ruby>焼い<rt>やい</rt></ruby>て<ruby>食べた<rt>たべた</rt></ruby>りとかね",
+      "zh": "自己烹饪肉类然后吃掉",
+      "en": "I cook and eat meat myself sometimes."
+    },
+    {
+      "id": 32,
+      "start": 149.82,
+      "end": 152.82,
+      "ts": "02:29.820 -> 02:32.820",
+      "jp": "楽しいですよね",
+      "jp_html": "<ruby>楽しい<rt>たのしい</rt></ruby>ですよね",
+      "zh": "不是很有趣吧",
+      "en": "Isn't it fun?"
+    },
+    {
+      "id": 33,
+      "start": 152.82,
+      "end": 157.08,
+      "ts": "02:32.820 -> 02:37.080",
+      "jp": "店で焼肉を食べることもあります",
+      "jp_html": "<ruby>店<rt>みせ</rt></ruby>で<ruby>焼肉<rt>やきにく</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ることもあります",
+      "zh": "有时会在店里吃烤肉",
+      "en": "We also eat grilled meat at restaurants."
+    },
+    {
+      "id": 34,
+      "start": 157.08,
+      "end": 160.64,
+      "ts": "02:37.080 -> 02:40.640",
+      "jp": "焼肉レストランで焼肉を食べることもあります",
+      "jp_html": "<ruby>焼肉<rt>やきにく</rt></ruby>レストランで<ruby>焼肉<rt>やきにく</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ることもあります",
+      "zh": "有时会在烧肉餐馆吃烧肉",
+      "en": "We also eat grilled meat at barbecue restaurants."
+    },
+    {
+      "id": 35,
+      "start": 160.64,
+      "end": 162.88,
+      "ts": "02:40.640 -> 02:42.880",
+      "jp": "それも子供は好きですね",
+      "jp_html": "それも<ruby>子供<rt>こども</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>ですね",
+      "zh": "孩子们也喜欢那 stuff 呢",
+      "en": "That too, children like that as well."
+    },
+    {
+      "id": 36,
+      "start": 162.88,
+      "end": 166.26,
+      "ts": "02:42.880 -> 02:46.260",
+      "jp": "やっぱり自分で火を使ってね",
+      "jp_html": "やっぱり<ruby>自分<rt>じぶん</rt></ruby>で<ruby>火<rt>ひ</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>ね",
+      "zh": "果然自己用火来做",
+      "en": "Anyway, I used fire myself."
+    },
+    {
+      "id": 37,
+      "start": 166.26,
+      "end": 170.86,
+      "ts": "02:46.260 -> 02:50.860",
+      "jp": "火の上に肉を置いて焼いて",
+      "jp_html": "<ruby>火<rt>ひ</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><ruby>肉<rt>にく</rt></ruby>を<ruby>置い<rt>おい</rt></ruby>て<ruby>焼い<rt>やい</rt></ruby>て",
+      "zh": "把肉放在火上烤",
+      "en": "Place the meat on the fire to grill it."
+    },
+    {
+      "id": 38,
+      "start": 170.86,
+      "end": 174.84,
+      "ts": "02:50.860 -> 02:54.840",
+      "jp": "自分で食べるっていうのは結構楽しいですよね",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>食べ<rt>たべ</rt></ruby>るっていうのは<ruby>結構<rt>けっこう</rt></ruby><ruby>楽しい<rt>たのしい</rt></ruby>ですよね",
+      "zh": "自己进食其实挺有趣的吧",
+      "en": "It's quite enjoyable to eat by yourself, isn't it?"
+    },
+    {
+      "id": 39,
+      "start": 174.84,
+      "end": 180.78,
+      "ts": "02:54.840 -> 03:00.780",
+      "jp": "皆さんももし日本に来てね",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>ももし<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>ね",
+      "zh": "大家也可以来日本哦",
+      "en": "Everyone should come to Japan too."
+    },
+    {
+      "id": 40,
+      "start": 180.78,
+      "end": 185.02,
+      "ts": "03:00.780 -> 03:05.020",
+      "jp": "焼肉屋に行けばそういう経験をすることができます",
+      "jp_html": "<ruby>焼肉屋<rt>やきにくや</rt></ruby>に<ruby>行け<rt>いけ</rt></ruby>ばそういう<ruby>経験<rt>けいけん</rt></ruby>をすることができます",
+      "zh": "去烤肉店就可以有这样的体验",
+      "en": "By going to a barbecue restaurant, you can have such experiences."
+    },
+    {
+      "id": 41,
+      "start": 185.02,
+      "end": 190.5,
+      "ts": "03:05.020 -> 03:10.500",
+      "jp": "肉を食べない人はちょっと難しいかもしれないけど",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>はちょっと<ruby>難しい<rt>むずかしい</rt></ruby>かもしれないけど",
+      "zh": "不吃肉的人可能就会有点难了getti",
+      "en": "It might be a bit tricky for people who don't eat meat."
+    },
+    {
+      "id": 42,
+      "start": 190.5,
+      "end": 196.18,
+      "ts": "03:10.500 -> 03:16.180",
+      "jp": "でもたくさんの野菜のメニューもあるしね",
+      "jp_html": "でもたくさんの<ruby>野菜<rt>やさい</rt></ruby>のメニューもあるしね",
+      "zh": "但是也有许多蔬菜菜单呢",
+      "en": "But they also have menus with lots of vegetables, you know?"
+    },
+    {
+      "id": 43,
+      "start": 196.18,
+      "end": 209.76,
+      "ts": "03:16.180 -> 03:29.760",
+      "jp": "あとは日本の焼肉屋にはたくさんのご飯とか麺とかね",
+      "jp_html": "あとは<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>焼肉屋<rt>やきにくや</rt></ruby>にはたくさんのご<ruby>飯<rt>めし</rt></ruby>とか<ruby>麺<rt>めん</rt></ruby>とかね",
+      "zh": "剩下的日式烤肉店还有许多米饭和面条之类的",
+      "en": "The rest is that Japanese BBQ places have lots of rice and noodles too."
+    },
+    {
+      "id": 44,
+      "start": 209.76,
+      "end": 212.04,
+      "ts": "03:29.760 -> 03:32.040",
+      "jp": "いろいろなメニューはありますけどね",
+      "jp_html": "いろいろなメニューはありますけどね",
+      "zh": "确实有很多菜单可供选择呢",
+      "en": "There are various menus, you know."
+    },
+    {
+      "id": 45,
+      "start": 212.04,
+      "end": 215.94,
+      "ts": "03:32.040 -> 03:35.940",
+      "jp": "だから何も食べられないっていうことはないけど",
+      "jp_html": "だから<ruby>何も<rt>なにも</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>られないっていうことはないけど",
+      "zh": "所以不吃东西也不是没有可能的嘛",
+      "en": "So you can actually eat something, right?"
+    },
+    {
+      "id": 46,
+      "start": 215.94,
+      "end": 218.28,
+      "ts": "03:35.940 -> 03:38.280",
+      "jp": "基本的にはやっぱり肉ですよね",
+      "jp_html": "<ruby>基本的<rt>きほんてき</rt></ruby>にはやっぱり<ruby>肉<rt>にく</rt></ruby>ですよね",
+      "zh": "基本上还是觉得应该是肉吧",
+      "en": "Basically, it's still meat, right?"
+    },
+    {
+      "id": 47,
+      "start": 218.28,
+      "end": 222.64,
+      "ts": "03:38.280 -> 03:42.640",
+      "jp": "基本的には肉を食べるための場所なので",
+      "jp_html": "<ruby>基本的<rt>きほんてき</rt></ruby>には<ruby>肉<rt>にく</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>るための<ruby>場所<rt>ばしょ</rt></ruby>なので",
+      "zh": "基本上是个吃肉的地方",
+      "en": "Basically, it's a place to eat meat."
+    },
+    {
+      "id": 48,
+      "start": 222.64,
+      "end": 225.1,
+      "ts": "03:42.640 -> 03:45.100",
+      "jp": "焼肉屋に行ったら",
+      "jp_html": "<ruby>焼肉屋<rt>やきにくや</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ら",
+      "zh": "去吃烤肉店了",
+      "en": "I went to a barbecue restaurant"
+    },
+    {
+      "id": 49,
+      "start": 225.1,
+      "end": 229.8,
+      "ts": "03:45.100 -> 03:49.800",
+      "jp": "肉を食べない人はちょっと退屈かもしれませんね",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>はちょっと<ruby>退屈<rt>たいくつ</rt></ruby>かもしれませんね",
+      "zh": "不吃肉的人可能会觉得有点无聊吧",
+      "en": "It might be a bit boring for someone who doesn't eat meat, though."
+    },
+    {
+      "id": 50,
+      "start": 229.8,
+      "end": 238.44,
+      "ts": "03:49.800 -> 03:58.440",
+      "jp": "バーベキューをいろいろなところで勝手にすることはできません",
+      "jp_html": "バーベキューをいろいろなところで<ruby>勝手<rt>かって</rt></ruby>にすることはできません",
+      "zh": "在不同地方私自举行烧烤是不允许的",
+      "en": "I cannot freely have barbecues in various places without permission."
+    },
+    {
+      "id": 51,
+      "start": 238.44,
+      "end": 239.9,
+      "ts": "03:58.440 -> 03:59.900",
+      "jp": "日本のルールで",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>のルールで",
+      "zh": "日本的规定中",
+      "en": "According to Japanese rules"
+    },
+    {
+      "id": 52,
+      "start": 239.9,
+      "end": 243.02,
+      "ts": "03:59.900 -> 04:03.020",
+      "jp": "例えば公園がありますね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>公園<rt>こうえん</rt></ruby>がありますね",
+      "zh": "比如有个公园呢",
+      "en": "For example, there is a park."
+    },
+    {
+      "id": 53,
+      "start": 243.02,
+      "end": 247.46,
+      "ts": "04:03.020 -> 04:07.460",
+      "jp": "バーベキューをしていい公園としてはいけない公園があります",
+      "jp_html": "バーベキューをしていい<ruby>公園<rt>こうえん</rt></ruby>としてはいけない<ruby>公園<rt>こうえん</rt></ruby>があります",
+      "zh": "有一些公园不允许进行烧烤活动",
+      "en": "There are parks where barbecuing is not allowed."
+    },
+    {
+      "id": 54,
+      "start": 247.46,
+      "end": 252.32,
+      "ts": "04:07.460 -> 04:12.320",
+      "jp": "なのでその辺はきちんとチェックしなければいけない",
+      "jp_html": "なのでその<ruby>辺<rt>へん</rt></ruby>はきちんとチェックしなければいけない",
+      "zh": "所以那边是需要好好检查的",
+      "en": "So we need to check that properly."
+    },
+    {
+      "id": 55,
+      "start": 252.32,
+      "end": 256.4,
+      "ts": "04:12.320 -> 04:16.400",
+      "jp": "公園によってはバーベキューをしていい場所があります",
+      "jp_html": "<ruby>公園<rt>こうえん</rt></ruby>によってはバーベキューをしていい<ruby>場所<rt>ばしょ</rt></ruby>があります",
+      "zh": "有些公园允许可以在那里烧烤",
+      "en": "Some parks allow barbecuing."
+    },
+    {
+      "id": 56,
+      "start": 256.4,
+      "end": 260.66,
+      "ts": "04:16.400 -> 04:20.660",
+      "jp": "そこには大体わかりますね",
+      "jp_html": "そこには<ruby>大体<rt>だいたい</rt></ruby>わかりますね",
+      "zh": "那里大概也能猜到吧",
+      "en": "I get it in general there, I suppose."
+    },
+    {
+      "id": 57,
+      "start": 260.66,
+      "end": 263.74,
+      "ts": "04:20.660 -> 04:23.740",
+      "jp": "例えば東京だったら",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>だったら",
+      "zh": "比如东京的话",
+      "en": "For example, if it's Tokyo"
+    },
+    {
+      "id": 58,
+      "start": 263.74,
+      "end": 269.18,
+      "ts": "04:23.740 -> 04:29.180",
+      "jp": "週末とかにバーベキューをしていい公園であれば",
+      "jp_html": "<ruby>週末<rt>しゅうまつ</rt></ruby>とかにバーベキューをしていい<ruby>公園<rt>こうえん</rt></ruby>であれば",
+      "zh": "周末可以去野餐的公园就有烧烤的地方",
+      "en": "A park where we can have a barbecue on weekends would be good."
+    },
+    {
+      "id": 59,
+      "start": 269.18,
+      "end": 271.96,
+      "ts": "04:29.180 -> 04:31.960",
+      "jp": "そこで誰か他の人がバーベキューをしてます",
+      "jp_html": "そこで<ruby>誰か<rt>だれか</rt></ruby><ruby>他の<rt>ほかの</rt></ruby><ruby>人<rt>にん</rt></ruby>がバーベキューをしてます",
+      "zh": "在那里有人在烧烤",
+      "en": "There's someone else grilling barbecue over there"
+    },
+    {
+      "id": 60,
+      "start": 271.96,
+      "end": 276.1,
+      "ts": "04:31.960 -> 04:36.100",
+      "jp": "それを見て聞いてみればいいと思いますね",
+      "jp_html": "それを<ruby>見て<rt>みて</rt></ruby><ruby>聞い<rt>きい</rt></ruby>てみればいいと<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "看看听听也不错吧",
+      "en": "I think you should see it and hear it for yourself."
+    },
+    {
+      "id": 61,
+      "start": 276.1,
+      "end": 278.2,
+      "ts": "04:36.100 -> 04:38.200",
+      "jp": "ここでバーベキューしていいんですかって言ったら",
+      "jp_html": "ここでバーベキューしていいんですかって<ruby>言った<rt>いった</rt></ruby>ら",
+      "zh": "我说这里可以野餐吗",
+      "en": "When I asked if we could have a barbecue here"
+    },
+    {
+      "id": 62,
+      "start": 278.2,
+      "end": 279.96,
+      "ts": "04:38.200 -> 04:39.960",
+      "jp": "どうぞどうぞいいですよ",
+      "jp_html": "どうぞどうぞいいですよ",
+      "zh": "请便，请吧。",
+      "en": "Please please it's okay"
+    },
+    {
+      "id": 63,
+      "start": 279.96,
+      "end": 282.36,
+      "ts": "04:39.960 -> 04:42.360",
+      "jp": "みんな自由にできます",
+      "jp_html": "みんな<ruby>自由<rt>じゆう</rt></ruby>にできます",
+      "zh": "大家都可以自由地做到",
+      "en": "Everyone can do it freely."
+    },
+    {
+      "id": 64,
+      "start": 282.36,
+      "end": 283.78,
+      "ts": "04:42.360 -> 04:43.780",
+      "jp": "ただここですね",
+      "jp_html": "ただここですね",
+      "zh": "只是这里呢",
+      "en": "Just here, though."
+    },
+    {
+      "id": 65,
+      "start": 283.78,
+      "end": 287.12,
+      "ts": "04:43.780 -> 04:47.120",
+      "jp": "そしてゴミはちゃんと持って帰ればいいですよ",
+      "jp_html": "そしてゴミはちゃんと<ruby>持って帰れ<rt>もってかえれ</rt></ruby>ばいいですよ",
+      "zh": "然后只要把垃圾带回去就可以了",
+      "en": "And you just need to make sure you take the trash home properly."
+    },
+    {
+      "id": 66,
+      "start": 287.12,
+      "end": 289.62,
+      "ts": "04:47.120 -> 04:49.620",
+      "jp": "多分そういうルールがあると思います",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>そういうルールがあると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想大概有这样的规则吧",
+      "en": "I think there's a rule for something like that."
+    },
+    {
+      "id": 67,
+      "start": 289.62,
+      "end": 294.38,
+      "ts": "04:49.620 -> 04:54.380",
+      "jp": "ただバーベキューをしてはいけない公園は",
+      "jp_html": "ただバーベキューをしてはいけない<ruby>公園<rt>こうえん</rt></ruby>は",
+      "zh": "只是不能在公园里烧烤的公园是",
+      "en": "The park where barbecuing is not allowed"
+    },
+    {
+      "id": 68,
+      "start": 294.38,
+      "end": 295.72,
+      "ts": "04:54.380 -> 04:55.720",
+      "jp": "ほとんどなので",
+      "jp_html": "ほとんどなので",
+      "zh": "几乎所以",
+      "en": "Almost so"
+    },
+    {
+      "id": 69,
+      "start": 295.72,
+      "end": 298.98,
+      "ts": "04:55.720 -> 04:58.980",
+      "jp": "そこではバーベキューをしてはいけません",
+      "jp_html": "そこではバーベキューをしてはいけません",
+      "zh": "那里不允许烧烤",
+      "en": "You are not allowed to have a barbecue there."
+    },
+    {
+      "id": 70,
+      "start": 298.98,
+      "end": 301.62,
+      "ts": "04:58.980 -> 05:01.620",
+      "jp": "海ですね",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>ですね",
+      "zh": "海啊",
+      "en": "It's the sea, huh?"
+    },
+    {
+      "id": 71,
+      "start": 301.62,
+      "end": 302.72,
+      "ts": "05:01.620 -> 05:02.720",
+      "jp": "あと海で",
+      "jp_html": "あと<ruby>海<rt>うみ</rt></ruby>で",
+      "zh": "然后在海里",
+      "en": "And at the sea"
+    },
+    {
+      "id": 72,
+      "start": 302.72,
+      "end": 307.54,
+      "ts": "05:02.720 -> 05:07.540",
+      "jp": "バーベキューができるビーチとかもありますよね",
+      "jp_html": "バーベキューができるビーチとかもありますよね",
+      "zh": "也有可以烧烤的海滩吧",
+      "en": "Don't they also have beaches where you can do barbecues?"
+    },
+    {
+      "id": 73,
+      "start": 307.54,
+      "end": 311.0,
+      "ts": "05:07.540 -> 05:11.000",
+      "jp": "でもできないビーチもある",
+      "jp_html": "でもできないビーチもある",
+      "zh": "但也有些海滩无法到达",
+      "en": "But there are also beaches that cannot be visited."
+    },
+    {
+      "id": 74,
+      "start": 311.0,
+      "end": 314.46,
+      "ts": "05:11.000 -> 05:14.460",
+      "jp": "それはいつもチェックしなければいけないですね",
+      "jp_html": "それはいつもチェックしなければいけないですね",
+      "zh": "那总是需要检查的吧",
+      "en": "That's something you always need to check, huh?"
+    },
+    {
+      "id": 75,
+      "start": 314.46,
+      "end": 316.82,
+      "ts": "05:14.460 -> 05:16.820",
+      "jp": "僕はバーベキュー大好きだけど",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>バーベキュー<ruby>大好き<rt>だいすき</rt></ruby>だけど",
+      "zh": "我喜欢烧烤但是",
+      "en": "I love barbecue but"
+    },
+    {
+      "id": 76,
+      "start": 316.82,
+      "end": 322.34,
+      "ts": "05:16.820 -> 05:22.340",
+      "jp": "準備と片付けはちょっとめんどくさいですよね",
+      "jp_html": "<ruby>準備<rt>じゅんび</rt></ruby>と<ruby>片付け<rt>かたづけ</rt></ruby>はちょっとめんどくさいですよね",
+      "zh": "准备和收拾东西稍微麻烦一点吧？",
+      "en": "Isn't preparation and cleaning up a bit troublesome, huh?"
+    },
+    {
+      "id": 77,
+      "start": 322.34,
+      "end": 326.26,
+      "ts": "05:22.340 -> 05:26.260",
+      "jp": "まあまあまあ店の方がいいかな",
+      "jp_html": "まあまあまあ<ruby>店<rt>みせ</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>いいかな",
+      "zh": "嗯，看来还是店家的好吧",
+      "en": "Well, maybe the store staff is better, huh?"
+    },
+    {
+      "id": 78,
+      "start": 326.26,
+      "end": 331.4,
+      "ts": "05:26.260 -> 05:31.400",
+      "jp": "ということで今日はバーベキューについて話してみました",
+      "jp_html": "ということで<ruby>今日は<rt>こんにちは</rt></ruby>バーベキューについて<ruby>話し<rt>はなし</rt></ruby>てみました",
+      "zh": "因此今天我介绍了关于烧烤的内容",
+      "en": "So today we talked about barbecue."
+    },
+    {
+      "id": 79,
+      "start": 331.4,
+      "end": 338.56,
+      "ts": "05:31.400 -> 05:38.560",
+      "jp": "バーベキューについて話したらちょっとなんか肉が食べたくなってきたような",
+      "jp_html": "バーベキューについて<ruby>話し<rt>はなし</rt></ruby>たらちょっとなんか<ruby>肉<rt>にく</rt></ruby>が<ruby>食べた<rt>たべた</rt></ruby>くなってきたような",
+      "zh": "说起烧烤我就有点想吃肉了。",
+      "en": "Talking about barbecue made me kind of hungry for meat."
+    },
+    {
+      "id": 80,
+      "start": 338.56,
+      "end": 339.68,
+      "ts": "05:38.560 -> 05:39.680",
+      "jp": "皆さんどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>どうですか",
+      "zh": "大家怎么样？",
+      "en": "How are everyone doing?"
+    },
+    {
+      "id": 81,
+      "start": 339.68,
+      "end": 341.84,
+      "ts": "05:39.680 -> 05:41.840",
+      "jp": "というわけでまたね",
+      "jp_html": "というわけでまたね",
+      "zh": "所以下次见吧",
+      "en": "So anyway, see you later."
+    }
+  ]
+}

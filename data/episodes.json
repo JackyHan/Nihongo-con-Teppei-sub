@@ -1,5 +1,17 @@
 [
   {
+    "id": "1540",
+    "title": "#1540「バーベキューについて！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/06/27/1540%e3%80%8c%e3%83%90%e3%83%bc%e3%83%99%e3%82%ad%e3%83%a5%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1540.mp3",
+    "data_path": "library/podcast/teppei/episodes/1540.json"
+  },
+  {
     "id": "1539",
     "title": "#1539「キャンプについて！」",
     "category_id": "podcast",
@@ -486,5 +498,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E04.Yamucha.the.Strong.Yet.Cruel.Desert.Bandit.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e04.json"
+  },
+  {
+    "id": "db-recut-e05",
+    "title": "Dragon Ball Recut E05: Midnight Callers",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E05.v2.Midnight.Callers.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e05.json"
   }
 ]
