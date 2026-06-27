@@ -58,14 +58,16 @@ http://127.0.0.1:8000
   Layout and visual styling
 - `app.js`
   Audio sync, episode loading, pagination, and subtitle behavior
+- `data/catalog.json`
+  Main library catalog with categories, series, and episode metadata
 - `data/episodes.json`
-  Episode catalog used by the sidebar
-- `data/*.json`
-  Per-episode subtitle payloads
+  Legacy flat episode list kept for compatibility with older scripts
+- `data/library/<category>/<series>/episodes/*.json`
+  Per-episode subtitle payloads grouped by content type and series
 
 ## Updating Episode Data
 
-New episode subtitle files are generated outside this repository and then committed into `data/`.
+New episode subtitle files are generated outside this repository and then committed into `data/library/...`.
 
 Each episode JSON contains:
 

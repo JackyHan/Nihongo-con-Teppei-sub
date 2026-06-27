@@ -89,6 +89,7 @@ function normalizeEpisodeMeta(meta) {
     ...meta,
     media_type: mediaType,
     media_url: meta.media_url || meta.audio_url || meta.video_url || "",
+    data_path: meta.data_path || "",
     category_id: meta.category_id || (mediaType === "video" ? "anime" : "podcast"),
     category_title: meta.category_title || (mediaType === "video" ? "Anime" : "Podcast"),
     series_title: meta.series_title || "Nihongo con Teppei",
@@ -107,6 +108,7 @@ function normalizeEpisodePayload(payload, meta) {
       payload.audio_url ||
       payload.video_url ||
       normalizedMeta.media_url,
+    data_path: payload.data_path || normalizedMeta.data_path || "",
     category_id: payload.category_id || normalizedMeta.category_id,
     category_title: payload.category_title || normalizedMeta.category_title,
     series_id: payload.series_id || normalizedMeta.series_id,
@@ -336,7 +338,8 @@ function resetInactivePlayer(nextMediaType) {
 async function loadEpisode(meta) {
   setStatus("Loading subtitles…");
   const normalizedMeta = normalizeEpisodeMeta(meta);
-  const response = await fetch(`./data/${normalizedMeta.id}.json`);
+  const episodePath = normalizedMeta.data_path || `${normalizedMeta.id}.json`;
+  const response = await fetch(`./data/${episodePath}`);
   if (!response.ok) {
     throw new Error(`Failed to load episode data for ${normalizedMeta.id}`);
   }
@@ -356,11 +359,21 @@ async function loadEpisode(meta) {
 }
 
 async function boot() {
-  const response = await fetch("./data/episodes.json");
-  if (!response.ok) {
-    throw new Error("Failed to load episode catalog.");
+  let catalogPayload = null;
+  const catalogResponse = await fetch("./data/catalog.json");
+  if (catalogResponse.ok) {
+    catalogPayload = await catalogResponse.json();
+  } else {
+    const legacyResponse = await fetch("./data/episodes.json");
+    if (!legacyResponse.ok) {
+      throw new Error("Failed to load episode catalog.");
+    }
+    catalogPayload = await legacyResponse.json();
   }
-  episodeCatalog = (await response.json()).map(normalizeEpisodeMeta);
+  const catalogEntries = Array.isArray(catalogPayload)
+    ? catalogPayload
+    : catalogPayload.episodes || [];
+  episodeCatalog = catalogEntries.map(normalizeEpisodeMeta);
   filteredCatalog = [...episodeCatalog];
   if (!episodeCatalog.length) {
     throw new Error("No episodes found.");

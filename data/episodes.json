@@ -8,7 +8,8 @@
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E01.v2.Bulma.and.Son.Goku.mp4",
     "source_url": "https://archive.org/details/dragon-ball-recut",
     "series_id": "dragon-ball-recut",
-    "series_title": "Dragon Ball Recut"
+    "series_title": "Dragon Ball Recut",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e01.json"
   },
   {
     "id": "1539",
@@ -17,7 +18,8 @@
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
     "series_title": "Nihongo con Teppei",
-    "source_url": "https://nihongoconteppei.com/2026/06/24/1539%e3%80%8c%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/"
+    "source_url": "https://nihongoconteppei.com/2026/06/24/1539%e3%80%8c%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1539.json"
   },
   {
     "id": "1538",
@@ -26,7 +28,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1538.json"
   },
   {
     "id": "1537",
@@ -35,7 +38,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1537.json"
   },
   {
     "id": "1536",
@@ -44,7 +48,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1536.json"
   },
   {
     "id": "1535",
@@ -53,7 +58,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1535.json"
   },
   {
     "id": "1534",
@@ -62,7 +68,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1534.json"
   },
   {
     "id": "1533",
@@ -71,7 +78,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1533.json"
   },
   {
     "id": "1532",
@@ -80,7 +88,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1532.json"
   },
   {
     "id": "1531",
@@ -89,7 +98,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1531.json"
   },
   {
     "id": "1530",
@@ -98,7 +108,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1530.json"
   },
   {
     "id": "1529",
@@ -107,7 +118,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1529.json"
   },
   {
     "id": "1528",
@@ -116,7 +128,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1528.json"
   },
   {
     "id": "1527",
@@ -125,7 +138,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1527.json"
   },
   {
     "id": "1526",
@@ -134,7 +148,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1526.json"
   },
   {
     "id": "1525",
@@ -143,7 +158,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1525.json"
   },
   {
     "id": "1524",
@@ -152,7 +168,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1524.json"
   },
   {
     "id": "1523",
@@ -161,7 +178,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1523.json"
   },
   {
     "id": "1522",
@@ -170,7 +188,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1522.json"
   },
   {
     "id": "1521",
@@ -179,7 +198,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1521.json"
   },
   {
     "id": "1520",
@@ -188,7 +208,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1520.json"
   },
   {
     "id": "1519",
@@ -197,7 +218,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1519.json"
   },
   {
     "id": "1518",
@@ -206,7 +228,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1518.json"
   },
   {
     "id": "1517",
@@ -215,7 +238,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1517.json"
   },
   {
     "id": "1516",
@@ -224,7 +248,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1516.json"
   },
   {
     "id": "1515",
@@ -233,7 +258,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1515.json"
   },
   {
     "id": "1514",
@@ -242,7 +268,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1514.json"
   },
   {
     "id": "1513",
@@ -251,7 +278,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1513.json"
   },
   {
     "id": "1512",
@@ -260,7 +288,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1512.json"
   },
   {
     "id": "1511",
@@ -269,7 +298,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1511.json"
   },
   {
     "id": "1510",
@@ -278,7 +308,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1510.json"
   },
   {
     "id": "1509",
@@ -287,7 +318,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1509.json"
   },
   {
     "id": "1508",
@@ -296,7 +328,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1508.json"
   },
   {
     "id": "1507",
@@ -305,7 +338,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1507.json"
   },
   {
     "id": "1506",
@@ -314,7 +348,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1506.json"
   },
   {
     "id": "1505",
@@ -323,7 +358,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1505.json"
   },
   {
     "id": "1504",
@@ -332,7 +368,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1504.json"
   },
   {
     "id": "1503",
@@ -341,7 +378,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1503.json"
   },
   {
     "id": "1502",
@@ -350,7 +388,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1502.json"
   },
   {
     "id": "1501",
@@ -359,7 +398,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1501.json"
   },
   {
     "id": "1500",
@@ -368,7 +408,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1500.json"
   },
   {
     "id": "1499",
@@ -377,7 +418,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1499.json"
   },
   {
     "id": "1498",
@@ -386,7 +428,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1498.json"
   },
   {
     "id": "1497",
@@ -395,7 +438,8 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1497.json"
   },
   {
     "id": "1496",
@@ -404,6 +448,7 @@
     "category_id": "podcast",
     "category_title": "Podcast",
     "series_id": "nihongo-con-teppei",
-    "series_title": "Nihongo con Teppei"
+    "series_title": "Nihongo con Teppei",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1496.json"
   }
 ]

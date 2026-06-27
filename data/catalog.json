@@ -1,0 +1,483 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "id": "anime",
+      "title": "Anime"
+    },
+    {
+      "id": "podcast",
+      "title": "Podcast"
+    }
+  ],
+  "series": [
+    {
+      "id": "dragon-ball-recut",
+      "title": "Dragon Ball Recut",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video"
+    },
+    {
+      "id": "nihongo-con-teppei",
+      "title": "Nihongo con Teppei",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "db-recut-e01",
+      "title": "Dragon Ball Recut E01: Bulma and Son Goku",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E01.v2.Bulma.and.Son.Goku.mp4",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e01.json"
+    },
+    {
+      "id": "1539",
+      "title": "#1539「キャンプについて！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "source_url": "https://nihongoconteppei.com/2026/06/24/1539%e3%80%8c%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1539.json"
+    },
+    {
+      "id": "1538",
+      "title": "#1538「山登り（やまのぼり）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/22/1538%e3%80%8c%e5%b1%b1%e7%99%bb%e3%82%8a%ef%bc%88%e3%82%84%e3%81%be%e3%81%ae%e3%81%bc%e3%82%8a%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1538.json"
+    },
+    {
+      "id": "1537",
+      "title": "#1537「海水浴（かいすいよく）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/20/1537%e3%80%8c%e6%b5%b7%e6%b0%b4%e6%b5%b4%ef%bc%88%e3%81%8b%e3%81%84%e3%81%99%e3%81%84%e3%82%88%e3%81%8f%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1537.json"
+    },
+    {
+      "id": "1536",
+      "title": "#1536「魚釣り（魚つり）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/18/1536%e3%80%8c%e9%ad%9a%e9%87%a3%e3%82%8a%ef%bc%88%e9%ad%9a%e3%81%a4%e3%82%8a%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1536.json"
+    },
+    {
+      "id": "1535",
+      "title": "#1535「怖いものについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/16/1535%e3%80%8c%e6%80%96%e3%81%84%e3%82%82%e3%81%ae%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1535.json"
+    },
+    {
+      "id": "1534",
+      "title": "#1534「夢について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/14/1534%e3%80%8c%e5%a4%a2%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1534.json"
+    },
+    {
+      "id": "1533",
+      "title": "#1533「夜について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/12/1533%e3%80%8c%e5%a4%9c%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1533.json"
+    },
+    {
+      "id": "1532",
+      "title": "#1532「朝について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/10/1532%e3%80%8c%e6%9c%9d%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1532.json"
+    },
+    {
+      "id": "1531",
+      "title": "#1531「週末（しゅうまつ）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/08/1531%e3%80%8c%e9%80%b1%e6%9c%ab%ef%bc%88%e3%81%97%e3%82%85%e3%81%86%e3%81%be%e3%81%a4%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1531.json"
+    },
+    {
+      "id": "1530",
+      "title": "#1530「花火について！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/05/1530%e3%80%8c%e8%8a%b1%e7%81%ab%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1530.json"
+    },
+    {
+      "id": "1529",
+      "title": "#1529「祭りについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/03/1529%e3%80%8c%e7%a5%ad%e3%82%8a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1529.json"
+    },
+    {
+      "id": "1528",
+      "title": "#1528「デパートとかショッピングモールについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/06/01/1528%e3%80%8c%e3%83%87%e3%83%91%e3%83%bc%e3%83%88%e3%81%a8%e3%81%8b%e3%82%b7%e3%83%a7%e3%83%83%e3%83%94%e3%83%b3%e3%82%b0%e3%83%a2%e3%83%bc%e3%83%ab%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1528.json"
+    },
+    {
+      "id": "1527",
+      "title": "#1527「動物園（どうぶつえん）と水族館（すいぞくかん）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/30/1527%e3%80%8c%e5%8b%95%e7%89%a9%e5%9c%92%ef%bc%88%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e3%81%88%e3%82%93%ef%bc%89%e3%81%a8%e6%b0%b4%e6%97%8f%e9%a4%a8%ef%bc%88%e3%81%99%e3%81%84%e3%81%9e%e3%81%8f/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1527.json"
+    },
+    {
+      "id": "1526",
+      "title": "#1526「運動（うんどう）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/28/1526%e3%80%8c%e9%81%8b%e5%8b%95%ef%bc%88%e3%81%86%e3%82%93%e3%81%a9%e3%81%86%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1526.json"
+    },
+    {
+      "id": "1525",
+      "title": "#1525「給食（きゅうしょく）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/26/1525%e3%80%8c%e7%b5%a6%e9%a3%9f%ef%bc%88%e3%81%8d%e3%82%85%e3%81%86%e3%81%97%e3%82%87%e3%81%8f%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1525.json"
+    },
+    {
+      "id": "1524",
+      "title": "#1524「放課後（ほうかご）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/25/1524%e3%80%8c%e6%94%be%e8%aa%b2%e5%be%8c%ef%bc%88%e3%81%bb%e3%81%86%e3%81%8b%e3%81%94%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1524.json"
+    },
+    {
+      "id": "1523",
+      "title": "#1523「英語について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/23/1523%e3%80%8c%e8%8b%b1%e8%aa%9e%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1523.json"
+    },
+    {
+      "id": "1522",
+      "title": "#1522「Nihongo con Teppei with Kimiについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/21/1522%e3%80%8cnihongo-con-teppei-with-kimi%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1522.json"
+    },
+    {
+      "id": "1521",
+      "title": "#1521「学校の授業と教科（きょうか）について！②」",
+      "source_url": "https://nihongoconteppei.com/2026/05/20/1521%e3%80%8c%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%8e%88%e6%a5%ad%e3%81%a8%e6%95%99%e7%a7%91%ef%bc%88%e3%81%8d%e3%82%87%e3%81%86%e3%81%8b%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e2%91%a1/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1521.json"
+    },
+    {
+      "id": "1520",
+      "title": "#1520「学校の授業（じゅぎょう）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/18/1520%e3%80%8c%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%8e%88%e6%a5%ad%ef%bc%88%e3%81%98%e3%82%85%e3%81%8e%e3%82%87%e3%81%86%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1520.json"
+    },
+    {
+      "id": "1519",
+      "title": "#1519「壁（かべ）、床（ゆか）、天井（てんじょう）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/16/1519%E3%80%8C%E5%A3%81%EF%BC%88%E3%81%8B%E3%81%B9%EF%BC%89%E3%80%81%E5%BA%8A%EF%BC%88%E3%82%86%E3%81%8B%EF%BC%89%E3%80%81%E5%A4%A9%E4%BA%95%EF%BC%88%E3%81%A6%E3%82%93%E3%81%98%E3%82%87%E3%81%86%EF%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%81/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1519.json"
+    },
+    {
+      "id": "1518",
+      "title": "#1518「リモコンについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/15/1518%e3%80%8c%e3%83%aa%e3%83%a2%e3%82%b3%e3%83%b3%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1518.json"
+    },
+    {
+      "id": "1517",
+      "title": "#1517「エアコンについて（録音は少し前です。今日は暑い！）」",
+      "source_url": "https://nihongoconteppei.com/2026/05/13/1517%e3%80%8c%e3%82%a8%e3%82%a2%e3%82%b3%e3%83%b3%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%88%e9%8c%b2%e9%9f%b3%e3%81%af%e5%b0%91%e3%81%97%e5%89%8d%e3%81%a7%e3%81%99%e3%80%82%e4%bb%8a%e6%97%a5/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1517.json"
+    },
+    {
+      "id": "1516",
+      "title": "#1516「（明日は）僕の誕生日おめでとう！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/11/1516%e3%80%8c%ef%bc%88%e6%98%8e%e6%97%a5%e3%81%af%ef%bc%89%e5%83%95%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1516.json"
+    },
+    {
+      "id": "1515",
+      "title": "#1515「冷蔵庫（れいぞうこ）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/09/1515%e3%80%8c%e5%86%b7%e8%94%b5%e5%ba%ab%ef%bc%88%e3%82%8c%e3%81%84%e3%81%9e%e3%81%86%e3%81%93%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1515.json"
+    },
+    {
+      "id": "1514",
+      "title": "#1514「お金について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/07/1514%e3%80%8c%e3%81%8a%e9%87%91%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1514.json"
+    },
+    {
+      "id": "1513",
+      "title": "#1513「ATMについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/05/1513%e3%80%8catm%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1513.json"
+    },
+    {
+      "id": "1512",
+      "title": "#1512「コンビニについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/03/1512%e3%80%8c%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1512.json"
+    },
+    {
+      "id": "1511",
+      "title": "#1511「洗濯（せんたく）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/05/01/1511%e3%80%8c%e6%b4%97%e6%bf%af%ef%bc%88%e3%81%9b%e3%82%93%e3%81%9f%e3%81%8f%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1511.json"
+    },
+    {
+      "id": "1510",
+      "title": "#1510「トイレットペーパーについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/29/1510%e3%80%8c%e3%83%88%e3%82%a4%e3%83%ac%e3%83%83%e3%83%88%e3%83%9a%e3%83%bc%e3%83%91%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1510.json"
+    },
+    {
+      "id": "1509",
+      "title": "#1509「勉強のアドバイス！④」",
+      "source_url": "https://nihongoconteppei.com/2026/04/27/1509%e3%80%8c%e5%8b%89%e5%bc%b7%e3%81%ae%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b9%ef%bc%81%e2%91%a3%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1509.json"
+    },
+    {
+      "id": "1508",
+      "title": "#1508「勉強のアドバイス！③」",
+      "source_url": "https://nihongoconteppei.com/2026/04/26/1508%e3%80%8c%e5%8b%89%e5%bc%b7%e3%81%ae%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b9%ef%bc%81%e2%91%a2%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1508.json"
+    },
+    {
+      "id": "1507",
+      "title": "#1507「勉強のアドバイス！②」",
+      "source_url": "https://nihongoconteppei.com/2026/04/24/1507%e3%80%8c%e5%8b%89%e5%bc%b7%e3%81%ae%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b9%ef%bc%81%e2%91%a1%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1507.json"
+    },
+    {
+      "id": "1506",
+      "title": "#1506「勉強のアドバイス！①」",
+      "source_url": "https://nihongoconteppei.com/2026/04/22/1506%e3%80%8c%e5%8b%89%e5%bc%b7%e3%81%ae%e3%82%a2%e3%83%89%e3%83%90%e3%82%a4%e3%82%b9%ef%bc%81%e2%91%a0%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1506.json"
+    },
+    {
+      "id": "1505",
+      "title": "#1505「掃除（そうじ）をして、めちゃめちゃ疲（つか）れた…」",
+      "source_url": "https://nihongoconteppei.com/2026/04/20/1505%e3%80%8c%e6%8e%83%e9%99%a4%e3%82%92%e3%81%97%e3%81%a6%e3%80%81%e3%82%81%e3%81%a1%e3%82%83%e3%82%81%e3%81%a1%e3%82%83%e7%96%b2%e3%82%8c%e3%81%9f-%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1505.json"
+    },
+    {
+      "id": "1504",
+      "title": "#1504「肉と魚について！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/18/1504%e3%80%8c%e8%82%89%e3%81%a8%e9%ad%9a%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1504.json"
+    },
+    {
+      "id": "1503",
+      "title": "#1503「ケーキとかクッキーについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/17/1503%e3%80%8c%e3%82%b1%e3%83%bc%e3%82%ad%e3%81%a8%e3%81%8b%e3%82%af%e3%83%83%e3%82%ad%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1503.json"
+    },
+    {
+      "id": "1502",
+      "title": "#1502「春の天気について！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/16/1502%e3%80%8c%e6%98%a5%e3%81%ae%e5%a4%a9%e6%b0%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1502.json"
+    },
+    {
+      "id": "1501",
+      "title": "#1501「日本食について！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/15/1501%e3%80%8c%e6%97%a5%e6%9c%ac%e9%a3%9f%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1501.json"
+    },
+    {
+      "id": "1500",
+      "title": "#1500「1500回おめでと〜！！！！！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/13/1500%e3%80%8c1500%e5%9b%9e%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%80%9c%ef%bc%81%ef%bc%81%ef%bc%81%ef%bc%81%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1500.json"
+    },
+    {
+      "id": "1499",
+      "title": "#1499「果物（くだもの）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/12/1499%e3%80%8c%e6%9e%9c%e7%89%a9%ef%bc%88%e3%81%8f%e3%81%a0%e3%82%82%e3%81%ae%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1499.json"
+    },
+    {
+      "id": "1498",
+      "title": "#1498「復習（ふくしゅう）、おさらいについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/10/1498%e3%80%8c%e5%be%a9%e7%bf%92%ef%bc%88%e3%81%b5%e3%81%8f%e3%81%97%e3%82%85%e3%81%86%ef%bc%89%e3%80%81%e3%81%8a%e3%81%95%e3%82%89%e3%81%84%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1498.json"
+    },
+    {
+      "id": "1497",
+      "title": "#1497「エレベーターとエスカレーターについて！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/09/1497%e3%80%8c%e3%82%a8%e3%83%ac%e3%83%99%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%a8%e3%82%a8%e3%82%b9%e3%82%ab%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1497.json"
+    },
+    {
+      "id": "1496",
+      "title": "#1496「新幹線（しんかんせん）について！」",
+      "source_url": "https://nihongoconteppei.com/2026/04/07/1496%e3%80%8c%e6%96%b0%e5%b9%b9%e7%b7%9a%ef%bc%88%e3%81%97%e3%82%93%e3%81%8b%e3%82%93%e3%81%9b%e3%82%93%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1496.json"
+    }
+  ]
+}
