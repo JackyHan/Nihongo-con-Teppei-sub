@@ -1222,6 +1222,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E62.v2.Gokus.Wish--Even.Karin-sama.is.Worried.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e62.json"
+    },
+    {
+      "id": "db-recut-e63",
+      "title": "Dragon Ball Recut E63: The Turtle Hermits Alive",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E63.v2.The.Turtle.Hermits.Alive.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e63.json"
     }
   ]
 }
