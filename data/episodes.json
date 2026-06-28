@@ -1158,5 +1158,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E59.v2.Dont.Give.Up.Son.Goku.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e59.json"
+  },
+  {
+    "id": "db-recut-e60",
+    "title": "Dragon Ball Recut E60: The Turtle Hermits Final Mafuba",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E60.v2.The.Turtle.Hermits.Final.Mafuba.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e60.json"
   }
 ]
