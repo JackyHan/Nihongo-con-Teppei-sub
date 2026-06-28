@@ -786,5 +786,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E28.v2.The.End.of.Muscle.Tower.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e28.json"
+  },
+  {
+    "id": "db-recut-e29",
+    "title": "Dragon Ball Recut E29: Bulmas House in Metro West",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E29.v2.Bulmas.House.in.Metro.West.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e29.json"
   }
 ]
