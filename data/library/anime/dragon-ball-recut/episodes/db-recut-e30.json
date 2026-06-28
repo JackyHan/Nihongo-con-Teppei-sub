@@ -1,0 +1,2174 @@
+{
+  "id": "db-recut-e30",
+  "title": "Dragon Ball Recut E30: Bulmas Big Failure",
+  "category_id": "anime",
+  "category_title": "Anime",
+  "media_type": "video",
+  "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E30.v2.Bulmas.Big.Failure.mp4",
+  "audio_url": "",
+  "source_url": "https://archive.org/details/dragon-ball-recut",
+  "series_id": "dragon-ball-recut",
+  "series_title": "Dragon Ball Recut",
+  "entries": [
+    {
+      "id": 0,
+      "start": 149.1,
+      "end": 150.1,
+      "ts": "02:29.100 -> 02:30.100",
+      "jp": "パイン。",
+      "jp_html": "パイン。",
+      "zh": "松。",
+      "en": "Pine."
+    },
+    {
+      "id": 1,
+      "start": 150.1,
+      "end": 164.5,
+      "ts": "02:30.100 -> 02:44.500",
+      "jp": "この少年、たった一人だという方を信じられぬことですが、",
+      "jp_html": "この<ruby>少年<rt>しょうねん</rt></ruby>、たった<ruby>一人<rt>ひとり</rt></ruby>だという<ruby>方を<rt>ほうを</rt></ruby><ruby>信じ<rt>しんじ</rt></ruby>られぬことですが、",
+      "zh": "我无法相信这个少年只是一个人。",
+      "en": "I cannot believe that this boy is alone."
+    },
+    {
+      "id": 2,
+      "start": 164.5,
+      "end": 173.5,
+      "ts": "02:44.500 -> 02:53.500",
+      "jp": "この少年にシルバー隊はおろか、ワイト隊も全滅させられ、ドラゴンボール2個を奪われたと。",
+      "jp_html": "この<ruby>少年<rt>しょうねん</rt></ruby>にシルバー<ruby>隊<rt>たい</rt></ruby>はおろか、ワイト<ruby>隊<rt>たい</rt></ruby>も<ruby>全滅<rt>ぜんめつ</rt></ruby>させられ、ドラゴンボール2<ruby>個<rt>こ</rt></ruby>を<ruby>奪わ<rt>うばわ</rt></ruby>れたと。",
+      "zh": "据报道，银发队和白队都被这个少年全部消灭了，并且夺走了两颗龙珠。",
+      "en": "The Silver Team and even the White Team were completely wiped out by this boy, who also stole two Dragon Balls."
+    },
+    {
+      "id": 3,
+      "start": 173.5,
+      "end": 177.5,
+      "ts": "02:53.500 -> 02:57.500",
+      "jp": "で、野菜はどこに?",
+      "jp_html": "で、<ruby>野菜<rt>やさい</rt></ruby>はどこに?",
+      "zh": "那蔬菜在哪里？",
+      "en": "Where are the vegetables?"
+    },
+    {
+      "id": 4,
+      "start": 177.5,
+      "end": 179.5,
+      "ts": "02:57.500 -> 02:59.500",
+      "jp": "はい、これをご覧ください。",
+      "jp_html": "はい、これをご<ruby>覧<rt>らん</rt></ruby>ください。",
+      "zh": "请看这个。",
+      "en": "Yes, please look at this."
+    },
+    {
+      "id": 5,
+      "start": 179.5,
+      "end": 186.5,
+      "ts": "02:59.500 -> 03:06.500",
+      "jp": "例の少年は、どうやらブルー将軍担当のドラゴンボールに向かっているようですな。",
+      "jp_html": "<ruby>例の<rt>れいの</rt></ruby><ruby>少年<rt>しょうねん</rt></ruby>は、どうやらブルー<ruby>将軍<rt>しょうぐん</rt></ruby><ruby>担当<rt>たんとう</rt></ruby>のドラゴンボールに<ruby>向か<rt>むか</rt></ruby>っているようですな。",
+      "zh": "那个少年似乎正朝蓝将军专属的龙珠走去。",
+      "en": "The boy seems to be heading towards the Dragon Ball assigned to Blue General, I suppose."
+    },
+    {
+      "id": 6,
+      "start": 186.5,
+      "end": 187.2,
+      "ts": "03:06.500 -> 03:07.200",
+      "jp": "なあ。",
+      "jp_html": "なあ。",
+      "zh": "喂。",
+      "en": "Hey."
+    },
+    {
+      "id": 7,
+      "start": 187.2,
+      "end": 191.2,
+      "ts": "03:07.200 -> 03:11.200",
+      "jp": "うーん、なんというスピードだ。",
+      "jp_html": "うーん、なんというスピードだ。",
+      "zh": "嗯，这是多快的速度。",
+      "en": "Hmm, what speed is this."
+    },
+    {
+      "id": 8,
+      "start": 191.2,
+      "end": 199.19,
+      "ts": "03:11.200 -> 03:19.190",
+      "jp": "ガキめぇ。",
+      "jp_html": "ガキめぇ。",
+      "zh": "小鬼。",
+      "en": "Brat."
+    },
+    {
+      "id": 9,
+      "start": 199.19,
+      "end": 202.39,
+      "ts": "03:19.190 -> 03:22.390",
+      "jp": "ガキの写真は、確か伝送してあったな。",
+      "jp_html": "ガキの<ruby>写真<rt>しゃしん</rt></ruby>は、<ruby>確か<rt>たしか</rt></ruby><ruby>伝送<rt>でんそう</rt></ruby>してあったな。",
+      "zh": "孩子的照片，确实在传输呢。",
+      "en": "The photo of the kid was indeed supposed to be sent, right?"
+    },
+    {
+      "id": 10,
+      "start": 202.39,
+      "end": 203.39,
+      "ts": "03:22.390 -> 03:23.390",
+      "jp": "はあ。",
+      "jp_html": "はあ。",
+      "zh": "哈。",
+      "en": "Ah."
+    },
+    {
+      "id": 11,
+      "start": 203.39,
+      "end": 206.29,
+      "ts": "03:23.390 -> 03:26.290",
+      "jp": "ブルー将軍に連絡しろ。",
+      "jp_html": "ブルー<ruby>将軍<rt>しょうぐん</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>しろ。",
+      "zh": "联系蓝将军。",
+      "en": "Contact General Blue."
+    },
+    {
+      "id": 12,
+      "start": 206.29,
+      "end": 219.05,
+      "ts": "03:26.290 -> 03:39.050",
+      "jp": "発見次第、全力をあげてしますしろとな。",
+      "jp_html": "<ruby>発見<rt>はっけん</rt></ruby><ruby>次第<rt>しだい</rt></ruby>、<ruby>全力<rt>ぜんりょく</rt></ruby>をあげてしますしろとな。",
+      "zh": "发现之后，你要全力以赴。",
+      "en": "Discover it and show your utmost efforts."
+    },
+    {
+      "id": 13,
+      "start": 219.05,
+      "end": 231.6,
+      "ts": "03:39.050 -> 03:51.600",
+      "jp": "へへへ。",
+      "jp_html": "へへへ。",
+      "zh": "呵呵呵。",
+      "en": "Hehehe."
+    },
+    {
+      "id": 14,
+      "start": 231.6,
+      "end": 233.0,
+      "ts": "03:51.600 -> 03:53.000",
+      "jp": "何ですって?",
+      "jp_html": "<ruby>何で<rt>なんで</rt></ruby>すって?",
+      "zh": "什么？",
+      "en": "What is it?"
+    },
+    {
+      "id": 15,
+      "start": 233.0,
+      "end": 234.4,
+      "ts": "03:53.000 -> 03:54.400",
+      "jp": "まだ発見できないの?",
+      "jp_html": "まだ<ruby>発見<rt>はっけん</rt></ruby>できないの?",
+      "zh": "还找不到吗？",
+      "en": "Can't you still find it?"
+    },
+    {
+      "id": 16,
+      "start": 234.4,
+      "end": 236.4,
+      "ts": "03:54.400 -> 03:56.400",
+      "jp": "は、はあ。",
+      "jp_html": "は、はあ。",
+      "zh": "哈，啊。",
+      "en": "Hm, ha."
+    },
+    {
+      "id": 17,
+      "start": 236.4,
+      "end": 238.2,
+      "ts": "03:56.400 -> 03:58.200",
+      "jp": "いい加減にしてよ。",
+      "jp_html": "いい<ruby>加減<rt>かげん</rt></ruby>にしてよ。",
+      "zh": "你够了。",
+      "en": "Behave properly."
+    },
+    {
+      "id": 18,
+      "start": 238.2,
+      "end": 240.4,
+      "ts": "03:58.200 -> 04:00.400",
+      "jp": "レッド総帥はご立腹よ。",
+      "jp_html": "レッド<ruby>総帥<rt>そうすい</rt></ruby>はご<ruby>立腹<rt>りっぷく</rt></ruby>よ。",
+      "zh": "红总帅很生气。",
+      "en": "Red Commander is furious."
+    },
+    {
+      "id": 19,
+      "start": 240.4,
+      "end": 250.4,
+      "ts": "04:00.400 -> 04:10.400",
+      "jp": "この名に探しているんですが、何しろ海の底に沈んでいるらしいので難航しておりますです。",
+      "jp_html": "この<ruby>名<rt>めい</rt></ruby>に<ruby>探し<rt>さがし</rt></ruby>ているんですが、<ruby>何しろ<rt>なにしろ</rt></ruby><ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>に<ruby>沈ん<rt>しずん</rt></ruby>でいるらしいので<ruby>難航<rt>なんこう</rt></ruby>しておりますです。",
+      "zh": "这个名字我正在找，可惜据说沉在海底了，所以进展有些困难。",
+      "en": "I'm having trouble with this because it seems to be at the bottom of the sea."
+    },
+    {
+      "id": 20,
+      "start": 250.4,
+      "end": 256.03,
+      "ts": "04:10.400 -> 04:16.030",
+      "jp": "言い訳は聞きたくないわ。ちょっとそこで、アルタ!",
+      "jp_html": "<ruby>言い訳<rt>いいわけ</rt></ruby>は<ruby>聞き<rt>きき</rt></ruby>たくないわ。ちょっとそこで、アルタ!",
+      "zh": "我不想听借口。你在那里，阿尔塔！",
+      "en": "I don't want to hear any excuses. Just stop there, Alter!"
+    },
+    {
+      "id": 21,
+      "start": 256.03,
+      "end": 259.03,
+      "ts": "04:16.030 -> 04:19.030",
+      "jp": "今、鼻くそをほじってたでしょう!",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>、<ruby>鼻<rt>はな</rt></ruby>くそをほじってたでしょう!",
+      "zh": "现在还在挖鼻孔吧！",
+      "en": "You were just picking your nose, weren't you!"
+    },
+    {
+      "id": 22,
+      "start": 259.03,
+      "end": 262.38,
+      "ts": "04:19.030 -> 04:22.380",
+      "jp": "こ、殺すの!",
+      "jp_html": "こ、<ruby>殺す<rt>ころす</rt></ruby>の!",
+      "zh": "杀了我！",
+      "en": "You're going to kill me!"
+    },
+    {
+      "id": 23,
+      "start": 262.38,
+      "end": 264.38,
+      "ts": "04:22.380 -> 04:24.380",
+      "jp": "な、なんという不潔な。",
+      "jp_html": "な、なんという<ruby>不潔<rt>ふけつ</rt></ruby>な。",
+      "zh": "多么污秽不堪。",
+      "en": "What an unclean thing."
+    },
+    {
+      "id": 24,
+      "start": 264.38,
+      "end": 267.38,
+      "ts": "04:24.380 -> 04:27.380",
+      "jp": "処刑よ!ただちに処刑!",
+      "jp_html": "<ruby>処刑<rt>しょけい</rt></ruby>よ!ただちに<ruby>処刑<rt>しょけい</rt></ruby>!",
+      "zh": "处决！立刻处决！",
+      "en": "Execute! Execute immediately!"
+    },
+    {
+      "id": 25,
+      "start": 267.38,
+      "end": 271.38,
+      "ts": "04:27.380 -> 04:31.380",
+      "jp": "いや!お助けよ!私にはつまむこもあるんでほざ!",
+      "jp_html": "いや!お<ruby>助け<rt>たすけ</rt></ruby>よ!<ruby>私<rt>わたし</rt></ruby>にはつまむこもあるんでほざ!",
+      "zh": "哎呀！请帮忙啊！我也有jompo的！",
+      "en": "No! Help me! I also have treasure so help me!"
+    },
+    {
+      "id": 26,
+      "start": 271.38,
+      "end": 280.03,
+      "ts": "04:31.380 -> 04:40.030",
+      "jp": "うーん、いい音。",
+      "jp_html": "うーん、いい<ruby>音<rt>おと</rt></ruby>。",
+      "zh": "嗯，不错的声音。",
+      "en": "Hmm, good sound."
+    },
+    {
+      "id": 27,
+      "start": 281.03,
+      "end": 284.03,
+      "ts": "04:41.030 -> 04:44.030",
+      "jp": "ちょっと、そこ、消毒しといてちょうだい。",
+      "jp_html": "ちょっと、そこ、<ruby>消毒<rt>しょうどく</rt></ruby>しといてちょうだい。",
+      "zh": "稍微，那边，消消毒好吗？",
+      "en": "Could you disinfect that for me, please?"
+    },
+    {
+      "id": 28,
+      "start": 284.03,
+      "end": 291.3,
+      "ts": "04:44.030 -> 04:51.300",
+      "jp": "あっ、はっ!?",
+      "jp_html": "あっ、はっ!?",
+      "zh": "啊，咳!?",
+      "en": "Ah, ha!?"
+    },
+    {
+      "id": 29,
+      "start": 291.3,
+      "end": 292.3,
+      "ts": "04:51.300 -> 04:52.300",
+      "jp": "音符から?",
+      "jp_html": "<ruby>音符<rt>おんぷ</rt></ruby>から?",
+      "zh": "从音符？",
+      "en": "From notes?"
+    },
+    {
+      "id": 30,
+      "start": 292.3,
+      "end": 295.3,
+      "ts": "04:52.300 -> 04:55.300",
+      "jp": "はい、例の小僧がこちらに向かっているらしいです!",
+      "jp_html": "はい、<ruby>例の<rt>れいの</rt></ruby><ruby>小僧<rt>こぞう</rt></ruby>がこちらに<ruby>向か<rt>むか</rt></ruby>っているらしいです!",
+      "zh": "对，就是那个小和尚向这边过来了！",
+      "en": "Yes, it seems that little monk is heading this way!"
+    },
+    {
+      "id": 31,
+      "start": 295.3,
+      "end": 297.3,
+      "ts": "04:55.300 -> 04:57.300",
+      "jp": "なに、例の。",
+      "jp_html": "なに、<ruby>例の<rt>れいの</rt></ruby>。",
+      "zh": "什么，那个。",
+      "en": "What, that one."
+    },
+    {
+      "id": 32,
+      "start": 297.3,
+      "end": 300.3,
+      "ts": "04:57.300 -> 05:00.300",
+      "jp": "このブルー将軍のところへね。",
+      "jp_html": "このブルー<ruby>将軍<rt>しょうぐん</rt></ruby>のところへね。",
+      "zh": "去见这位蓝色将军。",
+      "en": "Go to this Blue General's place."
+    },
+    {
+      "id": 33,
+      "start": 301.3,
+      "end": 306.3,
+      "ts": "05:01.300 -> 05:06.300",
+      "jp": "シ、シルバー隊やホワイト隊は、そ、そいつに全滅させられたそうですね。",
+      "jp_html": "シ、シルバー<ruby>隊<rt>たい</rt></ruby>やホワイト<ruby>隊<rt>たい</rt></ruby>は、そ、そいつに<ruby>全滅<rt>ぜんめつ</rt></ruby>させられたそうですね。",
+      "zh": "银队和白队似乎都被它全灭了。",
+      "en": "The Silver Team and White Team were apparently completely wiped out by them."
+    },
+    {
+      "id": 34,
+      "start": 307.3,
+      "end": 309.3,
+      "ts": "05:07.300 -> 05:09.300",
+      "jp": "だからなーに?",
+      "jp_html": "だからなーに?",
+      "zh": "所以怎么了？",
+      "en": "So what?"
+    },
+    {
+      "id": 35,
+      "start": 309.3,
+      "end": 312.3,
+      "ts": "05:09.300 -> 05:12.300",
+      "jp": "い、い、その、あのー。",
+      "jp_html": "い、い、その、あのー。",
+      "zh": "嗯、嗯、那个、啊uhm。",
+      "en": "Uh, uh, so, um."
+    },
+    {
+      "id": 36,
+      "start": 312.3,
+      "end": 316.3,
+      "ts": "05:12.300 -> 05:16.300",
+      "jp": "彼らはレッドリーボングの恥だわ",
+      "jp_html": "<ruby>彼ら<rt>かれら</rt></ruby>はレッドリーボングの<ruby>恥だ<rt>はだ</rt></ruby>わ",
+      "zh": "他们是红辣椒的耻辱",
+      "en": "They are the shame of Red Lioning."
+    },
+    {
+      "id": 37,
+      "start": 316.3,
+      "end": 321.3,
+      "ts": "05:16.300 -> 05:21.300",
+      "jp": "楽しくなってきたじゃない?",
+      "jp_html": "<ruby>楽しく<rt>たのしく</rt></ruby>なってきたじゃない?",
+      "zh": "不是越来越有趣了吗？",
+      "en": "Aren't you getting excited?"
+    },
+    {
+      "id": 38,
+      "start": 323.3,
+      "end": 343.52,
+      "ts": "05:23.300 -> 05:43.520",
+      "jp": "次のがじいちゃんのスシンチョだったらいいな",
+      "jp_html": "<ruby>次の<rt>つぎの</rt></ruby>がじいちゃんのスシンチョだったらいいな",
+      "zh": "要是那个就是爷爷的斯シンチョ就好了",
+      "en": "I wish that was grandpa's Scinchio."
+    },
+    {
+      "id": 39,
+      "start": 343.52,
+      "end": 359.38,
+      "ts": "05:43.520 -> 05:59.380",
+      "jp": "水ばっかりで何にもないぞ",
+      "jp_html": "<ruby>水<rt>みず</rt></ruby>ばっかりで<ruby>何<rt>なに</rt></ruby>にもないぞ",
+      "zh": "这里只有水什么也没有。",
+      "en": "There's nothing but water."
+    },
+    {
+      "id": 40,
+      "start": 359.38,
+      "end": 362.38,
+      "ts": "05:59.380 -> 06:02.380",
+      "jp": "きっと海底に沈んでるんだわ",
+      "jp_html": "きっと<ruby>海底<rt>かいてい</rt></ruby>に<ruby>沈ん<rt>しずん</rt></ruby>でるんだわ",
+      "zh": "一定沉在海底了",
+      "en": "It must be sunk at the bottom of the sea."
+    },
+    {
+      "id": 41,
+      "start": 362.38,
+      "end": 364.38,
+      "ts": "06:02.380 -> 06:04.380",
+      "jp": "水の中に落ちてるのかな?",
+      "jp_html": "<ruby>水<rt>みず</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby><ruby>落ち<rt>おち</rt></ruby>てるのかな?",
+      "zh": "掉进水里了吗？",
+      "en": "Is it in the water?"
+    },
+    {
+      "id": 42,
+      "start": 364.38,
+      "end": 367.38,
+      "ts": "06:04.380 -> 06:07.380",
+      "jp": "よし、とりあえず近くの島に上陸しましょう",
+      "jp_html": "よし、とりあえず<ruby>近く<rt>ちかく</rt></ruby>の<ruby>島<rt>しま</rt></ruby>に<ruby>上陸<rt>じょうりく</rt></ruby>しましょう",
+      "zh": "好，暂时先登陆附近的岛屿吧",
+      "en": "Let's land on the nearest island for now."
+    },
+    {
+      "id": 43,
+      "start": 367.38,
+      "end": 372.24,
+      "ts": "06:07.380 -> 06:12.240",
+      "jp": "うーんと、よし!",
+      "jp_html": "うーんと、よし!",
+      "zh": "嗯，好了！",
+      "en": "Hmm, alright!"
+    },
+    {
+      "id": 44,
+      "start": 372.24,
+      "end": 393.3,
+      "ts": "06:12.240 -> 06:33.300",
+      "jp": "難しい!",
+      "jp_html": "<ruby>難しい<rt>むずかしい</rt></ruby>!",
+      "zh": "很难！",
+      "en": "Hard!"
+    },
+    {
+      "id": 45,
+      "start": 393.3,
+      "end": 397.67,
+      "ts": "06:33.300 -> 06:37.670",
+      "jp": "何に潜って探してくるかな?",
+      "jp_html": "<ruby>何<rt>なに</rt></ruby>に<ruby>潜<rt>せん</rt></ruby>って<ruby>探し<rt>さがし</rt></ruby>てくるかな?",
+      "zh": "他会潜到哪里去寻找呢？",
+      "en": "What will they dive into and search for?"
+    },
+    {
+      "id": 46,
+      "start": 397.67,
+      "end": 402.53,
+      "ts": "06:37.670 -> 06:42.530",
+      "jp": "そんな原始的なことする必要ないわ!",
+      "jp_html": "そんな<ruby>原始的<rt>げんしてき</rt></ruby>なことする<ruby>必要<rt>ひつよう</rt></ruby>ないわ!",
+      "zh": "这样做太 primitive 了！",
+      "en": "There's no need to do such primitive things!"
+    },
+    {
+      "id": 47,
+      "start": 402.53,
+      "end": 403.53,
+      "ts": "06:42.530 -> 06:43.530",
+      "jp": "ん?",
+      "jp_html": "ん?",
+      "zh": "嗯？",
+      "en": "Hmm?"
+    },
+    {
+      "id": 48,
+      "start": 403.53,
+      "end": 406.53,
+      "ts": "06:43.530 -> 06:46.530",
+      "jp": "私がついてきてあげたことを感謝しなさい!",
+      "jp_html": "<ruby>私<rt>わたし</rt></ruby>がついてきてあげたことを<ruby>感謝し<rt>かんしゃし</rt></ruby>なさい!",
+      "zh": "感谢我跟着你来！",
+      "en": "Thank me for coming along with you!"
+    },
+    {
+      "id": 49,
+      "start": 406.53,
+      "end": 412.81,
+      "ts": "06:46.530 -> 06:52.810",
+      "jp": "こんなこともあろうかと、潜水艇を用意してきてよかった!",
+      "jp_html": "こんなこともあろうかと、<ruby>潜水艇<rt>せんすいてい</rt></ruby>を<ruby>用意し<rt>よういし</rt></ruby>てきてよかった!",
+      "zh": "没想到竟然用得上，准备潜水艇真是明智！",
+      "en": "It's a good thing they prepared the submarine for something like this!"
+    },
+    {
+      "id": 50,
+      "start": 412.81,
+      "end": 416.4,
+      "ts": "06:52.810 -> 06:56.400",
+      "jp": "どうした?",
+      "jp_html": "どうした?",
+      "zh": "怎么了？",
+      "en": "What's up?"
+    },
+    {
+      "id": 51,
+      "start": 416.4,
+      "end": 434.53,
+      "ts": "06:56.400 -> 07:14.530",
+      "jp": "何が入ってんだ?",
+      "jp_html": "<ruby>何<rt>なに</rt></ruby>が<ruby>入っ<rt>いっっ</rt></ruby>てんだ?",
+      "zh": "里面有什么？",
+      "en": "What's in it?"
+    },
+    {
+      "id": 52,
+      "start": 435.53,
+      "end": 439.53,
+      "ts": "07:15.530 -> 07:19.530",
+      "jp": "これ…あ、あまり見たくないわ…",
+      "jp_html": "これ…あ、あまり<ruby>見た<rt>みた</rt></ruby>くないわ…",
+      "zh": "这……啊，不想看……",
+      "en": "This... ah, I don't really want to see that..."
+    },
+    {
+      "id": 53,
+      "start": 439.53,
+      "end": 443.53,
+      "ts": "07:19.530 -> 07:23.530",
+      "jp": "なんだか、とっても嫌な予感がするの…",
+      "jp_html": "なんだか、とっても<ruby>嫌な<rt>いやな</rt></ruby><ruby>予感<rt>よかん</rt></ruby>がするの…",
+      "zh": "不知怎的，我有一种非常不好的预感……",
+      "en": "I kind of have a really bad feeling about this..."
+    },
+    {
+      "id": 54,
+      "start": 443.53,
+      "end": 446.83,
+      "ts": "07:23.530 -> 07:26.830",
+      "jp": "なんか役に立つカプセルかもしんねえぞ",
+      "jp_html": "なんか<ruby>役に立つ<rt>やくにたつ</rt></ruby>カプセルかもしんねえぞ",
+      "zh": "可能会派上用场的胶囊吧",
+      "en": "It might be useful capsules, you know?"
+    },
+    {
+      "id": 55,
+      "start": 446.83,
+      "end": 456.02,
+      "ts": "07:26.830 -> 07:36.020",
+      "jp": "役に立つ?ということもあるわね",
+      "jp_html": "<ruby>役に立つ<rt>やくにたつ</rt></ruby>?ということもあるわね",
+      "zh": "也有时候是有用的吧",
+      "en": "It also depends on whether it's useful, doesn't it?"
+    },
+    {
+      "id": 56,
+      "start": 456.02,
+      "end": 458.56,
+      "ts": "07:36.020 -> 07:38.560",
+      "jp": "信じるわ",
+      "jp_html": "<ruby>信じ<rt>しんじ</rt></ruby>るわ",
+      "zh": "我相信",
+      "en": "I believe."
+    },
+    {
+      "id": 57,
+      "start": 458.56,
+      "end": 502.25,
+      "ts": "07:38.560 -> 08:22.250",
+      "jp": "あのさ、撃って探してくるドラゴンボール",
+      "jp_html": "あのさ、<ruby>撃っ<rt>うっ</rt></ruby>て<ruby>探し<rt>さがし</rt></ruby>てくるドラゴンボール",
+      "zh": "喂，去搜寻并带来龙珠吧",
+      "en": "Hey, go get and search for the Dragon Balls."
+    },
+    {
+      "id": 58,
+      "start": 502.25,
+      "end": 505.27,
+      "ts": "08:22.250 -> 08:25.270",
+      "jp": "好きにして",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>にして",
+      "zh": "随便你怎么做",
+      "en": "Do as you please"
+    },
+    {
+      "id": 59,
+      "start": 505.27,
+      "end": 517.63,
+      "ts": "08:25.270 -> 08:37.630",
+      "jp": "一人だったかな",
+      "jp_html": "<ruby>一人<rt>ひとり</rt></ruby>だったかな",
+      "zh": "只有一个人吧",
+      "en": "Was I alone?"
+    },
+    {
+      "id": 60,
+      "start": 517.63,
+      "end": 585.76,
+      "ts": "08:37.630 -> 09:45.760",
+      "jp": "くらい撃ってるはずだわ",
+      "jp_html": "くらい<ruby>撃っ<rt>うっ</rt></ruby>てるはずだわ",
+      "zh": "应该打了好几枪了吧",
+      "en": "I must have hit it about that much."
+    },
+    {
+      "id": 61,
+      "start": 585.76,
+      "end": 684.78,
+      "ts": "09:45.760 -> 11:24.780",
+      "jp": "違いだったよ",
+      "jp_html": "<ruby>違い<rt>ちがい</rt></ruby>だったよ",
+      "zh": "不一样啊",
+      "en": "It was different."
+    },
+    {
+      "id": 62,
+      "start": 684.78,
+      "end": 698.79,
+      "ts": "11:24.780 -> 11:38.790",
+      "jp": "そんなに怒るなって",
+      "jp_html": "そんなに<ruby>怒る<rt>いかる</rt></ruby>なって",
+      "zh": "别这么生气",
+      "en": "Don't get so angry."
+    },
+    {
+      "id": 63,
+      "start": 698.79,
+      "end": 699.67,
+      "ts": "11:38.790 -> 11:39.670",
+      "jp": "なんだって",
+      "jp_html": "なんだって",
+      "zh": "什么吗",
+      "en": "What is it?"
+    },
+    {
+      "id": 64,
+      "start": 699.67,
+      "end": 703.95,
+      "ts": "11:39.670 -> 11:43.950",
+      "jp": "こんなところでうろうろしていたあんたも悪いんだぜ",
+      "jp_html": "こんなところでうろうろしていたあんたも<ruby>悪い<rt>わるい</rt></ruby>んだぜ",
+      "zh": "你在这里闲逛也是不对的",
+      "en": "You're also at fault for wandering around here."
+    },
+    {
+      "id": 65,
+      "start": 703.95,
+      "end": 706.95,
+      "ts": "11:43.950 -> 11:46.950",
+      "jp": "いったいこんなところで何やってんだ?",
+      "jp_html": "いったいこんなところで<ruby>何<rt>なに</rt></ruby>やってんだ?",
+      "zh": "到底在这儿干啥？",
+      "en": "What in the world are you doing here?"
+    },
+    {
+      "id": 66,
+      "start": 706.95,
+      "end": 716.39,
+      "ts": "11:46.950 -> 11:56.390",
+      "jp": "だから、こにゃるか教えてもらえないかしら?",
+      "jp_html": "だから、こにゃるか<ruby>教え<rt>おしえ</rt></ruby>てもらえないかしら?",
+      "zh": "所以，能告诉我吗？",
+      "en": "So, can you tell me about it, I wonder?"
+    },
+    {
+      "id": 67,
+      "start": 716.39,
+      "end": 717.89,
+      "ts": "11:56.390 -> 11:57.890",
+      "jp": "カプセル?",
+      "jp_html": "カプセル?",
+      "zh": "胶囊?",
+      "en": "Capsule?"
+    },
+    {
+      "id": 68,
+      "start": 717.89,
+      "end": 721.89,
+      "ts": "11:57.890 -> 12:01.890",
+      "jp": "さっきから探してるんだけど、見つからなくて…",
+      "jp_html": "さっきから<ruby>探し<rt>さがし</rt></ruby>てるんだけど、<ruby>見つ<rt>みつ</rt></ruby>からなくて…",
+      "zh": "刚才一直在找，但找不到……",
+      "en": "I've been looking for it just now, but I can't find it..."
+    },
+    {
+      "id": 69,
+      "start": 721.89,
+      "end": 727.39,
+      "ts": "12:01.890 -> 12:07.390",
+      "jp": "この島はもともと無人島だ。そんなの売ってやしないさ",
+      "jp_html": "この<ruby>島<rt>しま</rt></ruby>はもともと<ruby>無人<rt>むじん</rt></ruby><ruby>島<rt>しま</rt></ruby>だ。そんなの<ruby>売っ<rt>うっ</rt></ruby>てやしないさ",
+      "zh": "这个岛原来就是无人岛。卖你傻瓜？",
+      "en": "This island was originally an uninhabited island. You don't sell something like that."
+    },
+    {
+      "id": 70,
+      "start": 727.39,
+      "end": 730.39,
+      "ts": "12:07.390 -> 12:10.390",
+      "jp": "無人島?うそ?",
+      "jp_html": "<ruby>無人<rt>むじん</rt></ruby><ruby>島<rt>しま</rt></ruby>?うそ?",
+      "zh": "无人岛？假的？",
+      "en": "Island without people? Lie?"
+    },
+    {
+      "id": 71,
+      "start": 730.39,
+      "end": 734.39,
+      "ts": "12:10.390 -> 12:14.390",
+      "jp": "変ね、さっき船が見えたんだけど…",
+      "jp_html": "<ruby>変ね<rt>へんね</rt></ruby>、さっき<ruby>船<rt>ふね</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>たんだけど…",
+      "zh": "奇怪，刚才看到有一艘船……",
+      "en": "Strange, I saw a ship just now..."
+    },
+    {
+      "id": 72,
+      "start": 734.39,
+      "end": 745.33,
+      "ts": "12:14.390 -> 12:25.330",
+      "jp": "いや、なに?それにしてもお嬢ちゃんかわいいね",
+      "jp_html": "いや、なに?それにしてもお<ruby>嬢<rt>じょう</rt></ruby>ちゃんかわいいね",
+      "zh": "不，怎么了？话说这位小姐真可爱呢",
+      "en": "No, what? Anyway, you girls are cute."
+    },
+    {
+      "id": 73,
+      "start": 745.33,
+      "end": 746.65,
+      "ts": "12:25.330 -> 12:26.650",
+      "jp": "あんた",
+      "jp_html": "あんた",
+      "zh": "你",
+      "en": "you"
+    },
+    {
+      "id": 74,
+      "start": 746.65,
+      "end": 755.53,
+      "ts": "12:26.650 -> 12:35.530",
+      "jp": "なあ、俺たちといいことして遊ばねえか?",
+      "jp_html": "なあ、<ruby>俺<rt>おれ</rt></ruby>たちといいことして<ruby>遊ば<rt>あそば</rt></ruby>ねえか?",
+      "zh": "嘿，和我们合作玩一把怎么样？",
+      "en": "Hey, can't you play nice with us?"
+    },
+    {
+      "id": 75,
+      "start": 755.53,
+      "end": 756.85,
+      "ts": "12:35.530 -> 12:36.850",
+      "jp": "え?いいこと?",
+      "jp_html": "え?いいこと?",
+      "zh": "嗯？好事？",
+      "en": "Hm? Good thing?"
+    },
+    {
+      "id": 76,
+      "start": 759.57,
+      "end": 763.67,
+      "ts": "12:39.570 -> 12:43.670",
+      "jp": "いいことして遊ぶってファミコンじゃないわよね",
+      "jp_html": "いいことして<ruby>遊ぶ<rt>あそぶ</rt></ruby>ってファミコンじゃないわよね",
+      "zh": "玩得好不应该只是ファミコン吧 Đoạn văn này có vẻ là tiếng Nhật và không hoàn toàn rõ ràng trong ngữ cảnh hiện tại. Tuy nhiên, tôi sẽ dịch nó sang tiếng Trung giản thể như sau:\n\n玩得高兴不只是ファミコン吧",
+      "en": "\"Don't play and do good things; it's not for the NES, right?\""
+    },
+    {
+      "id": 77,
+      "start": 763.67,
+      "end": 782.79,
+      "ts": "12:43.670 -> 13:02.790",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 78,
+      "start": 782.79,
+      "end": 787.0,
+      "ts": "13:02.790 -> 13:07.000",
+      "jp": "あったり",
+      "jp_html": "あったり",
+      "zh": "有的",
+      "en": "There is"
+    },
+    {
+      "id": 79,
+      "start": 789.48,
+      "end": 790.82,
+      "ts": "13:09.480 -> 13:10.820",
+      "jp": "さらさー!",
+      "jp_html": "さらさー!",
+      "zh": "沙沙ー！",
+      "en": "Sarasa!"
+    },
+    {
+      "id": 80,
+      "start": 790.82,
+      "end": 801.32,
+      "ts": "13:10.820 -> 13:21.320",
+      "jp": "うわー!",
+      "jp_html": "うわー!",
+      "zh": "哇！",
+      "en": "Wow!"
+    },
+    {
+      "id": 81,
+      "start": 801.32,
+      "end": 802.02,
+      "ts": "13:21.320 -> 13:22.020",
+      "jp": "くっ!",
+      "jp_html": "くっ!",
+      "zh": "啊！",
+      "en": "Yuck!"
+    },
+    {
+      "id": 82,
+      "start": 802.02,
+      "end": 943.0,
+      "ts": "13:22.020 -> 15:43.000",
+      "jp": "あいつ、何だか知らないけどしょうがねえやつだな!",
+      "jp_html": "あいつ、<ruby>何だ<rt>なんだ</rt></ruby>か<ruby>知ら<rt>しら</rt></ruby>ないけどしょうがねえやつだな!",
+      "zh": "那个家伙，不知道是怎么回事，就是个没办法的人啊！",
+      "en": "I don't know what he is, but that's just someone you can't do anything about, ya know?"
+    },
+    {
+      "id": 83,
+      "start": 943.0,
+      "end": 943.82,
+      "ts": "15:43.000 -> 15:43.820",
+      "jp": "着いたぞ!",
+      "jp_html": "<ruby>着い<rt>つい</rt></ruby>たぞ!",
+      "zh": "到了！",
+      "en": "We're here!"
+    },
+    {
+      "id": 84,
+      "start": 943.82,
+      "end": 948.82,
+      "ts": "15:43.820 -> 15:48.820",
+      "jp": "このところまで遠くないぞ!",
+      "jp_html": "このところまで<ruby>遠く<rt>とおく</rt></ruby>ないぞ!",
+      "zh": "这可不远了！",
+      "en": "It's not far away from here!"
+    },
+    {
+      "id": 85,
+      "start": 948.82,
+      "end": 958.18,
+      "ts": "15:48.820 -> 15:58.180",
+      "jp": "おじちゃんなら、きっと海に潜れるカプセル持ってるからさ!",
+      "jp_html": "おじちゃんなら、きっと<ruby>海<rt>うみ</rt></ruby>に<ruby>潜れ<rt>もぐれ</rt></ruby>るカプセル<ruby>持っ<rt>もっ</rt></ruby>てるからさ!",
+      "zh": "大叔肯定有能潜水的胶囊;!",
+      "en": "An uncle would definitely have a capsule that can dive into the sea!"
+    },
+    {
+      "id": 86,
+      "start": 958.18,
+      "end": 959.9,
+      "ts": "15:58.180 -> 15:59.900",
+      "jp": "亀仙人ね。",
+      "jp_html": "<ruby>亀<rt>かめ</rt></ruby><ruby>仙人<rt>せんにん</rt></ruby>ね。",
+      "zh": "龟仙人呢。",
+      "en": "The Tortoise Hermit."
+    },
+    {
+      "id": 87,
+      "start": 959.9,
+      "end": 1033.27,
+      "ts": "15:59.900 -> 17:13.270",
+      "jp": "亀仙人は、あのスケベじいさにだけは頼み事をしたくなかったの。",
+      "jp_html": "<ruby>亀<rt>かめ</rt></ruby><ruby>仙人<rt>せんにん</rt></ruby>は、あのスケベじいさにだけは<ruby>頼み<rt>たのみ</rt></ruby><ruby>事<rt>こと</rt></ruby>をしたくなかったの。",
+      "zh": "龟仙人只不想把委托的事情交给那个色老头。",
+      "en": "The Turtle Hermit didn't want to make any requests to that perverted old man."
+    },
+    {
+      "id": 88,
+      "start": 1033.27,
+      "end": 1036.09,
+      "ts": "17:13.270 -> 17:16.090",
+      "jp": "誰かと思えば、悟空さんじゃありませんか?",
+      "jp_html": "<ruby>誰か<rt>だれか</rt></ruby>と<ruby>思え<rt>おもえ</rt></ruby>ば、<ruby>悟空<rt>ごくう</rt></ruby>さんじゃありませんか?",
+      "zh": "难道是悟空先生？",
+      "en": "Isn't it someone like Mr. Wu Kong?"
+    },
+    {
+      "id": 89,
+      "start": 1036.09,
+      "end": 1039.05,
+      "ts": "17:16.090 -> 17:19.050",
+      "jp": "お懐かしゅうございます!",
+      "jp_html": "お<ruby>懐かし<rt>なつかし</rt></ruby>ゅうございます!",
+      "zh": "久违了！",
+      "en": "Nice to see you again!"
+    },
+    {
+      "id": 90,
+      "start": 1039.05,
+      "end": 1039.27,
+      "ts": "17:19.050 -> 17:19.270",
+      "jp": "うり?",
+      "jp_html": "うり?",
+      "zh": "里？",
+      "en": "uri?"
+    },
+    {
+      "id": 91,
+      "start": 1039.27,
+      "end": 1047.3,
+      "ts": "17:19.270 -> 17:27.300",
+      "jp": "ゴメじゃなくてウミガメなんですけど",
+      "jp_html": "ゴメじゃなくてウミガメなんですけど",
+      "zh": "不是龟，是海龟",
+      "en": "It's not a turtle, it's a sea turtle."
+    },
+    {
+      "id": 92,
+      "start": 1047.3,
+      "end": 1048.88,
+      "ts": "17:27.300 -> 17:28.880",
+      "jp": "ちっちゃいいる?",
+      "jp_html": "ちっちゃいいる?",
+      "zh": "小的在吗?",
+      "en": "Do you have a little one?"
+    },
+    {
+      "id": 93,
+      "start": 1048.88,
+      "end": 1050.94,
+      "ts": "17:28.880 -> 17:30.940",
+      "jp": "はいはいおられますよ",
+      "jp_html": "はいはいおられますよ",
+      "zh": "好嘞，都在呢",
+      "en": "Hai hai, oarimasu yo"
+    },
+    {
+      "id": 94,
+      "start": 1050.94,
+      "end": 1053.1,
+      "ts": "17:30.940 -> 17:33.100",
+      "jp": "カメ仙人様!",
+      "jp_html": "カメ<ruby>仙人<rt>せんにん</rt></ruby><ruby>様<rt>さま</rt></ruby>!",
+      "zh": "龟仙人先生！",
+      "en": "Cammy Immortal Sage!"
+    },
+    {
+      "id": 95,
+      "start": 1053.1,
+      "end": 1073.88,
+      "ts": "17:33.100 -> 17:53.880",
+      "jp": "カメ仙人様ですよ!",
+      "jp_html": "カメ<ruby>仙人<rt>せんにん</rt></ruby><ruby>様<rt>さま</rt></ruby>ですよ!",
+      "zh": "カメ仙人様哦！",
+      "en": "Kame Senshi-sama!"
+    },
+    {
+      "id": 96,
+      "start": 1073.88,
+      "end": 1075.32,
+      "ts": "17:53.880 -> 17:55.320",
+      "jp": "ん?なに?",
+      "jp_html": "ん?なに?",
+      "zh": "嗯？什么？",
+      "en": "Hmm? What?"
+    },
+    {
+      "id": 97,
+      "start": 1075.32,
+      "end": 1083.68,
+      "ts": "17:55.320 -> 18:03.680",
+      "jp": "ゴクジャと?",
+      "jp_html": "ゴクジャと?",
+      "zh": "与戈克贾？",
+      "en": "With Gokuja?"
+    },
+    {
+      "id": 98,
+      "start": 1083.68,
+      "end": 1090.55,
+      "ts": "18:03.680 -> 18:10.550",
+      "jp": "もうソンゴハンの塊のドラゴンボールが見つかったのか?",
+      "jp_html": "もうソンゴハンの<ruby>塊<rt>かい</rt></ruby>のドラゴンボールが<ruby>見つ<rt>みつ</rt></ruby>かったのか?",
+      "zh": "已经找到了 Sonsoghan 的块状龙珠了吗？",
+      "en": "Have you found the块的龙珠 of Son Gohan?"
+    },
+    {
+      "id": 99,
+      "start": 1090.55,
+      "end": 1092.75,
+      "ts": "18:10.550 -> 18:12.750",
+      "jp": "わしに何か用なのか?",
+      "jp_html": "わしに<ruby>何か<rt>なにか</rt></ruby><ruby>用<rt>よう</rt></ruby>なのか?",
+      "zh": "你有什么事吗?",
+      "en": "Do you have something for me?"
+    },
+    {
+      "id": 100,
+      "start": 1092.75,
+      "end": 1098.11,
+      "ts": "18:12.750 -> 18:18.110",
+      "jp": "あのさ、ブルマ説明してくれよ",
+      "jp_html": "あのさ、ブルマ<ruby>説明し<rt>せつめいし</rt></ruby>てくれよ",
+      "zh": "喂，给我解释一下内裤的事吧",
+      "en": "Hey, can you explain about the underpants?"
+    },
+    {
+      "id": 101,
+      "start": 1098.11,
+      "end": 1101.85,
+      "ts": "18:18.110 -> 18:21.850",
+      "jp": "ブルマ?",
+      "jp_html": "ブルマ?",
+      "zh": "内裤?",
+      "en": "Underwear?"
+    },
+    {
+      "id": 102,
+      "start": 1101.85,
+      "end": 1112.77,
+      "ts": "18:21.850 -> 18:32.770",
+      "jp": "ん?",
+      "jp_html": "ん?",
+      "zh": "嗯？",
+      "en": "Hmm?"
+    },
+    {
+      "id": 103,
+      "start": 1112.77,
+      "end": 1114.37,
+      "ts": "18:32.770 -> 18:34.370",
+      "jp": "な、なんじゃ?",
+      "jp_html": "な、なんじゃ?",
+      "zh": "什么？",
+      "en": "What's that?"
+    },
+    {
+      "id": 104,
+      "start": 1114.37,
+      "end": 1116.27,
+      "ts": "18:34.370 -> 18:36.270",
+      "jp": "今のはどうしたんじゃ?",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>のはどうしたんじゃ?",
+      "zh": "这是怎么回事？",
+      "en": "What happened just now?"
+    },
+    {
+      "id": 105,
+      "start": 1116.27,
+      "end": 1119.83,
+      "ts": "18:36.270 -> 18:39.830",
+      "jp": "これよ!小さくなったり、元に戻ったりできるの!",
+      "jp_html": "これよ!<ruby>小さく<rt>ちーさく</rt></ruby>なったり、<ruby>元に<rt>もとに</rt></ruby><ruby>戻っ<rt>もどっ</rt></ruby>たりできるの!",
+      "zh": "看这里！我可以变小，也可以恢复原样！",
+      "en": "This is amazing! It can shrink and then return to its original size!"
+    },
+    {
+      "id": 106,
+      "start": 1120.27,
+      "end": 1123.07,
+      "ts": "18:40.270 -> 18:43.070",
+      "jp": "ほほー!これは面白いの!",
+      "jp_html": "ほほー!これは<ruby>面白い<rt>おもしろい</rt></ruby>の!",
+      "zh": "呵呵！这真有趣！",
+      "en": "Hohó! これは面白いの! (Translation: Oh! This is interesting!)"
+    },
+    {
+      "id": 107,
+      "start": 1123.55,
+      "end": 1126.77,
+      "ts": "18:43.550 -> 18:46.770",
+      "jp": "天才のこの私が作ったのよ!すごいでしょ!",
+      "jp_html": "<ruby>天才<rt>てんさい</rt></ruby>のこの<ruby>私<rt>わたし</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>たのよ!すごいでしょ!",
+      "zh": "这是我这天才做的！厉害吧！",
+      "en": "This was made by me, a genius! Isn't it great!"
+    },
+    {
+      "id": 108,
+      "start": 1126.77,
+      "end": 1127.37,
+      "ts": "18:46.770 -> 18:47.370",
+      "jp": "うんうん!",
+      "jp_html": "うんうん!",
+      "zh": "嗯嗯！",
+      "en": "Mmm hmm!"
+    },
+    {
+      "id": 109,
+      "start": 1127.37,
+      "end": 1129.27,
+      "ts": "18:47.370 -> 18:49.270",
+      "jp": "まあ、説明、説明!",
+      "jp_html": "まあ、<ruby>説明<rt>せつめい</rt></ruby>、<ruby>説明<rt>せつめい</rt></ruby>!",
+      "zh": "好吧，解释、解释！",
+      "en": "Well, explanation, explanation!"
+    },
+    {
+      "id": 110,
+      "start": 1129.81,
+      "end": 1131.27,
+      "ts": "18:49.810 -> 18:51.270",
+      "jp": "ああ、そ、そうね!",
+      "jp_html": "ああ、そ、そうね!",
+      "zh": "啊，是这样呢！",
+      "en": "Ah, so, that's right!"
+    },
+    {
+      "id": 111,
+      "start": 1132.77,
+      "end": 1137.07,
+      "ts": "18:52.770 -> 18:57.070",
+      "jp": "あ、あの、亀船人さん、潜水艇を持っていらっしゃらないかしら?",
+      "jp_html": "あ、あの、<ruby>亀船<rt>きせん</rt></ruby><ruby>人<rt>にん</rt></ruby>さん、<ruby>潜水艇<rt>せんすいてい</rt></ruby>を<ruby>持っ<rt>もっ</rt></ruby>ていらっしゃらないかしら?",
+      "zh": "啊，那个，龟船人先生，您有潜水艇吧？",
+      "en": "Oh, um, Mr. Turtle Person, do you happen to have a submarine?"
+    },
+    {
+      "id": 112,
+      "start": 1137.07,
+      "end": 1139.27,
+      "ts": "18:57.070 -> 18:59.270",
+      "jp": "ちょっとだけ貸してほしいんだけど…",
+      "jp_html": "ちょっとだけ<ruby>貸し<rt>かし</rt></ruby>てほしいんだけど…",
+      "zh": "我想借一下……",
+      "en": "I would like to borrow it just for a little while..."
+    },
+    {
+      "id": 113,
+      "start": 1139.67,
+      "end": 1143.27,
+      "ts": "18:59.670 -> 19:03.270",
+      "jp": "潜水艇か?それは持っておるのがどうするんじゃ?",
+      "jp_html": "<ruby>潜水艇<rt>せんすいてい</rt></ruby>か?それは<ruby>持っ<rt>もっ</rt></ruby>ておるのがどうするんじゃ?",
+      "zh": "是潜艇吗？那拿着它又怎么样呢？",
+      "en": "Is it a submarine? What good is it to have one?"
+    },
+    {
+      "id": 114,
+      "start": 1144.17,
+      "end": 1149.37,
+      "ts": "19:04.170 -> 19:09.370",
+      "jp": "ドラゴンボールが海の底にあるんだけど、すごく深いから裏でも潜れんねんだ",
+      "jp_html": "ドラゴンボールが<ruby>海<rt>うみ</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>にあるんだけど、すごく<ruby>深い<rt>ふかい</rt></ruby>から<ruby>裏で<rt>うらで</rt></ruby>も<ruby>潜れ<rt>もぐれ</rt></ruby>んねんだ",
+      "zh": "龙珠在海底，很深，连潜水都潜不到。",
+      "en": "The Dragon Ball is at the bottom of the sea, but it's so deep that we can't even dive to get it."
+    },
+    {
+      "id": 115,
+      "start": 1149.87,
+      "end": 1152.97,
+      "ts": "19:09.870 -> 19:12.970",
+      "jp": "なるほどな、いいぞい、貸してやっても",
+      "jp_html": "なるほどな、いいぞい、<ruby>貸し<rt>かし</rt></ruby>てやっても",
+      "zh": "原来如此，好啊，借给你也行",
+      "en": "Oh, okay, great, I'll lend it to you."
+    },
+    {
+      "id": 116,
+      "start": 1152.97,
+      "end": 1153.87,
+      "ts": "19:12.970 -> 19:13.870",
+      "jp": "サンキュー",
+      "jp_html": "サンキュー",
+      "zh": "谢谢",
+      "en": "Thank you"
+    },
+    {
+      "id": 117,
+      "start": 1154.77,
+      "end": 1157.27,
+      "ts": "19:14.770 -> 19:17.270",
+      "jp": "すんなり貸してくれるとは思えないわ",
+      "jp_html": "すんなり<ruby>貸し<rt>かし</rt></ruby>てくれるとは<ruby>思え<rt>おもえ</rt></ruby>ないわ",
+      "zh": "我没想到他会轻易借给我",
+      "en": "I don't think they'll lend it to me so easily."
+    },
+    {
+      "id": 118,
+      "start": 1159.07,
+      "end": 1160.17,
+      "ts": "19:19.070 -> 19:20.170",
+      "jp": "正しいじゃ",
+      "jp_html": "<ruby>正しい<rt>ただしい</rt></ruby>じゃ",
+      "zh": "正确啊",
+      "en": "It's correct."
+    },
+    {
+      "id": 119,
+      "start": 1160.17,
+      "end": 1161.37,
+      "ts": "19:20.170 -> 19:21.370",
+      "jp": "あ、そりゃきた",
+      "jp_html": "あ、そりゃきた",
+      "zh": "啊，果然来了",
+      "en": "Ah, there it is."
+    },
+    {
+      "id": 120,
+      "start": 1162.77,
+      "end": 1165.37,
+      "ts": "19:22.770 -> 19:25.370",
+      "jp": "その小さくなれる装置、送れ",
+      "jp_html": "その<ruby>小さく<rt>ちーさく</rt></ruby>なれる<ruby>装置<rt>そうち</rt></ruby>、<ruby>送れ<rt>おくれ</rt></ruby>",
+      "zh": "那个能缩小的装置，能发送吗？",
+      "en": "That device that can shrink, send it."
+    },
+    {
+      "id": 121,
+      "start": 1165.37,
+      "end": 1183.9,
+      "ts": "19:25.370 -> 19:43.900",
+      "jp": "うちはてっきりパンツをくれとか、パフパフさせろとか、ツンツンさせろとか、スリスリヘロヘロさせろとか言われるかと思っちゃったわ。",
+      "jp_html": "うちはてっきりパンツをくれとか、パフパフさせろとか、ツンツンさせろとか、スリスリヘロヘロさせろとか<ruby>言わ<rt>いわ</rt></ruby>れるかと<ruby>思っち<rt>おもっち</rt></ruby>ゃったわ。",
+      "zh": "我还以为会让我送内裤过去，或者被吹风机吹，被针扎，被揉搓呢。",
+      "en": "I thought I was going to be told to give pants or to puff puff them or to poke them or to rub them all over the place."
+    },
+    {
+      "id": 122,
+      "start": 1184.9,
+      "end": 1192.84,
+      "ts": "19:44.900 -> 19:52.840",
+      "jp": "ん?これがないと困っちゃうけど、まあいいか。",
+      "jp_html": "ん?これがないと<ruby>困っ<rt>こまっ</rt></ruby>ちゃうけど、まあいいか。",
+      "zh": "嗯？没有这个的话会有点麻烦，不过也就算了。",
+      "en": "Hmm? This is troublesome, but I'll do without it for now."
+    },
+    {
+      "id": 123,
+      "start": 1192.84,
+      "end": 1195.84,
+      "ts": "19:52.840 -> 19:55.840",
+      "jp": "ん?へへへ、サンキュ、サンキュ。",
+      "jp_html": "ん?へへへ、サンキュ、サンキュ。",
+      "zh": "嗯？嘿嘿嘿，谢谢，谢谢。",
+      "en": "Hmm? Hehehe, thanks, thanks."
+    },
+    {
+      "id": 124,
+      "start": 1195.84,
+      "end": 1198.84,
+      "ts": "19:55.840 -> 19:58.840",
+      "jp": "さあ、潜水艇のカプセル、ちょうだい。",
+      "jp_html": "さあ、<ruby>潜水艇<rt>せんすいてい</rt></ruby>のカプセル、ちょうだい。",
+      "zh": "请给我潜水艇的胶囊。",
+      "en": "Please give me the submarine capsule."
+    },
+    {
+      "id": 125,
+      "start": 1198.84,
+      "end": 1206.84,
+      "ts": "19:58.840 -> 20:06.840",
+      "jp": "ああ、潜水艇は今ちょうどクリリンとランチさんがな、買い物に乗っていっておるのじゃ。もうすぐ帰ってくるはずじゃから、待っておれ。",
+      "jp_html": "ああ、<ruby>潜水艇<rt>せんすいてい</rt></ruby>は<ruby>今<rt>いま</rt></ruby>ちょうどクリリンとランチさんがな、<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>乗って<rt>のって</rt></ruby>いっておるのじゃ。もうすぐ<ruby>帰っ<rt>かえっ</rt></ruby>てくるはずじゃから、<ruby>待っ<rt>まっ</rt></ruby>ておれ。",
+      "zh": "啊，潜水艇现在正好和克林和服务生一起去购物了。他们很快就会回来的，你等着吧。",
+      "en": "Ah, the submarine is just out with Kilala and Lunch. They should be back any minute, so please wait."
+    },
+    {
+      "id": 126,
+      "start": 1206.84,
+      "end": 1224.49,
+      "ts": "20:06.840 -> 20:24.490",
+      "jp": "ようやく止まりましたね",
+      "jp_html": "ようやく<ruby>止まり<rt>どまり</rt></ruby>ましたね",
+      "zh": "终于停下了吗？",
+      "en": "Finally stopped, didn't it?"
+    },
+    {
+      "id": 127,
+      "start": 1224.49,
+      "end": 1226.63,
+      "ts": "20:24.490 -> 20:26.630",
+      "jp": "どういうことだ",
+      "jp_html": "どういうことだ",
+      "zh": "怎么回事",
+      "en": "What is that about?"
+    },
+    {
+      "id": 128,
+      "start": 1226.63,
+      "end": 1230.07,
+      "ts": "20:26.630 -> 20:30.070",
+      "jp": "なんであのガキはドラゴンボールを手に入れないまま",
+      "jp_html": "なんであのガキはドラゴンボールを<ruby>手に入れ<rt>てにいれ</rt></ruby>ないまま",
+      "zh": "为什么那个小子拿不到龙珠",
+      "en": "Why can't that kid get his hands on Dragon Ball?"
+    },
+    {
+      "id": 129,
+      "start": 1230.07,
+      "end": 1232.01,
+      "ts": "20:30.070 -> 20:32.010",
+      "jp": "あんなところに移動したのって",
+      "jp_html": "あんなところに<ruby>移動<rt>いどう</rt></ruby>したのって",
+      "zh": "他搬到那种地方去了吗",
+      "en": "Did you move to such a place?"
+    },
+    {
+      "id": 130,
+      "start": 1232.01,
+      "end": 1236.82,
+      "ts": "20:32.010 -> 20:36.820",
+      "jp": "訳のわからんやつめ",
+      "jp_html": "<ruby>訳<rt>わけ</rt></ruby>のわからんやつめ",
+      "zh": "不懂ledo",
+      "en": "Idiot."
+    },
+    {
+      "id": 131,
+      "start": 1236.82,
+      "end": 1239.98,
+      "ts": "20:36.820 -> 20:39.980",
+      "jp": "やはりあの坊主には仲間がいたようですが",
+      "jp_html": "やはりあの<ruby>坊主<rt>ぼうず</rt></ruby>には<ruby>仲間<rt>なかま</rt></ruby>がいたようですが",
+      "zh": "看来那个和尚果然有同伴。",
+      "en": "It seems that monk had some companions as well."
+    },
+    {
+      "id": 132,
+      "start": 1239.98,
+      "end": 1242.46,
+      "ts": "20:39.980 -> 20:42.460",
+      "jp": "あんな子供が我々のものより",
+      "jp_html": "あんな<ruby>子供<rt>こども</rt></ruby>が<ruby>我々<rt>われわれ</rt></ruby>のものより",
+      "zh": "那样的孩子比我们的还要",
+      "en": "That child is better than ours."
+    },
+    {
+      "id": 133,
+      "start": 1242.46,
+      "end": 1245.98,
+      "ts": "20:42.460 -> 20:45.980",
+      "jp": "数段優れたレーダーを持っているとは思えませんからね",
+      "jp_html": "<ruby>数段<rt>すうだん</rt></ruby><ruby>優れ<rt>まされ</rt></ruby>たレーダーを<ruby>持っ<rt>もっ</rt></ruby>ているとは<ruby>思え<rt>おもえ</rt></ruby>ませんからね",
+      "zh": "我简直不敢相信会有几段优秀的雷达。",
+      "en": "I can't help but think they don't have several superior radars."
+    },
+    {
+      "id": 134,
+      "start": 1245.98,
+      "end": 1248.96,
+      "ts": "20:45.980 -> 20:48.960",
+      "jp": "たぶんすごい科学者と組んでいるはず",
+      "jp_html": "たぶんすごい<ruby>科学者<rt>かがくしゃ</rt></ruby>と<ruby>組ん<rt>くん</rt></ruby>でいるはず",
+      "zh": "大概和一个了不起的科学家合作了吧",
+      "en": "Probably working with some amazing scientist."
+    },
+    {
+      "id": 135,
+      "start": 1248.96,
+      "end": 1250.64,
+      "ts": "20:48.960 -> 20:50.640",
+      "jp": "なるほど",
+      "jp_html": "なるほど",
+      "zh": "原来如此",
+      "en": "I see"
+    },
+    {
+      "id": 136,
+      "start": 1250.64,
+      "end": 1255.64,
+      "ts": "20:50.640 -> 20:55.640",
+      "jp": "ああ、では、今おるところがそいつらの本拠地か。おそらく。",
+      "jp_html": "ああ、では、<ruby>今<rt>いま</rt></ruby>おるところがそいつらの<ruby>本拠地<rt>ほんきょち</rt></ruby>か。おそらく。",
+      "zh": "啊，那么，我们现在所在的地方就是他们的据点吧。大概率是这样。",
+      "en": "Ah, so, where we are now is probably their base."
+    },
+    {
+      "id": 137,
+      "start": 1255.64,
+      "end": 1261.64,
+      "ts": "20:55.640 -> 21:01.640",
+      "jp": "よし、ブルー将軍に連絡しろ。あの場所を偵察させて、アジトを見つけるんだ。",
+      "jp_html": "よし、ブルー<ruby>将軍<rt>しょうぐん</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>しろ。あの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>偵察<rt>ていさつ</rt></ruby>させて、アジトを<ruby>見つ<rt>みつ</rt></ruby>けるんだ。",
+      "zh": "好，去联系蓝将军。让他侦查那个地方，找到老巢。",
+      "en": "All right, contact General Blue. Have him scout that location and find the base."
+    },
+    {
+      "id": 138,
+      "start": 1261.64,
+      "end": 1268.43,
+      "ts": "21:01.640 -> 21:08.430",
+      "jp": "何ですって?",
+      "jp_html": "<ruby>何で<rt>なんで</rt></ruby>すって?",
+      "zh": "什么？",
+      "en": "What is it?"
+    },
+    {
+      "id": 139,
+      "start": 1268.43,
+      "end": 1284.89,
+      "ts": "21:08.430 -> 21:24.890",
+      "jp": "ええ、ええ、了解。すぐにそこを偵察させるわ。",
+      "jp_html": "ええ、ええ、<ruby>了解<rt>りょうかい</rt></ruby>。すぐにそこを<ruby>偵察<rt>ていさつ</rt></ruby>させるわ。",
+      "zh": "好的，好的，明白了。我会马上去侦查那里的。",
+      "en": "Yes, yes, understood. I will send someone to scout that area right away."
+    },
+    {
+      "id": 140,
+      "start": 1284.89,
+      "end": 1285.89,
+      "ts": "21:24.890 -> 21:25.890",
+      "jp": "まだなの?",
+      "jp_html": "まだなの?",
+      "zh": "还在吗？",
+      "en": "Still not yet?"
+    },
+    {
+      "id": 141,
+      "start": 1285.89,
+      "end": 1290.89,
+      "ts": "21:25.890 -> 21:30.890",
+      "jp": "うーん、もうそろそろ帰ってくるはずじゃが、ハッティー何をしとるんじゃろう。",
+      "jp_html": "うーん、もうそろそろ<ruby>帰っ<rt>かえっ</rt></ruby>てくるはずじゃが、ハッティー<ruby>何を<rt>なにを</rt></ruby>しとるんじゃろう。",
+      "zh": "嗯，现在已经应该回来了吧，哈蒂正在做什么呢。",
+      "en": "Hmm, she should be coming back soon, but I wonder what Hattie is doing."
+    },
+    {
+      "id": 142,
+      "start": 1301.73,
+      "end": 1324.38,
+      "ts": "21:41.730 -> 22:04.380",
+      "jp": "アイスコーシーもいっぱい持ってこようか。",
+      "jp_html": "アイスコーシーもいっぱい<ruby>持っ<rt>もっ</rt></ruby>てこようか。",
+      "zh": "也拿上一些冰块吧。",
+      "en": "Let's bring plenty of ice cubes too."
+    },
+    {
+      "id": 143,
+      "start": 1324.38,
+      "end": 1330.46,
+      "ts": "22:04.380 -> 22:10.460",
+      "jp": "もういいわ。3杯も飲んだからお腹がガポガポよ。",
+      "jp_html": "もういいわ。3<ruby>杯<rt>はい</rt></ruby>も<ruby>飲ん<rt>のん</rt></ruby>だからお<ruby>腹<rt>はら</rt></ruby>がガポガポよ。",
+      "zh": "好了。喝了三杯所以肚子鼓鼓的。",
+      "en": "I'm done. I've had three cups so my stomach is bloated."
+    },
+    {
+      "id": 144,
+      "start": 1330.46,
+      "end": 1333.16,
+      "ts": "22:10.460 -> 22:13.160",
+      "jp": "そ、そうか。",
+      "jp_html": "そ、そうか。",
+      "zh": "哦，原来是这样。",
+      "en": "So, that's it."
+    },
+    {
+      "id": 145,
+      "start": 1333.16,
+      "end": 1336.86,
+      "ts": "22:13.160 -> 22:16.860",
+      "jp": "いい、もう早くせんとクリリンたちが来てしまうじゃないか。",
+      "jp_html": "いい、もう<ruby>早く<rt>はやく</rt></ruby>せんとクリリンたちが<ruby>来て<rt>きて</rt></ruby>しまうじゃないか。",
+      "zh": "好，不能再拖了，否则克林他们会来的。",
+      "en": "Okay, we have to hurry before Krillin and the others arrive."
+    },
+    {
+      "id": 146,
+      "start": 1337.66,
+      "end": 1343.36,
+      "ts": "22:17.660 -> 22:23.360",
+      "jp": "もう結構です。これだけあれば晩御飯には十分ですから。",
+      "jp_html": "もう<ruby>結構<rt>けっこう</rt></ruby>です。これだけあれば<ruby>晩御飯<rt>ばんごはん</rt></ruby>には<ruby>十分<rt>じゅうぶん</rt></ruby>ですから。",
+      "zh": "已经好了。这样就够了，晚餐已经足够了。",
+      "en": "That's enough already. This much is sufficient for dinner."
+    },
+    {
+      "id": 147,
+      "start": 1343.36,
+      "end": 1351.98,
+      "ts": "22:23.360 -> 22:31.980",
+      "jp": "ちょっと、おトイレ借りるわね。",
+      "jp_html": "ちょっと、おトイレ<ruby>借り<rt>かり</rt></ruby>るわね。",
+      "zh": "稍微一下，我去用厕所。",
+      "en": "I'll just borrow the toilet, okay?"
+    },
+    {
+      "id": 148,
+      "start": 1352.98,
+      "end": 1360.96,
+      "ts": "22:32.980 -> 22:40.960",
+      "jp": "あ、入って左の奥じゃ。ごゆっくり。",
+      "jp_html": "あ、<ruby>入っ<rt>いっっ</rt></ruby>て<ruby>左<rt>ひだり</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>じゃ。ごゆっくり。",
+      "zh": "啊，在进门左边最里面。请慢慢来。",
+      "en": "Ah, it's at the far left inside. Take your time."
+    },
+    {
+      "id": 149,
+      "start": 1362.46,
+      "end": 1365.96,
+      "ts": "22:42.460 -> 22:45.960",
+      "jp": "やったー!作戦成功じゃ!",
+      "jp_html": "やったー!<ruby>作戦<rt>さくせん</rt></ruby><ruby>成功<rt>せいこう</rt></ruby>じゃ!",
+      "zh": "耶！作战成功了！",
+      "en": "Yatta! The mission was successful!"
+    },
+    {
+      "id": 150,
+      "start": 1370.6,
+      "end": 1374.04,
+      "ts": "22:50.600 -> 22:54.040",
+      "jp": "退屈じゃな。テレビでも見るとするかの?",
+      "jp_html": "<ruby>退屈<rt>たいくつ</rt></ruby>じゃな。テレビでも<ruby>見る<rt>みる</rt></ruby>とするかの?",
+      "zh": "无聊吧？要看电视吗？",
+      "en": "Bored, huh? Want to watch TV?"
+    },
+    {
+      "id": 151,
+      "start": 1391.26,
+      "end": 1392.86,
+      "ts": "23:11.260 -> 23:12.860",
+      "jp": "一緒に押すんじゃったな。",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>押す<rt>おす</rt></ruby>んじゃったな。",
+      "zh": "原来是要一起按的。",
+      "en": "Did you press it together?"
+    },
+    {
+      "id": 152,
+      "start": 1394.86,
+      "end": 1416.5,
+      "ts": "23:14.860 -> 23:36.500",
+      "jp": "ポチッと。よーし、行くぞ。",
+      "jp_html": "ポチッと。よーし、<ruby>行く<rt>いく</rt></ruby>ぞ。",
+      "zh": "啪一声。好了，出发吧。",
+      "en": "Click. Alright, let's go."
+    },
+    {
+      "id": 153,
+      "start": 1427.77,
+      "end": 1431.27,
+      "ts": "23:47.770 -> 23:51.270",
+      "jp": "グッドタイミング。これからパンツを下ろすところじゃ。",
+      "jp_html": "グッドタイミング。これからパンツを<ruby>下ろ<rt>くだろ</rt></ruby>すところじゃ。",
+      "zh": "好时机。我正要往下脱裤子呢。",
+      "en": "Good timing. I'm about to take off my pants."
+    },
+    {
+      "id": 154,
+      "start": 1437.49,
+      "end": 1441.15,
+      "ts": "23:57.490 -> 24:01.150",
+      "jp": "よーし、とりあえずはお尻から拝見するとしよっか。",
+      "jp_html": "よーし、とりあえずはお<ruby>尻<rt>しり</rt></ruby>から<ruby>拝見<rt>はいけん</rt></ruby>するとしよっか。",
+      "zh": "好了，暂时就从屁股看起吧。",
+      "en": "Let's start by checking your butt first."
+    },
+    {
+      "id": 155,
+      "start": 1441.59,
+      "end": 1447.26,
+      "ts": "24:01.590 -> 24:07.260",
+      "jp": "トゥーン!",
+      "jp_html": "トゥーン!",
+      "zh": "咚！",
+      "en": "Boo!"
+    },
+    {
+      "id": 156,
+      "start": 1447.26,
+      "end": 1448.26,
+      "ts": "24:07.260 -> 24:08.260",
+      "jp": "へへへ!",
+      "jp_html": "へへへ!",
+      "zh": "嘿嘿嘿！",
+      "en": "Hehehe!"
+    },
+    {
+      "id": 157,
+      "start": 1448.26,
+      "end": 1451.26,
+      "ts": "24:08.260 -> 24:11.260",
+      "jp": "小さくなれて幸せー!",
+      "jp_html": "<ruby>小さく<rt>ちーさく</rt></ruby>なれて<ruby>幸せー<rt>しあわせー</rt></ruby>!",
+      "zh": "变小了还很高兴呢！",
+      "en": "Got smaller and I'm happy!"
+    },
+    {
+      "id": 158,
+      "start": 1451.26,
+      "end": 1452.26,
+      "ts": "24:11.260 -> 24:12.260",
+      "jp": "あ!",
+      "jp_html": "あ!",
+      "zh": "啊！",
+      "en": "Ah!"
+    },
+    {
+      "id": 159,
+      "start": 1452.26,
+      "end": 1463.24,
+      "ts": "24:12.260 -> 24:23.240",
+      "jp": "女まさか、す、すでにし終わったあとだったか?",
+      "jp_html": "<ruby>女<rt>おんな</rt></ruby>まさか、す、すでにし<ruby>終わ<rt>おわ</rt></ruby>ったあとだったか?",
+      "zh": "女生怕是已经结束了？",
+      "en": "Did you really... already finish it after?"
+    },
+    {
+      "id": 160,
+      "start": 1463.24,
+      "end": 1465.24,
+      "ts": "24:23.240 -> 24:25.240",
+      "jp": "神様の意地悪!",
+      "jp_html": "<ruby>神様<rt>かみさま</rt></ruby>の<ruby>意地悪<rt>いじわる</rt></ruby>!",
+      "zh": "上帝datable!",
+      "en": "God's mischief!"
+    },
+    {
+      "id": 161,
+      "start": 1466.24,
+      "end": 1477.35,
+      "ts": "24:26.240 -> 24:37.350",
+      "jp": "どこする?",
+      "jp_html": "どこする?",
+      "zh": "去哪儿？",
+      "en": "Where are we going?"
+    },
+    {
+      "id": 162,
+      "start": 1477.35,
+      "end": 1499.22,
+      "ts": "24:37.350 -> 24:59.220",
+      "jp": "海で洗わなくせ!",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>で<ruby>洗わ<rt>あらわ</rt></ruby>なくせ!",
+      "zh": "海里不洗！",
+      "en": "Don't wash it in water!"
+    },
+    {
+      "id": 163,
+      "start": 1500.22,
+      "end": 1501.22,
+      "ts": "25:00.220 -> 25:01.220",
+      "jp": "まだなの?",
+      "jp_html": "まだなの?",
+      "zh": "还在吗？",
+      "en": "Still not yet?"
+    },
+    {
+      "id": 164,
+      "start": 1501.22,
+      "end": 1502.22,
+      "ts": "25:01.220 -> 25:02.220",
+      "jp": "あ、まだだ!",
+      "jp_html": "あ、まだだ!",
+      "zh": "哎，还没呢！",
+      "en": "Oh, not yet!"
+    },
+    {
+      "id": 165,
+      "start": 1513.66,
+      "end": 1514.66,
+      "ts": "25:13.660 -> 25:14.660",
+      "jp": "やれやれ!",
+      "jp_html": "やれやれ!",
+      "zh": "哎呀！",
+      "en": "Oh well!"
+    },
+    {
+      "id": 166,
+      "start": 1515.66,
+      "end": 1517.66,
+      "ts": "25:15.660 -> 25:17.660",
+      "jp": "あれ、亀瀬兄様!",
+      "jp_html": "あれ、<ruby>亀<rt>かめ</rt></ruby><ruby>瀬<rt>せ</rt></ruby><ruby>兄<rt>あに</rt></ruby><ruby>様<rt>さま</rt></ruby>!",
+      "zh": "哎，龟濑兄様！",
+      "en": "Ah, Brother Kamese!"
+    },
+    {
+      "id": 167,
+      "start": 1518.66,
+      "end": 1519.66,
+      "ts": "25:18.660 -> 25:19.660",
+      "jp": "なんじゃ?",
+      "jp_html": "なんじゃ?",
+      "zh": "是什么？",
+      "en": "What is it?"
+    },
+    {
+      "id": 168,
+      "start": 1519.66,
+      "end": 1525.66,
+      "ts": "25:19.660 -> 25:25.660",
+      "jp": "中でテレビ見てたはずなのに、なんで外でズブ濡れになってるんですか?",
+      "jp_html": "<ruby>中<rt>なか</rt></ruby>でテレビ<ruby>見て<rt>みて</rt></ruby>たはずなのに、なんで<ruby>外<rt>そと</rt></ruby>でズブ<ruby>濡れ<rt>ぬれ</rt></ruby>になってるんですか?",
+      "zh": "明明在家里看电视，怎么会外面全身湿透了？",
+      "en": "I was watching TV inside, so why am I all wet outside?"
+    },
+    {
+      "id": 169,
+      "start": 1525.66,
+      "end": 1528.66,
+      "ts": "25:25.660 -> 25:28.660",
+      "jp": "うるさい、軽い。そんなことわしの勝手じゃ。",
+      "jp_html": "うるさい、<ruby>軽い<rt>かるい</rt></ruby>。そんなことわしの<ruby>勝手<rt>かって</rt></ruby>じゃ。",
+      "zh": "吵死了，轻浮。那都是我的事。",
+      "en": "It's loud and frivolous. Such things are my own business."
+    },
+    {
+      "id": 170,
+      "start": 1528.66,
+      "end": 1540.81,
+      "ts": "25:28.660 -> 25:40.810",
+      "jp": "キリンさんたちです。やっと帰ってきました。",
+      "jp_html": "キリンさんたちです。やっと<ruby>帰っ<rt>かえっ</rt></ruby>てきました。",
+      "zh": "这是长颈鹿们。它们终于回家了。",
+      "en": "Here are the giraffes. They finally returned."
+    },
+    {
+      "id": 171,
+      "start": 1547.73,
+      "end": 1574.46,
+      "ts": "25:47.730 -> 26:14.460",
+      "jp": "まちくたびらっつーさんでしたっけ?",
+      "jp_html": "まちくたびらっつーさんでしたっけ?",
+      "zh": "难道是迷途猫先生？",
+      "en": "Was it Machikuttablattsu-san?"
+    },
+    {
+      "id": 172,
+      "start": 1574.46,
+      "end": 1577.71,
+      "ts": "26:14.460 -> 26:17.710",
+      "jp": "ブルマよ!ブル…",
+      "jp_html": "ブルマよ!ブル…",
+      "zh": "比蒙哟！布鲁…",
+      "en": "Bulma! Bul..."
+    },
+    {
+      "id": 173,
+      "start": 1577.71,
+      "end": 1580.71,
+      "ts": "26:17.710 -> 26:20.710",
+      "jp": "いや、それにしても、ずいぶんおそかったの。",
+      "jp_html": "いや、それにしても、ずいぶんおそかったの。",
+      "zh": "不，话说回来，确实挺晚的。",
+      "en": "No, still, it was quite late."
+    },
+    {
+      "id": 174,
+      "start": 1580.71,
+      "end": 1584.71,
+      "ts": "26:20.710 -> 26:24.710",
+      "jp": "ええ。まちでランチさんがまた変身してしまいまして。",
+      "jp_html": "ええ。まちでランチさんがまた<ruby>変身<rt>へんしん</rt></ruby>してしまいまして。",
+      "zh": "是的。在车站吃午餐的时候他又变身后了。",
+      "en": "Yes. Machi's Lunch Lady has somehow turned into something else again."
+    },
+    {
+      "id": 175,
+      "start": 1585.71,
+      "end": 1587.71,
+      "ts": "26:25.710 -> 26:27.710",
+      "jp": "ついまたくしゃみが。",
+      "jp_html": "ついまたくしゃみが。",
+      "zh": "又打喷嚏了。",
+      "en": "I sneezed again."
+    },
+    {
+      "id": 176,
+      "start": 1587.71,
+      "end": 1588.71,
+      "ts": "26:27.710 -> 26:28.710",
+      "jp": "ん?",
+      "jp_html": "ん?",
+      "zh": "嗯？",
+      "en": "Hmm?"
+    },
+    {
+      "id": 177,
+      "start": 1590.71,
+      "end": 1593.71,
+      "ts": "26:30.710 -> 26:33.710",
+      "jp": "そりゃ大変だったなクリリン",
+      "jp_html": "そりゃ<ruby>大変<rt>たいへん</rt></ruby>だったなクリリン",
+      "zh": "那可真是糟糕透了克林",
+      "en": "Goku, it must have been tough on you."
+    },
+    {
+      "id": 178,
+      "start": 1593.71,
+      "end": 1596.71,
+      "ts": "26:33.710 -> 26:36.710",
+      "jp": "ところで悟空何しに来たんだ?",
+      "jp_html": "ところで<ruby>悟空<rt>ごくう</rt></ruby><ruby>何<rt>なに</rt></ruby>しに<ruby>来た<rt>きた</rt></ruby>んだ?",
+      "zh": "话说悟空来这儿有什么事？",
+      "en": "By the way, why did Goku come here?"
+    },
+    {
+      "id": 179,
+      "start": 1596.71,
+      "end": 1601.18,
+      "ts": "26:36.710 -> 26:41.180",
+      "jp": "こちらブルーどう?何か見つかった?",
+      "jp_html": "こちらブルーどう?<ruby>何か<rt>なにか</rt></ruby><ruby>見つ<rt>みつ</rt></ruby>かった?",
+      "zh": "这边蓝色怎么样？有没有发现什么？",
+      "en": "How about this blue one? Did you find anything?"
+    },
+    {
+      "id": 180,
+      "start": 1601.18,
+      "end": 1609.79,
+      "ts": "26:41.180 -> 26:49.790",
+      "jp": "いえまだそれらしき建物は発見できませんが",
+      "jp_html": "いえまだそれらしき<ruby>建物<rt>たてもの</rt></ruby>は<ruby>発見<rt>はっけん</rt></ruby>できませんが",
+      "zh": "还没发现那种建筑",
+      "en": "I haven't yet found any buildings that resemble them, though."
+    },
+    {
+      "id": 181,
+      "start": 1609.79,
+      "end": 1614.79,
+      "ts": "26:49.790 -> 26:54.790",
+      "jp": "しかしこの辺りにはそれほど島はたくさんありませんから間もなく見つかると思います",
+      "jp_html": "しかしこの<ruby>辺り<rt>あたり</rt></ruby>にはそれほど<ruby>島<rt>しま</rt></ruby>はたくさんありませんから<ruby>間<rt>かん</rt></ruby>もなく<ruby>見つ<rt>みつ</rt></ruby>かると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "然而这一带的岛并不多，所以不久就会找到的",
+      "en": "However, there aren't that many islands in this area, so I think we won't be long in finding them."
+    },
+    {
+      "id": 182,
+      "start": 1614.79,
+      "end": 1617.79,
+      "ts": "26:54.790 -> 26:57.790",
+      "jp": "OK!ピンも落ち着けて了解!",
+      "jp_html": "OK!ピンも<ruby>落ち着け<rt>おちつけ</rt></ruby>て<ruby>了解<rt>りょうかい</rt></ruby>!",
+      "zh": "好的！针也稳住了，明白了！",
+      "en": "OK! Pins are settled and understood!"
+    },
+    {
+      "id": 183,
+      "start": 1617.79,
+      "end": 1624.8,
+      "ts": "26:57.790 -> 27:04.800",
+      "jp": "そういうことかそれで潜水艇を",
+      "jp_html": "そういうことかそれで<ruby>潜水艇<rt>せんすいてい</rt></ruby>を",
+      "zh": "原来如此，所以是潜艇",
+      "en": "That's it, that's why they have submarines."
+    },
+    {
+      "id": 184,
+      "start": 1624.8,
+      "end": 1630.94,
+      "ts": "27:04.800 -> 27:10.940",
+      "jp": "このあたりだったら、ついでに海賊の宝も見つかったりして",
+      "jp_html": "このあたりだったら、ついでに<ruby>海賊<rt>かいぞく</rt></ruby>の<ruby>宝<rt>たから</rt></ruby>も<ruby>見つ<rt>みつ</rt></ruby>かったりして",
+      "zh": "在这个地方的话，顺便还能找到海盗的财宝呢",
+      "en": "If I'm in this area, I might as well look for pirates' treasure too."
+    },
+    {
+      "id": 185,
+      "start": 1630.94,
+      "end": 1632.38,
+      "ts": "27:10.940 -> 27:12.380",
+      "jp": "海賊!?",
+      "jp_html": "<ruby>海賊<rt>かいぞく</rt></ruby>!?",
+      "zh": "海盗!?",
+      "en": "Pirates?!"
+    },
+    {
+      "id": 186,
+      "start": 1632.38,
+      "end": 1635.22,
+      "ts": "27:12.380 -> 27:15.220",
+      "jp": "えぇ、な、なに!?",
+      "jp_html": "えぇ、な、なに!?",
+      "zh": "嗯，怎么了！？",
+      "en": "Ah, what!"
+    },
+    {
+      "id": 187,
+      "start": 1635.22,
+      "end": 1636.92,
+      "ts": "27:15.220 -> 27:16.920",
+      "jp": "ねぇ、無天狼師様",
+      "jp_html": "ねぇ、<ruby>無天<rt>むてん</rt></ruby><ruby>狼<rt>おおかみ</rt></ruby><ruby>師<rt>し</rt></ruby><ruby>様<rt>さま</rt></ruby>",
+      "zh": "嗯、无天狼师大人",
+      "en": "Hey, Heavenly Wolf Teacher-sama"
+    },
+    {
+      "id": 188,
+      "start": 1636.92,
+      "end": 1638.38,
+      "ts": "27:16.920 -> 27:18.380",
+      "jp": "うん、なんじゃ",
+      "jp_html": "うん、なんじゃ",
+      "zh": "嗯， what's that",
+      "en": "Yeah, what is it?"
+    },
+    {
+      "id": 189,
+      "start": 1638.38,
+      "end": 1642.78,
+      "ts": "27:18.380 -> 27:22.780",
+      "jp": "海賊の宝物があるらしいって、このあたりの海でしたよね?",
+      "jp_html": "<ruby>海賊<rt>かいぞく</rt></ruby>の<ruby>宝物<rt>たからもの</rt></ruby>があるらしいって、このあたりの<ruby>海<rt>うみ</rt></ruby>でしたよね?",
+      "zh": "据说这里附近的海里有海盗的财宝对吧？",
+      "en": "They say there's treasure from pirates around this sea, right?"
+    },
+    {
+      "id": 190,
+      "start": 1642.78,
+      "end": 1644.38,
+      "ts": "27:22.780 -> 27:24.380",
+      "jp": "どれどれ?",
+      "jp_html": "どれどれ?",
+      "zh": "嗯嗯？",
+      "en": "Let me see?"
+    },
+    {
+      "id": 191,
+      "start": 1644.38,
+      "end": 1647.18,
+      "ts": "27:24.380 -> 27:27.180",
+      "jp": "おぉ、そういえばそうじゃな",
+      "jp_html": "おぉ、そういえばそうじゃな",
+      "zh": "哦，对了，就是那样呢",
+      "en": "Oh, that's right, isn't it?"
+    },
+    {
+      "id": 192,
+      "start": 1647.18,
+      "end": 1652.18,
+      "ts": "27:27.180 -> 27:32.180",
+      "jp": "昔、その一帯の海を荒らし回っておった海賊がいたんじゃ",
+      "jp_html": "<ruby>昔<rt>むかし</rt></ruby>、その<ruby>一帯<rt>いったい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>を<ruby>荒らし<rt>あらし</rt></ruby><ruby>回っ<rt>まわっ</rt></ruby>ておった<ruby>海賊<rt>かいぞく</rt></ruby>がいたんじゃ",
+      "zh": "以前，那一带的海经常被海盗肆虐。",
+      "en": "There used to be pirates who roamed and ravaged those seas."
+    },
+    {
+      "id": 193,
+      "start": 1652.18,
+      "end": 1656.18,
+      "ts": "27:32.180 -> 27:36.180",
+      "jp": "溜め込んだ宝物が海のどこかに隠されておるらしいぞ",
+      "jp_html": "<ruby>溜め<rt>ため</rt></ruby><ruby>込ん<rt>こん</rt></ruby>だ<ruby>宝物<rt>たからもの</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>のどこかに<ruby>隠さ<rt>かくさ</rt></ruby>れておるらしいぞ",
+      "zh": "据说藏在某处海底的财宝",
+      "en": "It seems that the treasure I hoarded is hidden somewhere in the sea."
+    },
+    {
+      "id": 194,
+      "start": 1656.18,
+      "end": 1663.46,
+      "ts": "27:36.180 -> 27:43.460",
+      "jp": "でもいいわね",
+      "jp_html": "でもいいわね",
+      "zh": "那也没关系呢",
+      "en": "It's okay, then."
+    },
+    {
+      "id": 195,
+      "start": 1663.46,
+      "end": 1667.46,
+      "ts": "27:43.460 -> 27:47.460",
+      "jp": "面白そうだな。俺もついて行こうかな。",
+      "jp_html": "<ruby>面白そ<rt>おもしろそ</rt></ruby>うだな。<ruby>俺<rt>おれ</rt></ruby>もついて<ruby>行こ<rt>いこ</rt></ruby>うかな。",
+      "zh": "看起来挺有趣的。我也跟着去吧。",
+      "en": "It seems interesting. I might join in too."
+    },
+    {
+      "id": 196,
+      "start": 1667.46,
+      "end": 1670.96,
+      "ts": "27:47.460 -> 27:50.960",
+      "jp": "ほんとか?危なくても知らねえぞ。",
+      "jp_html": "ほんとか?<ruby>危なく<rt>あぶなく</rt></ruby>ても<ruby>知ら<rt>しら</rt></ruby>ねえぞ。",
+      "zh": "真的吗？危险也不知道。",
+      "en": "Really? I don't know even if it's dangerous."
+    },
+    {
+      "id": 197,
+      "start": 1670.96,
+      "end": 1674.66,
+      "ts": "27:50.960 -> 27:54.660",
+      "jp": "無天狼師様、私も行ってよろしいですか?",
+      "jp_html": "<ruby>無天<rt>むてん</rt></ruby><ruby>狼<rt>おおかみ</rt></ruby><ruby>師<rt>し</rt></ruby><ruby>様<rt>さま</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>も<ruby>行って<rt>いって</rt></ruby>よろしいですか?",
+      "zh": "天狼师大人，我也去可以吗？",
+      "en": "Master Moonlight, may I also go?"
+    },
+    {
+      "id": 198,
+      "start": 1674.66,
+      "end": 1678.46,
+      "ts": "27:54.660 -> 27:58.460",
+      "jp": "うん。よかろ。悟空を手伝ってやり。",
+      "jp_html": "うん。よかろ。<ruby>悟空<rt>ごくう</rt></ruby>を<ruby>手伝っ<rt>てつだっ</rt></ruby>てやり。",
+      "zh": "嗯。好啊。帮悟空一下。",
+      "en": "Yeah. Good luck. Help out with Goku."
+    },
+    {
+      "id": 199,
+      "start": 1678.46,
+      "end": 1679.26,
+      "ts": "27:58.460 -> 27:59.260",
+      "jp": "はい。",
+      "jp_html": "はい。",
+      "zh": "好。",
+      "en": "Yes."
+    },
+    {
+      "id": 200,
+      "start": 1679.26,
+      "end": 1709.78,
+      "ts": "27:59.260 -> 28:29.780",
+      "jp": "やつじゃねえか。俺は海にもぐってほしいんだぞ。",
+      "jp_html": "やつじゃねえか。<ruby>俺<rt>おれ</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>にもぐってほしいんだぞ。",
+      "zh": "不是他吗？我希望你能去游泳。",
+      "en": "Isn't it him? I want him to go underwater in the sea."
+    },
+    {
+      "id": 201,
+      "start": 1709.78,
+      "end": 1713.28,
+      "ts": "28:29.780 -> 28:33.280",
+      "jp": "いいの。これは海にももぐっちゃうんだから。",
+      "jp_html": "いいの。これは<ruby>海<rt>うみ</rt></ruby>にももぐっちゃうんだから。",
+      "zh": "没关系。这个也能潜到海里去。",
+      "en": "It's okay. You'll be able to dive into the sea too."
+    },
+    {
+      "id": 202,
+      "start": 1713.28,
+      "end": 1725.94,
+      "ts": "28:33.280 -> 28:45.940",
+      "jp": "大丈夫ですよ、ブルマさん。無天狼師様が預かってくれますって。",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ、ブルマさん。<ruby>無天<rt>むてん</rt></ruby><ruby>狼<rt>おおかみ</rt></ruby><ruby>師<rt>し</rt></ruby><ruby>様<rt>さま</rt></ruby>が<ruby>預か<rt>あずか</rt></ruby>ってくれますって。",
+      "zh": "布鲁玛小姐，放心吧，无天狼师会照看的。",
+      "en": "It's okay, Lady Bulma. Master Utena will take care of it."
+    },
+    {
+      "id": 203,
+      "start": 1725.94,
+      "end": 1729.44,
+      "ts": "28:45.940 -> 28:49.440",
+      "jp": "それもそうね。また後で寄ればいいんだから。",
+      "jp_html": "それもそうね。また<ruby>後で<rt>あとで</rt></ruby><ruby>寄れ<rt>よれ</rt></ruby>ばいいんだから。",
+      "zh": "也是啊。下次再来就好了。",
+      "en": "Well, that's okay. You can stop by again later."
+    },
+    {
+      "id": 204,
+      "start": 1729.44,
+      "end": 1736.91,
+      "ts": "28:49.440 -> 28:56.910",
+      "jp": "ブルー将軍!ESS100地点に飛行物体を発見しました。",
+      "jp_html": "ブルー<ruby>将軍<rt>しょうぐん</rt></ruby>!ESS100<ruby>地点<rt>ちてん</rt></ruby>に<ruby>飛行物体<rt>ひこうぶったい</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>しました。",
+      "zh": "蓝将军！在ESS100位置发现飞行物体。",
+      "en": "General Blue! I have detected a flying object at ESS100 location."
+    },
+    {
+      "id": 205,
+      "start": 1736.91,
+      "end": 1741.11,
+      "ts": "28:56.910 -> 29:01.110",
+      "jp": "北北線にすごいスピードで進んでおります。おそらく、例のガキドウもあります。",
+      "jp_html": "<ruby>北<rt>きた</rt></ruby><ruby>北線<rt>きたせん</rt></ruby>にすごいスピードで<ruby>進ん<rt>すすん</rt></ruby>でおります。おそらく、<ruby>例の<rt>れいの</rt></ruby>ガキドウもあります。",
+      "zh": "北北线的速度真快。恐怕那群孩子也在里面。",
+      "en": "We are advancing on the North North Line with great speed. Probably, the famous Kidou also exists."
+    },
+    {
+      "id": 206,
+      "start": 1741.11,
+      "end": 1745.41,
+      "ts": "29:01.110 -> 29:05.410",
+      "jp": "やってきた方向を探してみて。敵の基地があるはずだわ。",
+      "jp_html": "やってきた<ruby>方向<rt>ほうこう</rt></ruby>を<ruby>探し<rt>さがし</rt></ruby>てみて。<ruby>敵<rt>てき</rt></ruby>の<ruby>基地<rt>きち</rt></ruby>があるはずだわ。",
+      "zh": "试着寻找他们来的方向。敌人的基地应该就在那里。",
+      "en": "Try to find the direction they came from. There should be an enemy base."
+    },
+    {
+      "id": 207,
+      "start": 1745.41,
+      "end": 1757.61,
+      "ts": "29:05.410 -> 29:17.610",
+      "jp": "了解。やはりありました。小さな島に家が建っています。",
+      "jp_html": "<ruby>了解<rt>りょうかい</rt></ruby>。やはりありました。<ruby>小さ<rt>ちいさ</rt></ruby>な<ruby>島<rt>しま</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>が<ruby>建っ<rt>たっ</rt></ruby>ています。",
+      "zh": "明白了。果然有。一座房子建在小小的岛上。",
+      "en": "Understood. Indeed there was. A house stands on the small island."
+    },
+    {
+      "id": 208,
+      "start": 1757.61,
+      "end": 1760.61,
+      "ts": "29:17.610 -> 29:20.610",
+      "jp": "位置は、ESA7024地点。",
+      "jp_html": "<ruby>位置<rt>いち</rt></ruby>は、ESA7024<ruby>地点<rt>ちてん</rt></ruby>。",
+      "zh": "位置是在ESA7024点。",
+      "en": "The location is at ESA7024 point."
+    },
+    {
+      "id": 209,
+      "start": 1760.61,
+      "end": 1765.61,
+      "ts": "29:20.610 -> 29:25.610",
+      "jp": "ズームアップ! モニターで誰かいないか探ってみて!",
+      "jp_html": "ズームアップ! モニターで<ruby>誰か<rt>だれか</rt></ruby>いないか<ruby>探っ<rt>さがっ</rt></ruby>てみて!",
+      "zh": "放大！看看监视器里有没有人！",
+      "en": "Zoom in! Check the monitor to see if anyone is missing!"
+    },
+    {
+      "id": 210,
+      "start": 1765.61,
+      "end": 1775.49,
+      "ts": "29:25.610 -> 29:35.490",
+      "jp": "女が1人います! そしてカメ! それから…老人が1人います! 他は見当たりません!",
+      "jp_html": "<ruby>女<rt>おんな</rt></ruby>が1<ruby>人<rt>にん</rt></ruby>います! そしてカメ! それから…<ruby>老人<rt>ろうじん</rt></ruby>が1<ruby>人<rt>にん</rt></ruby>います! <ruby>他は<rt>たは</rt></ruby><ruby>見当た<rt>みあた</rt></ruby>りません!",
+      "zh": "有一个女人！还有一只龟！还有……还有一个老人！其他人 nowhere可见！",
+      "en": "There is a woman! And a turtle! And... one old man! The others are not visible!"
+    },
+    {
+      "id": 211,
+      "start": 1775.49,
+      "end": 1784.17,
+      "ts": "29:35.490 -> 29:44.170",
+      "jp": "ねぇ、ランチちゃん おトイレ行かないの?",
+      "jp_html": "ねぇ、ランチちゃん おトイレ<ruby>行か<rt>いか</rt></ruby>ないの?",
+      "zh": "喂，午餐酱 不去厕所吗？",
+      "en": "Hey, Lunch-chan, don't you want to go to the toilet?"
+    },
+    {
+      "id": 212,
+      "start": 1784.17,
+      "end": 1787.17,
+      "ts": "29:44.170 -> 29:47.170",
+      "jp": "ん? こんな…",
+      "jp_html": "ん? こんな…",
+      "zh": "嗯？这么……",
+      "en": "\"Hm? Something...?\""
+    },
+    {
+      "id": 213,
+      "start": 1787.17,
+      "end": 1792.87,
+      "ts": "29:47.170 -> 29:52.870",
+      "jp": "老人か そいつがすごいレーダーを作った博士ね",
+      "jp_html": "<ruby>老人<rt>ろうじん</rt></ruby>か そいつがすごいレーダーを<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>博士<rt>はかせ</rt></ruby>ね",
+      "zh": "那是老人，那个厉害的雷达研究员吧",
+      "en": "The old man is a great scientist who made a fantastic radar, isn't he?"
+    },
+    {
+      "id": 214,
+      "start": 1792.87,
+      "end": 1801.81,
+      "ts": "29:52.870 -> 30:01.810",
+      "jp": "カメセンウィンファミリーをも巻き込んで",
+      "jp_html": "カメセンウィンファミリーをも<ruby>巻き<rt>まき</rt></ruby><ruby>込ん<rt>こん</rt></ruby>で",
+      "zh": "将卡梅森威家庭也卷入其中",
+      "en": "Involving the Kamisen Win Family as well"
+    },
+    {
+      "id": 215,
+      "start": 1801.81,
+      "end": 1807.47,
+      "ts": "30:01.810 -> 30:07.470",
+      "jp": "ドラゴンボール争奪戦はますます激しさを増していくのであった",
+      "jp_html": "ドラゴンボール<ruby>争奪戦<rt>そうだつせん</rt></ruby>はますます<ruby>激し<rt>はげし</rt></ruby>さを<ruby>増し<rt>まし</rt></ruby>ていくのであった",
+      "zh": "龙珠争夺战越来越激烈了",
+      "en": "The Dragon Ball夺夺战越来越激烈了"
+    }
+  ]
+}

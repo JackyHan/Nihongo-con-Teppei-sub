@@ -798,5 +798,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E29.v2.Bulmas.House.in.Metro.West.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e29.json"
+  },
+  {
+    "id": "db-recut-e30",
+    "title": "Dragon Ball Recut E30: Bulmas Big Failure",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E30.v2.Bulmas.Big.Failure.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e30.json"
   }
 ]
