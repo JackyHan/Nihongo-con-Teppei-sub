@@ -1062,5 +1062,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E51.v2.Equally.Strong--Tenshinhan.vs.Jackie.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e51.json"
+  },
+  {
+    "id": "db-recut-e52",
+    "title": "Dragon Ball Recut E52: Fight--Goku vs Kuririn",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E52.v2.Fight--Goku.vs.Kuririn.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e52.json"
   }
 ]
