@@ -1374,5 +1374,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E77.v2.Whos.Stronger--God.vs.Piccolo.Daimao.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e77.json"
+  },
+  {
+    "id": "db-recut-e78",
+    "title": "Dragon Ball Recut E78: With the Fate of the World in the Balance",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E78.v2.With.the.Fate.of.the.World.in.the.Balance.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e78.json"
   }
 ]
