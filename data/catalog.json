@@ -754,6 +754,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E23.v2.The.Heartless.Red.Ribbon.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e23.json"
+    },
+    {
+      "id": "db-recut-e24",
+      "title": "Dragon Ball Recut E24: Suno Girl of the North",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E24.v2.Suno.Girl.of.the.North.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e24.json"
     }
   ]
 }
