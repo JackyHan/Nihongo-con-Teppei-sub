@@ -510,5 +510,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E05.v2.Midnight.Callers.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e05.json"
+  },
+  {
+    "id": "db-recut-e06",
+    "title": "Dragon Ball Recut E06: Mt Frypans Gyumao",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E06.v2.Mt.Frypans.Gyumao.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e06.json"
   }
 ]
