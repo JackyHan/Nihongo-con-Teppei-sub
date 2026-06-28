@@ -546,5 +546,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E08.v2.The.Rabbit.Bosss.Special.Technique.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e08.json"
+  },
+  {
+    "id": "db-recut-e09",
+    "title": "Dragon Ball Recut E09: The Dragon Balls are Stolen",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E09.v2.The.Dragon.Balls.are.Stolen.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e09.json"
   }
 ]
