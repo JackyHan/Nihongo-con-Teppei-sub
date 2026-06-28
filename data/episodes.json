@@ -774,5 +774,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E27.v2.The.Mysterious.Artificial.Human.8.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e27.json"
+  },
+  {
+    "id": "db-recut-e28",
+    "title": "Dragon Ball Recut E28: The End of Muscle Tower",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E28.v2.The.End.of.Muscle.Tower.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e28.json"
   }
 ]
