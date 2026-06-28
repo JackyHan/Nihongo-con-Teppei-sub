@@ -1266,5 +1266,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E68.v2.The.Temple.Above.the.Clouds.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e68.json"
+  },
+  {
+    "id": "db-recut-e69",
+    "title": "Dragon Ball Recut E69: Shen Long Revived",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E69.v2.Shen.Long.Revived.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e69.json"
   }
 ]
