@@ -1306,6 +1306,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E69.v2.Shen.Long.Revived.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e69.json"
+    },
+    {
+      "id": "db-recut-e70",
+      "title": "Dragon Ball Recut E70: The Reunion Before the Storm",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E70.v2.The.Reunion.Before.the.Storm.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e70.json"
     }
   ]
 }
