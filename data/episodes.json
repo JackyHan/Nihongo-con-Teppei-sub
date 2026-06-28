@@ -930,5 +930,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E40.v2.The.Last.Dragon.Ball.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e40.json"
+  },
+  {
+    "id": "db-recut-e41",
+    "title": "Dragon Ball Recut E41: The Possibly Cute Fortuneteller Baba",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E41.v2.The.Possibly.Cute.Fortuneteller.Baba.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e41.json"
   }
 ]
