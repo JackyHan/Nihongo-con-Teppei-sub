@@ -1198,6 +1198,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E60.v2.The.Turtle.Hermits.Final.Mafuba.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e60.json"
+    },
+    {
+      "id": "db-recut-e61",
+      "title": "Dragon Ball Recut E61: King Castle on the Offensive and Defensive",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E61.v2.King.Castle.on.the.Offensive.and.Defensive.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e61.json"
     }
   ]
 }
