@@ -982,6 +982,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E42.v2.Attack--We.Five.Fighters.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e42.json"
+    },
+    {
+      "id": "db-recut-e43",
+      "title": "Dragon Ball Recut E43: Meet Son Goku--The Demons Toilet",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E43.v2.Meet.Son.Goku--The.Demons.Toilet.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e43.json"
     }
   ]
 }
