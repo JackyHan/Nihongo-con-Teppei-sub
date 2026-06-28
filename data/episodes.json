@@ -1230,5 +1230,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E65.v2.Will.the.Legendary.Mafuba.Work.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e65.json"
+  },
+  {
+    "id": "db-recut-e66",
+    "title": "Dragon Ball Recut E66: Son Goku--Final Crisis",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E66.v2.Son.Goku--Final.Crisis.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e66.json"
   }
 ]
