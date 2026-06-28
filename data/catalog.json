@@ -1210,6 +1210,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E61.v2.King.Castle.on.the.Offensive.and.Defensive.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e61.json"
+    },
+    {
+      "id": "db-recut-e62",
+      "title": "Dragon Ball Recut E62: Gokus Wish--Even Karin-sama is Worried",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E62.v2.Gokus.Wish--Even.Karin-sama.is.Worried.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e62.json"
     }
   ]
 }
