@@ -1366,6 +1366,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E74.v2.Shen--Man.of.Mystery.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e74.json"
+    },
+    {
+      "id": "db-recut-e75",
+      "title": "Dragon Ball Recut E75: Another Intense Battle--Goku vs Tenshinhan",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E75.v2.Another.Intense.Battle--Goku.vs.Tenshinhan.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e75.json"
     }
   ]
 }
