@@ -1,0 +1,1484 @@
+{
+  "id": "db-recut-e71",
+  "title": "Dragon Ball Recut E71: The Turbulent Tenkaichi Budokai",
+  "category_id": "anime",
+  "category_title": "Anime",
+  "media_type": "video",
+  "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E71.v2.The.Turbulent.Tenkaichi.Budokai.mp4",
+  "audio_url": "",
+  "source_url": "https://archive.org/details/dragon-ball-recut",
+  "series_id": "dragon-ball-recut",
+  "series_title": "Dragon Ball Recut",
+  "entries": [
+    {
+      "id": 0,
+      "start": 150.9,
+      "end": 153.46,
+      "ts": "02:30.900 -> 02:33.460",
+      "jp": "ピッコロ大魔王の手下の生き残りか",
+      "jp_html": "ピッコロ<ruby>大魔王<rt>だいまおう</rt></ruby>の<ruby>手下<rt>てした</rt></ruby>の<ruby>生き残り<rt>いきのこり</rt></ruby>か",
+      "zh": "比克多拉大魔君的部下残存者吗？",
+      "en": "Are you one of Piccolo's remaining minions?"
+    },
+    {
+      "id": 1,
+      "start": 153.46,
+      "end": 155.46,
+      "ts": "02:33.460 -> 02:35.460",
+      "jp": "うん、そんなようなもんだな",
+      "jp_html": "うん、そんなようなもんだな",
+      "zh": "嗯，就是这样的东西吧",
+      "en": "Yeah, something like that."
+    },
+    {
+      "id": 2,
+      "start": 155.46,
+      "end": 161.23,
+      "ts": "02:35.460 -> 02:41.230",
+      "jp": "やはりそうか",
+      "jp_html": "やはりそうか",
+      "zh": "果然如此吧",
+      "en": "So that's it, huh?"
+    },
+    {
+      "id": 3,
+      "start": 161.23,
+      "end": 162.75,
+      "ts": "02:41.230 -> 02:42.750",
+      "jp": "みんなには内緒にな",
+      "jp_html": "みんなには<ruby>内緒<rt>ないしょ</rt></ruby>にな",
+      "zh": "不要让别人知道",
+      "en": "I'm keeping it a secret from everyone."
+    },
+    {
+      "id": 4,
+      "start": 162.75,
+      "end": 166.43,
+      "ts": "02:42.750 -> 02:46.430",
+      "jp": "そんなことが分かったら大騒ぎになっちゃうからさ",
+      "jp_html": "そんなことが<ruby>分か<rt>わか</rt></ruby>ったら<ruby>大騒ぎ<rt>おおさわぎ</rt></ruby>になっちゃうからさ",
+      "zh": "如果知道了的话就会大吵一架的啦",
+      "en": "If they found out, it would cause a big fuss, you know?"
+    },
+    {
+      "id": 5,
+      "start": 166.43,
+      "end": 169.79,
+      "ts": "02:46.430 -> 02:49.790",
+      "jp": "悟空、今のやつ知ってるやつなのか?",
+      "jp_html": "<ruby>悟空<rt>ごくう</rt></ruby>、<ruby>今<rt>いま</rt></ruby>のやつ<ruby>知って<rt>しって</rt></ruby>るやつなのか?",
+      "zh": "悟空，你知道刚才的那个家伙吗？",
+      "en": "Did Sun Wukong know this one?"
+    },
+    {
+      "id": 6,
+      "start": 169.79,
+      "end": 172.35,
+      "ts": "02:49.790 -> 02:52.350",
+      "jp": "あの雰囲気はただもんじゃないな",
+      "jp_html": "あの<ruby>雰囲気<rt>ふんいき</rt></ruby>はただもんじゃないな",
+      "zh": "那种气氛不是随便能有的",
+      "en": "That atmosphere isn't just something, you know?"
+    },
+    {
+      "id": 7,
+      "start": 172.35,
+      "end": 177.35,
+      "ts": "02:52.350 -> 02:57.350",
+      "jp": "おーやあ、あいつ強そうだって言ってたんだな、天心派",
+      "jp_html": "おーやあ、あいつ<ruby>強そ<rt>つよそ</rt></ruby>うだって<ruby>言って<rt>いって</rt></ruby>たんだな、<ruby>天心<rt>てんしん</rt></ruby><ruby>派<rt>は</rt></ruby>",
+      "zh": "哦呀啊，他说那个家伙很强呢，是天心派。",
+      "en": "Oh yaah, he said that guy seems strong, right? Kyokushin派"
+    },
+    {
+      "id": 8,
+      "start": 177.35,
+      "end": 178.79,
+      "ts": "02:57.350 -> 02:58.790",
+      "jp": "うん",
+      "jp_html": "うん",
+      "zh": "嗯",
+      "en": "Yeah"
+    },
+    {
+      "id": 9,
+      "start": 178.79,
+      "end": 235.9,
+      "ts": "02:58.790 -> 03:55.900",
+      "jp": "だおめ、だあいつ",
+      "jp_html": "だおめ、だあいつ",
+      "zh": "倒霉，就是他",
+      "en": "dame, daitsu"
+    },
+    {
+      "id": 10,
+      "start": 235.9,
+      "end": 238.46,
+      "ts": "03:55.900 -> 03:58.460",
+      "jp": "ご、悟空",
+      "jp_html": "ご、<ruby>悟空<rt>ごくう</rt></ruby>",
+      "zh": "悟空",
+      "en": "Goku"
+    },
+    {
+      "id": 11,
+      "start": 238.46,
+      "end": 243.06,
+      "ts": "03:58.460 -> 04:03.060",
+      "jp": "誰なんだよ",
+      "jp_html": "<ruby>誰<rt>だれ</rt></ruby>なんだよ",
+      "zh": "你是谁",
+      "en": "Who are you?"
+    },
+    {
+      "id": 12,
+      "start": 243.06,
+      "end": 247.06,
+      "ts": "04:03.060 -> 04:07.060",
+      "jp": "このこのこのどこで会ったんだよ",
+      "jp_html": "このこのこのどこで<ruby>会っ<rt>あっ</rt></ruby>たんだよ",
+      "zh": "我们在哪儿见过？",
+      "en": "Where did we meet before?"
+    },
+    {
+      "id": 13,
+      "start": 247.06,
+      "end": 251.06,
+      "ts": "04:07.060 -> 04:11.060",
+      "jp": "オラ知らねえってあんなやつ会ったことねえもん",
+      "jp_html": "オラ<ruby>知ら<rt>しら</rt></ruby>ねえってあんなやつ<ruby>会っ<rt>あっ</rt></ruby>たことねえもん",
+      "zh": "我可不知道呢，那种东西我也没见过。",
+      "en": "I haven't met that kind of guy either."
+    },
+    {
+      "id": 14,
+      "start": 251.06,
+      "end": 255.06,
+      "ts": "04:11.060 -> 04:15.060",
+      "jp": "嘘言えそういう雰囲気じゃなかったぞこの野郎",
+      "jp_html": "<ruby>嘘言<rt>そらごと</rt></ruby>えそういう<ruby>雰囲気<rt>ふんいき</rt></ruby>じゃなかったぞこの<ruby>野郎<rt>やろう</rt></ruby>",
+      "zh": "这话说不对，当时的气氛不是那样的。",
+      "en": "Don't lie, it wasn't that kind of atmosphere, you bastard."
+    },
+    {
+      "id": 15,
+      "start": 255.06,
+      "end": 257.06,
+      "ts": "04:15.060 -> 04:17.060",
+      "jp": "ほんとだって",
+      "jp_html": "ほんとだって",
+      "zh": "真的呢",
+      "en": "Really indeed"
+    },
+    {
+      "id": 16,
+      "start": 257.06,
+      "end": 261.06,
+      "ts": "04:17.060 -> 04:21.060",
+      "jp": "悟空お前ほんとに神様んとこで修行してたんだろうな",
+      "jp_html": "<ruby>悟空<rt>ごくう</rt></ruby>お<ruby>前<rt>まえ</rt></ruby>ほんとに<ruby>神様<rt>かみさま</rt></ruby>んとこで<ruby>修行<rt>しゅぎょう</rt></ruby>してたんだろうな",
+      "zh": "悟空，你果然在天上修炼了吧？",
+      "en": "Son Goku, you really did train with a god, huh?"
+    },
+    {
+      "id": 17,
+      "start": 261.06,
+      "end": 269.06,
+      "ts": "04:21.060 -> 04:29.060",
+      "jp": "ちくしょうあんなかわいい子こいつほんとにいいなあちくしょう",
+      "jp_html": "ちくしょうあんなかわいい<ruby>子<rt>こ</rt></ruby>こいつほんとにいいなあちくしょう",
+      "zh": "该死这么可爱的孩子真好该死",
+      "en": "Damn, such cute kids. Damn, they're really nice, aren't they?"
+    },
+    {
+      "id": 18,
+      "start": 269.06,
+      "end": 273.99,
+      "ts": "04:29.060 -> 04:33.990",
+      "jp": "チキサー!",
+      "jp_html": "チキサー!",
+      "zh": "CHRISTIAN!",
+      "en": "Frick!"
+    },
+    {
+      "id": 19,
+      "start": 273.99,
+      "end": 276.69,
+      "ts": "04:33.990 -> 04:36.690",
+      "jp": "あれは本当に知ってるって顔だったぞ",
+      "jp_html": "あれは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>知って<rt>しって</rt></ruby>るって<ruby>顔<rt>かお</rt></ruby>だったぞ",
+      "zh": "那真的是知道的神情啊",
+      "en": "That was really the face of someone who knows, wasn't it?"
+    },
+    {
+      "id": 20,
+      "start": 276.69,
+      "end": 278.33,
+      "ts": "04:36.690 -> 04:38.330",
+      "jp": "なあ、天心班",
+      "jp_html": "なあ、<ruby>天心<rt>てんしん</rt></ruby><ruby>班<rt>はん</rt></ruby>",
+      "zh": "哎，天心班",
+      "en": "Hey, Tianxin班 (Tianxin Class/Team)"
+    },
+    {
+      "id": 21,
+      "start": 278.33,
+      "end": 281.59,
+      "ts": "04:38.330 -> 04:41.590",
+      "jp": "選手の皆様、お待たせしました",
+      "jp_html": "<ruby>選手<rt>せんしゅ</rt></ruby>の<ruby>皆様<rt>みなさま</rt></ruby>、お<ruby>待た<rt>また</rt></ruby>せしました",
+      "zh": "各位选手，久等了",
+      "en": "Dear athletes, we apologize for keeping you waiting."
+    },
+    {
+      "id": 22,
+      "start": 281.59,
+      "end": 283.79,
+      "ts": "04:41.590 -> 04:43.790",
+      "jp": "ただいまより予選を行いますので",
+      "jp_html": "ただいまより<ruby>予選<rt>よせん</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ますので",
+      "zh": "现在我们将进行预选赛",
+      "en": "Now we will conduct the preliminary round."
+    },
+    {
+      "id": 23,
+      "start": 283.79,
+      "end": 288.11,
+      "ts": "04:43.790 -> 04:48.110",
+      "jp": "中央にお集まりください",
+      "jp_html": "<ruby>中央<rt>ちゅうおう</rt></ruby>にお<ruby>集まり<rt>あつまり</rt></ruby>ください",
+      "zh": "请到中央集合",
+      "en": "Please gather around the center."
+    },
+    {
+      "id": 24,
+      "start": 288.11,
+      "end": 295.41,
+      "ts": "04:48.110 -> 04:55.410",
+      "jp": "ええ、本日は3年に一度の武を競う",
+      "jp_html": "ええ、<ruby>本日<rt>ほんじつ</rt></ruby>は3<ruby>年<rt>ねん</rt></ruby>に<ruby>一度<rt>いちど</rt></ruby>の<ruby>武<rt>たけし</rt></ruby>を<ruby>競う<rt>きそう</rt></ruby>",
+      "zh": "是的，今天是每三年一次比武大会的日子",
+      "en": "Yes, today is the day to compete in martial arts every three years."
+    },
+    {
+      "id": 25,
+      "start": 295.41,
+      "end": 298.21,
+      "ts": "04:55.410 -> 04:58.210",
+      "jp": "天下一武道会に",
+      "jp_html": "<ruby>天下一武道会<rt>てんかいちぶどうかい</rt></ruby>に",
+      "zh": "天下一武道大会に",
+      "en": "The Great World Martial Arts Meeting"
+    },
+    {
+      "id": 26,
+      "start": 298.21,
+      "end": 303.87,
+      "ts": "04:58.210 -> 05:03.870",
+      "jp": "はるばるお集まりいただきご苦労様です",
+      "jp_html": "はるばるお<ruby>集まり<rt>あつまり</rt></ruby>いただきご<ruby>苦労様<rt>くろうさま</rt></ruby>です",
+      "zh": "您远道而来，辛苦了",
+      "en": "Thank you for gathering despite the distance and for your hard work."
+    },
+    {
+      "id": 27,
+      "start": 303.87,
+      "end": 314.39,
+      "ts": "05:03.870 -> 05:14.390",
+      "jp": "今回の参加者は72名と、前回に比べかなりの少数となっております。",
+      "jp_html": "<ruby>今回<rt>こんかい</rt></ruby>の<ruby>参加者<rt>さんかしゃ</rt></ruby>は72<ruby>名<rt>めい</rt></ruby>と、<ruby>前回<rt>ぜんかい</rt></ruby>に<ruby>比べ<rt>くらべ</rt></ruby>かなりの<ruby>少数<rt>しょうすう</rt></ruby>となっております。",
+      "zh": "本次参加者有72人，比上次少了很多。",
+      "en": "The number of participants this time is 72, which is quite a few fewer than last time."
+    },
+    {
+      "id": 28,
+      "start": 315.13,
+      "end": 325.36,
+      "ts": "05:15.130 -> 05:25.360",
+      "jp": "これはおそらく前大会があまりにも入ればいいと思われますが、",
+      "jp_html": "これはおそらく<ruby>前<rt>まえ</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>があまりにも<ruby>入れ<rt>いれ</rt></ruby>ばいいと<ruby>思わ<rt>おもわ</rt></ruby>れますが、",
+      "zh": "这可能是因为人们认为上届比赛太容易了。",
+      "en": "This is probably because people think that participating in this tournament will be too easy."
+    },
+    {
+      "id": 29,
+      "start": 325.36,
+      "end": 326.86,
+      "ts": "05:25.360 -> 05:26.860",
+      "jp": "それにしても気になる。",
+      "jp_html": "それにしても<ruby>気に<rt>きに</rt></ruby>なる。",
+      "zh": "毕竟还是忍不住担心。",
+      "en": "Still, it's bothersome."
+    },
+    {
+      "id": 30,
+      "start": 329.58,
+      "end": 334.14,
+      "ts": "05:29.580 -> 05:34.140",
+      "jp": "一体ピッコロの手下がなぜ今頃この武道会にやってきたのか。",
+      "jp_html": "<ruby>一体<rt>いったい</rt></ruby>ピッコロの<ruby>手下<rt>てした</rt></ruby>がなぜ<ruby>今頃<rt>いまごろ</rt></ruby>この<ruby>武道<rt>ぶどう</rt></ruby><ruby>会<rt>かい</rt></ruby>にやってきたのか。",
+      "zh": "为什么一体皮colo的手下现在才来参加这个武道会。",
+      "en": "Why is it that Piccolo's minions only showed up for this martial arts tournament now?"
+    },
+    {
+      "id": 31,
+      "start": 336.18,
+      "end": 339.94,
+      "ts": "05:36.180 -> 05:39.940",
+      "jp": "お客様の方ばかりと言えました。",
+      "jp_html": "お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>ばかりと<ruby>言え<rt>いえ</rt></ruby>ました。",
+      "zh": "客户方说的。",
+      "en": "They said it was all on their side."
+    },
+    {
+      "id": 32,
+      "start": 339.94,
+      "end": 348.58,
+      "ts": "05:39.940 -> 05:48.580",
+      "jp": "すごい人じゃない。",
+      "jp_html": "すごい<ruby>人<rt>にん</rt></ruby>じゃない。",
+      "zh": "他不是个了不起的人。",
+      "en": "He isn't a great person."
+    },
+    {
+      "id": 33,
+      "start": 348.58,
+      "end": 351.42,
+      "ts": "05:48.580 -> 05:51.420",
+      "jp": "まだ予選が終わるまでだいぶかかるわよ。",
+      "jp_html": "まだ<ruby>予選<rt>よせん</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>るまでだいぶかかるわよ。",
+      "zh": "还要过好一阵子预赛才会结束呢。",
+      "en": "It will take quite a while until the preliminary rounds are over."
+    },
+    {
+      "id": 34,
+      "start": 351.42,
+      "end": 366.36,
+      "ts": "05:51.420 -> 06:06.360",
+      "jp": "だから押すんじゃない。押すんじゃないという。",
+      "jp_html": "だから<ruby>押す<rt>おす</rt></ruby>んじゃない。<ruby>押す<rt>おす</rt></ruby>んじゃないという。",
+      "zh": "所以不要按。不要按。",
+      "en": "So don't push. Don't push, that's what it means."
+    },
+    {
+      "id": 35,
+      "start": 366.36,
+      "end": 376.17,
+      "ts": "06:06.360 -> 06:16.170",
+      "jp": "しょうがない、Dさんだな。",
+      "jp_html": "しょうがない、Dさんだな。",
+      "zh": "没办法，是D君啊。",
+      "en": "There's no help for it, D-san."
+    },
+    {
+      "id": 36,
+      "start": 376.17,
+      "end": 381.23,
+      "ts": "06:16.170 -> 06:21.230",
+      "jp": "わざとじゃないのに。",
+      "jp_html": "わざとじゃないのに。",
+      "zh": "不是故意的。",
+      "en": "It wasn't intentional."
+    },
+    {
+      "id": 37,
+      "start": 381.23,
+      "end": 387.1,
+      "ts": "06:21.230 -> 06:27.100",
+      "jp": "ただいまより予選の組み合わせ抽選を行います。",
+      "jp_html": "ただいまより<ruby>予選<rt>よせん</rt></ruby>の<ruby>組み合わせ<rt>くみあわせ</rt></ruby><ruby>抽選<rt>ちゅうせん</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます。",
+      "zh": "现在将进行预选的组别抽签。",
+      "en": "I will now conduct the draw for the preliminary round combinations."
+    },
+    {
+      "id": 38,
+      "start": 387.1,
+      "end": 414.23,
+      "ts": "06:27.100 -> 06:54.230",
+      "jp": "予選でぶつからなければいいんですけど、でもこればっかりはね。",
+      "jp_html": "<ruby>予選<rt>よせん</rt></ruby>でぶつからなければいいんですけど、でもこればっかりはね。",
+      "zh": "如果在预选赛中没有碰到就好了，但这个谁也说不准。",
+      "en": "If we don't collide in the qualifiers, that would be good, but this is out of our hands."
+    },
+    {
+      "id": 39,
+      "start": 414.23,
+      "end": 419.51,
+      "ts": "06:54.230 -> 06:59.510",
+      "jp": "いいな、チャオズ。仲間の番号札はバラバラにするんだ。",
+      "jp_html": "いいな、チャオズ。<ruby>仲間<rt>なかま</rt></ruby>の<ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>さつ</rt></ruby>はバラバラにするんだ。",
+      "zh": "不错，查奥兹。要把同伴的编号牌弄乱。",
+      "en": "It's good, Chaos. You'll scatter your allies' number tags."
+    },
+    {
+      "id": 40,
+      "start": 419.51,
+      "end": 421.51,
+      "ts": "06:59.510 -> 07:01.510",
+      "jp": "奴の違うブロックにしろ。",
+      "jp_html": "<ruby>奴<rt>やつ</rt></ruby>の<ruby>違う<rt>ちがう</rt></ruby>ブロックにしろ。",
+      "zh": "把我的放到不同的区块里。",
+      "en": "Put it in a different block for me."
+    },
+    {
+      "id": 41,
+      "start": 422.51,
+      "end": 423.51,
+      "ts": "07:02.510 -> 07:03.510",
+      "jp": "様子を見たいだ。",
+      "jp_html": "<ruby>様子<rt>ようす</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>いだ。",
+      "zh": "我想看看情况。",
+      "en": "I want to see how it turns out."
+    },
+    {
+      "id": 42,
+      "start": 423.51,
+      "end": 464.53,
+      "ts": "07:03.510 -> 07:44.530",
+      "jp": "2番。1ブロックの最初の試合だ。",
+      "jp_html": "2<ruby>番<rt>ばん</rt></ruby>。1ブロックの<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>だ。",
+      "zh": "第二场。这是第一块区域的第一场比赛。",
+      "en": "2. It's the first match of the block."
+    },
+    {
+      "id": 43,
+      "start": 464.53,
+      "end": 467.53,
+      "ts": "07:44.530 -> 07:47.530",
+      "jp": "俺は2ブロックの前半だ。クリリンは?",
+      "jp_html": "<ruby>俺<rt>おれ</rt></ruby>は2ブロックの<ruby>前半<rt>ぜんはん</rt></ruby>だ。クリリンは?",
+      "zh": "我是前半两块。克林呢？",
+      "en": "I am at the first half of 2 blocks. And Krillin is?"
+    },
+    {
+      "id": 44,
+      "start": 467.53,
+      "end": 469.53,
+      "ts": "07:47.530 -> 07:49.530",
+      "jp": "1ブロックの後半。",
+      "jp_html": "1ブロックの<ruby>後半<rt>こうはん</rt></ruby>。",
+      "zh": "第一块的后半部分。",
+      "en": "The latter part of one block."
+    },
+    {
+      "id": 45,
+      "start": 469.53,
+      "end": 472.53,
+      "ts": "07:49.530 -> 07:52.530",
+      "jp": "俺は2ブロックの後半だ。",
+      "jp_html": "<ruby>俺<rt>おれ</rt></ruby>は2ブロックの<ruby>後半<rt>こうはん</rt></ruby>だ。",
+      "zh": "我在第二街区的后半部分。",
+      "en": "I am in the latter part of two blocks."
+    },
+    {
+      "id": 46,
+      "start": 472.53,
+      "end": 475.53,
+      "ts": "07:52.530 -> 07:55.530",
+      "jp": "チャオズは3ブロックの後半か。",
+      "jp_html": "チャオズは3ブロックの<ruby>後半<rt>こうはん</rt></ruby>か。",
+      "zh": "查兹是在第三块的后半段吗？",
+      "en": "Chaos is in the latter part of block 3."
+    },
+    {
+      "id": 47,
+      "start": 475.53,
+      "end": 478.53,
+      "ts": "07:55.530 -> 07:58.530",
+      "jp": "へえ、みんな見事にバラバラだ。",
+      "jp_html": "へえ、みんな<ruby>見事<rt>みごと</rt></ruby>にバラバラだ。",
+      "zh": "哦，大家果然各不相同。",
+      "en": "Oh, everyone is surprisingly scattered."
+    },
+    {
+      "id": 48,
+      "start": 478.53,
+      "end": 480.53,
+      "ts": "07:58.530 -> 08:00.530",
+      "jp": "仲間同士でやらなくて済むぞ。",
+      "jp_html": "<ruby>仲間同士<rt>なかまどうし</rt></ruby>でやらなくて<ruby>済む<rt>すむ</rt></ruby>ぞ。",
+      "zh": "这样就可以不用互相麻烦了。",
+      "en": "We won't have to do it with our teammates."
+    },
+    {
+      "id": 49,
+      "start": 480.53,
+      "end": 481.53,
+      "ts": "08:00.530 -> 08:01.530",
+      "jp": "良かったな。",
+      "jp_html": "<ruby>良か<rt>よか</rt></ruby>ったな。",
+      "zh": "真好呢。",
+      "en": "It was good, wasn't it?"
+    },
+    {
+      "id": 50,
+      "start": 481.53,
+      "end": 483.33,
+      "ts": "08:01.530 -> 08:03.330",
+      "jp": "すげえ偶然だな",
+      "jp_html": "すげえ<ruby>偶然<rt>ぐうぜん</rt></ruby>だな",
+      "zh": "真是没想到会遇到这种情况呢",
+      "en": "Wow, what a coincidence."
+    },
+    {
+      "id": 51,
+      "start": 483.33,
+      "end": 487.8,
+      "ts": "08:03.330 -> 08:07.800",
+      "jp": "あいつは何ブロックかな",
+      "jp_html": "あいつは<ruby>何<rt>なに</rt></ruby>ブロックかな",
+      "zh": "他有多少个街区远呢",
+      "en": "He/She is how many blocks?"
+    },
+    {
+      "id": 52,
+      "start": 487.8,
+      "end": 493.5,
+      "ts": "08:07.800 -> 08:13.500",
+      "jp": "あの可愛い子ちゃんは",
+      "jp_html": "あの<ruby>可愛い<rt>かわい</rt></ruby><ruby>子<rt>こ</rt></ruby>ちゃんは",
+      "zh": "那个可爱的小孩是",
+      "en": "That cute little one is"
+    },
+    {
+      "id": 53,
+      "start": 493.5,
+      "end": 514.35,
+      "ts": "08:13.500 -> 08:34.350",
+      "jp": "ああみんな揃って決勝トーナメントに残れそうだぞ",
+      "jp_html": "ああみんな<ruby>揃っ<rt>そろっ</rt></ruby>て<ruby>決勝<rt>けっしょう</rt></ruby>トーナメントに<ruby>残れ<rt>のこれ</rt></ruby>そうだぞ",
+      "zh": "啊，看来大家都有可能进入决赛阶段了",
+      "en": "Ah, it looks like everyone will be able to stay in the finals."
+    },
+    {
+      "id": 54,
+      "start": 514.35,
+      "end": 528.51,
+      "ts": "08:34.350 -> 08:48.510",
+      "jp": "一場選手を決定する予選試合を始めます",
+      "jp_html": "<ruby>一場<rt>いちじょう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>する<ruby>予選<rt>よせん</rt></ruby><ruby>試合<rt>しあい</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ます",
+      "zh": "我们将开始一场决定选手的预选赛",
+      "en": "We will start a qualifying match to determine the players."
+    },
+    {
+      "id": 55,
+      "start": 528.51,
+      "end": 531.75,
+      "ts": "08:48.510 -> 08:51.750",
+      "jp": "では1ブロックの予選を行います",
+      "jp_html": "では1ブロックの<ruby>予選<rt>よせん</rt></ruby>を<ruby>行い<rt>おこない</rt></ruby>ます",
+      "zh": "我们将进行一轮预选赛",
+      "en": "We will now conduct one block of the preliminary round."
+    },
+    {
+      "id": 56,
+      "start": 531.75,
+      "end": 533.05,
+      "ts": "08:51.750 -> 08:53.050",
+      "jp": "ルールはご存知ですね",
+      "jp_html": "ルールはご<ruby>存知<rt>ぞんじ</rt></ruby>ですね",
+      "zh": "您知道规则吧？",
+      "en": "You are familiar with the rules, right?"
+    },
+    {
+      "id": 57,
+      "start": 533.05,
+      "end": 537.91,
+      "ts": "08:53.050 -> 08:57.910",
+      "jp": "この競技台から落ちたり気絶したり参ったといえば負けとなります",
+      "jp_html": "この<ruby>競技<rt>きょうぎ</rt></ruby><ruby>台<rt>だい</rt></ruby>から<ruby>落ち<rt>おち</rt></ruby>たり<ruby>気絶<rt>きぜつ</rt></ruby>したり<ruby>参っ<rt>まいっ</rt></ruby>たといえば<ruby>負け<rt>まけ</rt></ruby>となります",
+      "zh": "从这个擂台上掉下来或者昏过去就算输了。",
+      "en": "If you fall off this competition platform or faint, it counts as a loss."
+    },
+    {
+      "id": 58,
+      "start": 537.91,
+      "end": 541.39,
+      "ts": "08:57.910 -> 09:01.390",
+      "jp": "ただし対戦相手を死にいたらしめた場合は",
+      "jp_html": "ただし<ruby>対戦相手<rt>たいせんあいて</rt></ruby>を<ruby>死に<rt>しに</rt></ruby>いたらしめた<ruby>場合<rt>ばあい</rt></ruby>は",
+      "zh": "但是如果把对手打死了的话",
+      "en": "However, if you have brought your opponent to their knees,"
+    },
+    {
+      "id": 59,
+      "start": 541.39,
+      "end": 544.07,
+      "ts": "09:01.390 -> 09:04.070",
+      "jp": "即座に失格となりますので注意してください",
+      "jp_html": "<ruby>即座<rt>そくざ</rt></ruby>に<ruby>失格<rt>しっかく</rt></ruby>となりますので<ruby>注意<rt>ちゅうい</rt></ruby>してください",
+      "zh": "请注意，这将立即导致不合格",
+      "en": "Please note that this will result in disqualification immediately."
+    },
+    {
+      "id": 60,
+      "start": 544.07,
+      "end": 550.07,
+      "ts": "09:04.070 -> 09:10.070",
+      "jp": "では、さっそく1番と2番の方、競技台に上がってください。",
+      "jp_html": "では、さっそく1<ruby>番<rt>ばん</rt></ruby>と2<ruby>番<rt>ばん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>、<ruby>競技<rt>きょうぎ</rt></ruby><ruby>台<rt>だい</rt></ruby>に<ruby>上が<rt>あが</rt></ruby>ってください。",
+      "zh": "请马上让第1位和第2位上比赛台。",
+      "en": "Please have the first and second contestants come up to the stage right away."
+    },
+    {
+      "id": 61,
+      "start": 550.07,
+      "end": 551.07,
+      "ts": "09:10.070 -> 09:11.070",
+      "jp": "オラだ。",
+      "jp_html": "オラだ。",
+      "zh": "我是我。",
+      "en": "I'm here."
+    },
+    {
+      "id": 62,
+      "start": 551.07,
+      "end": 555.07,
+      "ts": "09:11.070 -> 09:15.070",
+      "jp": "悟空、神様の修行の成果、見せてもらうぞ。",
+      "jp_html": "<ruby>悟空<rt>ごくう</rt></ruby>、<ruby>神様<rt>かみさま</rt></ruby>の<ruby>修行<rt>しゅぎょう</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>、<ruby>見せ<rt>みせ</rt></ruby>てもらうぞ。",
+      "zh": "悟空，神仙的修炼成果，让我看看。",
+      "en": "Monkey King, let me see the results of your deity's training."
+    },
+    {
+      "id": 63,
+      "start": 555.07,
+      "end": 560.07,
+      "ts": "09:15.070 -> 09:20.070",
+      "jp": "さて、悟空のやつ、どれほど腕を上げたか見物だな。",
+      "jp_html": "さて、<ruby>悟空<rt>ごくう</rt></ruby>のやつ、どれほど<ruby>腕<rt>うで</rt></ruby>を<ruby>上げ<rt>あげ</rt></ruby>たか<ruby>見物<rt>けんぶつ</rt></ruby>だな。",
+      "zh": "好了，看看那个悟空把手臂抬高到了什么程度吧。",
+      "en": "Well, let's see how high Vegeta raised his arms."
+    },
+    {
+      "id": 64,
+      "start": 560.07,
+      "end": 566.08,
+      "ts": "09:20.070 -> 09:26.080",
+      "jp": "やっぱり気になるでしょう。",
+      "jp_html": "やっぱり<ruby>気に<rt>きに</rt></ruby>なるでしょう。",
+      "zh": "果然会关心吧。",
+      "en": "Of course you're curious."
+    },
+    {
+      "id": 65,
+      "start": 599.28,
+      "end": 603.28,
+      "ts": "09:59.280 -> 10:03.280",
+      "jp": "おい、見ろよ。あいつは確か、チャパ王だ。",
+      "jp_html": "おい、<ruby>見ろ<rt>みろ</rt></ruby>よ。あいつは<ruby>確か<rt>たしか</rt></ruby>、チャパ<ruby>王<rt>おう</rt></ruby>だ。",
+      "zh": "喂，看吧。那个家伙就是chap王。",
+      "en": "Hey, look. He's definitely King Chap."
+    },
+    {
+      "id": 66,
+      "start": 604.28,
+      "end": 607.28,
+      "ts": "10:04.280 -> 10:07.280",
+      "jp": "見てくださいよ。またチャパ王だ。",
+      "jp_html": "<ruby>見て<rt>みて</rt></ruby>くださいよ。またチャパ<ruby>王<rt>おう</rt></ruby>だ。",
+      "zh": "请看，又是查帕王。",
+      "en": "Look, it's Chap King again."
+    },
+    {
+      "id": 67,
+      "start": 607.28,
+      "end": 611.68,
+      "ts": "10:07.280 -> 10:11.680",
+      "jp": "またもや最初の試合が貴様とはな",
+      "jp_html": "またもや<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>試合<rt>しあい</rt></ruby>が<ruby>貴様<rt>きさま</rt></ruby>とはな",
+      "zh": "又是第一场就和你打",
+      "en": "Again, the first match is with you."
+    },
+    {
+      "id": 68,
+      "start": 611.68,
+      "end": 613.94,
+      "ts": "10:11.680 -> 10:13.940",
+      "jp": "まあよかろう",
+      "jp_html": "まあよかろう",
+      "zh": "好吧",
+      "en": "Well, let's do it then."
+    },
+    {
+      "id": 69,
+      "start": 613.94,
+      "end": 619.28,
+      "ts": "10:13.940 -> 10:19.280",
+      "jp": "前回の雪辱を晴らすという意味では絶好の相手ではある",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>雪辱<rt>せつじょく</rt></ruby>を<ruby>晴ら<rt>はら</rt></ruby>すという<ruby>意味<rt>いみ</rt></ruby>では<ruby>絶好<rt>ぜっこう</rt></ruby>の<ruby>相手<rt>あいて</rt></ruby>ではある",
+      "zh": "上次的耻辱在这里终于可以雪洗了",
+      "en": "In terms of avenging the previous defeat, they are an absolutely ideal opponent."
+    },
+    {
+      "id": 70,
+      "start": 619.28,
+      "end": 627.4,
+      "ts": "10:19.280 -> 10:27.400",
+      "jp": "天下一武道会の栄光ある優勝経験者の名にかけて",
+      "jp_html": "<ruby>天下一武道会<rt>てんかいちぶどうかい</rt></ruby>の<ruby>栄光<rt>えいこう</rt></ruby>ある<ruby>優勝<rt>ゆうしょう</rt></ruby><ruby>経験者<rt>けいけんしゃ</rt></ruby>の<ruby>名<rt>めい</rt></ruby>にかけて",
+      "zh": "为了天下一武道会光荣的优胜者的名义",
+      "en": "By the glory of the victors in the renowned Tenkaichi Budokai"
+    },
+    {
+      "id": 71,
+      "start": 627.4,
+      "end": 630.62,
+      "ts": "10:27.400 -> 10:30.620",
+      "jp": "お前を倒してやる",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>を<ruby>倒し<rt>たおし</rt></ruby>てやる",
+      "zh": "把你打倒了",
+      "en": "I'll defeat you."
+    },
+    {
+      "id": 72,
+      "start": 630.62,
+      "end": 650.96,
+      "ts": "10:30.620 -> 10:50.960",
+      "jp": "おい、あいつこの前準優勝したやつじゃねえか?",
+      "jp_html": "おい、あいつこの<ruby>前<rt>まえ</rt></ruby><ruby>準優勝<rt>じゅんゆうしょう</rt></ruby>したやつじゃねえか?",
+      "zh": "喂，不是他上次获得了亚军吗？",
+      "en": "Hey, isn't that guy the one who came in second last time?"
+    },
+    {
+      "id": 73,
+      "start": 650.96,
+      "end": 654.14,
+      "ts": "10:50.960 -> 10:54.140",
+      "jp": "そうだぜ、亀仙流のユニフォームだ",
+      "jp_html": "そうだぜ、<ruby>亀<rt>かめ</rt></ruby><ruby>仙<rt>せん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>のユニフォームだ",
+      "zh": "对，是龟仙流的制服",
+      "en": "Yeah, it's the龟仙流uniform"
+    },
+    {
+      "id": 74,
+      "start": 654.14,
+      "end": 656.44,
+      "ts": "10:54.140 -> 10:56.440",
+      "jp": "大きくなりやがったな",
+      "jp_html": "<ruby>大きく<rt>おおきく</rt></ruby>なりやがったな",
+      "zh": "你这家伙长大啦啊",
+      "en": "You've gotten big, haven't you?"
+    },
+    {
+      "id": 75,
+      "start": 656.44,
+      "end": 660.54,
+      "ts": "10:56.440 -> 11:00.540",
+      "jp": "二度続けて対戦とは、チャパ王も運が悪すぎるぜ",
+      "jp_html": "<ruby>二度<rt>にど</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>て<ruby>対戦<rt>たいせん</rt></ruby>とは、チャパ<ruby>王<rt>おう</rt></ruby>も<ruby>運<rt>うん</rt></ruby>が<ruby>悪す<rt>わるす</rt></ruby>ぎるぜ",
+      "zh": "连续两次对决，查帕王也太背运了",
+      "en": "Consecutive fights against him? Even the King Chapa is just plain unlucky."
+    },
+    {
+      "id": 76,
+      "start": 660.54,
+      "end": 666.68,
+      "ts": "11:00.540 -> 11:06.680",
+      "jp": "運が悪かったのは孫悟空、お前の方だ",
+      "jp_html": "<ruby>運<rt>うん</rt></ruby>が<ruby>悪か<rt>わるか</rt></ruby>ったのは<ruby>孫悟空<rt>そんごくう</rt></ruby>、お<ruby>前<rt>まえ</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>だ",
+      "zh": "倒霉的是孙悟空，你才是",
+      "en": "It was unlucky for Sun Wukong, not you."
+    },
+    {
+      "id": 77,
+      "start": 666.68,
+      "end": 671.06,
+      "ts": "11:06.680 -> 11:11.060",
+      "jp": "はじめてください",
+      "jp_html": "はじめてください",
+      "zh": "请开始",
+      "en": "Please start."
+    },
+    {
+      "id": 78,
+      "start": 671.06,
+      "end": 691.25,
+      "ts": "11:11.060 -> 11:31.250",
+      "jp": "わしがどれほどの修行を積んできたか、とくと見せてやる",
+      "jp_html": "わしがどれほどの<ruby>修行<rt>しゅぎょう</rt></ruby>を<ruby>積ん<rt>つん</rt></ruby>できたか、とくと<ruby>見せ<rt>みせ</rt></ruby>てやる",
+      "zh": "我修炼了多少，你好好看看吧",
+      "en": "Let me show you just how much training I have undergone."
+    },
+    {
+      "id": 79,
+      "start": 691.25,
+      "end": 711.86,
+      "ts": "11:31.250 -> 11:51.860",
+      "jp": "それが構えか、ふざけおって、ブドウをなめると痛い目にあうぞ",
+      "jp_html": "それが<ruby>構え<rt>かまえ</rt></ruby>か、ふざけおって、ブドウをなめると<ruby>痛い<rt>いたい</rt></ruby><ruby>目に<rt>めに</rt></ruby>あうぞ",
+      "zh": "那是架势吧，别胡来，嚼葡萄会吃苦头的",
+      "en": "That's a warning stance, messing around, you'll get a painful surprise if you lick the grapes."
+    },
+    {
+      "id": 80,
+      "start": 712.72,
+      "end": 715.32,
+      "ts": "11:52.720 -> 11:55.320",
+      "jp": "悟空の気配がまるで感じられん",
+      "jp_html": "<ruby>悟空<rt>ごくう</rt></ruby>の<ruby>気配<rt>けはい</rt></ruby>がまるで<ruby>感じ<rt>かんじ</rt></ruby>られん",
+      "zh": "悟空的气息完全感觉不到了",
+      "en": "I can't sense Monkey King's presence at all."
+    },
+    {
+      "id": 81,
+      "start": 715.32,
+      "end": 718.08,
+      "ts": "11:55.320 -> 11:58.080",
+      "jp": "完全に無になっている",
+      "jp_html": "<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>無<rt>む</rt></ruby>になっている",
+      "zh": "完全消失",
+      "en": "Completely gone"
+    },
+    {
+      "id": 82,
+      "start": 718.08,
+      "end": 720.56,
+      "ts": "11:58.080 -> 12:00.560",
+      "jp": "それに気づかんようでは",
+      "jp_html": "それに<ruby>気づ<rt>きづ</rt></ruby>かんようでは",
+      "zh": "若不察觉",
+      "en": "If you don't notice that..."
+    },
+    {
+      "id": 83,
+      "start": 720.56,
+      "end": 722.32,
+      "ts": "12:00.560 -> 12:02.320",
+      "jp": "チャパオは勝てん",
+      "jp_html": "チャパオは<ruby>勝て<rt>かて</rt></ruby>ん",
+      "zh": "チャパオ是赢不了的",
+      "en": "Chapaoh won't win."
+    },
+    {
+      "id": 84,
+      "start": 722.32,
+      "end": 724.26,
+      "ts": "12:02.320 -> 12:04.260",
+      "jp": "すげえな",
+      "jp_html": "すげえな",
+      "zh": "厉害呢",
+      "en": "Wow, that's amazing!"
+    },
+    {
+      "id": 85,
+      "start": 724.26,
+      "end": 725.96,
+      "ts": "12:04.260 -> 12:05.960",
+      "jp": "悟空",
+      "jp_html": "<ruby>悟空<rt>ごくう</rt></ruby>",
+      "zh": "悟空",
+      "en": "Sun Wukong"
+    },
+    {
+      "id": 86,
+      "start": 725.96,
+      "end": 765.06,
+      "ts": "12:05.960 -> 12:45.060",
+      "jp": "わーちです",
+      "jp_html": "わーちです",
+      "zh": "wartéis",
+      "en": "wachisudesu"
+    },
+    {
+      "id": 87,
+      "start": 765.06,
+      "end": 770.53,
+      "ts": "12:45.060 -> 12:50.530",
+      "jp": "チャパオたった一発で",
+      "jp_html": "チャパオたった<ruby>一発<rt>いっぱつ</rt></ruby>で",
+      "zh": "脆脆一击",
+      "en": "Chapao with just one hit"
+    },
+    {
+      "id": 88,
+      "start": 770.53,
+      "end": 771.99,
+      "ts": "12:50.530 -> 12:51.990",
+      "jp": "すげえ",
+      "jp_html": "すげえ",
+      "zh": "厉害",
+      "en": "Wow"
+    },
+    {
+      "id": 89,
+      "start": 771.99,
+      "end": 775.54,
+      "ts": "12:51.990 -> 12:55.540",
+      "jp": "ブアルみんなに知らせてこようぜ",
+      "jp_html": "ブアルみんなに<ruby>知らせ<rt>しらせ</rt></ruby>てこようぜ",
+      "zh": "布瓦让 everyone 知道吧",
+      "en": "Let me tell everyone about the buroo."
+    },
+    {
+      "id": 90,
+      "start": 775.54,
+      "end": 776.88,
+      "ts": "12:55.540 -> 12:56.880",
+      "jp": "悟空のやつ",
+      "jp_html": "<ruby>悟空<rt>ごくう</rt></ruby>のやつ",
+      "zh": "悟空的那个",
+      "en": "The one named Monkey Wang"
+    },
+    {
+      "id": 91,
+      "start": 776.88,
+      "end": 779.14,
+      "ts": "12:56.880 -> 12:59.140",
+      "jp": "まるで本気を出していないな",
+      "jp_html": "まるで<ruby>本気<rt>ほんき</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ていないな",
+      "zh": "好像不是在认真哦",
+      "en": "You don't seem serious at all."
+    },
+    {
+      "id": 92,
+      "start": 779.14,
+      "end": 780.5,
+      "ts": "12:59.140 -> 13:00.500",
+      "jp": "あいつ",
+      "jp_html": "あいつ",
+      "zh": "那个家伙",
+      "en": "He/she/that (informal)"
+    },
+    {
+      "id": 93,
+      "start": 780.5,
+      "end": 782.16,
+      "ts": "13:00.500 -> 13:02.160",
+      "jp": "なんていうか",
+      "jp_html": "なんていうか",
+      "zh": "怎么说呢",
+      "en": "It's kind of like"
+    },
+    {
+      "id": 94,
+      "start": 782.16,
+      "end": 784.82,
+      "ts": "13:02.160 -> 13:04.820",
+      "jp": "すごく落ち着いた感じがする",
+      "jp_html": "すごく<ruby>落ち着い<rt>おちつい</rt></ruby>た<ruby>感じ<rt>かんじ</rt></ruby>がする",
+      "zh": "感觉非常平静",
+      "en": "It feels very calm."
+    },
+    {
+      "id": 95,
+      "start": 784.82,
+      "end": 788.92,
+      "ts": "13:04.820 -> 13:08.920",
+      "jp": "確かに",
+      "jp_html": "<ruby>確かに<rt>たしかに</rt></ruby>",
+      "zh": "确实",
+      "en": "Indeed"
+    },
+    {
+      "id": 96,
+      "start": 788.92,
+      "end": 792.96,
+      "ts": "13:08.920 -> 13:12.960",
+      "jp": "奴の実力はまだまだあんなものではない",
+      "jp_html": "<ruby>奴<rt>やつ</rt></ruby>の<ruby>実力<rt>じつりょく</rt></ruby>はまだまだあんなものではない",
+      "zh": "我的实力还远不是那样的东西",
+      "en": "My true strength is still not that kind of thing."
+    },
+    {
+      "id": 97,
+      "start": 792.96,
+      "end": 795.18,
+      "ts": "13:12.960 -> 13:15.180",
+      "jp": "しかし",
+      "jp_html": "しかし",
+      "zh": "然而",
+      "en": "However"
+    },
+    {
+      "id": 98,
+      "start": 795.18,
+      "end": 799.88,
+      "ts": "13:15.180 -> 13:19.880",
+      "jp": "あの動きでは到底この俺に勝つことは不可能だ",
+      "jp_html": "あの<ruby>動き<rt>うごき</rt></ruby>では<ruby>到底<rt>とうてい</rt></ruby>この<ruby>俺<rt>おれ</rt></ruby>に<ruby>勝つ<rt>かつ</rt></ruby>ことは<ruby>不可能<rt>ふかのう</rt></ruby>だ",
+      "zh": "那个动作绝对不可能赢过我",
+      "en": "With that move, it's impossible for me to lose to him/her."
+    },
+    {
+      "id": 99,
+      "start": 799.88,
+      "end": 803.16,
+      "ts": "13:19.880 -> 13:23.160",
+      "jp": "大勢が見てる前で八つ先にしてやるぜ",
+      "jp_html": "<ruby>大勢<rt>おおぜい</rt></ruby>が<ruby>見て<rt>みて</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>で<ruby>八つ<rt>やつ</rt></ruby><ruby>先に<rt>さきに</rt></ruby>してやるぜ",
+      "zh": "众目睽睽之下我偏要八竿子打不着",
+      "en": "I'll show it to you in front of all these people, eight steps ahead."
+    },
+    {
+      "id": 100,
+      "start": 803.16,
+      "end": 806.76,
+      "ts": "13:23.160 -> 13:26.760",
+      "jp": "楽しみに待ってろ",
+      "jp_html": "<ruby>楽しみ<rt>たのしみ</rt></ruby>に<ruby>待っ<rt>まっ</rt></ruby>てろ",
+      "zh": "等着享受吧",
+      "en": "Wait excitedly"
+    },
+    {
+      "id": 101,
+      "start": 806.76,
+      "end": 888.86,
+      "ts": "13:26.760 -> 14:48.860",
+      "jp": "しっかりしろ!",
+      "jp_html": "しっかりしろ!",
+      "zh": "振作一点！",
+      "en": "Snap out of it!"
+    },
+    {
+      "id": 102,
+      "start": 888.86,
+      "end": 896.03,
+      "ts": "14:48.860 -> 14:56.030",
+      "jp": "ジャンス!",
+      "jp_html": "ジャンス!",
+      "zh": "加油！",
+      "en": "Jans!"
+    },
+    {
+      "id": 103,
+      "start": 899.63,
+      "end": 902.83,
+      "ts": "14:59.630 -> 15:02.830",
+      "jp": "辛うじて生かしておいてやったぞ",
+      "jp_html": "<ruby>辛う<rt>かろう</rt></ruby>じて<ruby>生か<rt>いか</rt></ruby>しておいてやったぞ",
+      "zh": "你还算是侥幸被留了下来。",
+      "en": "I kept you alive just barely, you know."
+    },
+    {
+      "id": 104,
+      "start": 902.83,
+      "end": 905.63,
+      "ts": "15:02.830 -> 15:05.630",
+      "jp": "殺してしまっては失格らしいからな",
+      "jp_html": "<ruby>殺し<rt>ころし</rt></ruby>てしまっては<ruby>失格<rt>しっかく</rt></ruby>らしいからな",
+      "zh": "据说那样做就不合格了",
+      "en": "It seems that killing would disqualify me, doesn't it?"
+    },
+    {
+      "id": 105,
+      "start": 906.33,
+      "end": 908.03,
+      "ts": "15:06.330 -> 15:08.030",
+      "jp": "な、なんだと?",
+      "jp_html": "な、なんだと?",
+      "zh": "什么？",
+      "en": "What?"
+    },
+    {
+      "id": 106,
+      "start": 909.13,
+      "end": 915.68,
+      "ts": "15:09.130 -> 15:15.680",
+      "jp": "久しぶりだな、天心犯",
+      "jp_html": "<ruby>久し<rt>ひさし</rt></ruby>ぶりだな、<ruby>天心<rt>てんしん</rt></ruby><ruby>犯<rt>はん</rt></ruby>",
+      "zh": "好久不见，天心犯",
+      "en": "It's been a while, Heavenly Offender."
+    },
+    {
+      "id": 107,
+      "start": 918.76,
+      "end": 922.26,
+      "ts": "15:18.760 -> 15:22.260",
+      "jp": "それから、孫悟空だったかな?",
+      "jp_html": "それから、<ruby>孫悟空<rt>そんごくう</rt></ruby>だったかな?",
+      "zh": "然后是孙悟空吧？",
+      "en": "Was it about Son Goku then?"
+    },
+    {
+      "id": 108,
+      "start": 924.94,
+      "end": 926.44,
+      "ts": "15:24.940 -> 15:26.440",
+      "jp": "誰だ、おめえ",
+      "jp_html": "<ruby>誰<rt>だれ</rt></ruby>だ、おめえ",
+      "zh": "你是谁，你",
+      "en": "Who are you, you guy?"
+    },
+    {
+      "id": 109,
+      "start": 946.56,
+      "end": 949.26,
+      "ts": "15:46.560 -> 15:49.260",
+      "jp": "そういうこと、気がついたか?",
+      "jp_html": "そういうこと、<ruby>気が<rt>きが</rt></ruby>ついたか?",
+      "zh": "这么说，你意识到这一点了？",
+      "en": "Oh, did you notice that?"
+    },
+    {
+      "id": 110,
+      "start": 951.17,
+      "end": 954.17,
+      "ts": "15:51.170 -> 15:54.170",
+      "jp": "ドーパイパイ、死んだのでは?",
+      "jp_html": "ドーパイパイ、<ruby>死ん<rt>しん</rt></ruby>だのでは?",
+      "zh": "dopeipai，死了吗?",
+      "en": "Dopai-pai, did you die?"
+    },
+    {
+      "id": 111,
+      "start": 954.87,
+      "end": 955.77,
+      "ts": "15:54.870 -> 15:55.770",
+      "jp": "ふざけるな",
+      "jp_html": "ふざけるな",
+      "zh": "别开玩笑了",
+      "en": "Don't mess with me"
+    },
+    {
+      "id": 112,
+      "start": 955.77,
+      "end": 959.61,
+      "ts": "15:55.770 -> 15:59.610",
+      "jp": "この俺様がそうやすやすと死んでたまるか",
+      "jp_html": "この<ruby>俺様<rt>おれさま</rt></ruby>がそうやすやすと<ruby>死ん<rt>しん</rt></ruby>でたまるか",
+      "zh": "这个我怎么会轻易 die 呢",
+      "en": "How can this lordly me just easily die?"
+    },
+    {
+      "id": 113,
+      "start": 960.23,
+      "end": 963.37,
+      "ts": "16:00.230 -> 16:03.370",
+      "jp": "とはいえ、かなりひどい目にあったからな",
+      "jp_html": "とはいえ、かなりひどい<ruby>目に<rt>めに</rt></ruby>あったからな",
+      "zh": "毕竟，我可没少吃苦头呢",
+      "en": "After all, I had quite a rough time of it."
+    },
+    {
+      "id": 114,
+      "start": 964.57,
+      "end": 969.07,
+      "ts": "16:04.570 -> 16:09.070",
+      "jp": "ふん、復活するのにかなりの時間がかかった",
+      "jp_html": "ふん、<ruby>復活<rt>ふっかつ</rt></ruby>するのにかなりの<ruby>時間<rt>じかん</rt></ruby>がかかった",
+      "zh": "哼，复出可真花了很长时间",
+      "en": "Hmph, it took quite a lot of time to make a comeback."
+    },
+    {
+      "id": 115,
+      "start": 969.37,
+      "end": 972.27,
+      "ts": "16:09.370 -> 16:12.270",
+      "jp": "あ、あの、どいてもらえませんか?",
+      "jp_html": "あ、あの、どいてもらえませんか?",
+      "zh": "哎，那个，请让一下可以吗？",
+      "en": "Oh, um, could you step aside, please?"
+    },
+    {
+      "id": 116,
+      "start": 972.27,
+      "end": 974.27,
+      "ts": "16:12.270 -> 16:14.270",
+      "jp": "次の試合ができませんから",
+      "jp_html": "<ruby>次の<rt>つぎの</rt></ruby><ruby>試合<rt>しあい</rt></ruby>ができませんから",
+      "zh": "下一个比赛不能参加了",
+      "en": "I cannot play in the next match."
+    },
+    {
+      "id": 117,
+      "start": 974.97,
+      "end": 980.02,
+      "ts": "16:14.970 -> 16:20.020",
+      "jp": "かあ、ガタガタ抜かすんじゃない",
+      "jp_html": "かあ、ガタガタ<ruby>抜か<rt>ぬか</rt></ruby>すんじゃない",
+      "zh": "妈，别摇我",
+      "en": "Mom, don't shake me violently."
+    },
+    {
+      "id": 118,
+      "start": 981.12,
+      "end": 982.92,
+      "ts": "16:21.120 -> 16:22.920",
+      "jp": "早死にしたくなかろうが",
+      "jp_html": "<ruby>早死<rt>はやじに</rt></ruby>にしたくなかろうが",
+      "zh": "宁愿早点死掉也不愿意",
+      "en": "You don't want to die early, right?"
+    },
+    {
+      "id": 119,
+      "start": 982.92,
+      "end": 985.5,
+      "ts": "16:22.920 -> 16:25.500",
+      "jp": "あ!あ!あ!あ!あ!",
+      "jp_html": "あ!あ!あ!あ!あ!",
+      "zh": "啊！啊！啊！啊！啊！",
+      "en": "Ah! Ah! Ah! Ah! Ah!"
+    },
+    {
+      "id": 120,
+      "start": 985.5,
+      "end": 988.8,
+      "ts": "16:25.500 -> 16:28.800",
+      "jp": "悟空 何者だあいつ",
+      "jp_html": "<ruby>悟空<rt>ごくう</rt></ruby> <ruby>何者<rt>なにもの</rt></ruby>だあいつ",
+      "zh": "悟空 是谁啊那个",
+      "en": "What is Goku?"
+    },
+    {
+      "id": 121,
+      "start": 988.8,
+      "end": 990.72,
+      "ts": "16:28.800 -> 16:30.720",
+      "jp": "タオパイパイって 殺し屋だ",
+      "jp_html": "タオパイパイって <ruby>殺し屋<rt>ころしや</rt></ruby>だ",
+      "zh": "涛派paipai的都是杀手",
+      "en": "Tao Baibai is a hitman."
+    },
+    {
+      "id": 122,
+      "start": 990.72,
+      "end": 992.14,
+      "ts": "16:30.720 -> 16:32.140",
+      "jp": "殺し屋?",
+      "jp_html": "<ruby>殺し屋<rt>ころしや</rt></ruby>?",
+      "zh": "杀手?",
+      "en": "Assassin?"
+    },
+    {
+      "id": 123,
+      "start": 992.14,
+      "end": 995.36,
+      "ts": "16:32.140 -> 16:35.360",
+      "jp": "そんでもって 鶴仙人の弟らしい",
+      "jp_html": "そんでもって <ruby>鶴仙<rt>つるせん</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>らしい",
+      "zh": "据说鹤仙人的弟弟也是",
+      "en": "And apparently, he is like the brother of the Crane Immortal."
+    },
+    {
+      "id": 124,
+      "start": 995.36,
+      "end": 996.06,
+      "ts": "16:35.360 -> 16:36.060",
+      "jp": "え?",
+      "jp_html": "え?",
+      "zh": "嗯？",
+      "en": "Oh?"
+    },
+    {
+      "id": 125,
+      "start": 996.06,
+      "end": 999.26,
+      "ts": "16:36.060 -> 16:39.260",
+      "jp": "ってことは 天心班とチャオズの",
+      "jp_html": "ってことは <ruby>天心<rt>てんしん</rt></ruby><ruby>班<rt>はん</rt></ruby>とチャオズの",
+      "zh": "那也就是说 天心班和chaos的",
+      "en": "That means Tianxin Company and Chaos's"
+    },
+    {
+      "id": 126,
+      "start": 999.26,
+      "end": 1001.64,
+      "ts": "16:39.260 -> 16:41.640",
+      "jp": "元先輩ってことになるのかな",
+      "jp_html": "<ruby>元<rt>もと</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>ってことになるのかな",
+      "zh": "元前辈会成为这样的人吗？",
+      "en": "So it will be Senior Yuan, right?"
+    },
+    {
+      "id": 127,
+      "start": 1001.64,
+      "end": 1004.14,
+      "ts": "16:41.640 -> 16:44.140",
+      "jp": "な なんだと?",
+      "jp_html": "な なんだと?",
+      "zh": "什么？",
+      "en": "What is it?"
+    },
+    {
+      "id": 128,
+      "start": 1004.14,
+      "end": 1007.94,
+      "ts": "16:44.140 -> 16:47.940",
+      "jp": "オラが 倒したはずだったのにな",
+      "jp_html": "オラが <ruby>倒し<rt>たおし</rt></ruby>たはずだったのにな",
+      "zh": "我本该打败它们的",
+      "en": "I should have defeated them."
+    },
+    {
+      "id": 129,
+      "start": 1007.94,
+      "end": 1012.54,
+      "ts": "16:47.940 -> 16:52.540",
+      "jp": "お前のおかげで 細胞具化して 復活するのに",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>のおかげで <ruby>細胞<rt>さいぼう</rt></ruby><ruby>具<rt>ぐ</rt></ruby><ruby>化し<rt>かし</rt></ruby>て <ruby>復活<rt>ふっかつ</rt></ruby>するのに",
+      "zh": "因为你让我细胞激活从而复活了",
+      "en": "Thanks to you, I'm regenerating and复活了。"
+    },
+    {
+      "id": 130,
+      "start": 1012.54,
+      "end": 1016.54,
+      "ts": "16:52.540 -> 16:56.540",
+      "jp": "それまで稼いだ金を全て使ってしまったぞ",
+      "jp_html": "それまで<ruby>稼い<rt>かせい</rt></ruby>だ<ruby>金<rt>きん</rt></ruby>を<ruby>全て<rt>すべて</rt></ruby><ruby>使って<rt>つかって</rt></ruby>しまったぞ",
+      "zh": "我把之前赚的所有钱都花光了",
+      "en": "I've spent all the money I earned so far."
+    },
+    {
+      "id": 131,
+      "start": 1016.54,
+      "end": 1018.54,
+      "ts": "16:56.540 -> 16:58.540",
+      "jp": "サイボーグ",
+      "jp_html": "サイボーグ",
+      "zh": "赛博格",
+      "en": "cyborg"
+    },
+    {
+      "id": 132,
+      "start": 1018.54,
+      "end": 1021.04,
+      "ts": "16:58.540 -> 17:01.040",
+      "jp": "ソンゴクとやら",
+      "jp_html": "ソンゴクとやら",
+      "zh": "孙悟空和那家伙",
+      "en": "Son Goku and such"
+    },
+    {
+      "id": 133,
+      "start": 1021.04,
+      "end": 1025.54,
+      "ts": "17:01.040 -> 17:05.540",
+      "jp": "この俺様と戦うまでは 敗れるでないぞ",
+      "jp_html": "この<ruby>俺様<rt>おれさま</rt></ruby>と<ruby>戦う<rt>たたかう</rt></ruby>までは <ruby>敗れ<rt>やぶれ</rt></ruby>るでないぞ",
+      "zh": "和我这个自大者战斗还不会输呢",
+      "en": "Defeat me in battle against this self-proclaimed hero, and you won't lose."
+    },
+    {
+      "id": 134,
+      "start": 1025.54,
+      "end": 1030.34,
+      "ts": "17:05.540 -> 17:10.340",
+      "jp": "もちろん この俺は 優勝なんぞ 興味はない",
+      "jp_html": "もちろん この<ruby>俺<rt>おれ</rt></ruby>は <ruby>優勝<rt>ゆうしょう</rt></ruby>なんぞ <ruby>興味<rt>きょうみ</rt></ruby>はない",
+      "zh": "当然 这个我 对夺冠什么的 没兴趣",
+      "en": "Of course, this me isn't interested in winning anything anyway."
+    },
+    {
+      "id": 135,
+      "start": 1030.34,
+      "end": 1034.14,
+      "ts": "17:10.340 -> 17:14.140",
+      "jp": "貴様の命をもらうのが目的だ",
+      "jp_html": "<ruby>貴様<rt>きさま</rt></ruby>の<ruby>命<rt>いのち</rt></ruby>をもらうのが<ruby>目的<rt>もくてき</rt></ruby>だ",
+      "zh": "你的生命就是我的目标。",
+      "en": "My goal is to take your life."
+    },
+    {
+      "id": 136,
+      "start": 1034.14,
+      "end": 1037.14,
+      "ts": "17:14.140 -> 17:17.140",
+      "jp": "その後は貴様だぞ 天心藩",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>は<ruby>貴様<rt>きさま</rt></ruby>だぞ <ruby>天心<rt>てんしん</rt></ruby><ruby>藩<rt>はん</rt></ruby>",
+      "zh": "之后就是你了 天心藩",
+      "en": "After that, it's you, Heaven Heart Fief."
+    },
+    {
+      "id": 137,
+      "start": 1037.14,
+      "end": 1040.74,
+      "ts": "17:17.140 -> 17:20.740",
+      "jp": "亀仙龍なんぞに 寝返ったそうだな",
+      "jp_html": "<ruby>亀<rt>かめ</rt></ruby><ruby>仙<rt>せん</rt></ruby><ruby>龍<rt>りゅう</rt></ruby>なんぞに <ruby>寝<rt>ね</rt></ruby><ruby>返っ<rt>かえっ</rt></ruby>たそうだな",
+      "zh": "据说龟仙人翻了个身呢",
+      "en": "They say it flipped over like a tortoise or a dragon."
+    },
+    {
+      "id": 138,
+      "start": 1040.74,
+      "end": 1043.74,
+      "ts": "17:20.740 -> 17:23.740",
+      "jp": "ふんっ、裏切り者め。",
+      "jp_html": "ふんっ、<ruby>裏切り<rt>うらぎり</rt></ruby><ruby>者<rt>もの</rt></ruby>め。",
+      "zh": "哼，叛徒。",
+      "en": "Hmph, traitor."
+    },
+    {
+      "id": 139,
+      "start": 1043.74,
+      "end": 1047.74,
+      "ts": "17:23.740 -> 17:27.740",
+      "jp": "俺は亀仙流になったわけではありません。",
+      "jp_html": "<ruby>俺<rt>おれ</rt></ruby>は<ruby>亀<rt>かめ</rt></ruby><ruby>仙<rt>せん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>になったわけではありません。",
+      "zh": "我并不是龟仙流的。",
+      "en": "I did not become a Turtle Hermit style."
+    },
+    {
+      "id": 140,
+      "start": 1047.74,
+      "end": 1055.31,
+      "ts": "17:27.740 -> 17:35.310",
+      "jp": "あなたたちの推しは間違っていたのではないかと。",
+      "jp_html": "あなたたちの<ruby>推し<rt>おし</rt></ruby>は<ruby>間違っ<rt>まちがっ</rt></ruby>ていたのではないかと。",
+      "zh": "你们的推宠可能是错的吧。",
+      "en": "Maybe your favorite was wrong."
+    },
+    {
+      "id": 141,
+      "start": 1055.31,
+      "end": 1064.34,
+      "ts": "17:35.310 -> 17:44.340",
+      "jp": "ふーん、首を洗って待ってろ。",
+      "jp_html": "ふーん、<ruby>首<rt>くび</rt></ruby>を<ruby>洗っ<rt>あらっ</rt></ruby>て<ruby>待っ<rt>まっ</rt></ruby>てろ。",
+      "zh": "嗯哼，洗洗头发等着吧。",
+      "en": "Hm, wash your neck and wait."
+    },
+    {
+      "id": 142,
+      "start": 1064.34,
+      "end": 1069.34,
+      "ts": "17:44.340 -> 17:49.340",
+      "jp": "いいでしょう。戦いますよ。チャオズの分まで。",
+      "jp_html": "いいでしょう。<ruby>戦い<rt>たたかい</rt></ruby>ますよ。チャオズの<ruby>分<rt>ふん</rt></ruby>まで。",
+      "zh": "好吧。我会战斗的。为了查奥兹。",
+      "en": "It'll be fine. I'll fight. For Chaoz's share."
+    },
+    {
+      "id": 143,
+      "start": 1069.34,
+      "end": 1079.28,
+      "ts": "17:49.340 -> 17:59.280",
+      "jp": "ふん、ああ、相変わらずうぬぼれの強い奴だ。楽しみにしているぞ。",
+      "jp_html": "ふん、ああ、<ruby>相変わらず<rt>あいかわらず</rt></ruby>うぬぼれの<ruby>強い<rt>つよい</rt></ruby><ruby>奴<rt>やつ</rt></ruby>だ。<ruby>楽しみ<rt>たのしみ</rt></ruby>にしているぞ。",
+      "zh": "哼，啊，还是典型的自大脾性。我可等着瞧呢。",
+      "en": "Hmph, ah, as expected, you're still such a self-assured fellow. I can't wait."
+    },
+    {
+      "id": 144,
+      "start": 1079.28,
+      "end": 1096.61,
+      "ts": "17:59.280 -> 18:16.610",
+      "jp": "世界一の殺し屋と人々に恐れられたタオパイパイがよみがえった",
+      "jp_html": "<ruby>世界一<rt>せかいいち</rt></ruby>の<ruby>殺し屋<rt>ころしや</rt></ruby>と<ruby>人々<rt>ひとびと</rt></ruby>に<ruby>恐れ<rt>おそれ</rt></ruby>られたタオパイパイがよみがえった",
+      "zh": "世界上最著名的杀手和被人畏惧的陶派pai又复活了",
+      "en": "The legendary assassin Tao Pa Pa, feared by all in the world, has risen again."
+    },
+    {
+      "id": 145,
+      "start": 1096.61,
+      "end": 1101.97,
+      "ts": "18:16.610 -> 18:21.970",
+      "jp": "細胞をどかし遥かにパワーアップしたタオパイパイが",
+      "jp_html": "<ruby>細胞<rt>さいぼう</rt></ruby>をどかし<ruby>遥か<rt>はるか</rt></ruby>にパワーアップしたタオパイパイが",
+      "zh": "细胞让开，远远提升的涛派pai",
+      "en": "Cells moved aside to make way for a much powered-up Tao Pao Pao that"
+    },
+    {
+      "id": 146,
+      "start": 1101.97,
+      "end": 1106.19,
+      "ts": "18:21.970 -> 18:26.190",
+      "jp": "復讐の鬼となって悟空たちに迫るのであった",
+      "jp_html": "<ruby>復讐<rt>ふくしゅう</rt></ruby>の<ruby>鬼<rt>おに</rt></ruby>となって<ruby>悟空<rt>ごくう</rt></ruby>たちに<ruby>迫る<rt>せまる</rt></ruby>のであった",
+      "zh": "化身为复仇的使者，逼近悟空他们",
+      "en": "He approached Goku and co. as a vengeful spirit."
+    }
+  ]
+}
