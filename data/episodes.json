@@ -594,5 +594,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E12.v2.The.Peculiar.Girl.Lunch.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e12.json"
+  },
+  {
+    "id": "db-recut-e13",
+    "title": "Dragon Ball Recut E13: Training--The Rock Hunt",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E13.v2.Training--The.Rock.Hunt.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e13.json"
   }
 ]
