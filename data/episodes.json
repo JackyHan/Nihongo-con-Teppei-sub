@@ -870,5 +870,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E35.v2.N.cha--Chased.to.Penguin.Village.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e35.json"
+  },
+  {
+    "id": "db-recut-e36",
+    "title": "Dragon Ball Recut E36: The Sacred Yet Ominous Land of Karin",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E36.v2.The.Sacred.Yet.Ominous.Land.of.Karin.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e36.json"
   }
 ]
