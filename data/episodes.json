@@ -642,5 +642,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E16.v2.Watch.Out.Kuririn.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e16.json"
+  },
+  {
+    "id": "db-recut-e17",
+    "title": "Dragon Ball Recut E17: Yamucha vs Jackie Chun",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E17.v2.Yamucha.vs.Jackie.Chun.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e17.json"
   }
 ]
