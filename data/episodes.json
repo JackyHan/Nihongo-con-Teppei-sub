@@ -906,5 +906,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E38.v2.What.Will.the.Effect.of.the.Super.Spirit.Water.Be.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e38.json"
+  },
+  {
+    "id": "db-recut-e39",
+    "title": "Dragon Ball Recut E39: Go Goku--Commence Assault",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E39.v2.Go.Goku--Commence.Assault.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e39.json"
   }
 ]
