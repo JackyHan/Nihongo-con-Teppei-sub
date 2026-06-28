@@ -1126,6 +1126,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E54.v2.Life.or.Death--The.Last.Resort.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e54.json"
+    },
+    {
+      "id": "db-recut-e55",
+      "title": "Dragon Ball Recut E55: The Death of Kuririn--A Terrible Conspiracy",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E55.v2.The.Death.of.Kuririn--A.Terrible.Conspiracy.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e55.json"
     }
   ]
 }
