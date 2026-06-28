@@ -1414,6 +1414,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E78.v2.With.the.Fate.of.the.World.in.the.Balance.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e78.json"
+    },
+    {
+      "id": "db-recut-e79",
+      "title": "Dragon Ball Recut E79: There It Is--The Ultimate Mega Kamehameha",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E79.v2.There.It.Is--The.Ultimate.Mega.Kamehameha.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e79.json"
     }
   ]
 }
