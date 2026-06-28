@@ -593,6 +593,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E09.v2.The.Dragon.Balls.are.Stolen.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e09.json"
+    },
+    {
+      "id": "db-recut-e10",
+      "title": "Dragon Ball Recut E10: The Wish to Shen Long",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E10.v2.The.Wish.to.Shen.Long.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e10.json"
     }
   ]
 }
