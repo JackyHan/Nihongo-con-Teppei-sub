@@ -706,6 +706,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E19.v2.Get.Up.Goku--The.Fearsome.Tenku.pekeji-ken.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e19.json"
+    },
+    {
+      "id": "db-recut-e20",
+      "title": "Dragon Ball Recut E20: The Final Round--Kamehame-Ha",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E20.v2.The.Final.Round--Kamehame-Ha.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e20.json"
     }
   ]
 }
