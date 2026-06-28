@@ -618,5 +618,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E14.v2.The.Turtle.Hermits.Intense.Training.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e14.json"
+  },
+  {
+    "id": "db-recut-e15",
+    "title": "Dragon Ball Recut E15: The Tenkaichi Budokai Begins",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E15.v2.The.Tenkaichi.Budokai.Begins.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e15.json"
   }
 ]
