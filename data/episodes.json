@@ -834,5 +834,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E32.v2.The.Pirates.Traps.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e32.json"
+  },
+  {
+    "id": "db-recut-e33",
+    "title": "Dragon Ball Recut E33: We Did It--Treasure Discovered",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E33.v2.We.Did.It--Treasure.Discovered.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e33.json"
   }
 ]
