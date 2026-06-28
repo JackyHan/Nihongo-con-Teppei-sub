@@ -1150,6 +1150,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E56.v2.Revive.Son.Goku.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e56.json"
+    },
+    {
+      "id": "db-recut-e57",
+      "title": "Dragon Ball Recut E57: Majuu Tambourine Draws Near",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E57.v2.Majuu.Tambourine.Draws.Near.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e57.json"
     }
   ]
 }
