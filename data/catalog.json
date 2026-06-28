@@ -1342,6 +1342,18 @@
       "series_title": "Dragon Ball Recut",
       "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E72.v2.The.Chosen.Eight.mp4",
       "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e72.json"
+    },
+    {
+      "id": "db-recut-e73",
+      "title": "Dragon Ball Recut E73: Revenge of Tao Pai Pai the Assassin",
+      "category_id": "anime",
+      "category_title": "Anime",
+      "media_type": "video",
+      "source_url": "https://archive.org/details/dragon-ball-recut",
+      "series_id": "dragon-ball-recut",
+      "series_title": "Dragon Ball Recut",
+      "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E73.v2.Revenge.of.Tao.Pai.Pai.the.Assassin.mp4",
+      "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e73.json"
     }
   ]
 }
