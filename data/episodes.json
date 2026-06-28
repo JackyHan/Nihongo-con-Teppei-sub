@@ -1254,5 +1254,17 @@
     "series_title": "Dragon Ball Recut",
     "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E67.v2.Nyoibous.Secret.mp4",
     "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e67.json"
+  },
+  {
+    "id": "db-recut-e68",
+    "title": "Dragon Ball Recut E68: The Temple Above the Clouds",
+    "category_id": "anime",
+    "category_title": "Anime",
+    "media_type": "video",
+    "source_url": "https://archive.org/details/dragon-ball-recut",
+    "series_id": "dragon-ball-recut",
+    "series_title": "Dragon Ball Recut",
+    "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E68.v2.The.Temple.Above.the.Clouds.mp4",
+    "data_path": "library/anime/dragon-ball-recut/episodes/db-recut-e68.json"
   }
 ]

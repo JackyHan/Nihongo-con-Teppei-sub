@@ -1,0 +1,1824 @@
+{
+  "id": "db-recut-e68",
+  "title": "Dragon Ball Recut E68: The Temple Above the Clouds",
+  "category_id": "anime",
+  "category_title": "Anime",
+  "media_type": "video",
+  "media_url": "https://archive.org/download/dragon-ball-recut/Dragon.Ball.Recut.E68.v2.The.Temple.Above.the.Clouds.mp4",
+  "audio_url": "",
+  "source_url": "https://archive.org/details/dragon-ball-recut",
+  "series_id": "dragon-ball-recut",
+  "series_title": "Dragon Ball Recut",
+  "entries": [
+    {
+      "id": 0,
+      "start": 238.8,
+      "end": 240.8,
+      "ts": "03:58.800 -> 04:00.800",
+      "jp": "神様ってやつなのか?",
+      "jp_html": "<ruby>神様<rt>かみさま</rt></ruby>ってやつなのか?",
+      "zh": "那是上帝吗？",
+      "en": "Is it God?"
+    },
+    {
+      "id": 1,
+      "start": 240.8,
+      "end": 244.8,
+      "ts": "04:00.800 -> 04:04.800",
+      "jp": "違う!私、ミスター・ポッポ、神様の付き人",
+      "jp_html": "<ruby>違う<rt>ちがう</rt></ruby>!<ruby>私<rt>わたし</rt></ruby>、ミスター・ポッポ、<ruby>神様<rt>かみさま</rt></ruby>の<ruby>付き人<rt>つきびと</rt></ruby>",
+      "zh": "不对！我，米斯特·波波，上帝的侍从",
+      "en": "No! I'm Mister Popo, attendant to the gods."
+    },
+    {
+      "id": 2,
+      "start": 244.8,
+      "end": 248.8,
+      "ts": "04:04.800 -> 04:08.800",
+      "jp": "お前、人間なのによくピコロダイマを倒したな",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>、<ruby>人間<rt>にんげん</rt></ruby>なのによくピコロダイマを<ruby>倒し<rt>たおし</rt></ruby>たな",
+      "zh": "你这个人竟然能打败比克大魔王",
+      "en": "You, being human, managed to defeat Piccolo Damama."
+    },
+    {
+      "id": 3,
+      "start": 248.8,
+      "end": 250.8,
+      "ts": "04:08.800 -> 04:10.800",
+      "jp": "そんなことも知ってんのか?",
+      "jp_html": "そんなことも<ruby>知って<rt>しって</rt></ruby>んのか?",
+      "zh": "你知道这种事吗？",
+      "en": "Do you even know something like that?"
+    },
+    {
+      "id": 4,
+      "start": 250.8,
+      "end": 254.8,
+      "ts": "04:10.800 -> 04:14.800",
+      "jp": "神様、何でも知っている。神様偉い",
+      "jp_html": "<ruby>神様<rt>かみさま</rt></ruby>、<ruby>何で<rt>なんで</rt></ruby>も<ruby>知って<rt>しって</rt></ruby>いる。<ruby>神様<rt>かみさま</rt></ruby><ruby>偉い<rt>えらい</rt></ruby>",
+      "zh": "上帝知道一切。上帝伟大。",
+      "en": "God knows everything. God is great."
+    },
+    {
+      "id": 5,
+      "start": 255.8,
+      "end": 265.43,
+      "ts": "04:15.800 -> 04:25.430",
+      "jp": "なあ、神様、あの家にいるのか?出てくれよ",
+      "jp_html": "なあ、<ruby>神様<rt>かみさま</rt></ruby>、あの<ruby>家<rt>いえ</rt></ruby>にいるのか?<ruby>出て<rt>でて</rt></ruby>くれよ",
+      "zh": "喂，神啊，那个人在家里吧？让他出来吧。",
+      "en": "Hey, God, is he at that house? Come out already."
+    },
+    {
+      "id": 6,
+      "start": 265.43,
+      "end": 268.43,
+      "ts": "04:25.430 -> 04:28.430",
+      "jp": "仮に認められた印、持ってきたか?",
+      "jp_html": "<ruby>仮に<rt>かりに</rt></ruby><ruby>認め<rt>みとめ</rt></ruby>られた<ruby>印<rt>いん</rt></ruby>、<ruby>持っ<rt>もっ</rt></ruby>てきたか?",
+      "zh": "假如有承认的印章，带来了吗？",
+      "en": "Did you bring the provisional seal, if it's acknowledged?"
+    },
+    {
+      "id": 7,
+      "start": 268.43,
+      "end": 273.43,
+      "ts": "04:28.430 -> 04:33.430",
+      "jp": "お、お!この鈴だろ?もらってきたぞ!",
+      "jp_html": "お、お!この<ruby>鈴<rt>すず</rt></ruby>だろ?もらってきたぞ!",
+      "zh": "哦，哦！这个铃铛吧？拿来了！",
+      "en": "Oh, oh! This bell, I got it!"
+    },
+    {
+      "id": 8,
+      "start": 274.43,
+      "end": 279.79,
+      "ts": "04:34.430 -> 04:39.790",
+      "jp": "確かにお前認められたもの",
+      "jp_html": "<ruby>確かに<rt>たしかに</rt></ruby>お<ruby>前<rt>まえ</rt></ruby><ruby>認め<rt>みとめ</rt></ruby>られたもの",
+      "zh": "确实你被承认了的东西",
+      "en": "Sure, you acknowledged it."
+    },
+    {
+      "id": 9,
+      "start": 279.79,
+      "end": 281.83,
+      "ts": "04:39.790 -> 04:41.830",
+      "jp": "テスト受ける資格ある",
+      "jp_html": "テスト<ruby>受ける<rt>うける</rt></ruby><ruby>資格<rt>しかく</rt></ruby>ある",
+      "zh": "有资格参加测试",
+      "en": "I have the资格to take the test"
+    },
+    {
+      "id": 10,
+      "start": 281.83,
+      "end": 283.83,
+      "ts": "04:41.830 -> 04:43.830",
+      "jp": "テスト?",
+      "jp_html": "テスト?",
+      "zh": "测试?",
+      "en": "Test?"
+    },
+    {
+      "id": 11,
+      "start": 284.65,
+      "end": 287.43,
+      "ts": "04:44.650 -> 04:47.430",
+      "jp": "テスト、お前ミスター・ポポと試合する",
+      "jp_html": "テスト、お<ruby>前<rt>まえ</rt></ruby>ミスター・ポポと<ruby>試合<rt>しあい</rt></ruby>する",
+      "zh": "测试，你将和米斯特·波波比赛",
+      "en": "Test, you Mr. Popo, let's have a match"
+    },
+    {
+      "id": 12,
+      "start": 287.43,
+      "end": 290.51,
+      "ts": "04:47.430 -> 04:50.510",
+      "jp": "ミスター・ポポに勝てば神様に会える",
+      "jp_html": "ミスター・ポポに<ruby>勝て<rt>かて</rt></ruby>ば<ruby>神様<rt>かみさま</rt></ruby>に<ruby>会え<rt>あえ</rt></ruby>る",
+      "zh": "战胜了先生·波波就能见到上帝",
+      "en": "If I beat Mr. Popo, I can meet God."
+    },
+    {
+      "id": 13,
+      "start": 290.51,
+      "end": 293.27,
+      "ts": "04:50.510 -> 04:53.270",
+      "jp": "なんだ、そんな簡単なことか",
+      "jp_html": "なんだ、そんな<ruby>簡単<rt>かんたん</rt></ruby>なことか",
+      "zh": "原来如此，这么简单的事情啊",
+      "en": "So, that's something easy, huh?"
+    },
+    {
+      "id": 14,
+      "start": 293.27,
+      "end": 295.43,
+      "ts": "04:53.270 -> 04:55.430",
+      "jp": "わかった、早くやろうぜ",
+      "jp_html": "わかった、<ruby>早く<rt>はやく</rt></ruby>やろうぜ",
+      "zh": "明白了，快点做吧",
+      "en": "Understood, let's do it quickly."
+    },
+    {
+      "id": 15,
+      "start": 295.43,
+      "end": 298.53,
+      "ts": "04:55.430 -> 04:58.530",
+      "jp": "ここに来た人間、お前初めて",
+      "jp_html": "ここに<ruby>来た<rt>きた</rt></ruby><ruby>人間<rt>にんげん</rt></ruby>、お<ruby>前<rt>まえ</rt></ruby><ruby>初めて<rt>はじめて</rt></ruby>",
+      "zh": "这里来的人，你是第一次吧",
+      "en": "The people who came here, you're new, aren't you?"
+    },
+    {
+      "id": 16,
+      "start": 298.53,
+      "end": 300.43,
+      "ts": "04:58.530 -> 05:00.430",
+      "jp": "テスト楽しみ",
+      "jp_html": "テスト<ruby>楽しみ<rt>たのしみ</rt></ruby>",
+      "zh": "测试很令人期待",
+      "en": "Test excitement"
+    },
+    {
+      "id": 17,
+      "start": 300.43,
+      "end": 309.68,
+      "ts": "05:00.430 -> 05:09.680",
+      "jp": "下が参ったというまでだな",
+      "jp_html": "<ruby>下が<rt>さが</rt></ruby><ruby>参っ<rt>まいっ</rt></ruby>たというまでだな",
+      "zh": "退步了啊",
+      "en": "That's gone downhill, hasn't it?"
+    },
+    {
+      "id": 18,
+      "start": 309.68,
+      "end": 310.7,
+      "ts": "05:09.680 -> 05:10.700",
+      "jp": "そうだ",
+      "jp_html": "そうだ",
+      "zh": "对了",
+      "en": "That's right"
+    },
+    {
+      "id": 19,
+      "start": 310.7,
+      "end": 316.24,
+      "ts": "05:10.700 -> 05:16.240",
+      "jp": "ひひ、びっくりするぞ、おめぇ。",
+      "jp_html": "ひひ、びっくりするぞ、おめぇ。",
+      "zh": "嘿，你会吓一跳哦。",
+      "en": "Haha, you're going to be surprised, ya know."
+    },
+    {
+      "id": 20,
+      "start": 316.24,
+      "end": 319.24,
+      "ts": "05:16.240 -> 05:19.240",
+      "jp": "わくわく、ドキドキ。",
+      "jp_html": "わくわく、ドキドキ。",
+      "zh": "激动，心跳。",
+      "en": "Excitement, butterflies in the stomach."
+    },
+    {
+      "id": 21,
+      "start": 319.24,
+      "end": 332.65,
+      "ts": "05:19.240 -> 05:32.650",
+      "jp": "あら、消えた。ここかな?",
+      "jp_html": "あら、<ruby>消え<rt>きえ</rt></ruby>た。ここかな?",
+      "zh": "哎，不见了。在这儿吗？",
+      "en": "Oh, it's gone. Is it here?"
+    },
+    {
+      "id": 22,
+      "start": 332.65,
+      "end": 342.39,
+      "ts": "05:32.650 -> 05:42.390",
+      "jp": "当たった。",
+      "jp_html": "<ruby>当た<rt>あた</rt></ruby>った。",
+      "zh": "中奖了。",
+      "en": "It hit."
+    },
+    {
+      "id": 23,
+      "start": 342.39,
+      "end": 345.86,
+      "ts": "05:42.390 -> 05:45.860",
+      "jp": "だからしょうがねえな。",
+      "jp_html": "だからしょうがねえな。",
+      "zh": "所以没办法啊。",
+      "en": "So there's nothing we can do about it, right?"
+    },
+    {
+      "id": 24,
+      "start": 345.86,
+      "end": 348.86,
+      "ts": "05:45.860 -> 05:48.860",
+      "jp": "もう、偶然はなしだぜ。",
+      "jp_html": "もう、<ruby>偶然<rt>ぐうぜん</rt></ruby>はなしだぜ。",
+      "zh": "现在已经不是碰巧了。",
+      "en": "Now, there's no such thing as coincidence."
+    },
+    {
+      "id": 25,
+      "start": 348.86,
+      "end": 350.86,
+      "ts": "05:48.860 -> 05:50.860",
+      "jp": "覚悟はいいね。",
+      "jp_html": "<ruby>覚悟<rt>かくご</rt></ruby>はいいね。",
+      "zh": "好，我已经做好准备了。",
+      "en": "Are you ready then?"
+    },
+    {
+      "id": 26,
+      "start": 350.86,
+      "end": 352.86,
+      "ts": "05:50.860 -> 05:52.860",
+      "jp": "いいよ。",
+      "jp_html": "いいよ。",
+      "zh": "好呀。",
+      "en": "It's okay."
+    },
+    {
+      "id": 27,
+      "start": 352.86,
+      "end": 361.2,
+      "ts": "05:52.860 -> 06:01.200",
+      "jp": "よーし。",
+      "jp_html": "よーし。",
+      "zh": "好了。",
+      "en": "Alright."
+    },
+    {
+      "id": 28,
+      "start": 361.2,
+      "end": 368.94,
+      "ts": "06:01.200 -> 06:08.940",
+      "jp": "おめぇ、また当たった。",
+      "jp_html": "おめぇ、また<ruby>当た<rt>あた</rt></ruby>った。",
+      "zh": "你又猜对了。",
+      "en": "You hit it again."
+    },
+    {
+      "id": 29,
+      "start": 368.94,
+      "end": 373.68,
+      "ts": "06:08.940 -> 06:13.680",
+      "jp": "お前強くない!弱い!本当にピッコロ大魔王を倒したか?",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby><ruby>強く<rt>つよく</rt></ruby>ない!<ruby>弱い<rt>よわい</rt></ruby>!<ruby>本当<rt>ほんとう</rt></ruby>にピッコロ<ruby>大魔王<rt>だいまおう</rt></ruby>を<ruby>倒し<rt>たおし</rt></ruby>たか?",
+      "zh": "你不够强！弱鸡！真的把比克大魔王打倒了？",
+      "en": "You're not strong! You're weak! Really defeated the Great Prince Piccolo?"
+    },
+    {
+      "id": 30,
+      "start": 373.68,
+      "end": 378.68,
+      "ts": "06:13.680 -> 06:18.680",
+      "jp": "この野郎!オラが弱いだって!",
+      "jp_html": "この<ruby>野郎<rt>やろう</rt></ruby>!オラが<ruby>弱い<rt>よわい</rt></ruby>だって!",
+      "zh": "这个家伙！我weak啦！",
+      "en": "This bastard! I'm weak!"
+    },
+    {
+      "id": 31,
+      "start": 378.68,
+      "end": 380.68,
+      "ts": "06:18.680 -> 06:20.680",
+      "jp": "弱い、弱い…",
+      "jp_html": "<ruby>弱い<rt>よわい</rt></ruby>、<ruby>弱い<rt>よわい</rt></ruby>…",
+      "zh": "弱小、弱小…",
+      "en": "Weak, weak..."
+    },
+    {
+      "id": 32,
+      "start": 380.68,
+      "end": 383.98,
+      "ts": "06:20.680 -> 06:23.980",
+      "jp": "うーん、本気でやっちゃうぞ!",
+      "jp_html": "うーん、<ruby>本気<rt>ほんき</rt></ruby>でやっちゃうぞ!",
+      "zh": "嗯，认真搞定了！",
+      "en": "Hmm, I'm going to take this seriously!"
+    },
+    {
+      "id": 33,
+      "start": 383.98,
+      "end": 386.1,
+      "ts": "06:23.980 -> 06:26.100",
+      "jp": "本当?嬉しい!",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>?<ruby>嬉しい<rt>うれしい</rt></ruby>!",
+      "zh": "真的吗？好开心！",
+      "en": "Really? That's great!"
+    },
+    {
+      "id": 34,
+      "start": 386.1,
+      "end": 391.45,
+      "ts": "06:26.100 -> 06:31.450",
+      "jp": "ん?",
+      "jp_html": "ん?",
+      "zh": "嗯？",
+      "en": "Hmm?"
+    },
+    {
+      "id": 35,
+      "start": 391.45,
+      "end": 396.05,
+      "ts": "06:31.450 -> 06:36.050",
+      "jp": "お前の殺気で鳥逃げた!そんなんじゃポポに勝てない!",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>の<ruby>殺気<rt>さっき</rt></ruby>で<ruby>鳥<rt>とり</rt></ruby><ruby>逃げ<rt>にげ</rt></ruby>た!そんなんじゃポポに<ruby>勝て<rt>かて</rt></ruby>ない!",
+      "zh": "你的杀气把鸟都吓跑了！这样可赢不了波波！",
+      "en": "Your killing intent made the birds flee! You can't win against Poppo like this!"
+    },
+    {
+      "id": 36,
+      "start": 396.05,
+      "end": 401.05,
+      "ts": "06:36.050 -> 06:41.050",
+      "jp": "うるさい!オラをなめるなよ!",
+      "jp_html": "うるさい!オラをなめるなよ!",
+      "zh": "吵死啦！给我滚开！",
+      "en": "Shut up! Don't lick me!"
+    },
+    {
+      "id": 37,
+      "start": 401.05,
+      "end": 402.15,
+      "ts": "06:41.050 -> 06:42.150",
+      "jp": "うわぁ!",
+      "jp_html": "うわぁ!",
+      "zh": "哇！",
+      "en": "Wow!"
+    },
+    {
+      "id": 38,
+      "start": 402.15,
+      "end": 434.56,
+      "ts": "06:42.150 -> 07:14.560",
+      "jp": "ミスター・ポポ、がっかりした。お前弱い。それでは神様に会わせられない。よくカリンがお前をここに来させた。",
+      "jp_html": "ミスター・ポポ、がっかりした。お<ruby>前<rt>まえ</rt></ruby><ruby>弱い<rt>よわい</rt></ruby>。それでは<ruby>神様<rt>かみさま</rt></ruby>に<ruby>会わ<rt>あわ</rt></ruby>せられない。よくカリンがお<ruby>前<rt>まえ</rt></ruby>をここに<ruby>来さ<rt>きさ</rt></ruby>せた。",
+      "zh": "米斯特·波波很失望。你太弱了。这样就见不到神明了。卡琳把你带来这里也很不容易。",
+      "en": "Mr. Popo was disappointed. You're weak. That's why you can't meet the gods. Karyn did well to bring you here."
+    },
+    {
+      "id": 39,
+      "start": 434.56,
+      "end": 437.06,
+      "ts": "07:14.560 -> 07:17.060",
+      "jp": "こんなはずはねえ。",
+      "jp_html": "こんなはずはねえ。",
+      "zh": "怎么会是这样。",
+      "en": "This shouldn't be happening."
+    },
+    {
+      "id": 40,
+      "start": 437.06,
+      "end": 449.07,
+      "ts": "07:17.060 -> 07:29.070",
+      "jp": "一回やっても同じ。",
+      "jp_html": "<ruby>一回<rt>いっかい</rt></ruby>やっても<ruby>同じ<rt>おなじ</rt></ruby>。",
+      "zh": "一遍做也一样。",
+      "en": "It's the same every time."
+    },
+    {
+      "id": 41,
+      "start": 449.07,
+      "end": 474.59,
+      "ts": "07:29.070 -> 07:54.590",
+      "jp": "ピクロを倒したオラノ。",
+      "jp_html": "ピクロを<ruby>倒し<rt>たおし</rt></ruby>たオラノ。",
+      "zh": "奥诺击败了皮克鲁。",
+      "en": "Orano defeated Pichu."
+    },
+    {
+      "id": 42,
+      "start": 474.59,
+      "end": 480.59,
+      "ts": "07:54.590 -> 08:00.590",
+      "jp": "お前すごいパワーあるが、全然活かしてない。ダメ。テストしても無駄だ。帰れ。",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>すごいパワーあるが、<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>活か<rt>いか</rt></ruby>してない。ダメ。テストしても<ruby>無駄<rt>むだ</rt></ruby>だ。<ruby>帰れ<rt>かえれ</rt></ruby>。",
+      "zh": "你很有力量，但完全没发挥出来。不行。测试也没用。回去吧。",
+      "en": "You have a lot of power, but you're not using it at all. No good. Testing you is pointless. Go back."
+    },
+    {
+      "id": 43,
+      "start": 480.59,
+      "end": 510.95,
+      "ts": "08:00.590 -> 08:30.950",
+      "jp": "ミスター・ポポ、これでも神様のお世話するのに大変忙しい。早く帰れ。",
+      "jp_html": "ミスター・ポポ、これでも<ruby>神様<rt>かみさま</rt></ruby>のお<ruby>世話<rt>せわ</rt></ruby>するのに<ruby>大変<rt>たいへん</rt></ruby><ruby>忙しい<rt>いそがしい</rt></ruby>。<ruby>早く<rt>はやく</rt></ruby><ruby>帰れ<rt>かえれ</rt></ruby>。",
+      "zh": "先生·波波，这也要忙着替上帝办事。快点回来。",
+      "en": "Mr. Popo, I'm still very busy taking care of God. Hurry up and go back."
+    },
+    {
+      "id": 44,
+      "start": 510.95,
+      "end": 527.13,
+      "ts": "08:30.950 -> 08:47.130",
+      "jp": "まだ凝れないのか",
+      "jp_html": "まだ<ruby>凝れ<rt>これ</rt></ruby>ないのか",
+      "zh": "还不能凝固吗？",
+      "en": "Is it still not setting yet?"
+    },
+    {
+      "id": 45,
+      "start": 527.13,
+      "end": 540.85,
+      "ts": "08:47.130 -> 09:00.850",
+      "jp": "無駄だと言ったはずだ",
+      "jp_html": "<ruby>無駄<rt>むだ</rt></ruby>だと<ruby>言った<rt>いった</rt></ruby>はずだ",
+      "zh": "我说那是浪费了吧",
+      "en": "I said it was useless."
+    },
+    {
+      "id": 46,
+      "start": 540.85,
+      "end": 549.62,
+      "ts": "09:00.850 -> 09:09.620",
+      "jp": "お前弱い",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby><ruby>弱い<rt>よわい</rt></ruby>",
+      "zh": "你弱innie",
+      "en": "You are weak."
+    },
+    {
+      "id": 47,
+      "start": 549.62,
+      "end": 551.68,
+      "ts": "09:09.620 -> 09:11.680",
+      "jp": "精神も技術もだめ",
+      "jp_html": "<ruby>精神<rt>せいしん</rt></ruby>も<ruby>技術<rt>ぎじゅつ</rt></ruby>もだめ",
+      "zh": "精神上和技术上都行不通",
+      "en": "Mental and technical efforts are futile."
+    },
+    {
+      "id": 48,
+      "start": 551.68,
+      "end": 554.64,
+      "ts": "09:11.680 -> 09:14.640",
+      "jp": "神様に合わせる値打ちない帰れ",
+      "jp_html": "<ruby>神様<rt>かみさま</rt></ruby>に<ruby>合わ<rt>あわ</rt></ruby>せる<ruby>値打ち<rt>ねうち</rt></ruby>ない<ruby>帰れ<rt>かえれ</rt></ruby>",
+      "zh": "与神相应的价值没有回家",
+      "en": "There's no point in trying to match God's return."
+    },
+    {
+      "id": 49,
+      "start": 554.64,
+      "end": 564.48,
+      "ts": "09:14.640 -> 09:24.480",
+      "jp": "お前ピッコロ倒した世の中で",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>ピッコロ<ruby>倒し<rt>たおし</rt></ruby>た<ruby>世の中<rt>よのなか</rt></ruby>で",
+      "zh": "你在比克多利昂被打败的世界中",
+      "en": "In a world where you defeated Piccolo."
+    },
+    {
+      "id": 50,
+      "start": 564.48,
+      "end": 566.96,
+      "ts": "09:24.480 -> 09:26.960",
+      "jp": "自分が一番強いと思った",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>強い<rt>つよい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>",
+      "zh": "觉得自己最强",
+      "en": "I thought I was the strongest."
+    },
+    {
+      "id": 51,
+      "start": 566.96,
+      "end": 568.2,
+      "ts": "09:26.960 -> 09:28.200",
+      "jp": "でも世の中",
+      "jp_html": "でも<ruby>世の中<rt>よのなか</rt></ruby>",
+      "zh": "但是社会",
+      "en": "But the world"
+    },
+    {
+      "id": 52,
+      "start": 568.2,
+      "end": 570.98,
+      "ts": "09:28.200 -> 09:30.980",
+      "jp": "上には上がいることを忘れた",
+      "jp_html": "<ruby>上に<rt>うえに</rt></ruby>は<ruby>上が<rt>あが</rt></ruby>いることを<ruby>忘れ<rt>わすれ</rt></ruby>た",
+      "zh": "忘了上面还有上面",
+      "en": "Forgot that there's always someone above you."
+    },
+    {
+      "id": 53,
+      "start": 570.98,
+      "end": 574.66,
+      "ts": "09:30.980 -> 09:34.660",
+      "jp": "力だけではミスターポポには勝てない",
+      "jp_html": "<ruby>力<rt>ちから</rt></ruby>だけではミスターポポには<ruby>勝て<rt>かて</rt></ruby>ない",
+      "zh": "仅凭力量无法战胜先生波波",
+      "en": "You can't beat Mr. Popo with strength alone."
+    },
+    {
+      "id": 54,
+      "start": 574.66,
+      "end": 577.61,
+      "ts": "09:34.660 -> 09:37.610",
+      "jp": "そうか面目なのか",
+      "jp_html": "そうか<ruby>面目<rt>めんぼく</rt></ruby>なのか",
+      "zh": "这么说是为了面子？",
+      "en": "So, is it about saving face?"
+    },
+    {
+      "id": 55,
+      "start": 577.61,
+      "end": 581.3,
+      "ts": "09:37.610 -> 09:41.300",
+      "jp": "勝ったのなら",
+      "jp_html": "<ruby>勝っ<rt>かっ</rt></ruby>たのなら",
+      "zh": "如果你赢了的话",
+      "en": "If you won,"
+    },
+    {
+      "id": 56,
+      "start": 581.3,
+      "end": 583.58,
+      "ts": "09:41.300 -> 09:43.580",
+      "jp": "さあ帰れ帰れ",
+      "jp_html": "さあ<ruby>帰れ<rt>かえれ</rt></ruby><ruby>帰れ<rt>かえれ</rt></ruby>",
+      "zh": "走吧走吧",
+      "en": "Let's go, go home."
+    },
+    {
+      "id": 57,
+      "start": 583.58,
+      "end": 594.03,
+      "ts": "09:43.580 -> 09:54.030",
+      "jp": "そこは行かねえ!ほら早くみんなを生き返らせてやりてん!",
+      "jp_html": "そこは<ruby>行か<rt>いか</rt></ruby>ねえ!ほら<ruby>早く<rt>はやく</rt></ruby>みんなを<ruby>生き返ら<rt>いきかえら</rt></ruby>せてやりてん!",
+      "zh": "你别去！你看，我想早点把大家复活了！",
+      "en": "I'm not going there! Look, I just want to revive everyone!"
+    },
+    {
+      "id": 58,
+      "start": 594.03,
+      "end": 603.54,
+      "ts": "09:54.030 -> 10:03.540",
+      "jp": "ミスターポポと戦ってもお前けがするだけ。どうするつもりか?",
+      "jp_html": "ミスターポポと<ruby>戦っ<rt>たたかっ</rt></ruby>てもお<ruby>前け<rt>ぜんけ</rt></ruby>がするだけ。どうするつもりか?",
+      "zh": "和先生波波战斗只会受伤而已。你打算怎么办？",
+      "en": "Fighting Mr. Popo will only hurt you. What are you planning to do?"
+    },
+    {
+      "id": 59,
+      "start": 603.54,
+      "end": 606.82,
+      "ts": "10:03.540 -> 10:06.820",
+      "jp": "ほら!",
+      "jp_html": "ほら!",
+      "zh": "瞧！",
+      "en": "Look!"
+    },
+    {
+      "id": 60,
+      "start": 606.82,
+      "end": 615.27,
+      "ts": "10:06.820 -> 10:15.270",
+      "jp": "特訓?無駄だと思う。でも好きにしろ。",
+      "jp_html": "<ruby>特訓<rt>とっくん</rt></ruby>?<ruby>無駄<rt>むだ</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>。でも<ruby>好き<rt>すき</rt></ruby>にしろ。",
+      "zh": "特训？认为是浪费。但你可以随便喜欢。",
+      "en": "Special training? I think it's pointless. But you can do as you like."
+    },
+    {
+      "id": 61,
+      "start": 615.27,
+      "end": 620.68,
+      "ts": "10:15.270 -> 10:20.680",
+      "jp": "あいつ性格は悪くない。",
+      "jp_html": "あいつ<ruby>性格<rt>せいかく</rt></ruby>は<ruby>悪く<rt>わるく</rt></ruby>ない。",
+      "zh": "他的性格不好。",
+      "en": "He isn't bad tempered."
+    },
+    {
+      "id": 62,
+      "start": 620.68,
+      "end": 642.18,
+      "ts": "10:20.680 -> 10:42.180",
+      "jp": "すげえな!",
+      "jp_html": "すげえな!",
+      "zh": "厉害啊！",
+      "en": "Wow!"
+    },
+    {
+      "id": 63,
+      "start": 642.18,
+      "end": 645.94,
+      "ts": "10:42.180 -> 10:45.940",
+      "jp": "ここはものすごく高い空の上にある",
+      "jp_html": "ここはものすごく<ruby>高い<rt>たかい</rt></ruby><ruby>空<rt>そら</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby>ある",
+      "zh": "这里非常高高的天空之上",
+      "en": "This is extremely high up in the sky."
+    },
+    {
+      "id": 64,
+      "start": 645.94,
+      "end": 647.52,
+      "ts": "10:45.940 -> 10:47.520",
+      "jp": "空気が薄い",
+      "jp_html": "<ruby>空気<rt>くうき</rt></ruby>が<ruby>薄い<rt>うすい</rt></ruby>",
+      "zh": "空气稀薄",
+      "en": "The air is thin."
+    },
+    {
+      "id": 65,
+      "start": 647.52,
+      "end": 650.32,
+      "ts": "10:47.520 -> 10:50.320",
+      "jp": "お前たち人間にはきつい",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>たち<ruby>人間<rt>にんげん</rt></ruby>にはきつい",
+      "zh": "你们人类可真 tough",
+      "en": "You humans have it tough."
+    },
+    {
+      "id": 66,
+      "start": 650.32,
+      "end": 653.48,
+      "ts": "10:50.320 -> 10:53.480",
+      "jp": "だからお前のような無駄の動きの多いやつ",
+      "jp_html": "だからお<ruby>前<rt>まえ</rt></ruby>のような<ruby>無駄<rt>むだ</rt></ruby>の<ruby>動き<rt>うごき</rt></ruby>の<ruby>多い<rt>おおい</rt></ruby>やつ",
+      "zh": "所以像你这样动作很多余的人",
+      "en": "So you, who make so many unnecessary movements."
+    },
+    {
+      "id": 67,
+      "start": 653.48,
+      "end": 654.14,
+      "ts": "10:53.480 -> 10:54.140",
+      "jp": "ダメ",
+      "jp_html": "ダメ",
+      "zh": "不行",
+      "en": "No"
+    },
+    {
+      "id": 68,
+      "start": 654.14,
+      "end": 657.04,
+      "ts": "10:54.140 -> 10:57.040",
+      "jp": "これ地上でも大切なこと",
+      "jp_html": "これ<ruby>地上<rt>ちじょう</rt></ruby>でも<ruby>大切<rt>たいせつ</rt></ruby>なこと",
+      "zh": "这在地上也很重要",
+      "en": "This is also important on earth."
+    },
+    {
+      "id": 69,
+      "start": 657.04,
+      "end": 658.54,
+      "ts": "10:57.040 -> 10:58.540",
+      "jp": "そ、そうか",
+      "jp_html": "そ、そうか",
+      "zh": "哦，原来是这样",
+      "en": "So, that's how it is?"
+    },
+    {
+      "id": 70,
+      "start": 658.54,
+      "end": 662.08,
+      "ts": "10:58.540 -> 11:02.080",
+      "jp": "空のように静かに構え",
+      "jp_html": "<ruby>空<rt>そら</rt></ruby>のように<ruby>静か<rt>しずか</rt></ruby>に<ruby>構え<rt>かまえ</rt></ruby>",
+      "zh": "像空一般静静地架势",
+      "en": "Stood with silent vigilance like an empty sky"
+    },
+    {
+      "id": 71,
+      "start": 662.08,
+      "end": 664.42,
+      "ts": "11:02.080 -> 11:04.420",
+      "jp": "雷よりも素早く動く",
+      "jp_html": "<ruby>雷<rt>かみなり</rt></ruby>よりも<ruby>素早く<rt>すばやく</rt></ruby><ruby>動く<rt>うごく</rt></ruby>",
+      "zh": "比雷还快地移动",
+      "en": "Move faster than lightning"
+    },
+    {
+      "id": 72,
+      "start": 664.42,
+      "end": 667.38,
+      "ts": "11:04.420 -> 11:07.380",
+      "jp": "空のように静かに",
+      "jp_html": "<ruby>空<rt>そら</rt></ruby>のように<ruby>静か<rt>しずか</rt></ruby>に",
+      "zh": "空一样静静地",
+      "en": "Silently as empty space"
+    },
+    {
+      "id": 73,
+      "start": 667.38,
+      "end": 672.29,
+      "ts": "11:07.380 -> 11:12.290",
+      "jp": "雷よりも早く動く",
+      "jp_html": "<ruby>雷<rt>かみなり</rt></ruby>よりも<ruby>早く<rt>はやく</rt></ruby><ruby>動く<rt>うごく</rt></ruby>",
+      "zh": "比雷还快地移动",
+      "en": "Move faster than lightning"
+    },
+    {
+      "id": 74,
+      "start": 672.29,
+      "end": 674.99,
+      "ts": "11:12.290 -> 11:14.990",
+      "jp": "なんか難しそうだな",
+      "jp_html": "なんか<ruby>難しそ<rt>むつかしそ</rt></ruby>うだな",
+      "zh": "好像很难呢",
+      "en": "It seems tricky, doesn't it?"
+    },
+    {
+      "id": 75,
+      "start": 674.99,
+      "end": 677.89,
+      "ts": "11:14.990 -> 11:17.890",
+      "jp": "こうだ心を無にする",
+      "jp_html": "こうだ<ruby>心<rt>こころ</rt></ruby>を<ruby>無<rt>む</rt></ruby>にする",
+      "zh": "这样就心灵空寂",
+      "en": "This translates to \"Kouda: Empty your heart.\""
+    },
+    {
+      "id": 76,
+      "start": 677.89,
+      "end": 679.45,
+      "ts": "11:17.890 -> 11:19.450",
+      "jp": "ん?",
+      "jp_html": "ん?",
+      "zh": "嗯？",
+      "en": "Hmm?"
+    },
+    {
+      "id": 77,
+      "start": 679.45,
+      "end": 707.97,
+      "ts": "11:19.450 -> 11:47.970",
+      "jp": "よしオラも",
+      "jp_html": "よしオラも",
+      "zh": "好了，我也",
+      "en": "Good I'll also"
+    },
+    {
+      "id": 78,
+      "start": 707.97,
+      "end": 715.78,
+      "ts": "11:47.970 -> 11:55.780",
+      "jp": "それはただ何も考えていないだけ",
+      "jp_html": "それはただ<ruby>何も<rt>なにも</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>ていないだけ",
+      "zh": "那只是因为什么都没想",
+      "en": "That's just because you haven't thought about it at all."
+    },
+    {
+      "id": 79,
+      "start": 715.78,
+      "end": 717.94,
+      "ts": "11:55.780 -> 11:57.940",
+      "jp": "心を無にするとは違う",
+      "jp_html": "<ruby>心<rt>こころ</rt></ruby>を<ruby>無<rt>む</rt></ruby>にするとは<ruby>違う<rt>ちがう</rt></ruby>",
+      "zh": "心灵空虚和那不一样",
+      "en": "That's different from emptying one's heart."
+    },
+    {
+      "id": 80,
+      "start": 717.94,
+      "end": 720.0,
+      "ts": "11:57.940 -> 12:00.000",
+      "jp": "え?難しいな",
+      "jp_html": "え?<ruby>難しい<rt>むずかしい</rt></ruby>な",
+      "zh": "哎？好难啊",
+      "en": "Oh? That's difficult."
+    },
+    {
+      "id": 81,
+      "start": 720.0,
+      "end": 723.86,
+      "ts": "12:00.000 -> 12:03.860",
+      "jp": "そして雷よりも素早く動く",
+      "jp_html": "そして<ruby>雷<rt>かみなり</rt></ruby>よりも<ruby>素早く<rt>すばやく</rt></ruby><ruby>動く<rt>うごく</rt></ruby>",
+      "zh": "然后比雷还快地移动",
+      "en": "And move faster than lightning."
+    },
+    {
+      "id": 82,
+      "start": 729.33,
+      "end": 732.29,
+      "ts": "12:09.330 -> 12:12.290",
+      "jp": "いつの間に後ろへオラの目にも見えなかった",
+      "jp_html": "いつの<ruby>間に<rt>まに</rt></ruby><ruby>後ろ<rt>うしろ</rt></ruby>へオラの<ruby>目に<rt>めに</rt></ruby>も<ruby>見え<rt>みえ</rt></ruby>なかった",
+      "zh": "不知不觉中，连我都能看不见你了",
+      "en": "Before I knew it, there was nothing behind me that could be seen even with my own eyes."
+    },
+    {
+      "id": 83,
+      "start": 732.29,
+      "end": 733.77,
+      "ts": "12:12.290 -> 12:13.770",
+      "jp": "本当に素",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>素<rt>もと</rt></ruby>",
+      "zh": "真的非常素",
+      "en": "Really pure"
+    },
+    {
+      "id": 84,
+      "start": 733.77,
+      "end": 738.64,
+      "ts": "12:13.770 -> 12:18.640",
+      "jp": "お前今右手で顔を触っている",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby><ruby>今<rt>いま</rt></ruby><ruby>右手<rt>みぎて</rt></ruby>で<ruby>顔<rt>かお</rt></ruby>を<ruby>触っ<rt>さわっ</rt></ruby>ている",
+      "zh": "你用右手摸脸",
+      "en": "You're touching your face with your right hand now."
+    },
+    {
+      "id": 85,
+      "start": 738.64,
+      "end": 743.71,
+      "ts": "12:18.640 -> 12:23.710",
+      "jp": "お前後ろに目があるのか",
+      "jp_html": "お<ruby>前後<rt>ぜんご</rt></ruby>ろに<ruby>目<rt>め</rt></ruby>があるのか",
+      "zh": "你后面有没有眼睛？",
+      "en": "Do you have eyes in the back of your head?"
+    },
+    {
+      "id": 86,
+      "start": 743.71,
+      "end": 744.33,
+      "ts": "12:23.710 -> 12:24.330",
+      "jp": "違う",
+      "jp_html": "<ruby>違う<rt>ちがう</rt></ruby>",
+      "zh": "不对",
+      "en": "Wrong"
+    },
+    {
+      "id": 87,
+      "start": 744.33,
+      "end": 744.93,
+      "ts": "12:24.330 -> 12:24.930",
+      "jp": "違う?",
+      "jp_html": "<ruby>違う<rt>ちがう</rt></ruby>?",
+      "zh": "不对？",
+      "en": "Wrong?"
+    },
+    {
+      "id": 88,
+      "start": 744.93,
+      "end": 752.41,
+      "ts": "12:24.930 -> 12:32.410",
+      "jp": "お前、目だけで物を見ようとするから、さっきのポポの動きが見えない。",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>、<ruby>目だ<rt>めだ</rt></ruby>けで<ruby>物<rt>もの</rt></ruby>を<ruby>見よ<rt>みよ</rt></ruby>うとするから、さっきのポポの<ruby>動き<rt>うごき</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>ない。",
+      "zh": "你只用眼睛看，所以刚才波波的动作你看不见。",
+      "en": "You're trying to see things with just your eyes, that's why you didn't notice Popo's movement just now."
+    },
+    {
+      "id": 89,
+      "start": 753.15,
+      "end": 759.03,
+      "ts": "12:33.150 -> 12:39.030",
+      "jp": "物の気配や、わずかな空気の動き、それに感、見るでなく感じるんだ。",
+      "jp_html": "<ruby>物<rt>もの</rt></ruby>の<ruby>気配<rt>けはい</rt></ruby>や、わずかな<ruby>空気<rt>くうき</rt></ruby>の<ruby>動き<rt>うごき</rt></ruby>、それに<ruby>感<rt>かん</rt></ruby>、<ruby>見る<rt>みる</rt></ruby>でなく<ruby>感じ<rt>かんじ</rt></ruby>るんだ。",
+      "zh": "你感受东西的气息，微小的空气流动，而不是用眼睛看。",
+      "en": "I sense things and subtle movements of the air without seeing them."
+    },
+    {
+      "id": 90,
+      "start": 759.43,
+      "end": 760.57,
+      "ts": "12:39.430 -> 12:40.570",
+      "jp": "これ、大切なこと。",
+      "jp_html": "これ、<ruby>大切<rt>たいせつ</rt></ruby>なこと。",
+      "zh": "这很重要。",
+      "en": "This is an important thing."
+    },
+    {
+      "id": 91,
+      "start": 762.05,
+      "end": 763.87,
+      "ts": "12:42.050 -> 12:43.870",
+      "jp": "見るだけでなく感じる。",
+      "jp_html": "<ruby>見る<rt>みる</rt></ruby>だけでなく<ruby>感じ<rt>かんじ</rt></ruby>る。",
+      "zh": "不仅要看，还要去感受。",
+      "en": "Not just to see, but to feel."
+    },
+    {
+      "id": 92,
+      "start": 764.53,
+      "end": 766.97,
+      "ts": "12:44.530 -> 12:46.970",
+      "jp": "すげー!ミスター・ポポ、本当にすげーや!",
+      "jp_html": "すげー!ミスター・ポポ、<ruby>本当<rt>ほんとう</rt></ruby>にすげーや!",
+      "zh": "哇！米斯特·波波真的很强啊！",
+      "en": "Wow! Mister Popo is really something!"
+    },
+    {
+      "id": 93,
+      "start": 767.29,
+      "end": 768.63,
+      "ts": "12:47.290 -> 12:48.630",
+      "jp": "俺、勝手ねえわけだ!",
+      "jp_html": "<ruby>俺<rt>おれ</rt></ruby>、<ruby>勝手<rt>かって</rt></ruby>ねえわけだ!",
+      "zh": "我可不是随便的！",
+      "en": "I didn't do it on purpose!"
+    },
+    {
+      "id": 94,
+      "start": 769.31,
+      "end": 773.81,
+      "ts": "12:49.310 -> 12:53.810",
+      "jp": "えへー!ミスター・ポポ、神様からたくさんたくさん教えてもらった。",
+      "jp_html": "えへー!ミスター・ポポ、<ruby>神様<rt>かみさま</rt></ruby>からたくさんたくさん<ruby>教え<rt>おしえ</rt></ruby>てもらった。",
+      "zh": "嘿！先生·波波，从上帝那里学到了很多很多。",
+      "en": "Hehe! Mister Popo, I was given lots and lots of knowledge from the gods."
+    },
+    {
+      "id": 95,
+      "start": 774.09,
+      "end": 775.19,
+      "ts": "12:54.090 -> 12:55.190",
+      "jp": "だから、いろい。",
+      "jp_html": "だから、いろい。",
+      "zh": "所以，IROI。",
+      "en": "Therefore, iroiro."
+    },
+    {
+      "id": 96,
+      "start": 775.19,
+      "end": 778.73,
+      "ts": "12:55.190 -> 12:58.730",
+      "jp": "じゃあ神様ってポポよりももっとすげえのか?",
+      "jp_html": "じゃあ<ruby>神様<rt>かみさま</rt></ruby>ってポポよりももっとすげえのか?",
+      "zh": "那么神比波波更强吧？",
+      "en": "So, is God greater than Popy?"
+    },
+    {
+      "id": 97,
+      "start": 779.41,
+      "end": 781.87,
+      "ts": "12:59.410 -> 13:01.870",
+      "jp": "当たり前神様もっともっとすごい",
+      "jp_html": "<ruby>当たり前<rt>あたりまえ</rt></ruby><ruby>神様<rt>かみさま</rt></ruby>もっともっとすごい",
+      "zh": "当然，神明更加厉害",
+      "en": "Of course, God is even more amazing."
+    },
+    {
+      "id": 98,
+      "start": 781.87,
+      "end": 784.61,
+      "ts": "13:01.870 -> 13:04.610",
+      "jp": "ビビったか?",
+      "jp_html": "ビビったか?",
+      "zh": "吓一跳？",
+      "en": "Did you jump?"
+    },
+    {
+      "id": 99,
+      "start": 785.11,
+      "end": 787.73,
+      "ts": "13:05.110 -> 13:07.730",
+      "jp": "はあビビったでも嬉しいな",
+      "jp_html": "はあビビったでも<ruby>嬉しい<rt>うれしい</rt></ruby>な",
+      "zh": "啊吓了一跳但也开心呢",
+      "en": "Ah I got scared but it's exciting anyway"
+    },
+    {
+      "id": 100,
+      "start": 787.73,
+      "end": 800.39,
+      "ts": "13:07.730 -> 13:20.390",
+      "jp": "お前明るいやつ",
+      "jp_html": "お<ruby>前明<rt>ぜんめい</rt></ruby>るいやつ",
+      "zh": "你是个开朗的人",
+      "en": "You're a bright person"
+    },
+    {
+      "id": 101,
+      "start": 800.39,
+      "end": 807.09,
+      "ts": "13:20.390 -> 13:27.090",
+      "jp": "でもさそんなに強いならピッコロのやつやっつけてくれればよかったのに",
+      "jp_html": "でもさそんなに<ruby>強い<rt>つよい</rt></ruby>ならピッコロのやつやっつけてくれればよかったのに",
+      "zh": "但既然那么强，就把那招教给比克就好了",
+      "en": "But if he's that strong, it would have been better to fight against Piccolo's one."
+    },
+    {
+      "id": 102,
+      "start": 807.09,
+      "end": 810.53,
+      "ts": "13:27.090 -> 13:30.530",
+      "jp": "神様にもいろいろ事情がある",
+      "jp_html": "<ruby>神様<rt>かみさま</rt></ruby>にもいろいろ<ruby>事情<rt>じじょう</rt></ruby>がある",
+      "zh": "神様也有各种各样的事情要处理",
+      "en": "God also has various matters to deal with."
+    },
+    {
+      "id": 103,
+      "start": 810.53,
+      "end": 814.53,
+      "ts": "13:30.530 -> 13:34.530",
+      "jp": "ん?オラ、絶対に帰らないことに決めたぞ!",
+      "jp_html": "ん?オラ、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>帰ら<rt>かえら</rt></ruby>ないことに<ruby>決め<rt>きめ</rt></ruby>たぞ!",
+      "zh": "嗯？我决定绝不会回去！",
+      "en": "Hm? I've decided I'm never going back!"
+    },
+    {
+      "id": 104,
+      "start": 814.53,
+      "end": 819.53,
+      "ts": "13:34.530 -> 13:39.530",
+      "jp": "お前、明るいだけじゃない。ガッツもある。そこに免じて。",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>、<ruby>明るい<rt>あかるい</rt></ruby>だけじゃない。ガッツもある。そこに<ruby>免じ<rt>めんじ</rt></ruby>て。",
+      "zh": "你不仅乐观，还有干劲。就此原谅你。",
+      "en": "You're not just bright. You have guts too. I'll give you that."
+    },
+    {
+      "id": 105,
+      "start": 819.53,
+      "end": 824.39,
+      "ts": "13:39.530 -> 13:44.390",
+      "jp": "はぁっ!とうとうオラに教えてくれる!",
+      "jp_html": "はぁっ!とうとうオラに<ruby>教え<rt>おしえ</rt></ruby>てくれる!",
+      "zh": "哈！终于告诉我了！",
+      "en": "Hah! Finally you're telling me!"
+    },
+    {
+      "id": 106,
+      "start": 824.39,
+      "end": 828.39,
+      "ts": "13:44.390 -> 13:48.390",
+      "jp": "教えるんじゃない。自分で学ぶんだ。ヒントだけ。",
+      "jp_html": "<ruby>教え<rt>おしえ</rt></ruby>るんじゃない。<ruby>自分<rt>じぶん</rt></ruby>で<ruby>学ぶ<rt>まなぶ</rt></ruby>んだ。ヒントだけ。",
+      "zh": "不要告诉他，让他自己去学。只给他个提示。",
+      "en": "Don't tell them. Let them learn on their own. Just give a hint."
+    },
+    {
+      "id": 107,
+      "start": 829.39,
+      "end": 830.39,
+      "ts": "13:49.390 -> 13:50.390",
+      "jp": "なんだ、キチ!",
+      "jp_html": "なんだ、キチ!",
+      "zh": "哎呀，基奇！",
+      "en": "What's up, Kichi!"
+    },
+    {
+      "id": 108,
+      "start": 830.39,
+      "end": 832.39,
+      "ts": "13:50.390 -> 13:52.390",
+      "jp": "お前、スズ持ってたな。",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>、スズ<ruby>持っ<rt>もっ</rt></ruby>てたな。",
+      "zh": "你有锡吧。",
+      "en": "You had some suzu, huh."
+    },
+    {
+      "id": 109,
+      "start": 832.39,
+      "end": 842.32,
+      "ts": "13:52.390 -> 14:02.320",
+      "jp": "スズ?おぉ、カリン様がくれたやつだろ?ほら、何すんだ?",
+      "jp_html": "スズ?おぉ、カリン<ruby>様<rt>さま</rt></ruby>がくれたやつだろ?ほら、<ruby>何<rt>なに</rt></ruby>すんだ?",
+      "zh": "苏兹？哦，是卡琳女士给你的吧？看，是什么？",
+      "en": "Suzu? Oh, is that what Lady Karin gave you? Hey, what is it?"
+    },
+    {
+      "id": 110,
+      "start": 842.32,
+      "end": 846.14,
+      "ts": "14:02.320 -> 14:06.140",
+      "jp": "ポポもう一度試合する",
+      "jp_html": "ポポもう<ruby>一度<rt>いちど</rt></ruby><ruby>試合<rt>しあい</rt></ruby>する",
+      "zh": "波波再试一次比赛",
+      "en": "Popo, let's play again."
+    },
+    {
+      "id": 111,
+      "start": 846.14,
+      "end": 848.74,
+      "ts": "14:06.140 -> 14:08.740",
+      "jp": "組手の稽古だな",
+      "jp_html": "<ruby>組手<rt>くみて</rt></ruby>の<ruby>稽古<rt>けいこ</rt></ruby>だな",
+      "zh": "这是组手的练习呢",
+      "en": "It's katakata (sparring practice)."
+    },
+    {
+      "id": 112,
+      "start": 848.74,
+      "end": 850.26,
+      "ts": "14:08.740 -> 14:10.260",
+      "jp": "よーし",
+      "jp_html": "よーし",
+      "zh": "好了",
+      "en": "Alright"
+    },
+    {
+      "id": 113,
+      "start": 850.26,
+      "end": 860.62,
+      "ts": "14:10.260 -> 14:20.620",
+      "jp": "やっぱりまだ叶わねーや",
+      "jp_html": "やっぱりまだ<ruby>叶わ<rt>かなわ</rt></ruby>ねーや",
+      "zh": "果然还没有实现呢",
+      "en": "Still hasn't come true, huh?"
+    },
+    {
+      "id": 114,
+      "start": 860.62,
+      "end": 861.78,
+      "ts": "14:20.620 -> 14:21.780",
+      "jp": "それだけか",
+      "jp_html": "それだけか",
+      "zh": "就这些吗？",
+      "en": "That's all?"
+    },
+    {
+      "id": 115,
+      "start": 861.78,
+      "end": 863.68,
+      "ts": "14:21.780 -> 14:23.680",
+      "jp": "それだけって",
+      "jp_html": "それだけって",
+      "zh": "仅仅只是那样而已",
+      "en": "That's all?"
+    },
+    {
+      "id": 116,
+      "start": 863.68,
+      "end": 867.26,
+      "ts": "14:23.680 -> 14:27.260",
+      "jp": "他に気づいたことはないのか",
+      "jp_html": "<ruby>他に<rt>ほかに</rt></ruby><ruby>気づ<rt>きづ</rt></ruby>いたことはないのか",
+      "zh": "他还发现了其他事情吗？",
+      "en": "Haven't you noticed anything else?"
+    },
+    {
+      "id": 117,
+      "start": 867.26,
+      "end": 868.58,
+      "ts": "14:27.260 -> 14:28.580",
+      "jp": "うーん",
+      "jp_html": "うーん",
+      "zh": "嗯嗯",
+      "en": "Hmm"
+    },
+    {
+      "id": 118,
+      "start": 868.58,
+      "end": 870.86,
+      "ts": "14:28.580 -> 14:30.860",
+      "jp": "って言われても",
+      "jp_html": "って<ruby>言わ<rt>いわ</rt></ruby>れても",
+      "zh": "这么说我也无能为力",
+      "en": "If you say so"
+    },
+    {
+      "id": 119,
+      "start": 870.86,
+      "end": 886.02,
+      "ts": "14:30.860 -> 14:46.020",
+      "jp": "ん?って言うのに鈴の音がチッともしなかったぞ",
+      "jp_html": "ん?って<ruby>言う<rt>いう</rt></ruby>のに<ruby>鈴<rt>すず</rt></ruby>の<ruby>音<rt>おと</rt></ruby>がチッともしなかったぞ",
+      "zh": "你说“ん？”可铃声一点也没响。",
+      "en": "Hm? But the bell didn't ring at all."
+    },
+    {
+      "id": 120,
+      "start": 886.02,
+      "end": 887.54,
+      "ts": "14:46.020 -> 14:47.540",
+      "jp": "でもどうして",
+      "jp_html": "でもどうして",
+      "zh": "为什么呢",
+      "en": "But why"
+    },
+    {
+      "id": 121,
+      "start": 887.54,
+      "end": 890.3,
+      "ts": "14:47.540 -> 14:50.300",
+      "jp": "自分で考えろ",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考え<rt>かんがえ</rt></ruby>ろ",
+      "zh": "自己思考",
+      "en": "Think for yourself."
+    },
+    {
+      "id": 122,
+      "start": 890.3,
+      "end": 906.78,
+      "ts": "14:50.300 -> 15:06.780",
+      "jp": "オラだとちょっと動いただけでもなっちまうぞ",
+      "jp_html": "オラだとちょっと<ruby>動い<rt>うごい</rt></ruby>ただけでもなっちまうぞ",
+      "zh": "我动一下都会呢一声的",
+      "en": "If I were you, even a little movement would give me away."
+    },
+    {
+      "id": 123,
+      "start": 906.78,
+      "end": 909.04,
+      "ts": "15:06.780 -> 15:09.040",
+      "jp": "わかった手品だ",
+      "jp_html": "わかった<ruby>手品<rt>てじな</rt></ruby>だ",
+      "zh": "明白了，是魔术",
+      "en": "It's a magic trick I see"
+    },
+    {
+      "id": 124,
+      "start": 909.04,
+      "end": 911.12,
+      "ts": "15:09.040 -> 15:11.120",
+      "jp": "やっぱり帰れ",
+      "jp_html": "やっぱり<ruby>帰れ<rt>かえれ</rt></ruby>",
+      "zh": "果然想回家了",
+      "en": "I guess I can go back."
+    },
+    {
+      "id": 125,
+      "start": 911.12,
+      "end": 912.64,
+      "ts": "15:11.120 -> 15:12.640",
+      "jp": "ああ冗談",
+      "jp_html": "ああ<ruby>冗談<rt>じょうだん</rt></ruby>",
+      "zh": "哈哈开玩笑",
+      "en": "Ah, just joking."
+    },
+    {
+      "id": 126,
+      "start": 912.64,
+      "end": 914.06,
+      "ts": "15:12.640 -> 15:14.060",
+      "jp": "冗談",
+      "jp_html": "<ruby>冗談<rt>じょうだん</rt></ruby>",
+      "zh": "闲话",
+      "en": "Joke"
+    },
+    {
+      "id": 127,
+      "start": 914.06,
+      "end": 921.55,
+      "ts": "15:14.060 -> 15:21.550",
+      "jp": "ミスターポポ神様の番人冗談好きじゃない",
+      "jp_html": "ミスターポポ<ruby>神様<rt>かみさま</rt></ruby>の<ruby>番人<rt>ばんにん</rt></ruby><ruby>冗談<rt>じょうだん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "Mr. Popo神様の番人冗谈好きじゃない",
+      "en": "Mr. Popo god sir doesn't like jokes"
+    },
+    {
+      "id": 128,
+      "start": 921.55,
+      "end": 925.67,
+      "ts": "15:21.550 -> 15:25.670",
+      "jp": "だけどオラちょっと思い出したことがあるんだ",
+      "jp_html": "だけどオラちょっと<ruby>思い出し<rt>おもいだし</rt></ruby>たことがあるんだ",
+      "zh": "但是奥拉突然想起了一件事",
+      "en": "But I think I remember something."
+    },
+    {
+      "id": 129,
+      "start": 925.67,
+      "end": 933.13,
+      "ts": "15:25.670 -> 15:33.130",
+      "jp": "前にクリリンと一緒に修行してた時のことなんだけどさ",
+      "jp_html": "<ruby>前<rt>まえ</rt></ruby>にクリリンと<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>してた<ruby>時の<rt>ときの</rt></ruby>ことなんだけどさ",
+      "zh": "那是以前和克林一起修炼的时候的事情啦",
+      "en": "It's about something that happened when I was training together with Krillin before."
+    },
+    {
+      "id": 130,
+      "start": 933.13,
+      "end": 952.55,
+      "ts": "15:33.130 -> 15:52.550",
+      "jp": "どこそっとこそそそ",
+      "jp_html": "どこそっとこそそそ",
+      "zh": "轻轻地才对",
+      "en": "Gently just there"
+    },
+    {
+      "id": 131,
+      "start": 952.55,
+      "end": 955.55,
+      "ts": "15:52.550 -> 15:55.550",
+      "jp": "やってみんしょい",
+      "jp_html": "やってみんしょい",
+      "zh": "试试看",
+      "en": "Let's try it first"
+    },
+    {
+      "id": 132,
+      "start": 1020.22,
+      "end": 1024.22,
+      "ts": "17:00.220 -> 17:04.220",
+      "jp": "鈴を鳴らさないようになれたら、俺もポポに勝てるかもしれね。",
+      "jp_html": "<ruby>鈴<rt>すず</rt></ruby>を<ruby>鳴ら<rt>なら</rt></ruby>さないようになれたら、<ruby>俺<rt>おれ</rt></ruby>もポポに<ruby>勝て<rt>かて</rt></ruby>るかもしれね。",
+      "zh": "如果我能做到不发出铃声的话，也许我也能赢过波波。",
+      "en": "If I could manage not to ring the bell, maybe I could beat Popo."
+    },
+    {
+      "id": 133,
+      "start": 1024.22,
+      "end": 1033.22,
+      "ts": "17:04.220 -> 17:13.220",
+      "jp": "そのためにはまだまだ修行が必要。何年かかるかわからない。何年かかっても勝てないかもわからない。",
+      "jp_html": "そのためにはまだまだ<ruby>修行<rt>しゅぎょう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>。<ruby>何年<rt>なんねん</rt></ruby>かかるかわからない。<ruby>何年<rt>なんねん</rt></ruby>かかっても<ruby>勝て<rt>かて</rt></ruby>ないかもわからない。",
+      "zh": "因此还需要继续修炼。不知道要花多少年。说不定练了几年也未必能赢。",
+      "en": "For that, there is still much training needed. It's unclear how many years it will take. It might not be winnable even if it takes several years."
+    },
+    {
+      "id": 134,
+      "start": 1033.22,
+      "end": 1054.87,
+      "ts": "17:13.220 -> 17:34.870",
+      "jp": "お前どうする?ミスター・ポポに勝てるまで頑張るか?",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>どうする?ミスター・ポポに<ruby>勝て<rt>かて</rt></ruby>るまで<ruby>頑張る<rt>がんばる</rt></ruby>か?",
+      "zh": "你怎么办？要努力直到能战胜先生·波波吗？",
+      "en": "What will you do? Will you work hard to beat Mister Popo?"
+    },
+    {
+      "id": 135,
+      "start": 1054.87,
+      "end": 1058.87,
+      "ts": "17:34.870 -> 17:38.870",
+      "jp": "やるさ!やんなきゃなんねえし、やってみてよ!",
+      "jp_html": "やるさ!やんなきゃなんねえし、やってみてよ!",
+      "zh": "干吗！不做怎么行呢！试试看吧！",
+      "en": "Come on! If you don't do it, you can't do it anyway, so try it!"
+    },
+    {
+      "id": 136,
+      "start": 1058.87,
+      "end": 1060.87,
+      "ts": "17:38.870 -> 17:40.870",
+      "jp": "気に入ったぞ。",
+      "jp_html": "<ruby>気に入っ<rt>きにいっ</rt></ruby>たぞ。",
+      "zh": "我喜欢。",
+      "en": "I like it."
+    },
+    {
+      "id": 137,
+      "start": 1060.87,
+      "end": 1065.97,
+      "ts": "17:40.870 -> 17:45.970",
+      "jp": "そうだ!",
+      "jp_html": "そうだ!",
+      "zh": "对了！",
+      "en": "Yes!"
+    },
+    {
+      "id": 138,
+      "start": 1065.97,
+      "end": 1067.97,
+      "ts": "17:45.970 -> 17:47.970",
+      "jp": "え、やっぱ?",
+      "jp_html": "え、やっぱ?",
+      "zh": "哎，果然？",
+      "en": "Oh, really?"
+    },
+    {
+      "id": 139,
+      "start": 1067.97,
+      "end": 1070.97,
+      "ts": "17:47.970 -> 17:50.970",
+      "jp": "会ってやろう、今すぐな。",
+      "jp_html": "<ruby>会っ<rt>あっ</rt></ruby>てやろう、<ruby>今す<rt>います</rt></ruby>ぐな。",
+      "zh": "现在去见他。",
+      "en": "Let's meet, right now."
+    },
+    {
+      "id": 140,
+      "start": 1070.97,
+      "end": 1075.97,
+      "ts": "17:50.970 -> 17:55.970",
+      "jp": "ホント!",
+      "jp_html": "ホント!",
+      "zh": "真的！",
+      "en": "Really!"
+    },
+    {
+      "id": 141,
+      "start": 1075.97,
+      "end": 1087.24,
+      "ts": "17:55.970 -> 18:07.240",
+      "jp": "お前ラッキーよかった。ついて来い。ここで待つ。",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>ラッキーよかった。ついて<ruby>来い<rt>こい</rt></ruby>。ここで<ruby>待つ<rt>まつ</rt></ruby>。",
+      "zh": "你挺幸运的。跟上。在这里等着。",
+      "en": "You were lucky. Follow me. Wait here."
+    },
+    {
+      "id": 142,
+      "start": 1087.24,
+      "end": 1091.24,
+      "ts": "18:07.240 -> 18:11.240",
+      "jp": "うん。なんかドキドキするな。",
+      "jp_html": "うん。なんかドキドキするな。",
+      "zh": "嗯。感觉心跳加速呢。",
+      "en": "Yeah. I'm kind of excited."
+    },
+    {
+      "id": 143,
+      "start": 1091.24,
+      "end": 1131.23,
+      "ts": "18:11.240 -> 18:51.230",
+      "jp": "なった!これじゃない!似てるけど違う!",
+      "jp_html": "なった!これじゃない!<ruby>似て<rt>にて</rt></ruby>るけど<ruby>違う<rt>ちがう</rt></ruby>!",
+      "zh": "成了！这不是！相似但不一样！",
+      "en": "Became! This isn't! It's similar but different!"
+    },
+    {
+      "id": 144,
+      "start": 1131.23,
+      "end": 1138.53,
+      "ts": "18:51.230 -> 18:58.530",
+      "jp": "カリンから何も聞いておらんかったか?",
+      "jp_html": "カリンから<ruby>何も<rt>なにも</rt></ruby><ruby>聞い<rt>きい</rt></ruby>ておらんかったか?",
+      "zh": "卡琳什么都没告诉你吗？",
+      "en": "Did you hear anything from Karin?"
+    },
+    {
+      "id": 145,
+      "start": 1138.53,
+      "end": 1143.41,
+      "ts": "18:58.530 -> 19:03.410",
+      "jp": "カリン様から?",
+      "jp_html": "カリン<ruby>様<rt>さま</rt></ruby>から?",
+      "zh": "是从卡琳女士那里？",
+      "en": "From Miss Karin?"
+    },
+    {
+      "id": 146,
+      "start": 1143.41,
+      "end": 1150.89,
+      "ts": "19:03.410 -> 19:10.890",
+      "jp": "あのいたずら者め。",
+      "jp_html": "あのいたずら<ruby>者<rt>もの</rt></ruby>め。",
+      "zh": "那个恶作剧家伙。",
+      "en": "Those mischievous ones."
+    },
+    {
+      "id": 147,
+      "start": 1150.89,
+      "end": 1157.11,
+      "ts": "19:10.890 -> 19:17.110",
+      "jp": "その昔、私とピッコロは一つであった。一人の武道家だったんだ。",
+      "jp_html": "その<ruby>昔<rt>むかし</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>とピッコロは<ruby>一つ<rt>ひとつ</rt></ruby>であった。<ruby>一人<rt>ひとり</rt></ruby>の<ruby>武道<rt>ぶどう</rt></ruby><ruby>家<rt>いえ</rt></ruby>だったんだ。",
+      "zh": "昔日，我和比克是一个人。我们是个武术家。",
+      "en": "Long ago, I and Piccolo were one. We were a martial artist."
+    },
+    {
+      "id": 148,
+      "start": 1157.19,
+      "end": 1157.43,
+      "ts": "19:17.190 -> 19:17.430",
+      "jp": "え?",
+      "jp_html": "え?",
+      "zh": "嗯？",
+      "en": "Oh?"
+    },
+    {
+      "id": 149,
+      "start": 1158.29,
+      "end": 1164.77,
+      "ts": "19:18.290 -> 19:24.770",
+      "jp": "ある時、神の存在を知り、ここへやってきたのだ。お前のようになった。",
+      "jp_html": "ある<ruby>時<rt>とき</rt></ruby>、<ruby>神<rt>かみ</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>知り<rt>しり</rt></ruby>、ここへやってきたのだ。お<ruby>前<rt>まえ</rt></ruby>のようになった。",
+      "zh": "有一天，他知道有神的存在，便来到这里。你就是这样子的。",
+      "en": "One day, knowing of the existence of God, I came here. You became like me."
+    },
+    {
+      "id": 150,
+      "start": 1166.64,
+      "end": 1172.94,
+      "ts": "19:26.640 -> 19:32.940",
+      "jp": "残念ながら、神も死ぬのだ。私は神の新しい後継者になりたかった。",
+      "jp_html": "<ruby>残念<rt>ざんねん</rt></ruby>ながら、<ruby>神<rt>かみ</rt></ruby>も<ruby>死ぬ<rt>しぬ</rt></ruby>のだ。<ruby>私<rt>わたし</rt></ruby>は<ruby>神<rt>かみ</rt></ruby>の<ruby>新しい<rt>あたらしい</rt></ruby><ruby>後継者<rt>こうけいしゃ</rt></ruby>になりたかった。",
+      "zh": "可惜的是，神也会死去。我想成为神的新继承者。",
+      "en": "Unfortunately, even gods die. I wanted to be the new successor of the god."
+    },
+    {
+      "id": 151,
+      "start": 1172.94,
+      "end": 1182.37,
+      "ts": "19:32.940 -> 19:42.370",
+      "jp": "だが、神はいつまでたっても私を認めては下されなかった。",
+      "jp_html": "だが、<ruby>神<rt>かみ</rt></ruby>はいつまでたっても<ruby>私<rt>わたし</rt></ruby>を<ruby>認め<rt>みとめ</rt></ruby>ては<ruby>下さ<rt>くださ</rt></ruby>れなかった。",
+      "zh": "但神始终没有认出我来。",
+      "en": "But, God never recognized me despite waiting for so long."
+    },
+    {
+      "id": 152,
+      "start": 1182.37,
+      "end": 1192.98,
+      "ts": "19:42.370 -> 19:52.980",
+      "jp": "神の後継者は自分以上の者はいないと信じておったのに",
+      "jp_html": "<ruby>神<rt>かみ</rt></ruby>の<ruby>後継者<rt>こうけいしゃ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>はいないと<ruby>信じ<rt>しんじ</rt></ruby>ておったのに",
+      "zh": "他相信继任者无人能超越自己。",
+      "en": "I believed that there would be none greater than myself in the succession of gods."
+    },
+    {
+      "id": 153,
+      "start": 1192.98,
+      "end": 1199.98,
+      "ts": "19:52.980 -> 19:59.980",
+      "jp": "だが私の心の奥底にほんのわずかだが悪が潜んでいたのを",
+      "jp_html": "だが<ruby>私<rt>わたし</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>の<ruby>奥底<rt>おくそこ</rt></ruby>にほんのわずかだが<ruby>悪が<rt>わるが</rt></ruby><ruby>潜ん<rt>ひそん</rt></ruby>でいたのを",
+      "zh": "但我的内心深处仍有一丝恶存在",
+      "en": "But there was a tiny bit of evil lurking deep in my heart."
+    },
+    {
+      "id": 154,
+      "start": 1199.98,
+      "end": 1203.36,
+      "ts": "19:59.980 -> 20:03.360",
+      "jp": "神は見抜いておられたのだ",
+      "jp_html": "<ruby>神<rt>かみ</rt></ruby>は<ruby>見抜い<rt>みぬい</rt></ruby>ておられたのだ",
+      "zh": "上帝看得清楚Ḥ",
+      "en": "God had seen through it."
+    },
+    {
+      "id": 155,
+      "start": 1203.36,
+      "end": 1207.32,
+      "ts": "20:03.360 -> 20:07.320",
+      "jp": "私はさらに苦しい修行の末",
+      "jp_html": "<ruby>私<rt>わたし</rt></ruby>はさらに<ruby>苦しい<rt>くるしい</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>の<ruby>末<rt>まつ</rt></ruby>",
+      "zh": "我经过更艰苦的修炼之后",
+      "en": "After further arduous training and practice"
+    },
+    {
+      "id": 156,
+      "start": 1207.32,
+      "end": 1211.12,
+      "ts": "20:07.320 -> 20:11.120",
+      "jp": "とうとうその悪を追い出すことができた",
+      "jp_html": "とうとうその<ruby>悪<rt>あく</rt></ruby>を<ruby>追い出す<rt>おいだす</rt></ruby>ことができた",
+      "zh": "终于可以把那个恶彻底驱除了",
+      "en": "We were finally able to drive out that evil."
+    },
+    {
+      "id": 157,
+      "start": 1211.12,
+      "end": 1218.84,
+      "ts": "20:11.120 -> 20:18.840",
+      "jp": "そのわずかな悪がピッコロ大魔王だ",
+      "jp_html": "そのわずかな<ruby>悪が<rt>わるが</rt></ruby>ピッコロ<ruby>大魔王<rt>だいまおう</rt></ruby>だ",
+      "zh": "那一点点的邪恶是比克大魔王的",
+      "en": "That tiny evil is King Piccolo."
+    },
+    {
+      "id": 158,
+      "start": 1218.84,
+      "end": 1221.54,
+      "ts": "20:18.840 -> 20:21.540",
+      "jp": "私は新しい神になったが",
+      "jp_html": "<ruby>私<rt>わたし</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby><ruby>神<rt>かみ</rt></ruby>になったが",
+      "zh": "我成了新的神",
+      "en": "I have become a new god."
+    },
+    {
+      "id": 159,
+      "start": 1221.54,
+      "end": 1222.88,
+      "ts": "20:21.540 -> 20:22.880",
+      "jp": "奴は地上に逃げ",
+      "jp_html": "<ruby>奴<rt>やつ</rt></ruby>は<ruby>地上<rt>ちじょう</rt></ruby>に<ruby>逃げ<rt>にげ</rt></ruby>",
+      "zh": "我跑到地上去了。",
+      "en": "He fled to the ground."
+    },
+    {
+      "id": 160,
+      "start": 1222.88,
+      "end": 1225.42,
+      "ts": "20:22.880 -> 20:25.420",
+      "jp": "人々を苦しめてしまった",
+      "jp_html": "<ruby>人々<rt>ひとびと</rt></ruby>を<ruby>苦し<rt>くるし</rt></ruby>めてしまった",
+      "zh": "给人们带来了痛苦",
+      "en": "I have caused suffering to people"
+    },
+    {
+      "id": 161,
+      "start": 1225.42,
+      "end": 1228.74,
+      "ts": "20:25.420 -> 20:28.740",
+      "jp": "すまぬと思っておる",
+      "jp_html": "すまぬと<ruby>思って<rt>おもって</rt></ruby>おる",
+      "zh": "我心想可能是不小心了。",
+      "en": "I think I should apologize."
+    },
+    {
+      "id": 162,
+      "start": 1228.74,
+      "end": 1231.62,
+      "ts": "20:28.740 -> 20:31.620",
+      "jp": "そのピッコロをお前は倒してくれた",
+      "jp_html": "そのピッコロをお<ruby>前<rt>まえ</rt></ruby>は<ruby>倒し<rt>たおし</rt></ruby>てくれた",
+      "zh": "你把那支皮克罗给打败了",
+      "en": "You defeated that Piccolo for me."
+    },
+    {
+      "id": 163,
+      "start": 1231.62,
+      "end": 1234.68,
+      "ts": "20:31.620 -> 20:34.680",
+      "jp": "例の意味でも頼みを聞いてやろう",
+      "jp_html": "<ruby>例の<rt>れいの</rt></ruby><ruby>意味<rt>いみ</rt></ruby>でも<ruby>頼み<rt>たのみ</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>てやろう",
+      "zh": "试试那个意思也听听请求吧",
+      "en": "I'll hear out their request for that meaning as well."
+    },
+    {
+      "id": 164,
+      "start": 1234.68,
+      "end": 1235.7,
+      "ts": "20:34.680 -> 20:35.700",
+      "jp": "やったー",
+      "jp_html": "やったー",
+      "zh": "耶peepee",
+      "en": "Yatta～"
+    },
+    {
+      "id": 165,
+      "start": 1235.7,
+      "end": 1237.86,
+      "ts": "20:35.700 -> 20:37.860",
+      "jp": "ただしお前がこのままここで",
+      "jp_html": "ただしお<ruby>前<rt>まえ</rt></ruby>がこのままここで",
+      "zh": "只是你要是继续待在这里",
+      "en": "Just in case you stay here like this"
+    },
+    {
+      "id": 166,
+      "start": 1237.86,
+      "end": 1241.48,
+      "ts": "20:37.860 -> 20:41.480",
+      "jp": "もう少し修行をする気があればの話だが",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>をする<ruby>気が<rt>きが</rt></ruby>あればの<ruby>話<rt>はなし</rt></ruby>だが",
+      "zh": "如果他愿意再修炼一下的话",
+      "en": "If one were willing to do more training."
+    },
+    {
+      "id": 167,
+      "start": 1241.48,
+      "end": 1246.68,
+      "ts": "20:41.480 -> 20:46.680",
+      "jp": "もちろん喜んで修行するさ",
+      "jp_html": "もちろん<ruby>喜んで<rt>よろこんで</rt></ruby><ruby>修行<rt>しゅぎょう</rt></ruby>するさ",
+      "zh": "当然乐意修行下去",
+      "en": "Of course I'll gladly do the training."
+    },
+    {
+      "id": 168,
+      "start": 1246.68,
+      "end": 1247.7,
+      "ts": "20:46.680 -> 20:47.700",
+      "jp": "よろしい",
+      "jp_html": "よろしい",
+      "zh": "好的",
+      "en": "Okay"
+    },
+    {
+      "id": 169,
+      "start": 1247.7,
+      "end": 1250.4,
+      "ts": "20:47.700 -> 20:50.400",
+      "jp": "お前の頼みは分かっておるぞ",
+      "jp_html": "お<ruby>前<rt>まえ</rt></ruby>の<ruby>頼み<rt>たのみ</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>っておるぞ",
+      "zh": "我知道你的请求。",
+      "en": "I know what you're asking for."
+    },
+    {
+      "id": 170,
+      "start": 1250.4,
+      "end": 1255.6,
+      "ts": "20:50.400 -> 20:55.600",
+      "jp": "だが、いくら神でも人を生き返らせることはできん。",
+      "jp_html": "だが、いくら<ruby>神<rt>かみ</rt></ruby>でも<ruby>人<rt>にん</rt></ruby>を<ruby>生き返ら<rt>いきかえら</rt></ruby>せることはできん。",
+      "zh": "但是，再怎么是神也不能让死人复活。",
+      "en": "But even a god cannot bring a person back to life."
+    },
+    {
+      "id": 171,
+      "start": 1255.9,
+      "end": 1256.4,
+      "ts": "20:55.900 -> 20:56.400",
+      "jp": "えぇ?",
+      "jp_html": "えぇ?",
+      "zh": "嗯？",
+      "en": "Ah?"
+    },
+    {
+      "id": 172,
+      "start": 1257.84,
+      "end": 1261.18,
+      "ts": "20:57.840 -> 21:01.180",
+      "jp": "しかし、シェンロンは私の作ったものだ。",
+      "jp_html": "しかし、シェンロンは<ruby>私<rt>わたし</rt></ruby>の<ruby>作っ<rt>つくっ</rt></ruby>たものだ。",
+      "zh": "然而，舍伦是我做的。",
+      "en": "However, Shenron is mine."
+    },
+    {
+      "id": 173,
+      "start": 1261.82,
+      "end": 1264.86,
+      "ts": "21:01.820 -> 21:04.860",
+      "jp": "シェンロンならば生き返らせることはできる。",
+      "jp_html": "シェンロンならば<ruby>生き返ら<rt>いきかえら</rt></ruby>せることはできる。",
+      "zh": "如果使用谢伦，就能复活。",
+      "en": "If Shenron can bring someone back from the dead."
+    },
+    {
+      "id": 174,
+      "start": 1265.0,
+      "end": 1267.16,
+      "ts": "21:05.000 -> 21:07.160",
+      "jp": "あとはシェンロンに頼むがよい。",
+      "jp_html": "あとはシェンロンに<ruby>頼む<rt>たのむ</rt></ruby>がよい。",
+      "zh": "那就拜托 Shenlong 了。",
+      "en": "You should ask Chenlong for help."
+    },
+    {
+      "id": 175,
+      "start": 1267.34,
+      "end": 1268.04,
+      "ts": "21:07.340 -> 21:08.040",
+      "jp": "な、なんだ?",
+      "jp_html": "な、なんだ?",
+      "zh": "什么？",
+      "en": "What?"
+    },
+    {
+      "id": 176,
+      "start": 1270.34,
+      "end": 1272.88,
+      "ts": "21:10.340 -> 21:12.880",
+      "jp": "ただし、私への頼みはこれ限りだ。",
+      "jp_html": "ただし、<ruby>私<rt>わたし</rt></ruby>への<ruby>頼み<rt>たのみ</rt></ruby>はこれ<ruby>限り<rt>かぎり</rt></ruby>だ。",
+      "zh": "但是，你只可以求我一次。",
+      "en": "However, this is the last request you make of me."
+    },
+    {
+      "id": 177,
+      "start": 1273.28,
+      "end": 1277.88,
+      "ts": "21:13.280 -> 21:17.880",
+      "jp": "自分たちの世界は自分たちの力で切り開いていくものだからな。",
+      "jp_html": "<ruby>自分たち<rt>じぶんたち</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>は<ruby>自分たち<rt>じぶんたち</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>で<ruby>切り<rt>きり</rt></ruby><ruby>開い<rt>ひらい</rt></ruby>ていくものだからな。",
+      "zh": "因为自己的世界是靠自己力量开辟出来的。",
+      "en": "Our world is something we carve out with our own power."
+    },
+    {
+      "id": 178,
+      "start": 1277.88,
+      "end": 1287.8,
+      "ts": "21:17.880 -> 21:27.800",
+      "jp": "さあ、では早速シェンロンの奴を生き返らせてやる。ドラゴンボールの復活だ。",
+      "jp_html": "さあ、では<ruby>早速<rt>さっそく</rt></ruby>シェンロンの<ruby>奴<rt>やつ</rt></ruby>を<ruby>生き返ら<rt>いきかえら</rt></ruby>せてやる。ドラゴンボールの<ruby>復活<rt>ふっかつ</rt></ruby>だ。",
+      "zh": "好了，那就立刻让 Shenlong 苏醒过来。龙珠的复活。",
+      "en": "All right, then let's bring Shenron back to life. It's a Dragon Ball resurrection."
+    },
+    {
+      "id": 179,
+      "start": 1287.8,
+      "end": 1294.58,
+      "ts": "21:27.800 -> 21:34.580",
+      "jp": "やったやったー!やったやった!",
+      "jp_html": "やったやったー!やったやった!",
+      "zh": "耶耶！耶耶！",
+      "en": "Yatta yatta! Yatta yatta!"
+    },
+    {
+      "id": 180,
+      "start": 1294.58,
+      "end": 1301.18,
+      "ts": "21:34.580 -> 21:41.180",
+      "jp": "シェンロン復活。本当に亀仙人やクリリンたちは生き返るのか?",
+      "jp_html": "シェンロン<ruby>復活<rt>ふっかつ</rt></ruby>。<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>亀<rt>かめ</rt></ruby><ruby>仙人<rt>せんにん</rt></ruby>やクリリンたちは<ruby>生き返る<rt>いきかえる</rt></ruby>のか?",
+      "zh": "Shenron复活。龟仙人和克林真的会复活吗？",
+      "en": "Shenron revival. Really, will Kami and Chilin really be revived?"
+    }
+  ]
+}
