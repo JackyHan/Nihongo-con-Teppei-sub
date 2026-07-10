@@ -1,5 +1,53 @@
 [
   {
+    "id": "1544",
+    "title": "#1544「漫画（まんが）について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/07/06/1544%e3%80%8c%e6%bc%ab%e7%94%bb%ef%bc%88%e3%81%be%e3%82%93%e3%81%8c%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1544.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1544.json"
+  },
+  {
+    "id": "1543",
+    "title": "#1543「アニメについて！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/07/04/1543%e3%80%8c%e3%82%a2%e3%83%8b%e3%83%a1%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1543.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1543.json"
+  },
+  {
+    "id": "1542",
+    "title": "#1542「映画について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/07/01/1542%e3%80%8c%e6%98%a0%e7%94%bb%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1542.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1542.json"
+  },
+  {
+    "id": "1541",
+    "title": "#1541「写真（しゃしん）について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/06/29/1541%e3%80%8c%e5%86%99%e7%9c%9f%ef%bc%88%e3%81%97%e3%82%83%e3%81%97%e3%82%93%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1541.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1541.json"
+  },
+  {
     "id": "1540",
     "title": "#1540「バーベキューについて！」",
     "category_id": "podcast",

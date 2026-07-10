@@ -1,0 +1,1174 @@
+{
+  "id": "1543",
+  "title": "#1543「アニメについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1543.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1543.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/07/04/1543%e3%80%8c%e3%82%a2%e3%83%8b%e3%83%a1%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.36,
+      "end": 3.36,
+      "ts": "00:01.360 -> 00:03.360",
+      "jp": "しゃっきーん",
+      "jp_html": "しゃっきーん",
+      "zh": "尖叫",
+      "en": "shakkīn"
+    },
+    {
+      "id": 1,
+      "start": 3.36,
+      "end": 7.32,
+      "ts": "00:03.360 -> 00:07.320",
+      "jp": "今日はアニメについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>アニメについて",
+      "zh": "今天关于动画的话题",
+      "en": "Today, I'm going to talk about anime."
+    },
+    {
+      "id": 2,
+      "start": 7.32,
+      "end": 10.86,
+      "ts": "00:07.320 -> 00:10.860",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 10.86,
+      "end": 13.56,
+      "ts": "00:10.860 -> 00:13.560",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 13.56,
+      "end": 14.92,
+      "ts": "00:13.560 -> 00:14.920",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 14.92,
+      "end": 19.84,
+      "ts": "00:14.920 -> 00:19.840",
+      "jp": "前回映画について話しました",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby><ruby>映画<rt>えいが</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>ました",
+      "zh": "上次我们谈到了电影的话题",
+      "en": "Last time we talked about movies."
+    },
+    {
+      "id": 6,
+      "start": 19.84,
+      "end": 24.78,
+      "ts": "00:19.840 -> 00:24.780",
+      "jp": "今日はアニメについて話したいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>アニメについて<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "今天我想谈谈动画",
+      "en": "Today, I want to talk about anime."
+    },
+    {
+      "id": 7,
+      "start": 24.78,
+      "end": 28.3,
+      "ts": "00:24.780 -> 00:28.300",
+      "jp": "僕は子供の時",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "我小时候",
+      "en": "I was a child when"
+    },
+    {
+      "id": 8,
+      "start": 28.3,
+      "end": 30.54,
+      "ts": "00:28.300 -> 00:30.540",
+      "jp": "ドラゴンボールとか",
+      "jp_html": "ドラゴンボールとか",
+      "zh": "龙珠之类的",
+      "en": "Dragon Ball or something"
+    },
+    {
+      "id": 9,
+      "start": 30.54,
+      "end": 33.1,
+      "ts": "00:30.540 -> 00:33.100",
+      "jp": "鉄腕アトム",
+      "jp_html": "<ruby>鉄腕<rt>てつわん</rt></ruby>アトム",
+      "zh": "铁臂阿童木",
+      "en": "Iron Arm Atom"
+    },
+    {
+      "id": 10,
+      "start": 33.1,
+      "end": 35.12,
+      "ts": "00:33.100 -> 00:35.120",
+      "jp": "アストロボーイね",
+      "jp_html": "アストロボーイね",
+      "zh": "Astroboy呢",
+      "en": "Astro Boy"
+    },
+    {
+      "id": 11,
+      "start": 35.12,
+      "end": 36.44,
+      "ts": "00:35.120 -> 00:36.440",
+      "jp": "鉄腕アトム",
+      "jp_html": "<ruby>鉄腕<rt>てつわん</rt></ruby>アトム",
+      "zh": "铁臂阿童木",
+      "en": "Iron Arm Atom"
+    },
+    {
+      "id": 12,
+      "start": 36.44,
+      "end": 40.54,
+      "ts": "00:36.440 -> 00:40.540",
+      "jp": "あとドラえもんとか",
+      "jp_html": "あとドラえもんとか",
+      "zh": "还有哆啦A梦之类的",
+      "en": "And Doraemon too"
+    },
+    {
+      "id": 13,
+      "start": 40.54,
+      "end": 42.64,
+      "ts": "00:40.540 -> 00:42.640",
+      "jp": "そういう",
+      "jp_html": "そういう",
+      "zh": "这样的",
+      "en": "That's it"
+    },
+    {
+      "id": 14,
+      "start": 42.64,
+      "end": 47.24,
+      "ts": "00:42.640 -> 00:47.240",
+      "jp": "アニメですね",
+      "jp_html": "アニメですね",
+      "zh": "这是动画吧",
+      "en": "It's an anime, right?"
+    },
+    {
+      "id": 15,
+      "start": 47.24,
+      "end": 49.58,
+      "ts": "00:47.240 -> 00:49.580",
+      "jp": "たくさん見てました",
+      "jp_html": "たくさん<ruby>見て<rt>みて</rt></ruby>ました",
+      "zh": "看了很多",
+      "en": "I watched a lot."
+    },
+    {
+      "id": 16,
+      "start": 49.58,
+      "end": 53.7,
+      "ts": "00:49.580 -> 00:53.700",
+      "jp": "あとやっぱり",
+      "jp_html": "あとやっぱり",
+      "zh": "果然还是",
+      "en": "And still definitely"
+    },
+    {
+      "id": 17,
+      "start": 53.7,
+      "end": 54.28,
+      "ts": "00:53.700 -> 00:54.280",
+      "jp": "ジブリ",
+      "jp_html": "ジブリ",
+      "zh": "吉卜力",
+      "en": "Ghibli"
+    },
+    {
+      "id": 18,
+      "start": 54.28,
+      "end": 57.44,
+      "ts": "00:54.280 -> 00:57.440",
+      "jp": "ジブリは結構見てましたね",
+      "jp_html": "ジブリは<ruby>結構<rt>けっこう</rt></ruby><ruby>見て<rt>みて</rt></ruby>ましたね",
+      "zh": "看来你看过吉卜力的作品呢",
+      "en": "I watched Ghibli movies quite a bit, didn't I?"
+    },
+    {
+      "id": 19,
+      "start": 57.44,
+      "end": 59.82,
+      "ts": "00:57.440 -> 00:59.820",
+      "jp": "隣のトトロ",
+      "jp_html": "<ruby>隣<rt>となり</rt></ruby>のトトロ",
+      "zh": "旁边的托托罗",
+      "en": "Next to Totoro"
+    },
+    {
+      "id": 20,
+      "start": 59.82,
+      "end": 62.8,
+      "ts": "00:59.820 -> 01:02.800",
+      "jp": "魔女の宅急便",
+      "jp_html": "<ruby>魔女<rt>まじょ</rt></ruby>の<ruby>宅急便<rt>たっきゅうびん</rt></ruby>",
+      "zh": "魔法少女快递员",
+      "en": "The Witch's Familiar"
+    },
+    {
+      "id": 21,
+      "start": 62.8,
+      "end": 64.12,
+      "ts": "01:02.800 -> 01:04.120",
+      "jp": "ナウシカ",
+      "jp_html": "ナウシカ",
+      "zh": "娜乌西卡",
+      "en": "Nausicaä"
+    },
+    {
+      "id": 22,
+      "start": 64.12,
+      "end": 65.94,
+      "ts": "01:04.120 -> 01:05.940",
+      "jp": "まあいろいろね",
+      "jp_html": "まあいろいろね",
+      "zh": "嗯，各种事情吧",
+      "en": "Well, various things."
+    },
+    {
+      "id": 23,
+      "start": 65.94,
+      "end": 67.06,
+      "ts": "01:05.940 -> 01:07.060",
+      "jp": "いろいろです",
+      "jp_html": "いろいろです",
+      "zh": "各种各样",
+      "en": "It varies."
+    },
+    {
+      "id": 24,
+      "start": 67.06,
+      "end": 69.52,
+      "ts": "01:07.060 -> 01:09.520",
+      "jp": "いろいろ見ていた",
+      "jp_html": "いろいろ<ruby>見て<rt>みて</rt></ruby>いた",
+      "zh": "看了很多",
+      "en": "I looked at various things."
+    },
+    {
+      "id": 25,
+      "start": 69.52,
+      "end": 70.54,
+      "ts": "01:09.520 -> 01:10.540",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 26,
+      "start": 70.54,
+      "end": 74.92,
+      "ts": "01:10.540 -> 01:14.920",
+      "jp": "他にもいろいろあるんですけど",
+      "jp_html": "<ruby>他に<rt>ほかに</rt></ruby>もいろいろあるんですけど",
+      "zh": "还有很多其他的东西不过",
+      "en": "There are also many other things, but..."
+    },
+    {
+      "id": 27,
+      "start": 74.92,
+      "end": 78.16,
+      "ts": "01:14.920 -> 01:18.160",
+      "jp": "僕が子供だった時やっぱり",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>だった<ruby>時<rt>とき</rt></ruby>やっぱり",
+      "zh": "我小时候果然",
+      "en": "When I was a child, really"
+    },
+    {
+      "id": 28,
+      "start": 78.16,
+      "end": 80.38,
+      "ts": "01:18.160 -> 01:20.380",
+      "jp": "80年代なんですね",
+      "jp_html": "80<ruby>年代<rt>ねんだい</rt></ruby>なんですね",
+      "zh": "那是80年代啊",
+      "en": "It was in the 1980s, wasn't it?"
+    },
+    {
+      "id": 29,
+      "start": 80.38,
+      "end": 82.1,
+      "ts": "01:20.380 -> 01:22.100",
+      "jp": "80年代で",
+      "jp_html": "80<ruby>年代<rt>ねんだい</rt></ruby>で",
+      "zh": "80年代里",
+      "en": "In the 1980s"
+    },
+    {
+      "id": 30,
+      "start": 82.1,
+      "end": 84.34,
+      "ts": "01:22.100 -> 01:24.340",
+      "jp": "まあちょっと古い",
+      "jp_html": "まあちょっと<ruby>古い<rt>ふるい</rt></ruby>",
+      "zh": "嗯，稍微有点旧了。",
+      "en": "Well, it's a bit old."
+    },
+    {
+      "id": 31,
+      "start": 84.34,
+      "end": 86.22,
+      "ts": "01:24.340 -> 01:26.220",
+      "jp": "アニメたちですよね",
+      "jp_html": "アニメたちですよね",
+      "zh": "不是动画角色吧？",
+      "en": "Aren't they anime characters?"
+    },
+    {
+      "id": 32,
+      "start": 86.22,
+      "end": 88.22,
+      "ts": "01:26.220 -> 01:28.220",
+      "jp": "北斗の剣とかね",
+      "jp_html": "<ruby>北斗<rt>ほくと</rt></ruby>の<ruby>剣<rt>つるぎ</rt></ruby>とかね",
+      "zh": "北斗的剑或剑",
+      "en": "The Sword of北斗orthe Blade of北斗"
+    },
+    {
+      "id": 33,
+      "start": 88.22,
+      "end": 93.94,
+      "ts": "01:28.220 -> 01:33.940",
+      "jp": "北斗の剣とか他にもいろいろあったけどちょっと思い出せない",
+      "jp_html": "<ruby>北斗<rt>ほくと</rt></ruby>の<ruby>剣<rt>つるぎ</rt></ruby>とか<ruby>他に<rt>ほかに</rt></ruby>もいろいろあったけどちょっと<ruby>思い出せ<rt>おもいだせ</rt></ruby>ない",
+      "zh": "北斗的剑还有一些其他的，但有点记不起来了",
+      "en": "There was also the Sword of Beidou, but I can't quite remember everything."
+    },
+    {
+      "id": 34,
+      "start": 93.94,
+      "end": 95.86,
+      "ts": "01:33.940 -> 01:35.860",
+      "jp": "たくさんありすぎてね",
+      "jp_html": "たくさんありすぎてね",
+      "zh": "太多了呢",
+      "en": "There are so many that it's overwhelming."
+    },
+    {
+      "id": 35,
+      "start": 95.86,
+      "end": 99.18,
+      "ts": "01:35.860 -> 01:39.180",
+      "jp": "ワンピースはまだなかったんですね",
+      "jp_html": "ワンピースはまだなかったんですね",
+      "zh": "原来还没有ONE PIECE呢",
+      "en": "I didn't have the onesie, I see."
+    },
+    {
+      "id": 36,
+      "start": 99.18,
+      "end": 103.78,
+      "ts": "01:39.180 -> 01:43.780",
+      "jp": "ワンピースはもう僕はちょっと大人になってました",
+      "jp_html": "ワンピースはもう<ruby>僕は<rt>ぼくは</rt></ruby>ちょっと<ruby>大人<rt>おとな</rt></ruby>になってました",
+      "zh": "我已经是稍微有点儿长大成人了",
+      "en": "One Piece means I was kind of grown up a bit already."
+    },
+    {
+      "id": 37,
+      "start": 103.78,
+      "end": 110.74,
+      "ts": "01:43.780 -> 01:50.740",
+      "jp": "僕は大学生の時だったと思うなワンピースのアニメは",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>だったと<ruby>思う<rt>おもう</rt></ruby>なワンピースのアニメは",
+      "zh": "我想那时我是大学的时候ONE PIECE的动画已经开始播了",
+      "en": "I think it was when I was in university, and the anime One Piece started."
+    },
+    {
+      "id": 38,
+      "start": 110.74,
+      "end": 116.1,
+      "ts": "01:50.740 -> 01:56.100",
+      "jp": "ポケモンもちょっと遅いですね",
+      "jp_html": "ポケモンもちょっと<ruby>遅い<rt>おそい</rt></ruby>ですね",
+      "zh": "pokémon也稍微慢了一步",
+      "en": "The Pokémon are a bit slow, aren't they?"
+    },
+    {
+      "id": 39,
+      "start": 116.1,
+      "end": 123.22,
+      "ts": "01:56.100 -> 02:03.220",
+      "jp": "僕はもう大学生とか大人だったと思う",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>もう<ruby>大学生<rt>だいがくせい</rt></ruby>とか<ruby>大人<rt>おとな</rt></ruby>だったと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想我已经是个大学生或者大人了",
+      "en": "I think I was already a college student or an adult back then."
+    },
+    {
+      "id": 40,
+      "start": 123.22,
+      "end": 126.62,
+      "ts": "02:03.220 -> 02:06.620",
+      "jp": "エヴァンゲリオンですね",
+      "jp_html": "エヴァンゲリオンですね",
+      "zh": "Evangelion 呢",
+      "en": "It's Evangelion, right?"
+    },
+    {
+      "id": 41,
+      "start": 126.62,
+      "end": 134.43,
+      "ts": "02:06.620 -> 02:14.430",
+      "jp": "エヴァンゲリオンが多分僕が高校生だったかな",
+      "jp_html": "エヴァンゲリオンが<ruby>多分<rt>たぶん</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>が<ruby>高校生<rt>こうこうせい</rt></ruby>だったかな",
+      "zh": "Evangelion 大概是我上高中的时候吧",
+      "en": "Evaangelion probably started when I was in high school, I think."
+    },
+    {
+      "id": 42,
+      "start": 134.43,
+      "end": 138.99,
+      "ts": "02:14.430 -> 02:18.990",
+      "jp": "多分それぐらいだと思う",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>それぐらいだと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想大概就是那么多了",
+      "en": "I think that's about it."
+    },
+    {
+      "id": 43,
+      "start": 138.99,
+      "end": 145.68,
+      "ts": "02:18.990 -> 02:25.680",
+      "jp": "そうですね多分高校生ぐらいの時だったと思う",
+      "jp_html": "そうですね<ruby>多分<rt>たぶん</rt></ruby><ruby>高校生<rt>こうこうせい</rt></ruby>ぐらいの<ruby>時<rt>とき</rt></ruby>だったと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "确实那样吧，我想应该是高中的时候。",
+      "en": "Yes, I think it was around when I was a high school student."
+    },
+    {
+      "id": 44,
+      "start": 145.68,
+      "end": 148.44,
+      "ts": "02:25.680 -> 02:28.440",
+      "jp": "それがほとんど最後ですね",
+      "jp_html": "それがほとんど<ruby>最後<rt>さいご</rt></ruby>ですね",
+      "zh": "这几乎就是最后了",
+      "en": "That's almost the end, ne?"
+    },
+    {
+      "id": 45,
+      "start": 148.44,
+      "end": 153.92,
+      "ts": "02:28.440 -> 02:33.920",
+      "jp": "僕はその後エヴァンゲリオンの後ほとんどアニメを見てません",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>その<ruby>後<rt>のち</rt></ruby>エヴァンゲリオンの<ruby>後<rt>のち</rt></ruby>ほとんどアニメを<ruby>見て<rt>みて</rt></ruby>ません",
+      "zh": "我之后几乎没再看什么动画，主要是 Evangelion。",
+      "en": "I haven't watched many anime after Evangelion since then."
+    },
+    {
+      "id": 46,
+      "start": 153.92,
+      "end": 159.57,
+      "ts": "02:33.920 -> 02:39.570",
+      "jp": "子供の時はねガンダムとかねもちろん見てました",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はねガンダムとかねもちろん<ruby>見て<rt>みて</rt></ruby>ました",
+      "zh": "小时候当然也看过高达之类的动画",
+      "en": "When I was a kid, of course I watched Gundam."
+    },
+    {
+      "id": 47,
+      "start": 159.57,
+      "end": 163.15,
+      "ts": "02:39.570 -> 02:43.150",
+      "jp": "大人になるとほとんどアニメを見なくなります",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>になるとほとんどアニメを<ruby>見な<rt>みな</rt></ruby>くなります",
+      "zh": "随着长大，几乎不再看动画片了",
+      "en": "As adults, most people stop watching anime."
+    },
+    {
+      "id": 48,
+      "start": 163.15,
+      "end": 164.13,
+      "ts": "02:43.150 -> 02:44.130",
+      "jp": "全然見ない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>見な<rt>みな</rt></ruby>い",
+      "zh": "完全看不见",
+      "en": "Not at all"
+    },
+    {
+      "id": 49,
+      "start": 164.13,
+      "end": 169.53,
+      "ts": "02:44.130 -> 02:49.530",
+      "jp": "漫画は大好きだったけどアニメはあんまり見なくなった",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>は<ruby>大好き<rt>だいすき</rt></ruby>だったけどアニメはあんまり<ruby>見な<rt>みな</rt></ruby>くなった",
+      "zh": "我喜欢漫画，但是不太看动画了",
+      "en": "I loved manga but I haven't been watching anime much lately."
+    },
+    {
+      "id": 50,
+      "start": 169.53,
+      "end": 173.01,
+      "ts": "02:49.530 -> 02:53.010",
+      "jp": "そしてそれが長く続きます",
+      "jp_html": "そしてそれが<ruby>長く<rt>ながく</rt></ruby><ruby>続き<rt>つづき</rt></ruby>ます",
+      "zh": "然后它会持续很久",
+      "en": "And it continues for a long time."
+    },
+    {
+      "id": 51,
+      "start": 173.01,
+      "end": 175.59,
+      "ts": "02:53.010 -> 02:55.590",
+      "jp": "長く長く続いて",
+      "jp_html": "<ruby>長く<rt>ながく</rt></ruby><ruby>長く<rt>ながく</rt></ruby><ruby>続い<rt>つづい</rt></ruby>て",
+      "zh": "长久地继续",
+      "en": "Long long ago"
+    },
+    {
+      "id": 52,
+      "start": 175.59,
+      "end": 179.05,
+      "ts": "02:55.590 -> 02:59.050",
+      "jp": "アニメを見ない時間が長く続いて",
+      "jp_html": "アニメを<ruby>見な<rt>みな</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>が<ruby>長く<rt>ながく</rt></ruby><ruby>続い<rt>つづい</rt></ruby>て",
+      "zh": "长时间没有看动画的时间",
+      "en": "I haven't been watching anime for a long time."
+    },
+    {
+      "id": 53,
+      "start": 179.05,
+      "end": 181.53,
+      "ts": "02:59.050 -> 03:01.530",
+      "jp": "子供が生まれて",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>て",
+      "zh": "孩子出生了",
+      "en": "A child has been born"
+    },
+    {
+      "id": 54,
+      "start": 181.53,
+      "end": 184.27,
+      "ts": "03:01.530 -> 03:04.270",
+      "jp": "僕の子供が生まれたのが",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たのが",
+      "zh": "我的孩子出生是在",
+      "en": "My child was born on"
+    },
+    {
+      "id": 55,
+      "start": 184.27,
+      "end": 186.93,
+      "ts": "03:04.270 -> 03:06.930",
+      "jp": "僕が34歳の時",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が34<ruby>歳<rt>とし</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "我在三十四岁的时候",
+      "en": "When I was 34 years old."
+    },
+    {
+      "id": 56,
+      "start": 186.93,
+      "end": 189.19,
+      "ts": "03:06.930 -> 03:09.190",
+      "jp": "35歳だったかな",
+      "jp_html": "35<ruby>歳<rt>とし</rt></ruby>だったかな",
+      "zh": "应该是35岁吧",
+      "en": "Was around 35 years old, right?"
+    },
+    {
+      "id": 57,
+      "start": 189.19,
+      "end": 192.37,
+      "ts": "03:09.190 -> 03:12.370",
+      "jp": "35歳かな",
+      "jp_html": "35<ruby>歳<rt>とし</rt></ruby>かな",
+      "zh": "35岁左右吧",
+      "en": "About 35 years old."
+    },
+    {
+      "id": 58,
+      "start": 192.37,
+      "end": 193.85,
+      "ts": "03:12.370 -> 03:13.850",
+      "jp": "35歳か",
+      "jp_html": "35<ruby>歳<rt>とし</rt></ruby>か",
+      "zh": "35岁吧",
+      "en": "Is 35 years old?"
+    },
+    {
+      "id": 59,
+      "start": 193.85,
+      "end": 195.63,
+      "ts": "03:13.850 -> 03:15.630",
+      "jp": "ちょっと思い出せない",
+      "jp_html": "ちょっと<ruby>思い出せ<rt>おもいだせ</rt></ruby>ない",
+      "zh": "稍微想不起来",
+      "en": "I can't quite remember."
+    },
+    {
+      "id": 60,
+      "start": 195.63,
+      "end": 197.65,
+      "ts": "03:15.630 -> 03:17.650",
+      "jp": "その時ですね",
+      "jp_html": "その<ruby>時<rt>とき</rt></ruby>ですね",
+      "zh": "那时呢",
+      "en": "At that time."
+    },
+    {
+      "id": 61,
+      "start": 197.65,
+      "end": 201.43,
+      "ts": "03:17.650 -> 03:21.430",
+      "jp": "それから子供と一緒に",
+      "jp_html": "それから<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>",
+      "zh": "然后和孩子一起",
+      "en": "Then with children together"
+    },
+    {
+      "id": 62,
+      "start": 201.43,
+      "end": 203.89,
+      "ts": "03:21.430 -> 03:23.890",
+      "jp": "いろいろなアニメを見ました",
+      "jp_html": "いろいろなアニメを<ruby>見ま<rt>みま</rt></ruby>した",
+      "zh": "看了很多动画",
+      "en": "I watched various anime."
+    },
+    {
+      "id": 63,
+      "start": 203.89,
+      "end": 207.17,
+      "ts": "03:23.890 -> 03:27.170",
+      "jp": "もちろんドラえもん",
+      "jp_html": "もちろんドラえもん",
+      "zh": "当然大雄",
+      "en": "Of course, Doraemon"
+    },
+    {
+      "id": 64,
+      "start": 207.17,
+      "end": 208.13,
+      "ts": "03:27.170 -> 03:28.130",
+      "jp": "ドラゴンボール",
+      "jp_html": "ドラゴンボール",
+      "zh": "龙珠",
+      "en": "Dragon Ball"
+    },
+    {
+      "id": 65,
+      "start": 208.13,
+      "end": 209.95,
+      "ts": "03:28.130 -> 03:29.950",
+      "jp": "同じアニメですよね",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby>アニメですよね",
+      "zh": "不是同一个动画吧？",
+      "en": "Is the same anime, right?"
+    },
+    {
+      "id": 66,
+      "start": 209.95,
+      "end": 211.79,
+      "ts": "03:29.950 -> 03:31.790",
+      "jp": "同じアニメだけど",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby>アニメだけど",
+      "zh": "同一个动画但",
+      "en": "It's the same anime but"
+    },
+    {
+      "id": 67,
+      "start": 211.79,
+      "end": 214.73,
+      "ts": "03:31.790 -> 03:34.730",
+      "jp": "ドラゴンボールスーパーとか",
+      "jp_html": "ドラゴンボールスーパーとか",
+      "zh": "龙珠超级tà&qù",
+      "en": "Dragon Ball Super"
+    },
+    {
+      "id": 68,
+      "start": 214.73,
+      "end": 216.67,
+      "ts": "03:34.730 -> 03:36.670",
+      "jp": "ドラゴンボールダイマーとか",
+      "jp_html": "ドラゴンボールダイマーとか",
+      "zh": "龙珠二重弹",
+      "en": "Dragon Ball Dai Mai"
+    },
+    {
+      "id": 69,
+      "start": 216.67,
+      "end": 219.87,
+      "ts": "03:36.670 -> 03:39.870",
+      "jp": "新しいシリーズも見たし",
+      "jp_html": "<ruby>新しい<rt>あたらしい</rt></ruby>シリーズも<ruby>見た<rt>みた</rt></ruby>し",
+      "zh": "我已经看过新的系列了",
+      "en": "I've also watched the new series."
+    },
+    {
+      "id": 70,
+      "start": 219.87,
+      "end": 222.29,
+      "ts": "03:39.870 -> 03:42.290",
+      "jp": "クレヨンしんちゃんとかね",
+      "jp_html": "クレヨンしんちゃんとかね",
+      "zh": "蜡笔小新之类的",
+      "en": "Crayon Shin-chan and ne"
+    },
+    {
+      "id": 71,
+      "start": 222.29,
+      "end": 225.77,
+      "ts": "03:42.290 -> 03:45.770",
+      "jp": "クレヨンしんちゃんは子供と一緒にたくさん見ました",
+      "jp_html": "クレヨンしんちゃんは<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>たくさん<ruby>見ま<rt>みま</rt></ruby>した",
+      "zh": "蜡笔小新和孩子们一起看了很多次",
+      "en": "I watched Crayon Shin-chan with many children."
+    },
+    {
+      "id": 72,
+      "start": 225.77,
+      "end": 230.57,
+      "ts": "03:45.770 -> 03:50.570",
+      "jp": "映画館でドラえもんとクレヨンしんちゃん",
+      "jp_html": "<ruby>映画館<rt>えいがかん</rt></ruby>でドラえもんとクレヨンしんちゃん",
+      "zh": "电影院里有哆啦A梦和蜡笔小新",
+      "en": "At the movie theater, Doraemon and Crayon Shin-chan"
+    },
+    {
+      "id": 73,
+      "start": 230.57,
+      "end": 233.13,
+      "ts": "03:50.570 -> 03:53.130",
+      "jp": "毎年毎年見てます",
+      "jp_html": "<ruby>毎年<rt>まいとし</rt></ruby><ruby>毎年<rt>まいとし</rt></ruby><ruby>見て<rt>みて</rt></ruby>ます",
+      "zh": "每年每年都看着呢",
+      "en": "I watch it year after year."
+    },
+    {
+      "id": 74,
+      "start": 233.13,
+      "end": 237.87,
+      "ts": "03:53.130 -> 03:57.870",
+      "jp": "あとディズニーのアニメを見たり",
+      "jp_html": "あとディズニーのアニメを<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "然后看了些迪士尼的动画片",
+      "en": "Then I watched Disney animations or cartoons."
+    },
+    {
+      "id": 75,
+      "start": 237.87,
+      "end": 241.15,
+      "ts": "03:57.870 -> 04:01.150",
+      "jp": "ジブリをまた見たり",
+      "jp_html": "ジブリをまた<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "再看吉卜力的电影",
+      "en": "I watched Hayao Miyazaki's films again."
+    },
+    {
+      "id": 76,
+      "start": 241.15,
+      "end": 243.67,
+      "ts": "04:01.150 -> 04:03.670",
+      "jp": "ジブリは何回も見ましたね",
+      "jp_html": "ジブリは<ruby>何回<rt>なんかい</rt></ruby>も<ruby>見ま<rt>みま</rt></ruby>したね",
+      "zh": "你看过多次吉卜力的作品吧？",
+      "en": "Have you watched Studio Ghibli movies multiple times?"
+    },
+    {
+      "id": 77,
+      "start": 243.67,
+      "end": 246.47,
+      "ts": "04:03.670 -> 04:06.470",
+      "jp": "子供と一緒にも見たし",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>も<ruby>見た<rt>みた</rt></ruby>し",
+      "zh": "我也和孩子一起看过。",
+      "en": "I have also seen it with children."
+    },
+    {
+      "id": 78,
+      "start": 246.47,
+      "end": 249.13,
+      "ts": "04:06.470 -> 04:09.130",
+      "jp": "僕が子供の時も見たし",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>も<ruby>見た<rt>みた</rt></ruby>し",
+      "zh": "我小时候也看过",
+      "en": "I saw it when I was a child too."
+    },
+    {
+      "id": 79,
+      "start": 249.13,
+      "end": 254.21,
+      "ts": "04:09.130 -> 04:14.210",
+      "jp": "面白いのは僕が子供の時に見たジブリと",
+      "jp_html": "<ruby>面白い<rt>おもしろい</rt></ruby>のは<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby><ruby>見た<rt>みた</rt></ruby>ジブリと",
+      "zh": "有趣的是我小时候看到的吉卜力和",
+      "en": "Interesting is that I saw Studio Ghibli's works when I was a child."
+    },
+    {
+      "id": 80,
+      "start": 254.21,
+      "end": 256.67,
+      "ts": "04:14.210 -> 04:16.670",
+      "jp": "今見たジブリですね",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby><ruby>見た<rt>みた</rt></ruby>ジブリですね",
+      "zh": "现在看的吉卜力吧",
+      "en": "The Hayao Miyazaki film I just watched."
+    },
+    {
+      "id": 81,
+      "start": 256.67,
+      "end": 258.17,
+      "ts": "04:16.670 -> 04:18.170",
+      "jp": "両方いいんですね",
+      "jp_html": "<ruby>両方<rt>りょうほう</rt></ruby>いいんですね",
+      "zh": "两边都行啊",
+      "en": "Both are okay, right?"
+    },
+    {
+      "id": 82,
+      "start": 258.17,
+      "end": 260.47,
+      "ts": "04:18.170 -> 04:20.470",
+      "jp": "例えば隣のトトロ",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>隣<rt>となり</rt></ruby>のトトロ",
+      "zh": "比如旁边的托托罗",
+      "en": "For example, next to Totoro"
+    },
+    {
+      "id": 83,
+      "start": 260.47,
+      "end": 264.49,
+      "ts": "04:20.470 -> 04:24.490",
+      "jp": "子供の時見た隣のトトロはとても良かった",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby><ruby>見た<rt>みた</rt></ruby><ruby>隣<rt>となり</rt></ruby>のトトロはとても<ruby>良か<rt>よか</rt></ruby>った",
+      "zh": "小时候看到的邻里的托托罗很好看",
+      "en": "The Tolto I saw as a child next door was very good."
+    },
+    {
+      "id": 84,
+      "start": 264.49,
+      "end": 265.59,
+      "ts": "04:24.490 -> 04:25.590",
+      "jp": "とても面白かった",
+      "jp_html": "とても<ruby>面白か<rt>おもしろか</rt></ruby>った",
+      "zh": "非常有趣",
+      "en": "It was very interesting."
+    },
+    {
+      "id": 85,
+      "start": 265.59,
+      "end": 273.47,
+      "ts": "04:25.590 -> 04:33.470",
+      "jp": "そして大人になってまた見るとちょっと違う気持ちなんですけど",
+      "jp_html": "そして<ruby>大人<rt>おとな</rt></ruby>になってまた<ruby>見る<rt>みる</rt></ruby>とちょっと<ruby>違う<rt>ちがう</rt></ruby><ruby>気持ち<rt>きもち</rt></ruby>なんですけど",
+      "zh": "然后长大后再看就会有一点不同的感觉了",
+      "en": "And when I grow up and see it again, I have a slightly different feeling about it."
+    },
+    {
+      "id": 86,
+      "start": 273.47,
+      "end": 275.07,
+      "ts": "04:33.470 -> 04:35.070",
+      "jp": "でもとてもいい",
+      "jp_html": "でもとてもいい",
+      "zh": "但也很好",
+      "en": "But it's really good."
+    },
+    {
+      "id": 87,
+      "start": 275.07,
+      "end": 279.61,
+      "ts": "04:35.070 -> 04:39.610",
+      "jp": "やっぱりスタジオジブリはすごいですね",
+      "jp_html": "やっぱりスタジオジブリはすごいですね",
+      "zh": "果然，吉卜力工作室真的很厉害呢",
+      "en": "Yes, Studio Ghibli is amazing, isn't it?"
+    },
+    {
+      "id": 88,
+      "start": 279.61,
+      "end": 282.09,
+      "ts": "04:39.610 -> 04:42.090",
+      "jp": "宮崎駿はすごいですね",
+      "jp_html": "<ruby>宮崎駿<rt>みやざきはやお</rt></ruby>はすごいですね",
+      "zh": "宫崎骏真的很强勁呢",
+      "en": "Miyazaki Hayao is great, isn't he?"
+    },
+    {
+      "id": 89,
+      "start": 282.09,
+      "end": 287.62,
+      "ts": "04:42.090 -> 04:47.620",
+      "jp": "子供にとっても楽しい",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>にとっても<ruby>楽しい<rt>たのしい</rt></ruby>",
+      "zh": "孩子们也会喜欢",
+      "en": "Also fun for children"
+    },
+    {
+      "id": 90,
+      "start": 287.62,
+      "end": 290.18,
+      "ts": "04:47.620 -> 04:50.180",
+      "jp": "大人にとっても楽しい",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>にとっても<ruby>楽しい<rt>たのしい</rt></ruby>",
+      "zh": "对大人来说也很愉快",
+      "en": "Enjoyable for adults as well"
+    },
+    {
+      "id": 91,
+      "start": 290.18,
+      "end": 296.16,
+      "ts": "04:50.180 -> 04:56.160",
+      "jp": "そういう映画を作るのはそんなに簡単じゃないと思います",
+      "jp_html": "そういう<ruby>映画<rt>えいが</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>のはそんなに<ruby>簡単<rt>かんたん</rt></ruby>じゃないと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为制作这样的电影并不容易",
+      "en": "I don't think it's that easy to make a movie like that."
+    },
+    {
+      "id": 92,
+      "start": 296.16,
+      "end": 299.94,
+      "ts": "04:56.160 -> 04:59.940",
+      "jp": "普通は子供にとって楽しい",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>子供<rt>こども</rt></ruby>にとって<ruby>楽しい<rt>たのしい</rt></ruby>",
+      "zh": "普通对孩子们来说是有趣的。",
+      "en": "Ordinarily, this is enjoyable for children."
+    },
+    {
+      "id": 93,
+      "start": 299.94,
+      "end": 303.64,
+      "ts": "04:59.940 -> 05:03.640",
+      "jp": "でも大人にとってはちょっと退屈とか",
+      "jp_html": "でも<ruby>大人<rt>おとな</rt></ruby>にとってはちょっと<ruby>退屈<rt>たいくつ</rt></ruby>とか",
+      "zh": "但是对大人来说稍微有点无聊或",
+      "en": "But for adults, it might be a bit boring."
+    },
+    {
+      "id": 94,
+      "start": 303.64,
+      "end": 309.56,
+      "ts": "05:03.640 -> 05:09.560",
+      "jp": "大人にとっては楽しいけど子供にとってはちょっと怖すぎるとか",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>にとっては<ruby>楽しい<rt>たのしい</rt></ruby>けど<ruby>子供<rt>こども</rt></ruby>にとってはちょっと<ruby>怖す<rt>こわす</rt></ruby>ぎるとか",
+      "zh": "对大人来说很有趣，但对孩子来说有点太恐怖了",
+      "en": "Adults find it enjoyable, but it's a bit too scary for children."
+    },
+    {
+      "id": 95,
+      "start": 309.56,
+      "end": 312.78,
+      "ts": "05:09.560 -> 05:12.780",
+      "jp": "ちょっと難しすぎるとか",
+      "jp_html": "ちょっと<ruby>難しす<rt>むつかしす</rt></ruby>ぎるとか",
+      "zh": "有点太难了",
+      "en": "It's a bit too difficult."
+    },
+    {
+      "id": 96,
+      "start": 312.78,
+      "end": 321.08,
+      "ts": "05:12.780 -> 05:21.080",
+      "jp": "だけどジブリは大人も子供も両方楽しめますね",
+      "jp_html": "だけどジブリは<ruby>大人<rt>おとな</rt></ruby>も<ruby>子供<rt>こども</rt></ruby>も<ruby>両方<rt>りょうほう</rt></ruby><ruby>楽し<rt>たのし</rt></ruby>めますね",
+      "zh": "但是吉卜力both大人和小孩都能享受呢",
+      "en": "But Hayao Miyazaki's films can be enjoyed by both adults and children, right?"
+    },
+    {
+      "id": 97,
+      "start": 321.08,
+      "end": 323.78,
+      "ts": "05:21.080 -> 05:23.780",
+      "jp": "君たちはどう生きるか",
+      "jp_html": "<ruby>君<rt>くん</rt></ruby>たちはどう<ruby>生き<rt>いき</rt></ruby>るか",
+      "zh": "你们应该如何生活",
+      "en": "How do you live?"
+    },
+    {
+      "id": 98,
+      "start": 323.78,
+      "end": 326.2,
+      "ts": "05:23.780 -> 05:26.200",
+      "jp": "君たちはどう生きるか",
+      "jp_html": "<ruby>君<rt>くん</rt></ruby>たちはどう<ruby>生き<rt>いき</rt></ruby>るか",
+      "zh": "你们应该如何生活",
+      "en": "How do you live?"
+    },
+    {
+      "id": 99,
+      "start": 326.2,
+      "end": 331.18,
+      "ts": "05:26.200 -> 05:31.180",
+      "jp": "これも宮崎駿の一番新しい映画でしたけど",
+      "jp_html": "これも<ruby>宮崎駿<rt>みやざきはやお</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><ruby>映画<rt>えいが</rt></ruby>でしたけど",
+      "zh": "这也是宫崎骏最新的一部电影",
+      "en": "This was also one of Hayao Miyazaki's most recent films."
+    },
+    {
+      "id": 100,
+      "start": 331.18,
+      "end": 336.7,
+      "ts": "05:31.180 -> 05:36.700",
+      "jp": "大人にとっては結構面白かったと思う",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>にとっては<ruby>結構<rt>けっこう</rt></ruby><ruby>面白か<rt>おもしろか</rt></ruby>ったと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想对大人来说挺有趣的",
+      "en": "I think it was quite enjoyable for adults."
+    },
+    {
+      "id": 101,
+      "start": 336.7,
+      "end": 340.2,
+      "ts": "05:36.700 -> 05:40.200",
+      "jp": "子供は難しいかなと思ったけど",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>は<ruby>難しい<rt>むずかしい</rt></ruby>かなと<ruby>思った<rt>おもった</rt></ruby>けど",
+      "zh": "孩子可能会难一点吧",
+      "en": "I thought it would be difficult for the kids."
+    },
+    {
+      "id": 102,
+      "start": 340.2,
+      "end": 344.02,
+      "ts": "05:40.200 -> 05:44.020",
+      "jp": "僕の子供は楽しかったと言いました",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>楽しか<rt>たのしか</rt></ruby>ったと<ruby>言い<rt>いい</rt></ruby>ました",
+      "zh": "我的孩子说他们玩得很开心",
+      "en": "My child said they had fun."
+    },
+    {
+      "id": 103,
+      "start": 344.02,
+      "end": 349.66,
+      "ts": "05:44.020 -> 05:49.660",
+      "jp": "なので本当にそれはすごいですね",
+      "jp_html": "なので<ruby>本当<rt>ほんとう</rt></ruby>にそれはすごいですね",
+      "zh": "所以真的好厉害呢",
+      "en": "So that's really impressive, huh?"
+    },
+    {
+      "id": 104,
+      "start": 349.66,
+      "end": 354.4,
+      "ts": "05:49.660 -> 05:54.400",
+      "jp": "大人にとっても面白くて子供にとっても面白い",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>にとっても<ruby>面白く<rt>おもしろく</rt></ruby>て<ruby>子供<rt>こども</rt></ruby>にとっても<ruby>面白い<rt>おもしろい</rt></ruby>",
+      "zh": "对大人来说有趣，对孩子来说也同样有趣",
+      "en": "Interesting for adults and interesting for children"
+    },
+    {
+      "id": 105,
+      "start": 354.4,
+      "end": 359.22,
+      "ts": "05:54.400 -> 05:59.220",
+      "jp": "というわけでいろいろなアニメがありますね",
+      "jp_html": "というわけでいろいろなアニメがありますね",
+      "zh": "因此有很多不同的动画呢",
+      "en": "So there are various anime, huh?"
+    },
+    {
+      "id": 106,
+      "start": 359.22,
+      "end": 361.18,
+      "ts": "05:59.220 -> 06:01.180",
+      "jp": "他にもたくさんありますよね",
+      "jp_html": "<ruby>他に<rt>ほかに</rt></ruby>もたくさんありますよね",
+      "zh": "不是还有很多吗？",
+      "en": "Don't they also have many more, right?"
+    },
+    {
+      "id": 107,
+      "start": 361.18,
+      "end": 362.84,
+      "ts": "06:01.180 -> 06:02.840",
+      "jp": "進撃の巨人とか",
+      "jp_html": "<ruby>進撃<rt>しんげき</rt></ruby>の<ruby>巨人<rt>きょじん</rt></ruby>とか",
+      "zh": "进击的巨人的意思或者是相关表达",
+      "en": "Attack on Titan"
+    },
+    {
+      "id": 108,
+      "start": 362.84,
+      "end": 368.3,
+      "ts": "06:02.840 -> 06:08.300",
+      "jp": "今でもたくさんのアニメシリーズが作られてます",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>でもたくさんのアニメシリーズが<ruby>作ら<rt>つくら</rt></ruby>れてます",
+      "zh": "现在仍然制作了许多动画系列",
+      "en": "Many anime series are still being made today."
+    },
+    {
+      "id": 109,
+      "start": 368.3,
+      "end": 372.56,
+      "ts": "06:08.300 -> 06:12.560",
+      "jp": "ハンターハンターとかどうですか皆さん好きですかアニメは",
+      "jp_html": "ハンターハンターとかどうですか<ruby>皆さん<rt>みなさん</rt></ruby><ruby>好き<rt>すき</rt></ruby>ですかアニメは",
+      "zh": "《猎人》大家喜欢吗各位喜欢《 Hunter × Hunter 》动画吗",
+      "en": "How about Hunter x Hunter? Do you all like it? It's an anime, right?"
+    },
+    {
+      "id": 110,
+      "start": 372.56,
+      "end": 379.98,
+      "ts": "06:12.560 -> 06:19.980",
+      "jp": "僕はアニメバージョンと漫画バージョンがあるときは",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>アニメバージョンと<ruby>漫画<rt>まんが</rt></ruby>バージョンがあるときは",
+      "zh": "当我有动画版本和漫画版本的时候",
+      "en": "I have the anime version and the manga version when they exist."
+    },
+    {
+      "id": 111,
+      "start": 379.98,
+      "end": 381.98,
+      "ts": "06:19.980 -> 06:21.980",
+      "jp": "漫画の方が好きかな",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby><ruby>好き<rt>すき</rt></ruby>かな",
+      "zh": "可能更喜欢漫画吧",
+      "en": "Are you more into manga?"
+    },
+    {
+      "id": 112,
+      "start": 381.98,
+      "end": 386.48,
+      "ts": "06:21.980 -> 06:26.480",
+      "jp": "アニメもいいけど漫画の方が",
+      "jp_html": "アニメもいいけど<ruby>漫画<rt>まんが</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>",
+      "zh": "动画也还好，漫画更棒些",
+      "en": "But manga is even better."
+    },
+    {
+      "id": 113,
+      "start": 386.48,
+      "end": 391.92,
+      "ts": "06:26.480 -> 06:31.920",
+      "jp": "やっぱりオリジナルって感じがして好きかもしれない",
+      "jp_html": "やっぱりオリジナルって<ruby>感じ<rt>かんじ</rt></ruby>がして<ruby>好き<rt>すき</rt></ruby>かもしれない",
+      "zh": "可能的话你可能会喜欢这种原创的感觉",
+      "en": "Maybe you might like it because it feels original."
+    },
+    {
+      "id": 114,
+      "start": 391.92,
+      "end": 397.14,
+      "ts": "06:31.920 -> 06:37.140",
+      "jp": "次回は漫画について話したいと思います",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>は<ruby>漫画<rt>まんが</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "下次我想谈谈关于漫画的事情",
+      "en": "Next time, I want to talk about manga."
+    },
+    {
+      "id": 115,
+      "start": 397.14,
+      "end": 398.8,
+      "ts": "06:37.140 -> 06:38.800",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

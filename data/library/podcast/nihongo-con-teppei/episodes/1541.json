@@ -1,0 +1,964 @@
+{
+  "id": "1541",
+  "title": "#1541「写真（しゃしん）について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1541.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/06/Beginners-con-Teppei1541.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/06/29/1541%e3%80%8c%e5%86%99%e7%9c%9f%ef%bc%88%e3%81%97%e3%82%83%e3%81%97%e3%82%93%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.49,
+      "end": 3.27,
+      "ts": "00:01.490 -> 00:03.270",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.27,
+      "end": 6.61,
+      "ts": "00:03.270 -> 00:06.610",
+      "jp": "今日は写真について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>について",
+      "zh": "今天关于照片",
+      "en": "Today is about photos."
+    },
+    {
+      "id": 2,
+      "start": 6.61,
+      "end": 10.05,
+      "ts": "00:06.610 -> 00:10.050",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all well?"
+    },
+    {
+      "id": 3,
+      "start": 10.05,
+      "end": 12.63,
+      "ts": "00:10.050 -> 00:12.630",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音训练的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 12.63,
+      "end": 18.19,
+      "ts": "00:12.630 -> 00:18.190",
+      "jp": "今日もいろいろなボキャブラリーを勉強していきましょう",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>もいろいろなボキャブラリーを<ruby>勉強<rt>べんきょう</rt></ruby>していきましょう",
+      "zh": "今天我们来学习各种词汇吧",
+      "en": "Let's study various vocabulary today."
+    },
+    {
+      "id": 5,
+      "start": 18.19,
+      "end": 22.03,
+      "ts": "00:18.190 -> 00:22.030",
+      "jp": "勉強というか楽しんで聞いてください",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>というか<ruby>楽し<rt>たのし</rt></ruby>んで<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请享受地听吧，可以说是在玩中学",
+      "en": "Please listen with enjoyment, rather than just studying."
+    },
+    {
+      "id": 6,
+      "start": 22.03,
+      "end": 25.01,
+      "ts": "00:22.030 -> 00:25.010",
+      "jp": "今日は写真についてですね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>についてですね",
+      "zh": "今天关于照片呢",
+      "en": "Today we are talking about photos."
+    },
+    {
+      "id": 7,
+      "start": 25.01,
+      "end": 28.31,
+      "ts": "00:25.010 -> 00:28.310",
+      "jp": "皆さんは写真が好きですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "您喜欢拍照吗？",
+      "en": "Do you like photos?"
+    },
+    {
+      "id": 8,
+      "start": 28.31,
+      "end": 29.95,
+      "ts": "00:28.310 -> 00:29.950",
+      "jp": "カメラが好きですか",
+      "jp_html": "カメラが<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "您喜欢相机吗？",
+      "en": "Do you like cameras?"
+    },
+    {
+      "id": 9,
+      "start": 29.95,
+      "end": 34.71,
+      "ts": "00:29.950 -> 00:34.710",
+      "jp": "僕は昔ね結構好きだったかな",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>昔<rt>むかし</rt></ruby>ね<ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>だったかな",
+      "zh": "我以前 maybe 比较喜欢吧",
+      "en": "I used to like it quite a bit back then."
+    },
+    {
+      "id": 10,
+      "start": 34.71,
+      "end": 39.51,
+      "ts": "00:34.710 -> 00:39.510",
+      "jp": "あのなんか大学生の時",
+      "jp_html": "あのなんか<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "那些什么大学的时候",
+      "en": "Those something in college times"
+    },
+    {
+      "id": 11,
+      "start": 39.51,
+      "end": 43.07,
+      "ts": "00:39.510 -> 00:43.070",
+      "jp": "僕のその時の彼女",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のその<ruby>時の<rt>ときの</rt></ruby><ruby>彼女<rt>かのじょ</rt></ruby>",
+      "zh": "我当时的 Girlfriend",
+      "en": "My girlfriend at that time"
+    },
+    {
+      "id": 12,
+      "start": 43.07,
+      "end": 47.07,
+      "ts": "00:43.070 -> 00:47.070",
+      "jp": "まあまあまあ若い時の彼女が",
+      "jp_html": "まあまあまあ<ruby>若い<rt>わかい</rt></ruby><ruby>時の<rt>ときの</rt></ruby><ruby>彼女<rt>かのじょ</rt></ruby>が",
+      "zh": "嗯嗯嗯年轻时的她",
+      "en": "Well, his girlfriend back when he was young,"
+    },
+    {
+      "id": 13,
+      "start": 47.07,
+      "end": 49.43,
+      "ts": "00:47.070 -> 00:49.430",
+      "jp": "あの写真が大好きだった",
+      "jp_html": "あの<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>大好き<rt>だいすき</rt></ruby>だった",
+      "zh": "那张照片我很喜欢",
+      "en": "I loved that photo"
+    },
+    {
+      "id": 14,
+      "start": 49.43,
+      "end": 52.39,
+      "ts": "00:49.430 -> 00:52.390",
+      "jp": "いつもカメラを持っていて",
+      "jp_html": "いつもカメラを<ruby>持っ<rt>もっ</rt></ruby>ていて",
+      "zh": "总是带着相机",
+      "en": "Always carrying a camera"
+    },
+    {
+      "id": 15,
+      "start": 52.39,
+      "end": 54.23,
+      "ts": "00:52.390 -> 00:54.230",
+      "jp": "まあいろいろな写真を撮っていた",
+      "jp_html": "まあいろいろな<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていた",
+      "zh": "我拍了很多照片",
+      "en": "I was taking various photos."
+    },
+    {
+      "id": 16,
+      "start": 54.23,
+      "end": 57.29,
+      "ts": "00:54.230 -> 00:57.290",
+      "jp": "結構いいカメラを持っていたと思います",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>いいカメラを<ruby>持っ<rt>もっ</rt></ruby>ていたと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想我有一个很好的相机",
+      "en": "I think you had a pretty good camera."
+    },
+    {
+      "id": 17,
+      "start": 57.29,
+      "end": 58.35,
+      "ts": "00:57.290 -> 00:58.350",
+      "jp": "彼女は",
+      "jp_html": "<ruby>彼女<rt>かのじょ</rt></ruby>は",
+      "zh": "她",
+      "en": "She is"
+    },
+    {
+      "id": 18,
+      "start": 58.35,
+      "end": 61.71,
+      "ts": "00:58.350 -> 01:01.710",
+      "jp": "アーティスティックな写真を撮ったり",
+      "jp_html": "アーティスティックな<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>たり",
+      "zh": "拍摄艺术照片",
+      "en": "Taking artistic photos or photographs"
+    },
+    {
+      "id": 19,
+      "start": 61.71,
+      "end": 64.19,
+      "ts": "01:01.710 -> 01:04.190",
+      "jp": "普通の写真を撮ったり",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>たり",
+      "zh": "拍摄普通的照片或",
+      "en": "Taking ordinary photos"
+    },
+    {
+      "id": 20,
+      "start": 64.19,
+      "end": 71.97,
+      "ts": "01:04.190 -> 01:11.970",
+      "jp": "その頃僕の周りには結構写真が好きな人が多くて",
+      "jp_html": "その<ruby>頃<rt>ごろ</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>には<ruby>結構<rt>けっこう</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て",
+      "zh": "那时候我周围有很多喜欢拍照的人",
+      "en": "By that time, there were quite a few people around me who liked taking photos."
+    },
+    {
+      "id": 21,
+      "start": 71.97,
+      "end": 77.09,
+      "ts": "01:11.970 -> 01:17.090",
+      "jp": "写真の学校に行っている人とかね",
+      "jp_html": "<ruby>写真<rt>しゃしん</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>いる<ruby>人<rt>にん</rt></ruby>とかね",
+      "zh": "去上学的人或者照片里的那个人",
+      "en": "The people going to school in the photo."
+    },
+    {
+      "id": 22,
+      "start": 78.09,
+      "end": 83.49,
+      "ts": "01:18.090 -> 01:23.490",
+      "jp": "その中の何人かは今はプロのカメラマンになって",
+      "jp_html": "その<ruby>中の<rt>なかの</rt></ruby><ruby>何人<rt>なんにん</rt></ruby>かは<ruby>今<rt>いま</rt></ruby>はプロのカメラマンになって",
+      "zh": "其中有些人现在成了专业的摄影师",
+      "en": "Some of them have become professional photographers now."
+    },
+    {
+      "id": 23,
+      "start": 83.49,
+      "end": 91.19,
+      "ts": "01:23.490 -> 01:31.190",
+      "jp": "プロの写真をファッションとか広告ですね",
+      "jp_html": "プロの<ruby>写真<rt>しゃしん</rt></ruby>をファッションとか<ruby>広告<rt>こうこく</rt></ruby>ですね",
+      "zh": "专业的照片用于时尚或广告等领域",
+      "en": "Professional photos for fashion or advertising, etc."
+    },
+    {
+      "id": 24,
+      "start": 91.19,
+      "end": 95.87,
+      "ts": "01:31.190 -> 01:35.870",
+      "jp": "アドバータイズメント広告とかそういう仕事をしている人もいます",
+      "jp_html": "アドバータイズメント<ruby>広告<rt>こうこく</rt></ruby>とかそういう<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>にん</rt></ruby>もいます",
+      "zh": "也有一些人从事广告宣传之类的工作",
+      "en": "There are also people who do jobs like advertising and marketing."
+    },
+    {
+      "id": 25,
+      "start": 95.87,
+      "end": 102.05,
+      "ts": "01:35.870 -> 01:42.050",
+      "jp": "僕は写真はそんなに自分では撮ってないけど",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>はそんなに<ruby>自分<rt>じぶん</rt></ruby>では<ruby>撮っ<rt>とっ</rt></ruby>てないけど",
+      "zh": "我自己其实不太拍照片。",
+      "en": "I don't take many photos myself, but"
+    },
+    {
+      "id": 26,
+      "start": 102.05,
+      "end": 105.53,
+      "ts": "01:42.050 -> 01:45.530",
+      "jp": "やっぱり興味はありまして",
+      "jp_html": "やっぱり<ruby>興味<rt>きょうみ</rt></ruby>はありまして",
+      "zh": "果然还有兴趣呢",
+      "en": "I still have an interest in it."
+    },
+    {
+      "id": 27,
+      "start": 105.53,
+      "end": 114.61,
+      "ts": "01:45.530 -> 01:54.610",
+      "jp": "その後iPhoneとかが出てきてね",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>iPhoneとかが<ruby>出て<rt>でて</rt></ruby>きてね",
+      "zh": "后来出现了iPhone之类的东西呢",
+      "en": "Then iPhones came out, you know?"
+    },
+    {
+      "id": 28,
+      "start": 114.61,
+      "end": 119.47,
+      "ts": "01:54.610 -> 01:59.470",
+      "jp": "皆さんと同じように今はいつでも写真が撮れるけど",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby>ように<ruby>今<rt>いま</rt></ruby>はいつでも<ruby>写真<rt>しゃしん</rt></ruby>が<ruby>撮れ<rt>とれ</rt></ruby>るけど",
+      "zh": "现在和大家一样，随时都可以拍照了",
+      "en": "Now that I can take photos anytime just like everyone else,"
+    },
+    {
+      "id": 29,
+      "start": 119.47,
+      "end": 125.09,
+      "ts": "01:59.470 -> 02:05.090",
+      "jp": "僕は最近は本当に家族の写真しか撮りません",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>最近<rt>さいきん</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>家族<rt>かぞく</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>しか<ruby>撮り<rt>とり</rt></ruby>ません",
+      "zh": "我最近真的只拍家人的照片了",
+      "en": "I have been taking pictures mostly of my family recently."
+    },
+    {
+      "id": 30,
+      "start": 125.09,
+      "end": 129.19,
+      "ts": "02:05.090 -> 02:09.190",
+      "jp": "アーティスティックの写真とか全然撮りません",
+      "jp_html": "アーティスティックの<ruby>写真<rt>しゃしん</rt></ruby>とか<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>撮り<rt>とり</rt></ruby>ません",
+      "zh": "完全ly不拍艺术照之类的照片",
+      "en": "I hardly ever take artistic photos."
+    },
+    {
+      "id": 31,
+      "start": 129.19,
+      "end": 132.81,
+      "ts": "02:09.190 -> 02:12.810",
+      "jp": "人だけですね",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>だけですね",
+      "zh": "只有人才是这样",
+      "en": "It's just people."
+    },
+    {
+      "id": 32,
+      "start": 132.81,
+      "end": 136.21,
+      "ts": "02:12.810 -> 02:16.210",
+      "jp": "子供の写真とかね奥さんの写真とかね",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>とかね<ruby>奥さん<rt>おくさん</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>とかね",
+      "zh": "孩子的照片啊，老婆的照片啊",
+      "en": "Photos of kids and photos of my wife"
+    },
+    {
+      "id": 33,
+      "start": 136.21,
+      "end": 140.27,
+      "ts": "02:16.210 -> 02:20.270",
+      "jp": "食べ物とかねそういうのを撮ったりします",
+      "jp_html": "<ruby>食べ物<rt>たべもの</rt></ruby>とかねそういうのを<ruby>撮っ<rt>とっ</rt></ruby>たりします",
+      "zh": "我会拍一些食物之类的東西。",
+      "en": "I take pictures of food and stuff like that."
+    },
+    {
+      "id": 34,
+      "start": 140.27,
+      "end": 145.29,
+      "ts": "02:20.270 -> 02:25.290",
+      "jp": "だけどインスタグラムとかなんかフェイスブックとか",
+      "jp_html": "だけどインスタグラムとかなんかフェイスブックとか",
+      "zh": "但是Instagram之类的脸书之类的",
+      "en": "But Instagram and stuff like Facebook"
+    },
+    {
+      "id": 35,
+      "start": 145.29,
+      "end": 147.79,
+      "ts": "02:25.290 -> 02:27.790",
+      "jp": "アップロードしたりはほとんどしません",
+      "jp_html": "アップロードしたりはほとんどしません",
+      "zh": "几乎 never 上传",
+      "en": "I hardly ever upload anything."
+    },
+    {
+      "id": 36,
+      "start": 147.79,
+      "end": 153.51,
+      "ts": "02:27.790 -> 02:33.510",
+      "jp": "たまーにねたまーにあのパトレオンのページに",
+      "jp_html": "たまーにねたまーにあのパトレオンのページに",
+      "zh": "偶尔我会看看那个patreon的页面",
+      "en": "Sometimes I check that patron's page sometimes."
+    },
+    {
+      "id": 37,
+      "start": 153.51,
+      "end": 158.25,
+      "ts": "02:33.510 -> 02:38.250",
+      "jp": "僕の写真を載せたりはするけどたまーに時々ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>載せ<rt>のせ</rt></ruby>たりはするけどたまーに<ruby>時々<rt>ときどき</rt></ruby>ですね",
+      "zh": "我偶尔会发我的照片，但不是经常。",
+      "en": "They sometimes post my photos, but not very often."
+    },
+    {
+      "id": 38,
+      "start": 158.25,
+      "end": 165.51,
+      "ts": "02:38.250 -> 02:45.510",
+      "jp": "家族と一緒に奥さんと子供と一緒に何かをしたときは写真を撮ります",
+      "jp_html": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>何か<rt>なにか</rt></ruby>をしたときは<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮り<rt>とり</rt></ruby>ます",
+      "zh": "和家人一起与老婆孩子做某事时会拍照",
+      "en": "When we do something with my wife and kids together as a family, we take a photo."
+    },
+    {
+      "id": 39,
+      "start": 165.51,
+      "end": 173.09,
+      "ts": "02:45.510 -> 02:53.090",
+      "jp": "例えばこの前美術館に行ってきましたね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>この<ruby>前<rt>まえ</rt></ruby><ruby>美術館<rt>びじゅつかん</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>きましたね",
+      "zh": "比如上次我去了一趟美术馆",
+      "en": "For example, I went to the museum the other day."
+    },
+    {
+      "id": 40,
+      "start": 173.09,
+      "end": 177.03,
+      "ts": "02:53.090 -> 02:57.030",
+      "jp": "美術館に行ってピカソを見てきましたパブロピカソ",
+      "jp_html": "<ruby>美術館<rt>びじゅつかん</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>ピカソを<ruby>見て<rt>みて</rt></ruby>きましたパブロピカソ",
+      "zh": "我去美术馆看了毕加索的画，是帕布罗·毕加索",
+      "en": "I went to the museum and saw Picasso by Pablo Picasso"
+    },
+    {
+      "id": 41,
+      "start": 179.73,
+      "end": 183.95,
+      "ts": "02:59.730 -> 03:03.950",
+      "jp": "美術館の中では少しだけ写真を撮ったけど",
+      "jp_html": "<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では<ruby>少し<rt>すこし</rt></ruby>だけ<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>たけど",
+      "zh": "我在美术馆里只拍了少量的照片",
+      "en": "I took a few photos in the museum but"
+    },
+    {
+      "id": 42,
+      "start": 183.95,
+      "end": 186.63,
+      "ts": "03:03.950 -> 03:06.630",
+      "jp": "美術館の外とかね",
+      "jp_html": "<ruby>美術館<rt>びじゅつかん</rt></ruby>の<ruby>外<rt>そと</rt></ruby>とかね",
+      "zh": "美术馆的外面或者可以",
+      "en": "The outside of the museum"
+    },
+    {
+      "id": 43,
+      "start": 186.63,
+      "end": 191.39,
+      "ts": "03:06.630 -> 03:11.390",
+      "jp": "その後昼ご飯を食べて",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby><ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "然后吃了午饭",
+      "en": "Then I had lunch."
+    },
+    {
+      "id": 44,
+      "start": 191.39,
+      "end": 193.47,
+      "ts": "03:11.390 -> 03:13.470",
+      "jp": "昼ご飯の写真",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>",
+      "zh": "午餐的照片",
+      "en": "Photo of lunch"
+    },
+    {
+      "id": 45,
+      "start": 193.47,
+      "end": 195.79,
+      "ts": "03:13.470 -> 03:15.790",
+      "jp": "その時昼ご飯はそばですね",
+      "jp_html": "その<ruby>時<rt>とき</rt></ruby><ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>はそばですね",
+      "zh": "那时中午吃拉面吧",
+      "en": "At that time, lunch was soba noodles."
+    },
+    {
+      "id": 46,
+      "start": 195.79,
+      "end": 197.73,
+      "ts": "03:15.790 -> 03:17.730",
+      "jp": "そばと天ぷら",
+      "jp_html": "そばと<ruby>天ぷら<rt>てんぷら</rt></ruby>",
+      "zh": "拉面和天妇罗",
+      "en": "noodles and tempura"
+    },
+    {
+      "id": 47,
+      "start": 197.73,
+      "end": 201.57,
+      "ts": "03:17.730 -> 03:21.570",
+      "jp": "天ぷらとそばを食べて写真を撮って",
+      "jp_html": "<ruby>天ぷら<rt>てんぷら</rt></ruby>とそばを<ruby>食べて<rt>たべて</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>て",
+      "zh": "吃了天妇罗和 soba 并拍了照片",
+      "en": "I ate tempura and soba and took a photo."
+    },
+    {
+      "id": 48,
+      "start": 201.57,
+      "end": 204.47,
+      "ts": "03:21.570 -> 03:24.470",
+      "jp": "ちょっと街を歩きながら",
+      "jp_html": "ちょっと<ruby>街<rt>まち</rt></ruby>を<ruby>歩き<rt>あるき</rt></ruby>ながら",
+      "zh": "稍微在街上散步一下",
+      "en": "Take a little walk through town"
+    },
+    {
+      "id": 49,
+      "start": 204.47,
+      "end": 207.07,
+      "ts": "03:24.470 -> 03:27.070",
+      "jp": "また少し子供の写真とかを撮って",
+      "jp_html": "また<ruby>少し<rt>すこし</rt></ruby><ruby>子供<rt>こども</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>とかを<ruby>撮っ<rt>とっ</rt></ruby>て",
+      "zh": "再拍一些孩子的照片吧",
+      "en": "Also take some more photos of the children."
+    },
+    {
+      "id": 50,
+      "start": 207.07,
+      "end": 210.79,
+      "ts": "03:27.070 -> 03:30.790",
+      "jp": "その後コーヒーを飲むために",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>コーヒーを<ruby>飲む<rt>のむ</rt></ruby>ために",
+      "zh": "然后去喝咖啡",
+      "en": "Then I drink coffee."
+    },
+    {
+      "id": 51,
+      "start": 210.79,
+      "end": 211.83,
+      "ts": "03:30.790 -> 03:31.830",
+      "jp": "カフェに行きましたね",
+      "jp_html": "カフェに<ruby>行き<rt>いき</rt></ruby>ましたね",
+      "zh": "你去咖啡店了啊",
+      "en": "You went to the cafe, didn't you?"
+    },
+    {
+      "id": 52,
+      "start": 211.83,
+      "end": 212.77,
+      "ts": "03:31.830 -> 03:32.770",
+      "jp": "カフェに行って",
+      "jp_html": "カフェに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "去咖啡店",
+      "en": "Go to the cafe."
+    },
+    {
+      "id": 53,
+      "start": 212.77,
+      "end": 215.05,
+      "ts": "03:32.770 -> 03:35.050",
+      "jp": "ラテですよね",
+      "jp_html": "ラテですよね",
+      "zh": "那是拿铁吧？",
+      "en": "Isn't it latte?"
+    },
+    {
+      "id": 54,
+      "start": 215.05,
+      "end": 218.93,
+      "ts": "03:35.050 -> 03:38.930",
+      "jp": "カフェラテと子供はアイスクリームを食べて",
+      "jp_html": "カフェラテと<ruby>子供<rt>こども</rt></ruby>はアイスクリームを<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "咖啡 Latte 和孩子吃了冰淇淋",
+      "en": "Café latte and children ate ice cream."
+    },
+    {
+      "id": 55,
+      "start": 218.93,
+      "end": 220.27,
+      "ts": "03:38.930 -> 03:40.270",
+      "jp": "それを写真に撮って",
+      "jp_html": "それを<ruby>写真<rt>しゃしん</rt></ruby>に<ruby>撮っ<rt>とっ</rt></ruby>て",
+      "zh": "把它拍下来",
+      "en": "Take a photo of it"
+    },
+    {
+      "id": 56,
+      "start": 220.27,
+      "end": 224.51,
+      "ts": "03:40.270 -> 03:44.510",
+      "jp": "その後帰りですよね",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby><ruby>帰り<rt>かえり</rt></ruby>ですよね",
+      "zh": "那之后就是回家吧",
+      "en": "Then you're going home, right?"
+    },
+    {
+      "id": 57,
+      "start": 224.51,
+      "end": 227.47,
+      "ts": "03:44.510 -> 03:47.470",
+      "jp": "また道を歩きながらちょっと写真撮って",
+      "jp_html": "また<ruby>道<rt>みち</rt></ruby>を<ruby>歩き<rt>あるき</rt></ruby>ながらちょっと<ruby>写真<rt>しゃしん</rt></ruby><ruby>撮っ<rt>とっ</rt></ruby>て",
+      "zh": "一边走路一边稍微拍点照片",
+      "en": "While walking down the street, I'll take a few photos."
+    },
+    {
+      "id": 58,
+      "start": 227.47,
+      "end": 228.67,
+      "ts": "03:47.470 -> 03:48.670",
+      "jp": "それで終わりです",
+      "jp_html": "それで<ruby>終わり<rt>おわり</rt></ruby>です",
+      "zh": "就这样结束了",
+      "en": "That's the end."
+    },
+    {
+      "id": 59,
+      "start": 228.67,
+      "end": 234.49,
+      "ts": "03:48.670 -> 03:54.490",
+      "jp": "普通の日は多分写真は全然撮らない",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>日<rt>にち</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby><ruby>写真<rt>しゃしん</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>撮ら<rt>とら</rt></ruby>ない",
+      "zh": "平常的日子大概完全不拍照片",
+      "en": "On ordinary days, I don't take any photos at all."
+    },
+    {
+      "id": 60,
+      "start": 234.49,
+      "end": 236.79,
+      "ts": "03:54.490 -> 03:56.790",
+      "jp": "だから週末かな",
+      "jp_html": "だから<ruby>週末<rt>しゅうまつ</rt></ruby>かな",
+      "zh": "所以是周末呢",
+      "en": "So maybe the weekend?"
+    },
+    {
+      "id": 61,
+      "start": 236.79,
+      "end": 238.73,
+      "ts": "03:56.790 -> 03:58.730",
+      "jp": "ほとんどは週末に",
+      "jp_html": "ほとんどは<ruby>週末<rt>しゅうまつ</rt></ruby>に",
+      "zh": "几乎都在周末",
+      "en": "Mostly on weekends."
+    },
+    {
+      "id": 62,
+      "start": 238.73,
+      "end": 242.97,
+      "ts": "03:58.730 -> 04:02.970",
+      "jp": "1日5枚ぐらいかな",
+      "jp_html": "1<ruby>日<rt>にち</rt></ruby>5<ruby>枚<rt>まい</rt></ruby>ぐらいかな",
+      "zh": "大概一天五张左右吧",
+      "en": "About 5 pieces per day."
+    },
+    {
+      "id": 63,
+      "start": 242.97,
+      "end": 245.43,
+      "ts": "04:02.970 -> 04:05.430",
+      "jp": "5枚6枚ぐらいの写真を撮る",
+      "jp_html": "5<ruby>枚<rt>まい</rt></ruby>6<ruby>枚<rt>まい</rt></ruby>ぐらいの<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮る<rt>とる</rt></ruby>",
+      "zh": "拍几张照片，大约5张到6张左右。",
+      "en": "Take 5 to 6 photos."
+    },
+    {
+      "id": 64,
+      "start": 245.43,
+      "end": 247.27,
+      "ts": "04:05.430 -> 04:07.270",
+      "jp": "それだけですよね",
+      "jp_html": "それだけですよね",
+      "zh": "就这些吗？",
+      "en": "That's it, right?"
+    },
+    {
+      "id": 65,
+      "start": 247.27,
+      "end": 254.87,
+      "ts": "04:07.270 -> 04:14.870",
+      "jp": "だけど子供が小さい時赤ちゃんの時は本当にたくさん写真を撮りましたね",
+      "jp_html": "だけど<ruby>子供<rt>こども</rt></ruby>が<ruby>小さい<rt>ちーさい</rt></ruby><ruby>時<rt>とき</rt></ruby><ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>にたくさん<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮り<rt>とり</rt></ruby>ましたね",
+      "zh": "但是孩子小的时候，尤其是婴儿时期，真的拍了很多照片呢",
+      "en": "But when the kids were little, especially when they were babies, we took lots of photos, didn't we?"
+    },
+    {
+      "id": 66,
+      "start": 254.87,
+      "end": 259.61,
+      "ts": "04:14.870 -> 04:19.610",
+      "jp": "それは良かったと思います写真を撮っていて",
+      "jp_html": "それは<ruby>良か<rt>よか</rt></ruby>ったと<ruby>思い<rt>おもい</rt></ruby>ます<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていて",
+      "zh": "我想那很好。拍照的时候",
+      "en": "I think it turned out well taking photos there"
+    },
+    {
+      "id": 67,
+      "start": 259.61,
+      "end": 266.19,
+      "ts": "04:19.610 -> 04:26.190",
+      "jp": "なぜかというとやっぱり子供が赤ちゃんの時って本当に短いんですよね",
+      "jp_html": "なぜかというとやっぱり<ruby>子供<rt>こども</rt></ruby>が<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>の<ruby>時<rt>とき</rt></ruby>って<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>短い<rt>みじかい</rt></ruby>んですよね",
+      "zh": "之所以这么说，因为毕竟宝宝真的是在婴儿时期很短暂吧",
+      "en": "It's because really, the time when children are babies is so short, isn't it?"
+    },
+    {
+      "id": 68,
+      "start": 266.19,
+      "end": 268.55,
+      "ts": "04:26.190 -> 04:28.550",
+      "jp": "まあ2年ぐらいかな",
+      "jp_html": "まあ2<ruby>年<rt>ねん</rt></ruby>ぐらいかな",
+      "zh": "大概两年吧",
+      "en": "Well, maybe around two years."
+    },
+    {
+      "id": 69,
+      "start": 268.55,
+      "end": 275.17,
+      "ts": "04:28.550 -> 04:35.170",
+      "jp": "3年ぐらいすると赤ちゃんじゃないんですよね",
+      "jp_html": "3<ruby>年<rt>ねん</rt></ruby>ぐらいすると<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>じゃないんですよね",
+      "zh": "大约三年后就不是宝宝了",
+      "en": "After about 3 years, they're not babies anymore."
+    },
+    {
+      "id": 70,
+      "start": 275.17,
+      "end": 278.43,
+      "ts": "04:35.170 -> 04:38.430",
+      "jp": "もう少し子供っぽくなってきて",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>子供<rt>こども</rt></ruby>っぽくなってきて",
+      "zh": "越来越显得幼稚了",
+      "en": "He is starting to act more childish."
+    },
+    {
+      "id": 71,
+      "start": 278.43,
+      "end": 283.55,
+      "ts": "04:38.430 -> 04:43.550",
+      "jp": "だからその0歳1歳2歳ぐらい",
+      "jp_html": "だからその0<ruby>歳<rt>とし</rt></ruby>1<ruby>歳<rt>とし</rt></ruby>2<ruby>歳<rt>とし</rt></ruby>ぐらい",
+      "zh": "所以那0岁1岁2岁左右",
+      "en": "So for ages 0, 1, and 2 years old"
+    },
+    {
+      "id": 72,
+      "start": 283.55,
+      "end": 287.63,
+      "ts": "04:43.550 -> 04:47.630",
+      "jp": "その時は本当にたくさん写真を撮っていいと思う",
+      "jp_html": "その<ruby>時<rt>とき</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>にたくさん<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮っ<rt>とっ</rt></ruby>ていいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "那时候我真的觉得可以拍很多照片",
+      "en": "At that time, I really think we should take lots of photos."
+    },
+    {
+      "id": 73,
+      "start": 287.63,
+      "end": 289.59,
+      "ts": "04:47.630 -> 04:49.590",
+      "jp": "面白いですね",
+      "jp_html": "<ruby>面白い<rt>おもしろい</rt></ruby>ですね",
+      "zh": "真有趣呢",
+      "en": "It's interesting, huh?"
+    },
+    {
+      "id": 74,
+      "start": 289.59,
+      "end": 295.01,
+      "ts": "04:49.590 -> 04:55.010",
+      "jp": "後で懐かしいなと思って見てみると",
+      "jp_html": "<ruby>後で<rt>あとで</rt></ruby><ruby>懐かしい<rt>なつかしい</rt></ruby>なと<ruby>思って<rt>おもって</rt></ruby><ruby>見て<rt>みて</rt></ruby>みると",
+      "zh": "以后怀念的时候再看一遍吧",
+      "en": "I'll look at it later and think it's nostalgic."
+    },
+    {
+      "id": 75,
+      "start": 295.01,
+      "end": 297.33,
+      "ts": "04:55.010 -> 04:57.330",
+      "jp": "顔が違うんですよね",
+      "jp_html": "<ruby>顔<rt>かお</rt></ruby>が<ruby>違う<rt>ちがう</rt></ruby>んですよね",
+      "zh": "脸不一样呢",
+      "en": "The face is different, you know?"
+    },
+    {
+      "id": 76,
+      "start": 297.33,
+      "end": 299.19,
+      "ts": "04:57.330 -> 04:59.190",
+      "jp": "子供の顔が変わるんです",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>が<ruby>変わ<rt>かわ</rt></ruby>るんです",
+      "zh": "孩子的脸庞变了呢",
+      "en": "The child's face changes."
+    },
+    {
+      "id": 77,
+      "start": 299.19,
+      "end": 300.53,
+      "ts": "04:59.190 -> 05:00.530",
+      "jp": "結構毎日",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>",
+      "zh": "结构每天",
+      "en": "It's structured every day"
+    },
+    {
+      "id": 78,
+      "start": 300.53,
+      "end": 304.25,
+      "ts": "05:00.530 -> 05:04.250",
+      "jp": "毎日少しずつ顔が変わっていくから",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>顔<rt>かお</rt></ruby>が<ruby>変わ<rt>かわ</rt></ruby>っていくから",
+      "zh": "因为脸每一天都会一点点变化",
+      "en": "Your face changes little by little every day."
+    },
+    {
+      "id": 79,
+      "start": 304.25,
+      "end": 308.27,
+      "ts": "05:04.250 -> 05:08.270",
+      "jp": "今はあんまり変わらないですね",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>はあんまり<ruby>変わ<rt>かわ</rt></ruby>らないですね",
+      "zh": "现在变化不大呢",
+      "en": "It hasn't changed much, I guess."
+    },
+    {
+      "id": 80,
+      "start": 308.27,
+      "end": 309.99,
+      "ts": "05:08.270 -> 05:09.990",
+      "jp": "今はあんまり変わらない",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>はあんまり<ruby>変わ<rt>かわ</rt></ruby>らない",
+      "zh": "现在变化不大",
+      "en": "Now there isn't much change."
+    },
+    {
+      "id": 81,
+      "start": 309.99,
+      "end": 313.43,
+      "ts": "05:09.990 -> 05:13.430",
+      "jp": "あともちろん僕とか奥さんは",
+      "jp_html": "あともちろん<ruby>僕<rt>ぼく</rt></ruby>とか<ruby>奥さん<rt>おくさん</rt></ruby>は",
+      "zh": "我们当然包括我妻子和我",
+      "en": "Also of course my wife and I"
+    },
+    {
+      "id": 82,
+      "start": 313.43,
+      "end": 315.73,
+      "ts": "05:13.430 -> 05:15.730",
+      "jp": "そんなに変わらないですよね",
+      "jp_html": "そんなに<ruby>変わ<rt>かわ</rt></ruby>らないですよね",
+      "zh": "确实没有改变很多吧？",
+      "en": "Isn't it not that different, right?"
+    },
+    {
+      "id": 83,
+      "start": 315.73,
+      "end": 320.85,
+      "ts": "05:15.730 -> 05:20.850",
+      "jp": "もちろん少しずつ歳をとっていきますけどね",
+      "jp_html": "もちろん<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>歳<rt>とし</rt></ruby>をとっていきますけどね",
+      "zh": "当然会逐渐变老嘛",
+      "en": "Of course, we age a little bit every year, you know."
+    },
+    {
+      "id": 84,
+      "start": 320.85,
+      "end": 326.07,
+      "ts": "05:20.850 -> 05:26.070",
+      "jp": "でも赤ちゃんは結構毎日顔が違うから",
+      "jp_html": "でも<ruby>赤ちゃん<rt>あかちゃん</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>顔<rt>かお</rt></ruby>が<ruby>違うか<rt>ちがうか</rt></ruby>ら",
+      "zh": "但是宝宝每天的脸确实不一样",
+      "en": "But babies actually have quite different faces every day."
+    },
+    {
+      "id": 85,
+      "start": 326.07,
+      "end": 328.79,
+      "ts": "05:26.070 -> 05:28.790",
+      "jp": "写真を撮るといいかもしれない",
+      "jp_html": "<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮る<rt>とる</rt></ruby>といいかもしれない",
+      "zh": "拍张照片可能会好些",
+      "en": "Maybe it would be good to take a picture."
+    },
+    {
+      "id": 86,
+      "start": 328.79,
+      "end": 329.93,
+      "ts": "05:28.790 -> 05:29.930",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 87,
+      "start": 329.93,
+      "end": 331.43,
+      "ts": "05:29.930 -> 05:31.430",
+      "jp": "写真を撮りますか",
+      "jp_html": "<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮り<rt>とり</rt></ruby>ますか",
+      "zh": "您拍照吗？",
+      "en": "Do you want to take a photo?"
+    },
+    {
+      "id": 88,
+      "start": 331.43,
+      "end": 333.37,
+      "ts": "05:31.430 -> 05:33.370",
+      "jp": "人を撮りますか",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>を<ruby>撮り<rt>とり</rt></ruby>ますか",
+      "zh": "你要拍照吗？",
+      "en": "Do you want to take a picture of a person?"
+    },
+    {
+      "id": 89,
+      "start": 333.37,
+      "end": 335.13,
+      "ts": "05:33.370 -> 05:35.130",
+      "jp": "それとも物を撮りますか",
+      "jp_html": "それとも<ruby>物<rt>もの</rt></ruby>を<ruby>撮り<rt>とり</rt></ruby>ますか",
+      "zh": "还是拍照呢？",
+      "en": "Do you take pictures of things?"
+    },
+    {
+      "id": 90,
+      "start": 335.13,
+      "end": 336.89,
+      "ts": "05:35.130 -> 05:36.890",
+      "jp": "いいカメラを持ってますか",
+      "jp_html": "いいカメラを<ruby>持っ<rt>もっ</rt></ruby>てますか",
+      "zh": "你有好相机吗？",
+      "en": "Do you have a good camera?"
+    },
+    {
+      "id": 91,
+      "start": 336.89,
+      "end": 340.11,
+      "ts": "05:36.890 -> 05:40.110",
+      "jp": "それとも携帯電話で撮りますか",
+      "jp_html": "それとも<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>で<ruby>撮り<rt>とり</rt></ruby>ますか",
+      "zh": "还是用手机拍呢",
+      "en": "Do you take it with a smartphone?"
+    },
+    {
+      "id": 92,
+      "start": 340.11,
+      "end": 344.19,
+      "ts": "05:40.110 -> 05:44.190",
+      "jp": "写真はね面白いですよね",
+      "jp_html": "<ruby>写真<rt>しゃしん</rt></ruby>はね<ruby>面白い<rt>おもしろい</rt></ruby>ですよね",
+      "zh": "照片是啊挺有趣的吧",
+      "en": "The photos are really interesting, aren't they?"
+    },
+    {
+      "id": 93,
+      "start": 344.19,
+      "end": 345.53,
+      "ts": "05:44.190 -> 05:45.530",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 94,
+      "start": 345.53,
+      "end": 346.61,
+      "ts": "05:45.530 -> 05:46.610",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们再见吧",
+      "en": "See you later"
+    }
+  ]
+}
