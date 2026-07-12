@@ -1,0 +1,554 @@
+{
+  "id": "1547",
+  "title": "#1547「サッカーについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1547.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1547.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/07/12/1547%e3%80%8c%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.17,
+      "end": 2.77,
+      "ts": "00:01.170 -> 00:02.770",
+      "jp": "シャッキー",
+      "jp_html": "シャッキー",
+      "zh": "沙克利",
+      "en": "Shackey"
+    },
+    {
+      "id": 1,
+      "start": 2.77,
+      "end": 6.13,
+      "ts": "00:02.770 -> 00:06.130",
+      "jp": "今日はサッカーについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>サッカーについて",
+      "zh": "今天关于足球",
+      "en": "Today about soccer"
+    },
+    {
+      "id": 2,
+      "start": 6.13,
+      "end": 8.63,
+      "ts": "00:06.130 -> 00:08.630",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 3,
+      "start": 8.63,
+      "end": 11.15,
+      "ts": "00:08.630 -> 00:11.150",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语播音的时间吧",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 11.15,
+      "end": 14.83,
+      "ts": "00:11.150 -> 00:14.830",
+      "jp": "あのサッカーについて話したいですけど",
+      "jp_html": "あのサッカーについて<ruby>話し<rt>はなし</rt></ruby>たいですけど",
+      "zh": "我想谈谈那个足球",
+      "en": "I want to talk about that soccer."
+    },
+    {
+      "id": 5,
+      "start": 14.83,
+      "end": 16.65,
+      "ts": "00:14.830 -> 00:16.650",
+      "jp": "僕はサッカー",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>サッカー",
+      "zh": "我踢足球",
+      "en": "I play soccer."
+    },
+    {
+      "id": 6,
+      "start": 16.65,
+      "end": 18.25,
+      "ts": "00:16.650 -> 00:18.250",
+      "jp": "あまり",
+      "jp_html": "あまり",
+      "zh": "不多",
+      "en": "not too much"
+    },
+    {
+      "id": 7,
+      "start": 18.25,
+      "end": 20.59,
+      "ts": "00:18.250 -> 00:20.590",
+      "jp": "あまり分かりません",
+      "jp_html": "あまり<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "不太明白",
+      "en": "I don't understand much."
+    },
+    {
+      "id": 8,
+      "start": 20.59,
+      "end": 23.47,
+      "ts": "00:20.590 -> 00:23.470",
+      "jp": "そしてあまり好きではない",
+      "jp_html": "そしてあまり<ruby>好き<rt>すき</rt></ruby>ではない",
+      "zh": "然后不是很喜欢",
+      "en": "And I don't really like it that much."
+    },
+    {
+      "id": 9,
+      "start": 23.47,
+      "end": 27.97,
+      "ts": "00:23.470 -> 00:27.970",
+      "jp": "まあまあ嫌いではないのかな",
+      "jp_html": "まあまあ<ruby>嫌い<rt>きらい</rt></ruby>ではないのかな",
+      "zh": "maybe你不太讨厌吧？",
+      "en": "Maybe you don't dislike it, right?"
+    },
+    {
+      "id": 10,
+      "start": 27.97,
+      "end": 28.85,
+      "ts": "00:27.970 -> 00:28.850",
+      "jp": "分かりません",
+      "jp_html": "<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "不明白",
+      "en": "I don't understand."
+    },
+    {
+      "id": 11,
+      "start": 28.85,
+      "end": 30.75,
+      "ts": "00:28.850 -> 00:30.750",
+      "jp": "好きか嫌いかも分からない",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>か<ruby>嫌い<rt>きらい</rt></ruby>かも<ruby>分か<rt>わか</rt></ruby>らない",
+      "zh": "喜欢还是不喜欢都还不确定",
+      "en": "I don't know if I like it or dislike it."
+    },
+    {
+      "id": 12,
+      "start": 30.75,
+      "end": 35.75,
+      "ts": "00:30.750 -> 00:35.750",
+      "jp": "でも頑張ってサッカーについて話してみたいと思います",
+      "jp_html": "でも<ruby>頑張っ<rt>がんばっ</rt></ruby>てサッカーについて<ruby>話し<rt>はなし</rt></ruby>てみたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "但是我想试着谈谈足球的事情",
+      "en": "But I'd like to try talking about soccer anyway."
+    },
+    {
+      "id": 13,
+      "start": 35.75,
+      "end": 43.25,
+      "ts": "00:35.750 -> 00:43.250",
+      "jp": "最近ワールドカップがありましたよね",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>ワールドカップがありましたよね",
+      "zh": "最近世界杯举行了吧",
+      "en": "Didn't we have the World Cup recently?"
+    },
+    {
+      "id": 14,
+      "start": 43.25,
+      "end": 47.13,
+      "ts": "00:43.250 -> 00:47.130",
+      "jp": "見ましたか好きですか",
+      "jp_html": "<ruby>見ま<rt>みま</rt></ruby>したか<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "您看到了吗，你喜欢吗？",
+      "en": "Did you see it? Do you like it?"
+    },
+    {
+      "id": 15,
+      "start": 47.13,
+      "end": 52.87,
+      "ts": "00:47.130 -> 00:52.870",
+      "jp": "あれですよね",
+      "jp_html": "あれですよね",
+      "zh": "对吧？",
+      "en": "Isn't that one?"
+    },
+    {
+      "id": 16,
+      "start": 52.87,
+      "end": 56.29,
+      "ts": "00:52.870 -> 00:56.290",
+      "jp": "ワールドカップはもちろん僕は見るし",
+      "jp_html": "ワールドカップはもちろん<ruby>僕は<rt>ぼくは</rt></ruby><ruby>見る<rt>みる</rt></ruby>し",
+      "zh": "当然我会看世界杯",
+      "en": "I definitely watch the World Cup as well."
+    },
+    {
+      "id": 17,
+      "start": 56.29,
+      "end": 64.17,
+      "ts": "00:56.290 -> 01:04.170",
+      "jp": "ワールドカップは見るしオリンピックとかも見ますが",
+      "jp_html": "ワールドカップは<ruby>見る<rt>みる</rt></ruby>しオリンピックとかも<ruby>見ま<rt>みま</rt></ruby>すが",
+      "zh": "我会看世界杯，也会看奥运会。",
+      "en": "I watch the World Cup and also the Olympics."
+    },
+    {
+      "id": 18,
+      "start": 64.17,
+      "end": 70.29,
+      "ts": "01:04.170 -> 01:10.290",
+      "jp": "日本代表ね日本チーム応援するのかな",
+      "jp_html": "<ruby>日本代表<rt>にほんだいひょう</rt></ruby>ね<ruby>日本<rt>にっぽん</rt></ruby>チーム<ruby>応援<rt>おうえん</rt></ruby>するのかな",
+      "zh": "日本代表呢，是不是要支持日本队呀",
+      "en": "Are you going to cheer for the Japanese team as Japan's representative?"
+    },
+    {
+      "id": 19,
+      "start": 70.29,
+      "end": 75.97,
+      "ts": "01:10.290 -> 01:15.970",
+      "jp": "僕はスペインに住んでたバルセロナにいました",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>スペインに<ruby>住ん<rt>すん</rt></ruby>でたバルセロナにいました",
+      "zh": "我住在巴塞罗那的西班牙",
+      "en": "I was in Barcelona, which I lived in, Spain."
+    },
+    {
+      "id": 20,
+      "start": 75.97,
+      "end": 80.99,
+      "ts": "01:15.970 -> 01:20.990",
+      "jp": "そしてバルセロナといえばバルサですよね",
+      "jp_html": "そしてバルセロナといえばバルサですよね",
+      "zh": "而说到巴塞罗那，就是指巴萨吧",
+      "en": "And when it comes to Barcelona, it's Barça, right?"
+    },
+    {
+      "id": 21,
+      "start": 80.99,
+      "end": 91.81,
+      "ts": "01:20.990 -> 01:31.810",
+      "jp": "確かに僕の奥さんの友達とかはやっぱりバルサファンですよね",
+      "jp_html": "<ruby>確かに<rt>たしかに</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>とかはやっぱりバルサファンですよね",
+      "zh": "确实我老婆的朋友都是巴塞罗那的球迷吧？",
+      "en": "Indeed, my wife's friends are definitely Barça fans, right?"
+    },
+    {
+      "id": 22,
+      "start": 91.81,
+      "end": 96.63,
+      "ts": "01:31.810 -> 01:36.630",
+      "jp": "でも僕の奥さんの家族はあんまりサッカー見ない",
+      "jp_html": "でも<ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>はあんまりサッカー<ruby>見な<rt>みな</rt></ruby>い",
+      "zh": "但是我的岳家人不太看足球",
+      "en": "But my wife's family doesn't watch soccer that much."
+    },
+    {
+      "id": 23,
+      "start": 96.63,
+      "end": 100.03,
+      "ts": "01:36.630 -> 01:40.030",
+      "jp": "てか全然興味がなかったない",
+      "jp_html": "てか<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>興味<rt>きょうみ</rt></ruby>がなかったない",
+      "zh": "其实完全没有兴趣",
+      "en": "Well, I had no interest in it at all."
+    },
+    {
+      "id": 24,
+      "start": 102.43,
+      "end": 107.13,
+      "ts": "01:42.430 -> 01:47.130",
+      "jp": "奥さんの弟は多分少しバルサを好きなのかな",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby><ruby>少し<rt>すこし</rt></ruby>バルサを<ruby>好き<rt>すき</rt></ruby>なのかな",
+      "zh": "大概他的姐姐弟弟应该有点喜欢巴萨吧。",
+      "en": "His sister's brother probably likes Barça a little bit, I guess."
+    },
+    {
+      "id": 25,
+      "start": 107.13,
+      "end": 115.33,
+      "ts": "01:47.130 -> 01:55.330",
+      "jp": "でもあんまりサッカーが好きな家族ではないですね",
+      "jp_html": "でもあんまりサッカーが<ruby>好き<rt>すき</rt></ruby>な<ruby>家族<rt>かぞく</rt></ruby>ではないですね",
+      "zh": "但家人对足球并不是特别喜欢呢",
+      "en": "But your family isn't particularly fond of soccer, huh?"
+    },
+    {
+      "id": 26,
+      "start": 115.33,
+      "end": 120.35,
+      "ts": "01:55.330 -> 02:00.350",
+      "jp": "そして僕の家族も全然サッカーとか見ない",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>も<ruby>全然<rt>ぜんぜん</rt></ruby>サッカーとか<ruby>見な<rt>みな</rt></ruby>い",
+      "zh": "然后我的家人完全不看足球之类的比赛",
+      "en": "And my family doesn't watch soccer at all."
+    },
+    {
+      "id": 27,
+      "start": 120.35,
+      "end": 127.01,
+      "ts": "02:00.350 -> 02:07.010",
+      "jp": "お父さんは野球は少し好きだけどサッカーは全然見ない",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>は<ruby>野球<rt>やきゅう</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>好き<rt>すき</rt></ruby>だけどサッカーは<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>見な<rt>みな</rt></ruby>い",
+      "zh": "爸爸喜欢棒球但完全不看足球",
+      "en": "The father likes baseball a little but doesn't watch soccer at all."
+    },
+    {
+      "id": 28,
+      "start": 127.01,
+      "end": 131.11,
+      "ts": "02:07.010 -> 02:11.110",
+      "jp": "というわけで話すことはありません",
+      "jp_html": "というわけで<ruby>話す<rt>はなす</rt></ruby>ことはありません",
+      "zh": "因此我们从未说过话",
+      "en": "Therefore, we have never spoken."
+    },
+    {
+      "id": 29,
+      "start": 131.11,
+      "end": 134.95,
+      "ts": "02:11.110 -> 02:14.950",
+      "jp": "というわけでじゃあ野球の話にしますか",
+      "jp_html": "というわけでじゃあ<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>にしますか",
+      "zh": "这么说我们谈谈棒球吧",
+      "en": "So shall we talk about baseball?"
+    },
+    {
+      "id": 30,
+      "start": 134.95,
+      "end": 137.69,
+      "ts": "02:14.950 -> 02:17.690",
+      "jp": "野球について話しますね",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>ますね",
+      "zh": "我们来谈谈棒球吧",
+      "en": "Let's talk about baseball."
+    },
+    {
+      "id": 31,
+      "start": 137.69,
+      "end": 141.63,
+      "ts": "02:17.690 -> 02:21.630",
+      "jp": "でも僕ね野球はあんまり興味ないんですね",
+      "jp_html": "でも<ruby>僕<rt>ぼく</rt></ruby>ね<ruby>野球<rt>やきゅう</rt></ruby>はあんまり<ruby>興味<rt>きょうみ</rt></ruby>ないんですね",
+      "zh": "但我对棒球不太感兴趣呢",
+      "en": "But I don't really have much interest in baseball either."
+    },
+    {
+      "id": 32,
+      "start": 141.63,
+      "end": 143.83,
+      "ts": "02:21.630 -> 02:23.830",
+      "jp": "大谷翔平ぐらいかな",
+      "jp_html": "<ruby>大谷<rt>おおたに</rt></ruby><ruby>翔平<rt>しょうへい</rt></ruby>ぐらいかな",
+      "zh": "大概就像大谷翔平吧",
+      "en": "Probably not even Daichi Ichikawa."
+    },
+    {
+      "id": 33,
+      "start": 143.83,
+      "end": 146.47,
+      "ts": "02:23.830 -> 02:26.470",
+      "jp": "大谷翔平はすごいです",
+      "jp_html": "<ruby>大谷<rt>おおたに</rt></ruby><ruby>翔平<rt>しょうへい</rt></ruby>はすごいです",
+      "zh": "大谷翔平真的很棒",
+      "en": "Shohei Otani is great."
+    },
+    {
+      "id": 34,
+      "start": 146.47,
+      "end": 148.79,
+      "ts": "02:26.470 -> 02:28.790",
+      "jp": "大谷翔平はすごい",
+      "jp_html": "<ruby>大谷<rt>おおたに</rt></ruby><ruby>翔平<rt>しょうへい</rt></ruby>はすごい",
+      "zh": "大谷翔平很强",
+      "en": "Shohei Otani is amazing"
+    },
+    {
+      "id": 35,
+      "start": 148.79,
+      "end": 152.69,
+      "ts": "02:28.790 -> 02:32.690",
+      "jp": "大谷翔平はすごいそれだけ",
+      "jp_html": "<ruby>大谷<rt>おおたに</rt></ruby><ruby>翔平<rt>しょうへい</rt></ruby>はすごいそれだけ",
+      "zh": "大谷翔平真的很厉害。",
+      "en": "Shohei Otani is amazing that's all"
+    },
+    {
+      "id": 36,
+      "start": 152.69,
+      "end": 154.97,
+      "ts": "02:32.690 -> 02:34.970",
+      "jp": "野球の話もできません",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>もできません",
+      "zh": "关于棒球也没法说",
+      "en": "I can't talk about baseball either."
+    },
+    {
+      "id": 37,
+      "start": 154.97,
+      "end": 157.93,
+      "ts": "02:34.970 -> 02:37.930",
+      "jp": "やっぱりスポーツのトピックは無理ですね",
+      "jp_html": "やっぱりスポーツのトピックは<ruby>無理<rt>むり</rt></ruby>ですね",
+      "zh": "果然体育的话题不行啊",
+      "en": "As expected, the sports topic is too difficult."
+    },
+    {
+      "id": 38,
+      "start": 157.93,
+      "end": 160.15,
+      "ts": "02:37.930 -> 02:40.150",
+      "jp": "残念ながら無理でした",
+      "jp_html": "<ruby>残念<rt>ざんねん</rt></ruby>ながら<ruby>無理<rt>むり</rt></ruby>でした",
+      "zh": "可惜没能做到",
+      "en": "Unfortunately, it didn't work."
+    },
+    {
+      "id": 39,
+      "start": 160.15,
+      "end": 165.59,
+      "ts": "02:40.150 -> 02:45.590",
+      "jp": "実は今回はサッカーについて",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>今回<rt>こんかい</rt></ruby>はサッカーについて",
+      "zh": "其实这次是关于足球的",
+      "en": "Actually, this time it's about soccer."
+    },
+    {
+      "id": 40,
+      "start": 165.59,
+      "end": 167.25,
+      "ts": "02:45.590 -> 02:47.250",
+      "jp": "そして次回は野球について",
+      "jp_html": "そして<ruby>次回<rt>じかい</rt></ruby>は<ruby>野球<rt>やきゅう</rt></ruby>について",
+      "zh": "然后下次我们将谈谈棒球",
+      "en": "And next time, I'll be talking about baseball."
+    },
+    {
+      "id": 41,
+      "start": 167.25,
+      "end": 168.71,
+      "ts": "02:47.250 -> 02:48.710",
+      "jp": "その次はテニスについて",
+      "jp_html": "その<ruby>次<rt>つぎ</rt></ruby>はテニスについて",
+      "zh": "接下来是关于网球的内容",
+      "en": "The next topic is about tennis."
+    },
+    {
+      "id": 42,
+      "start": 168.71,
+      "end": 170.51,
+      "ts": "02:48.710 -> 02:50.510",
+      "jp": "その次はバスケットボールについて",
+      "jp_html": "その<ruby>次<rt>つぎ</rt></ruby>はバスケットボールについて",
+      "zh": "接下来是关于篮球的内容",
+      "en": "The next topic is about basketball."
+    },
+    {
+      "id": 43,
+      "start": 170.51,
+      "end": 174.93,
+      "ts": "02:50.510 -> 02:54.930",
+      "jp": "その次はオリンピックについて話そうと思ったんですが",
+      "jp_html": "その<ruby>次<rt>つぎ</rt></ruby>はオリンピックについて<ruby>話そ<rt>はなそ</rt></ruby>うと<ruby>思った<rt>おもった</rt></ruby>んですが",
+      "zh": "然后我想谈谈奥运会的事情",
+      "en": "The next topic I wanted to talk about was the Olympics."
+    },
+    {
+      "id": 44,
+      "start": 174.93,
+      "end": 175.63,
+      "ts": "02:54.930 -> 02:55.630",
+      "jp": "無理です",
+      "jp_html": "<ruby>無理<rt>むり</rt></ruby>です",
+      "zh": "这不合理",
+      "en": "It's impossible."
+    },
+    {
+      "id": 45,
+      "start": 175.63,
+      "end": 177.63,
+      "ts": "02:55.630 -> 02:57.630",
+      "jp": "これ全部キャンセルして",
+      "jp_html": "これ<ruby>全部<rt>ぜんぶ</rt></ruby>キャンセルして",
+      "zh": "全部取消了",
+      "en": "Cancel everything"
+    },
+    {
+      "id": 46,
+      "start": 177.63,
+      "end": 180.63,
+      "ts": "02:57.630 -> 03:00.630",
+      "jp": "もうやめたいと思います",
+      "jp_html": "もうやめたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想放弃",
+      "en": "I want to give up already."
+    },
+    {
+      "id": 47,
+      "start": 180.63,
+      "end": 185.63,
+      "ts": "03:00.630 -> 03:05.630",
+      "jp": "やっぱり自分がわからないことは話せないですね",
+      "jp_html": "やっぱり<ruby>自分<rt>じぶん</rt></ruby>がわからないことは<ruby>話せ<rt>はなせ</rt></ruby>ないですね",
+      "zh": "果然，自己不明白的事情是说不出的呢",
+      "en": "You can't really talk about things you don't understand yourself, huh?"
+    },
+    {
+      "id": 48,
+      "start": 185.63,
+      "end": 189.27,
+      "ts": "03:05.630 -> 03:09.270",
+      "jp": "頑張っても無理というわけで",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>ても<ruby>無理<rt>むり</rt></ruby>というわけで",
+      "zh": "尽力也没用的话",
+      "en": "So it's where no matter how hard you try, it's impossible."
+    },
+    {
+      "id": 49,
+      "start": 189.27,
+      "end": 197.75,
+      "ts": "03:09.270 -> 03:17.750",
+      "jp": "サッカーの話野球の話テニスの話バスケットボールの話オリンピックの話は僕はしないですけど",
+      "jp_html": "サッカーの<ruby>話<rt>はなし</rt></ruby><ruby>野球<rt>やきゅう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>テニスの<ruby>話<rt>はなし</rt></ruby>バスケットボールの<ruby>話<rt>はなし</rt></ruby>オリンピックの<ruby>話<rt>はなし</rt></ruby>は<ruby>僕は<rt>ぼくは</rt></ruby>しないですけど",
+      "zh": "关于足球的谈话，关于棒球的谈话，关于网球的谈话，关于篮球的谈话，关于奥运会的谈话，我都不谈。",
+      "en": "I don't talk about soccer, baseball, tennis, basketball, or the Olympics."
+    },
+    {
+      "id": 50,
+      "start": 197.75,
+      "end": 202.49,
+      "ts": "03:17.750 -> 03:22.490",
+      "jp": "もし興味がある人は自分で調べてください",
+      "jp_html": "もし<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>人<rt>にん</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>調べ<rt>しらべ</rt></ruby>てください",
+      "zh": "如果有兴趣的话，请自己查一查。",
+      "en": "If you are interested, please investigate it yourself."
+    },
+    {
+      "id": 51,
+      "start": 202.49,
+      "end": 208.43,
+      "ts": "03:22.490 -> 03:28.430",
+      "jp": "僕は全然スポーツに興味がないということが分かっただけでも",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>全然<rt>ぜんぜん</rt></ruby>スポーツに<ruby>興味<rt>きょうみ</rt></ruby>がないということが<ruby>分か<rt>わか</rt></ruby>っただけでも",
+      "zh": "我仅仅明白了自己完全对体育不感兴趣。",
+      "en": "I only realized that I have absolutely no interest in sports."
+    },
+    {
+      "id": 52,
+      "start": 208.43,
+      "end": 216.35,
+      "ts": "03:28.430 -> 03:36.350",
+      "jp": "分かっただけでも良かったのかな分かりませんが皆さんはスポーツ楽しんでください",
+      "jp_html": "<ruby>分か<rt>わか</rt></ruby>っただけでも<ruby>良か<rt>よか</rt></ruby>ったのかな<ruby>分か<rt>わか</rt></ruby>りませんが<ruby>皆さん<rt>みなさん</rt></ruby>はスポーツ<ruby>楽し<rt>たのし</rt></ruby>んでください",
+      "zh": "只知道这些就够了，不过我不确定。希望大家都能享受运动。",
+      "en": "I wonder if it was enough that you understood. Anyway, have fun with sports everyone."
+    },
+    {
+      "id": 53,
+      "start": 216.35,
+      "end": 221.65,
+      "ts": "03:36.350 -> 03:41.650",
+      "jp": "それではまた次は全然違うトピックでまたね",
+      "jp_html": "それではまた<ruby>次<rt>つぎ</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違う<rt>ちがう</rt></ruby>トピックでまたね",
+      "zh": "那么下次我们讨论完全不同的主题时再见",
+      "en": "Okay, next we'll talk about a completely different topic, see you then."
+    }
+  ]
+}

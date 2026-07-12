@@ -1,0 +1,1854 @@
+{
+  "id": "1545",
+  "title": "#1545「ゲームについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1545.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1545.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/07/08/1545%e3%80%8c%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.58,
+      "end": 2.84,
+      "ts": "00:01.580 -> 00:02.840",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.84,
+      "end": 7.22,
+      "ts": "00:02.840 -> 00:07.220",
+      "jp": "今日はゲームについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ゲームについて",
+      "zh": "今天关于游戏",
+      "en": "Today about games"
+    },
+    {
+      "id": 2,
+      "start": 7.22,
+      "end": 9.76,
+      "ts": "00:07.220 -> 00:09.760",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好👋",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 9.76,
+      "end": 12.14,
+      "ts": "00:09.760 -> 00:12.140",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音训练的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 12.14,
+      "end": 13.44,
+      "ts": "00:12.140 -> 00:13.440",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 13.44,
+      "end": 16.76,
+      "ts": "00:13.440 -> 00:16.760",
+      "jp": "まあ僕は元気なんですけど",
+      "jp_html": "まあ<ruby>僕は<rt>ぼくは</rt></ruby><ruby>元気<rt>げんき</rt></ruby>なんですけど",
+      "zh": "我很好啦",
+      "en": "I'm okay, though."
+    },
+    {
+      "id": 6,
+      "start": 16.76,
+      "end": 20.88,
+      "ts": "00:16.760 -> 00:20.880",
+      "jp": "今日のトピックはゲームについてですね",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>のトピックはゲームについてですね",
+      "zh": "今天的主题是关于游戏的话题呢",
+      "en": "Today's topic is about games, huh?"
+    },
+    {
+      "id": 7,
+      "start": 20.88,
+      "end": 28.9,
+      "ts": "00:20.880 -> 00:28.900",
+      "jp": "実は僕は今ゲームをほとんどしません",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>今<rt>いま</rt></ruby>ゲームをほとんどしません",
+      "zh": "其实我现在几乎不玩游戏",
+      "en": "Actually, I don't play games much these days."
+    },
+    {
+      "id": 8,
+      "start": 28.9,
+      "end": 33.66,
+      "ts": "00:28.900 -> 00:33.660",
+      "jp": "でも子供の時はたくさんゲームをしていました",
+      "jp_html": "でも<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はたくさんゲームをしていました",
+      "zh": "但是小时候我玩了很多游戏",
+      "en": "But I played many games when I was a child."
+    },
+    {
+      "id": 9,
+      "start": 33.66,
+      "end": 40.56,
+      "ts": "00:33.660 -> 00:40.560",
+      "jp": "僕が生まれたのは1981年なので",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>たのは1981<ruby>年<rt>ねん</rt></ruby>なので",
+      "zh": "我出生于1981年所以",
+      "en": "I was born in 1981 so"
+    },
+    {
+      "id": 10,
+      "start": 40.56,
+      "end": 44.38,
+      "ts": "00:40.560 -> 00:44.380",
+      "jp": "まあもちろんファミコンですよね",
+      "jp_html": "まあもちろんファミコンですよね",
+      "zh": "当然啦，是 FAMILY COMPUTER 吧？",
+      "en": "Well, of course it's the NES, right?"
+    },
+    {
+      "id": 11,
+      "start": 44.38,
+      "end": 51.82,
+      "ts": "00:44.380 -> 00:51.820",
+      "jp": "僕が多分6歳か7歳ぐらいの時に",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>多分<rt>たぶん</rt></ruby>6<ruby>歳<rt>とし</rt></ruby>か7<ruby>歳<rt>とし</rt></ruby>ぐらいの<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "我大概六七岁的时候",
+      "en": "When I was probably around 6 or 7 years old,"
+    },
+    {
+      "id": 12,
+      "start": 51.82,
+      "end": 54.32,
+      "ts": "00:51.820 -> 00:54.320",
+      "jp": "ファミコンを買ってもらいました",
+      "jp_html": "ファミコンを<ruby>買っ<rt>かっ</rt></ruby>てもらいました",
+      "zh": "我买了一个 FAMILY COMPUTER。",
+      "en": "I bought a Nintendo Entertainment System for them."
+    },
+    {
+      "id": 13,
+      "start": 54.32,
+      "end": 57.74,
+      "ts": "00:54.320 -> 00:57.740",
+      "jp": "最初にプレイしたのは",
+      "jp_html": "<ruby>最初<rt>さいしょ</rt></ruby>にプレイしたのは",
+      "zh": "最初玩的是",
+      "en": "I played it first."
+    },
+    {
+      "id": 14,
+      "start": 57.74,
+      "end": 59.86,
+      "ts": "00:57.740 -> 00:59.860",
+      "jp": "マリオですね",
+      "jp_html": "マリオですね",
+      "zh": "是马里奥吧",
+      "en": "It's Mario, right?"
+    },
+    {
+      "id": 15,
+      "start": 59.86,
+      "end": 61.62,
+      "ts": "00:59.860 -> 01:01.620",
+      "jp": "やっぱり",
+      "jp_html": "やっぱり",
+      "zh": "果然",
+      "en": "果然"
+    },
+    {
+      "id": 16,
+      "start": 61.62,
+      "end": 64.76,
+      "ts": "01:01.620 -> 01:04.760",
+      "jp": "スーパーマリオブラザーズ",
+      "jp_html": "スーパーマリオブラザーズ",
+      "zh": "超级马里奥兄弟",
+      "en": "Super Mario Bros."
+    },
+    {
+      "id": 17,
+      "start": 64.76,
+      "end": 65.98,
+      "ts": "01:04.760 -> 01:05.980",
+      "jp": "1かな",
+      "jp_html": "1かな",
+      "zh": "1个",
+      "en": "1 kan"
+    },
+    {
+      "id": 18,
+      "start": 65.98,
+      "end": 68.26,
+      "ts": "01:05.980 -> 01:08.260",
+      "jp": "そしてその後",
+      "jp_html": "そしてその<ruby>後<rt>のち</rt></ruby>",
+      "zh": "然后之后",
+      "en": "And then afterwards"
+    },
+    {
+      "id": 19,
+      "start": 68.26,
+      "end": 69.78,
+      "ts": "01:08.260 -> 01:09.780",
+      "jp": "3",
+      "jp_html": "3",
+      "zh": "3",
+      "en": "3"
+    },
+    {
+      "id": 20,
+      "start": 69.78,
+      "end": 72.4,
+      "ts": "01:09.780 -> 01:12.400",
+      "jp": "2はやってない",
+      "jp_html": "2はやってない",
+      "zh": "2没有做",
+      "en": "2 hasn't happened"
+    },
+    {
+      "id": 21,
+      "start": 72.4,
+      "end": 74.0,
+      "ts": "01:12.400 -> 01:14.000",
+      "jp": "2やっとかな",
+      "jp_html": "2やっとかな",
+      "zh": "2终于得到了",
+      "en": "2 Finally"
+    },
+    {
+      "id": 22,
+      "start": 74.0,
+      "end": 76.48,
+      "ts": "01:14.000 -> 01:16.480",
+      "jp": "3やりましたね",
+      "jp_html": "3やりましたね",
+      "zh": "3做到了吧",
+      "en": "3, got it."
+    },
+    {
+      "id": 23,
+      "start": 76.48,
+      "end": 78.8,
+      "ts": "01:16.480 -> 01:18.800",
+      "jp": "あといろいろですよね",
+      "jp_html": "あといろいろですよね",
+      "zh": "还有各种事情呢",
+      "en": "And there are lots of things, right?"
+    },
+    {
+      "id": 24,
+      "start": 78.8,
+      "end": 81.1,
+      "ts": "01:18.800 -> 01:21.100",
+      "jp": "本当にたくさんのゲームたち",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>にたくさんのゲームたち",
+      "zh": "真的有很多游戏",
+      "en": "Really many games"
+    },
+    {
+      "id": 25,
+      "start": 81.1,
+      "end": 83.08,
+      "ts": "01:21.100 -> 01:23.080",
+      "jp": "ドラえもんとか",
+      "jp_html": "ドラえもんとか",
+      "zh": "哆啦A梦",
+      "en": "Doraemon and so on"
+    },
+    {
+      "id": 26,
+      "start": 83.08,
+      "end": 86.58,
+      "ts": "01:23.080 -> 01:26.580",
+      "jp": "ERカンフーとか",
+      "jp_html": "ERカンフーとか",
+      "zh": "ER功夫或者",
+      "en": "ER Kung Fu or ER Karate"
+    },
+    {
+      "id": 27,
+      "start": 86.58,
+      "end": 90.92,
+      "ts": "01:26.580 -> 01:30.920",
+      "jp": "なんかいろいろありましたね",
+      "jp_html": "なんかいろいろありましたね",
+      "zh": "确实发生了很多事情呢",
+      "en": "There were lots of things, huh?"
+    },
+    {
+      "id": 28,
+      "start": 90.92,
+      "end": 91.74,
+      "ts": "01:30.920 -> 01:31.740",
+      "jp": "ありすぎる",
+      "jp_html": "ありすぎる",
+      "zh": "太多gles",
+      "en": "Too many"
+    },
+    {
+      "id": 29,
+      "start": 91.74,
+      "end": 93.48,
+      "ts": "01:31.740 -> 01:33.480",
+      "jp": "スパルタンXとか",
+      "jp_html": "スパルタンXとか",
+      "zh": "斯巴顿X等等",
+      "en": "Spartan X or Spartan X"
+    },
+    {
+      "id": 30,
+      "start": 93.48,
+      "end": 95.74,
+      "ts": "01:33.480 -> 01:35.740",
+      "jp": "ブルースリーみたいな",
+      "jp_html": "ブルースリーみたいな",
+      "zh": "像李小龙一样",
+      "en": "Like Bruce Lee like"
+    },
+    {
+      "id": 31,
+      "start": 95.74,
+      "end": 97.32,
+      "ts": "01:35.740 -> 01:37.320",
+      "jp": "スパルタンXとか",
+      "jp_html": "スパルタンXとか",
+      "zh": "斯巴顿X等等",
+      "en": "Spartan X or Spartan X"
+    },
+    {
+      "id": 32,
+      "start": 97.32,
+      "end": 100.36,
+      "ts": "01:37.320 -> 01:40.360",
+      "jp": "グラディウス",
+      "jp_html": "グラディウス",
+      "zh": "grav迪乌斯",
+      "en": "Gradius"
+    },
+    {
+      "id": 33,
+      "start": 100.36,
+      "end": 103.3,
+      "ts": "01:40.360 -> 01:43.300",
+      "jp": "ツインビー",
+      "jp_html": "ツインビー",
+      "zh": "twinbee",
+      "en": "Twin Bee"
+    },
+    {
+      "id": 34,
+      "start": 103.3,
+      "end": 106.66,
+      "ts": "01:43.300 -> 01:46.660",
+      "jp": "なんかなんかいろいろあったな",
+      "jp_html": "なんかなんかいろいろあったな",
+      "zh": "发生了好多事情呢",
+      "en": "Well, there were lots of things that happened, you know?"
+    },
+    {
+      "id": 35,
+      "start": 106.66,
+      "end": 109.08,
+      "ts": "01:46.660 -> 01:49.080",
+      "jp": "ゴルフとか",
+      "jp_html": "ゴルフとか",
+      "zh": "高尔夫球之类的",
+      "en": "Golf or something like it."
+    },
+    {
+      "id": 36,
+      "start": 109.08,
+      "end": 112.48,
+      "ts": "01:49.080 -> 01:52.480",
+      "jp": "もちろんドラゴンクエスト",
+      "jp_html": "もちろんドラゴンクエスト",
+      "zh": "当然ドラゴン Quest",
+      "en": "Of course Dragon Quest"
+    },
+    {
+      "id": 37,
+      "start": 112.48,
+      "end": 113.96,
+      "ts": "01:52.480 -> 01:53.960",
+      "jp": "1,2,3",
+      "jp_html": "1,2,3",
+      "zh": "1,2,3",
+      "en": "One,two,three"
+    },
+    {
+      "id": 38,
+      "start": 113.96,
+      "end": 116.02,
+      "ts": "01:53.960 -> 01:56.020",
+      "jp": "ファイナルファンタジー",
+      "jp_html": "ファイナルファンタジー",
+      "zh": "最终幻想",
+      "en": "Final Fantasy"
+    },
+    {
+      "id": 39,
+      "start": 116.02,
+      "end": 116.98,
+      "ts": "01:56.020 -> 01:56.980",
+      "jp": "1,2,3",
+      "jp_html": "1,2,3",
+      "zh": "1,2,3",
+      "en": "One,two,three"
+    },
+    {
+      "id": 40,
+      "start": 116.98,
+      "end": 120.82,
+      "ts": "01:56.980 -> 02:00.820",
+      "jp": "んー",
+      "jp_html": "んー",
+      "zh": "嗯——",
+      "en": "Hmm"
+    },
+    {
+      "id": 41,
+      "start": 120.82,
+      "end": 121.84,
+      "ts": "02:00.820 -> 02:01.840",
+      "jp": "まあいろいろですよね",
+      "jp_html": "まあいろいろですよね",
+      "zh": "嗯，各种事情吧",
+      "en": "Well, there's quite a variety, isn't it?"
+    },
+    {
+      "id": 42,
+      "start": 121.84,
+      "end": 122.82,
+      "ts": "02:01.840 -> 02:02.820",
+      "jp": "いろいろありすぎる",
+      "jp_html": "いろいろありすぎる",
+      "zh": "太多事情了",
+      "en": "There's too much going on."
+    },
+    {
+      "id": 43,
+      "start": 122.82,
+      "end": 124.66,
+      "ts": "02:02.820 -> 02:04.660",
+      "jp": "そして僕が",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>が",
+      "zh": "然后我",
+      "en": "And then I"
+    },
+    {
+      "id": 44,
+      "start": 124.66,
+      "end": 127.56,
+      "ts": "02:04.660 -> 02:07.560",
+      "jp": "えー何歳だったかな",
+      "jp_html": "えー<ruby>何歳<rt>なんさい</rt></ruby>だったかな",
+      "zh": "嗯，多少岁了呢",
+      "en": "Oh, how old was I anyway?"
+    },
+    {
+      "id": 45,
+      "start": 127.56,
+      "end": 128.86,
+      "ts": "02:07.560 -> 02:08.860",
+      "jp": "スーパーファミコンね",
+      "jp_html": "スーパーファミコンね",
+      "zh": "超级任天堂",
+      "en": "Super Famicom ne"
+    },
+    {
+      "id": 46,
+      "start": 128.86,
+      "end": 131.84,
+      "ts": "02:08.860 -> 02:11.840",
+      "jp": "何歳か忘れたけどスーパーファミコンもやりました",
+      "jp_html": "<ruby>何歳<rt>なんさい</rt></ruby>か<ruby>忘れ<rt>わすれ</rt></ruby>たけどスーパーファミコンもやりました",
+      "zh": "忘了是多少岁了，也玩过超级任天堂",
+      "en": "I forgot how old I was, but I also played Super Famicom."
+    },
+    {
+      "id": 47,
+      "start": 131.84,
+      "end": 133.92,
+      "ts": "02:11.840 -> 02:13.920",
+      "jp": "えードラゴンクエスト",
+      "jp_html": "えードラゴンクエスト",
+      "zh": "艾德隆龙之泉",
+      "en": "Ah Dragon Quest"
+    },
+    {
+      "id": 48,
+      "start": 133.92,
+      "end": 135.34,
+      "ts": "02:13.920 -> 02:15.340",
+      "jp": "ファイナルファンタジー",
+      "jp_html": "ファイナルファンタジー",
+      "zh": "最终幻想",
+      "en": "Final Fantasy"
+    },
+    {
+      "id": 49,
+      "start": 135.34,
+      "end": 136.8,
+      "ts": "02:15.340 -> 02:16.800",
+      "jp": "他にもいろいろ",
+      "jp_html": "<ruby>他に<rt>ほかに</rt></ruby>もいろいろ",
+      "zh": "他还有很多其他的东西",
+      "en": "There are also many others."
+    },
+    {
+      "id": 50,
+      "start": 136.8,
+      "end": 139.06,
+      "ts": "02:16.800 -> 02:19.060",
+      "jp": "えーそして",
+      "jp_html": "えーそして",
+      "zh": "然后",
+      "en": "And then"
+    },
+    {
+      "id": 51,
+      "start": 139.06,
+      "end": 141.22,
+      "ts": "02:19.060 -> 02:21.220",
+      "jp": "任天堂64ですね",
+      "jp_html": "<ruby>任天堂<rt>にんてんどう</rt></ruby>64ですね",
+      "zh": "任天堂64啊",
+      "en": "It's Nintendo 64, right?"
+    },
+    {
+      "id": 52,
+      "start": 141.22,
+      "end": 143.2,
+      "ts": "02:21.220 -> 02:23.200",
+      "jp": "任天堂64で",
+      "jp_html": "<ruby>任天堂<rt>にんてんどう</rt></ruby>64で",
+      "zh": "在任天堂64上",
+      "en": "on Nintendo 64"
+    },
+    {
+      "id": 53,
+      "start": 143.2,
+      "end": 145.72,
+      "ts": "02:23.200 -> 02:25.720",
+      "jp": "マリオカートをめちゃめちゃやりましたね",
+      "jp_html": "マリオカートをめちゃめちゃやりましたね",
+      "zh": "你可是狂玩马里奥卡丁车啊",
+      "en": "You played Mario Kart so much, didn't you?"
+    },
+    {
+      "id": 54,
+      "start": 145.72,
+      "end": 147.52,
+      "ts": "02:25.720 -> 02:27.520",
+      "jp": "たくさんやったマリオカート",
+      "jp_html": "たくさんやったマリオカート",
+      "zh": "玩了很多马里奥卡丁车",
+      "en": "Played Mario Kart a lot"
+    },
+    {
+      "id": 55,
+      "start": 147.52,
+      "end": 150.72,
+      "ts": "02:27.520 -> 02:30.720",
+      "jp": "スーパーファミコンは",
+      "jp_html": "スーパーファミコンは",
+      "zh": "超级任天堂 Entertainment System 是",
+      "en": "Super Famicom is"
+    },
+    {
+      "id": 56,
+      "start": 150.72,
+      "end": 152.18,
+      "ts": "02:30.720 -> 02:32.180",
+      "jp": "ストリートファイター2です",
+      "jp_html": "ストリートファイター2です",
+      "zh": "街头霸王2",
+      "en": "It's Street Fighter 2."
+    },
+    {
+      "id": 57,
+      "start": 152.18,
+      "end": 156.18,
+      "ts": "02:32.180 -> 02:36.180",
+      "jp": "ストリートファイター2をたくさんやったと思う",
+      "jp_html": "ストリートファイター2をたくさんやったと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得玩了 lots of 街头霸王2",
+      "en": "I think I played Street Fighter 2 a lot."
+    },
+    {
+      "id": 58,
+      "start": 156.18,
+      "end": 157.62,
+      "ts": "02:36.180 -> 02:37.620",
+      "jp": "あとシムシティとかね",
+      "jp_html": "あとシムシティとかね",
+      "zh": "还有模拟城市之类的",
+      "en": "And SimCity too"
+    },
+    {
+      "id": 59,
+      "start": 157.62,
+      "end": 158.46,
+      "ts": "02:37.620 -> 02:38.460",
+      "jp": "僕は好きでした",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>好き<rt>すき</rt></ruby>でした",
+      "zh": "我喜欢过",
+      "en": "I liked it."
+    },
+    {
+      "id": 60,
+      "start": 158.46,
+      "end": 160.02,
+      "ts": "02:38.460 -> 02:40.020",
+      "jp": "シムシティF0",
+      "jp_html": "シムシティF0",
+      "zh": "模拟城市F0",
+      "en": "SimCity F0"
+    },
+    {
+      "id": 61,
+      "start": 160.02,
+      "end": 163.14,
+      "ts": "02:40.020 -> 02:43.140",
+      "jp": "えーっとね",
+      "jp_html": "えーっとね",
+      "zh": "嗯，嗯",
+      "en": "Um, well"
+    },
+    {
+      "id": 62,
+      "start": 163.14,
+      "end": 165.94,
+      "ts": "02:43.140 -> 02:45.940",
+      "jp": "えーっと",
+      "jp_html": "えーっと",
+      "zh": "嗯)./olin>",
+      "en": "Ummmm"
+    },
+    {
+      "id": 63,
+      "start": 165.94,
+      "end": 168.94,
+      "ts": "02:45.940 -> 02:48.940",
+      "jp": "実はプレイステーションは",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby>プレイステーションは",
+      "zh": "实际上 PlayStation 是",
+      "en": "Actually, PlayStation is"
+    },
+    {
+      "id": 64,
+      "start": 168.94,
+      "end": 169.84,
+      "ts": "02:48.940 -> 02:49.840",
+      "jp": "まあ少しですね",
+      "jp_html": "まあ<ruby>少し<rt>すこし</rt></ruby>ですね",
+      "zh": "嗯，有一点儿吧",
+      "en": "Well, somewhat."
+    },
+    {
+      "id": 65,
+      "start": 169.84,
+      "end": 171.56,
+      "ts": "02:49.840 -> 02:51.560",
+      "jp": "たくさんしてないけど",
+      "jp_html": "たくさんしてないけど",
+      "zh": "虽然没有做很多",
+      "en": "I didn't do much but"
+    },
+    {
+      "id": 66,
+      "start": 171.56,
+      "end": 176.04,
+      "ts": "02:51.560 -> 02:56.040",
+      "jp": "ファイナルファンタジー",
+      "jp_html": "ファイナルファンタジー",
+      "zh": "最终幻想",
+      "en": "Final Fantasy"
+    },
+    {
+      "id": 67,
+      "start": 176.04,
+      "end": 178.48,
+      "ts": "02:56.040 -> 02:58.480",
+      "jp": "あと何やったかな",
+      "jp_html": "あと<ruby>何<rt>なに</rt></ruby>やったかな",
+      "zh": "那之后做了些什么呢",
+      "en": "What did we do after that?"
+    },
+    {
+      "id": 68,
+      "start": 178.48,
+      "end": 181.88,
+      "ts": "02:58.480 -> 03:01.880",
+      "jp": "あと少し前ですよゲームボーイ",
+      "jp_html": "あと<ruby>少し<rt>すこし</rt></ruby><ruby>前<rt>まえ</rt></ruby>ですよゲームボーイ",
+      "zh": "再过一会儿哦游戏 Boy",
+      "en": "It was just a little earlier with Game Boy."
+    },
+    {
+      "id": 69,
+      "start": 181.88,
+      "end": 184.92,
+      "ts": "03:01.880 -> 03:04.920",
+      "jp": "でもゲームボーイはね僕はあんまりやってない少しですね",
+      "jp_html": "でもゲームボーイはね<ruby>僕は<rt>ぼくは</rt></ruby>あんまりやってない<ruby>少し<rt>すこし</rt></ruby>ですね",
+      "zh": "但是游戏 Boy 我没怎么玩过，只是稍微玩过一点点。",
+      "en": "But with Game Boy, I haven't really played that much, just a little bit."
+    },
+    {
+      "id": 70,
+      "start": 184.92,
+      "end": 186.48,
+      "ts": "03:04.920 -> 03:06.480",
+      "jp": "聖剣伝説",
+      "jp_html": "<ruby>聖剣伝説<rt>せいけんでんせつ</rt></ruby>",
+      "zh": "圣剑传说",
+      "en": "Legend of the Sacred Sword"
+    },
+    {
+      "id": 71,
+      "start": 186.48,
+      "end": 192.8,
+      "ts": "03:06.480 -> 03:12.800",
+      "jp": "ゼルダみたいなのもあったかな",
+      "jp_html": "ゼルダみたいなのもあったかな",
+      "zh": "也有像塞尔达的东西吧",
+      "en": "Something like Zelda was also there, right?"
+    },
+    {
+      "id": 72,
+      "start": 192.8,
+      "end": 194.4,
+      "ts": "03:12.800 -> 03:14.400",
+      "jp": "ポケモンとかねいろいろ",
+      "jp_html": "ポケモンとかねいろいろ",
+      "zh": "Pokémon还有好多",
+      "en": "Pokémon and stuff varied ones."
+    },
+    {
+      "id": 73,
+      "start": 194.4,
+      "end": 196.02,
+      "ts": "03:14.400 -> 03:16.020",
+      "jp": "でも僕はやってないですね",
+      "jp_html": "でも<ruby>僕は<rt>ぼくは</rt></ruby>やってないですね",
+      "zh": "但我没有做过呢",
+      "en": "But I haven't done that, though."
+    },
+    {
+      "id": 74,
+      "start": 196.02,
+      "end": 198.54,
+      "ts": "03:16.020 -> 03:18.540",
+      "jp": "ゼルダもポケモンもやってません",
+      "jp_html": "ゼルダもポケモンもやってません",
+      "zh": "neither Zelda nor Pokémon 我没玩过",
+      "en": "I'm not playing Zelda or Pokémon."
+    },
+    {
+      "id": 75,
+      "start": 198.54,
+      "end": 203.9,
+      "ts": "03:18.540 -> 03:23.900",
+      "jp": "そして大学生になる時に",
+      "jp_html": "そして<ruby>大学生<rt>だいがくせい</rt></ruby>になる<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "然后在成为大学生的时候",
+      "en": "And when I became a college student"
+    },
+    {
+      "id": 76,
+      "start": 203.9,
+      "end": 209.6,
+      "ts": "03:23.900 -> 03:29.600",
+      "jp": "プレイステーション2がリリースされます",
+      "jp_html": "プレイステーション2がリリースされます",
+      "zh": "PlayStation 2即将发布",
+      "en": "PlayStation 2 is being released."
+    },
+    {
+      "id": 77,
+      "start": 209.6,
+      "end": 211.32,
+      "ts": "03:29.600 -> 03:31.320",
+      "jp": "一応買いました",
+      "jp_html": "<ruby>一応<rt>いちおう</rt></ruby><ruby>買い<rt>かい</rt></ruby>ました",
+      "zh": "我买了一次",
+      "en": "I bought it just in case."
+    },
+    {
+      "id": 78,
+      "start": 211.32,
+      "end": 213.2,
+      "ts": "03:31.320 -> 03:33.200",
+      "jp": "一応買ったけど",
+      "jp_html": "<ruby>一応<rt>いちおう</rt></ruby><ruby>買っ<rt>かっ</rt></ruby>たけど",
+      "zh": "买了一次而已",
+      "en": "I bought it, though."
+    },
+    {
+      "id": 79,
+      "start": 213.2,
+      "end": 216.14,
+      "ts": "03:33.200 -> 03:36.140",
+      "jp": "ゲームはあまりやってません",
+      "jp_html": "ゲームはあまりやってません",
+      "zh": "我玩得不多",
+      "en": "I don't play games much."
+    },
+    {
+      "id": 80,
+      "start": 216.14,
+      "end": 219.84,
+      "ts": "03:36.140 -> 03:39.840",
+      "jp": "僕はプレイステーション2で",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>プレイステーション2で",
+      "zh": "我在 PlayStation 2 上",
+      "en": "I played on PlayStation 2."
+    },
+    {
+      "id": 81,
+      "start": 219.84,
+      "end": 222.12,
+      "ts": "03:39.840 -> 03:42.120",
+      "jp": "DVDを見てましたね",
+      "jp_html": "DVDを<ruby>見て<rt>みて</rt></ruby>ましたね",
+      "zh": "你在看DVD吧",
+      "en": "You were watching the DVD, huh?"
+    },
+    {
+      "id": 82,
+      "start": 222.12,
+      "end": 223.9,
+      "ts": "03:42.120 -> 03:43.900",
+      "jp": "映画とか",
+      "jp_html": "<ruby>映画<rt>えいが</rt></ruby>とか",
+      "zh": "电影或者",
+      "en": "Movies or films"
+    },
+    {
+      "id": 83,
+      "start": 223.9,
+      "end": 226.4,
+      "ts": "03:43.900 -> 03:46.400",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嗯嗯嗯",
+      "en": "Well well well"
+    },
+    {
+      "id": 84,
+      "start": 226.4,
+      "end": 228.52,
+      "ts": "03:46.400 -> 03:48.520",
+      "jp": "いろいろな映画とか",
+      "jp_html": "いろいろな<ruby>映画<rt>えいが</rt></ruby>とか",
+      "zh": "各种电影等等",
+      "en": "various movies and such"
+    },
+    {
+      "id": 85,
+      "start": 228.52,
+      "end": 231.8,
+      "ts": "03:48.520 -> 03:51.800",
+      "jp": "まあまあまあ18歳だからね",
+      "jp_html": "まあまあまあ18<ruby>歳<rt>とし</rt></ruby>だからね",
+      "zh": "嘛嘛嘛嘛18岁嘛",
+      "en": "Well, you know, because you're 18 years old, ne?"
+    },
+    {
+      "id": 86,
+      "start": 231.8,
+      "end": 234.92,
+      "ts": "03:51.800 -> 03:54.920",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Therefore"
+    },
+    {
+      "id": 87,
+      "start": 234.92,
+      "end": 240.02,
+      "ts": "03:54.920 -> 04:00.020",
+      "jp": "それぐらいであんまりゲームをやらなくなりました",
+      "jp_html": "それぐらいであんまりゲームをやらなくなりました",
+      "zh": "那样一来，我就不怎么玩游戏了",
+      "en": "That much, I don't play games as much anymore."
+    },
+    {
+      "id": 88,
+      "start": 240.02,
+      "end": 243.2,
+      "ts": "04:00.020 -> 04:03.200",
+      "jp": "僕は18歳ぐらいから",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>18<ruby>歳<rt>とし</rt></ruby>ぐらいから",
+      "zh": "我从18岁左右开始",
+      "en": "I was around 18 years old from there."
+    },
+    {
+      "id": 89,
+      "start": 243.2,
+      "end": 245.84,
+      "ts": "04:03.200 -> 04:05.840",
+      "jp": "大学生からゲームをあまりやらなくなった",
+      "jp_html": "<ruby>大学生<rt>だいがくせい</rt></ruby>からゲームをあまりやらなくなった",
+      "zh": "大学生从不再像以前那样玩很多游戏了",
+      "en": "I have stopped playing games much since becoming a university student."
+    },
+    {
+      "id": 90,
+      "start": 245.84,
+      "end": 250.14,
+      "ts": "04:05.840 -> 04:10.140",
+      "jp": "僕は音楽を聴いたりギターを弾いたり",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聴い<rt>きい</rt></ruby>たりギターを<ruby>弾い<rt>ひい</rt></ruby>たり",
+      "zh": "我听音乐或弹吉他",
+      "en": "I listen to music or play guitar."
+    },
+    {
+      "id": 91,
+      "start": 250.14,
+      "end": 252.04,
+      "ts": "04:10.140 -> 04:12.040",
+      "jp": "そういうことをやってました",
+      "jp_html": "そういうことをやってました",
+      "zh": "他们就是这样做的。",
+      "en": "They were doing such things."
+    },
+    {
+      "id": 92,
+      "start": 252.04,
+      "end": 254.08,
+      "ts": "04:12.040 -> 04:14.080",
+      "jp": "あと映画を見たり本を読んだり",
+      "jp_html": "あと<ruby>映画<rt>えいが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>り<ruby>本<rt>ほん</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "后来我又看了电影，还读书了",
+      "en": "I watched movies and read books."
+    },
+    {
+      "id": 93,
+      "start": 254.08,
+      "end": 257.32,
+      "ts": "04:14.080 -> 04:17.320",
+      "jp": "子供が生まれて",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>て",
+      "zh": "孩子出生了",
+      "en": "A child has been born"
+    },
+    {
+      "id": 94,
+      "start": 257.32,
+      "end": 261.08,
+      "ts": "04:17.320 -> 04:21.080",
+      "jp": "僕は35歳ぐらい",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>35<ruby>歳<rt>とし</rt></ruby>ぐらい",
+      "zh": "我大约35岁左右",
+      "en": "I am around 35 years old."
+    },
+    {
+      "id": 95,
+      "start": 261.08,
+      "end": 262.5,
+      "ts": "04:21.080 -> 04:22.500",
+      "jp": "子供が生まれて",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が<ruby>生まれ<rt>うまれ</rt></ruby>て",
+      "zh": "孩子出生了",
+      "en": "A child has been born"
+    },
+    {
+      "id": 96,
+      "start": 262.5,
+      "end": 264.78,
+      "ts": "04:22.500 -> 04:24.780",
+      "jp": "子供が",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が",
+      "zh": "孩子在",
+      "en": "The child is"
+    },
+    {
+      "id": 97,
+      "start": 264.78,
+      "end": 267.12,
+      "ts": "04:24.780 -> 04:27.120",
+      "jp": "何歳かな",
+      "jp_html": "<ruby>何歳<rt>なんさい</rt></ruby>かな",
+      "zh": "多少岁了",
+      "en": "How old are you?"
+    },
+    {
+      "id": 98,
+      "start": 267.12,
+      "end": 268.74,
+      "ts": "04:27.120 -> 04:28.740",
+      "jp": "5歳",
+      "jp_html": "5<ruby>歳<rt>とし</rt></ruby>",
+      "zh": "5岁",
+      "en": "5 years old"
+    },
+    {
+      "id": 99,
+      "start": 268.74,
+      "end": 270.72,
+      "ts": "04:28.740 -> 04:30.720",
+      "jp": "5歳の時かな",
+      "jp_html": "5<ruby>歳<rt>とし</rt></ruby>の<ruby>時<rt>とき</rt></ruby>かな",
+      "zh": "五岁的时候吧",
+      "en": "At around 5 years old, I think."
+    },
+    {
+      "id": 100,
+      "start": 270.72,
+      "end": 272.02,
+      "ts": "04:30.720 -> 04:32.020",
+      "jp": "子供が5歳の時",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が5<ruby>歳<rt>とし</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "孩子在五岁的时候",
+      "en": "When the child was 5 years old"
+    },
+    {
+      "id": 101,
+      "start": 272.02,
+      "end": 273.22,
+      "ts": "04:32.020 -> 04:33.220",
+      "jp": "僕は40歳ね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>40<ruby>歳<rt>とし</rt></ruby>ね",
+      "zh": "我四十岁了",
+      "en": "I am 40 years old."
+    },
+    {
+      "id": 102,
+      "start": 273.22,
+      "end": 276.42,
+      "ts": "04:33.220 -> 04:36.420",
+      "jp": "子供が5歳の時に",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が5<ruby>歳<rt>とし</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "孩子在五岁的时候",
+      "en": "When my child was 5 years old"
+    },
+    {
+      "id": 103,
+      "start": 276.42,
+      "end": 279.86,
+      "ts": "04:36.420 -> 04:39.860",
+      "jp": "任天堂スイッチを買いました",
+      "jp_html": "<ruby>任天堂<rt>にんてんどう</rt></ruby>スイッチを<ruby>買い<rt>かい</rt></ruby>ました",
+      "zh": "我买了任天堂Switch",
+      "en": "I bought a Nintendo Switch."
+    },
+    {
+      "id": 104,
+      "start": 279.86,
+      "end": 281.34,
+      "ts": "04:39.860 -> 04:41.340",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 105,
+      "start": 281.34,
+      "end": 283.72,
+      "ts": "04:41.340 -> 04:43.720",
+      "jp": "子供と一緒に",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>",
+      "zh": "和孩子一起",
+      "en": "With children"
+    },
+    {
+      "id": 106,
+      "start": 283.72,
+      "end": 286.72,
+      "ts": "04:43.720 -> 04:46.720",
+      "jp": "スーパーマリオワンダーとか",
+      "jp_html": "スーパーマリオワンダーとか",
+      "zh": "超级马里奥奇遇记等等",
+      "en": "Super Mario Odyssey"
+    },
+    {
+      "id": 107,
+      "start": 286.72,
+      "end": 291.71,
+      "ts": "04:46.720 -> 04:51.710",
+      "jp": "何やったかな",
+      "jp_html": "<ruby>何<rt>なに</rt></ruby>やったかな",
+      "zh": "做了些什么呢",
+      "en": "What did you do?"
+    },
+    {
+      "id": 108,
+      "start": 291.71,
+      "end": 293.97,
+      "ts": "04:51.710 -> 04:53.970",
+      "jp": "スーパーマリオ",
+      "jp_html": "スーパーマリオ",
+      "zh": "超级马里奥",
+      "en": "Super Mario"
+    },
+    {
+      "id": 109,
+      "start": 293.97,
+      "end": 299.05,
+      "ts": "04:53.970 -> 04:59.050",
+      "jp": "オデッセイかな",
+      "jp_html": "オデッセイかな",
+      "zh": "Odyssey 呢",
+      "en": "Odyssey kan"
+    },
+    {
+      "id": 110,
+      "start": 299.05,
+      "end": 303.17,
+      "ts": "04:59.050 -> 05:03.170",
+      "jp": "あとゼルダの伝説",
+      "jp_html": "あとゼルダの<ruby>伝説<rt>でんせつ</rt></ruby>",
+      "zh": "之后是塞尔达传说",
+      "en": "Then Zelda's Legend"
+    },
+    {
+      "id": 111,
+      "start": 303.17,
+      "end": 305.93,
+      "ts": "05:03.170 -> 05:05.930",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 112,
+      "start": 305.93,
+      "end": 307.69,
+      "ts": "05:05.930 -> 05:07.690",
+      "jp": "いろいろですよね",
+      "jp_html": "いろいろですよね",
+      "zh": "确实很多呢",
+      "en": "Isn't it varied?"
+    },
+    {
+      "id": 113,
+      "start": 307.69,
+      "end": 308.67,
+      "ts": "05:07.690 -> 05:08.670",
+      "jp": "いろいろな",
+      "jp_html": "いろいろな",
+      "zh": "各种各样的",
+      "en": "various"
+    },
+    {
+      "id": 114,
+      "start": 308.67,
+      "end": 310.13,
+      "ts": "05:08.670 -> 05:10.130",
+      "jp": "マリオカートとかね",
+      "jp_html": "マリオカートとかね",
+      "zh": "马里奥卡丁车之类的游戏",
+      "en": "Mario Kart too neh"
+    },
+    {
+      "id": 115,
+      "start": 310.13,
+      "end": 312.87,
+      "ts": "05:10.130 -> 05:12.870",
+      "jp": "いろいろやりました",
+      "jp_html": "いろいろやりました",
+      "zh": "尝试了很多事情",
+      "en": "I tried various things."
+    },
+    {
+      "id": 116,
+      "start": 312.87,
+      "end": 315.54,
+      "ts": "05:12.870 -> 05:15.540",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 117,
+      "start": 315.54,
+      "end": 317.94,
+      "ts": "05:15.540 -> 05:17.940",
+      "jp": "なんか",
+      "jp_html": "なんか",
+      "zh": "什么玩意儿",
+      "en": "Something"
+    },
+    {
+      "id": 118,
+      "start": 317.94,
+      "end": 319.54,
+      "ts": "05:17.940 -> 05:19.540",
+      "jp": "最近",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>",
+      "zh": "最近",
+      "en": "Recently"
+    },
+    {
+      "id": 119,
+      "start": 319.54,
+      "end": 321.62,
+      "ts": "05:19.540 -> 05:21.620",
+      "jp": "ゲームをやると",
+      "jp_html": "ゲームをやると",
+      "zh": "玩游戏会",
+      "en": "Playing games will"
+    },
+    {
+      "id": 120,
+      "start": 321.62,
+      "end": 323.8,
+      "ts": "05:21.620 -> 05:23.800",
+      "jp": "気持ち悪くなるんですね",
+      "jp_html": "<ruby>気持ち<rt>きもち</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なるんですね",
+      "zh": "真是让人感到不适呢",
+      "en": "It makes you feel sick, doesn't it?"
+    },
+    {
+      "id": 121,
+      "start": 323.8,
+      "end": 327.46,
+      "ts": "05:23.800 -> 05:27.460",
+      "jp": "まるで車に乗ったみたいな",
+      "jp_html": "まるで<ruby>車<rt>くるま</rt></ruby>に<ruby>乗っ<rt>じょうっ</rt></ruby>たみたいな",
+      "zh": "就像坐上了车一样",
+      "en": "It's like riding in a car."
+    },
+    {
+      "id": 122,
+      "start": 327.46,
+      "end": 329.98,
+      "ts": "05:27.460 -> 05:29.980",
+      "jp": "気持ち悪い感じになるんですね",
+      "jp_html": "<ruby>気持ち悪い<rt>きもちわるい</rt></ruby><ruby>感じ<rt>かんじ</rt></ruby>になるんですね",
+      "zh": "感觉恶心呢",
+      "en": "It gives you an unpleasant feeling, doesn't it?"
+    },
+    {
+      "id": 123,
+      "start": 329.98,
+      "end": 333.82,
+      "ts": "05:29.980 -> 05:33.820",
+      "jp": "特にマリオカートとか",
+      "jp_html": "<ruby>特に<rt>とくに</rt></ruby>マリオカートとか",
+      "zh": "特别是马里奥卡丁车之类的",
+      "en": "Especially Mario Kart, etc."
+    },
+    {
+      "id": 124,
+      "start": 333.82,
+      "end": 336.28,
+      "ts": "05:33.820 -> 05:36.280",
+      "jp": "マリオパーティーですね",
+      "jp_html": "マリオパーティーですね",
+      "zh": "这是马里奥派对吧？",
+      "en": "It's Mario Party, right?"
+    },
+    {
+      "id": 125,
+      "start": 336.28,
+      "end": 337.78,
+      "ts": "05:36.280 -> 05:37.780",
+      "jp": "マリオパーティーとか",
+      "jp_html": "マリオパーティーとか",
+      "zh": "马里奥派对之类的",
+      "en": "Mario Party"
+    },
+    {
+      "id": 126,
+      "start": 337.78,
+      "end": 341.3,
+      "ts": "05:37.780 -> 05:41.300",
+      "jp": "頭が痛くなるんですよね",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なるんですよね",
+      "zh": "头疼呢",
+      "en": "My head starts hurting."
+    },
+    {
+      "id": 127,
+      "start": 344.48,
+      "end": 344.8,
+      "ts": "05:44.480 -> 05:44.800",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 128,
+      "start": 344.8,
+      "end": 346.44,
+      "ts": "05:44.800 -> 05:46.440",
+      "jp": "ピクミンも頭が痛くなる",
+      "jp_html": "ピクミンも<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なる",
+      "zh": "皮克敏也头开始疼了",
+      "en": "The Pikmin also get headaches."
+    },
+    {
+      "id": 129,
+      "start": 346.44,
+      "end": 348.68,
+      "ts": "05:46.440 -> 05:48.680",
+      "jp": "ピクミンも頭が痛くなるし",
+      "jp_html": "ピクミンも<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なるし",
+      "zh": "皮克敏也让人头疼",
+      "en": "The Pikmin also give me headaches."
+    },
+    {
+      "id": 130,
+      "start": 348.68,
+      "end": 355.08,
+      "ts": "05:48.680 -> 05:55.080",
+      "jp": "なんか3Dが結構気持ち悪くなるんですね",
+      "jp_html": "なんか3Dが<ruby>結構<rt>けっこう</rt></ruby><ruby>気持ち<rt>きもち</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なるんですね",
+      "zh": "不知为什么，3D会让我不舒服呢",
+      "en": "I kind of get really queasy with 3D, though."
+    },
+    {
+      "id": 131,
+      "start": 355.08,
+      "end": 357.06,
+      "ts": "05:55.080 -> 05:57.060",
+      "jp": "本当に",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に",
+      "zh": "真的",
+      "en": "Truly"
+    },
+    {
+      "id": 132,
+      "start": 357.06,
+      "end": 359.04,
+      "ts": "05:57.060 -> 05:59.040",
+      "jp": "まるで船に乗ったみたいな",
+      "jp_html": "まるで<ruby>船<rt>ふね</rt></ruby>に<ruby>乗っ<rt>じょうっ</rt></ruby>たみたいな",
+      "zh": "就像坐上了船一样",
+      "en": "Like riding on a ship"
+    },
+    {
+      "id": 133,
+      "start": 359.04,
+      "end": 360.98,
+      "ts": "05:59.040 -> 06:00.980",
+      "jp": "まるで車に乗ったみたいな",
+      "jp_html": "まるで<ruby>車<rt>くるま</rt></ruby>に<ruby>乗っ<rt>じょうっ</rt></ruby>たみたいな",
+      "zh": "就像坐上了车一样",
+      "en": "It's like riding in a car."
+    },
+    {
+      "id": 134,
+      "start": 360.98,
+      "end": 363.78,
+      "ts": "06:00.980 -> 06:03.780",
+      "jp": "そんな感じで気持ち悪くなっちゃう",
+      "jp_html": "そんな<ruby>感じ<rt>かんじ</rt></ruby>で<ruby>気持ち<rt>きもち</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なっちゃう",
+      "zh": "这样就会感觉不舒服了",
+      "en": "That feeling makes me feel sick."
+    },
+    {
+      "id": 135,
+      "start": 363.78,
+      "end": 365.82,
+      "ts": "06:03.780 -> 06:05.820",
+      "jp": "なのでゲームはできない",
+      "jp_html": "なのでゲームはできない",
+      "zh": "所以游戏不能玩",
+      "en": "So I cannot play the game."
+    },
+    {
+      "id": 136,
+      "start": 365.82,
+      "end": 367.26,
+      "ts": "06:05.820 -> 06:07.260",
+      "jp": "ゲームはできません",
+      "jp_html": "ゲームはできません",
+      "zh": "无法玩游戏",
+      "en": "You cannot play the game."
+    },
+    {
+      "id": 137,
+      "start": 367.26,
+      "end": 374.52,
+      "ts": "06:07.260 -> 06:14.520",
+      "jp": "テトリスとかぷよぷよみたいなのは大丈夫ですけど",
+      "jp_html": "テトリスとかぷよぷよみたいなのは<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですけど",
+      "zh": "像 tetris 或者 ぷよぷよ 这样的游戏没问题。",
+      "en": "It's okay with games like Tetris or Puyo Puyo."
+    },
+    {
+      "id": 138,
+      "start": 375.52,
+      "end": 378.24,
+      "ts": "06:15.520 -> 06:18.240",
+      "jp": "3Dゲームは気持ち悪くなっちゃう",
+      "jp_html": "3Dゲームは<ruby>気持ち<rt>きもち</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なっちゃう",
+      "zh": "3D游戏会让人感觉不舒服",
+      "en": "3D games make me feel sick."
+    },
+    {
+      "id": 139,
+      "start": 378.24,
+      "end": 379.6,
+      "ts": "06:18.240 -> 06:19.600",
+      "jp": "例えば",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>",
+      "zh": "例如",
+      "en": "For example"
+    },
+    {
+      "id": 140,
+      "start": 379.6,
+      "end": 381.74,
+      "ts": "06:19.600 -> 06:21.740",
+      "jp": "スプラトゥーンとか",
+      "jp_html": "スプラトゥーンとか",
+      "zh": "喷射谷",
+      "en": "Splatsume or Splatton or Splatoon"
+    },
+    {
+      "id": 141,
+      "start": 381.74,
+      "end": 384.36,
+      "ts": "06:21.740 -> 06:24.360",
+      "jp": "気持ち悪くなってしまうんですね",
+      "jp_html": "<ruby>気持ち<rt>きもち</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なってしまうんですね",
+      "zh": "难怪你会感到恶心呢",
+      "en": "It makes me feel sick, doesn't it?"
+    },
+    {
+      "id": 142,
+      "start": 384.36,
+      "end": 387.26,
+      "ts": "06:24.360 -> 06:27.260",
+      "jp": "僕の子供はスプラトゥーンとか",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>はスプラトゥーンとか",
+      "zh": "我的孩子玩儿喷射战士之类的游戏",
+      "en": "My children play Splatoon or something like that."
+    },
+    {
+      "id": 143,
+      "start": 387.26,
+      "end": 389.8,
+      "ts": "06:27.260 -> 06:29.800",
+      "jp": "あと何",
+      "jp_html": "あと<ruby>何<rt>なに</rt></ruby>",
+      "zh": "还有多少",
+      "en": "What else"
+    },
+    {
+      "id": 144,
+      "start": 389.8,
+      "end": 392.8,
+      "ts": "06:29.800 -> 06:32.800",
+      "jp": "なんかそういうシューティングみたいなの大好きですけど",
+      "jp_html": "なんかそういうシューティングみたいなの<ruby>大好き<rt>だいすき</rt></ruby>ですけど",
+      "zh": "我挺喜欢那种射击游戏的",
+      "en": "I really like those kinds of shooting games though"
+    },
+    {
+      "id": 145,
+      "start": 392.8,
+      "end": 395.66,
+      "ts": "06:32.800 -> 06:35.660",
+      "jp": "僕は気持ち悪くなるからやらない",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>気持ち<rt>きもち</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>なるからやらない",
+      "zh": "我因为觉得恶心所以不做",
+      "en": "I don't do it because it makes me feel sick."
+    },
+    {
+      "id": 146,
+      "start": 395.66,
+      "end": 400.44,
+      "ts": "06:35.660 -> 06:40.440",
+      "jp": "あと携帯電話のスマートフォンのゲームを全然やりません",
+      "jp_html": "あと<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>のスマートフォンのゲームを<ruby>全然<rt>ぜんぜん</rt></ruby>やりません",
+      "zh": "我几乎不玩智能手机的游戏",
+      "en": "I don't play smartphone games at all."
+    },
+    {
+      "id": 147,
+      "start": 400.44,
+      "end": 402.62,
+      "ts": "06:40.440 -> 06:42.620",
+      "jp": "キャンディクラッシュとかやりません",
+      "jp_html": "キャンディクラッシュとかやりません",
+      "zh": "我不玩糖果 Crush 这种游戏",
+      "en": "I don't play Candy Crush."
+    },
+    {
+      "id": 148,
+      "start": 402.62,
+      "end": 405.16,
+      "ts": "06:42.620 -> 06:45.160",
+      "jp": "動物の森とかやりません",
+      "jp_html": "<ruby>動物<rt>どうぶつ</rt></ruby>の<ruby>森<rt>もり</rt></ruby>とかやりません",
+      "zh": "我不玩动物之森",
+      "en": "I don't play Animal Crossing."
+    },
+    {
+      "id": 149,
+      "start": 405.16,
+      "end": 406.0,
+      "ts": "06:45.160 -> 06:46.000",
+      "jp": "なんか",
+      "jp_html": "なんか",
+      "zh": "什么玩意儿",
+      "en": "Something"
+    },
+    {
+      "id": 150,
+      "start": 406.0,
+      "end": 411.5,
+      "ts": "06:46.000 -> 06:51.500",
+      "jp": "なんかねあんまり好きじゃない",
+      "jp_html": "なんかねあんまり<ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "嗯，其实不太喜欢",
+      "en": "I don't really like it that much."
+    },
+    {
+      "id": 151,
+      "start": 411.5,
+      "end": 415.94,
+      "ts": "06:51.500 -> 06:55.940",
+      "jp": "実はゲームは子供の時は好きだったけど",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby>ゲームは<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>だったけど",
+      "zh": "其实游戏在我小时候是喜欢的",
+      "en": "Actually, I used to like games when I was a child."
+    },
+    {
+      "id": 152,
+      "start": 415.94,
+      "end": 419.28,
+      "ts": "06:55.940 -> 06:59.280",
+      "jp": "大人になるとなんかあんまり好きじゃなくなってしまった",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>になるとなんかあんまり<ruby>好き<rt>すき</rt></ruby>じゃなくなってしまった",
+      "zh": "长大后，好像不太喜欢了",
+      "en": "As an adult, I've somehow come to not be that fond of it anymore."
+    },
+    {
+      "id": 153,
+      "start": 419.28,
+      "end": 420.42,
+      "ts": "06:59.280 -> 07:00.420",
+      "jp": "理由はわかりません",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>はわかりません",
+      "zh": "我不明白原因。",
+      "en": "I don't understand the reason."
+    },
+    {
+      "id": 154,
+      "start": 420.42,
+      "end": 427.72,
+      "ts": "07:00.420 -> 07:07.720",
+      "jp": "理由は多分なんかなんかこう疲れるんですよね",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby>なんかなんかこう<ruby>疲れ<rt>つかれ</rt></ruby>るんですよね",
+      "zh": "大概是因为太累了吧",
+      "en": "The reason is probably just that it's kind of tiring, I guess."
+    },
+    {
+      "id": 155,
+      "start": 427.72,
+      "end": 432.22,
+      "ts": "07:07.720 -> 07:12.220",
+      "jp": "そして意味がない気がしてしまうんですよね",
+      "jp_html": "そして<ruby>意味<rt>いみ</rt></ruby>がない<ruby>気が<rt>きが</rt></ruby>してしまうんですよね",
+      "zh": "然后就会觉得没有意义呢",
+      "en": "And I feel like there's no meaning to it sometimes."
+    },
+    {
+      "id": 156,
+      "start": 432.22,
+      "end": 434.4,
+      "ts": "07:12.220 -> 07:14.400",
+      "jp": "疲れるんですよ",
+      "jp_html": "<ruby>疲れ<rt>つかれ</rt></ruby>るんですよ",
+      "zh": "累啊",
+      "en": "I am tired."
+    },
+    {
+      "id": 157,
+      "start": 434.4,
+      "end": 436.66,
+      "ts": "07:14.400 -> 07:16.660",
+      "jp": "そして意味がない気がするんです",
+      "jp_html": "そして<ruby>意味<rt>いみ</rt></ruby>がない<ruby>気が<rt>きが</rt></ruby>するんです",
+      "zh": "然后我觉得没有意义",
+      "en": "And I feel like there's no meaning to it."
+    },
+    {
+      "id": 158,
+      "start": 436.66,
+      "end": 439.54,
+      "ts": "07:16.660 -> 07:19.540",
+      "jp": "これは理由ですよね",
+      "jp_html": "これは<ruby>理由<rt>りゆう</rt></ruby>ですよね",
+      "zh": "这是原因吧？",
+      "en": "This is the reason, isn't it?"
+    },
+    {
+      "id": 159,
+      "start": 439.54,
+      "end": 441.04,
+      "ts": "07:19.540 -> 07:21.040",
+      "jp": "ゲームをやりたくない理由",
+      "jp_html": "ゲームをやりたくない<ruby>理由<rt>りゆう</rt></ruby>",
+      "zh": "不想玩游戏的理由",
+      "en": "The reason for not wanting to play the game"
+    },
+    {
+      "id": 160,
+      "start": 441.04,
+      "end": 441.76,
+      "ts": "07:21.040 -> 07:21.760",
+      "jp": "疲れる",
+      "jp_html": "<ruby>疲れ<rt>つかれ</rt></ruby>る",
+      "zh": "累赘",
+      "en": "To tire"
+    },
+    {
+      "id": 161,
+      "start": 441.76,
+      "end": 444.1,
+      "ts": "07:21.760 -> 07:24.100",
+      "jp": "そして意味がない気がする",
+      "jp_html": "そして<ruby>意味<rt>いみ</rt></ruby>がない<ruby>気が<rt>きが</rt></ruby>する",
+      "zh": "然后觉得没有意义",
+      "en": "And it feels like there's no meaning."
+    },
+    {
+      "id": 162,
+      "start": 444.1,
+      "end": 446.26,
+      "ts": "07:24.100 -> 07:26.260",
+      "jp": "意味がなくて疲れる",
+      "jp_html": "<ruby>意味<rt>いみ</rt></ruby>がなくて<ruby>疲れ<rt>つかれ</rt></ruby>る",
+      "zh": "没有意义会让人疲惫",
+      "en": "It's exhausting when there's no meaning."
+    },
+    {
+      "id": 163,
+      "start": 446.26,
+      "end": 448.54,
+      "ts": "07:26.260 -> 07:28.540",
+      "jp": "嫌ですよねそれは",
+      "jp_html": "<ruby>嫌で<rt>いやで</rt></ruby>すよねそれは",
+      "zh": "这让你生气吧",
+      "en": "Is that annoying?"
+    },
+    {
+      "id": 164,
+      "start": 448.54,
+      "end": 451.2,
+      "ts": "07:28.540 -> 07:31.200",
+      "jp": "僕はジムに行きます",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ジムに<ruby>行き<rt>いき</rt></ruby>ます",
+      "zh": "我会上健身房。",
+      "en": "I will go to the gym."
+    },
+    {
+      "id": 165,
+      "start": 451.2,
+      "end": 452.78,
+      "ts": "07:31.200 -> 07:32.780",
+      "jp": "ジムに行って疲れる",
+      "jp_html": "ジムに<ruby>行って<rt>いって</rt></ruby><ruby>疲れ<rt>つかれ</rt></ruby>る",
+      "zh": "去健身房会累",
+      "en": "Going to the gym is tiring."
+    },
+    {
+      "id": 166,
+      "start": 452.78,
+      "end": 453.5,
+      "ts": "07:32.780 -> 07:33.500",
+      "jp": "嫌ですね",
+      "jp_html": "<ruby>嫌で<rt>いやで</rt></ruby>すね",
+      "zh": "嫌弃呢",
+      "en": "It's annoying."
+    },
+    {
+      "id": 167,
+      "start": 453.5,
+      "end": 454.82,
+      "ts": "07:33.500 -> 07:34.820",
+      "jp": "疲れるのは嫌だけど",
+      "jp_html": "<ruby>疲れ<rt>つかれ</rt></ruby>るのは<ruby>嫌だ<rt>いやだ</rt></ruby>けど",
+      "zh": "讨厌感到疲惫",
+      "en": "I don't like feeling tired."
+    },
+    {
+      "id": 168,
+      "start": 454.82,
+      "end": 457.0,
+      "ts": "07:34.820 -> 07:37.000",
+      "jp": "意味はありますよね",
+      "jp_html": "<ruby>意味<rt>いみ</rt></ruby>はありますよね",
+      "zh": "意思是有吧",
+      "en": "Isn't there any meaning?"
+    },
+    {
+      "id": 169,
+      "start": 457.0,
+      "end": 460.9,
+      "ts": "07:37.000 -> 07:40.900",
+      "jp": "運動するのは健康のためにいいでしょうね",
+      "jp_html": "<ruby>運動<rt>うんどう</rt></ruby>するのは<ruby>健康<rt>けんこう</rt></ruby>のためにいいでしょうね",
+      "zh": "运动是为了健康吧",
+      "en": "It's probably good for health to exercise, right?"
+    },
+    {
+      "id": 170,
+      "start": 460.9,
+      "end": 462.68,
+      "ts": "07:40.900 -> 07:42.680",
+      "jp": "筋肉は大事ですから",
+      "jp_html": "<ruby>筋肉<rt>きんにく</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>ですから",
+      "zh": "肌肉很重要哦",
+      "en": "Muscles are important, so"
+    },
+    {
+      "id": 171,
+      "start": 462.68,
+      "end": 468.84,
+      "ts": "07:42.680 -> 07:48.840",
+      "jp": "足の筋肉肩の筋肉大事ですよね",
+      "jp_html": "<ruby>足<rt>あし</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby><ruby>肩<rt>かた</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>ですよね",
+      "zh": "脚的肌肉肩膀的肌肉很重要吧",
+      "en": "The muscles in the legs and shoulders are important, right?"
+    },
+    {
+      "id": 172,
+      "start": 468.84,
+      "end": 471.28,
+      "ts": "07:48.840 -> 07:51.280",
+      "jp": "お尻の筋肉大事でしょ",
+      "jp_html": "お<ruby>尻<rt>しり</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>でしょ",
+      "zh": "屁股肌肉很重要吧",
+      "en": "It's important to work on your buttocks muscles, right?"
+    },
+    {
+      "id": 173,
+      "start": 471.28,
+      "end": 475.34,
+      "ts": "07:51.280 -> 07:55.340",
+      "jp": "だから疲れるけど頑張ってやります",
+      "jp_html": "だから<ruby>疲れ<rt>つかれ</rt></ruby>るけど<ruby>頑張っ<rt>がんばっ</rt></ruby>てやります",
+      "zh": "所以累了但我会坚持下去",
+      "en": "So I get tired but I'll try my best."
+    },
+    {
+      "id": 174,
+      "start": 475.34,
+      "end": 477.46,
+      "ts": "07:55.340 -> 07:57.460",
+      "jp": "勉強もそうでしょ",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>もそうでしょ",
+      "zh": "不是也应该这样吗？",
+      "en": "Isn't that the same for studying too?"
+    },
+    {
+      "id": 175,
+      "start": 477.46,
+      "end": 480.4,
+      "ts": "07:57.460 -> 08:00.400",
+      "jp": "皆さんみたいに勉強は疲れる",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>みたいに<ruby>勉強<rt>べんきょう</rt></ruby>は<ruby>疲れ<rt>つかれ</rt></ruby>る",
+      "zh": "像大家一样，学习也会让人疲惫",
+      "en": "Everyone gets tired from studying like that."
+    },
+    {
+      "id": 176,
+      "start": 480.4,
+      "end": 483.06,
+      "ts": "08:00.400 -> 08:03.060",
+      "jp": "だけど意味がある頑張る",
+      "jp_html": "だけど<ruby>意味<rt>いみ</rt></ruby>がある<ruby>頑張る<rt>がんばる</rt></ruby>",
+      "zh": "但是有意义就努力",
+      "en": "But it's worth striving if there's meaning."
+    },
+    {
+      "id": 177,
+      "start": 483.06,
+      "end": 489.32,
+      "ts": "08:03.060 -> 08:09.320",
+      "jp": "ゲームは疲れるけど何か意味があるかなって思ってしまう",
+      "jp_html": "ゲームは<ruby>疲れ<rt>つかれ</rt></ruby>るけど<ruby>何か<rt>なにか</rt></ruby><ruby>意味<rt>いみ</rt></ruby>があるかなって<ruby>思って<rt>おもって</rt></ruby>しまう",
+      "zh": "游戏虽然累但总觉得有点意义",
+      "en": "The game is tiring, but I can't help thinking that it must have some meaning."
+    },
+    {
+      "id": 178,
+      "start": 489.32,
+      "end": 491.3,
+      "ts": "08:09.320 -> 08:11.300",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嗯嗯嗯",
+      "en": "Well well well"
+    },
+    {
+      "id": 179,
+      "start": 491.3,
+      "end": 492.82,
+      "ts": "08:11.300 -> 08:12.820",
+      "jp": "皆さんゲームが好きですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>ゲームが<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "你们喜欢玩游戏吗",
+      "en": "Do you all like games?"
+    },
+    {
+      "id": 180,
+      "start": 492.82,
+      "end": 495.44,
+      "ts": "08:12.820 -> 08:15.440",
+      "jp": "ゲームをやるときは日本語で",
+      "jp_html": "ゲームをやるときは<ruby>日本語<rt>にほんご</rt></ruby>で",
+      "zh": "玩游戏的时候用日语",
+      "en": "When playing games, use Japanese."
+    },
+    {
+      "id": 181,
+      "start": 495.44,
+      "end": 496.78,
+      "ts": "08:15.440 -> 08:16.780",
+      "jp": "やってみてください",
+      "jp_html": "やってみてください",
+      "zh": "请试一试",
+      "en": "Try it please."
+    },
+    {
+      "id": 182,
+      "start": 496.78,
+      "end": 498.48,
+      "ts": "08:16.780 -> 08:18.480",
+      "jp": "もっと意味があると思います",
+      "jp_html": "もっと<ruby>意味<rt>いみ</rt></ruby>があると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为更有意义",
+      "en": "I think it has more meaning."
+    },
+    {
+      "id": 183,
+      "start": 498.48,
+      "end": 499.78,
+      "ts": "08:18.480 -> 08:19.780",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

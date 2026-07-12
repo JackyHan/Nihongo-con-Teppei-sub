@@ -1,0 +1,624 @@
+{
+  "id": "1546",
+  "title": "#1546「スポーツについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1546.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1546.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/07/10/1546%e3%80%8c%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.26,
+      "end": 4.32,
+      "ts": "00:01.260 -> 00:04.320",
+      "jp": "シャッキー",
+      "jp_html": "シャッキー",
+      "zh": "沙克利",
+      "en": "Shackey"
+    },
+    {
+      "id": 1,
+      "start": 4.32,
+      "end": 7.22,
+      "ts": "00:04.320 -> 00:07.220",
+      "jp": "今日はスポーツについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>スポーツについて",
+      "zh": "今天关于体育",
+      "en": "Today is about sports."
+    },
+    {
+      "id": 2,
+      "start": 7.22,
+      "end": 9.5,
+      "ts": "00:07.220 -> 00:09.500",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 9.5,
+      "end": 12.8,
+      "ts": "00:09.500 -> 00:12.800",
+      "jp": "日本語コンテッペンの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペンの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语配音的时间吧",
+      "en": "It's time for the Japanese weather forecast."
+    },
+    {
+      "id": 4,
+      "start": 12.8,
+      "end": 13.66,
+      "ts": "00:12.800 -> 00:13.660",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 13.66,
+      "end": 17.64,
+      "ts": "00:13.660 -> 00:17.640",
+      "jp": "あの今日はスポーツについてですね",
+      "jp_html": "あの<ruby>今日は<rt>こんにちは</rt></ruby>スポーツについてですね",
+      "zh": "那天我们来谈谈体育吧",
+      "en": "That day was about sports, right?"
+    },
+    {
+      "id": 6,
+      "start": 17.64,
+      "end": 23.58,
+      "ts": "00:17.640 -> 00:23.580",
+      "jp": "まあ僕はそんなにスポーツのファンじゃないですね",
+      "jp_html": "まあ<ruby>僕は<rt>ぼくは</rt></ruby>そんなにスポーツのファンじゃないですね",
+      "zh": "我其实不是什么运动的粉丝呢",
+      "en": "Well, I'm not really that into sports, you know?"
+    },
+    {
+      "id": 7,
+      "start": 23.58,
+      "end": 27.44,
+      "ts": "00:23.580 -> 00:27.440",
+      "jp": "スポーツをしないしスポーツを見ない",
+      "jp_html": "スポーツをしないしスポーツを<ruby>見な<rt>みな</rt></ruby>い",
+      "zh": "我不运动也不看运动",
+      "en": "I don't engage in sports or watch them."
+    },
+    {
+      "id": 8,
+      "start": 27.44,
+      "end": 30.2,
+      "ts": "00:27.440 -> 00:30.200",
+      "jp": "まあめんどくさいけど",
+      "jp_html": "まあめんどくさいけど",
+      "zh": "哎，麻烦了不过",
+      "en": "Well, it's troublesome but"
+    },
+    {
+      "id": 9,
+      "start": 30.2,
+      "end": 34.56,
+      "ts": "00:30.200 -> 00:34.560",
+      "jp": "ジムに1週間に2回ぐらいは行くけど",
+      "jp_html": "ジムに1<ruby>週間<rt>しゅうかん</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>ぐらいは<ruby>行く<rt>いく</rt></ruby>けど",
+      "zh": "我大约每周去健身房两次。",
+      "en": "I go to the gym about 2 times a week."
+    },
+    {
+      "id": 10,
+      "start": 34.56,
+      "end": 36.72,
+      "ts": "00:34.560 -> 00:36.720",
+      "jp": "真面目にしない",
+      "jp_html": "<ruby>真面目<rt>まじめ</rt></ruby>にしない",
+      "zh": "不认真",
+      "en": "Don't be serious."
+    },
+    {
+      "id": 11,
+      "start": 36.72,
+      "end": 38.42,
+      "ts": "00:36.720 -> 00:38.420",
+      "jp": "少しだけ",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>だけ",
+      "zh": "少一点",
+      "en": "Just a little"
+    },
+    {
+      "id": 12,
+      "start": 38.42,
+      "end": 44.44,
+      "ts": "00:38.420 -> 00:44.440",
+      "jp": "僕は子供の時から全然スポーツが好きじゃないです",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>から<ruby>全然<rt>ぜんぜん</rt></ruby>スポーツが<ruby>好き<rt>すき</rt></ruby>じゃないです",
+      "zh": "我从小就不喜欢运动。",
+      "en": "I have never really liked sports since I was a child."
+    },
+    {
+      "id": 13,
+      "start": 44.44,
+      "end": 49.02,
+      "ts": "00:44.440 -> 00:49.020",
+      "jp": "スポーツをやるのもスポーツを見るのも興味がない",
+      "jp_html": "スポーツをやるのもスポーツを<ruby>見る<rt>みる</rt></ruby>のも<ruby>興味<rt>きょうみ</rt></ruby>がない",
+      "zh": "对参与体育运动或观看体育比赛都没有兴趣",
+      "en": "I am not interested in playing sports or watching them."
+    },
+    {
+      "id": 14,
+      "start": 49.02,
+      "end": 54.08,
+      "ts": "00:49.020 -> 00:54.080",
+      "jp": "だけど僕の家の近くに",
+      "jp_html": "だけど<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に",
+      "zh": "但是我家附近有",
+      "en": "But there's something near my house"
+    },
+    {
+      "id": 15,
+      "start": 54.08,
+      "end": 57.76,
+      "ts": "00:54.080 -> 00:57.760",
+      "jp": "家の近くというか家の隣に",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>というか<ruby>家<rt>いえ</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>に",
+      "zh": "家附近或者说家旁边",
+      "en": "Next to my house, in other words"
+    },
+    {
+      "id": 16,
+      "start": 57.76,
+      "end": 61.36,
+      "ts": "00:57.760 -> 01:01.360",
+      "jp": "剣道の道場があったんですね",
+      "jp_html": "<ruby>剣道<rt>けんどう</rt></ruby>の<ruby>道場<rt>どうじょう</rt></ruby>があったんですね",
+      "zh": "原来剑道的道场在那里呢",
+      "en": "There was a kendō dojo, huh?"
+    },
+    {
+      "id": 17,
+      "start": 61.36,
+      "end": 68.18,
+      "ts": "01:01.360 -> 01:08.180",
+      "jp": "だから僕は5歳の時に剣道を始めます",
+      "jp_html": "だから<ruby>僕は<rt>ぼくは</rt></ruby>5<ruby>歳<rt>とし</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby><ruby>剣道<rt>けんどう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ます",
+      "zh": "因此我五岁的时候开始练习剑道",
+      "en": "So I started karate when I was 5 years old."
+    },
+    {
+      "id": 18,
+      "start": 68.18,
+      "end": 70.78,
+      "ts": "01:08.180 -> 01:10.780",
+      "jp": "始めなければいけなかった",
+      "jp_html": "<ruby>始め<rt>はじめ</rt></ruby>なければいけなかった",
+      "zh": "应该早点开始",
+      "en": "I should have started already."
+    },
+    {
+      "id": 19,
+      "start": 70.78,
+      "end": 73.22,
+      "ts": "01:10.780 -> 01:13.220",
+      "jp": "5歳ですね5歳",
+      "jp_html": "5<ruby>歳<rt>とし</rt></ruby>ですね5<ruby>歳<rt>とし</rt></ruby>",
+      "zh": "5岁呢5岁",
+      "en": "Five years old, five years old."
+    },
+    {
+      "id": 20,
+      "start": 73.22,
+      "end": 78.56,
+      "ts": "01:13.220 -> 01:18.560",
+      "jp": "理由は僕のお姉さんも剣道をやってたんですね",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>姉さん<rt>ねえさん</rt></ruby>も<ruby>剣道<rt>けんどう</rt></ruby>をやってたんですね",
+      "zh": "原因是我的姐姐也练剑道呢",
+      "en": "The reason is that my older sister also practiced kendo."
+    },
+    {
+      "id": 21,
+      "start": 78.56,
+      "end": 82.76,
+      "ts": "01:18.560 -> 01:22.760",
+      "jp": "だから僕もやることになりました",
+      "jp_html": "だから<ruby>僕<rt>ぼく</rt></ruby>もやることになりました",
+      "zh": "所以我也决定参加了。",
+      "en": "So I also decided to do it."
+    },
+    {
+      "id": 22,
+      "start": 82.76,
+      "end": 92.34,
+      "ts": "01:22.760 -> 01:32.340",
+      "jp": "僕は5歳6歳7歳8歳9歳10歳11歳12歳13歳14歳15歳まで",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>5<ruby>歳<rt>とし</rt></ruby>6<ruby>歳<rt>とし</rt></ruby>7<ruby>歳<rt>とし</rt></ruby>8<ruby>歳<rt>とし</rt></ruby>9<ruby>歳<rt>とし</rt></ruby>10<ruby>歳<rt>とし</rt></ruby>11<ruby>歳<rt>とし</rt></ruby>12<ruby>歳<rt>とし</rt></ruby>13<ruby>歳<rt>とし</rt></ruby>14<ruby>歳<rt>とし</rt></ruby>15<ruby>歳<rt>とし</rt></ruby>まで",
+      "zh": "我从5岁到15岁为止",
+      "en": "I was 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, and 15 years old."
+    },
+    {
+      "id": 23,
+      "start": 92.34,
+      "end": 96.28,
+      "ts": "01:32.340 -> 01:36.280",
+      "jp": "15歳まで10年間剣道をやりました",
+      "jp_html": "15<ruby>歳<rt>とし</rt></ruby>まで10<ruby>年間<rt>ねんかん</rt></ruby><ruby>剣道<rt>けんどう</rt></ruby>をやりました",
+      "zh": "我练了十年剑道直到十五岁。",
+      "en": "I practiced kendo for 10 years until I was 15."
+    },
+    {
+      "id": 24,
+      "start": 96.28,
+      "end": 102.24,
+      "ts": "01:36.280 -> 01:42.240",
+      "jp": "僕はスポーツは全然好きじゃなかった走るのも好きじゃない",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>スポーツは<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃなかった<ruby>走る<rt>はしる</rt></ruby>のも<ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "我完全不喜欢运动，也不喜欢跑步",
+      "en": "I didn't like sports at all and I don't like running either."
+    },
+    {
+      "id": 25,
+      "start": 102.24,
+      "end": 108.8,
+      "ts": "01:42.240 -> 01:48.800",
+      "jp": "ボールも全然好きじゃない野球サッカーバスケットボール卓球全然好きじゃない",
+      "jp_html": "ボールも<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃない<ruby>野球<rt>やきゅう</rt></ruby>サッカーバスケットボール<ruby>卓球<rt>たっきゅう</rt></ruby><ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "我对篮球、足球、棒球和乒乓球完全不喜欢",
+      "en": "I don't like baseball, soccer, basketball, or table tennis at all."
+    },
+    {
+      "id": 26,
+      "start": 108.8,
+      "end": 112.04,
+      "ts": "01:48.800 -> 01:52.040",
+      "jp": "全然できない走るのも遅い",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>できない<ruby>走る<rt>はしる</rt></ruby>のも<ruby>遅い<rt>おそい</rt></ruby>",
+      "zh": "跑不了，而且跑得很慢",
+      "en": "I can't run at all and I'm also very slow."
+    },
+    {
+      "id": 27,
+      "start": 112.04,
+      "end": 115.76,
+      "ts": "01:52.040 -> 01:55.760",
+      "jp": "だけど剣道は結構強くなりました",
+      "jp_html": "だけど<ruby>剣道<rt>けんどう</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>強く<rt>つよく</rt></ruby>なりました",
+      "zh": "但是剑道的技术还是提高了不少",
+      "en": "But my kendo has actually gotten quite strong."
+    },
+    {
+      "id": 28,
+      "start": 115.76,
+      "end": 121.06,
+      "ts": "01:55.760 -> 02:01.060",
+      "jp": "5歳から始めたので剣道は結構強くなった",
+      "jp_html": "5<ruby>歳<rt>とし</rt></ruby>から<ruby>始め<rt>はじめ</rt></ruby>たので<ruby>剣道<rt>けんどう</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>強く<rt>つよく</rt></ruby>なった",
+      "zh": "从五岁开始练，剑道练得还算不错",
+      "en": "I started at 5 years old, so my kendō has gotten pretty strong."
+    },
+    {
+      "id": 29,
+      "start": 121.06,
+      "end": 123.16,
+      "ts": "02:01.060 -> 02:03.160",
+      "jp": "まあいろいろな大会",
+      "jp_html": "まあいろいろな<ruby>大会<rt>たいかい</rt></ruby>",
+      "zh": "各种各样的大赛",
+      "en": "Well, various competitions"
+    },
+    {
+      "id": 30,
+      "start": 123.16,
+      "end": 126.68,
+      "ts": "02:03.160 -> 02:06.680",
+      "jp": "そのコンペティションというかイベントですね",
+      "jp_html": "そのコンペティションというかイベントですね",
+      "zh": "那个竞赛或者说活动呢",
+      "en": "That competition, or event, you know?"
+    },
+    {
+      "id": 31,
+      "start": 126.68,
+      "end": 128.36,
+      "ts": "02:06.680 -> 02:08.360",
+      "jp": "いろんな大会で",
+      "jp_html": "いろんな<ruby>大会<rt>たいかい</rt></ruby>で",
+      "zh": "在各种大会上",
+      "en": "At various competitions where"
+    },
+    {
+      "id": 32,
+      "start": 128.36,
+      "end": 131.76,
+      "ts": "02:08.360 -> 02:11.760",
+      "jp": "1位2位3位",
+      "jp_html": "1<ruby>位<rt>くらい</rt></ruby>2<ruby>位<rt>くらい</rt></ruby>3<ruby>位<rt>くらい</rt></ruby>",
+      "zh": "1位2位3位",
+      "en": "123"
+    },
+    {
+      "id": 33,
+      "start": 131.76,
+      "end": 137.5,
+      "ts": "02:11.760 -> 02:17.500",
+      "jp": "結構いい順番になって",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>いい<ruby>順番<rt>じゅんばん</rt></ruby>になって",
+      "zh": "结构好的顺序已经排列好",
+      "en": "It's turning out to be a good order."
+    },
+    {
+      "id": 34,
+      "start": 137.5,
+      "end": 141.68,
+      "ts": "02:17.500 -> 02:21.680",
+      "jp": "メダルももらって結構良かったけど",
+      "jp_html": "メダルももらって<ruby>結構<rt>けっこう</rt></ruby><ruby>良か<rt>よか</rt></ruby>ったけど",
+      "zh": "获得奖牌也不错，挺好的。",
+      "en": "Getting a medal was quite nice too, but"
+    },
+    {
+      "id": 35,
+      "start": 141.68,
+      "end": 144.86,
+      "ts": "02:21.680 -> 02:24.860",
+      "jp": "15歳で辞めました",
+      "jp_html": "15<ruby>歳<rt>とし</rt></ruby>で<ruby>辞め<rt>やめ</rt></ruby>ました",
+      "zh": "我在15岁的时候辞职了。",
+      "en": "I quit at 15 years old."
+    },
+    {
+      "id": 36,
+      "start": 144.86,
+      "end": 151.74,
+      "ts": "02:24.860 -> 02:31.740",
+      "jp": "理由は高校の時はもうちょっと剣道したくないと思ったんですね",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>高校<rt>こうこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はもうちょっと<ruby>剣道<rt>けんどう</rt></ruby>したくないと<ruby>思った<rt>おもった</rt></ruby>んですね",
+      "zh": "原因是高中时觉得不想多练剑道了",
+      "en": "The reason is that in high school, I didn't want to practice kendo as much."
+    },
+    {
+      "id": 37,
+      "start": 151.74,
+      "end": 154.58,
+      "ts": "02:31.740 -> 02:34.580",
+      "jp": "剣道したくない僕は剣道したくない",
+      "jp_html": "<ruby>剣道<rt>けんどう</rt></ruby>したくない<ruby>僕は<rt>ぼくは</rt></ruby><ruby>剣道<rt>けんどう</rt></ruby>したくない",
+      "zh": "我不愿意剑道，因为我不愿意剑道",
+      "en": "I don't want to do kendo, I don't want to do kendo."
+    },
+    {
+      "id": 38,
+      "start": 154.58,
+      "end": 156.28,
+      "ts": "02:34.580 -> 02:36.280",
+      "jp": "僕はもっとデートとか",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>もっとデートとか",
+      "zh": "我想要更多约会之类的东西",
+      "en": "I want more dates or something like that."
+    },
+    {
+      "id": 39,
+      "start": 156.28,
+      "end": 161.12,
+      "ts": "02:36.280 -> 02:41.120",
+      "jp": "映画を見に行ったりデートしたり",
+      "jp_html": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見に行っ<rt>みにいっ</rt></ruby>たりデートしたり",
+      "zh": "去看电影或者约会",
+      "en": "Going to see a movie or going on a date"
+    },
+    {
+      "id": 40,
+      "start": 161.12,
+      "end": 162.84,
+      "ts": "02:41.120 -> 02:42.840",
+      "jp": "あとはバンドをやったり",
+      "jp_html": "あとはバンドをやったり",
+      "zh": "然后他有时会玩乐队",
+      "en": "And then I played in a band or something."
+    },
+    {
+      "id": 41,
+      "start": 162.84,
+      "end": 167.12,
+      "ts": "02:42.840 -> 02:47.120",
+      "jp": "僕はギターを買って剣道を辞めて",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ギターを<ruby>買っ<rt>かっ</rt></ruby>て<ruby>剣道<rt>けんどう</rt></ruby>を<ruby>辞め<rt>やめ</rt></ruby>て",
+      "zh": "我买了吉他退出了剑道",
+      "en": "I bought a guitar and quit kendo."
+    },
+    {
+      "id": 42,
+      "start": 167.12,
+      "end": 170.52,
+      "ts": "02:47.120 -> 02:50.520",
+      "jp": "ギターを買ってバンドを始めました",
+      "jp_html": "ギターを<ruby>買っ<rt>かっ</rt></ruby>てバンドを<ruby>始め<rt>はじめ</rt></ruby>ました",
+      "zh": "买了把吉他， started 一个乐队",
+      "en": "I bought a guitar and started a band."
+    },
+    {
+      "id": 43,
+      "start": 170.52,
+      "end": 174.34,
+      "ts": "02:50.520 -> 02:54.340",
+      "jp": "パンクロックを始めた",
+      "jp_html": "パンクロックを<ruby>始め<rt>はじめ</rt></ruby>た",
+      "zh": "开始了朋克摇滚",
+      "en": "Started punk rock"
+    },
+    {
+      "id": 44,
+      "start": 174.34,
+      "end": 175.86,
+      "ts": "02:54.340 -> 02:55.860",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 45,
+      "start": 175.86,
+      "end": 179.58,
+      "ts": "02:55.860 -> 02:59.580",
+      "jp": "終わりです",
+      "jp_html": "<ruby>終わり<rt>おわり</rt></ruby>です",
+      "zh": "结束了",
+      "en": "It's over."
+    },
+    {
+      "id": 46,
+      "start": 179.58,
+      "end": 180.58,
+      "ts": "02:59.580 -> 03:00.580",
+      "jp": "剣道終わり",
+      "jp_html": "<ruby>剣道<rt>けんどう</rt></ruby><ruby>終わり<rt>おわり</rt></ruby>",
+      "zh": "剑道结束",
+      "en": "Kendo ends"
+    },
+    {
+      "id": 47,
+      "start": 180.58,
+      "end": 182.3,
+      "ts": "03:00.580 -> 03:02.300",
+      "jp": "そしてスポーツも終わり",
+      "jp_html": "そしてスポーツも<ruby>終わり<rt>おわり</rt></ruby>",
+      "zh": "然后运动也结束了",
+      "en": "And sports are also coming to an end."
+    },
+    {
+      "id": 48,
+      "start": 182.3,
+      "end": 183.48,
+      "ts": "03:02.300 -> 03:03.480",
+      "jp": "スポーツも",
+      "jp_html": "スポーツも",
+      "zh": "运动也",
+      "en": "Sports also"
+    },
+    {
+      "id": 49,
+      "start": 183.48,
+      "end": 186.64,
+      "ts": "03:03.480 -> 03:06.640",
+      "jp": "それから全くしなくなりました",
+      "jp_html": "それから<ruby>全く<rt>まったく</rt></ruby>しなくなりました",
+      "zh": "然后完全不做啦",
+      "en": "Since then, he has completely stopped doing it."
+    },
+    {
+      "id": 50,
+      "start": 186.64,
+      "end": 190.42,
+      "ts": "03:06.640 -> 03:10.420",
+      "jp": "という話",
+      "jp_html": "という<ruby>話<rt>はなし</rt></ruby>",
+      "zh": "这样的故事",
+      "en": "That's the story."
+    },
+    {
+      "id": 51,
+      "start": 190.42,
+      "end": 192.26,
+      "ts": "03:10.420 -> 03:12.260",
+      "jp": "スポーツについて",
+      "jp_html": "スポーツについて",
+      "zh": "关于体育",
+      "en": "About sports"
+    },
+    {
+      "id": 52,
+      "start": 192.26,
+      "end": 194.84,
+      "ts": "03:12.260 -> 03:14.840",
+      "jp": "なのでスポーツについて",
+      "jp_html": "なのでスポーツについて",
+      "zh": "所以关于运动",
+      "en": "So, let's talk about sports."
+    },
+    {
+      "id": 53,
+      "start": 194.84,
+      "end": 196.54,
+      "ts": "03:14.840 -> 03:16.540",
+      "jp": "話すことは全くありません",
+      "jp_html": "<ruby>話す<rt>はなす</rt></ruby>ことは<ruby>全く<rt>まったく</rt></ruby>ありません",
+      "zh": "完全不说话",
+      "en": "They hardly ever speak."
+    },
+    {
+      "id": 54,
+      "start": 196.54,
+      "end": 199.68,
+      "ts": "03:16.540 -> 03:19.680",
+      "jp": "次回は",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>は",
+      "zh": "下次是",
+      "en": "Next time"
+    },
+    {
+      "id": 55,
+      "start": 199.68,
+      "end": 202.64,
+      "ts": "03:19.680 -> 03:22.640",
+      "jp": "サッカーについて",
+      "jp_html": "サッカーについて",
+      "zh": "关于足球",
+      "en": "About soccer"
+    },
+    {
+      "id": 56,
+      "start": 202.64,
+      "end": 203.88,
+      "ts": "03:22.640 -> 03:23.880",
+      "jp": "話します",
+      "jp_html": "<ruby>話し<rt>はなし</rt></ruby>ます",
+      "zh": "说",
+      "en": "Talks"
+    },
+    {
+      "id": 57,
+      "start": 203.88,
+      "end": 206.54,
+      "ts": "03:23.880 -> 03:26.540",
+      "jp": "スポーツについての話はないんですけど",
+      "jp_html": "スポーツについての<ruby>話<rt>はなし</rt></ruby>はないんですけど",
+      "zh": "关于运动的话题是没有的",
+      "en": "There isn't any talk about sports."
+    },
+    {
+      "id": 58,
+      "start": 206.54,
+      "end": 207.96,
+      "ts": "03:26.540 -> 03:27.960",
+      "jp": "次回はサッカーについて",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>はサッカーについて",
+      "zh": "下次我们将谈谈足球",
+      "en": "Next time, let's talk about soccer."
+    },
+    {
+      "id": 59,
+      "start": 207.96,
+      "end": 210.42,
+      "ts": "03:27.960 -> 03:30.420",
+      "jp": "ちょっと頑張って話してみたいと思います",
+      "jp_html": "ちょっと<ruby>頑張っ<rt>がんばっ</rt></ruby>て<ruby>話し<rt>はなし</rt></ruby>てみたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想试着稍微努力说下去",
+      "en": "I want to try talking a little more enthusiastically."
+    },
+    {
+      "id": 60,
+      "start": 210.42,
+      "end": 212.08,
+      "ts": "03:30.420 -> 03:32.080",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
