@@ -1,0 +1,1844 @@
+{
+  "id": "1548",
+  "title": "#1548「友達について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1548.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1548.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/07/14/1548%e3%80%8c%e5%8f%8b%e9%81%94%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.46,
+      "end": 3.18,
+      "ts": "00:01.460 -> 00:03.180",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.18,
+      "end": 6.72,
+      "ts": "00:03.180 -> 00:06.720",
+      "jp": "今日は友達について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>について",
+      "zh": "今天关于朋友的话题",
+      "en": "Today about friends"
+    },
+    {
+      "id": 2,
+      "start": 6.72,
+      "end": 9.04,
+      "ts": "00:06.720 -> 00:09.040",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 3,
+      "start": 9.04,
+      "end": 12.22,
+      "ts": "00:09.040 -> 00:12.220",
+      "jp": "前回とか前々回とか",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby>とか<ruby>前々回<rt>ぜんぜんかい</rt></ruby>とか",
+      "zh": "上次或者再上一次",
+      "en": "Last time or the time before last"
+    },
+    {
+      "id": 4,
+      "start": 12.22,
+      "end": 17.38,
+      "ts": "00:12.220 -> 00:17.380",
+      "jp": "スポーツとかサッカーとか野球とかについて話せなかったですね",
+      "jp_html": "スポーツとかサッカーとか<ruby>野球<rt>やきゅう</rt></ruby>とかについて<ruby>話せ<rt>はなせ</rt></ruby>なかったですね",
+      "zh": "关于运动或者足球和棒球之类的都没提到呢",
+      "en": "You didn't talk about sports or soccer or baseball, did you?"
+    },
+    {
+      "id": 5,
+      "start": 17.38,
+      "end": 18.26,
+      "ts": "00:17.380 -> 00:18.260",
+      "jp": "全然",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>",
+      "zh": "完全",
+      "en": "Completely"
+    },
+    {
+      "id": 6,
+      "start": 18.26,
+      "end": 23.72,
+      "ts": "00:18.260 -> 00:23.720",
+      "jp": "その前のゲームとか漫画とか映画とか",
+      "jp_html": "その<ruby>前<rt>まえ</rt></ruby>のゲームとか<ruby>漫画<rt>まんが</rt></ruby>とか<ruby>映画<rt>えいが</rt></ruby>とか",
+      "zh": "之前的游戏或者漫画或者电影",
+      "en": "The games before that, or comics, or movies, etc."
+    },
+    {
+      "id": 7,
+      "start": 23.72,
+      "end": 25.86,
+      "ts": "00:23.720 -> 00:25.860",
+      "jp": "たくさん話すことがあったけど",
+      "jp_html": "たくさん<ruby>話す<rt>はなす</rt></ruby>ことがあったけど",
+      "zh": "有很多话要说的但是",
+      "en": "We talked about a lot of things but"
+    },
+    {
+      "id": 8,
+      "start": 25.86,
+      "end": 29.32,
+      "ts": "00:25.860 -> 00:29.320",
+      "jp": "スポーツはもう話すことが全然ない",
+      "jp_html": "スポーツはもう<ruby>話す<rt>はなす</rt></ruby>ことが<ruby>全然<rt>ぜんぜん</rt></ruby>ない",
+      "zh": "体育现在完全没有话题可以聊了",
+      "en": "Sports is something we have completely run out of things to talk about."
+    },
+    {
+      "id": 9,
+      "start": 29.32,
+      "end": 33.98,
+      "ts": "00:29.320 -> 00:33.980",
+      "jp": "やっぱり興味がないことは話せない",
+      "jp_html": "やっぱり<ruby>興味<rt>きょうみ</rt></ruby>がないことは<ruby>話せ<rt>はなせ</rt></ruby>ない",
+      "zh": "果然没有兴趣的事情就无从谈起",
+      "en": "It's hard to talk about things that don't interest me."
+    },
+    {
+      "id": 10,
+      "start": 33.98,
+      "end": 35.82,
+      "ts": "00:33.980 -> 00:35.820",
+      "jp": "今日はね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ね",
+      "zh": "今天呢",
+      "en": "Today, um"
+    },
+    {
+      "id": 11,
+      "start": 35.82,
+      "end": 37.22,
+      "ts": "00:35.820 -> 00:37.220",
+      "jp": "友達について",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>について",
+      "zh": "关于朋友",
+      "en": "About friends"
+    },
+    {
+      "id": 12,
+      "start": 37.22,
+      "end": 39.22,
+      "ts": "00:37.220 -> 00:39.220",
+      "jp": "これは多分大丈夫だな",
+      "jp_html": "これは<ruby>多分大丈夫<rt>たぶんだいじょうぶ</rt></ruby>だな",
+      "zh": "这大概没问题吧",
+      "en": "This is probably okay."
+    },
+    {
+      "id": 13,
+      "start": 39.22,
+      "end": 40.26,
+      "ts": "00:39.220 -> 00:40.260",
+      "jp": "友達について",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>について",
+      "zh": "关于朋友",
+      "en": "About friends"
+    },
+    {
+      "id": 14,
+      "start": 40.26,
+      "end": 41.74,
+      "ts": "00:40.260 -> 00:41.740",
+      "jp": "これは僕が",
+      "jp_html": "これは<ruby>僕<rt>ぼく</rt></ruby>が",
+      "zh": "这是我说",
+      "en": "This is what I"
+    },
+    {
+      "id": 15,
+      "start": 41.74,
+      "end": 44.8,
+      "ts": "00:41.740 -> 00:44.800",
+      "jp": "僕のトピックですよね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のトピックですよね",
+      "zh": "这是我的话题吧",
+      "en": "It's my topic, right?"
+    },
+    {
+      "id": 16,
+      "start": 44.8,
+      "end": 47.96,
+      "ts": "00:44.800 -> 00:47.960",
+      "jp": "こういう人間関係というか",
+      "jp_html": "こういう<ruby>人間関係<rt>にんげんかんけい</rt></ruby>というか",
+      "zh": "这种人际关系或者说",
+      "en": "This kind of interpersonal relationship, I guess."
+    },
+    {
+      "id": 17,
+      "start": 47.96,
+      "end": 50.5,
+      "ts": "00:47.960 -> 00:50.500",
+      "jp": "友達について",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>について",
+      "zh": "关于朋友",
+      "en": "About friends"
+    },
+    {
+      "id": 18,
+      "start": 50.5,
+      "end": 51.28,
+      "ts": "00:50.500 -> 00:51.280",
+      "jp": "あのね",
+      "jp_html": "あのね",
+      "zh": "你知道吗",
+      "en": "You know"
+    },
+    {
+      "id": 19,
+      "start": 51.28,
+      "end": 54.44,
+      "ts": "00:51.280 -> 00:54.440",
+      "jp": "実は僕は",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby>",
+      "zh": "其实我其实是",
+      "en": "Actually, I am"
+    },
+    {
+      "id": 20,
+      "start": 54.44,
+      "end": 55.92,
+      "ts": "00:54.440 -> 00:55.920",
+      "jp": "友達がたくさんいません",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>がたくさんいません",
+      "zh": "朋友不多",
+      "en": "I don't have many friends."
+    },
+    {
+      "id": 21,
+      "start": 55.92,
+      "end": 62.04,
+      "ts": "00:55.920 -> 01:02.040",
+      "jp": "でもそれはね多分普通だと思う",
+      "jp_html": "でもそれはね<ruby>多分<rt>たぶん</rt></ruby><ruby>普通<rt>ふつう</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "但那大概是正常的吧",
+      "en": "But I think that's pretty ordinary."
+    },
+    {
+      "id": 22,
+      "start": 62.04,
+      "end": 63.56,
+      "ts": "01:02.040 -> 01:03.560",
+      "jp": "僕は45歳ですね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>45<ruby>歳<rt>とし</rt></ruby>ですね",
+      "zh": "我今年45岁",
+      "en": "I am 45 years old."
+    },
+    {
+      "id": 23,
+      "start": 63.56,
+      "end": 69.38,
+      "ts": "01:03.560 -> 01:09.380",
+      "jp": "45歳の男でそんなにたくさん友達いますか普通",
+      "jp_html": "45<ruby>歳<rt>とし</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>でそんなにたくさん<ruby>友達<rt>ともだち</rt></ruby>いますか<ruby>普通<rt>ふつう</rt></ruby>",
+      "zh": "一个45岁的男人通常有很多朋友吗？",
+      "en": "Is a 45-year-old man usually this friendly?"
+    },
+    {
+      "id": 24,
+      "start": 69.38,
+      "end": 71.44,
+      "ts": "01:09.380 -> 01:11.440",
+      "jp": "45歳の男",
+      "jp_html": "45<ruby>歳<rt>とし</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>",
+      "zh": "45岁的男人",
+      "en": "A 45-year-old man"
+    },
+    {
+      "id": 25,
+      "start": 71.44,
+      "end": 74.22,
+      "ts": "01:11.440 -> 01:14.220",
+      "jp": "知り合いはたくさんいます",
+      "jp_html": "<ruby>知り合い<rt>しりあい</rt></ruby>はたくさんいます",
+      "zh": "我有很多朋友",
+      "en": "I have many friends."
+    },
+    {
+      "id": 26,
+      "start": 74.22,
+      "end": 79.2,
+      "ts": "01:14.220 -> 01:19.200",
+      "jp": "知り合いというのは知ってる人たち",
+      "jp_html": "<ruby>知り合い<rt>しりあい</rt></ruby>というのは<ruby>知って<rt>しって</rt></ruby>る<ruby>人<rt>にん</rt></ruby>たち",
+      "zh": "朋友就是认识的人",
+      "en": "A acquaintance is someone who knows people."
+    },
+    {
+      "id": 27,
+      "start": 79.2,
+      "end": 84.38,
+      "ts": "01:19.200 -> 01:24.380",
+      "jp": "ほとんど友達みたいな知り合いもたくさんいますよね",
+      "jp_html": "ほとんど<ruby>友達<rt>ともだち</rt></ruby>みたいな<ruby>知り合い<rt>しりあい</rt></ruby>もたくさんいますよね",
+      "zh": "几乎有很多像朋友一样认识的人，对吧？",
+      "en": "Don't you have quite a few acquaintances who are almost like friends?"
+    },
+    {
+      "id": 28,
+      "start": 84.38,
+      "end": 87.94,
+      "ts": "01:24.380 -> 01:27.940",
+      "jp": "僕は日本語のレッスン",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>のレッスン",
+      "zh": "我的日语课",
+      "en": "I have Japanese lessons."
+    },
+    {
+      "id": 29,
+      "start": 87.94,
+      "end": 90.44,
+      "ts": "01:27.940 -> 01:30.440",
+      "jp": "日本語のクラスをしますけど",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>のクラスをしますけど",
+      "zh": "我会上日语课",
+      "en": "I am going to take a Japanese class but"
+    },
+    {
+      "id": 30,
+      "start": 90.44,
+      "end": 95.08,
+      "ts": "01:30.440 -> 01:35.080",
+      "jp": "生徒さんたちはほとんど友達みたいな生徒ですよね",
+      "jp_html": "<ruby>生徒<rt>せいと</rt></ruby>さんたちはほとんど<ruby>友達<rt>ともだち</rt></ruby>みたいな<ruby>生徒<rt>せいと</rt></ruby>ですよね",
+      "zh": "学生们几乎像朋友一样呢",
+      "en": "The students are almost like friends, aren't they?"
+    },
+    {
+      "id": 31,
+      "start": 95.08,
+      "end": 97.88,
+      "ts": "01:35.080 -> 01:37.880",
+      "jp": "みんなほとんど友達みたいな",
+      "jp_html": "みんなほとんど<ruby>友達<rt>ともだち</rt></ruby>みたいな",
+      "zh": "大家几乎像朋友一样",
+      "en": "Everyone is almost like friends."
+    },
+    {
+      "id": 32,
+      "start": 97.88,
+      "end": 101.38,
+      "ts": "01:37.880 -> 01:41.380",
+      "jp": "友達と言ってもいいと思う",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>もいいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我认为可以叫朋友",
+      "en": "I think we can call each other friends."
+    },
+    {
+      "id": 33,
+      "start": 101.38,
+      "end": 103.34,
+      "ts": "01:41.380 -> 01:43.340",
+      "jp": "友達と言ってもいいと思う",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>もいいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我认为可以叫朋友",
+      "en": "I think we can call each other friends."
+    },
+    {
+      "id": 34,
+      "start": 103.34,
+      "end": 104.54,
+      "ts": "01:43.340 -> 01:44.540",
+      "jp": "生徒だけど",
+      "jp_html": "<ruby>生徒<rt>せいと</rt></ruby>だけど",
+      "zh": "学生但愿",
+      "en": "I'm a student but"
+    },
+    {
+      "id": 35,
+      "start": 104.54,
+      "end": 110.16,
+      "ts": "01:44.540 -> 01:50.160",
+      "jp": "でも例えば日本人の友達が",
+      "jp_html": "でも<ruby>例えば<rt>たとえば</rt></ruby><ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>が",
+      "zh": "比如比如说我的日本朋友",
+      "en": "But for example, if a Japanese friend..."
+    },
+    {
+      "id": 36,
+      "start": 110.16,
+      "end": 112.52,
+      "ts": "01:50.160 -> 01:52.520",
+      "jp": "たくさんいるかというと全然いません",
+      "jp_html": "たくさんいるかというと<ruby>全然<rt>ぜんぜん</rt></ruby>いません",
+      "zh": "很多的话其实一个也没有",
+      "en": "Are there many? And yet, there are none at all."
+    },
+    {
+      "id": 37,
+      "start": 112.52,
+      "end": 116.9,
+      "ts": "01:52.520 -> 01:56.900",
+      "jp": "一人友屋という後輩がいますね",
+      "jp_html": "<ruby>一人<rt>ひとり</rt></ruby><ruby>友<rt>とも</rt></ruby><ruby>屋<rt>や</rt></ruby>という<ruby>後輩<rt>こうはい</rt></ruby>がいますね",
+      "zh": "有一个叫友屋的后辈吧",
+      "en": "I have a fellow junior named One-Yoneya."
+    },
+    {
+      "id": 38,
+      "start": 116.9,
+      "end": 122.42,
+      "ts": "01:56.900 -> 02:02.420",
+      "jp": "僕より一つだけ年下の大学の時の後輩",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>より<ruby>一つ<rt>ひとつ</rt></ruby>だけ<ruby>年下<rt>としした</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>後輩<rt>こうはい</rt></ruby>",
+      "zh": "比我小一岁的大学时的后辈",
+      "en": "My colleague from university who is one year younger than me by one year"
+    },
+    {
+      "id": 39,
+      "start": 122.42,
+      "end": 123.64,
+      "ts": "02:02.420 -> 02:03.640",
+      "jp": "友達ね",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>ね",
+      "zh": "朋友呢",
+      "en": "Friend ne"
+    },
+    {
+      "id": 40,
+      "start": 123.64,
+      "end": 124.88,
+      "ts": "02:03.640 -> 02:04.880",
+      "jp": "年下の友達",
+      "jp_html": "<ruby>年下<rt>としした</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>",
+      "zh": "年龄小的朋友们",
+      "en": "Friend who is younger"
+    },
+    {
+      "id": 41,
+      "start": 124.88,
+      "end": 126.32,
+      "ts": "02:04.880 -> 02:06.320",
+      "jp": "後輩がいる",
+      "jp_html": "<ruby>後輩<rt>こうはい</rt></ruby>がいる",
+      "zh": "有后辈",
+      "en": "I have junior colleagues."
+    },
+    {
+      "id": 42,
+      "start": 126.32,
+      "end": 129.22,
+      "ts": "02:06.320 -> 02:09.220",
+      "jp": "1ヶ月に1回ぐらい",
+      "jp_html": "1ヶ<ruby>月<rt>がつ</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>ぐらい",
+      "zh": "大约每个月一次",
+      "en": "About once a month"
+    },
+    {
+      "id": 43,
+      "start": 129.22,
+      "end": 131.88,
+      "ts": "02:09.220 -> 02:11.880",
+      "jp": "一緒に居酒屋に行って",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>居酒屋<rt>いざかや</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "一起去居酒屋",
+      "en": "Let's go out for drinks together."
+    },
+    {
+      "id": 44,
+      "start": 131.88,
+      "end": 135.0,
+      "ts": "02:11.880 -> 02:15.000",
+      "jp": "ハイボールを飲んだりするんですけど",
+      "jp_html": "ハイボールを<ruby>飲ん<rt>のん</rt></ruby>だりするんですけど",
+      "zh": "我喝ハイボール之类的饮料",
+      "en": "I drink highballs too."
+    },
+    {
+      "id": 45,
+      "start": 135.0,
+      "end": 137.02,
+      "ts": "02:15.000 -> 02:17.020",
+      "jp": "それぐらいかな",
+      "jp_html": "それぐらいかな",
+      "zh": "大概就是那样吧",
+      "en": "Is that about right?"
+    },
+    {
+      "id": 46,
+      "start": 137.02,
+      "end": 140.96,
+      "ts": "02:17.020 -> 02:20.960",
+      "jp": "子供の時ね",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時ね<rt>ときね</rt></ruby>",
+      "zh": "小时候",
+      "en": "When I was a child."
+    },
+    {
+      "id": 47,
+      "start": 140.96,
+      "end": 146.16,
+      "ts": "02:20.960 -> 02:26.160",
+      "jp": "子供の時僕は小学校の時友達はもちろん何人もいました",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>はもちろん<ruby>何人<rt>なんにん</rt></ruby>もいました",
+      "zh": "小时候我小学的时候朋友当然也有很多",
+      "en": "When I was a child, in elementary school, of course I had many friends."
+    },
+    {
+      "id": 48,
+      "start": 146.16,
+      "end": 151.22,
+      "ts": "02:26.160 -> 02:31.220",
+      "jp": "でも小学校で一番仲が良かった友達は",
+      "jp_html": "でも<ruby>小学校<rt>しょうがっこう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>仲<rt>なか</rt></ruby>が<ruby>良か<rt>よか</rt></ruby>った<ruby>友達<rt>ともだち</rt></ruby>は",
+      "zh": "但是小学时最好的朋友是",
+      "en": "But the friend I was closest to was from elementary school."
+    },
+    {
+      "id": 49,
+      "start": 151.22,
+      "end": 158.0,
+      "ts": "02:31.220 -> 02:38.000",
+      "jp": "中学校ではちょっと違う友達ができますよね",
+      "jp_html": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby>ではちょっと<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>ができますよね",
+      "zh": "在中学时能交到不一样的朋友吧",
+      "en": "Don't you make slightly different friends in junior high school?"
+    },
+    {
+      "id": 50,
+      "start": 158.0,
+      "end": 163.82,
+      "ts": "02:38.000 -> 02:43.820",
+      "jp": "もっといいというか違う友達仲良くなりますね",
+      "jp_html": "もっといいというか<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby><ruby>仲良く<rt>なかよく</rt></ruby>なりますね",
+      "zh": "这就能交到更好的朋友吧",
+      "en": "It seems you'll make even better or different friends."
+    },
+    {
+      "id": 51,
+      "start": 163.82,
+      "end": 166.66,
+      "ts": "02:43.820 -> 02:46.660",
+      "jp": "もっと違う友達と仲良くなる",
+      "jp_html": "もっと<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>と<ruby>仲良く<rt>なかよく</rt></ruby>なる",
+      "zh": "和不同的朋友相处更好",
+      "en": "Make friends with different people."
+    },
+    {
+      "id": 52,
+      "start": 166.66,
+      "end": 173.22,
+      "ts": "02:46.660 -> 02:53.220",
+      "jp": "高校生になると中学校の時と違う友達と仲良くなる",
+      "jp_html": "<ruby>高校生<rt>こうこうせい</rt></ruby>になると<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>と<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>と<ruby>仲良く<rt>なかよく</rt></ruby>なる",
+      "zh": "高中生后会和初中时不一样的朋友交往",
+      "en": "High school students often make friends with different friends than they had in middle school."
+    },
+    {
+      "id": 53,
+      "start": 173.22,
+      "end": 176.88,
+      "ts": "02:53.220 -> 02:56.880",
+      "jp": "大学に入ると大学は東京だったので",
+      "jp_html": "<ruby>大学<rt>だいがく</rt></ruby>に<ruby>入る<rt>いる</rt></ruby>と<ruby>大学<rt>だいがく</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>だったので",
+      "zh": "上了大学后，大学在东京所以",
+      "en": "I entered university and it was in Tokyo so"
+    },
+    {
+      "id": 54,
+      "start": 176.88,
+      "end": 181.58,
+      "ts": "02:56.880 -> 03:01.580",
+      "jp": "また違う友達ができます",
+      "jp_html": "また<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>ができます",
+      "zh": "就可以交到不同的朋友",
+      "en": "I can make different friends."
+    },
+    {
+      "id": 55,
+      "start": 181.58,
+      "end": 187.84,
+      "ts": "03:01.580 -> 03:07.840",
+      "jp": "大学生が終わってその後また違う友達ができます",
+      "jp_html": "<ruby>大学生<rt>だいがくせい</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ってその<ruby>後<rt>のち</rt></ruby>また<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>ができます",
+      "zh": "大学毕业后还可以交到不同的朋友",
+      "en": "After college ends, I can make different friends afterwards."
+    },
+    {
+      "id": 56,
+      "start": 187.84,
+      "end": 190.64,
+      "ts": "03:07.840 -> 03:10.640",
+      "jp": "僕がレンタルビデオ屋で働いていた時",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がレンタルビデオ<ruby>屋<rt>や</rt></ruby>で<ruby>働い<rt>はたらい</rt></ruby>ていた<ruby>時<rt>とき</rt></ruby>",
+      "zh": "我曾在租视频店工作的时候",
+      "en": "When I worked at a video rental store"
+    },
+    {
+      "id": 57,
+      "start": 191.02,
+      "end": 194.6,
+      "ts": "03:11.020 -> 03:14.600",
+      "jp": "そしてその後僕はロンドンに行ってまた違う友達ができます",
+      "jp_html": "そしてその<ruby>後<rt>のち</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby>ロンドンに<ruby>行って<rt>いって</rt></ruby>また<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>ができます",
+      "zh": "然后我去了伦敦，又能结识新的朋友",
+      "en": "And then after that, I go to London and make different friends."
+    },
+    {
+      "id": 58,
+      "start": 194.6,
+      "end": 199.06,
+      "ts": "03:14.600 -> 03:19.060",
+      "jp": "そしてロンドンから戻ってきてまた違う友達ができます",
+      "jp_html": "そしてロンドンから<ruby>戻っ<rt>もどっ</rt></ruby>てきてまた<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>ができます",
+      "zh": "然后从伦敦回来可以结识不同的朋友",
+      "en": "And when I come back from London, I can make different friends."
+    },
+    {
+      "id": 59,
+      "start": 199.06,
+      "end": 203.86,
+      "ts": "03:19.060 -> 03:23.860",
+      "jp": "そしてそこからスペインに行ってまた",
+      "jp_html": "そしてそこからスペインに<ruby>行って<rt>いって</rt></ruby>また",
+      "zh": "然后从那里去西班牙再",
+      "en": "And then I went to Spain and again..."
+    },
+    {
+      "id": 60,
+      "start": 203.86,
+      "end": 209.3,
+      "ts": "03:23.860 -> 03:29.300",
+      "jp": "スペインの時は友達みたいな人はあんまりいなかったけど",
+      "jp_html": "スペインの<ruby>時<rt>とき</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>みたいな<ruby>人<rt>にん</rt></ruby>はあんまりいなかったけど",
+      "zh": "在西班牙的时候几乎没有朋友那样的人",
+      "en": "When I was in Spain, there weren't really many friends like that."
+    },
+    {
+      "id": 61,
+      "start": 209.3,
+      "end": 211.6,
+      "ts": "03:29.300 -> 03:31.600",
+      "jp": "少し友達ができます",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>ができます",
+      "zh": "能交到一些朋友",
+      "en": "I can make some friends."
+    },
+    {
+      "id": 62,
+      "start": 211.6,
+      "end": 217.5,
+      "ts": "03:31.600 -> 03:37.500",
+      "jp": "スペインからまた日本に東京に戻ってきて",
+      "jp_html": "スペインからまた<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>戻っ<rt>もどっ</rt></ruby>てきて",
+      "zh": "从西班牙又回到日本东京",
+      "en": "From Spain back to Tokyo in Japan again"
+    },
+    {
+      "id": 63,
+      "start": 217.5,
+      "end": 223.2,
+      "ts": "03:37.500 -> 03:43.200",
+      "jp": "またそれはほとんど新しい友達はそれからできてないですね",
+      "jp_html": "またそれはほとんど<ruby>新しい<rt>あたらしい</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>はそれからできてないですね",
+      "zh": "这几乎意味着他们不再交新朋友了",
+      "en": "It's almost that you haven't made any new friends, right?"
+    },
+    {
+      "id": 64,
+      "start": 223.2,
+      "end": 226.72,
+      "ts": "03:43.200 -> 03:46.720",
+      "jp": "友谷は大学の時の友達だからね",
+      "jp_html": "<ruby>友<rt>とも</rt></ruby><ruby>谷<rt>たに</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>だからね",
+      "zh": "友谷是我大学时候的朋友。",
+      "en": "Yosha is a friend from college, you know?"
+    },
+    {
+      "id": 65,
+      "start": 226.72,
+      "end": 231.28,
+      "ts": "03:46.720 -> 03:51.280",
+      "jp": "というわけでフェーズが変わると",
+      "jp_html": "というわけでフェーズが<ruby>変わ<rt>かわ</rt></ruby>ると",
+      "zh": "因此阶段改变后",
+      "en": "Thus, when the phase changes,"
+    },
+    {
+      "id": 66,
+      "start": 231.28,
+      "end": 235.9,
+      "ts": "03:51.280 -> 03:55.900",
+      "jp": "違う友達ができるっていうのが僕のパターンですね",
+      "jp_html": "<ruby>違う<rt>ちがう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>ができるっていうのが<ruby>僕<rt>ぼく</rt></ruby>のパターンですね",
+      "zh": "这是我pattern，就是交到新的朋友。",
+      "en": "Making new friends is my pattern, I suppose."
+    },
+    {
+      "id": 67,
+      "start": 235.9,
+      "end": 239.0,
+      "ts": "03:55.900 -> 03:59.000",
+      "jp": "ずっと同じ友達っていうのは",
+      "jp_html": "ずっと<ruby>同じ<rt>おなじ</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>っていうのは",
+      "zh": "一直都有同一个朋友",
+      "en": "To be friends forever"
+    },
+    {
+      "id": 68,
+      "start": 239.0,
+      "end": 243.28,
+      "ts": "03:59.000 -> 04:03.280",
+      "jp": "ほとんどいません",
+      "jp_html": "ほとんどいません",
+      "zh": "几乎没有",
+      "en": "Almost none"
+    },
+    {
+      "id": 69,
+      "start": 243.28,
+      "end": 244.94,
+      "ts": "04:03.280 -> 04:04.940",
+      "jp": "例えばですよ",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ですよ",
+      "zh": "比如吧",
+      "en": "For example,"
+    },
+    {
+      "id": 70,
+      "start": 244.94,
+      "end": 248.12,
+      "ts": "04:04.940 -> 04:08.120",
+      "jp": "僕の中学校の時",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>中学校<rt>ちゅうがっこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "我初中的时候",
+      "en": "When I was in middle school"
+    },
+    {
+      "id": 71,
+      "start": 248.12,
+      "end": 250.12,
+      "ts": "04:08.120 -> 04:10.120",
+      "jp": "同じ中学校に行った友達",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>中学校<rt>ちゅうがっこう</rt></ruby>に<ruby>行った<rt>いった</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>",
+      "zh": "同一个中学的朋友",
+      "en": "A friend who went to the same junior high school"
+    },
+    {
+      "id": 72,
+      "start": 250.12,
+      "end": 251.0,
+      "ts": "04:10.120 -> 04:11.000",
+      "jp": "サトシ君",
+      "jp_html": "サトシ<ruby>君<rt>くん</rt></ruby>",
+      "zh": "Satoshi君",
+      "en": "Satoshi-kun"
+    },
+    {
+      "id": 73,
+      "start": 251.0,
+      "end": 257.7,
+      "ts": "04:11.000 -> 04:17.700",
+      "jp": "今でも夏休みに大分に帰ると",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>でも<ruby>夏休み<rt>なつやすみ</rt></ruby>に<ruby>大分<rt>おおいた</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>と",
+      "zh": "现在每年暑假回大分都是如此",
+      "en": "Now, during summer vacation, I still go back to Kumamoto."
+    },
+    {
+      "id": 74,
+      "start": 257.7,
+      "end": 259.3,
+      "ts": "04:17.700 -> 04:19.300",
+      "jp": "里志くんと会います",
+      "jp_html": "<ruby>里志<rt>さとし</rt></ruby>くんと<ruby>会い<rt>あい</rt></ruby>ます",
+      "zh": "我见到了里志君",
+      "en": "I meet Rizun kun."
+    },
+    {
+      "id": 75,
+      "start": 259.3,
+      "end": 264.64,
+      "ts": "04:19.300 -> 04:24.640",
+      "jp": "だからもちろんそれは中学校からの友達なので",
+      "jp_html": "だからもちろんそれは<ruby>中学校<rt>ちゅうがっこう</rt></ruby>からの<ruby>友達<rt>ともだち</rt></ruby>なので",
+      "zh": "所以当然那是中学时的朋友",
+      "en": "So of course it's a friend from junior high school."
+    },
+    {
+      "id": 76,
+      "start": 264.64,
+      "end": 268.76,
+      "ts": "04:24.640 -> 04:28.760",
+      "jp": "30年ぐらい知ってる友達でしょ",
+      "jp_html": "30<ruby>年<rt>ねん</rt></ruby>ぐらい<ruby>知って<rt>しって</rt></ruby>る<ruby>友達<rt>ともだち</rt></ruby>でしょ",
+      "zh": "已经认识了三十多年的朋友吧",
+      "en": "I have known this friend for about 30 years, right?"
+    },
+    {
+      "id": 77,
+      "start": 268.76,
+      "end": 275.22,
+      "ts": "04:28.760 -> 04:35.220",
+      "jp": "だけど里志くんが今遠くに住んでるし",
+      "jp_html": "だけど<ruby>里志<rt>さとし</rt></ruby>くんが<ruby>今<rt>いま</rt></ruby><ruby>遠く<rt>とおく</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でるし",
+      "zh": "但是里志君现在住在远方",
+      "en": "But Rizuki is living far away now."
+    },
+    {
+      "id": 78,
+      "start": 275.22,
+      "end": 278.36,
+      "ts": "04:35.220 -> 04:38.360",
+      "jp": "例えば会うことは",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>会う<rt>あう</rt></ruby>ことは",
+      "zh": "例如见面是",
+      "en": "For example, meeting is"
+    },
+    {
+      "id": 79,
+      "start": 278.36,
+      "end": 280.22,
+      "ts": "04:38.360 -> 04:40.220",
+      "jp": "会うことは1年に",
+      "jp_html": "<ruby>会う<rt>あう</rt></ruby>ことは1<ruby>年<rt>ねん</rt></ruby>に",
+      "zh": "一年中会うことは",
+      "en": "Meeting each other once a year."
+    },
+    {
+      "id": 80,
+      "start": 280.22,
+      "end": 281.46,
+      "ts": "04:40.220 -> 04:41.460",
+      "jp": "何回?",
+      "jp_html": "<ruby>何回<rt>なんかい</rt></ruby>?",
+      "zh": "多少次？",
+      "en": "How many times?"
+    },
+    {
+      "id": 81,
+      "start": 281.82,
+      "end": 284.52,
+      "ts": "04:41.820 -> 04:44.520",
+      "jp": "1年に4回とか5回とか",
+      "jp_html": "1<ruby>年<rt>ねん</rt></ruby>に4<ruby>回と<rt>まわと</rt></ruby>か5<ruby>回と<rt>まわと</rt></ruby>か",
+      "zh": "一年四次或五次",
+      "en": "1 year four times or five times"
+    },
+    {
+      "id": 82,
+      "start": 284.52,
+      "end": 287.12,
+      "ts": "04:44.520 -> 04:47.120",
+      "jp": "夏休みの間だけ",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>間<rt>かん</rt></ruby>だけ",
+      "zh": "暑假期间",
+      "en": "Only during summer vacation"
+    },
+    {
+      "id": 83,
+      "start": 287.12,
+      "end": 288.02,
+      "ts": "04:47.120 -> 04:48.020",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 84,
+      "start": 288.02,
+      "end": 293.62,
+      "ts": "04:48.020 -> 04:53.620",
+      "jp": "電話とかもほとんどしませんね",
+      "jp_html": "<ruby>電話<rt>でんわ</rt></ruby>とかもほとんどしませんね",
+      "zh": "几乎不打电话呢",
+      "en": "They hardly ever make phone calls, either."
+    },
+    {
+      "id": 85,
+      "start": 293.62,
+      "end": 294.0,
+      "ts": "04:53.620 -> 04:54.000",
+      "jp": "だから",
+      "jp_html": "だから",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 86,
+      "start": 294.0,
+      "end": 295.74,
+      "ts": "04:54.000 -> 04:55.740",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 87,
+      "start": 295.74,
+      "end": 298.94,
+      "ts": "04:55.740 -> 04:58.940",
+      "jp": "いい友達だけど",
+      "jp_html": "いい<ruby>友達<rt>ともだち</rt></ruby>だけど",
+      "zh": "是个不错的朋友但",
+      "en": "He's a good friend but"
+    },
+    {
+      "id": 88,
+      "start": 298.94,
+      "end": 299.44,
+      "ts": "04:58.940 -> 04:59.440",
+      "jp": "今",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>",
+      "zh": "现在",
+      "en": "Now"
+    },
+    {
+      "id": 89,
+      "start": 299.44,
+      "end": 302.7,
+      "ts": "04:59.440 -> 05:02.700",
+      "jp": "毎週会うような友達はない",
+      "jp_html": "<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>会う<rt>あう</rt></ruby>ような<ruby>友達<rt>ともだち</rt></ruby>はない",
+      "zh": "每周都不见面的朋友没有",
+      "en": "I don't have any friends I see every week."
+    },
+    {
+      "id": 90,
+      "start": 302.7,
+      "end": 310.72,
+      "ts": "05:02.700 -> 05:10.720",
+      "jp": "さらに言えば僕が今毎週会う友達は欲しくないですね",
+      "jp_html": "さらに<ruby>言え<rt>いえ</rt></ruby>ば<ruby>僕<rt>ぼく</rt></ruby>が<ruby>今<rt>いま</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby><ruby>会う<rt>あう</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>は<ruby>欲し<rt>ほっし</rt></ruby>くないですね",
+      "zh": "而且说实在的，我现在每周都要见的朋友也不想要。",
+      "en": "To be honest, I don't want to meet my friends every week."
+    },
+    {
+      "id": 91,
+      "start": 310.72,
+      "end": 316.93,
+      "ts": "05:10.720 -> 05:16.930",
+      "jp": "1週間に1回はちょっと多すぎるかな",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>はちょっと<ruby>多す<rt>おおす</rt></ruby>ぎるかな",
+      "zh": "一周一次稍微有点多吧",
+      "en": "It's a bit too much if you do it once a week."
+    },
+    {
+      "id": 92,
+      "start": 316.93,
+      "end": 322.55,
+      "ts": "05:16.930 -> 05:22.550",
+      "jp": "まあなんか忙しいし",
+      "jp_html": "まあなんか<ruby>忙しい<rt>いそがしい</rt></ruby>し",
+      "zh": "嗯，有点忙呢",
+      "en": "Well, I'm kind of busy anyway."
+    },
+    {
+      "id": 93,
+      "start": 322.55,
+      "end": 327.63,
+      "ts": "05:22.550 -> 05:27.630",
+      "jp": "でも忙しいという理由だけではなくて",
+      "jp_html": "でも<ruby>忙しい<rt>いそがしい</rt></ruby>という<ruby>理由<rt>りゆう</rt></ruby>だけではなくて",
+      "zh": "但不仅仅是因为忙碌",
+      "en": "But not just because they are busy"
+    },
+    {
+      "id": 94,
+      "start": 329.21,
+      "end": 334.01,
+      "ts": "05:29.210 -> 05:34.010",
+      "jp": "なんかやっぱり一人の時間とかも欲しいし",
+      "jp_html": "なんかやっぱり<ruby>一人<rt>ひとり</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>とかも<ruby>欲しい<rt>ほしい</rt></ruby>し",
+      "zh": "果然，我也想要一些独处的时间。",
+      "en": "I really do want some alone time too."
+    },
+    {
+      "id": 95,
+      "start": 334.01,
+      "end": 336.35,
+      "ts": "05:34.010 -> 05:36.350",
+      "jp": "家族の時間も欲しいし",
+      "jp_html": "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>も<ruby>欲しい<rt>ほしい</rt></ruby>し",
+      "zh": "也想要和家人在一起的时间",
+      "en": "I also want time for my family."
+    },
+    {
+      "id": 96,
+      "start": 336.35,
+      "end": 338.99,
+      "ts": "05:36.350 -> 05:38.990",
+      "jp": "そう考えると",
+      "jp_html": "そう<ruby>考え<rt>かんがえ</rt></ruby>ると",
+      "zh": "这样思考的话",
+      "en": "Thinking about it that way,..."
+    },
+    {
+      "id": 97,
+      "start": 338.99,
+      "end": 342.21,
+      "ts": "05:38.990 -> 05:42.210",
+      "jp": "1ヶ月に1回ぐらいで十分ですね",
+      "jp_html": "1ヶ<ruby>月<rt>がつ</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>ぐらいで<ruby>十分<rt>じゅうぶん</rt></ruby>ですね",
+      "zh": "一个月一次就够了。",
+      "en": "About once a month is sufficient."
+    },
+    {
+      "id": 98,
+      "start": 342.21,
+      "end": 346.71,
+      "ts": "05:42.210 -> 05:46.710",
+      "jp": "僕は友やに1ヶ月に1回会うんですけど",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>友<rt>とも</rt></ruby>やに1ヶ<ruby>月<rt>がつ</rt></ruby>に1<ruby>回<rt>かい</rt></ruby><ruby>会う<rt>あう</rt></ruby>んですけど",
+      "zh": "我一个月见一次朋友。",
+      "en": "I meet with my friends once a month but."
+    },
+    {
+      "id": 99,
+      "start": 346.71,
+      "end": 348.69,
+      "ts": "05:46.710 -> 05:48.690",
+      "jp": "それで結構十分です",
+      "jp_html": "それで<ruby>結構<rt>けっこう</rt></ruby><ruby>十分<rt>じゅうぶん</rt></ruby>です",
+      "zh": "这样就足够了",
+      "en": "That's quite sufficient."
+    },
+    {
+      "id": 100,
+      "start": 348.69,
+      "end": 354.66,
+      "ts": "05:48.690 -> 05:54.660",
+      "jp": "なのでちょっと変わりますね",
+      "jp_html": "なのでちょっと<ruby>変わり<rt>かわり</rt></ruby>ますね",
+      "zh": "所以稍微有点不一样呢",
+      "en": "So it changes a little bit, doesn't it?"
+    },
+    {
+      "id": 101,
+      "start": 354.66,
+      "end": 358.8,
+      "ts": "05:54.660 -> 05:58.800",
+      "jp": "子供の時はやっぱり友達がいた方がいいと思う",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はやっぱり<ruby>友達<rt>ともだち</rt></ruby>がいた<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得孩子时候有朋友比较好",
+      "en": "I think it's better to have friends when you're a child."
+    },
+    {
+      "id": 102,
+      "start": 358.8,
+      "end": 362.7,
+      "ts": "05:58.800 -> 06:02.700",
+      "jp": "若い時もやっぱり友達がいると",
+      "jp_html": "<ruby>若い<rt>わかい</rt></ruby><ruby>時<rt>とき</rt></ruby>もやっぱり<ruby>友達<rt>ともだち</rt></ruby>がいると",
+      "zh": "年轻的时候也一样会有朋友",
+      "en": "Even back in my younger days, having friends was great."
+    },
+    {
+      "id": 103,
+      "start": 362.7,
+      "end": 365.3,
+      "ts": "06:02.700 -> 06:05.300",
+      "jp": "いろいろこう助けたりね",
+      "jp_html": "いろいろこう<ruby>助け<rt>たすけ</rt></ruby>たりね",
+      "zh": "各种各样的帮助呢",
+      "en": "We helped each other out, you know."
+    },
+    {
+      "id": 104,
+      "start": 365.3,
+      "end": 366.48,
+      "ts": "06:05.300 -> 06:06.480",
+      "jp": "助け合ったり",
+      "jp_html": "<ruby>助け<rt>たすけ</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>たり",
+      "zh": "互相帮助",
+      "en": "Helping each other"
+    },
+    {
+      "id": 105,
+      "start": 366.48,
+      "end": 368.28,
+      "ts": "06:06.480 -> 06:08.280",
+      "jp": "例えば大学生の時",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "例如在大学的时候",
+      "en": "For example, in college"
+    },
+    {
+      "id": 106,
+      "start": 368.28,
+      "end": 371.22,
+      "ts": "06:08.280 -> 06:11.220",
+      "jp": "僕は一人暮らしをしてました",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>をしてました",
+      "zh": "我一个人住。",
+      "en": "I was living alone."
+    },
+    {
+      "id": 107,
+      "start": 371.22,
+      "end": 372.42,
+      "ts": "06:11.220 -> 06:12.420",
+      "jp": "一人で住んでいた",
+      "jp_html": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>住ん<rt>すん</rt></ruby>でいた",
+      "zh": "独自居住",
+      "en": "Lived alone."
+    },
+    {
+      "id": 108,
+      "start": 372.42,
+      "end": 374.86,
+      "ts": "06:12.420 -> 06:14.860",
+      "jp": "友達も一人暮らしをしてた",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>も<ruby>一人暮らし<rt>ひとりぐらし</rt></ruby>をしてた",
+      "zh": "朋友也一个人住",
+      "en": "My friend was also living alone."
+    },
+    {
+      "id": 109,
+      "start": 374.86,
+      "end": 376.96,
+      "ts": "06:14.860 -> 06:16.960",
+      "jp": "やっぱり一緒にね",
+      "jp_html": "やっぱり<ruby>一緒に<rt>いっしょに</rt></ruby>ね",
+      "zh": "果然一起吧",
+      "en": "Still together, right?"
+    },
+    {
+      "id": 110,
+      "start": 376.96,
+      "end": 378.9,
+      "ts": "06:16.960 -> 06:18.900",
+      "jp": "料理をして食べたりとか",
+      "jp_html": "<ruby>料理<rt>りょうり</rt></ruby>をして<ruby>食べた<rt>たべた</rt></ruby>りとか",
+      "zh": "做饭了然后吃掉",
+      "en": "Cooking and eating or something like that"
+    },
+    {
+      "id": 111,
+      "start": 378.9,
+      "end": 381.36,
+      "ts": "06:18.900 -> 06:21.360",
+      "jp": "あとは買い物に行って",
+      "jp_html": "あとは<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "然后去购物",
+      "en": "The next thing is to go shopping."
+    },
+    {
+      "id": 112,
+      "start": 381.36,
+      "end": 384.16,
+      "ts": "06:21.360 -> 06:24.160",
+      "jp": "手伝ったりとか",
+      "jp_html": "<ruby>手伝っ<rt>てつだっ</rt></ruby>たりとか",
+      "zh": "帮忙或者之类的",
+      "en": "Help out or something like that"
+    },
+    {
+      "id": 113,
+      "start": 384.16,
+      "end": 386.38,
+      "ts": "06:24.160 -> 06:26.380",
+      "jp": "例えばカーテンを買ったり",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>カーテンを<ruby>買っ<rt>かっ</rt></ruby>たり",
+      "zh": "比如买窗帘",
+      "en": "For example, buying curtains"
+    },
+    {
+      "id": 114,
+      "start": 386.38,
+      "end": 387.64,
+      "ts": "06:26.380 -> 06:27.640",
+      "jp": "テーブルを買ったり",
+      "jp_html": "テーブルを<ruby>買っ<rt>かっ</rt></ruby>たり",
+      "zh": "买桌子",
+      "en": "Buy a table"
+    },
+    {
+      "id": 115,
+      "start": 387.64,
+      "end": 388.84,
+      "ts": "06:27.640 -> 06:28.840",
+      "jp": "椅子を買ったりして",
+      "jp_html": "<ruby>椅子<rt>いす</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>たりして",
+      "zh": "买了椅子",
+      "en": "I bought a chair or something like that."
+    },
+    {
+      "id": 116,
+      "start": 388.84,
+      "end": 390.9,
+      "ts": "06:28.840 -> 06:30.900",
+      "jp": "一緒に買いに行って",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>買い<rt>かい</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "一起去买吧",
+      "en": "Go shopping together"
+    },
+    {
+      "id": 117,
+      "start": 390.9,
+      "end": 392.32,
+      "ts": "06:30.900 -> 06:32.320",
+      "jp": "手伝ったりね",
+      "jp_html": "<ruby>手伝っ<rt>てつだっ</rt></ruby>たりね",
+      "zh": "帮忙呢",
+      "en": "Helped out, you know?"
+    },
+    {
+      "id": 118,
+      "start": 392.32,
+      "end": 393.72,
+      "ts": "06:32.320 -> 06:33.720",
+      "jp": "運んだり",
+      "jp_html": "<ruby>運ん<rt>はこん</rt></ruby>だり",
+      "zh": "运送或搬运",
+      "en": "to carry"
+    },
+    {
+      "id": 119,
+      "start": 393.72,
+      "end": 395.02,
+      "ts": "06:33.720 -> 06:35.020",
+      "jp": "持って",
+      "jp_html": "<ruby>持っ<rt>もっ</rt></ruby>て",
+      "zh": "拿着",
+      "en": "holding"
+    },
+    {
+      "id": 120,
+      "start": 395.02,
+      "end": 397.22,
+      "ts": "06:35.020 -> 06:37.220",
+      "jp": "あとは引っ越しとかですね",
+      "jp_html": "あとは<ruby>引っ越し<rt>ひっこし</rt></ruby>とかですね",
+      "zh": "剩下的就是搬家之类的事情了",
+      "en": "After that, moving house or something like that."
+    },
+    {
+      "id": 121,
+      "start": 397.22,
+      "end": 399.38,
+      "ts": "06:37.220 -> 06:39.380",
+      "jp": "引っ越しをするときに",
+      "jp_html": "<ruby>引っ越し<rt>ひっこし</rt></ruby>をするときに",
+      "zh": "搬家的时候",
+      "en": "When moving house"
+    },
+    {
+      "id": 122,
+      "start": 399.38,
+      "end": 400.86,
+      "ts": "06:39.380 -> 06:40.860",
+      "jp": "まず家を探す",
+      "jp_html": "まず<ruby>家<rt>いえ</rt></ruby>を<ruby>探す<rt>さがす</rt></ruby>",
+      "zh": "首先找房子",
+      "en": "First, find a house."
+    },
+    {
+      "id": 123,
+      "start": 400.86,
+      "end": 402.84,
+      "ts": "06:40.860 -> 06:42.840",
+      "jp": "新しい部屋を探すときに",
+      "jp_html": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>部屋<rt>へや</rt></ruby>を<ruby>探す<rt>さがす</rt></ruby>ときに",
+      "zh": "在找新房间的时候",
+      "en": "When looking for a new room to rent"
+    },
+    {
+      "id": 124,
+      "start": 402.84,
+      "end": 404.28,
+      "ts": "06:42.840 -> 06:44.280",
+      "jp": "一緒に見に行ったり",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>見に行っ<rt>みにいっ</rt></ruby>たり",
+      "zh": "一起去看看或者一起去看",
+      "en": "Go see together or watch together"
+    },
+    {
+      "id": 125,
+      "start": 404.28,
+      "end": 407.98,
+      "ts": "06:44.280 -> 06:47.980",
+      "jp": "一緒に買い物に行ったり",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>り",
+      "zh": "一起去购物",
+      "en": "Going shopping together"
+    },
+    {
+      "id": 126,
+      "start": 407.98,
+      "end": 410.54,
+      "ts": "06:47.980 -> 06:50.540",
+      "jp": "一緒に引っ越しを手伝ったり",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>引っ越し<rt>ひっこし</rt></ruby>を<ruby>手伝っ<rt>てつだっ</rt></ruby>たり",
+      "zh": "一起帮忙搬家",
+      "en": "Helping with the move together"
+    },
+    {
+      "id": 127,
+      "start": 410.54,
+      "end": 412.66,
+      "ts": "06:50.540 -> 06:52.660",
+      "jp": "一緒に宿題したり",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>宿題<rt>しゅくだい</rt></ruby>したり",
+      "zh": "一起做作业",
+      "en": "Do homework together"
+    },
+    {
+      "id": 128,
+      "start": 412.66,
+      "end": 415.0,
+      "ts": "06:52.660 -> 06:55.000",
+      "jp": "大学の宿題を一緒にやったり",
+      "jp_html": "<ruby>大学<rt>だいがく</rt></ruby>の<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>一緒に<rt>いっしょに</rt></ruby>やったり",
+      "zh": "一起做大学的家庭作业或作业",
+      "en": "We do homework together at the university."
+    },
+    {
+      "id": 129,
+      "start": 415.0,
+      "end": 416.78,
+      "ts": "06:55.000 -> 06:56.780",
+      "jp": "助け合ったんですよね",
+      "jp_html": "<ruby>助け<rt>たすけ</rt></ruby><ruby>合っ<rt>あっ</rt></ruby>たんですよね",
+      "zh": "互相帮助的吧",
+      "en": "We helped each other, didn't we?"
+    },
+    {
+      "id": 130,
+      "start": 417.98,
+      "end": 419.14,
+      "ts": "06:57.980 -> 06:59.140",
+      "jp": "今ですけど",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>ですけど",
+      "zh": "现在呢",
+      "en": "Now is the time."
+    },
+    {
+      "id": 131,
+      "start": 419.14,
+      "end": 421.66,
+      "ts": "06:59.140 -> 07:01.660",
+      "jp": "今僕は助けはいらないですね",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>助け<rt>たすけ</rt></ruby>はいらないですね",
+      "zh": "现在我不需要帮助呢",
+      "en": "I don't need help now."
+    },
+    {
+      "id": 132,
+      "start": 421.66,
+      "end": 424.7,
+      "ts": "07:01.660 -> 07:04.700",
+      "jp": "ほとんど全部自分でできるので",
+      "jp_html": "ほとんど<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>でできるので",
+      "zh": "几乎全部都能自己做",
+      "en": "I can do almost everything by myself."
+    },
+    {
+      "id": 133,
+      "start": 424.7,
+      "end": 427.7,
+      "ts": "07:04.700 -> 07:07.700",
+      "jp": "友達に助けてとか",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>助け<rt>たすけ</rt></ruby>てとか",
+      "zh": "朋友帮忙啦",
+      "en": "I asked my friend for help."
+    },
+    {
+      "id": 134,
+      "start": 427.7,
+      "end": 431.02,
+      "ts": "07:07.700 -> 07:11.020",
+      "jp": "そういうことはないですね",
+      "jp_html": "そういうことはないですね",
+      "zh": "这种事情不会发生的吧",
+      "en": "Such things don't happen, right?"
+    },
+    {
+      "id": 135,
+      "start": 431.02,
+      "end": 434.54,
+      "ts": "07:11.020 -> 07:14.540",
+      "jp": "あとはいろいろな悩みとかね",
+      "jp_html": "あとはいろいろな<ruby>悩み<rt>なやみ</rt></ruby>とかね",
+      "zh": "剩下的就是各种各样的烦恼了",
+      "en": "After that, there were various worries and such."
+    },
+    {
+      "id": 136,
+      "start": 434.54,
+      "end": 436.1,
+      "ts": "07:14.540 -> 07:16.100",
+      "jp": "例えば若い時",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>若い<rt>わかい</rt></ruby><ruby>時<rt>とき</rt></ruby>",
+      "zh": "例如年轻时",
+      "en": "For example, when young."
+    },
+    {
+      "id": 137,
+      "start": 436.1,
+      "end": 439.48,
+      "ts": "07:16.100 -> 07:19.480",
+      "jp": "若い時は新しい彼女ができた",
+      "jp_html": "<ruby>若い<rt>わかい</rt></ruby><ruby>時<rt>とき</rt></ruby>は<ruby>新しい<rt>あたらしい</rt></ruby><ruby>彼女<rt>かのじょ</rt></ruby>ができた",
+      "zh": "年轻时有了新的女朋友",
+      "en": "When I was young, I got a new girlfriend."
+    },
+    {
+      "id": 138,
+      "start": 439.48,
+      "end": 441.72,
+      "ts": "07:19.480 -> 07:21.720",
+      "jp": "彼女とちょっと問題がある",
+      "jp_html": "<ruby>彼女<rt>かのじょ</rt></ruby>とちょっと<ruby>問題<rt>もんだい</rt></ruby>がある",
+      "zh": "她和我有点问题",
+      "en": "There's a little problem with her."
+    },
+    {
+      "id": 139,
+      "start": 441.72,
+      "end": 443.18,
+      "ts": "07:21.720 -> 07:23.180",
+      "jp": "喧嘩をしてしまった",
+      "jp_html": "<ruby>喧嘩<rt>けんか</rt></ruby>をしてしまった",
+      "zh": "吵了一架",
+      "en": "We ended up arguing."
+    },
+    {
+      "id": 140,
+      "start": 443.18,
+      "end": 447.78,
+      "ts": "07:23.180 -> 07:27.780",
+      "jp": "そうすると友達にそれを相談したり",
+      "jp_html": "そうすると<ruby>友達<rt>ともだち</rt></ruby>にそれを<ruby>相談<rt>そうだん</rt></ruby>したり",
+      "zh": "那么就可以和朋友商量一下这件事",
+      "en": "Then I would consult my friends about it."
+    },
+    {
+      "id": 141,
+      "start": 447.78,
+      "end": 451.78,
+      "ts": "07:27.780 -> 07:31.780",
+      "jp": "彼女と喧嘩しちゃったけどどうすればいいかな",
+      "jp_html": "<ruby>彼女<rt>かのじょ</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>しちゃったけどどうすればいいかな",
+      "zh": "和她吵架了，该怎么办呢",
+      "en": "I got into an argument with her, I wonder how I should handle it."
+    },
+    {
+      "id": 142,
+      "start": 451.78,
+      "end": 456.1,
+      "ts": "07:31.780 -> 07:36.100",
+      "jp": "今はそういうことはないですね",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>はそういうことはないですね",
+      "zh": "现在没有那种事情了。",
+      "en": "Now such things do not happen, I suppose."
+    },
+    {
+      "id": 143,
+      "start": 456.1,
+      "end": 458.1,
+      "ts": "07:36.100 -> 07:38.100",
+      "jp": "喧嘩はありますよ",
+      "jp_html": "<ruby>喧嘩<rt>けんか</rt></ruby>はありますよ",
+      "zh": "确实有吵架。",
+      "en": "There are arguments."
+    },
+    {
+      "id": 144,
+      "start": 458.1,
+      "end": 460.66,
+      "ts": "07:38.100 -> 07:40.660",
+      "jp": "例えば僕が奥さんと喧嘩をして",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>が<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>をして",
+      "zh": "比如我和老婆吵架了",
+      "en": "For example, if I argue with my wife."
+    },
+    {
+      "id": 145,
+      "start": 460.66,
+      "end": 463.94,
+      "ts": "07:40.660 -> 07:43.940",
+      "jp": "でもそれを解決するために",
+      "jp_html": "でもそれを<ruby>解決<rt>かいけつ</rt></ruby>するために",
+      "zh": "但是为了解决这个问题",
+      "en": "But to solve that,"
+    },
+    {
+      "id": 146,
+      "start": 463.94,
+      "end": 467.18,
+      "ts": "07:43.940 -> 07:47.180",
+      "jp": "奥さんと話せばいいですよね",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>話せ<rt>はなせ</rt></ruby>ばいいですよね",
+      "zh": "对吧，跟太太说就好了",
+      "en": "It's just that you need to talk to the lady, right?"
+    },
+    {
+      "id": 147,
+      "start": 467.18,
+      "end": 468.28,
+      "ts": "07:47.180 -> 07:48.280",
+      "jp": "奥さんと話します",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>ます",
+      "zh": "和夫人说话",
+      "en": "Talk to the lady."
+    },
+    {
+      "id": 148,
+      "start": 468.28,
+      "end": 470.66,
+      "ts": "07:48.280 -> 07:50.660",
+      "jp": "友達に相談しない",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しない",
+      "zh": "不向朋友咨询",
+      "en": "Don't consult friends"
+    },
+    {
+      "id": 149,
+      "start": 470.66,
+      "end": 472.8,
+      "ts": "07:50.660 -> 07:52.800",
+      "jp": "サトシ君とか",
+      "jp_html": "サトシ<ruby>君<rt>くん</rt></ruby>とか",
+      "zh": "Satoshi君或者",
+      "en": "Satoshi-kun or Satoshi-kun"
+    },
+    {
+      "id": 150,
+      "start": 472.8,
+      "end": 474.92,
+      "ts": "07:52.800 -> 07:54.920",
+      "jp": "友や聞いてよ",
+      "jp_html": "<ruby>友<rt>とも</rt></ruby>や<ruby>聞い<rt>きい</rt></ruby>てよ",
+      "zh": "去问问朋友吧",
+      "en": "Ask your friend."
+    },
+    {
+      "id": 151,
+      "start": 474.92,
+      "end": 477.88,
+      "ts": "07:54.920 -> 07:57.880",
+      "jp": "奥さんと喧嘩しちゃってさなんて言わない",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>しちゃってさなんて<ruby>言わ<rt>いわ</rt></ruby>ない",
+      "zh": "和老婆吵架了，我不说那种话",
+      "en": "I got into an argument with my wife, and I wouldn't say something like that."
+    },
+    {
+      "id": 152,
+      "start": 477.88,
+      "end": 483.32,
+      "ts": "07:57.880 -> 08:03.320",
+      "jp": "自分で考えて奥さんと話して解決する",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考え<rt>かんがえ</rt></ruby>て<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>て<ruby>解決<rt>かいけつ</rt></ruby>する",
+      "zh": "自己思考并与夫人沟通解决",
+      "en": "Think for yourself and talk to your wife to solve it."
+    },
+    {
+      "id": 153,
+      "start": 483.32,
+      "end": 488.14,
+      "ts": "08:03.320 -> 08:08.140",
+      "jp": "だからやっぱりちょっとフェーズが変わったかもしれない",
+      "jp_html": "だからやっぱりちょっとフェーズが<ruby>変わ<rt>かわ</rt></ruby>ったかもしれない",
+      "zh": "所以 maybe 状态稍微变了点",
+      "en": "So maybe the phase has changed slightly."
+    },
+    {
+      "id": 154,
+      "start": 488.14,
+      "end": 491.18,
+      "ts": "08:08.140 -> 08:11.180",
+      "jp": "今の僕のフェーズは",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>の<ruby>僕<rt>ぼく</rt></ruby>のフェーズは",
+      "zh": "我现在的阶段是",
+      "en": "My current phase is"
+    },
+    {
+      "id": 155,
+      "start": 491.18,
+      "end": 494.58,
+      "ts": "08:11.180 -> 08:14.580",
+      "jp": "若い時とは違うんですね",
+      "jp_html": "<ruby>若い<rt>わかい</rt></ruby><ruby>時<rt>とき</rt></ruby>とは<ruby>違う<rt>ちがう</rt></ruby>んですね",
+      "zh": "和年轻的时候不一样呢",
+      "en": "It's different from when I was young, though."
+    },
+    {
+      "id": 156,
+      "start": 494.58,
+      "end": 500.22,
+      "ts": "08:14.580 -> 08:20.220",
+      "jp": "だから毎週とか毎日友達に会うっていう感じじゃなくて",
+      "jp_html": "だから<ruby>毎週<rt>まいしゅう</rt></ruby>とか<ruby>毎日<rt>まいにち</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>に<ruby>会う<rt>あう</rt></ruby>っていう<ruby>感じ<rt>かんじ</rt></ruby>じゃなくて",
+      "zh": "所以不是每周或每天都要和朋友见面那种感觉",
+      "en": "So it's not like meeting up with friends every week or every day."
+    },
+    {
+      "id": 157,
+      "start": 500.22,
+      "end": 502.46,
+      "ts": "08:20.220 -> 08:22.460",
+      "jp": "もっとたくさんの人いろいろな人",
+      "jp_html": "もっとたくさんの<ruby>人<rt>にん</rt></ruby>いろいろな<ruby>人<rt>にん</rt></ruby>",
+      "zh": "更多的人各种各样的人",
+      "en": "More people of various kinds"
+    },
+    {
+      "id": 158,
+      "start": 502.46,
+      "end": 503.96,
+      "ts": "08:22.460 -> 08:23.960",
+      "jp": "例えば生徒さんとか",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>生徒<rt>せいと</rt></ruby>さんとか",
+      "zh": "比如学生之类的",
+      "en": "For example, students."
+    },
+    {
+      "id": 159,
+      "start": 503.96,
+      "end": 508.9,
+      "ts": "08:23.960 -> 08:28.900",
+      "jp": "もっとたくさんの人と少しずつ話して",
+      "jp_html": "もっとたくさんの<ruby>人<rt>にん</rt></ruby>と<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>話し<rt>はなし</rt></ruby>て",
+      "zh": "和更多的人慢慢多交流一下",
+      "en": "Talk to more people little by little."
+    },
+    {
+      "id": 160,
+      "start": 508.9,
+      "end": 510.58,
+      "ts": "08:28.900 -> 08:30.580",
+      "jp": "いろいろ考えたい",
+      "jp_html": "いろいろ<ruby>考え<rt>かんがえ</rt></ruby>たい",
+      "zh": "想了很多事情",
+      "en": "I want to think about various things."
+    },
+    {
+      "id": 161,
+      "start": 510.58,
+      "end": 516.32,
+      "ts": "08:30.580 -> 08:36.320",
+      "jp": "一人の友達と全てを話すんじゃなくて",
+      "jp_html": "<ruby>一人<rt>ひとり</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>と<ruby>全て<rt>すべて</rt></ruby>を<ruby>話す<rt>はなす</rt></ruby>んじゃなくて",
+      "zh": "不是和一个朋友把一切都告诉了他",
+      "en": "I don't need to tell everything to one friend."
+    },
+    {
+      "id": 162,
+      "start": 516.32,
+      "end": 519.96,
+      "ts": "08:36.320 -> 08:39.960",
+      "jp": "たくさんの人たちといろいろな話をしたい",
+      "jp_html": "たくさんの<ruby>人<rt>にん</rt></ruby>たちといろいろな<ruby>話<rt>はなし</rt></ruby>をしたい",
+      "zh": "想要和很多人讲各种故事",
+      "en": "I want to talk to many people about various things."
+    },
+    {
+      "id": 163,
+      "start": 519.96,
+      "end": 522.72,
+      "ts": "08:39.960 -> 08:42.720",
+      "jp": "そういうフェーズかもしれません",
+      "jp_html": "そういうフェーズかもしれません",
+      "zh": "这可能是那个阶段",
+      "en": "It might be a phase like that."
+    },
+    {
+      "id": 164,
+      "start": 522.72,
+      "end": 528.62,
+      "ts": "08:42.720 -> 08:48.620",
+      "jp": "なので子供の時の友達とね",
+      "jp_html": "なので<ruby>子供<rt>こども</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>とね",
+      "zh": "所以小时候的朋友呢",
+      "en": "So that's why I'm with childhood friends now."
+    },
+    {
+      "id": 165,
+      "start": 528.62,
+      "end": 531.68,
+      "ts": "08:48.620 -> 08:51.680",
+      "jp": "大人の時の友達とちょっと違うと思います",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>とちょっと<ruby>違う<rt>ちがう</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得成年后的朋友和小时候的不一样",
+      "en": "I think friends from adulthood are a bit different."
+    },
+    {
+      "id": 166,
+      "start": 531.68,
+      "end": 533.74,
+      "ts": "08:51.680 -> 08:53.740",
+      "jp": "もちろん人によって",
+      "jp_html": "もちろん<ruby>人<rt>にん</rt></ruby>によって",
+      "zh": "当然因人而异",
+      "en": "Of course, it varies by person."
+    },
+    {
+      "id": 167,
+      "start": 533.74,
+      "end": 537.36,
+      "ts": "08:53.740 -> 08:57.360",
+      "jp": "いろいろな考え方があるので",
+      "jp_html": "いろいろな<ruby>考え方<rt>かんがえかた</rt></ruby>があるので",
+      "zh": "有不同的想法",
+      "en": "There are various ways of thinking about it."
+    },
+    {
+      "id": 168,
+      "start": 537.36,
+      "end": 539.54,
+      "ts": "08:57.360 -> 08:59.540",
+      "jp": "僕の考え方と",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>考え方<rt>かんがえかた</rt></ruby>と",
+      "zh": "我的想法和",
+      "en": "My way of thinking and"
+    },
+    {
+      "id": 169,
+      "start": 539.54,
+      "end": 541.62,
+      "ts": "08:59.540 -> 09:01.620",
+      "jp": "違う人もいると思います",
+      "jp_html": "<ruby>違う<rt>ちがう</rt></ruby><ruby>人<rt>にん</rt></ruby>もいると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "也有人认为不是这样的",
+      "en": "I think there are also people who disagree."
+    },
+    {
+      "id": 170,
+      "start": 541.62,
+      "end": 543.32,
+      "ts": "09:01.620 -> 09:03.320",
+      "jp": "なかなか",
+      "jp_html": "なかなか",
+      "zh": "なかなか",
+      "en": "Hardly"
+    },
+    {
+      "id": 171,
+      "start": 543.32,
+      "end": 545.02,
+      "ts": "09:03.320 -> 09:05.020",
+      "jp": "面白いトピックですね",
+      "jp_html": "<ruby>面白い<rt>おもしろい</rt></ruby>トピックですね",
+      "zh": "这个话题挺有趣的。",
+      "en": "The topic sounds interesting."
+    },
+    {
+      "id": 172,
+      "start": 545.02,
+      "end": 546.48,
+      "ts": "09:05.020 -> 09:06.480",
+      "jp": "友達について",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>について",
+      "zh": "关于朋友",
+      "en": "About friends"
+    },
+    {
+      "id": 173,
+      "start": 546.48,
+      "end": 547.48,
+      "ts": "09:06.480 -> 09:07.480",
+      "jp": "どうでしたか",
+      "jp_html": "どうでしたか",
+      "zh": "您觉得怎么样？",
+      "en": "How was it?"
+    },
+    {
+      "id": 174,
+      "start": 547.48,
+      "end": 551.3,
+      "ts": "09:07.480 -> 09:11.300",
+      "jp": "これはもう本当に話すことは簡単だった",
+      "jp_html": "これはもう<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>話す<rt>はなす</rt></ruby>ことは<ruby>簡単<rt>かんたん</rt></ruby>だった",
+      "zh": "这真的很容易说出来了",
+      "en": "This was really easy to say after all."
+    },
+    {
+      "id": 175,
+      "start": 551.3,
+      "end": 553.68,
+      "ts": "09:11.300 -> 09:13.680",
+      "jp": "スポーツとかサッカーとか",
+      "jp_html": "スポーツとかサッカーとか",
+      "zh": "运动或者足球或者",
+      "en": "Sports or soccer or"
+    },
+    {
+      "id": 176,
+      "start": 553.68,
+      "end": 555.84,
+      "ts": "09:13.680 -> 09:15.840",
+      "jp": "野球とかも話すことが全然ない",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>とかも<ruby>話す<rt>はなす</rt></ruby>ことが<ruby>全然<rt>ぜんぜん</rt></ruby>ない",
+      "zh": "完全不谈棒球的事情",
+      "en": "I don't talk about baseball at all."
+    },
+    {
+      "id": 177,
+      "start": 555.84,
+      "end": 558.02,
+      "ts": "09:15.840 -> 09:18.020",
+      "jp": "まあね",
+      "jp_html": "まあね",
+      "zh": "嗯呢",
+      "en": "Well, ne"
+    },
+    {
+      "id": 178,
+      "start": 558.02,
+      "end": 559.52,
+      "ts": "09:18.020 -> 09:19.520",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 179,
+      "start": 559.52,
+      "end": 561.26,
+      "ts": "09:19.520 -> 09:21.260",
+      "jp": "次回はまた",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>はまた",
+      "zh": "下次再见",
+      "en": "Next time again"
+    },
+    {
+      "id": 180,
+      "start": 561.26,
+      "end": 563.8,
+      "ts": "09:21.260 -> 09:23.800",
+      "jp": "違うトピックを",
+      "jp_html": "<ruby>違う<rt>ちがう</rt></ruby>トピックを",
+      "zh": "不同的话题",
+      "en": "Different topic"
+    },
+    {
+      "id": 181,
+      "start": 563.8,
+      "end": 564.94,
+      "ts": "09:23.800 -> 09:24.940",
+      "jp": "話したいと思います",
+      "jp_html": "<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想说话",
+      "en": "I want to talk."
+    },
+    {
+      "id": 182,
+      "start": 564.94,
+      "end": 566.74,
+      "ts": "09:24.940 -> 09:26.740",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

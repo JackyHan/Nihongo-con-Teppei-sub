@@ -28,6 +28,30 @@
   ],
   "episodes": [
     {
+      "id": "1549",
+      "title": "#1549「先生について！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/07/16/1549%e3%80%8c%e5%85%88%e7%94%9f%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1549.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1549.json"
+    },
+    {
+      "id": "1548",
+      "title": "#1548「友達について！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/07/14/1548%e3%80%8c%e5%8f%8b%e9%81%94%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1548.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1548.json"
+    },
+    {
       "id": "1547",
       "title": "#1547「サッカーについて！」",
       "category_id": "podcast",
