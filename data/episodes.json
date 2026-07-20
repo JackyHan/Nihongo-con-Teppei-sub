@@ -1,5 +1,17 @@
 [
   {
+    "id": "1550",
+    "title": "#1550「家族について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/07/20/1550%e3%80%8c%e5%ae%b6%e6%97%8f%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1550.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1550.json"
+  },
+  {
     "id": "1549",
     "title": "#1549「先生について！」",
     "category_id": "podcast",
