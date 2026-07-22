@@ -1,5 +1,17 @@
 [
   {
+    "id": "1551",
+    "title": "#1551「最近の話①」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/07/22/1551%e3%80%8c%e6%9c%80%e8%bf%91%e3%81%ae%e8%a9%b1%e2%91%a0%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1551.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1551.json"
+  },
+  {
     "id": "1550",
     "title": "#1550「家族について！」",
     "category_id": "podcast",
