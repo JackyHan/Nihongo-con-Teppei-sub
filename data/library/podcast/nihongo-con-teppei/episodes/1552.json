@@ -1,0 +1,1154 @@
+{
+  "id": "1552",
+  "title": "#1552「最近やっていたことについて！②」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1552.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1552.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/07/24/1552%e3%80%8c%e6%9c%80%e8%bf%91%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e2%91%a1%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.46,
+      "end": 2.7,
+      "ts": "00:01.460 -> 00:02.700",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.7,
+      "end": 7.98,
+      "ts": "00:02.700 -> 00:07.980",
+      "jp": "今日も最近やっていたことについて",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>最近<rt>さいきん</rt></ruby>やっていたことについて",
+      "zh": "今天也关于最近做的事情",
+      "en": "Today, about things I've been doing recently."
+    },
+    {
+      "id": 2,
+      "start": 7.98,
+      "end": 11.06,
+      "ts": "00:07.980 -> 00:11.060",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 11.06,
+      "end": 13.48,
+      "ts": "00:11.060 -> 00:13.480",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语 Conteppe 的时间呢",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 13.48,
+      "end": 15.94,
+      "ts": "00:13.480 -> 00:15.940",
+      "jp": "最近やっていたこと",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>やっていたこと",
+      "zh": "最近做的事情",
+      "en": "Recently, I have been doing things."
+    },
+    {
+      "id": 5,
+      "start": 15.94,
+      "end": 21.66,
+      "ts": "00:15.940 -> 00:21.660",
+      "jp": "僕の奥さんの弟家族が遊びに来て",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>が<ruby>遊び<rt>あそび</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>",
+      "zh": "我的妻子的弟弟家人来玩",
+      "en": "My wife's brother's family came to visit."
+    },
+    {
+      "id": 6,
+      "start": 21.66,
+      "end": 24.56,
+      "ts": "00:21.660 -> 00:24.560",
+      "jp": "でなんかいろいろしていたと",
+      "jp_html": "でなんかいろいろしていたと",
+      "zh": "然后做了些各种事情",
+      "en": "And I was doing all sorts of things."
+    },
+    {
+      "id": 7,
+      "start": 24.56,
+      "end": 26.04,
+      "ts": "00:24.560 -> 00:26.040",
+      "jp": "そういう話",
+      "jp_html": "そういう<ruby>話<rt>はなし</rt></ruby>",
+      "zh": "这样的谈话",
+      "en": "That kind of talk"
+    },
+    {
+      "id": 8,
+      "start": 26.8,
+      "end": 30.8,
+      "ts": "00:26.800 -> 00:30.800",
+      "jp": "前回は最初の日に成田空港から着いて",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>に<ruby>成田空港<rt>なりたくうこう</rt></ruby>から<ruby>着い<rt>つい</rt></ruby>て",
+      "zh": "上次我们是从成田机场第一天到达的。",
+      "en": "Last time we arrived at Narita Airport on the first day."
+    },
+    {
+      "id": 9,
+      "start": 30.8,
+      "end": 33.0,
+      "ts": "00:30.800 -> 00:33.000",
+      "jp": "みんなで倉寿司に行って",
+      "jp_html": "みんなで<ruby>倉<rt>くら</rt></ruby><ruby>寿司<rt>すし</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "大家一起去了仓寿司",
+      "en": "Let's go to Kajiwasa with everyone."
+    },
+    {
+      "id": 10,
+      "start": 33.0,
+      "end": 36.3,
+      "ts": "00:33.000 -> 00:36.300",
+      "jp": "その後僕は洗濯機を回し",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>洗濯機<rt>せんたくき</rt></ruby>を<ruby>回し<rt>まわし</rt></ruby>",
+      "zh": "然后我把洗衣机启动了",
+      "en": "Then I started the washing machine."
+    },
+    {
+      "id": 11,
+      "start": 36.3,
+      "end": 38.46,
+      "ts": "00:36.300 -> 00:38.460",
+      "jp": "コインランドルに行って",
+      "jp_html": "コインランドルに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "去洗衣店",
+      "en": "I went to the coin laundry."
+    },
+    {
+      "id": 12,
+      "start": 38.46,
+      "end": 40.14,
+      "ts": "00:38.460 -> 00:40.140",
+      "jp": "それを乾かしていたと",
+      "jp_html": "それを<ruby>乾か<rt>かわか</rt></ruby>していたと",
+      "zh": "它正在被晾干",
+      "en": "I was drying it off."
+    },
+    {
+      "id": 13,
+      "start": 40.14,
+      "end": 45.28,
+      "ts": "00:40.140 -> 00:45.280",
+      "jp": "理由は雨だったから",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>だったから",
+      "zh": "原因是下雨了",
+      "en": "The reason was because of the rain."
+    },
+    {
+      "id": 14,
+      "start": 45.28,
+      "end": 48.76,
+      "ts": "00:45.280 -> 00:48.760",
+      "jp": "梅雨でしたからね",
+      "jp_html": "<ruby>梅雨<rt>つゆ</rt></ruby>でしたからね",
+      "zh": "因为是梅雨季节呢",
+      "en": "It was rainy because of the plum rain season."
+    },
+    {
+      "id": 15,
+      "start": 48.76,
+      "end": 52.38,
+      "ts": "00:48.760 -> 00:52.380",
+      "jp": "ちょっと雨とか曇りの日が多くて大変でした",
+      "jp_html": "ちょっと<ruby>雨<rt>あめ</rt></ruby>とか<ruby>曇り<rt>くもり</rt></ruby>の<ruby>日<rt>にち</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て<ruby>大変<rt>たいへん</rt></ruby>でした",
+      "zh": "天气多以雨天或阴天为主，真是麻烦了不少。",
+      "en": "It was tough with a lot of rainy and cloudy days."
+    },
+    {
+      "id": 16,
+      "start": 52.38,
+      "end": 53.54,
+      "ts": "00:52.380 -> 00:53.540",
+      "jp": "いいことは一つ",
+      "jp_html": "いいことは<ruby>一つ<rt>ひとつ</rt></ruby>",
+      "zh": "好事一件",
+      "en": "Good things happen once."
+    },
+    {
+      "id": 17,
+      "start": 53.54,
+      "end": 55.1,
+      "ts": "00:53.540 -> 00:55.100",
+      "jp": "一つだけいいことはあった",
+      "jp_html": "<ruby>一つ<rt>ひとつ</rt></ruby>だけいいことはあった",
+      "zh": "唯一的好事是",
+      "en": "The only good thing was that."
+    },
+    {
+      "id": 18,
+      "start": 55.1,
+      "end": 57.7,
+      "ts": "00:55.100 -> 00:57.700",
+      "jp": "それは結構涼しかったですね",
+      "jp_html": "それは<ruby>結構<rt>けっこう</rt></ruby><ruby>涼しか<rt>すずしか</rt></ruby>ったですね",
+      "zh": "那真是挺凉快的呢",
+      "en": "It was quite cool, wasn't it?"
+    },
+    {
+      "id": 19,
+      "start": 57.7,
+      "end": 59.88,
+      "ts": "00:57.700 -> 00:59.880",
+      "jp": "まあまあ涼しかった",
+      "jp_html": "まあまあ<ruby>涼しか<rt>すずしか</rt></ruby>った",
+      "zh": "还好挺凉爽的",
+      "en": "It was pretty cool."
+    },
+    {
+      "id": 20,
+      "start": 59.88,
+      "end": 64.26,
+      "ts": "00:59.880 -> 01:04.260",
+      "jp": "実は今は暑すぎる",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>今<rt>いま</rt></ruby>は<ruby>暑す<rt>あつす</rt></ruby>ぎる",
+      "zh": "其实现在太热了",
+      "en": "Actually, it's too hot now."
+    },
+    {
+      "id": 21,
+      "start": 64.26,
+      "end": 68.16,
+      "ts": "01:04.260 -> 01:08.160",
+      "jp": "だから実は弟たちが来た時は",
+      "jp_html": "だから<ruby>実は<rt>じつは</rt></ruby><ruby>弟<rt>おとうと</rt></ruby>たちが<ruby>来た<rt>きた</rt></ruby><ruby>時<rt>とき</rt></ruby>は",
+      "zh": "所以其实弟弟们来的时候",
+      "en": "So actually, when my brothers came"
+    },
+    {
+      "id": 22,
+      "start": 68.16,
+      "end": 73.8,
+      "ts": "01:08.160 -> 01:13.800",
+      "jp": "雨とか曇りは多かったけど",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>とか<ruby>曇り<rt>くもり</rt></ruby>は<ruby>多か<rt>おおか</rt></ruby>ったけど",
+      "zh": "下雨或阴天比较多",
+      "en": "It was mostly rainy or cloudy."
+    },
+    {
+      "id": 23,
+      "start": 73.8,
+      "end": 76.18,
+      "ts": "01:13.800 -> 01:16.180",
+      "jp": "暑すぎなかったですね",
+      "jp_html": "<ruby>暑す<rt>あつす</rt></ruby>ぎなかったですね",
+      "zh": "没太热吧？",
+      "en": "It wasn't too hot, right?"
+    },
+    {
+      "id": 24,
+      "start": 76.18,
+      "end": 78.92,
+      "ts": "01:16.180 -> 01:18.920",
+      "jp": "暑かったけど暑すぎなかった",
+      "jp_html": "<ruby>暑か<rt>あつか</rt></ruby>ったけど<ruby>暑す<rt>あつす</rt></ruby>ぎなかった",
+      "zh": "虽然很热，但还不算太热",
+      "en": "It was hot, but not too hot."
+    },
+    {
+      "id": 25,
+      "start": 78.92,
+      "end": 85.84,
+      "ts": "01:18.920 -> 01:25.840",
+      "jp": "だからラッキーなのかラッキーじゃないのかわからないな",
+      "jp_html": "だからラッキーなのかラッキーじゃないのかわからないな",
+      "zh": "所以不知道是幸运还是不幸运吧",
+      "en": "So I don't know if it's lucky or not lucky."
+    },
+    {
+      "id": 26,
+      "start": 85.84,
+      "end": 89.1,
+      "ts": "01:25.840 -> 01:29.100",
+      "jp": "暑くないこれはラッキーですけど",
+      "jp_html": "<ruby>暑く<rt>あつく</rt></ruby>ないこれはラッキーですけど",
+      "zh": "这还好，没那么热",
+      "en": "It's lucky that it's not hot."
+    },
+    {
+      "id": 27,
+      "start": 89.1,
+      "end": 92.42,
+      "ts": "01:29.100 -> 01:32.420",
+      "jp": "雨とか曇りが多かったので",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>とか<ruby>曇り<rt>くもり</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>ったので",
+      "zh": "因为下雨或阴天比较多",
+      "en": "It was mostly rainy and cloudy."
+    },
+    {
+      "id": 28,
+      "start": 92.42,
+      "end": 94.96,
+      "ts": "01:32.420 -> 01:34.960",
+      "jp": "天気は悪かったかな",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>は<ruby>悪か<rt>わるか</rt></ruby>ったかな",
+      "zh": "天气糟了吧",
+      "en": "The weather was bad, huh?"
+    },
+    {
+      "id": 29,
+      "start": 94.96,
+      "end": 100.47,
+      "ts": "01:34.960 -> 01:40.470",
+      "jp": "まあまあ次の日ですね",
+      "jp_html": "まあまあ<ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>にち</rt></ruby>ですね",
+      "zh": "嗯嗯，是第二天吧",
+      "en": "Well, it's the next day, isn't it?"
+    },
+    {
+      "id": 30,
+      "start": 100.47,
+      "end": 104.47,
+      "ts": "01:40.470 -> 01:44.470",
+      "jp": "次の日は何をしたかな",
+      "jp_html": "<ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>にち</rt></ruby>は<ruby>何を<rt>なにを</rt></ruby>したかな",
+      "zh": "第二天你做了什么呀？",
+      "en": "What did you do the day after that?"
+    },
+    {
+      "id": 31,
+      "start": 104.47,
+      "end": 105.53,
+      "ts": "01:44.470 -> 01:45.530",
+      "jp": "次の日はね",
+      "jp_html": "<ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>にち</rt></ruby>はね",
+      "zh": "第二天是呢",
+      "en": "The next day, huh?"
+    },
+    {
+      "id": 32,
+      "start": 105.53,
+      "end": 110.35,
+      "ts": "01:45.530 -> 01:50.350",
+      "jp": "あのそうですね",
+      "jp_html": "あのそうですね",
+      "zh": "那个嗯，是的",
+      "en": "Well, that's right."
+    },
+    {
+      "id": 33,
+      "start": 110.35,
+      "end": 112.05,
+      "ts": "01:50.350 -> 01:52.050",
+      "jp": "えーっと",
+      "jp_html": "えーっと",
+      "zh": "嗯;};",
+      "en": "Ummmm"
+    },
+    {
+      "id": 34,
+      "start": 112.05,
+      "end": 115.97,
+      "ts": "01:52.050 -> 01:55.970",
+      "jp": "まあ近所ですね",
+      "jp_html": "まあ<ruby>近所<rt>きんじょ</rt></ruby>ですね",
+      "zh": "哎，附近吧",
+      "en": "Well, it's in the neighborhood, right?"
+    },
+    {
+      "id": 35,
+      "start": 115.97,
+      "end": 118.01,
+      "ts": "01:55.970 -> 01:58.010",
+      "jp": "僕の家の近所で",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>近所<rt>きんじょ</rt></ruby>で",
+      "zh": "我家附近",
+      "en": "Near my house"
+    },
+    {
+      "id": 36,
+      "start": 118.01,
+      "end": 120.03,
+      "ts": "01:58.010 -> 02:00.030",
+      "jp": "昼ご飯食べたり",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯食<rt>はんしょく</rt></ruby>べたり",
+      "zh": "吃了午饭",
+      "en": "I ate lunch."
+    },
+    {
+      "id": 37,
+      "start": 120.03,
+      "end": 121.11,
+      "ts": "02:00.030 -> 02:01.110",
+      "jp": "ちょっと覚えてないな",
+      "jp_html": "ちょっと<ruby>覚え<rt>おぼえ</rt></ruby>てないな",
+      "zh": "记不太清楚了呢",
+      "en": "I kind of don't remember."
+    },
+    {
+      "id": 38,
+      "start": 121.11,
+      "end": 122.27,
+      "ts": "02:01.110 -> 02:02.270",
+      "jp": "何食べたかな",
+      "jp_html": "<ruby>何<rt>なに</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>かな",
+      "zh": "你吃了些什么？",
+      "en": "What did you eat?"
+    },
+    {
+      "id": 39,
+      "start": 122.27,
+      "end": 125.87,
+      "ts": "02:02.270 -> 02:05.870",
+      "jp": "多分朝はカフェに行って",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby><ruby>朝<rt>あさ</rt></ruby>はカフェに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "大概朝廷去了咖啡店",
+      "en": "I think Asahi went to the cafe."
+    },
+    {
+      "id": 40,
+      "start": 125.87,
+      "end": 127.29,
+      "ts": "02:05.870 -> 02:07.290",
+      "jp": "パンとか",
+      "jp_html": "パンとか",
+      "zh": "面包之类的",
+      "en": "bread or cakes"
+    },
+    {
+      "id": 41,
+      "start": 127.29,
+      "end": 129.79,
+      "ts": "02:07.290 -> 02:09.790",
+      "jp": "食べながら",
+      "jp_html": "<ruby>食べ<rt>たべ</rt></ruby>ながら",
+      "zh": "边吃边",
+      "en": "eating while"
+    },
+    {
+      "id": 42,
+      "start": 129.79,
+      "end": 130.79,
+      "ts": "02:09.790 -> 02:10.790",
+      "jp": "コーヒー飲んで",
+      "jp_html": "コーヒー<ruby>飲ん<rt>のん</rt></ruby>で",
+      "zh": "喝咖啡",
+      "en": "Drink coffee"
+    },
+    {
+      "id": 43,
+      "start": 130.79,
+      "end": 131.65,
+      "ts": "02:10.790 -> 02:11.650",
+      "jp": "昼はね",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>はね",
+      "zh": "昼是nev",
+      "en": "Day nap"
+    },
+    {
+      "id": 44,
+      "start": 131.65,
+      "end": 134.37,
+      "ts": "02:11.650 -> 02:14.370",
+      "jp": "何食べたかな",
+      "jp_html": "<ruby>何<rt>なに</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>かな",
+      "zh": "你吃了什么呢",
+      "en": "What did you eat?"
+    },
+    {
+      "id": 45,
+      "start": 134.37,
+      "end": 136.25,
+      "ts": "02:14.370 -> 02:16.250",
+      "jp": "ラーメンだったか",
+      "jp_html": "ラーメンだったか",
+      "zh": "那是拉面吗？",
+      "en": "Was it ramen?"
+    },
+    {
+      "id": 46,
+      "start": 136.25,
+      "end": 138.45,
+      "ts": "02:16.250 -> 02:18.450",
+      "jp": "ピザですねピザを食べました",
+      "jp_html": "ピザですねピザを<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "披萨，我们吃了披萨。",
+      "en": "Pizza. I ate pizza."
+    },
+    {
+      "id": 47,
+      "start": 138.45,
+      "end": 141.73,
+      "ts": "02:18.450 -> 02:21.730",
+      "jp": "子供たちがピザが食べたいというので",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>たちがピザが<ruby>食べた<rt>たべた</rt></ruby>いというので",
+      "zh": "孩子们想要吃比萨",
+      "en": "The children wanted to eat pizza."
+    },
+    {
+      "id": 48,
+      "start": 141.73,
+      "end": 142.59,
+      "ts": "02:21.730 -> 02:22.590",
+      "jp": "みんなで",
+      "jp_html": "みんなで",
+      "zh": "大家一起",
+      "en": "Everyone together"
+    },
+    {
+      "id": 49,
+      "start": 142.59,
+      "end": 144.43,
+      "ts": "02:22.590 -> 02:24.430",
+      "jp": "イタリアンピザ",
+      "jp_html": "イタリアンピザ",
+      "zh": "意大利比萨",
+      "en": "Italian pizza"
+    },
+    {
+      "id": 50,
+      "start": 144.43,
+      "end": 146.39,
+      "ts": "02:24.430 -> 02:26.390",
+      "jp": "おいしいナポリピザを食べました",
+      "jp_html": "おいしいナポリピザを<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "我吃了美味的那不勒斯比萨",
+      "en": "I ate a delicious Neapolitan pizza."
+    },
+    {
+      "id": 51,
+      "start": 146.39,
+      "end": 147.39,
+      "ts": "02:26.390 -> 02:27.390",
+      "jp": "本当においしいところ",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>においしいところ",
+      "zh": "真的很好吃哦",
+      "en": "Really delicious place"
+    },
+    {
+      "id": 52,
+      "start": 147.39,
+      "end": 151.41,
+      "ts": "02:27.390 -> 02:31.410",
+      "jp": "そしてその後",
+      "jp_html": "そしてその<ruby>後<rt>のち</rt></ruby>",
+      "zh": "然后之后",
+      "en": "And then afterwards"
+    },
+    {
+      "id": 53,
+      "start": 151.41,
+      "end": 153.75,
+      "ts": "02:31.410 -> 02:33.750",
+      "jp": "あとアイスクリームねもちろん",
+      "jp_html": "あとアイスクリームねもちろん",
+      "zh": "还有冰淇淋当然",
+      "en": "And ice cream of course"
+    },
+    {
+      "id": 54,
+      "start": 153.75,
+      "end": 155.51,
+      "ts": "02:33.750 -> 02:35.510",
+      "jp": "アイスクリームジェラートを食べて",
+      "jp_html": "アイスクリームジェラートを<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "吃冰淇淋提拉米苏",
+      "en": "Eat ice cream gelato"
+    },
+    {
+      "id": 55,
+      "start": 155.51,
+      "end": 157.03,
+      "ts": "02:35.510 -> 02:37.030",
+      "jp": "ちょっと暑かったのかな",
+      "jp_html": "ちょっと<ruby>暑か<rt>あつか</rt></ruby>ったのかな",
+      "zh": "可能是有点热吧",
+      "en": "It was a bit hot, wasn't it?"
+    },
+    {
+      "id": 56,
+      "start": 157.03,
+      "end": 159.61,
+      "ts": "02:37.030 -> 02:39.610",
+      "jp": "公園に行って",
+      "jp_html": "<ruby>公園<rt>こうえん</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "去公园",
+      "en": "I went to the park."
+    },
+    {
+      "id": 57,
+      "start": 159.61,
+      "end": 164.17,
+      "ts": "02:39.610 -> 02:44.170",
+      "jp": "公園の近くでアイスクリームを食べたな",
+      "jp_html": "<ruby>公園<rt>こうえん</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>でアイスクリームを<ruby>食べた<rt>たべた</rt></ruby>な",
+      "zh": "我们在公园附近吃了冰淇淋",
+      "en": "We ate ice cream near the park, didn't we?"
+    },
+    {
+      "id": 58,
+      "start": 164.17,
+      "end": 168.19,
+      "ts": "02:44.170 -> 02:48.190",
+      "jp": "そしてその後買い物ですよね",
+      "jp_html": "そしてその<ruby>後<rt>のち</rt></ruby><ruby>買い物<rt>かいもの</rt></ruby>ですよね",
+      "zh": "然后就是购物吧",
+      "en": "And then after that, shopping, right?"
+    },
+    {
+      "id": 59,
+      "start": 168.19,
+      "end": 169.99,
+      "ts": "02:48.190 -> 02:49.990",
+      "jp": "なんかドンキホーテ行ったり",
+      "jp_html": "なんかドンキホーテ<ruby>行った<rt>いった</rt></ruby>り",
+      "zh": "去了一下唐吉诃德",
+      "en": "I went to Don Quixote or something like that."
+    },
+    {
+      "id": 60,
+      "start": 169.99,
+      "end": 171.91,
+      "ts": "02:49.990 -> 02:51.910",
+      "jp": "あとゲームセンターに行ったかな",
+      "jp_html": "あとゲームセンターに<ruby>行った<rt>いった</rt></ruby>かな",
+      "zh": "再去游戏中心了吗？",
+      "en": "Did you go to the arcade lately?"
+    },
+    {
+      "id": 61,
+      "start": 171.91,
+      "end": 174.69,
+      "ts": "02:51.910 -> 02:54.690",
+      "jp": "ゲームセンターでスーパーマリオをやったり",
+      "jp_html": "ゲームセンターでスーパーマリオをやったり",
+      "zh": "在游戏中心玩超级马里奥游戏技巧",
+      "en": "I played Super Mario at the arcade."
+    },
+    {
+      "id": 62,
+      "start": 174.69,
+      "end": 176.25,
+      "ts": "02:54.690 -> 02:56.250",
+      "jp": "UFOキャッチャー",
+      "jp_html": "UFOキャッチャー",
+      "zh": "抓娃娃机",
+      "en": "UFO catcher"
+    },
+    {
+      "id": 63,
+      "start": 176.25,
+      "end": 179.35,
+      "ts": "02:56.250 -> 02:59.350",
+      "jp": "UFOキャッチャーをめちゃめちゃやりました",
+      "jp_html": "UFOキャッチャーをめちゃめちゃやりました",
+      "zh": "我狠狠地玩了一把抓娃娃机",
+      "en": "I played UFO catcher extremely badly."
+    },
+    {
+      "id": 64,
+      "start": 181.41,
+      "end": 191.71,
+      "ts": "03:01.410 -> 03:11.710",
+      "jp": "で弟の子供たちは女の子2人6歳だからサンリオが好きなんですよね",
+      "jp_html": "で<ruby>弟<rt>おとうと</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちは<ruby>女の子<rt>おんなのこ</rt></ruby>2<ruby>人<rt>にん</rt></ruby>6<ruby>歳<rt>とし</rt></ruby>だからサンリオが<ruby>好き<rt>すき</rt></ruby>なんですよね",
+      "zh": "所以弟弟的孩子们是两个6岁的女孩，很喜欢圣罗兰呢",
+      "en": "So the brother's children are two girls aged 6 who like Sanrio."
+    },
+    {
+      "id": 65,
+      "start": 191.71,
+      "end": 199.57,
+      "ts": "03:11.710 -> 03:19.570",
+      "jp": "でハローキティとかシナモンロールとか好きなんですよ",
+      "jp_html": "でハローキティとかシナモンロールとか<ruby>好き<rt>すき</rt></ruby>なんですよ",
+      "zh": "我喜欢Hello Kitty和提拉米苏",
+      "en": "I like Hello Kitty and cinnamon rolls too."
+    },
+    {
+      "id": 66,
+      "start": 199.57,
+      "end": 205.15,
+      "ts": "03:19.570 -> 03:25.150",
+      "jp": "でそれが取れるまで何度も何度も100円玉を入れて",
+      "jp_html": "でそれが<ruby>取れ<rt>とれ</rt></ruby>るまで<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も100<ruby>円玉<rt>えんだま</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>て",
+      "zh": "直到那个卡住的东西出来，我反复多次插入了100日元硬币",
+      "en": "So I kept inserting 1-yen coins repeatedly until it accepted them."
+    },
+    {
+      "id": 67,
+      "start": 205.15,
+      "end": 212.91,
+      "ts": "03:25.150 -> 03:32.910",
+      "jp": "100円100円100円100円100円100円100円を入れて",
+      "jp_html": "100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>を<ruby>入れ<rt>いれ</rt></ruby>て",
+      "zh": "投入了一百日元一百日元一百日元一百日元一百日元一百日元",
+      "en": "Put in 700 yen"
+    },
+    {
+      "id": 68,
+      "start": 212.91,
+      "end": 220.13,
+      "ts": "03:32.910 -> 03:40.130",
+      "jp": "多分2000円ぐらい使って大きいシナモンロールを取りました",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>2000<ruby>円<rt>えん</rt></ruby>ぐらい<ruby>使って<rt>つかって</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby>シナモンロールを<ruby>取り<rt>とり</rt></ruby>ました",
+      "zh": "大概花了2000日元买了个大的肉桂卷。",
+      "en": "I spent about 2000 yen on a large cinnamon roll."
+    },
+    {
+      "id": 69,
+      "start": 220.13,
+      "end": 227.45,
+      "ts": "03:40.130 -> 03:47.450",
+      "jp": "シナモンロールの大きいぬいぐるみ",
+      "jp_html": "シナモンロールの<ruby>大きい<rt>おおきい</rt></ruby>ぬいぐるみ",
+      "zh": "肉桂卷大的玩偶",
+      "en": "A large cinnamon roll plush toy"
+    },
+    {
+      "id": 70,
+      "start": 227.45,
+      "end": 231.87,
+      "ts": "03:47.450 -> 03:51.870",
+      "jp": "これは多分買うと2000円以上しますね",
+      "jp_html": "これは<ruby>多分<rt>たぶん</rt></ruby><ruby>買う<rt>かう</rt></ruby>と2000<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>しますね",
+      "zh": "这大概买下来得超过2000 yen吧",
+      "en": "This probably costs more than 2000 yen when bought."
+    },
+    {
+      "id": 71,
+      "start": 231.87,
+      "end": 233.45,
+      "ts": "03:51.870 -> 03:53.450",
+      "jp": "だから悪くはない",
+      "jp_html": "だから<ruby>悪く<rt>わるく</rt></ruby>はない",
+      "zh": "所以还不坏",
+      "en": "So it's not bad."
+    },
+    {
+      "id": 72,
+      "start": 233.45,
+      "end": 235.05,
+      "ts": "03:53.450 -> 03:55.050",
+      "jp": "悪くはない",
+      "jp_html": "<ruby>悪く<rt>わるく</rt></ruby>はない",
+      "zh": "还不错",
+      "en": "It's not bad."
+    },
+    {
+      "id": 73,
+      "start": 235.05,
+      "end": 238.35,
+      "ts": "03:55.050 -> 03:58.350",
+      "jp": "でもハローキティが取れなかったですよね",
+      "jp_html": "でもハローキティが<ruby>取れ<rt>とれ</rt></ruby>なかったですよね",
+      "zh": "但哈罗基蒂没抽到吧",
+      "en": "But didn't you not get the Hello Kitty, right?"
+    },
+    {
+      "id": 74,
+      "start": 238.35,
+      "end": 241.83,
+      "ts": "03:58.350 -> 04:01.830",
+      "jp": "ハローキティが全然取れなくて",
+      "jp_html": "ハローキティが<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>取れ<rt>とれ</rt></ruby>なくて",
+      "zh": "Hello Kitty完全取不出来",
+      "en": "I couldn't get Hello Kitty at all."
+    },
+    {
+      "id": 75,
+      "start": 241.83,
+      "end": 247.09,
+      "ts": "04:01.830 -> 04:07.090",
+      "jp": "100円100円100円100円全然取れない",
+      "jp_html": "100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby>100<ruby>円<rt>えん</rt></ruby><ruby>全然<rt>ぜんぜん</rt></ruby><ruby>取れ<rt>とれ</rt></ruby>ない",
+      "zh": "100日元100日元100日元100日元完全拿不出来",
+      "en": "100 yen 100 yen 100 yen 100 yen completely can't take"
+    },
+    {
+      "id": 76,
+      "start": 247.09,
+      "end": 251.31,
+      "ts": "04:07.090 -> 04:11.310",
+      "jp": "取れないから子供は泣くんですよね",
+      "jp_html": "<ruby>取れ<rt>とれ</rt></ruby>ないから<ruby>子供<rt>こども</rt></ruby>は<ruby>泣く<rt>なく</rt></ruby>んですよね",
+      "zh": "因为拿不到，孩子才会哭呢",
+      "en": "That's why the child cries because it can't take it off"
+    },
+    {
+      "id": 77,
+      "start": 251.31,
+      "end": 253.77,
+      "ts": "04:11.310 -> 04:13.770",
+      "jp": "泣き始めて",
+      "jp_html": "<ruby>泣き<rt>なき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>て",
+      "zh": "哭了起来",
+      "en": "Started crying"
+    },
+    {
+      "id": 78,
+      "start": 253.77,
+      "end": 256.85,
+      "ts": "04:13.770 -> 04:16.850",
+      "jp": "大変ですカオスですね",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>ですカオスですね",
+      "zh": "真是非常混乱啊",
+      "en": "It's very chaotic, isn't it?"
+    },
+    {
+      "id": 79,
+      "start": 256.85,
+      "end": 259.91,
+      "ts": "04:16.850 -> 04:19.910",
+      "jp": "そして僕の子供もなぜか泣くと",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>もなぜか<ruby>泣く<rt>なく</rt></ruby>と",
+      "zh": "然后我的孩子不知为何也会哭",
+      "en": "And for some reason, my child also cries when"
+    },
+    {
+      "id": 80,
+      "start": 259.91,
+      "end": 261.91,
+      "ts": "04:19.910 -> 04:21.910",
+      "jp": "僕も欲しいとか言って",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>欲しい<rt>ほしい</rt></ruby>とか<ruby>言って<rt>いって</rt></ruby>",
+      "zh": "我也想要这么说",
+      "en": "I also want to say I want it"
+    },
+    {
+      "id": 81,
+      "start": 261.91,
+      "end": 263.97,
+      "ts": "04:21.910 -> 04:23.970",
+      "jp": "僕は",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>",
+      "zh": "我",
+      "en": "I am"
+    },
+    {
+      "id": 82,
+      "start": 263.97,
+      "end": 266.39,
+      "ts": "04:23.970 -> 04:26.390",
+      "jp": "僕の子供のために",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>のために",
+      "zh": "为了我的孩子",
+      "en": "For my children"
+    },
+    {
+      "id": 83,
+      "start": 266.39,
+      "end": 268.57,
+      "ts": "04:26.390 -> 04:28.570",
+      "jp": "クレヨンしんちゃんを取るためにね",
+      "jp_html": "クレヨンしんちゃんを<ruby>取る<rt>とる</rt></ruby>ためにね",
+      "zh": "为了拿克力橡皮擦小熊",
+      "en": "To take Crayon Shin-chan."
+    },
+    {
+      "id": 84,
+      "start": 268.57,
+      "end": 269.29,
+      "ts": "04:28.570 -> 04:29.290",
+      "jp": "100円",
+      "jp_html": "100<ruby>円<rt>えん</rt></ruby>",
+      "zh": "100日元",
+      "en": "100 yen"
+    },
+    {
+      "id": 85,
+      "start": 269.29,
+      "end": 273.25,
+      "ts": "04:29.290 -> 04:33.250",
+      "jp": "いくらかな",
+      "jp_html": "いくらかな",
+      "zh": "多少钱",
+      "en": "How much is it?"
+    },
+    {
+      "id": 86,
+      "start": 273.25,
+      "end": 275.89,
+      "ts": "04:33.250 -> 04:35.890",
+      "jp": "多分1500円くらい使って",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>1500<ruby>円<rt>えん</rt></ruby>くらい<ruby>使って<rt>つかって</rt></ruby>",
+      "zh": "大概花了一千五元左右吧",
+      "en": "I probably spent around 1500 yen."
+    },
+    {
+      "id": 87,
+      "start": 275.89,
+      "end": 277.05,
+      "ts": "04:35.890 -> 04:37.050",
+      "jp": "いやもう無理だ",
+      "jp_html": "いやもう<ruby>無理<rt>むり</rt></ruby>だ",
+      "zh": "不行了，真的不行了",
+      "en": "No, this is beyond me."
+    },
+    {
+      "id": 88,
+      "start": 277.05,
+      "end": 277.81,
+      "ts": "04:37.050 -> 04:37.810",
+      "jp": "やめよう",
+      "jp_html": "やめよう",
+      "zh": "算了",
+      "en": "Let's stop."
+    },
+    {
+      "id": 89,
+      "start": 277.81,
+      "end": 279.57,
+      "ts": "04:37.810 -> 04:39.570",
+      "jp": "そしたら子供が",
+      "jp_html": "そしたら<ruby>子供<rt>こども</rt></ruby>が",
+      "zh": "然后孩子开始",
+      "en": "Then the child began"
+    },
+    {
+      "id": 90,
+      "start": 279.57,
+      "end": 283.11,
+      "ts": "04:39.570 -> 04:43.110",
+      "jp": "大変ですよ",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>ですよ",
+      "zh": "真糟糕。",
+      "en": "It's terrible."
+    },
+    {
+      "id": 91,
+      "start": 283.11,
+      "end": 284.47,
+      "ts": "04:43.110 -> 04:44.470",
+      "jp": "行かないほうがいい",
+      "jp_html": "<ruby>行か<rt>いか</rt></ruby>ないほうがいい",
+      "zh": "不去为妙",
+      "en": "It's better not to go."
+    },
+    {
+      "id": 92,
+      "start": 284.47,
+      "end": 286.97,
+      "ts": "04:44.470 -> 04:46.970",
+      "jp": "ゲームセンターは",
+      "jp_html": "ゲームセンターは",
+      "zh": "游戏中心是",
+      "en": "The arcade is"
+    },
+    {
+      "id": 93,
+      "start": 286.97,
+      "end": 287.75,
+      "ts": "04:46.970 -> 04:47.750",
+      "jp": "行かないほうがいい",
+      "jp_html": "<ruby>行か<rt>いか</rt></ruby>ないほうがいい",
+      "zh": "不去为妙",
+      "en": "It's better not to go."
+    },
+    {
+      "id": 94,
+      "start": 287.75,
+      "end": 290.39,
+      "ts": "04:47.750 -> 04:50.390",
+      "jp": "UFOキャッチャーはやめたほうがいい",
+      "jp_html": "UFOキャッチャーはやめたほうがいい",
+      "zh": "抓娃娃机最好还是别玩了",
+      "en": "It's better to stop playing UFO catcher."
+    },
+    {
+      "id": 95,
+      "start": 290.39,
+      "end": 291.69,
+      "ts": "04:50.390 -> 04:51.690",
+      "jp": "カオスになる",
+      "jp_html": "カオスになる",
+      "zh": "混乱起来",
+      "en": "Chaos will ensue"
+    },
+    {
+      "id": 96,
+      "start": 291.69,
+      "end": 297.16,
+      "ts": "04:51.690 -> 04:57.160",
+      "jp": "とにかく一人の子供だけは喜んで",
+      "jp_html": "とにかく<ruby>一人<rt>ひとり</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>だけは<ruby>喜んで<rt>よろこんで</rt></ruby>",
+      "zh": "总之至少一个孩子是高兴的",
+      "en": "Anyway, they gladly have one child."
+    },
+    {
+      "id": 97,
+      "start": 297.16,
+      "end": 302.1,
+      "ts": "04:57.160 -> 05:02.100",
+      "jp": "二人子供が泣いて帰るんですね",
+      "jp_html": "<ruby>二人<rt>ふたり</rt></ruby><ruby>子供<rt>こども</rt></ruby>が<ruby>泣い<rt>ない</rt></ruby>て<ruby>帰る<rt>かえる</rt></ruby>んですね",
+      "zh": "原来他们两个孩子哭着回来的。",
+      "en": "They return with two crying children, doesn't it?"
+    },
+    {
+      "id": 98,
+      "start": 302.1,
+      "end": 306.54,
+      "ts": "05:02.100 -> 05:06.540",
+      "jp": "暑いんで暑くなりましたねその日は",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby>んで<ruby>暑く<rt>あつく</rt></ruby>なりましたねその<ruby>日<rt>にち</rt></ruby>は",
+      "zh": "因为天气热所以变得更热了那天是",
+      "en": "It got hot so it became hot that day, huh?"
+    },
+    {
+      "id": 99,
+      "start": 306.54,
+      "end": 308.98,
+      "ts": "05:06.540 -> 05:08.980",
+      "jp": "暑かったのでスイカを買って帰りました",
+      "jp_html": "<ruby>暑か<rt>あつか</rt></ruby>ったのでスイカを<ruby>買っ<rt>かっ</rt></ruby>て<ruby>帰り<rt>かえり</rt></ruby>ました",
+      "zh": "因为天气热，所以我买了西瓜回家。",
+      "en": "It was hot, so I bought a watermelon and went home."
+    },
+    {
+      "id": 100,
+      "start": 308.98,
+      "end": 312.54,
+      "ts": "05:08.980 -> 05:12.540",
+      "jp": "大きいスイカを買って家に帰って",
+      "jp_html": "<ruby>大きい<rt>おおきい</rt></ruby>スイカを<ruby>買っ<rt>かっ</rt></ruby>て<ruby>家<rt>いえ</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>て",
+      "zh": "买了一个大西瓜回家",
+      "en": "Bought a big watermelon and went home."
+    },
+    {
+      "id": 101,
+      "start": 312.54,
+      "end": 317.92,
+      "ts": "05:12.540 -> 05:17.920",
+      "jp": "みんなで晩御飯を食べてデザートにスイカを食べて",
+      "jp_html": "みんなで<ruby>晩御飯<rt>ばんごはん</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>デザートにスイカを<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "大家一起吃晚饭，然后吃西瓜当甜点",
+      "en": "Everyone had dinner together and ate watermelon for dessert."
+    },
+    {
+      "id": 102,
+      "start": 317.92,
+      "end": 323.0,
+      "ts": "05:17.920 -> 05:23.000",
+      "jp": "シャワーを浴びて7人分の洗濯をして",
+      "jp_html": "シャワーを<ruby>浴び<rt>あび</rt></ruby>て7<ruby>人分<rt>にんぶん</rt></ruby>の<ruby>洗濯<rt>せんたく</rt></ruby>をして",
+      "zh": "淋了个澡，做了七份洗衣",
+      "en": "Take a shower and do laundry for seven people"
+    },
+    {
+      "id": 103,
+      "start": 323.0,
+      "end": 326.6,
+      "ts": "05:23.000 -> 05:26.600",
+      "jp": "僕はコインランドリーに行って",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>コインランドリーに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "我去了一家自助洗衣店",
+      "en": "I went to the laundry mat."
+    },
+    {
+      "id": 104,
+      "start": 326.6,
+      "end": 332.92,
+      "ts": "05:26.600 -> 05:32.920",
+      "jp": "30分ドライヤーを使って乾燥機を使って",
+      "jp_html": "30<ruby>分<rt>ふん</rt></ruby>ドライヤーを<ruby>使って<rt>つかって</rt></ruby><ruby>乾燥機<rt>かんそうき</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>",
+      "zh": "用30分钟吹风机吹干后再用烘干机",
+      "en": "Use a 30-minute hair dryer and the dryer."
+    },
+    {
+      "id": 105,
+      "start": 332.92,
+      "end": 336.88,
+      "ts": "05:32.920 -> 05:36.880",
+      "jp": "夜遅くに帰っておやすみなさいと",
+      "jp_html": "<ruby>夜遅く<rt>よるおそく</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>ておやすみなさいと",
+      "zh": "晚些时候回家说晚安",
+      "en": "Go to sleep and say goodnight late at night"
+    },
+    {
+      "id": 106,
+      "start": 336.88,
+      "end": 339.8,
+      "ts": "05:36.880 -> 05:39.800",
+      "jp": "2日目はそんな感じ",
+      "jp_html": "2<ruby>日目<rt>にちめ</rt></ruby>はそんな<ruby>感じ<rt>かんじ</rt></ruby>",
+      "zh": "第二天感觉就是这样",
+      "en": "The second day was kind of like that."
+    },
+    {
+      "id": 107,
+      "start": 339.8,
+      "end": 342.4,
+      "ts": "05:39.800 -> 05:42.400",
+      "jp": "次回3日目ですね",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>3<ruby>日目<rt>にちめ</rt></ruby>ですね",
+      "zh": "这是第二天吧",
+      "en": "It's the third day next time."
+    },
+    {
+      "id": 108,
+      "start": 342.4,
+      "end": 346.16,
+      "ts": "05:42.400 -> 05:46.160",
+      "jp": "1エピソードで1日の話しかできない",
+      "jp_html": "1エピソードで1<ruby>日<rt>にち</rt></ruby>の<ruby>話し<rt>はなし</rt></ruby>かできない",
+      "zh": "只能用一集来讲述一天的故事",
+      "en": "I can only tell a story of one day per episode."
+    },
+    {
+      "id": 109,
+      "start": 346.16,
+      "end": 348.36,
+      "ts": "05:46.160 -> 05:48.360",
+      "jp": "結構大変です",
+      "jp_html": "<ruby>結構大変<rt>けっこうたいへん</rt></ruby>です",
+      "zh": "结构很大变动",
+      "en": "It's really difficult."
+    },
+    {
+      "id": 110,
+      "start": 348.36,
+      "end": 350.7,
+      "ts": "05:48.360 -> 05:50.700",
+      "jp": "結構疲れました",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>疲れ<rt>つかれ</rt></ruby>ました",
+      "zh": "结构累垮了",
+      "en": "I felt really tired."
+    },
+    {
+      "id": 111,
+      "start": 350.7,
+      "end": 352.24,
+      "ts": "05:50.700 -> 05:52.240",
+      "jp": "でも楽しかったです",
+      "jp_html": "でも<ruby>楽しか<rt>たのしか</rt></ruby>ったです",
+      "zh": "但也很开心",
+      "en": "But it was fun."
+    },
+    {
+      "id": 112,
+      "start": 352.24,
+      "end": 354.1,
+      "ts": "05:52.240 -> 05:54.100",
+      "jp": "次回は3日目",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>は3<ruby>日目<rt>にちめ</rt></ruby>",
+      "zh": "下次是第三天",
+      "en": "The next one is day 3"
+    },
+    {
+      "id": 113,
+      "start": 354.1,
+      "end": 355.62,
+      "ts": "05:54.100 -> 05:55.620",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

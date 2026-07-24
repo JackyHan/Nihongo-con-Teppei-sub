@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1552",
+      "title": "#1552「最近やっていたことについて！②」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/07/24/1552%e3%80%8c%e6%9c%80%e8%bf%91%e3%82%84%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9f%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e2%91%a1%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1552.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1552.json"
+    },
+    {
       "id": "1551",
       "title": "#1551「最近の話①」",
       "category_id": "podcast",
