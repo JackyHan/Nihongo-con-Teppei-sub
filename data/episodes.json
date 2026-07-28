@@ -1,5 +1,29 @@
 [
   {
+    "id": "1554",
+    "title": "#1554「最近のことについて！④」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/07/27/1554%e3%80%8c%e6%9c%80%e8%bf%91%e3%81%ae%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e2%91%a3%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1554.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1554.json"
+  },
+  {
+    "id": "1553",
+    "title": "#1553「最近のこと③」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/07/26/1553%e3%80%8c%e6%9c%80%e8%bf%91%e3%81%ae%e3%81%93%e3%81%a8%e2%91%a2%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1553.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1553.json"
+  },
+  {
     "id": "1552",
     "title": "#1552「最近やっていたことについて！②」",
     "category_id": "podcast",
