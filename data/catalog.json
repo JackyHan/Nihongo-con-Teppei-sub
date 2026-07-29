@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1555",
+      "title": "#1555「いろいろなことの続き⑤（最後）」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/07/29/1555%e3%80%8c%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d%e3%81%aa%e3%81%93%e3%81%a8%e3%81%ae%e7%b6%9a%e3%81%8d%e2%91%a4%ef%bc%88%e6%9c%80%e5%be%8c%ef%bc%89%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1555.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1555.json"
+    },
+    {
       "id": "1554",
       "title": "#1554「最近のことについて！④」",
       "category_id": "podcast",
