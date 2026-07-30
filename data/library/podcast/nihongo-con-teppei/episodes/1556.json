@@ -1,0 +1,1564 @@
+{
+  "id": "1556",
+  "title": "#1556「田舎日記①」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1556.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/07/Beginners-con-Teppei1556.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/07/30/1556%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%98%e2%91%a0%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.3,
+      "end": 2.74,
+      "ts": "00:01.300 -> 00:02.740",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.74,
+      "end": 7.92,
+      "ts": "00:02.740 -> 00:07.920",
+      "jp": "今日は田舎日記",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>",
+      "zh": "今天乡村日记",
+      "en": "Today's Countryside Diary"
+    },
+    {
+      "id": 2,
+      "start": 7.92,
+      "end": 12.52,
+      "ts": "00:07.920 -> 00:12.520",
+      "jp": "はいみなさんおはようございます",
+      "jp_html": "はいみなさんおはようございます",
+      "zh": "大家早上好",
+      "en": "Good morning everyone"
+    },
+    {
+      "id": 3,
+      "start": 12.52,
+      "end": 19.34,
+      "ts": "00:12.520 -> 00:19.340",
+      "jp": "僕は今大分県の田舎に来ています",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>今<rt>いま</rt></ruby><ruby>大分県<rt>おおいたけん</rt></ruby>の<ruby>田舎<rt>いなか</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>います",
+      "zh": "我现在来到了大分县的 countryside",
+      "en": "I am now in the countryside of福岡县"
+    },
+    {
+      "id": 4,
+      "start": 19.34,
+      "end": 23.52,
+      "ts": "00:19.340 -> 00:23.520",
+      "jp": "僕の両親の家ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>ですね",
+      "zh": "我父母的家呢",
+      "en": "This is my parents' house."
+    },
+    {
+      "id": 5,
+      "start": 23.52,
+      "end": 29.44,
+      "ts": "00:23.520 -> 00:29.440",
+      "jp": "毎年夏になるとここに来ます",
+      "jp_html": "<ruby>毎年<rt>まいとし</rt></ruby><ruby>夏<rt>なつ</rt></ruby>になるとここに<ruby>来ま<rt>きま</rt></ruby>す",
+      "zh": "每年夏天都会来这里",
+      "en": "Every summer, I come here."
+    },
+    {
+      "id": 6,
+      "start": 29.44,
+      "end": 33.64,
+      "ts": "00:29.440 -> 00:33.640",
+      "jp": "そして今回は3週間ぐらい",
+      "jp_html": "そして<ruby>今回<rt>こんかい</rt></ruby>は3<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい",
+      "zh": "然后这次是大约三周左右",
+      "en": "And this time it's about 3 weeks or so."
+    },
+    {
+      "id": 7,
+      "start": 33.64,
+      "end": 35.7,
+      "ts": "00:33.640 -> 00:35.700",
+      "jp": "長いですね",
+      "jp_html": "<ruby>長い<rt>ながい</rt></ruby>ですね",
+      "zh": "好长啊",
+      "en": "It's long, isn't it?"
+    },
+    {
+      "id": 8,
+      "start": 35.7,
+      "end": 41.44,
+      "ts": "00:35.700 -> 00:41.440",
+      "jp": "長い田舎の生活が始まりました",
+      "jp_html": "<ruby>長い<rt>ながい</rt></ruby><ruby>田舎<rt>いなか</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ました",
+      "zh": "开始了乡村的漫长生活",
+      "en": "The long rural life has begun."
+    },
+    {
+      "id": 9,
+      "start": 41.44,
+      "end": 43.52,
+      "ts": "00:41.440 -> 00:43.520",
+      "jp": "昨日ですね",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>ですね",
+      "zh": "昨天呢",
+      "en": "It was yesterday."
+    },
+    {
+      "id": 10,
+      "start": 43.52,
+      "end": 45.26,
+      "ts": "00:43.520 -> 00:45.260",
+      "jp": "昨日来ました",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby><ruby>来ま<rt>きま</rt></ruby>した",
+      "zh": "昨天来了",
+      "en": "I came yesterday."
+    },
+    {
+      "id": 11,
+      "start": 45.26,
+      "end": 48.14,
+      "ts": "00:45.260 -> 00:48.140",
+      "jp": "それで",
+      "jp_html": "それで",
+      "zh": "那么",
+      "en": "Then"
+    },
+    {
+      "id": 12,
+      "start": 48.14,
+      "end": 53.24,
+      "ts": "00:48.140 -> 00:53.240",
+      "jp": "九州で地震がありましたね",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>で<ruby>地震<rt>じしん</rt></ruby>がありましたね",
+      "zh": "九州发生了地震啊",
+      "en": "There was an earthquake in Kyushu, wasn't it?"
+    },
+    {
+      "id": 13,
+      "start": 53.24,
+      "end": 54.62,
+      "ts": "00:53.240 -> 00:54.620",
+      "jp": "大きい地震",
+      "jp_html": "<ruby>大きい<rt>おおきい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>",
+      "zh": "大地震",
+      "en": "Big earthquake"
+    },
+    {
+      "id": 14,
+      "start": 54.62,
+      "end": 58.6,
+      "ts": "00:54.620 -> 00:58.600",
+      "jp": "熊本県で大きい地震がありました",
+      "jp_html": "<ruby>熊本県<rt>くまもとけん</rt></ruby>で<ruby>大きい<rt>おおきい</rt></ruby><ruby>地震<rt>じしん</rt></ruby>がありました",
+      "zh": "熊本县发生了大地震",
+      "en": "There was a big earthquake in Kumamoto Prefecture."
+    },
+    {
+      "id": 15,
+      "start": 58.6,
+      "end": 66.3,
+      "ts": "00:58.600 -> 01:06.300",
+      "jp": "僕がいるのは大分県なのでまあ大丈夫ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がいるのは<ruby>大分県<rt>おおいたけん</rt></ruby>なのでまあ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですね",
+      "zh": "我是在大分县，所以应该没问题吧。",
+      "en": "I am in Fukuoka prefecture, so it should be okay then."
+    },
+    {
+      "id": 16,
+      "start": 66.3,
+      "end": 71.28,
+      "ts": "01:06.300 -> 01:11.280",
+      "jp": "僕の両親は結構揺れたと言ってました",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>揺れ<rt>ゆれ</rt></ruby>たと<ruby>言って<rt>いって</rt></ruby>ました",
+      "zh": "我的父母说是挺动荡的",
+      "en": "My parents said they were quite shaken up."
+    },
+    {
+      "id": 17,
+      "start": 71.28,
+      "end": 73.98,
+      "ts": "01:11.280 -> 01:13.980",
+      "jp": "地震で揺れると言いますね",
+      "jp_html": "<ruby>地震<rt>じしん</rt></ruby>で<ruby>揺れ<rt>ゆれ</rt></ruby>ると<ruby>言い<rt>いい</rt></ruby>ますね",
+      "zh": "地震摇晃的意思就是这样说的吧",
+      "en": "They say the earth shakes during an earthquake."
+    },
+    {
+      "id": 18,
+      "start": 73.98,
+      "end": 74.9,
+      "ts": "01:13.980 -> 01:14.900",
+      "jp": "家が揺れた",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>が<ruby>揺れ<rt>ゆれ</rt></ruby>た",
+      "zh": "房子摇晃了",
+      "en": "The house shook."
+    },
+    {
+      "id": 19,
+      "start": 74.9,
+      "end": 78.58,
+      "ts": "01:14.900 -> 01:18.580",
+      "jp": "だけどここは大丈夫",
+      "jp_html": "だけどここは<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "但是这里没事",
+      "en": "But here it's okay."
+    },
+    {
+      "id": 20,
+      "start": 78.58,
+      "end": 83.94,
+      "ts": "01:18.580 -> 01:23.940",
+      "jp": "でも熊本県は結構大変みたいです",
+      "jp_html": "でも<ruby>熊本県<rt>くまもとけん</rt></ruby>は<ruby>結構大変<rt>けっこうたいへん</rt></ruby>みたいです",
+      "zh": "但是熊本县似乎挺麻烦的",
+      "en": "But it seems Kumamoto Prefecture is quite badly affected."
+    },
+    {
+      "id": 21,
+      "start": 83.94,
+      "end": 89.9,
+      "ts": "01:23.940 -> 01:29.900",
+      "jp": "ニュースを見るとたくさんの家が壊れたり",
+      "jp_html": "ニュースを<ruby>見る<rt>みる</rt></ruby>とたくさんの<ruby>家<rt>いえ</rt></ruby>が<ruby>壊れ<rt>こわれ</rt></ruby>たり",
+      "zh": "看新闻看到很多房子都被毁了",
+      "en": "Watching the news shows that many houses have been destroyed or"
+    },
+    {
+      "id": 22,
+      "start": 89.9,
+      "end": 94.78,
+      "ts": "01:29.900 -> 01:34.780",
+      "jp": "あとはショッピングモールで大きい事故ですね",
+      "jp_html": "あとはショッピングモールで<ruby>大きい<rt>おおきい</rt></ruby><ruby>事故<rt>じこ</rt></ruby>ですね",
+      "zh": "在购物中心发生的话，就是大事故了",
+      "en": "The biggest accident is at the shopping mall."
+    },
+    {
+      "id": 23,
+      "start": 94.78,
+      "end": 101.8,
+      "ts": "01:34.780 -> 01:41.800",
+      "jp": "爆発があってちょっとまだ理由はちゃんと分かってない",
+      "jp_html": "<ruby>爆発<rt>ばくはつ</rt></ruby>があってちょっとまだ<ruby>理由<rt>りゆう</rt></ruby>はちゃんと<ruby>分か<rt>わか</rt></ruby>ってない",
+      "zh": "爆炸了，原因还不太清楚",
+      "en": "There was an explosion and I'm not quite sure about the reason yet."
+    },
+    {
+      "id": 24,
+      "start": 101.8,
+      "end": 107.72,
+      "ts": "01:41.800 -> 01:47.720",
+      "jp": "多分ガスかなガスの問題かなというニュースを見ました",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ガスかなガスの<ruby>問題<rt>もんだい</rt></ruby>かなというニュースを<ruby>見ま<rt>みま</rt></ruby>した",
+      "zh": "我看到新闻说是可能是燃气的问题",
+      "en": "I saw a news report that it's probably a gas issue related to gas problems."
+    },
+    {
+      "id": 25,
+      "start": 107.72,
+      "end": 114.66,
+      "ts": "01:47.720 -> 01:54.660",
+      "jp": "夏休みですね夏休みが始まって",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>ですね<ruby>夏休み<rt>なつやすみ</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>って",
+      "zh": "暑假开始了呢",
+      "en": "It's summer vacation. Summer vacation has started."
+    },
+    {
+      "id": 26,
+      "start": 114.66,
+      "end": 123.92,
+      "ts": "01:54.660 -> 02:03.920",
+      "jp": "これから皆さんにも田舎の生活を伝えていきたいと思います",
+      "jp_html": "これから<ruby>皆さん<rt>みなさん</rt></ruby>にも<ruby>田舎<rt>いなか</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>伝え<rt>つたえ</rt></ruby>ていきたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我将要向大家介绍乡村的生活",
+      "en": "I want to introduce rural life to all of you from now on."
+    },
+    {
+      "id": 27,
+      "start": 123.92,
+      "end": 132.14,
+      "ts": "02:03.920 -> 02:12.140",
+      "jp": "昨日ですねまず朝羽田空港に行って",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>ですねまず<ruby>朝<rt>あさ</rt></ruby><ruby>羽田空港<rt>はねだくうこう</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "昨天呢，首先早上去了羽田机场",
+      "en": "It was yesterday. First thing in the morning, I went to Haneda Airport."
+    },
+    {
+      "id": 28,
+      "start": 132.14,
+      "end": 136.48,
+      "ts": "02:12.140 -> 02:16.480",
+      "jp": "飛行機が少し遅れて",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>少し<rt>すこし</rt></ruby><ruby>遅れ<rt>おくれ</rt></ruby>て",
+      "zh": "飞机稍微晚点",
+      "en": "The plane will be slightly delayed."
+    },
+    {
+      "id": 29,
+      "start": 136.48,
+      "end": 144.58,
+      "ts": "02:16.480 -> 02:24.580",
+      "jp": "昼には大分に着きました大分空港に",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>には<ruby>大分<rt>おおいた</rt></ruby>に<ruby>着き<rt>つき</rt></ruby>ました<ruby>大分<rt>おおいた</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>に",
+      "zh": "白天我们到了大分，抵达了大分机场。",
+      "en": "We arrived inŌita in the afternoon at Ōita Airport."
+    },
+    {
+      "id": 30,
+      "start": 144.58,
+      "end": 149.22,
+      "ts": "02:24.580 -> 02:29.220",
+      "jp": "まず羽田空港はやっぱり人が多い",
+      "jp_html": "まず<ruby>羽田空港<rt>はねだくうこう</rt></ruby>はやっぱり<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>",
+      "zh": "首先，成田机场果然人很多",
+      "en": "First, Haneda Airport is definitely crowded."
+    },
+    {
+      "id": 31,
+      "start": 149.22,
+      "end": 155.7,
+      "ts": "02:29.220 -> 02:35.700",
+      "jp": "そしてたくさん飛行機があって広くて",
+      "jp_html": "そしてたくさん<ruby>飛行機<rt>ひこうき</rt></ruby>があって<ruby>広く<rt>ひろく</rt></ruby>て",
+      "zh": "然后有很多飞机而且很大",
+      "en": "And there are many airplanes and it is wide and open."
+    },
+    {
+      "id": 32,
+      "start": 155.7,
+      "end": 160.2,
+      "ts": "02:35.700 -> 02:40.200",
+      "jp": "もちろん東京ですからね",
+      "jp_html": "もちろん<ruby>東京<rt>とうきょう</rt></ruby>ですからね",
+      "zh": "当然，这是东京呢",
+      "en": "Of course, since it's Tokyo."
+    },
+    {
+      "id": 33,
+      "start": 160.2,
+      "end": 165.78,
+      "ts": "02:40.200 -> 02:45.780",
+      "jp": "そして大分空港に着くと人が少ない",
+      "jp_html": "そして<ruby>大分<rt>おおいた</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>に<ruby>着く<rt>つく</rt></ruby>と<ruby>人<rt>にん</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>",
+      "zh": "然后到达大分机场时人很少",
+      "en": "And when we arrived at Daigo Airport, there weren't many people."
+    },
+    {
+      "id": 34,
+      "start": 165.78,
+      "end": 168.4,
+      "ts": "02:45.780 -> 02:48.400",
+      "jp": "飛行機も少ない",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>も<ruby>少ない<rt>すくない</rt></ruby>",
+      "zh": "飞机也少",
+      "en": "There are also few airplanes."
+    },
+    {
+      "id": 35,
+      "start": 168.4,
+      "end": 171.5,
+      "ts": "02:48.400 -> 02:51.500",
+      "jp": "全てが小さくて",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>が<ruby>小さく<rt>ちーさく</rt></ruby>て",
+      "zh": "一切都很小",
+      "en": "Everything is small"
+    },
+    {
+      "id": 36,
+      "start": 171.5,
+      "end": 174.08,
+      "ts": "02:51.500 -> 02:54.080",
+      "jp": "大分空港に着いたら",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>に<ruby>着い<rt>つい</rt></ruby>たら",
+      "zh": "到了大分机场之后",
+      "en": "When I arrive atŌita Airport"
+    },
+    {
+      "id": 37,
+      "start": 174.08,
+      "end": 176.72,
+      "ts": "02:54.080 -> 02:56.720",
+      "jp": "大分に来たなと",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>なと",
+      "zh": "你来了大分啊",
+      "en": "I see you've come toŌita."
+    },
+    {
+      "id": 38,
+      "start": 176.72,
+      "end": 179.94,
+      "ts": "02:56.720 -> 02:59.940",
+      "jp": "まずはそんな感じがしました",
+      "jp_html": "まずはそんな<ruby>感じ<rt>かんじ</rt></ruby>がしました",
+      "zh": "首先就是那种感觉",
+      "en": "At first, it felt that way."
+    },
+    {
+      "id": 39,
+      "start": 179.94,
+      "end": 185.0,
+      "ts": "02:59.940 -> 03:05.000",
+      "jp": "大分空港はニックネームがあって",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>はニックネームがあって",
+      "zh": "大分机场有一个昵称",
+      "en": "Daigo Airport has a nickname."
+    },
+    {
+      "id": 40,
+      "start": 185.0,
+      "end": 190.38,
+      "ts": "03:05.000 -> 03:10.380",
+      "jp": "大分ハローキティ空港と言います",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>ハローキティ<ruby>空港<rt>くうこう</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ます",
+      "zh": "大分Hello Kitty机场",
+      "en": "It is called Daito Hello Kitty Airport."
+    },
+    {
+      "id": 41,
+      "start": 190.38,
+      "end": 192.56,
+      "ts": "03:10.380 -> 03:12.560",
+      "jp": "大分ハローキティ空港",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>ハローキティ<ruby>空港<rt>くうこう</rt></ruby>",
+      "zh": "大分县Hello Kitty机场",
+      "en": "Daito Hello Kitty Airport"
+    },
+    {
+      "id": 42,
+      "start": 192.56,
+      "end": 195.44,
+      "ts": "03:12.560 -> 03:15.440",
+      "jp": "なんでハローキティかというと",
+      "jp_html": "なんでハローキティかというと",
+      "zh": "为什么是Hello Kitty呢",
+      "en": "The reason why Hello Kitty is used is because"
+    },
+    {
+      "id": 43,
+      "start": 195.44,
+      "end": 199.22,
+      "ts": "03:15.440 -> 03:19.220",
+      "jp": "大分にはハーモニーランドという",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>にはハーモニーランドという",
+      "zh": "大分县有一个叫做哈蒙乐园的地方",
+      "en": "Daisan has Harmony Land as"
+    },
+    {
+      "id": 44,
+      "start": 199.22,
+      "end": 203.38,
+      "ts": "03:19.220 -> 03:23.380",
+      "jp": "サンリオテーマパークがあります",
+      "jp_html": "サンリオテーマパークがあります",
+      "zh": "有サンrio主题公园",
+      "en": "There is a Sanrio Theme Park."
+    },
+    {
+      "id": 45,
+      "start": 203.38,
+      "end": 209.84,
+      "ts": "03:23.380 -> 03:29.840",
+      "jp": "なのでハローキティのテーマパークですよね",
+      "jp_html": "なのでハローキティのテーマパークですよね",
+      "zh": "所以是Hello Kitty的主题公园吧？",
+      "en": "So it's a Hello Kitty theme park, right?"
+    },
+    {
+      "id": 46,
+      "start": 209.84,
+      "end": 212.92,
+      "ts": "03:29.840 -> 03:32.920",
+      "jp": "キティちゃんのテーマパーク",
+      "jp_html": "キティちゃんのテーマパーク",
+      "zh": "Kitty酱的主题公园",
+      "en": "Kitty-chan's theme park"
+    },
+    {
+      "id": 47,
+      "start": 214.74,
+      "end": 217.44,
+      "ts": "03:34.740 -> 03:37.440",
+      "jp": "実は僕は何回か行ったことがあります",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>何回<rt>なんかい</rt></ruby>か<ruby>行った<rt>いった</rt></ruby>ことがあります",
+      "zh": "其实我以前去过几次。",
+      "en": "Actually, I have been there a few times."
+    },
+    {
+      "id": 48,
+      "start": 217.44,
+      "end": 218.42,
+      "ts": "03:37.440 -> 03:38.420",
+      "jp": "何回か",
+      "jp_html": "<ruby>何回<rt>なんかい</rt></ruby>か",
+      "zh": "几次",
+      "en": "How many times?"
+    },
+    {
+      "id": 49,
+      "start": 218.42,
+      "end": 220.18,
+      "ts": "03:38.420 -> 03:40.180",
+      "jp": "まあでも",
+      "jp_html": "まあでも",
+      "zh": "好吧但也",
+      "en": "Well, but"
+    },
+    {
+      "id": 50,
+      "start": 220.18,
+      "end": 221.54,
+      "ts": "03:40.180 -> 03:41.540",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 51,
+      "start": 221.54,
+      "end": 224.8,
+      "ts": "03:41.540 -> 03:44.800",
+      "jp": "ハローキティだからね",
+      "jp_html": "ハローキティだからね",
+      "zh": "因为是Hello Kitty啊",
+      "en": "Because it's Hello Kitty."
+    },
+    {
+      "id": 52,
+      "start": 224.8,
+      "end": 227.84,
+      "ts": "03:44.800 -> 03:47.840",
+      "jp": "僕はあんまり興味ないですけどね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>あんまり<ruby>興味<rt>きょうみ</rt></ruby>ないですけどね",
+      "zh": "我没什么兴趣啦",
+      "en": "I don't really have much interest in it though."
+    },
+    {
+      "id": 53,
+      "start": 227.84,
+      "end": 231.04,
+      "ts": "03:47.840 -> 03:51.040",
+      "jp": "僕の子供もあんまり興味がない",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>もあんまり<ruby>興味<rt>きょうみ</rt></ruby>がない",
+      "zh": "我的孩子也没多大兴趣",
+      "en": "My children aren't very interested either."
+    },
+    {
+      "id": 54,
+      "start": 231.04,
+      "end": 235.78,
+      "ts": "03:51.040 -> 03:55.780",
+      "jp": "ちょっとやっぱり女の子っぽいかな",
+      "jp_html": "ちょっとやっぱり<ruby>女の子<rt>おんなのこ</rt></ruby>っぽいかな",
+      "zh": "嗯，果然有点女生的感觉吧",
+      "en": "Kind of definitely seems girly, doesn't it?"
+    },
+    {
+      "id": 55,
+      "start": 235.78,
+      "end": 240.8,
+      "ts": "03:55.780 -> 04:00.800",
+      "jp": "そういうことは今言わない方がいいのかもしれないが",
+      "jp_html": "そういうことは<ruby>今<rt>いま</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>ない<ruby>方が<rt>ほうが</rt></ruby>いいのかもしれないが",
+      "zh": "也许现在不说那种事情比较好",
+      "en": "It might be better not to say such things now."
+    },
+    {
+      "id": 56,
+      "start": 240.8,
+      "end": 244.58,
+      "ts": "04:00.800 -> 04:04.580",
+      "jp": "はっきり言って興味がない",
+      "jp_html": "はっきり<ruby>言って<rt>いって</rt></ruby><ruby>興味<rt>きょうみ</rt></ruby>がない",
+      "zh": "老实说没有兴趣",
+      "en": "Frankly, I'm not interested."
+    },
+    {
+      "id": 57,
+      "start": 244.58,
+      "end": 248.14,
+      "ts": "04:04.580 -> 04:08.140",
+      "jp": "でももし興味がある人は",
+      "jp_html": "でももし<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "但是如果有兴趣的人可以",
+      "en": "But if you're interested,"
+    },
+    {
+      "id": 58,
+      "start": 248.14,
+      "end": 249.96,
+      "ts": "04:08.140 -> 04:09.960",
+      "jp": "ハローキティ",
+      "jp_html": "ハローキティ",
+      "zh": "Hello Kitty",
+      "en": "Hello Kitty"
+    },
+    {
+      "id": 59,
+      "start": 249.96,
+      "end": 251.96,
+      "ts": "04:09.960 -> 04:11.960",
+      "jp": "ハーモニーランド",
+      "jp_html": "ハーモニーランド",
+      "zh": "和谐乐园",
+      "en": "Harmonland"
+    },
+    {
+      "id": 60,
+      "start": 253.08,
+      "end": 254.48,
+      "ts": "04:13.080 -> 04:14.480",
+      "jp": "行ってみてください",
+      "jp_html": "<ruby>行って<rt>いって</rt></ruby>みてください",
+      "zh": "请去试试看",
+      "en": "Go and see please."
+    },
+    {
+      "id": 61,
+      "start": 254.48,
+      "end": 256.64,
+      "ts": "04:14.480 -> 04:16.640",
+      "jp": "ちょっとねアクセスは悪いですね",
+      "jp_html": "ちょっとねアクセスは<ruby>悪い<rt>わるい</rt></ruby>ですね",
+      "zh": "稍微来说一下，访问似乎不太方便呢",
+      "en": "Well, the access seems to be quite poor."
+    },
+    {
+      "id": 62,
+      "start": 256.64,
+      "end": 260.24,
+      "ts": "04:16.640 -> 04:20.240",
+      "jp": "ちょっとアクセスが悪い",
+      "jp_html": "ちょっとアクセスが<ruby>悪い<rt>わるい</rt></ruby>",
+      "zh": "稍微有点难访问",
+      "en": "It's a bit hard to access."
+    },
+    {
+      "id": 63,
+      "start": 260.24,
+      "end": 265.22,
+      "ts": "04:20.240 -> 04:25.220",
+      "jp": "空港からは遠くないかな",
+      "jp_html": "<ruby>空港<rt>くうこう</rt></ruby>からは<ruby>遠く<rt>とおく</rt></ruby>ないかな",
+      "zh": "机场不是很远吧？",
+      "en": "Is it not far from the airport?"
+    },
+    {
+      "id": 64,
+      "start": 265.22,
+      "end": 268.9,
+      "ts": "04:25.220 -> 04:28.900",
+      "jp": "だけど大分市からは遠い",
+      "jp_html": "だけど<ruby>大分<rt>おおいた</rt></ruby><ruby>市<rt>し</rt></ruby>からは<ruby>遠い<rt>とおい</rt></ruby>",
+      "zh": "但是距离大分市很远",
+      "en": "But it's quite far fromŌsaka city."
+    },
+    {
+      "id": 65,
+      "start": 268.9,
+      "end": 272.78,
+      "ts": "04:28.900 -> 04:32.780",
+      "jp": "僕の田舎は大分市の田舎です",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>田舎<rt>いなか</rt></ruby>は<ruby>大分<rt>おおいた</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>田舎<rt>いなか</rt></ruby>です",
+      "zh": "我的家乡是大分市的农村",
+      "en": "My countryside is from the countryside ofdatable city."
+    },
+    {
+      "id": 66,
+      "start": 272.78,
+      "end": 276.5,
+      "ts": "04:32.780 -> 04:36.500",
+      "jp": "大分市から少し車で行ったところ",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby><ruby>市<rt>し</rt></ruby>から<ruby>少し<rt>すこし</rt></ruby><ruby>車<rt>くるま</rt></ruby>で<ruby>行った<rt>いった</rt></ruby>ところ",
+      "zh": "开车从大分市稍微前往一点的地方",
+      "en": "A little drive fromŌita City"
+    },
+    {
+      "id": 67,
+      "start": 276.5,
+      "end": 277.74,
+      "ts": "04:36.500 -> 04:37.740",
+      "jp": "山の中",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>",
+      "zh": "山中",
+      "en": "Among the mountains"
+    },
+    {
+      "id": 68,
+      "start": 277.74,
+      "end": 280.4,
+      "ts": "04:37.740 -> 04:40.400",
+      "jp": "ここは山の中",
+      "jp_html": "ここは<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>",
+      "zh": "这里在山中",
+      "en": "This is in the middle of the mountains."
+    },
+    {
+      "id": 69,
+      "start": 280.4,
+      "end": 284.79,
+      "ts": "04:40.400 -> 04:44.790",
+      "jp": "空気はいい",
+      "jp_html": "<ruby>空気<rt>くうき</rt></ruby>はいい",
+      "zh": "空气很好",
+      "en": "The air is good."
+    },
+    {
+      "id": 70,
+      "start": 284.79,
+      "end": 286.29,
+      "ts": "04:44.790 -> 04:46.290",
+      "jp": "空気がきれいです",
+      "jp_html": "<ruby>空気<rt>くうき</rt></ruby>がきれいです",
+      "zh": "空气很清新",
+      "en": "The air is clean."
+    },
+    {
+      "id": 71,
+      "start": 286.29,
+      "end": 290.47,
+      "ts": "04:46.290 -> 04:50.470",
+      "jp": "そして山があって川がある",
+      "jp_html": "そして<ruby>山<rt>やま</rt></ruby>があって<ruby>川<rt>かわ</rt></ruby>がある",
+      "zh": "然后有山有河",
+      "en": "And there are mountains and rivers."
+    },
+    {
+      "id": 72,
+      "start": 290.47,
+      "end": 292.19,
+      "ts": "04:50.470 -> 04:52.190",
+      "jp": "海はありません",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>はありません",
+      "zh": "没有海",
+      "en": "There is no sea."
+    },
+    {
+      "id": 73,
+      "start": 292.19,
+      "end": 295.11,
+      "ts": "04:52.190 -> 04:55.110",
+      "jp": "海はちょっと遠い",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>はちょっと<ruby>遠い<rt>とおい</rt></ruby>",
+      "zh": "海稍微远一点",
+      "en": "The sea is a bit far."
+    },
+    {
+      "id": 74,
+      "start": 295.11,
+      "end": 296.43,
+      "ts": "04:55.110 -> 04:56.430",
+      "jp": "山と川",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>と<ruby>川<rt>かわ</rt></ruby>",
+      "zh": "山和河",
+      "en": "Mountains and rivers"
+    },
+    {
+      "id": 75,
+      "start": 296.43,
+      "end": 297.67,
+      "ts": "04:56.430 -> 04:57.670",
+      "jp": "田んぼ",
+      "jp_html": "<ruby>田んぼ<rt>たんぼ</rt></ruby>",
+      "zh": "稻田",
+      "en": "paddy field"
+    },
+    {
+      "id": 76,
+      "start": 297.67,
+      "end": 298.77,
+      "ts": "04:57.670 -> 04:58.770",
+      "jp": "畑",
+      "jp_html": "<ruby>畑<rt>はたけ</rt></ruby>",
+      "zh": "田地",
+      "en": "field"
+    },
+    {
+      "id": 77,
+      "start": 298.77,
+      "end": 303.15,
+      "ts": "04:58.770 -> 05:03.150",
+      "jp": "おじいちゃんおばあちゃん",
+      "jp_html": "おじいちゃんおばあちゃん",
+      "zh": "爷爷奶奶",
+      "en": "grandpa grandma"
+    },
+    {
+      "id": 78,
+      "start": 303.15,
+      "end": 305.11,
+      "ts": "05:03.150 -> 05:05.110",
+      "jp": "そういう場所",
+      "jp_html": "そういう<ruby>場所<rt>ばしょ</rt></ruby>",
+      "zh": "那种地方",
+      "en": "That kind of place"
+    },
+    {
+      "id": 79,
+      "start": 305.11,
+      "end": 307.17,
+      "ts": "05:05.110 -> 05:07.170",
+      "jp": "たくさんの老人",
+      "jp_html": "たくさんの<ruby>老人<rt>ろうじん</rt></ruby>",
+      "zh": "很多老人",
+      "en": "Many elderly people"
+    },
+    {
+      "id": 80,
+      "start": 307.17,
+      "end": 311.07,
+      "ts": "05:07.170 -> 05:11.070",
+      "jp": "僕の両親ももう老人ですよね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>ももう<ruby>老人<rt>ろうじん</rt></ruby>ですよね",
+      "zh": "我的父母也已经是老人了",
+      "en": "My parents are seniors too now."
+    },
+    {
+      "id": 81,
+      "start": 311.07,
+      "end": 313.51,
+      "ts": "05:11.070 -> 05:13.510",
+      "jp": "70代は老人ですね",
+      "jp_html": "70<ruby>代は<rt>かは</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ですね",
+      "zh": "70多岁算是老年人了",
+      "en": "The 70s would be considered old age."
+    },
+    {
+      "id": 82,
+      "start": 314.79,
+      "end": 321.61,
+      "ts": "05:14.790 -> 05:21.610",
+      "jp": "僕のおばあちゃん93歳でまだ元気ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のおばあちゃん93<ruby>歳<rt>とし</rt></ruby>でまだ<ruby>元気<rt>げんき</rt></ruby>ですね",
+      "zh": "我的奶奶93岁了仍然很健康",
+      "en": "My grandmother is 93 years old and she's still very energetic."
+    },
+    {
+      "id": 83,
+      "start": 321.61,
+      "end": 322.81,
+      "ts": "05:21.610 -> 05:22.810",
+      "jp": "めっちゃ元気でした",
+      "jp_html": "めっちゃ<ruby>元気<rt>げんき</rt></ruby>でした",
+      "zh": "非常有活力",
+      "en": "They were really energetic."
+    },
+    {
+      "id": 84,
+      "start": 322.81,
+      "end": 325.13,
+      "ts": "05:22.810 -> 05:25.130",
+      "jp": "今元気です",
+      "jp_html": "<ruby>今元<rt>いまもと</rt></ruby><ruby>気で<rt>きで</rt></ruby>す",
+      "zh": "我现在很好",
+      "en": "I am feeling energetic now."
+    },
+    {
+      "id": 85,
+      "start": 325.13,
+      "end": 327.17,
+      "ts": "05:25.130 -> 05:27.170",
+      "jp": "昨日ね",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>ね",
+      "zh": "昨天呢",
+      "en": "Yesterday, ne"
+    },
+    {
+      "id": 86,
+      "start": 327.17,
+      "end": 331.61,
+      "ts": "05:27.170 -> 05:31.610",
+      "jp": "僕と子供",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>",
+      "zh": "我和孩子",
+      "en": "Me and the children"
+    },
+    {
+      "id": 87,
+      "start": 331.61,
+      "end": 337.47,
+      "ts": "05:31.610 -> 05:37.470",
+      "jp": "僕の奥さんはちょっと仕事があるので東京にいるんですが",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>はちょっと<ruby>仕事<rt>しごと</rt></ruby>があるので<ruby>東京<rt>とうきょう</rt></ruby>にいるんですが",
+      "zh": "我的妻子因为工作的原因在东京",
+      "en": "My wife is in Tokyo for a little work."
+    },
+    {
+      "id": 88,
+      "start": 337.47,
+      "end": 343.73,
+      "ts": "05:37.470 -> 05:43.730",
+      "jp": "僕と子供で帰ってきて",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>で<ruby>帰っ<rt>かえっ</rt></ruby>てきて",
+      "zh": "我和孩子回来",
+      "en": "I came back with my child."
+    },
+    {
+      "id": 89,
+      "start": 343.73,
+      "end": 344.91,
+      "ts": "05:43.730 -> 05:44.910",
+      "jp": "おばあちゃんはいなかった",
+      "jp_html": "おばあちゃんはいなかった",
+      "zh": "奶奶不在了",
+      "en": "The grandmother was not there."
+    },
+    {
+      "id": 90,
+      "start": 344.91,
+      "end": 347.39,
+      "ts": "05:44.910 -> 05:47.390",
+      "jp": "昨日はおばあさんはいませんでした",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>はおばあさんはいませんでした",
+      "zh": "昨天奶奶不在家",
+      "en": "Yesterday grandma wasn't here."
+    },
+    {
+      "id": 91,
+      "start": 347.39,
+      "end": 350.11,
+      "ts": "05:47.390 -> 05:50.110",
+      "jp": "であれおばあちゃんはどこに行った",
+      "jp_html": "であれおばあちゃんはどこに<ruby>行った<rt>いった</rt></ruby>",
+      "zh": "那个奶奶去哪儿了",
+      "en": "I wonder where grandma went."
+    },
+    {
+      "id": 92,
+      "start": 350.11,
+      "end": 351.29,
+      "ts": "05:50.110 -> 05:51.290",
+      "jp": "というと",
+      "jp_html": "というと",
+      "zh": "这么说",
+      "en": "And say"
+    },
+    {
+      "id": 93,
+      "start": 351.29,
+      "end": 356.93,
+      "ts": "05:51.290 -> 05:56.930",
+      "jp": "なんかちょっとコミュニティセンターみたいなところで",
+      "jp_html": "なんかちょっとコミュニティセンターみたいなところで",
+      "zh": "好像在某个小小的社区中心里",
+      "en": "It's kind of like a community center somewhere."
+    },
+    {
+      "id": 94,
+      "start": 356.93,
+      "end": 363.53,
+      "ts": "05:56.930 -> 06:03.530",
+      "jp": "いろいろなおばあさんおじいさんたちと",
+      "jp_html": "いろいろなおばあさんおじいさんたちと",
+      "zh": "和各种爷爷奶奶们一起",
+      "en": "Various grandparents and elderly people and"
+    },
+    {
+      "id": 95,
+      "start": 363.53,
+      "end": 366.29,
+      "ts": "06:03.530 -> 06:06.290",
+      "jp": "ちょっと遊んだり話したり",
+      "jp_html": "ちょっと<ruby>遊んだ<rt>あそんだ</rt></ruby>り<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "稍微玩一下，聊一聊天",
+      "en": "Played a bit and talked a bit"
+    },
+    {
+      "id": 96,
+      "start": 366.29,
+      "end": 367.87,
+      "ts": "06:06.290 -> 06:07.870",
+      "jp": "そういう場所があるんですよね",
+      "jp_html": "そういう<ruby>場所<rt>ばしょ</rt></ruby>があるんですよね",
+      "zh": "有这样的地方呢",
+      "en": "There is a place like that, you know?"
+    },
+    {
+      "id": 97,
+      "start": 367.87,
+      "end": 371.43,
+      "ts": "06:07.870 -> 06:11.430",
+      "jp": "そこに毎日行ってるので",
+      "jp_html": "そこに<ruby>毎日<rt>まいにち</rt></ruby><ruby>行って<rt>いって</rt></ruby>るので",
+      "zh": "因为每天都去那里",
+      "en": "I go there every day so"
+    },
+    {
+      "id": 98,
+      "start": 371.43,
+      "end": 374.37,
+      "ts": "06:11.430 -> 06:14.370",
+      "jp": "今はいないと",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>はいないと",
+      "zh": "现在没有了",
+      "en": "Now they are not here."
+    },
+    {
+      "id": 99,
+      "start": 374.37,
+      "end": 376.05,
+      "ts": "06:14.370 -> 06:16.050",
+      "jp": "少ししたら",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>したら",
+      "zh": "过一会儿",
+      "en": "Wait a moment"
+    },
+    {
+      "id": 100,
+      "start": 376.05,
+      "end": 378.53,
+      "ts": "06:16.050 -> 06:18.530",
+      "jp": "おばあさん帰ってきました",
+      "jp_html": "おばあさん<ruby>帰っ<rt>かえっ</rt></ruby>てきました",
+      "zh": "奶奶回来了",
+      "en": "Grandma has come back home."
+    },
+    {
+      "id": 101,
+      "start": 378.53,
+      "end": 379.89,
+      "ts": "06:18.530 -> 06:19.890",
+      "jp": "おばあちゃん帰ってきて",
+      "jp_html": "おばあちゃん<ruby>帰っ<rt>かえっ</rt></ruby>てきて",
+      "zh": "奶奶回来了",
+      "en": "Grandma came back."
+    },
+    {
+      "id": 102,
+      "start": 379.89,
+      "end": 381.63,
+      "ts": "06:19.890 -> 06:21.630",
+      "jp": "すごくね元気になってた",
+      "jp_html": "すごくね<ruby>元気<rt>げんき</rt></ruby>になってた",
+      "zh": "真的吗？看起来精神好多了",
+      "en": "He was really getting better and seemed very energetic."
+    },
+    {
+      "id": 103,
+      "start": 381.63,
+      "end": 383.37,
+      "ts": "06:21.630 -> 06:23.370",
+      "jp": "なんでかな",
+      "jp_html": "なんでかな",
+      "zh": "为什么呢",
+      "en": "Why is that?"
+    },
+    {
+      "id": 104,
+      "start": 383.37,
+      "end": 386.49,
+      "ts": "06:23.370 -> 06:26.490",
+      "jp": "まああの",
+      "jp_html": "まああの",
+      "zh": "嗯，那个",
+      "en": "Well, those"
+    },
+    {
+      "id": 105,
+      "start": 386.49,
+      "end": 390.33,
+      "ts": "06:26.490 -> 06:30.330",
+      "jp": "そのコミュニティセンターに",
+      "jp_html": "そのコミュニティセンターに",
+      "zh": "那个社区中心里",
+      "en": "That community center"
+    },
+    {
+      "id": 106,
+      "start": 390.33,
+      "end": 392.27,
+      "ts": "06:30.330 -> 06:32.270",
+      "jp": "行き始めたのが",
+      "jp_html": "<ruby>行き<rt>いき</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>たのが",
+      "zh": "开始出发的是",
+      "en": "It started when"
+    },
+    {
+      "id": 107,
+      "start": 392.27,
+      "end": 394.07,
+      "ts": "06:32.270 -> 06:34.070",
+      "jp": "今年の",
+      "jp_html": "<ruby>今年<rt>こんねん</rt></ruby>の",
+      "zh": "今年的",
+      "en": "This year's"
+    },
+    {
+      "id": 108,
+      "start": 394.07,
+      "end": 396.73,
+      "ts": "06:34.070 -> 06:36.730",
+      "jp": "そうですね今年の春からかな",
+      "jp_html": "そうですね<ruby>今年<rt>こんねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>からかな",
+      "zh": "对呢，是从今年春天开始吧",
+      "en": "Yes, probably from this spring."
+    },
+    {
+      "id": 109,
+      "start": 396.73,
+      "end": 398.11,
+      "ts": "06:36.730 -> 06:38.110",
+      "jp": "今年の春から",
+      "jp_html": "<ruby>今年<rt>こんねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から",
+      "zh": "从今年春天开始",
+      "en": "From this spring onwards"
+    },
+    {
+      "id": 110,
+      "start": 398.11,
+      "end": 400.53,
+      "ts": "06:38.110 -> 06:40.530",
+      "jp": "そしてなんかね",
+      "jp_html": "そしてなんかね",
+      "zh": "然后呢",
+      "en": "And somehow/neatly"
+    },
+    {
+      "id": 111,
+      "start": 400.53,
+      "end": 405.67,
+      "ts": "06:40.530 -> 06:45.670",
+      "jp": "やっぱり毎日家族以外の人に会って",
+      "jp_html": "やっぱり<ruby>毎日<rt>まいにち</rt></ruby><ruby>家族以外<rt>かぞくいがい</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>会っ<rt>あっ</rt></ruby>て",
+      "zh": "果然每天都要见一些家人之外的人",
+      "en": "Anyway, I meet people other than my family every day."
+    },
+    {
+      "id": 112,
+      "start": 405.67,
+      "end": 410.65,
+      "ts": "06:45.670 -> 06:50.650",
+      "jp": "家族じゃない僕のお母さんとかお父さんじゃない人たちに会って",
+      "jp_html": "<ruby>家族<rt>かぞく</rt></ruby>じゃない<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>とかお<ruby>父さん<rt>とうさん</rt></ruby>じゃない<ruby>人<rt>にん</rt></ruby>たちに<ruby>会っ<rt>あっ</rt></ruby>て",
+      "zh": "见到不是我家人但像家人一样的人们",
+      "en": "Meeting people who aren't my family but act like my mom and dad"
+    },
+    {
+      "id": 113,
+      "start": 410.65,
+      "end": 416.05,
+      "ts": "06:50.650 -> 06:56.050",
+      "jp": "話したり一緒に食べたりね",
+      "jp_html": "<ruby>話し<rt>はなし</rt></ruby>たり<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>りね",
+      "zh": "说话一起吃东西呢",
+      "en": "Talk and eat together, you know."
+    },
+    {
+      "id": 114,
+      "start": 416.05,
+      "end": 419.17,
+      "ts": "06:56.050 -> 06:59.170",
+      "jp": "それは病院じゃない",
+      "jp_html": "それは<ruby>病院<rt>びょういん</rt></ruby>じゃない",
+      "zh": "那不是医院",
+      "en": "That's not a hospital."
+    },
+    {
+      "id": 115,
+      "start": 419.17,
+      "end": 420.17,
+      "ts": "06:59.170 -> 07:00.170",
+      "jp": "病院じゃない",
+      "jp_html": "<ruby>病院<rt>びょういん</rt></ruby>じゃない",
+      "zh": "不是医院",
+      "en": "It's not a hospital."
+    },
+    {
+      "id": 116,
+      "start": 420.17,
+      "end": 425.11,
+      "ts": "07:00.170 -> 07:05.110",
+      "jp": "だけどいろいろ手伝ってくれるんですね",
+      "jp_html": "だけどいろいろ<ruby>手伝っ<rt>てつだっ</rt></ruby>てくれるんですね",
+      "zh": "但是 Various帮助很多呢",
+      "en": "But he does help out with various things, though."
+    },
+    {
+      "id": 117,
+      "start": 425.11,
+      "end": 431.83,
+      "ts": "07:05.110 -> 07:11.830",
+      "jp": "お風呂もあるし",
+      "jp_html": "お<ruby>風呂<rt>ふろ</rt></ruby>もあるし",
+      "zh": "也有浴缸",
+      "en": "There's also a bathtub."
+    },
+    {
+      "id": 118,
+      "start": 431.83,
+      "end": 434.89,
+      "ts": "07:11.830 -> 07:14.890",
+      "jp": "多分ちょっとストレッチとかね",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ちょっとストレッチとかね",
+      "zh": "大概稍微做些拉伸吧",
+      "en": "Probably just do some stretching or something like that."
+    },
+    {
+      "id": 119,
+      "start": 434.89,
+      "end": 436.51,
+      "ts": "07:14.890 -> 07:16.510",
+      "jp": "そういう運動とかもしたり",
+      "jp_html": "そういう<ruby>運動<rt>うんどう</rt></ruby>とかもしたり",
+      "zh": "也参加过这样的运动活动",
+      "en": "Do such movements as well"
+    },
+    {
+      "id": 120,
+      "start": 436.51,
+      "end": 439.35,
+      "ts": "07:16.510 -> 07:19.350",
+      "jp": "まあまあなんか楽しいらしいです",
+      "jp_html": "まあまあなんか<ruby>楽しい<rt>たのしい</rt></ruby>らしいです",
+      "zh": "好像挺有趣的",
+      "en": "Seems like they are having fun somehow."
+    },
+    {
+      "id": 121,
+      "start": 439.35,
+      "end": 443.41,
+      "ts": "07:19.350 -> 07:23.410",
+      "jp": "でおばあちゃんはなんか元気になった",
+      "jp_html": "でおばあちゃんはなんか<ruby>元気<rt>げんき</rt></ruby>になった",
+      "zh": "所以奶奶好像精神好了些",
+      "en": "So grandma seemed to have gained some energy."
+    },
+    {
+      "id": 122,
+      "start": 443.41,
+      "end": 448.81,
+      "ts": "07:23.410 -> 07:28.810",
+      "jp": "実は1年前は少し心配してました",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby>1<ruby>年前<rt>ねんまえ</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>心配<rt>しんぱい</rt></ruby>してました",
+      "zh": "其实去年我有点担心。",
+      "en": "Actually, I was a bit worried about it last year."
+    },
+    {
+      "id": 123,
+      "start": 448.81,
+      "end": 451.79,
+      "ts": "07:28.810 -> 07:31.790",
+      "jp": "ちょっとねなんか元気がなかった",
+      "jp_html": "ちょっとねなんか<ruby>元気<rt>げんき</rt></ruby>がなかった",
+      "zh": "嗯，我有点没精神",
+      "en": "I wasn't feeling very energetic, you know?"
+    },
+    {
+      "id": 124,
+      "start": 451.79,
+      "end": 454.77,
+      "ts": "07:31.790 -> 07:34.770",
+      "jp": "ちょっと病気じゃないけど",
+      "jp_html": "ちょっと<ruby>病気<rt>びょうき</rt></ruby>じゃないけど",
+      "zh": "有点不舒服但不算生病",
+      "en": "I'm not really sick, but..."
+    },
+    {
+      "id": 125,
+      "start": 454.77,
+      "end": 457.99,
+      "ts": "07:34.770 -> 07:37.990",
+      "jp": "ちょっとこう気持ちが弱いというか",
+      "jp_html": "ちょっとこう<ruby>気持ち<rt>きもち</rt></ruby>が<ruby>弱い<rt>よわい</rt></ruby>というか",
+      "zh": "感觉有点虚弱",
+      "en": "I feel a bit weak emotionally."
+    },
+    {
+      "id": 126,
+      "start": 457.99,
+      "end": 460.51,
+      "ts": "07:37.990 -> 07:40.510",
+      "jp": "あんまり笑わないというか",
+      "jp_html": "あんまり<ruby>笑わ<rt>わらわ</rt></ruby>ないというか",
+      "zh": "不太爱笑",
+      "en": "I don't laugh very often, I guess."
+    },
+    {
+      "id": 127,
+      "start": 460.51,
+      "end": 464.89,
+      "ts": "07:40.510 -> 07:44.890",
+      "jp": "でも今年はねすごく元気に見える",
+      "jp_html": "でも<ruby>今年<rt>こんねん</rt></ruby>はねすごく<ruby>元気<rt>げんき</rt></ruby>に<ruby>見え<rt>みえ</rt></ruby>る",
+      "zh": "但是今年呢看上去非常有活力",
+      "en": "But this year, I seem to be looking much more lively."
+    },
+    {
+      "id": 128,
+      "start": 464.89,
+      "end": 467.71,
+      "ts": "07:44.890 -> 07:47.710",
+      "jp": "笑ってますね笑顔ですねいいですね",
+      "jp_html": "<ruby>笑っ<rt>わらっ</rt></ruby>てますね<ruby>笑顔<rt>えがお</rt></ruby>ですねいいですね",
+      "zh": "他在笑着呢笑容很好啊不错",
+      "en": "They are laughing, their smiles are nice, that's good."
+    },
+    {
+      "id": 129,
+      "start": 467.71,
+      "end": 474.3,
+      "ts": "07:47.710 -> 07:54.300",
+      "jp": "やっぱり家の中にずっといるのは良くないですね",
+      "jp_html": "やっぱり<ruby>家<rt>いえ</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>ずっといるのは<ruby>良く<rt>よく</rt></ruby>ないですね",
+      "zh": "果然待在家里太久也不好呢",
+      "en": "It's not good to stay at home all the time, you know?"
+    },
+    {
+      "id": 130,
+      "start": 474.3,
+      "end": 479.12,
+      "ts": "07:54.300 -> 07:59.120",
+      "jp": "年をとってもいろんな人に会って話をする",
+      "jp_html": "<ruby>年<rt>ねん</rt></ruby>をとってもいろんな<ruby>人<rt>にん</rt></ruby>に<ruby>会っ<rt>あっ</rt></ruby>て<ruby>話<rt>はなし</rt></ruby>をする",
+      "zh": "年纪大了也一样能见到各种各样的人聊天",
+      "en": "Even in old age, I meet and talk to many people."
+    },
+    {
+      "id": 131,
+      "start": 479.12,
+      "end": 481.9,
+      "ts": "07:59.120 -> 08:01.900",
+      "jp": "これが元気の秘訣",
+      "jp_html": "これが<ruby>元気<rt>げんき</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>",
+      "zh": "这是保持活力的秘诀",
+      "en": "This is the secret to staying energetic."
+    },
+    {
+      "id": 132,
+      "start": 481.9,
+      "end": 487.02,
+      "ts": "08:01.900 -> 08:07.020",
+      "jp": "秘訣というのは元気の秘密みたいな",
+      "jp_html": "<ruby>秘訣<rt>ひけつ</rt></ruby>というのは<ruby>元気<rt>げんき</rt></ruby>の<ruby>秘密<rt>ひみつ</rt></ruby>みたいな",
+      "zh": "秘诀就是活力的秘密之类的",
+      "en": "The secret is like the secret to staying energetic."
+    },
+    {
+      "id": 133,
+      "start": 487.02,
+      "end": 491.24,
+      "ts": "08:07.020 -> 08:11.240",
+      "jp": "秘訣は秘密ほとんど同じ意味ですね",
+      "jp_html": "<ruby>秘訣<rt>ひけつ</rt></ruby>は<ruby>秘密<rt>ひみつ</rt></ruby>ほとんど<ruby>同じ<rt>おなじ</rt></ruby><ruby>意味<rt>いみ</rt></ruby>ですね",
+      "zh": "秘诀几乎具有相同的意思吧",
+      "en": "The secret is almost the same meaning, right?"
+    },
+    {
+      "id": 134,
+      "start": 491.24,
+      "end": 491.84,
+      "ts": "08:11.240 -> 08:11.840",
+      "jp": "秘密",
+      "jp_html": "<ruby>秘密<rt>ひみつ</rt></ruby>",
+      "zh": "秘密",
+      "en": "Secret"
+    },
+    {
+      "id": 135,
+      "start": 491.84,
+      "end": 493.28,
+      "ts": "08:11.840 -> 08:13.280",
+      "jp": "secret",
+      "jp_html": "secret",
+      "zh": "秘密",
+      "en": "secret"
+    },
+    {
+      "id": 136,
+      "start": 493.28,
+      "end": 496.0,
+      "ts": "08:13.280 -> 08:16.000",
+      "jp": "秘密秘訣",
+      "jp_html": "<ruby>秘密<rt>ひみつ</rt></ruby><ruby>秘訣<rt>ひけつ</rt></ruby>",
+      "zh": "秘诀",
+      "en": "secrets tricks"
+    },
+    {
+      "id": 137,
+      "start": 496.0,
+      "end": 498.82,
+      "ts": "08:16.000 -> 08:18.820",
+      "jp": "元気の秘訣と言いますね",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ますね",
+      "zh": "说秘诀是什么呢",
+      "en": "Secrets of vitality, I see."
+    },
+    {
+      "id": 138,
+      "start": 498.82,
+      "end": 500.28,
+      "ts": "08:18.820 -> 08:20.280",
+      "jp": "元気の秘訣は何ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか",
+      "zh": "活力的秘诀是什么",
+      "en": "What is the secret to vitality?"
+    },
+    {
+      "id": 139,
+      "start": 500.28,
+      "end": 502.52,
+      "ts": "08:20.280 -> 08:22.520",
+      "jp": "おばあちゃん元気の秘訣は何ですか",
+      "jp_html": "おばあちゃん<ruby>元気<rt>げんき</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>は<ruby>何で<rt>なんで</rt></ruby>すか",
+      "zh": "奶奶的秘诀是什么让身体好？",
+      "en": "What is grandma's secret to staying energetic?"
+    },
+    {
+      "id": 140,
+      "start": 502.52,
+      "end": 507.36,
+      "ts": "08:22.520 -> 08:27.360",
+      "jp": "元気の秘訣は人に会って話すことです",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>は<ruby>人<rt>にん</rt></ruby>に<ruby>会っ<rt>あっ</rt></ruby>て<ruby>話す<rt>はなす</rt></ruby>ことです",
+      "zh": "保持活力的秘诀是与人交谈。",
+      "en": "The secret to staying energetic is talking to people."
+    },
+    {
+      "id": 141,
+      "start": 507.36,
+      "end": 511.88,
+      "ts": "08:27.360 -> 08:31.880",
+      "jp": "毎日散歩をすることです",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>散歩<rt>さんぽ</rt></ruby>をすることです",
+      "zh": "每天散步就是了",
+      "en": "It is about taking a walk every day."
+    },
+    {
+      "id": 142,
+      "start": 511.9,
+      "end": 516.0,
+      "ts": "08:31.900 -> 08:36.000",
+      "jp": "まあちょっと散歩は大変かな",
+      "jp_html": "まあちょっと<ruby>散歩<rt>さんぽ</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>かな",
+      "zh": "maybe 散步有点麻烦呢",
+      "en": "Well, walking might be a bit tough, huh?"
+    },
+    {
+      "id": 143,
+      "start": 516.0,
+      "end": 521.7,
+      "ts": "08:36.000 -> 08:41.700",
+      "jp": "暑いんですねやっぱり",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby>んですねやっぱり",
+      "zh": "果然好热呢",
+      "en": "It's really hot, huh?"
+    },
+    {
+      "id": 144,
+      "start": 521.7,
+      "end": 526.16,
+      "ts": "08:41.700 -> 08:46.160",
+      "jp": "九州だから暑いというわけではなくて",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>だから<ruby>暑い<rt>あつい</rt></ruby>というわけではなくて",
+      "zh": "这不是因为位于九州才炎热的。",
+      "en": "It's not because it's Kyushu that it's hot."
+    },
+    {
+      "id": 145,
+      "start": 526.16,
+      "end": 528.2,
+      "ts": "08:46.160 -> 08:48.200",
+      "jp": "日本全部暑いですから",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>暑い<rt>あつい</rt></ruby>ですから",
+      "zh": "日本全部都很热",
+      "en": "It's hot in all of Japan."
+    },
+    {
+      "id": 146,
+      "start": 528.2,
+      "end": 532.76,
+      "ts": "08:48.200 -> 08:52.760",
+      "jp": "やっぱり今は散歩はちょっと難しいかな",
+      "jp_html": "やっぱり<ruby>今<rt>いま</rt></ruby>は<ruby>散歩<rt>さんぽ</rt></ruby>はちょっと<ruby>難しい<rt>むずかしい</rt></ruby>かな",
+      "zh": "果然现在散步有点难吧",
+      "en": "I guess it's a bit difficult to go for a walk now, huh?"
+    },
+    {
+      "id": 147,
+      "start": 532.76,
+      "end": 537.72,
+      "ts": "08:52.760 -> 08:57.720",
+      "jp": "今日はねまあ悪くない30度ぐらい",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ねまあ<ruby>悪く<rt>わるく</rt></ruby>ない30<ruby>度<rt>ど</rt></ruby>ぐらい",
+      "zh": "今天呢嘛还好，大约30度左右",
+      "en": "Today, well, not bad, around 30 degrees."
+    },
+    {
+      "id": 148,
+      "start": 537.72,
+      "end": 542.32,
+      "ts": "08:57.720 -> 09:02.320",
+      "jp": "30度は涼しいですかね",
+      "jp_html": "30<ruby>度<rt>ど</rt></ruby>は<ruby>涼しい<rt>すずしい</rt></ruby>ですかね",
+      "zh": "30度算是凉爽吗",
+      "en": "Is 30 degrees cool, I wonder?"
+    },
+    {
+      "id": 149,
+      "start": 542.32,
+      "end": 543.86,
+      "ts": "09:02.320 -> 09:03.860",
+      "jp": "暑いですかね",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby>ですかね",
+      "zh": "天气热吧？",
+      "en": "Is it hot, I wonder?"
+    },
+    {
+      "id": 150,
+      "start": 543.86,
+      "end": 545.98,
+      "ts": "09:03.860 -> 09:05.980",
+      "jp": "もう分かりません",
+      "jp_html": "もう<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "我已经不明白",
+      "en": "I don't understand anymore."
+    },
+    {
+      "id": 151,
+      "start": 545.98,
+      "end": 549.32,
+      "ts": "09:05.980 -> 09:09.320",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "就这样",
+      "en": "Therefore"
+    },
+    {
+      "id": 152,
+      "start": 549.32,
+      "end": 555.74,
+      "ts": "09:09.320 -> 09:15.740",
+      "jp": "これから田舎日記また始まります",
+      "jp_html": "これから<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>また<ruby>始まり<rt>はじまり</rt></ruby>ます",
+      "zh": "接下来，乡下日记又要开始了。",
+      "en": "My rural diary will start again."
+    },
+    {
+      "id": 153,
+      "start": 555.74,
+      "end": 558.72,
+      "ts": "09:15.740 -> 09:18.720",
+      "jp": "毎日聞いてください",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请每天听一听。",
+      "en": "Please listen every day."
+    },
+    {
+      "id": 154,
+      "start": 558.72,
+      "end": 560.42,
+      "ts": "09:18.720 -> 09:20.420",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
