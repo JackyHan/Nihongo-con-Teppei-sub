@@ -1,0 +1,2124 @@
+{
+  "id": "1557",
+  "title": "#1557「田舎日記②」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1557.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1557.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/01/1557%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%98%e2%91%a1%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.74,
+      "end": 7.58,
+      "ts": "00:01.740 -> 00:07.580",
+      "jp": "今日も田舎日記",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>",
+      "zh": "今天的乡村日记",
+      "en": "Today's Countryside Diary"
+    },
+    {
+      "id": 1,
+      "start": 7.58,
+      "end": 11.2,
+      "ts": "00:07.580 -> 00:11.200",
+      "jp": "皆さん元気ですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你们好嗎？",
+      "en": "Are you all well?"
+    },
+    {
+      "id": 2,
+      "start": 11.2,
+      "end": 12.68,
+      "ts": "00:11.200 -> 00:12.680",
+      "jp": "日本語コンテッペ",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペ",
+      "zh": "日语conteppe",
+      "en": "Japanese context"
+    },
+    {
+      "id": 3,
+      "start": 12.68,
+      "end": 17.52,
+      "ts": "00:12.680 -> 00:17.520",
+      "jp": "田舎日記の時間です",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>です",
+      "zh": "乡村日记的时间到了",
+      "en": "It's time for the countryside diary."
+    },
+    {
+      "id": 4,
+      "start": 17.52,
+      "end": 21.84,
+      "ts": "00:17.520 -> 00:21.840",
+      "jp": "僕は東京に住んでいて",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいて",
+      "zh": "我住在东京",
+      "en": "I live in Tokyo."
+    },
+    {
+      "id": 5,
+      "start": 21.84,
+      "end": 26.22,
+      "ts": "00:21.840 -> 00:26.220",
+      "jp": "ちょっとシティボーイっぽくしてますが",
+      "jp_html": "ちょっとシティボーイっぽくしてますが",
+      "zh": "稍微弄得有点城市男孩的感觉但",
+      "en": "I've made it a bit city boy style, but"
+    },
+    {
+      "id": 6,
+      "start": 26.22,
+      "end": 29.7,
+      "ts": "00:26.220 -> 00:29.700",
+      "jp": "本当はカントリーボーイなんですね",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>はカントリーボーイなんですね",
+      "zh": "原来是个乡村男孩啊",
+      "en": "You're really a country boy, aren't you?"
+    },
+    {
+      "id": 7,
+      "start": 29.7,
+      "end": 33.78,
+      "ts": "00:29.700 -> 00:33.780",
+      "jp": "僕は田舎で生まれ育ちました",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>田舎<rt>いなか</rt></ruby>で<ruby>生まれ<rt>うまれ</rt></ruby><ruby>育ち<rt>そだち</rt></ruby>ました",
+      "zh": "我是在乡下出生和长大的",
+      "en": "I was born and raised in the countryside."
+    },
+    {
+      "id": 8,
+      "start": 33.78,
+      "end": 37.6,
+      "ts": "00:33.780 -> 00:37.600",
+      "jp": "生まれた時からこの小さい場所",
+      "jp_html": "<ruby>生まれ<rt>うまれ</rt></ruby>た<ruby>時<rt>とき</rt></ruby>からこの<ruby>小さい<rt>ちーさい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>",
+      "zh": "从我出生以来这个小小的地方",
+      "en": "From the moment I was born in this small place"
+    },
+    {
+      "id": 9,
+      "start": 37.6,
+      "end": 39.02,
+      "ts": "00:37.600 -> 00:39.020",
+      "jp": "山の中",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>",
+      "zh": "山中",
+      "en": "Among the mountains"
+    },
+    {
+      "id": 10,
+      "start": 39.02,
+      "end": 41.86,
+      "ts": "00:39.020 -> 00:41.860",
+      "jp": "川が近くにあって",
+      "jp_html": "<ruby>川<rt>かわ</rt></ruby>が<ruby>近く<rt>ちかく</rt></ruby>にあって",
+      "zh": "河就在附近",
+      "en": "There is a river nearby."
+    },
+    {
+      "id": 11,
+      "start": 41.86,
+      "end": 45.16,
+      "ts": "00:41.860 -> 00:45.160",
+      "jp": "虫の声",
+      "jp_html": "<ruby>虫<rt>むし</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>",
+      "zh": "虫鸣声",
+      "en": "Sound of insects"
+    },
+    {
+      "id": 12,
+      "start": 45.16,
+      "end": 46.58,
+      "ts": "00:45.160 -> 00:46.580",
+      "jp": "鳥の声",
+      "jp_html": "<ruby>鳥<rt>とり</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>",
+      "zh": "鸟的声音",
+      "en": "The sound of birds"
+    },
+    {
+      "id": 13,
+      "start": 46.58,
+      "end": 50.5,
+      "ts": "00:46.580 -> 00:50.500",
+      "jp": "人間の声はあまり聞こえません",
+      "jp_html": "<ruby>人間<rt>にんげん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>はあまり<ruby>聞こ<rt>きこ</rt></ruby>えません",
+      "zh": "人的声音很少能听到",
+      "en": "Human voices are not heard very much."
+    },
+    {
+      "id": 14,
+      "start": 50.5,
+      "end": 53.74,
+      "ts": "00:50.500 -> 00:53.740",
+      "jp": "人間はあまりたくさんいません",
+      "jp_html": "<ruby>人間<rt>にんげん</rt></ruby>はあまりたくさんいません",
+      "zh": "人类并不多",
+      "en": "There aren't too many people."
+    },
+    {
+      "id": 15,
+      "start": 54.52,
+      "end": 57.24,
+      "ts": "00:54.520 -> 00:57.240",
+      "jp": "でも虫や鳥",
+      "jp_html": "でも<ruby>虫<rt>むし</rt></ruby>や<ruby>鳥<rt>とり</rt></ruby>",
+      "zh": "但也虫或鸟",
+      "en": "But bugs and birds"
+    },
+    {
+      "id": 16,
+      "start": 57.24,
+      "end": 58.52,
+      "ts": "00:57.240 -> 00:58.520",
+      "jp": "動物",
+      "jp_html": "<ruby>動物<rt>どうぶつ</rt></ruby>",
+      "zh": "动物",
+      "en": "animals"
+    },
+    {
+      "id": 17,
+      "start": 58.52,
+      "end": 61.5,
+      "ts": "00:58.520 -> 01:01.500",
+      "jp": "たくさんいます",
+      "jp_html": "たくさんいます",
+      "zh": "有很多",
+      "en": "There are many."
+    },
+    {
+      "id": 18,
+      "start": 61.5,
+      "end": 65.36,
+      "ts": "01:01.500 -> 01:05.360",
+      "jp": "まあまあ本当ですよ",
+      "jp_html": "まあまあ<ruby>本当<rt>ほんとう</rt></ruby>ですよ",
+      "zh": "好吧，说的都是真的。",
+      "en": "Well, that's really true."
+    },
+    {
+      "id": 19,
+      "start": 65.36,
+      "end": 67.76,
+      "ts": "01:05.360 -> 01:07.760",
+      "jp": "虫が多いね",
+      "jp_html": "<ruby>虫<rt>むし</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ね",
+      "zh": "虫很多吧",
+      "en": "There are many bugs, huh?"
+    },
+    {
+      "id": 20,
+      "start": 67.76,
+      "end": 70.34,
+      "ts": "01:07.760 -> 01:10.340",
+      "jp": "今の外を見てます",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>の<ruby>外<rt>そと</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>ます",
+      "zh": "现在我在看外面。",
+      "en": "I am looking at the outside now."
+    },
+    {
+      "id": 21,
+      "start": 70.34,
+      "end": 72.32,
+      "ts": "01:10.340 -> 01:12.320",
+      "jp": "今窓の外を見てます",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby><ruby>窓<rt>まど</rt></ruby>の<ruby>外<rt>そと</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>ます",
+      "zh": "现在我在看窗外。",
+      "en": "I am looking at the window outside."
+    },
+    {
+      "id": 22,
+      "start": 72.32,
+      "end": 75.9,
+      "ts": "01:12.320 -> 01:15.900",
+      "jp": "たくさんのトンボがいますね",
+      "jp_html": "たくさんのトンボがいますね",
+      "zh": "有很多蜻蜓吧",
+      "en": "There are many dragonflies, aren't there?"
+    },
+    {
+      "id": 23,
+      "start": 75.9,
+      "end": 76.42,
+      "ts": "01:15.900 -> 01:16.420",
+      "jp": "トンボ",
+      "jp_html": "トンボ",
+      "zh": "蜻蜓",
+      "en": "dragonfly"
+    },
+    {
+      "id": 24,
+      "start": 76.42,
+      "end": 80.06,
+      "ts": "01:16.420 -> 01:20.060",
+      "jp": "トンボわからない人はちょっとチェックしてください",
+      "jp_html": "トンボわからない<ruby>人<rt>にん</rt></ruby>はちょっとチェックしてください",
+      "zh": "不懂蜻蜓的人请稍微检查一下",
+      "en": "People who don't know what a dragonfly should take a moment to check."
+    },
+    {
+      "id": 25,
+      "start": 80.06,
+      "end": 80.64,
+      "ts": "01:20.060 -> 01:20.640",
+      "jp": "トンボ",
+      "jp_html": "トンボ",
+      "zh": "蜻蜓",
+      "en": "dragonfly"
+    },
+    {
+      "id": 26,
+      "start": 80.64,
+      "end": 83.46,
+      "ts": "01:20.640 -> 01:23.460",
+      "jp": "トンボは夏の虫ですね",
+      "jp_html": "トンボは<ruby>夏<rt>なつ</rt></ruby>の<ruby>虫<rt>むし</rt></ruby>ですね",
+      "zh": "蜻蜓是夏天的昆虫呢",
+      "en": "Dragonflies are summer insects, aren't they?"
+    },
+    {
+      "id": 27,
+      "start": 83.46,
+      "end": 88.62,
+      "ts": "01:23.460 -> 01:28.620",
+      "jp": "あの田んぼとか近くにいます",
+      "jp_html": "あの<ruby>田んぼ<rt>たんぼ</rt></ruby>とか<ruby>近く<rt>ちかく</rt></ruby>にいます",
+      "zh": "那些稻田就在附近。",
+      "en": "Those rice paddies are nearby."
+    },
+    {
+      "id": 28,
+      "start": 88.62,
+      "end": 91.3,
+      "ts": "01:28.620 -> 01:31.300",
+      "jp": "すごいなこのトンボの量が",
+      "jp_html": "すごいなこのトンボの<ruby>量<rt>りょう</rt></ruby>が",
+      "zh": "Wow，这么多蜻蜓呢",
+      "en": "The quantity of dragonflies here is amazing."
+    },
+    {
+      "id": 29,
+      "start": 91.3,
+      "end": 96.94,
+      "ts": "01:31.300 -> 01:36.940",
+      "jp": "僕の窓の外に多分今100匹ぐらいいますね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>多分<rt>たぶん</rt></ruby><ruby>今<rt>いま</rt></ruby>100<ruby>匹<rt>ひき</rt></ruby>ぐらいいますね",
+      "zh": "我的窗外大概现在有100来个吧",
+      "en": "There are probably about 100 of them outside my window now."
+    },
+    {
+      "id": 30,
+      "start": 96.94,
+      "end": 99.2,
+      "ts": "01:36.940 -> 01:39.200",
+      "jp": "トンボがすごいな",
+      "jp_html": "トンボがすごいな",
+      "zh": "蜻蜓真厉害啊",
+      "en": "The dragonfly is amazing!"
+    },
+    {
+      "id": 31,
+      "start": 99.2,
+      "end": 101.08,
+      "ts": "01:39.200 -> 01:41.080",
+      "jp": "トンボだらけ",
+      "jp_html": "トンボだらけ",
+      "zh": "满是蜻蜓",
+      "en": "Dragonflies everywhere"
+    },
+    {
+      "id": 32,
+      "start": 101.08,
+      "end": 105.9,
+      "ts": "01:41.080 -> 01:45.900",
+      "jp": "こんなたくさんいるすごいですね信じられないね",
+      "jp_html": "こんなたくさんいるすごいですね<ruby>信じ<rt>しんじ</rt></ruby>られないね",
+      "zh": "真不敢相信竟然有这么多真的好厉害",
+      "en": "It's amazing there are so many. I can't believe it."
+    },
+    {
+      "id": 33,
+      "start": 107.9,
+      "end": 110.9,
+      "ts": "01:47.900 -> 01:50.900",
+      "jp": "もうそしてセミの声ねもちろん",
+      "jp_html": "もうそしてセミの<ruby>声<rt>こえ</rt></ruby>ねもちろん",
+      "zh": "而且还有蝉的声音，当然",
+      "en": "And of course, the sound of crickets."
+    },
+    {
+      "id": 34,
+      "start": 111.74,
+      "end": 113.2,
+      "ts": "01:51.740 -> 01:53.200",
+      "jp": "セミの声が聞こえます",
+      "jp_html": "セミの<ruby>声<rt>こえ</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えます",
+      "zh": "能听到蝉的声音",
+      "en": "I can hear the sound of crickets."
+    },
+    {
+      "id": 35,
+      "start": 113.2,
+      "end": 115.88,
+      "ts": "01:53.200 -> 01:55.880",
+      "jp": "ずっとセミの声が聞こえます",
+      "jp_html": "ずっとセミの<ruby>声<rt>こえ</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えます",
+      "zh": "一直能听到蝉鸣的声音",
+      "en": "I can hear the sound of crickets all day long."
+    },
+    {
+      "id": 36,
+      "start": 115.88,
+      "end": 118.36,
+      "ts": "01:55.880 -> 01:58.360",
+      "jp": "でも人間の声はない",
+      "jp_html": "でも<ruby>人間<rt>にんげん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>はない",
+      "zh": "但没有人声",
+      "en": "But there is no human voice."
+    },
+    {
+      "id": 37,
+      "start": 118.36,
+      "end": 122.28,
+      "ts": "01:58.360 -> 02:02.280",
+      "jp": "たまに僕の子供の声がするぐらいで",
+      "jp_html": "たまに<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>がするぐらいで",
+      "zh": "有时能听到我孩子的声音",
+      "en": "Sometimes I can hear my child's voice, barely."
+    },
+    {
+      "id": 38,
+      "start": 122.28,
+      "end": 126.2,
+      "ts": "02:02.280 -> 02:06.200",
+      "jp": "僕のお母さんの声がたまに聞こえるぐらいで",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>がたまに<ruby>聞こ<rt>きこ</rt></ruby>えるぐらいで",
+      "zh": "我偶尔能听到我妈妈的声音",
+      "en": "I can sometimes hear my mother's voice."
+    },
+    {
+      "id": 39,
+      "start": 126.2,
+      "end": 130.96,
+      "ts": "02:06.200 -> 02:10.960",
+      "jp": "基本的に人間は少ないです",
+      "jp_html": "<ruby>基本的<rt>きほんてき</rt></ruby>に<ruby>人間<rt>にんげん</rt></ruby>は<ruby>少ない<rt>すくない</rt></ruby>です",
+      "zh": "基本上人很少。",
+      "en": "Basically there are few people."
+    },
+    {
+      "id": 40,
+      "start": 130.96,
+      "end": 132.88,
+      "ts": "02:10.960 -> 02:12.880",
+      "jp": "虫がたくさんいる",
+      "jp_html": "<ruby>虫<rt>むし</rt></ruby>がたくさんいる",
+      "zh": "有很多虫子",
+      "en": "There are many bugs."
+    },
+    {
+      "id": 41,
+      "start": 132.88,
+      "end": 136.3,
+      "ts": "02:12.880 -> 02:16.300",
+      "jp": "そして動物はまあ",
+      "jp_html": "そして<ruby>動物<rt>どうぶつ</rt></ruby>はまあ",
+      "zh": "然后动物们嘛",
+      "en": "And the animals, well"
+    },
+    {
+      "id": 42,
+      "start": 137.3,
+      "end": 139.66,
+      "ts": "02:17.300 -> 02:19.660",
+      "jp": "動物はね多分見えない",
+      "jp_html": "<ruby>動物<rt>どうぶつ</rt></ruby>はね<ruby>多分<rt>たぶん</rt></ruby><ruby>見え<rt>みえ</rt></ruby>ない",
+      "zh": "动物大概看不见。",
+      "en": "Animals, I think they can't see."
+    },
+    {
+      "id": 43,
+      "start": 139.66,
+      "end": 141.4,
+      "ts": "02:19.660 -> 02:21.400",
+      "jp": "山の中にいますね",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>いますね",
+      "zh": "你在山里面吧？",
+      "en": "You are in the mountains, I presume?"
+    },
+    {
+      "id": 44,
+      "start": 141.4,
+      "end": 145.18,
+      "ts": "02:21.400 -> 02:25.180",
+      "jp": "山の中には多分イノシシがいます",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby>イノシシがいます",
+      "zh": "山中probably有野猪。",
+      "en": "There are probably boars in the mountains."
+    },
+    {
+      "id": 45,
+      "start": 145.18,
+      "end": 148.38,
+      "ts": "02:25.180 -> 02:28.380",
+      "jp": "イノシシは豚みたいなやつですね",
+      "jp_html": "イノシシは<ruby>豚<rt>ぶた</rt></ruby>みたいなやつですね",
+      "zh": "猪就像像猪一样的东西吧",
+      "en": "Sika deer is like a pig, right?"
+    },
+    {
+      "id": 46,
+      "start": 148.38,
+      "end": 151.12,
+      "ts": "02:28.380 -> 02:31.120",
+      "jp": "豚みたいなやつですよね",
+      "jp_html": "<ruby>豚<rt>ぶた</rt></ruby>みたいなやつですよね",
+      "zh": "像猪一样的东西吧？",
+      "en": "Isn't that something like a pig?"
+    },
+    {
+      "id": 47,
+      "start": 151.12,
+      "end": 156.62,
+      "ts": "02:31.120 -> 02:36.620",
+      "jp": "イノシシは結構ね危ないです",
+      "jp_html": "イノシシは<ruby>結構<rt>けっこう</rt></ruby>ね<ruby>危ない<rt>あぶない</rt></ruby>です",
+      "zh": "野猪挺危险的",
+      "en": "Pigs can be quite dangerous."
+    },
+    {
+      "id": 48,
+      "start": 156.62,
+      "end": 159.32,
+      "ts": "02:36.620 -> 02:39.320",
+      "jp": "イノシシは結構危ない",
+      "jp_html": "イノシシは<ruby>結構<rt>けっこう</rt></ruby><ruby>危ない<rt>あぶない</rt></ruby>",
+      "zh": "野猪挺危险的",
+      "en": "Pigs can be quite dangerous."
+    },
+    {
+      "id": 49,
+      "start": 159.32,
+      "end": 161.12,
+      "ts": "02:39.320 -> 02:41.120",
+      "jp": "クマはいないです",
+      "jp_html": "クマはいないです",
+      "zh": "熊没有。",
+      "en": "There are no bears."
+    },
+    {
+      "id": 50,
+      "start": 161.12,
+      "end": 164.56,
+      "ts": "02:41.120 -> 02:44.560",
+      "jp": "九州にクマはほとんどいない",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>にクマはほとんどいない",
+      "zh": "九州几乎没有熊",
+      "en": "There are almost no bears in Kyushu."
+    },
+    {
+      "id": 51,
+      "start": 164.56,
+      "end": 170.0,
+      "ts": "02:44.560 -> 02:50.000",
+      "jp": "熊本県という名前はクマってついてるけど",
+      "jp_html": "<ruby>熊本県<rt>くまもとけん</rt></ruby>という<ruby>名前<rt>なまえ</rt></ruby>はクマってついてるけど",
+      "zh": "熊本县的名字里有个熊字不过",
+      "en": "The name Kumamoto Prefecture has \"bear\" in it but"
+    },
+    {
+      "id": 52,
+      "start": 170.0,
+      "end": 171.32,
+      "ts": "02:50.000 -> 02:51.320",
+      "jp": "クマはいない",
+      "jp_html": "クマはいない",
+      "zh": "没有熊",
+      "en": "There are no bears."
+    },
+    {
+      "id": 53,
+      "start": 171.32,
+      "end": 173.38,
+      "ts": "02:51.320 -> 02:53.380",
+      "jp": "確かいない",
+      "jp_html": "<ruby>確か<rt>たしか</rt></ruby>いない",
+      "zh": "肯定没有",
+      "en": "I'm not sure."
+    },
+    {
+      "id": 54,
+      "start": 173.38,
+      "end": 174.94,
+      "ts": "02:53.380 -> 02:54.940",
+      "jp": "多分いない",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>いない",
+      "zh": "大概没有",
+      "en": "Probably not."
+    },
+    {
+      "id": 55,
+      "start": 174.94,
+      "end": 176.44,
+      "ts": "02:54.940 -> 02:56.440",
+      "jp": "九州はほとんど",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>はほとんど",
+      "zh": "九州几乎全部",
+      "en": "Kyushu is almost entirely"
+    },
+    {
+      "id": 56,
+      "start": 176.44,
+      "end": 178.36,
+      "ts": "02:56.440 -> 02:58.360",
+      "jp": "多分いない",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>いない",
+      "zh": "大概没有",
+      "en": "Probably not."
+    },
+    {
+      "id": 57,
+      "start": 178.36,
+      "end": 179.38,
+      "ts": "02:58.360 -> 02:59.380",
+      "jp": "全然いない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>いない",
+      "zh": "完全没有",
+      "en": "Not at all."
+    },
+    {
+      "id": 58,
+      "start": 179.38,
+      "end": 184.26,
+      "ts": "02:59.380 -> 03:04.260",
+      "jp": "クマの心配はしなくてもいいけど",
+      "jp_html": "クマの<ruby>心配<rt>しんぱい</rt></ruby>はしなくてもいいけど",
+      "zh": "不用为熊担心",
+      "en": "You don't need to worry about the bear."
+    },
+    {
+      "id": 59,
+      "start": 184.26,
+      "end": 186.16,
+      "ts": "03:04.260 -> 03:06.160",
+      "jp": "イノシシですね",
+      "jp_html": "イノシシですね",
+      "zh": "这是野猪呢",
+      "en": "It's a wild boar."
+    },
+    {
+      "id": 60,
+      "start": 186.16,
+      "end": 188.58,
+      "ts": "03:06.160 -> 03:08.580",
+      "jp": "豚みたいなやつ",
+      "jp_html": "<ruby>豚<rt>ぶた</rt></ruby>みたいなやつ",
+      "zh": "像猪的东西",
+      "en": "A pig-like thing"
+    },
+    {
+      "id": 61,
+      "start": 188.58,
+      "end": 191.26,
+      "ts": "03:08.580 -> 03:11.260",
+      "jp": "危ないです",
+      "jp_html": "<ruby>危ない<rt>あぶない</rt></ruby>です",
+      "zh": "危险",
+      "en": "It's dangerous."
+    },
+    {
+      "id": 62,
+      "start": 191.26,
+      "end": 196.74,
+      "ts": "03:11.260 -> 03:16.740",
+      "jp": "昨日ね",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>ね",
+      "zh": "昨天呢",
+      "en": "Yesterday, ne"
+    },
+    {
+      "id": 63,
+      "start": 196.74,
+      "end": 199.04,
+      "ts": "03:16.740 -> 03:19.040",
+      "jp": "クマ元の話をしましたけど",
+      "jp_html": "クマ<ruby>元の<rt>もとの</rt></ruby><ruby>話<rt>はなし</rt></ruby>をしましたけど",
+      "zh": "我讲了关于熊的故事。",
+      "en": "I talked about the bear incident."
+    },
+    {
+      "id": 64,
+      "start": 199.04,
+      "end": 199.64,
+      "ts": "03:19.040 -> 03:19.640",
+      "jp": "クマ",
+      "jp_html": "クマ",
+      "zh": "熊",
+      "en": "Bear"
+    },
+    {
+      "id": 65,
+      "start": 199.64,
+      "end": 201.46,
+      "ts": "03:19.640 -> 03:21.460",
+      "jp": "クマじゃないと",
+      "jp_html": "クマじゃないと",
+      "zh": "不是熊",
+      "en": "It's not a bear."
+    },
+    {
+      "id": 66,
+      "start": 201.46,
+      "end": 205.12,
+      "ts": "03:21.460 -> 03:25.120",
+      "jp": "熊本では地震があってちょっと危なかったですね",
+      "jp_html": "<ruby>熊本<rt>くまもと</rt></ruby>では<ruby>地震<rt>じしん</rt></ruby>があってちょっと<ruby>危なか<rt>あぶなか</rt></ruby>ったですね",
+      "zh": "熊本发生了地震，有点危险呢",
+      "en": "It was a bit scary in Kumamoto due to the earthquake, wasn't it?"
+    },
+    {
+      "id": 67,
+      "start": 205.12,
+      "end": 207.08,
+      "ts": "03:25.120 -> 03:27.080",
+      "jp": "今も大変ですね",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>も<ruby>大変<rt>たいへん</rt></ruby>ですね",
+      "zh": "现在也很辛苦呢",
+      "en": "It must be difficult now."
+    },
+    {
+      "id": 68,
+      "start": 207.08,
+      "end": 210.56,
+      "ts": "03:27.080 -> 03:30.560",
+      "jp": "水が止まったり電気が止まったり",
+      "jp_html": "<ruby>水<rt>みず</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>ったり<ruby>電気<rt>でんき</rt></ruby>が<ruby>止ま<rt>とま</rt></ruby>ったり",
+      "zh": "水停了电也停了",
+      "en": "Water stops or electricity stops"
+    },
+    {
+      "id": 69,
+      "start": 210.56,
+      "end": 212.56,
+      "ts": "03:30.560 -> 03:32.560",
+      "jp": "大変みたいですね",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>みたいですね",
+      "zh": "看起来好难啊",
+      "en": "It seems like it's going badly."
+    },
+    {
+      "id": 70,
+      "start": 212.56,
+      "end": 214.54,
+      "ts": "03:32.560 -> 03:34.540",
+      "jp": "大分はまあまあ大丈夫",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>はまあまあ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "大分还算不错",
+      "en": "Daito is pretty okay."
+    },
+    {
+      "id": 71,
+      "start": 214.54,
+      "end": 222.22,
+      "ts": "03:34.540 -> 03:42.220",
+      "jp": "そして食べ物の話をしたいと思います",
+      "jp_html": "そして<ruby>食べ物<rt>たべもの</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "然后我想谈谈食物",
+      "en": "And I want to talk about food."
+    },
+    {
+      "id": 72,
+      "start": 222.22,
+      "end": 223.62,
+      "ts": "03:42.220 -> 03:43.620",
+      "jp": "昨日",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>",
+      "zh": "昨天",
+      "en": "yesterday"
+    },
+    {
+      "id": 73,
+      "start": 223.62,
+      "end": 225.14,
+      "ts": "03:43.620 -> 03:45.140",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 74,
+      "start": 225.14,
+      "end": 226.78,
+      "ts": "03:45.140 -> 03:46.780",
+      "jp": "昨日か",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>か",
+      "zh": "昨天kah",
+      "en": "Yesterday?"
+    },
+    {
+      "id": 75,
+      "start": 226.78,
+      "end": 229.1,
+      "ts": "03:46.780 -> 03:49.100",
+      "jp": "そうそうまだ昨日ね",
+      "jp_html": "そうそうまだ<ruby>昨日<rt>きのう</rt></ruby>ね",
+      "zh": "对对还有昨天呢",
+      "en": "Yes yes still yesterday."
+    },
+    {
+      "id": 76,
+      "start": 229.1,
+      "end": 230.54,
+      "ts": "03:49.100 -> 03:50.540",
+      "jp": "あのまあ一昨日",
+      "jp_html": "あのまあ<ruby>一昨日<rt>いっさくじつ</rt></ruby>",
+      "zh": "那天大概前天",
+      "en": "Well, yesterday before yesterday."
+    },
+    {
+      "id": 77,
+      "start": 230.54,
+      "end": 236.06,
+      "ts": "03:50.540 -> 03:56.060",
+      "jp": "アップロードするのはちょっと違う日になりますからね",
+      "jp_html": "アップロードするのはちょっと<ruby>違う<rt>ちがう</rt></ruby><ruby>日<rt>にち</rt></ruby>になりますからね",
+      "zh": "因为上传的是另外一天的日期呢",
+      "en": "It will be a slightly different day for uploading, you know."
+    },
+    {
+      "id": 78,
+      "start": 236.06,
+      "end": 242.54,
+      "ts": "03:56.060 -> 04:02.540",
+      "jp": "だけど空港から家に帰る途中",
+      "jp_html": "だけど<ruby>空港<rt>くうこう</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby><ruby>途中<rt>とちゅう</rt></ruby>",
+      "zh": "但是从机场回家的路上",
+      "en": "But on my way home from the airport"
+    },
+    {
+      "id": 79,
+      "start": 242.54,
+      "end": 245.18,
+      "ts": "04:02.540 -> 04:05.180",
+      "jp": "ラーメンを食べました",
+      "jp_html": "ラーメンを<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "我吃了拉面",
+      "en": "I ate ramen."
+    },
+    {
+      "id": 80,
+      "start": 245.18,
+      "end": 251.24,
+      "ts": "04:05.180 -> 04:11.240",
+      "jp": "大分空港に着いたのが12時半",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>に<ruby>着い<rt>つい</rt></ruby>たのが12<ruby>時半<rt>じはん</rt></ruby>",
+      "zh": "我中午12点半到达大分机场",
+      "en": "I arrived at Daigo Airport at 12:30."
+    },
+    {
+      "id": 81,
+      "start": 251.24,
+      "end": 254.3,
+      "ts": "04:11.240 -> 04:14.300",
+      "jp": "1時ぐらいでしたね",
+      "jp_html": "1<ruby>時<rt>とき</rt></ruby>ぐらいでしたね",
+      "zh": "大概是一点钟左右吧",
+      "en": "It was around 1 o'clock, I think."
+    },
+    {
+      "id": 82,
+      "start": 254.3,
+      "end": 256.98,
+      "ts": "04:14.300 -> 04:16.980",
+      "jp": "そしてちょっと遅い昼ご飯",
+      "jp_html": "そしてちょっと<ruby>遅い<rt>おそい</rt></ruby><ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>",
+      "zh": "然后吃了一点迟来的午饭",
+      "en": "And I had a slightly late lunch."
+    },
+    {
+      "id": 83,
+      "start": 256.98,
+      "end": 258.98,
+      "ts": "04:16.980 -> 04:18.980",
+      "jp": "お腹が空いたので",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>たので",
+      "zh": "因为我饿了",
+      "en": "I'm hungry."
+    },
+    {
+      "id": 84,
+      "start": 258.98,
+      "end": 262.32,
+      "ts": "04:18.980 -> 04:22.320",
+      "jp": "お父さんと一緒に",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>",
+      "zh": "和爸爸一起",
+      "en": "With my dad"
+    },
+    {
+      "id": 85,
+      "start": 262.32,
+      "end": 265.66,
+      "ts": "04:22.320 -> 04:25.660",
+      "jp": "子供とね僕の子供とお父さんと一緒に",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>とね<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>とお<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>",
+      "zh": "和孩子还有我的孩子以及孩子的父亲一起",
+      "en": "Kids and my kids with their father together"
+    },
+    {
+      "id": 86,
+      "start": 265.66,
+      "end": 266.9,
+      "ts": "04:25.660 -> 04:26.900",
+      "jp": "ラーメン屋に行きました",
+      "jp_html": "ラーメン<ruby>屋<rt>や</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "我去吃了拉面店",
+      "en": "I went to a ramen shop."
+    },
+    {
+      "id": 87,
+      "start": 266.9,
+      "end": 271.48,
+      "ts": "04:26.900 -> 04:31.480",
+      "jp": "まあ美味しかったですよね",
+      "jp_html": "まあ<ruby>美味しか<rt>おいしか</rt></ruby>ったですよね",
+      "zh": "嗯，确实很好吃吧",
+      "en": "Yup, it was delicious, wasn't it?"
+    },
+    {
+      "id": 88,
+      "start": 271.48,
+      "end": 275.28,
+      "ts": "04:31.480 -> 04:35.280",
+      "jp": "豚骨ラーメンを食べました",
+      "jp_html": "<ruby>豚骨<rt>とんこつ</rt></ruby>ラーメンを<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "吃了猪骨拉面",
+      "en": "I ate pork bone ramen."
+    },
+    {
+      "id": 89,
+      "start": 275.28,
+      "end": 281.38,
+      "ts": "04:35.280 -> 04:41.380",
+      "jp": "九州は豚骨ラーメンが有名ですよね",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>は<ruby>豚骨<rt>とんこつ</rt></ruby>ラーメンが<ruby>有名<rt>ゆうめい</rt></ruby>ですよね",
+      "zh": "九州是以猪骨汤面闻名吧",
+      "en": "Isn't pork bone ramen famous in Kyushu?"
+    },
+    {
+      "id": 90,
+      "start": 281.38,
+      "end": 283.8,
+      "ts": "04:41.380 -> 04:43.800",
+      "jp": "白いスープですね",
+      "jp_html": "<ruby>白い<rt>しろい</rt></ruby>スープですね",
+      "zh": "白色的汤吧",
+      "en": "It's a white soup, right?"
+    },
+    {
+      "id": 91,
+      "start": 283.8,
+      "end": 287.6,
+      "ts": "04:43.800 -> 04:47.600",
+      "jp": "食べたけどまあまあまあ美味しかった",
+      "jp_html": "<ruby>食べた<rt>たべた</rt></ruby>けどまあまあまあ<ruby>美味しか<rt>おいしか</rt></ruby>った",
+      "zh": "吃了还不错，挺好吃的",
+      "en": "I ate it and it was pretty good."
+    },
+    {
+      "id": 92,
+      "start": 287.6,
+      "end": 289.54,
+      "ts": "04:47.600 -> 04:49.540",
+      "jp": "大丈夫でしたね",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>でしたね",
+      "zh": "他真是个大丈夫呢",
+      "en": "It was okay, right?"
+    },
+    {
+      "id": 93,
+      "start": 289.54,
+      "end": 295.24,
+      "ts": "04:49.540 -> 04:55.240",
+      "jp": "僕は結構豚骨ラーメンを食べると油が多くて",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>豚骨<rt>とんこつ</rt></ruby>ラーメンを<ruby>食べ<rt>たべ</rt></ruby>ると<ruby>油<rt>あぶら</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>て",
+      "zh": "我吃猪骨拉面的时候觉得油挺多的",
+      "en": "I find that eating pork bone ramen has a lot of oil."
+    },
+    {
+      "id": 94,
+      "start": 295.24,
+      "end": 298.08,
+      "ts": "04:55.240 -> 04:58.080",
+      "jp": "ちょっとお腹が痛くなるんですが",
+      "jp_html": "ちょっとお<ruby>腹<rt>はら</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なるんですが",
+      "zh": "我的肚子有点疼",
+      "en": "I get a little stomach pain but"
+    },
+    {
+      "id": 95,
+      "start": 298.08,
+      "end": 301.26,
+      "ts": "04:58.080 -> 05:01.260",
+      "jp": "昨日の豚骨ラーメンは悪くなかった",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>豚骨<rt>とんこつ</rt></ruby>ラーメンは<ruby>悪く<rt>わるく</rt></ruby>なかった",
+      "zh": "昨天的猪骨拉面还不错",
+      "en": "The pork bone ramen from yesterday wasn't bad."
+    },
+    {
+      "id": 96,
+      "start": 301.26,
+      "end": 304.9,
+      "ts": "05:01.260 -> 05:04.900",
+      "jp": "最近いろいろなラーメン屋があります",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>いろいろなラーメン<ruby>屋<rt>や</rt></ruby>があります",
+      "zh": "最近有很多拉面店",
+      "en": "There are various ramen shops recently."
+    },
+    {
+      "id": 97,
+      "start": 304.9,
+      "end": 310.56,
+      "ts": "05:04.900 -> 05:10.560",
+      "jp": "豚骨ラーメンのラーメン屋だけど",
+      "jp_html": "<ruby>豚骨<rt>とんこつ</rt></ruby>ラーメンのラーメン<ruby>屋<rt>や</rt></ruby>だけど",
+      "zh": "这是豚骨拉面的拉面店但",
+      "en": "It's a ramen shop but it has tonkotsu ramen."
+    },
+    {
+      "id": 98,
+      "start": 310.56,
+      "end": 314.2,
+      "ts": "05:10.560 -> 05:14.200",
+      "jp": "あんまり油が多くない",
+      "jp_html": "あんまり<ruby>油<rt>あぶら</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>ない",
+      "zh": "用油不多",
+      "en": "There's not too much oil."
+    },
+    {
+      "id": 99,
+      "start": 314.2,
+      "end": 318.44,
+      "ts": "05:14.200 -> 05:18.440",
+      "jp": "もっと軽いもっと飲みやすい",
+      "jp_html": "もっと<ruby>軽い<rt>かるい</rt></ruby>もっと<ruby>飲み<rt>のみ</rt></ruby>やすい",
+      "zh": "更轻便 更易于饮用",
+      "en": "Lighter and easier to drink"
+    },
+    {
+      "id": 100,
+      "start": 318.44,
+      "end": 320.62,
+      "ts": "05:18.440 -> 05:20.620",
+      "jp": "スープが重くない",
+      "jp_html": "スープが<ruby>重く<rt>おもく</rt></ruby>ない",
+      "zh": "汤不油腻",
+      "en": "The soup is not heavy."
+    },
+    {
+      "id": 101,
+      "start": 320.62,
+      "end": 324.22,
+      "ts": "05:20.620 -> 05:24.220",
+      "jp": "そういう店も多いし",
+      "jp_html": "そういう<ruby>店<rt>みせ</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>し",
+      "zh": "这样的店铺也很多",
+      "en": "There are many stores like that too."
+    },
+    {
+      "id": 102,
+      "start": 324.22,
+      "end": 329.54,
+      "ts": "05:24.220 -> 05:29.540",
+      "jp": "あと九州でも味噌ラーメンとか醤油ラーメンとか",
+      "jp_html": "あと<ruby>九州<rt>きゅうしゅう</rt></ruby>でも<ruby>味噌<rt>みそ</rt></ruby>ラーメンとか<ruby>醤油<rt>しょうゆ</rt></ruby>ラーメンとか",
+      "zh": "另外，在九州也有味噌拉面和酱油拉面等",
+      "en": "Also in Kyushu, there are miso ramen and soy sauce ramen, etc."
+    },
+    {
+      "id": 103,
+      "start": 329.54,
+      "end": 332.7,
+      "ts": "05:29.540 -> 05:32.700",
+      "jp": "塩ラーメンとか",
+      "jp_html": "<ruby>塩<rt>しお</rt></ruby>ラーメンとか",
+      "zh": "盐拉面或者",
+      "en": "Salt ramen or salt-flavored ramen"
+    },
+    {
+      "id": 104,
+      "start": 332.7,
+      "end": 335.36,
+      "ts": "05:32.700 -> 05:35.360",
+      "jp": "いろいろなラーメン屋があります",
+      "jp_html": "いろいろなラーメン<ruby>屋<rt>や</rt></ruby>があります",
+      "zh": "有很多拉面店",
+      "en": "There are various ramen shops."
+    },
+    {
+      "id": 105,
+      "start": 335.36,
+      "end": 338.94,
+      "ts": "05:35.360 -> 05:38.940",
+      "jp": "ラーメン屋本当に多い",
+      "jp_html": "ラーメン<ruby>屋<rt>や</rt></ruby><ruby>本当<rt>ほんとう</rt></ruby>に<ruby>多い<rt>おおい</rt></ruby>",
+      "zh": "拉面馆真的很多",
+      "en": "There are really a lot of ramen shops."
+    },
+    {
+      "id": 106,
+      "start": 338.94,
+      "end": 341.0,
+      "ts": "05:38.940 -> 05:41.000",
+      "jp": "東京でもラーメン屋は多いけど",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>でもラーメン<ruby>屋<rt>や</rt></ruby>は<ruby>多い<rt>おおい</rt></ruby>けど",
+      "zh": "东京的拉面店也有很多",
+      "en": "There are many ramen shops in Tokyo too"
+    },
+    {
+      "id": 107,
+      "start": 341.0,
+      "end": 346.38,
+      "ts": "05:41.000 -> 05:46.380",
+      "jp": "やっぱり九州はもっともっと多いと思う",
+      "jp_html": "やっぱり<ruby>九州<rt>きゅうしゅう</rt></ruby>はもっともっと<ruby>多い<rt>おおい</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "果然我觉得九州有更多的东西",
+      "en": "I think Kyushu has even more than I thought."
+    },
+    {
+      "id": 108,
+      "start": 346.38,
+      "end": 348.1,
+      "ts": "05:46.380 -> 05:48.100",
+      "jp": "ラーメンが好きですよねみんな",
+      "jp_html": "ラーメンが<ruby>好き<rt>すき</rt></ruby>ですよねみんな",
+      "zh": "大家都喜欢拉面吧？",
+      "en": "Don't you all like ramen?"
+    },
+    {
+      "id": 109,
+      "start": 348.1,
+      "end": 351.55,
+      "ts": "05:48.100 -> 05:51.550",
+      "jp": "あとチャーハン",
+      "jp_html": "あとチャーハン",
+      "zh": "再来一份炒饭",
+      "en": "And fried rice"
+    },
+    {
+      "id": 110,
+      "start": 351.55,
+      "end": 355.07,
+      "ts": "05:51.550 -> 05:55.070",
+      "jp": "僕の子供はチャーハンが大好きだからチャーハン食べました",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>はチャーハンが<ruby>大好き<rt>だいすき</rt></ruby>だからチャーハン<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "因为我孩子很喜欢炒饭，所以吃了炒饭",
+      "en": "I ate fried rice because my child loves fried rice."
+    },
+    {
+      "id": 111,
+      "start": 355.07,
+      "end": 355.63,
+      "ts": "05:55.070 -> 05:55.630",
+      "jp": "美味しかった",
+      "jp_html": "<ruby>美味しか<rt>おいしか</rt></ruby>った",
+      "zh": "很好吃",
+      "en": "It was delicious."
+    },
+    {
+      "id": 112,
+      "start": 355.63,
+      "end": 358.11,
+      "ts": "05:55.630 -> 05:58.110",
+      "jp": "チャーハンは多分もっと美味しかったから",
+      "jp_html": "チャーハンは<ruby>多分<rt>たぶん</rt></ruby>もっと<ruby>美味しか<rt>おいしか</rt></ruby>ったから",
+      "zh": "炒饭可能是更好吃些",
+      "en": "It was probably much better fried rice."
+    },
+    {
+      "id": 113,
+      "start": 358.11,
+      "end": 361.51,
+      "ts": "05:58.110 -> 06:01.510",
+      "jp": "ラーメンよりチャーハンの方が美味しかったかもしれない",
+      "jp_html": "ラーメンよりチャーハンの<ruby>方が<rt>ほうが</rt></ruby><ruby>美味しか<rt>おいしか</rt></ruby>ったかもしれない",
+      "zh": "可能的话，炒饭比拉面还要好吃",
+      "en": "It might have been that the fried rice was even better than the ramen."
+    },
+    {
+      "id": 114,
+      "start": 361.51,
+      "end": 365.97,
+      "ts": "06:01.510 -> 06:05.970",
+      "jp": "今度はチャーハンだけを食べたいですね",
+      "jp_html": "<ruby>今度<rt>こんど</rt></ruby>はチャーハンだけを<ruby>食べた<rt>たべた</rt></ruby>いですね",
+      "zh": "这次我想只吃炒饭",
+      "en": "I would like to eat just fried rice this time."
+    },
+    {
+      "id": 115,
+      "start": 365.97,
+      "end": 370.63,
+      "ts": "06:05.970 -> 06:10.630",
+      "jp": "そして晩御飯ですね",
+      "jp_html": "そして<ruby>晩御飯<rt>ばんごはん</rt></ruby>ですね",
+      "zh": "然后是晚餐吧",
+      "en": "And dinner, too."
+    },
+    {
+      "id": 116,
+      "start": 370.63,
+      "end": 376.41,
+      "ts": "06:10.630 -> 06:16.410",
+      "jp": "家で僕のお母さんが作った肉じゃが",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>で<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>肉<rt>にく</rt></ruby>じゃが",
+      "zh": "家里我妈妈做的炖牛肉",
+      "en": "My mother made meat stew at home."
+    },
+    {
+      "id": 117,
+      "start": 376.41,
+      "end": 378.19,
+      "ts": "06:16.410 -> 06:18.190",
+      "jp": "肉じゃが",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>じゃが",
+      "zh": "肉じゃが",
+      "en": "Potato and Meat Casserole"
+    },
+    {
+      "id": 118,
+      "start": 378.19,
+      "end": 382.83,
+      "ts": "06:18.190 -> 06:22.830",
+      "jp": "肉じゃがは牛肉と野菜ですね",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>じゃがは<ruby>牛肉<rt>ぎゅうにく</rt></ruby>と<ruby>野菜<rt>やさい</rt></ruby>ですね",
+      "zh": "肉じゃが是牛肉和蔬菜吧？",
+      "en": "Meatagen is beef and vegetables, right?"
+    },
+    {
+      "id": 119,
+      "start": 382.83,
+      "end": 385.77,
+      "ts": "06:22.830 -> 06:25.770",
+      "jp": "じゃがいも、人参、玉ねぎ",
+      "jp_html": "じゃがいも、<ruby>人参<rt>にんじん</rt></ruby>、<ruby>玉<rt>たま</rt></ruby>ねぎ",
+      "zh": "土豆、胡萝卜、洋葱",
+      "en": "potato, carrot, onion"
+    },
+    {
+      "id": 120,
+      "start": 385.77,
+      "end": 395.07,
+      "ts": "06:25.770 -> 06:35.070",
+      "jp": "味は醤油とかみりんとかのちょっと甘い醤油の味みたいな感じですね",
+      "jp_html": "<ruby>味<rt>あじ</rt></ruby>は<ruby>醤油<rt>しょうゆ</rt></ruby>とかみりんとかのちょっと<ruby>甘い<rt>あまい</rt></ruby><ruby>醤油<rt>しょうゆ</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>みたいな<ruby>感じ<rt>かんじ</rt></ruby>ですね",
+      "zh": "味道有点像酱油和米酒的甜酱油的味道呢",
+      "en": "The taste is a bit sweet, like soy sauce with a touch of mirin."
+    },
+    {
+      "id": 121,
+      "start": 395.07,
+      "end": 396.41,
+      "ts": "06:35.070 -> 06:36.410",
+      "jp": "すき焼きみたいな味",
+      "jp_html": "すき<ruby>焼き<rt>やき</rt></ruby>みたいな<ruby>味<rt>あじ</rt></ruby>",
+      "zh": "像涮锅那样的味道",
+      "en": "Like the taste of sukiyaki"
+    },
+    {
+      "id": 122,
+      "start": 396.41,
+      "end": 400.45,
+      "ts": "06:36.410 -> 06:40.450",
+      "jp": "肉じゃが、あと味噌汁",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>じゃが、あと<ruby>味噌汁<rt>みそしる</rt></ruby>",
+      "zh": "肉じゃが，还有味噌汤",
+      "en": "Meat and Potato Casserole, and Miso Soup"
+    },
+    {
+      "id": 123,
+      "start": 400.45,
+      "end": 403.91,
+      "ts": "06:40.450 -> 06:43.910",
+      "jp": "そして刺身ですね",
+      "jp_html": "そして<ruby>刺身<rt>さしみ</rt></ruby>ですね",
+      "zh": "然后是生鱼片吧",
+      "en": "And sashimi as well."
+    },
+    {
+      "id": 124,
+      "start": 403.91,
+      "end": 405.59,
+      "ts": "06:43.910 -> 06:45.590",
+      "jp": "刺身",
+      "jp_html": "<ruby>刺身<rt>さしみ</rt></ruby>",
+      "zh": "生鱼片",
+      "en": "Sashimi"
+    },
+    {
+      "id": 125,
+      "start": 405.59,
+      "end": 408.97,
+      "ts": "06:45.590 -> 06:48.970",
+      "jp": "刺身はもちろんスーパーで買った刺身",
+      "jp_html": "<ruby>刺身<rt>さしみ</rt></ruby>はもちろんスーパーで<ruby>買っ<rt>かっ</rt></ruby>た<ruby>刺身<rt>さしみ</rt></ruby>",
+      "zh": "生鱼片当然也可以是超市买的生鱼片",
+      "en": "Sashimi is not limited to what I bought from the supermarket."
+    },
+    {
+      "id": 126,
+      "start": 408.97,
+      "end": 413.53,
+      "ts": "06:48.970 -> 06:53.530",
+      "jp": "とても美味しいスーパーで買った美味しい刺身ですね",
+      "jp_html": "とても<ruby>美味しい<rt>おいしい</rt></ruby>スーパーで<ruby>買っ<rt>かっ</rt></ruby>た<ruby>美味しい<rt>おいしい</rt></ruby><ruby>刺身<rt>さしみ</rt></ruby>ですね",
+      "zh": "买的很好吃的生鱼片啊",
+      "en": "The fresh sushi you bought from that very tasty supermarket is great, isn't it?"
+    },
+    {
+      "id": 127,
+      "start": 413.53,
+      "end": 415.75,
+      "ts": "06:53.530 -> 06:55.750",
+      "jp": "マグロ",
+      "jp_html": "マグロ",
+      "zh": "金枪鱼",
+      "en": "Tuna"
+    },
+    {
+      "id": 128,
+      "start": 415.75,
+      "end": 417.63,
+      "ts": "06:55.750 -> 06:57.630",
+      "jp": "サーモン",
+      "jp_html": "サーモン",
+      "zh": "三文鱼",
+      "en": "Salmon"
+    },
+    {
+      "id": 129,
+      "start": 417.63,
+      "end": 418.41,
+      "ts": "06:57.630 -> 06:58.410",
+      "jp": "タイ",
+      "jp_html": "タイ",
+      "zh": "泰国",
+      "en": "Thai"
+    },
+    {
+      "id": 130,
+      "start": 418.41,
+      "end": 420.59,
+      "ts": "06:58.410 -> 07:00.590",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 131,
+      "start": 420.59,
+      "end": 422.07,
+      "ts": "07:00.590 -> 07:02.070",
+      "jp": "何があったかな",
+      "jp_html": "<ruby>何<rt>なに</rt></ruby>があったかな",
+      "zh": "发生了什么呢",
+      "en": "What happened, then?"
+    },
+    {
+      "id": 132,
+      "start": 422.07,
+      "end": 422.69,
+      "ts": "07:02.070 -> 07:02.690",
+      "jp": "ヒラメ",
+      "jp_html": "ヒラメ",
+      "zh": "鳕鱼",
+      "en": "Flounder"
+    },
+    {
+      "id": 133,
+      "start": 422.69,
+      "end": 425.47,
+      "ts": "07:02.690 -> 07:05.470",
+      "jp": "ちょっとヒラメは",
+      "jp_html": "ちょっとヒラメは",
+      "zh": "稍微用一下HIRAME",
+      "en": "Just a little flounder is"
+    },
+    {
+      "id": 134,
+      "start": 425.47,
+      "end": 428.21,
+      "ts": "07:05.470 -> 07:08.210",
+      "jp": "薄い魚",
+      "jp_html": "<ruby>薄い<rt>うすい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "薄鱼",
+      "en": "Thin fish"
+    },
+    {
+      "id": 135,
+      "start": 428.21,
+      "end": 429.97,
+      "ts": "07:08.210 -> 07:09.970",
+      "jp": "薄い",
+      "jp_html": "<ruby>薄い<rt>うすい</rt></ruby>",
+      "zh": "薄的",
+      "en": "thin"
+    },
+    {
+      "id": 136,
+      "start": 429.97,
+      "end": 433.39,
+      "ts": "07:09.970 -> 07:13.390",
+      "jp": "なんか岩のところにいるのかな",
+      "jp_html": "なんか<ruby>岩<rt>いわ</rt></ruby>のところにいるのかな",
+      "zh": "可能是在那里待着呢",
+      "en": "Maybe they're on the rock."
+    },
+    {
+      "id": 137,
+      "start": 433.39,
+      "end": 434.51,
+      "ts": "07:13.390 -> 07:14.510",
+      "jp": "わかんないですね",
+      "jp_html": "わかんないですね",
+      "zh": "不懂呢。",
+      "en": "I don't understand, right?"
+    },
+    {
+      "id": 138,
+      "start": 434.51,
+      "end": 435.41,
+      "ts": "07:14.510 -> 07:15.410",
+      "jp": "ひらめ",
+      "jp_html": "ひらめ",
+      "zh": "灵感",
+      "en": "flash"
+    },
+    {
+      "id": 139,
+      "start": 435.41,
+      "end": 438.33,
+      "ts": "07:15.410 -> 07:18.330",
+      "jp": "あとスズキかな",
+      "jp_html": "あとスズキかな",
+      "zh": "还有是鈴木吗？",
+      "en": "Then there's Suzuki, right?"
+    },
+    {
+      "id": 140,
+      "start": 438.33,
+      "end": 441.15,
+      "ts": "07:18.330 -> 07:21.150",
+      "jp": "あとブリ",
+      "jp_html": "あとブリ",
+      "zh": "接着是布里。",
+      "en": "And the bridge"
+    },
+    {
+      "id": 141,
+      "start": 441.15,
+      "end": 446.93,
+      "ts": "07:21.150 -> 07:26.930",
+      "jp": "とにかくおいしいおいしい刺身",
+      "jp_html": "とにかくおいしいおいしい<ruby>刺身<rt>さしみ</rt></ruby>",
+      "zh": "总之新鲜美味的生鱼片",
+      "en": "Just delicious delicious sashimi"
+    },
+    {
+      "id": 142,
+      "start": 446.93,
+      "end": 450.77,
+      "ts": "07:26.930 -> 07:30.770",
+      "jp": "大分県は魚が有名ですね",
+      "jp_html": "<ruby>大分県<rt>おおいたけん</rt></ruby>は<ruby>魚<rt>さかな</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>ですね",
+      "zh": "大分县以鱼闻名呢",
+      "en": "Oita Prefecture is famous for fish, isn't it?"
+    },
+    {
+      "id": 143,
+      "start": 450.77,
+      "end": 453.17,
+      "ts": "07:30.770 -> 07:33.170",
+      "jp": "魚が結構いいですね",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>が<ruby>結構<rt>けっこう</rt></ruby>いいですね",
+      "zh": "鱼还不错呢",
+      "en": "The fish looks pretty good, doesn't it?"
+    },
+    {
+      "id": 144,
+      "start": 453.17,
+      "end": 456.77,
+      "ts": "07:33.170 -> 07:36.770",
+      "jp": "日本はほとんどそうですけどね",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>はほとんどそうですけどね",
+      "zh": "日本也差不多是这样呢",
+      "en": "But it's almost like that in Japan too."
+    },
+    {
+      "id": 145,
+      "start": 456.77,
+      "end": 458.89,
+      "ts": "07:36.770 -> 07:38.890",
+      "jp": "日本はほとんどの場所で",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>はほとんどの<ruby>場所<rt>ばしょ</rt></ruby>で",
+      "zh": "日本大多数地方",
+      "en": "Japan is most places where"
+    },
+    {
+      "id": 146,
+      "start": 458.89,
+      "end": 463.29,
+      "ts": "07:38.890 -> 07:43.290",
+      "jp": "おいしい魚と海鮮ね",
+      "jp_html": "おいしい<ruby>魚<rt>さかな</rt></ruby>と<ruby>海鮮<rt>かいせん</rt></ruby>ね",
+      "zh": "好吃的鱼和海鲜呢",
+      "en": "Delicious fish and seafood."
+    },
+    {
+      "id": 147,
+      "start": 463.29,
+      "end": 469.05,
+      "ts": "07:43.290 -> 07:49.050",
+      "jp": "美味しい海鮮、そして美味しい牛肉、鶏肉、豚肉、",
+      "jp_html": "<ruby>美味しい<rt>おいしい</rt></ruby><ruby>海鮮<rt>かいせん</rt></ruby>、そして<ruby>美味しい<rt>おいしい</rt></ruby><ruby>牛肉<rt>ぎゅうにく</rt></ruby>、<ruby>鶏肉<rt>とりにく</rt></ruby>、<ruby>豚肉<rt>ぶたにく</rt></ruby>、",
+      "zh": "美味的海鲜、以及美味的牛肉、鸡肉、猪肉",
+      "en": "Delicious seafood, and also delicious beef, chicken, and pork."
+    },
+    {
+      "id": 148,
+      "start": 470.09,
+      "end": 474.99,
+      "ts": "07:50.090 -> 07:54.990",
+      "jp": "ほとんどの県で、大分県とか宮崎県とかね、",
+      "jp_html": "ほとんどの<ruby>県<rt>けん</rt></ruby>で、<ruby>大分県<rt>おおいたけん</rt></ruby>とか<ruby>宮崎県<rt>みやざきけん</rt></ruby>とかね、",
+      "zh": "在大多数县，比如大分县或者宫崎县，",
+      "en": "In most prefectures, like Fukuoka or Miyazaki,"
+    },
+    {
+      "id": 149,
+      "start": 475.55,
+      "end": 479.41,
+      "ts": "07:55.550 -> 07:59.410",
+      "jp": "ほとんどの県で海がある。",
+      "jp_html": "ほとんどの<ruby>県<rt>けん</rt></ruby>で<ruby>海<rt>うみ</rt></ruby>がある。",
+      "zh": "大多数县都有海。",
+      "en": "Most prefectures have sea."
+    },
+    {
+      "id": 150,
+      "start": 479.79,
+      "end": 485.85,
+      "ts": "07:59.790 -> 08:05.850",
+      "jp": "ほとんどの県に海があるし、ほとんどの県で美味しい肉があります。",
+      "jp_html": "ほとんどの<ruby>県<rt>けん</rt></ruby>に<ruby>海<rt>うみ</rt></ruby>があるし、ほとんどの<ruby>県<rt>けん</rt></ruby>で<ruby>美味しい<rt>おいしい</rt></ruby><ruby>肉<rt>にく</rt></ruby>があります。",
+      "zh": "大多数县都有海，大多数县都有美味的肉。",
+      "en": "Most prefectures have seas, and delicious meat can be found in most prefectures."
+    },
+    {
+      "id": 151,
+      "start": 486.69,
+      "end": 489.11,
+      "ts": "08:06.690 -> 08:09.110",
+      "jp": "そして野菜もある。果物もある。",
+      "jp_html": "そして<ruby>野菜<rt>やさい</rt></ruby>もある。<ruby>果物<rt>くだもの</rt></ruby>もある。",
+      "zh": "然后有蔬菜。也有水果。",
+      "en": "And there are vegetables. There are fruits."
+    },
+    {
+      "id": 152,
+      "start": 491.68,
+      "end": 494.36,
+      "ts": "08:11.680 -> 08:14.360",
+      "jp": "ほとんどの県で、東京以外ですね。",
+      "jp_html": "ほとんどの<ruby>県<rt>けん</rt></ruby>で、<ruby>東京以外<rt>とうきょういがい</rt></ruby>ですね。",
+      "zh": "在大多数县里，除了东京。",
+      "en": "In most prefectures, excluding Tokyo, of course."
+    },
+    {
+      "id": 153,
+      "start": 494.36,
+      "end": 498.54,
+      "ts": "08:14.360 -> 08:18.540",
+      "jp": "東京以外ではそういうのが食べ物がたくさんあります",
+      "jp_html": "<ruby>東京以外<rt>とうきょういがい</rt></ruby>ではそういうのが<ruby>食べ物<rt>たべもの</rt></ruby>がたくさんあります",
+      "zh": "除了东京之外，还有很多这样的食物可以吃",
+      "en": "Outside of Tokyo, there are many such foods available."
+    },
+    {
+      "id": 154,
+      "start": 498.54,
+      "end": 499.84,
+      "ts": "08:18.540 -> 08:19.840",
+      "jp": "東京はねちょっと",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>はねちょっと",
+      "zh": "东京是呢稍微",
+      "en": "Tokyo is kind of..."
+    },
+    {
+      "id": 155,
+      "start": 499.84,
+      "end": 505.4,
+      "ts": "08:19.840 -> 08:25.400",
+      "jp": "東京は畑がたくさんないですよね",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>畑<rt>はたけ</rt></ruby>がたくさんないですよね",
+      "zh": "东京不是有很多农田吗？",
+      "en": "Tokyo doesn't have many fields, right?"
+    },
+    {
+      "id": 156,
+      "start": 505.4,
+      "end": 513.32,
+      "ts": "08:25.400 -> 08:33.320",
+      "jp": "そして魚もそんなに取れないんじゃないかな",
+      "jp_html": "そして<ruby>魚<rt>さかな</rt></ruby>もそんなに<ruby>取れ<rt>とれ</rt></ruby>ないんじゃないかな",
+      "zh": "而且鱼也不容易捕到吧",
+      "en": "And there might not be that many fish to catch, right?"
+    },
+    {
+      "id": 157,
+      "start": 513.32,
+      "end": 517.96,
+      "ts": "08:33.320 -> 08:37.960",
+      "jp": "東京湾はそんなに大きくないですね",
+      "jp_html": "<ruby>東京湾<rt>とうきょうわん</rt></ruby>はそんなに<ruby>大きく<rt>おおきく</rt></ruby>ないですね",
+      "zh": "东京湾并不大呢",
+      "en": "Tokyo Bay isn't that big, huh?"
+    },
+    {
+      "id": 158,
+      "start": 517.96,
+      "end": 523.88,
+      "ts": "08:37.960 -> 08:43.880",
+      "jp": "東京で例えば魚を買うといつも",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>例えば<rt>たとえば</rt></ruby><ruby>魚<rt>さかな</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>といつも",
+      "zh": "例如在东京买鱼时总是",
+      "en": "For example, when buying fish in Tokyo, it's always"
+    },
+    {
+      "id": 159,
+      "start": 523.88,
+      "end": 525.64,
+      "ts": "08:43.880 -> 08:45.640",
+      "jp": "他の場所から来ますね",
+      "jp_html": "<ruby>他の<rt>ほかの</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>から<ruby>来ま<rt>きま</rt></ruby>すね",
+      "zh": "其他地方来的吧？",
+      "en": "You're coming from other places, right?"
+    },
+    {
+      "id": 160,
+      "start": 525.64,
+      "end": 527.54,
+      "ts": "08:45.640 -> 08:47.540",
+      "jp": "北海道とか九州とか",
+      "jp_html": "<ruby>北海道<rt>ほっかいどう</rt></ruby>とか<ruby>九州<rt>きゅうしゅう</rt></ruby>とか",
+      "zh": "Hokkaido 或  Kyushu",
+      "en": "Hokkaido or Kyushu"
+    },
+    {
+      "id": 161,
+      "start": 527.54,
+      "end": 530.9,
+      "ts": "08:47.540 -> 08:50.900",
+      "jp": "でも大分県で魚を買うと",
+      "jp_html": "でも<ruby>大分県<rt>おおいたけん</rt></ruby>で<ruby>魚<rt>さかな</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>と",
+      "zh": "但在鹿儿岛买鱼的话",
+      "en": "But when buying fish in Fukuoka Prefecture"
+    },
+    {
+      "id": 162,
+      "start": 530.9,
+      "end": 533.58,
+      "ts": "08:50.900 -> 08:53.580",
+      "jp": "たくさんの魚は大分の魚ですね",
+      "jp_html": "たくさんの<ruby>魚<rt>さかな</rt></ruby>は<ruby>大分<rt>おおいた</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>ですね",
+      "zh": "很多鱼就是大分的鱼",
+      "en": "Many fish are indeed daifun's fish."
+    },
+    {
+      "id": 163,
+      "start": 533.58,
+      "end": 538.46,
+      "ts": "08:53.580 -> 08:58.460",
+      "jp": "新鮮でおいしい刺身を食べて",
+      "jp_html": "<ruby>新鮮<rt>しんせん</rt></ruby>でおいしい<ruby>刺身<rt>さしみ</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "吃新鲜美味的生鱼片",
+      "en": "Eat fresh and delicious sashimi."
+    },
+    {
+      "id": 164,
+      "start": 538.46,
+      "end": 540.56,
+      "ts": "08:58.460 -> 09:00.560",
+      "jp": "ビール飲んで",
+      "jp_html": "ビール<ruby>飲ん<rt>のん</rt></ruby>で",
+      "zh": "喝啤酒",
+      "en": "Drinking beer"
+    },
+    {
+      "id": 165,
+      "start": 540.56,
+      "end": 543.58,
+      "ts": "09:00.560 -> 09:03.580",
+      "jp": "夜ちょっとゆっくりできました",
+      "jp_html": "<ruby>夜<rt>よる</rt></ruby>ちょっとゆっくりできました",
+      "zh": "晚上稍微放松了一下",
+      "en": "I was able to stay up a little later tonight."
+    },
+    {
+      "id": 166,
+      "start": 543.58,
+      "end": 545.38,
+      "ts": "09:03.580 -> 09:05.380",
+      "jp": "昨日の夜はゆっくりできた",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>はゆっくりできた",
+      "zh": "昨晚休息得不错",
+      "en": "Last night I was able to relax."
+    },
+    {
+      "id": 167,
+      "start": 545.38,
+      "end": 553.16,
+      "ts": "09:05.380 -> 09:13.160",
+      "jp": "そして朝はパンを食べて",
+      "jp_html": "そして<ruby>朝<rt>あさ</rt></ruby>はパンを<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "然后早晨吃面包",
+      "en": "And in the morning, I eat bread."
+    },
+    {
+      "id": 168,
+      "start": 553.16,
+      "end": 554.92,
+      "ts": "09:13.160 -> 09:14.920",
+      "jp": "お母さんの作ったパンですね",
+      "jp_html": "お<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>作っ<rt>つくっ</rt></ruby>たパンですね",
+      "zh": "这是妈妈做的面包吧",
+      "en": "That's the bread made by my mother."
+    },
+    {
+      "id": 169,
+      "start": 554.92,
+      "end": 558.16,
+      "ts": "09:14.920 -> 09:18.160",
+      "jp": "僕のお母さんは毎日パンを作ります",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>母さん<rt>かあさん</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>パンを<ruby>作り<rt>つくり</rt></ruby>ます",
+      "zh": "我的妈妈每天都会做面包",
+      "en": "My mother makes bread every day."
+    },
+    {
+      "id": 170,
+      "start": 558.16,
+      "end": 562.22,
+      "ts": "09:18.160 -> 09:22.220",
+      "jp": "パンを作るマシンがありますね",
+      "jp_html": "パンを<ruby>作る<rt>つくる</rt></ruby>マシンがありますね",
+      "zh": "有做面包的机器呢",
+      "en": "There is a machine for making bread."
+    },
+    {
+      "id": 171,
+      "start": 562.22,
+      "end": 566.92,
+      "ts": "09:22.220 -> 09:26.920",
+      "jp": "それでパンを作って朝焼いて",
+      "jp_html": "それでパンを<ruby>作っ<rt>つくっ</rt></ruby>て<ruby>朝焼<rt>あさやけ</rt></ruby>いて",
+      "zh": "然后做面包早上烤一下",
+      "en": "So I made bread and grilled it for breakfast."
+    },
+    {
+      "id": 172,
+      "start": 569.66,
+      "end": 574.94,
+      "ts": "09:29.660 -> 09:34.940",
+      "jp": "パンと卵コーヒーで今元気ですね",
+      "jp_html": "パンと<ruby>卵<rt>たまご</rt></ruby>コーヒーで<ruby>今元<rt>いまもと</rt></ruby><ruby>気で<rt>きで</rt></ruby>すね",
+      "zh": "吃面包和鸡蛋咖啡，你现在精神很好啊",
+      "en": "You seem energetic today with bread and egg coffee."
+    },
+    {
+      "id": 173,
+      "start": 574.94,
+      "end": 577.18,
+      "ts": "09:34.940 -> 09:37.180",
+      "jp": "ポッドキャストを撮って",
+      "jp_html": "ポッドキャストを<ruby>撮っ<rt>とっ</rt></ruby>て",
+      "zh": "制作播客",
+      "en": "Record a podcast"
+    },
+    {
+      "id": 174,
+      "start": 577.18,
+      "end": 580.86,
+      "ts": "09:37.180 -> 09:40.860",
+      "jp": "僕の子供は多分今どこにいるのかな",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby><ruby>今<rt>いま</rt></ruby>どこにいるのかな",
+      "zh": "我的孩子现在可能在哪里呢",
+      "en": "I wonder where my child is now."
+    },
+    {
+      "id": 175,
+      "start": 580.86,
+      "end": 588.88,
+      "ts": "09:40.860 -> 09:48.880",
+      "jp": "多分庭でお母さんの洗濯を手伝ってるかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby><ruby>庭<rt>にわ</rt></ruby>でお<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>洗濯<rt>せんたく</rt></ruby>を<ruby>手伝っ<rt>てつだっ</rt></ruby>てるかな",
+      "zh": "大概在庭院里帮妈妈晾衣服吧",
+      "en": "Probably helping mom with laundry in the courtyard."
+    },
+    {
+      "id": 176,
+      "start": 588.88,
+      "end": 589.82,
+      "ts": "09:48.880 -> 09:49.820",
+      "jp": "分かりません",
+      "jp_html": "<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "不明白",
+      "en": "I don't understand."
+    },
+    {
+      "id": 177,
+      "start": 589.82,
+      "end": 591.8,
+      "ts": "09:49.820 -> 09:51.800",
+      "jp": "多分ね",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ね",
+      "zh": "大概吧",
+      "en": "Probably, ne"
+    },
+    {
+      "id": 178,
+      "start": 591.8,
+      "end": 595.0,
+      "ts": "09:51.800 -> 09:55.000",
+      "jp": "ここは田舎ですから",
+      "jp_html": "ここは<ruby>田舎<rt>いなか</rt></ruby>ですから",
+      "zh": "这里是农村",
+      "en": "This is countryside."
+    },
+    {
+      "id": 179,
+      "start": 595.0,
+      "end": 597.6,
+      "ts": "09:55.000 -> 09:57.600",
+      "jp": "家も大きいし",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>も<ruby>大きい<rt>おおきい</rt></ruby>し",
+      "zh": "家里也很大/WebAPI",
+      "en": "The house is also big."
+    },
+    {
+      "id": 180,
+      "start": 597.6,
+      "end": 600.0,
+      "ts": "09:57.600 -> 10:00.000",
+      "jp": "ちょっと庭があって",
+      "jp_html": "ちょっと<ruby>庭<rt>にわ</rt></ruby>があって",
+      "zh": "有个小小的庭院",
+      "en": "There's a little garden there."
+    },
+    {
+      "id": 181,
+      "start": 600.0,
+      "end": 603.66,
+      "ts": "10:00.000 -> 10:03.660",
+      "jp": "いいですよね",
+      "jp_html": "いいですよね",
+      "zh": "不错吧",
+      "en": "Isn't it good?"
+    },
+    {
+      "id": 182,
+      "start": 603.66,
+      "end": 606.44,
+      "ts": "10:03.660 -> 10:06.440",
+      "jp": "外の景色もいいし",
+      "jp_html": "<ruby>外<rt>そと</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>もいいし",
+      "zh": "外面的风景也好=\"<<outside\"的风景也可以=外面的风景也好>>",
+      "en": "The view outside is also nice."
+    },
+    {
+      "id": 183,
+      "start": 606.44,
+      "end": 611.08,
+      "ts": "10:06.440 -> 10:11.080",
+      "jp": "僕が子供の時はこれが嫌だったんですよね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はこれが<ruby>嫌だ<rt>いやだ</rt></ruby>ったんですよね",
+      "zh": "我小时候不喜欢这个",
+      "en": "When I was a child, I didn't like this."
+    },
+    {
+      "id": 184,
+      "start": 611.08,
+      "end": 614.44,
+      "ts": "10:11.080 -> 10:14.440",
+      "jp": "子供っていうか中学生高校生の時",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>っていうか<ruby>中学生<rt>ちゅうがくせい</rt></ruby><ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "孩子或者说初中高中生的时候",
+      "en": "When I was a child, or rather in middle school and high school."
+    },
+    {
+      "id": 185,
+      "start": 614.44,
+      "end": 618.28,
+      "ts": "10:14.440 -> 10:18.280",
+      "jp": "何もないと思ってたんですよね",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>ないと<ruby>思って<rt>おもって</rt></ruby>たんですよね",
+      "zh": "原本以为什么都没有呢",
+      "en": "I thought there was nothing, you know?"
+    },
+    {
+      "id": 186,
+      "start": 618.28,
+      "end": 623.38,
+      "ts": "10:18.280 -> 10:23.380",
+      "jp": "早く東京に行きたい東京には全部があると思ってたら",
+      "jp_html": "<ruby>早く<rt>はやく</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たい<ruby>東京<rt>とうきょう</rt></ruby>には<ruby>全部<rt>ぜんぶ</rt></ruby>があると<ruby>思って<rt>おもって</rt></ruby>たら",
+      "zh": "我想早点去东京因为我觉得东京什么都有",
+      "en": "I want to go to Tokyo quickly because I thought it has everything."
+    },
+    {
+      "id": 187,
+      "start": 623.38,
+      "end": 627.68,
+      "ts": "10:23.380 -> 10:27.680",
+      "jp": "最近気がつきましたよね東京にないものもたくさんあって",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby><ruby>気が<rt>きが</rt></ruby>つきましたよね<ruby>東京<rt>とうきょう</rt></ruby>にないものもたくさんあって",
+      "zh": "最近才发现东京也有很多没有的东西吧",
+      "en": "Don't you realize there are many things in Tokyo that are missing?"
+    },
+    {
+      "id": 188,
+      "start": 627.68,
+      "end": 630.18,
+      "ts": "10:27.680 -> 10:30.180",
+      "jp": "東京にはやっぱり田舎がないんですね",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>にはやっぱり<ruby>田舎<rt>いなか</rt></ruby>がないんですね",
+      "zh": "东京果然没有 countryside 呢",
+      "en": "There's no countryside in Tokyo, you know?"
+    },
+    {
+      "id": 189,
+      "start": 630.18,
+      "end": 634.52,
+      "ts": "10:30.180 -> 10:34.520",
+      "jp": "ちょっとあるけど僕が住んでいる場所",
+      "jp_html": "ちょっとあるけど<ruby>僕<rt>ぼく</rt></ruby>が<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>場所<rt>ばしょ</rt></ruby>",
+      "zh": "这里有一处，我住的地方",
+      "en": "There's a little while, but let me tell you about where I live."
+    },
+    {
+      "id": 190,
+      "start": 634.52,
+      "end": 638.12,
+      "ts": "10:34.520 -> 10:38.120",
+      "jp": "東京の僕が住んでいる場所には田舎がないんですよね",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>僕<rt>ぼく</rt></ruby>が<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>場所<rt>ばしょ</rt></ruby>には<ruby>田舎<rt>いなか</rt></ruby>がないんですよね",
+      "zh": "东京我住的地方没有农村呢",
+      "en": "There's no countryside in the place where I live in Tokyo."
+    },
+    {
+      "id": 191,
+      "start": 638.12,
+      "end": 645.94,
+      "ts": "10:38.120 -> 10:45.940",
+      "jp": "海もない川もない山もない",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>もない<ruby>川<rt>かわ</rt></ruby>もない<ruby>山<rt>やま</rt></ruby>もない",
+      "zh": "没有海，也没有河，更没有山",
+      "en": "There is no sea, river, or mountain."
+    },
+    {
+      "id": 192,
+      "start": 645.94,
+      "end": 649.86,
+      "ts": "10:45.940 -> 10:49.860",
+      "jp": "そしてここには海もあるし川もあるし山もあるんですね",
+      "jp_html": "そしてここには<ruby>海<rt>うみ</rt></ruby>もあるし<ruby>川<rt>かわ</rt></ruby>もあるし<ruby>山<rt>やま</rt></ruby>もあるんですね",
+      "zh": "这里既有海，又有河，还有山呢。",
+      "en": "And there is also sea, river, and mountains here."
+    },
+    {
+      "id": 193,
+      "start": 649.86,
+      "end": 653.82,
+      "ts": "10:49.860 -> 10:53.820",
+      "jp": "虫もいる東京にも虫はいるけど",
+      "jp_html": "<ruby>虫<rt>むし</rt></ruby>もいる<ruby>東京<rt>とうきょう</rt></ruby>にも<ruby>虫<rt>むし</rt></ruby>はいるけど",
+      "zh": "东京也有虫子不过",
+      "en": "There are bugs in Tokyo too, but"
+    },
+    {
+      "id": 194,
+      "start": 653.82,
+      "end": 656.44,
+      "ts": "10:53.820 -> 10:56.440",
+      "jp": "嫌な虫ばっかり",
+      "jp_html": "<ruby>嫌な<rt>いやな</rt></ruby><ruby>虫<rt>むし</rt></ruby>ばっかり",
+      "zh": "全是讨厌的虫子",
+      "en": "Only annoying insects"
+    },
+    {
+      "id": 195,
+      "start": 656.44,
+      "end": 659.92,
+      "ts": "10:56.440 -> 10:59.920",
+      "jp": "トンボとかじゃないトンボはいいですよ",
+      "jp_html": "トンボとかじゃないトンボはいいですよ",
+      "zh": "不是蚊子的蜻蜓也行",
+      "en": "The dragonfly is fine."
+    },
+    {
+      "id": 196,
+      "start": 659.92,
+      "end": 661.56,
+      "ts": "10:59.920 -> 11:01.560",
+      "jp": "昨日話したトンボね",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby><ruby>話し<rt>はなし</rt></ruby>たトンボね",
+      "zh": "昨天我说的蜻蜓呢",
+      "en": "The dragonfly we talked about yesterday."
+    },
+    {
+      "id": 197,
+      "start": 661.56,
+      "end": 665.12,
+      "ts": "11:01.560 -> 11:05.120",
+      "jp": "トンボはトンボ好きですね結構",
+      "jp_html": "トンボはトンボ<ruby>好き<rt>すき</rt></ruby>ですね<ruby>結構<rt>けっこう</rt></ruby>",
+      "zh": "蜻蜓很喜欢蜻蜓呢还不错",
+      "en": "The dragonfly seems to really like dragonflies quite a bit."
+    },
+    {
+      "id": 198,
+      "start": 665.12,
+      "end": 669.28,
+      "ts": "11:05.120 -> 11:09.280",
+      "jp": "トンボ可愛いです本当に",
+      "jp_html": "トンボ<ruby>可愛い<rt>かわい</rt></ruby>です<ruby>本当<rt>ほんとう</rt></ruby>に",
+      "zh": "蜻蜓很可爱真的",
+      "en": "Dragonflies are cute really"
+    },
+    {
+      "id": 199,
+      "start": 669.28,
+      "end": 673.46,
+      "ts": "11:09.280 -> 11:13.460",
+      "jp": "東京には蚊とか蠅とかゴキブリとか",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>には<ruby>蚊<rt>か</rt></ruby>とか<ruby>蠅<rt>はえ</rt></ruby>とかゴキブリとか",
+      "zh": "东京有蚊子或者苍蝇还有蟑螂等",
+      "en": "Tokyo has mosquitoes and flies and cockroaches too."
+    },
+    {
+      "id": 200,
+      "start": 673.46,
+      "end": 675.72,
+      "ts": "11:13.460 -> 11:15.720",
+      "jp": "そんな奴らしかいないけど",
+      "jp_html": "そんな<ruby>奴<rt>やつ</rt></ruby>らしかいないけど",
+      "zh": "那种人也只有他们了",
+      "en": "Those guys are the only ones though"
+    },
+    {
+      "id": 201,
+      "start": 675.72,
+      "end": 680.32,
+      "ts": "11:15.720 -> 11:20.320",
+      "jp": "田舎にはトンボとかバッタとか",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>にはトンボとかバッタとか",
+      "zh": "乡村里有蜻蜓或者蚂蚱",
+      "en": "In the countryside, there are dragonflies and grasshoppers."
+    },
+    {
+      "id": 202,
+      "start": 680.32,
+      "end": 684.9,
+      "ts": "11:20.320 -> 11:24.900",
+      "jp": "セミもちろんねセミもいるし",
+      "jp_html": "セミもちろんねセミもいるし",
+      "zh": "当然了，当然有蟋蟀。",
+      "en": "Surely there are crickets too, right?"
+    },
+    {
+      "id": 203,
+      "start": 684.9,
+      "end": 688.64,
+      "ts": "11:24.900 -> 11:28.640",
+      "jp": "トンボは本当に可愛いですね",
+      "jp_html": "トンボは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>可愛い<rt>かわい</rt></ruby>ですね",
+      "zh": "蜻蜓真的好可爱呢",
+      "en": "The dragonfly is really cute, isn't it?"
+    },
+    {
+      "id": 204,
+      "start": 688.64,
+      "end": 695.5,
+      "ts": "11:28.640 -> 11:35.500",
+      "jp": "今僕はベランダ窓からちょっと外を見てますが",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby>ベランダ<ruby>窓<rt>まど</rt></ruby>からちょっと<ruby>外<rt>そと</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>ますが",
+      "zh": "我现在从阳台窗户往外看了一下",
+      "en": "Now I am looking slightly outside from the balcony window."
+    },
+    {
+      "id": 205,
+      "start": 695.5,
+      "end": 699.32,
+      "ts": "11:35.500 -> 11:39.320",
+      "jp": "トンボが結構近くまで来るんですね",
+      "jp_html": "トンボが<ruby>結構<rt>けっこう</rt></ruby><ruby>近く<rt>ちかく</rt></ruby>まで<ruby>来る<rt>くる</rt></ruby>んですね",
+      "zh": "蜻蜓竟然飞得这么近啊",
+      "en": "The dragonfly came quite close, didn't it?"
+    },
+    {
+      "id": 206,
+      "start": 699.32,
+      "end": 703.54,
+      "ts": "11:39.320 -> 11:43.540",
+      "jp": "なんかこうヘリコプターみたいなね",
+      "jp_html": "なんかこうヘリコプターみたいなね",
+      "zh": "感觉就像直升机一样呢",
+      "en": "It's kind of like a helicopter, you know?"
+    },
+    {
+      "id": 207,
+      "start": 703.54,
+      "end": 706.14,
+      "ts": "11:43.540 -> 11:46.140",
+      "jp": "虫ですよねトンボは",
+      "jp_html": "<ruby>虫<rt>むし</rt></ruby>ですよねトンボは",
+      "zh": "是虫吧蜻蜓是",
+      "en": "Are they bugs? Dragonflies, perhaps?"
+    },
+    {
+      "id": 208,
+      "start": 706.14,
+      "end": 708.5,
+      "ts": "11:46.140 -> 11:48.500",
+      "jp": "ちょっとドローンみたいな",
+      "jp_html": "ちょっとドローンみたいな",
+      "zh": "有点像无人机",
+      "en": "Kind of like a drone"
+    },
+    {
+      "id": 209,
+      "start": 708.5,
+      "end": 717.46,
+      "ts": "11:48.500 -> 11:57.460",
+      "jp": "まあまあまあ田舎日記毎日やるので皆さんまた聞いてください",
+      "jp_html": "まあまあまあ<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>やるので<ruby>皆さん<rt>みなさん</rt></ruby>また<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "嗯嗯嗯，我会继续写乡村日记的，大家请继续关注哦",
+      "en": "Okay okay okay I'll keep writing my countryside diary every day so please listen again soon"
+    },
+    {
+      "id": 210,
+      "start": 717.46,
+      "end": 719.02,
+      "ts": "11:57.460 -> 11:59.020",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
