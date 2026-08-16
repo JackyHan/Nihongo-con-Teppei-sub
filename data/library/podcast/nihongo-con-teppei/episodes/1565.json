@@ -1,0 +1,1194 @@
+{
+  "id": "1565",
+  "title": "#1565「田舎日記10」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1565.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1565.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/16/1565%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9810%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.52,
+      "end": 3.36,
+      "ts": "00:01.520 -> 00:03.360",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.36,
+      "end": 7.34,
+      "ts": "00:03.360 -> 00:07.340",
+      "jp": "今日も田舎日記",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>",
+      "zh": "今天的乡村日记",
+      "en": "Today's Countryside Diary"
+    },
+    {
+      "id": 2,
+      "start": 7.34,
+      "end": 10.28,
+      "ts": "00:07.340 -> 00:10.280",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 10.28,
+      "end": 12.26,
+      "ts": "00:10.280 -> 00:12.260",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 4,
+      "start": 12.26,
+      "end": 15.84,
+      "ts": "00:12.260 -> 00:15.840",
+      "jp": "僕はまだ田舎にいます",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>まだ<ruby>田舎<rt>いなか</rt></ruby>にいます",
+      "zh": "我还住在乡下",
+      "en": "I am still in the countryside."
+    },
+    {
+      "id": 5,
+      "start": 15.84,
+      "end": 19.62,
+      "ts": "00:15.840 -> 00:19.620",
+      "jp": "田舎を楽しんでいるわけですが",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでいるわけですが",
+      "zh": "我在享受乡下的时光",
+      "en": "I am enjoying the countryside."
+    },
+    {
+      "id": 6,
+      "start": 19.62,
+      "end": 21.1,
+      "ts": "00:19.620 -> 00:21.100",
+      "jp": "楽しんでいる",
+      "jp_html": "<ruby>楽し<rt>たのし</rt></ruby>んでいる",
+      "zh": "正在享受",
+      "en": "Having fun"
+    },
+    {
+      "id": 7,
+      "start": 21.1,
+      "end": 23.52,
+      "ts": "00:21.100 -> 00:23.520",
+      "jp": "のんびりしている",
+      "jp_html": "のんびりしている",
+      "zh": "悠闲地",
+      "en": "Relaxing"
+    },
+    {
+      "id": 8,
+      "start": 24.26,
+      "end": 29.5,
+      "ts": "00:24.260 -> 00:29.500",
+      "jp": "まるで子供の時に戻ったように",
+      "jp_html": "まるで<ruby>子供<rt>こども</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby><ruby>戻っ<rt>もどっ</rt></ruby>たように",
+      "zh": "仿佛回到了童年一般",
+      "en": "It's like going back to when I was a child."
+    },
+    {
+      "id": 9,
+      "start": 29.5,
+      "end": 36.24,
+      "ts": "00:29.500 -> 00:36.240",
+      "jp": "お母さんの作った料理を食べて",
+      "jp_html": "お<ruby>母さん<rt>かあさん</rt></ruby>の<ruby>作っ<rt>つくっ</rt></ruby>た<ruby>料理<rt>りょうり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "吃妈妈做的菜",
+      "en": "Eat the food cooked by mom"
+    },
+    {
+      "id": 10,
+      "start": 36.24,
+      "end": 40.94,
+      "ts": "00:36.240 -> 00:40.940",
+      "jp": "あまり家事をしなくていいですよね",
+      "jp_html": "あまり<ruby>家事<rt>かじ</rt></ruby>をしなくていいですよね",
+      "zh": "不是要做很少的家务吗？",
+      "en": "Don't you have to do very little housework, right?"
+    },
+    {
+      "id": 11,
+      "start": 40.94,
+      "end": 42.86,
+      "ts": "00:40.940 -> 00:42.860",
+      "jp": "掃除や洗濯",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>や<ruby>洗濯<rt>せんたく</rt></ruby>",
+      "zh": "打扫和洗衣",
+      "en": "Cleaning and laundry"
+    },
+    {
+      "id": 12,
+      "start": 42.86,
+      "end": 45.16,
+      "ts": "00:42.860 -> 00:45.160",
+      "jp": "掃除は少しだけ手伝うけど",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>だけ<ruby>手伝う<rt>てつだう</rt></ruby>けど",
+      "zh": "我会稍微帮忙打扫一下。",
+      "en": "I'll help with the cleaning just a little bit."
+    },
+    {
+      "id": 13,
+      "start": 45.16,
+      "end": 50.42,
+      "ts": "00:45.160 -> 00:50.420",
+      "jp": "洗濯とか料理とか買い物とか",
+      "jp_html": "<ruby>洗濯<rt>せんたく</rt></ruby>とか<ruby>料理<rt>りょうり</rt></ruby>とか<ruby>買い物<rt>かいもの</rt></ruby>とか",
+      "zh": "洗衣或做饭或购物",
+      "en": "洗衣或者做饭或者购物"
+    },
+    {
+      "id": 14,
+      "start": 50.42,
+      "end": 52.26,
+      "ts": "00:50.420 -> 00:52.260",
+      "jp": "全然しません",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>しません",
+      "zh": "完全没有",
+      "en": "Not at all"
+    },
+    {
+      "id": 15,
+      "start": 52.26,
+      "end": 56.26,
+      "ts": "00:52.260 -> 00:56.260",
+      "jp": "まるで子供の時に戻ったみたいに",
+      "jp_html": "まるで<ruby>子供<rt>こども</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby><ruby>戻っ<rt>もどっ</rt></ruby>たみたいに",
+      "zh": "就像回到了小时候一样",
+      "en": "It's like going back to when I was a child."
+    },
+    {
+      "id": 16,
+      "start": 56.26,
+      "end": 57.46,
+      "ts": "00:56.260 -> 00:57.460",
+      "jp": "のんびりしてます",
+      "jp_html": "のんびりしてます",
+      "zh": "悠闲着呢",
+      "en": "I'm relaxing."
+    },
+    {
+      "id": 17,
+      "start": 57.46,
+      "end": 59.88,
+      "ts": "00:57.460 -> 00:59.880",
+      "jp": "たまにはいいですよね",
+      "jp_html": "たまにはいいですよね",
+      "zh": "偶尔这样做不是很好吗",
+      "en": "Sometimes it's nice, isn't it?"
+    },
+    {
+      "id": 18,
+      "start": 59.88,
+      "end": 65.56,
+      "ts": "00:59.880 -> 01:05.560",
+      "jp": "それで寝るときなんですけど",
+      "jp_html": "それで<ruby>寝る<rt>ねる</rt></ruby>ときなんですけど",
+      "zh": "那就是睡觉的时候了",
+      "en": "That's when I go to bed."
+    },
+    {
+      "id": 19,
+      "start": 65.56,
+      "end": 72.8,
+      "ts": "01:05.560 -> 01:12.800",
+      "jp": "僕と子供は今座敷で寝てますね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>座敷<rt>ざしき</rt></ruby>で<ruby>寝て<rt>ねて</rt></ruby>ますね",
+      "zh": "我和孩子现在在地上睡觉呢",
+      "en": "I and my child are sleeping on the tatami now."
+    },
+    {
+      "id": 20,
+      "start": 72.8,
+      "end": 78.32,
+      "ts": "01:12.800 -> 01:18.320",
+      "jp": "座敷というのは畳の部屋ですね",
+      "jp_html": "<ruby>座敷<rt>ざしき</rt></ruby>というのは<ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>ですね",
+      "zh": "座敷就是榻榻米房间。",
+      "en": "A座敷is a room with tatami mats."
+    },
+    {
+      "id": 21,
+      "start": 78.32,
+      "end": 81.34,
+      "ts": "01:18.320 -> 01:21.340",
+      "jp": "座敷畳の部屋",
+      "jp_html": "<ruby>座敷<rt>ざしき</rt></ruby><ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>",
+      "zh": "铺席的房间",
+      "en": "Room with tatami mats"
+    },
+    {
+      "id": 22,
+      "start": 81.34,
+      "end": 88.78,
+      "ts": "01:21.340 -> 01:28.780",
+      "jp": "1階のテレビがある部屋",
+      "jp_html": "1<ruby>階<rt>かい</rt></ruby>のテレビがある<ruby>部屋<rt>へや</rt></ruby>",
+      "zh": "一楼有电视的房间",
+      "en": "The room that has the television on the first floor"
+    },
+    {
+      "id": 23,
+      "start": 88.78,
+      "end": 91.58,
+      "ts": "01:28.780 -> 01:31.580",
+      "jp": "リビングみたいな感じですね",
+      "jp_html": "リビングみたいな<ruby>感じ<rt>かんじ</rt></ruby>ですね",
+      "zh": "就像客厅一样呢",
+      "en": "It feels like a living room."
+    },
+    {
+      "id": 24,
+      "start": 91.58,
+      "end": 94.72,
+      "ts": "01:31.580 -> 01:34.720",
+      "jp": "ちょっと広めの座敷があります",
+      "jp_html": "ちょっと<ruby>広め<rt>ひろめ</rt></ruby>の<ruby>座敷<rt>ざしき</rt></ruby>があります",
+      "zh": "有一个稍微宽敞些的座敷",
+      "en": "There is a slightly larger tatami room."
+    },
+    {
+      "id": 25,
+      "start": 94.72,
+      "end": 97.8,
+      "ts": "01:34.720 -> 01:37.800",
+      "jp": "そこには大きいテレビがあります",
+      "jp_html": "そこには<ruby>大きい<rt>おおきい</rt></ruby>テレビがあります",
+      "zh": "那里有一台大的电视",
+      "en": "There is a big television there."
+    },
+    {
+      "id": 26,
+      "start": 97.8,
+      "end": 101.46,
+      "ts": "01:37.800 -> 01:41.460",
+      "jp": "そしてソファーもあります",
+      "jp_html": "そしてソファーもあります",
+      "zh": "然后还有沙发",
+      "en": "And there is a sofa as well."
+    },
+    {
+      "id": 27,
+      "start": 102.92,
+      "end": 106.58,
+      "ts": "01:42.920 -> 01:46.580",
+      "jp": "何もない畳の場所があるんですね",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>ない<ruby>畳<rt>たたみ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>があるんですね",
+      "zh": "有一块空着的榻榻米位置吧",
+      "en": "There's a place with an empty tatami mat."
+    },
+    {
+      "id": 28,
+      "start": 106.58,
+      "end": 110.7,
+      "ts": "01:46.580 -> 01:50.700",
+      "jp": "何のためかな",
+      "jp_html": "<ruby>何の<rt>なんの</rt></ruby>ためかな",
+      "zh": "为何呢",
+      "en": "Why is it for?"
+    },
+    {
+      "id": 29,
+      "start": 110.7,
+      "end": 119.3,
+      "ts": "01:50.700 -> 01:59.300",
+      "jp": "たぶんたくさんの人が来てみんなで食べるときはそこで使うのかな",
+      "jp_html": "たぶんたくさんの<ruby>人<rt>にん</rt></ruby>が<ruby>来て<rt>きて</rt></ruby>みんなで<ruby>食べ<rt>たべ</rt></ruby>るときはそこで<ruby>使う<rt>つかう</rt></ruby>のかな",
+      "zh": "大概很多人会来，大家一起吃的时候就在那里用吧",
+      "en": "Probably many people will come and we'll use it when we all eat together, right?"
+    },
+    {
+      "id": 30,
+      "start": 119.3,
+      "end": 121.24,
+      "ts": "01:59.300 -> 02:01.240",
+      "jp": "昔はそうでしたね",
+      "jp_html": "<ruby>昔<rt>むかし</rt></ruby>はそうでしたね",
+      "zh": "以前是这样的吧",
+      "en": "It was like that in the past, wasn't it?"
+    },
+    {
+      "id": 31,
+      "start": 121.24,
+      "end": 129.12,
+      "ts": "02:01.240 -> 02:09.120",
+      "jp": "僕は子供のときにたくさんの人が家に来たときそこで食べてましたね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>のときにたくさんの<ruby>人<rt>にん</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>ときそこで<ruby>食べて<rt>たべて</rt></ruby>ましたね",
+      "zh": "我小时候很多客人来的时候就在那里吃饭呢",
+      "en": "I used to eat there when many people came to our house when I was a child."
+    },
+    {
+      "id": 32,
+      "start": 130.4,
+      "end": 137.24,
+      "ts": "02:10.400 -> 02:17.240",
+      "jp": "ダイニングいつもみんなで食べるところは6個",
+      "jp_html": "ダイニングいつもみんなで<ruby>食べ<rt>たべ</rt></ruby>るところは6<ruby>個<rt>こ</rt></ruby>",
+      "zh": "餐厅大家经常吃饭的地方是6个座位",
+      "en": "Dining room The place where everyone eats together has 6 seats."
+    },
+    {
+      "id": 33,
+      "start": 137.24,
+      "end": 140.08,
+      "ts": "02:17.240 -> 02:20.080",
+      "jp": "席が6個しかないですね",
+      "jp_html": "<ruby>席<rt>せき</rt></ruby>が6<ruby>個<rt>こ</rt></ruby>しかないですね",
+      "zh": "只剩下6个座位了吧",
+      "en": "There are only 6 seats, right?"
+    },
+    {
+      "id": 34,
+      "start": 140.08,
+      "end": 142.12,
+      "ts": "02:20.080 -> 02:22.120",
+      "jp": "6つだけですね",
+      "jp_html": "6つだけですね",
+      "zh": "只有六个",
+      "en": "That's just six."
+    },
+    {
+      "id": 35,
+      "start": 142.12,
+      "end": 143.8,
+      "ts": "02:22.120 -> 02:23.800",
+      "jp": "6個の椅子",
+      "jp_html": "6<ruby>個<rt>こ</rt></ruby>の<ruby>椅子<rt>いす</rt></ruby>",
+      "zh": "6把椅子",
+      "en": "6 chairs"
+    },
+    {
+      "id": 36,
+      "start": 143.8,
+      "end": 146.52,
+      "ts": "02:23.800 -> 02:26.520",
+      "jp": "7人ぐらいは大丈夫かな",
+      "jp_html": "7<ruby>人<rt>にん</rt></ruby>ぐらいは<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かな",
+      "zh": "大概7个人应该没问题吧",
+      "en": "About 7 people should be okay."
+    },
+    {
+      "id": 37,
+      "start": 146.52,
+      "end": 148.04,
+      "ts": "02:26.520 -> 02:28.040",
+      "jp": "6人7人",
+      "jp_html": "6<ruby>人<rt>にん</rt></ruby>7<ruby>人<rt>にん</rt></ruby>",
+      "zh": "6人7人",
+      "en": "6 people 7 people"
+    },
+    {
+      "id": 38,
+      "start": 148.04,
+      "end": 149.42,
+      "ts": "02:28.040 -> 02:29.420",
+      "jp": "それぐらいですね",
+      "jp_html": "それぐらいですね",
+      "zh": "大概就是这样吧",
+      "en": "That's about it."
+    },
+    {
+      "id": 39,
+      "start": 149.42,
+      "end": 151.44,
+      "ts": "02:29.420 -> 02:31.440",
+      "jp": "それ以上はちょっと難しいかな",
+      "jp_html": "それ<ruby>以上<rt>いじょう</rt></ruby>はちょっと<ruby>難しい<rt>むずかしい</rt></ruby>かな",
+      "zh": "那剩下的就有点难了呢",
+      "en": "That might be a bit difficult, huh?"
+    },
+    {
+      "id": 40,
+      "start": 151.44,
+      "end": 152.64,
+      "ts": "02:31.440 -> 02:32.640",
+      "jp": "8人",
+      "jp_html": "8<ruby>人<rt>にん</rt></ruby>",
+      "zh": "8人",
+      "en": "8 people"
+    },
+    {
+      "id": 41,
+      "start": 152.64,
+      "end": 154.06,
+      "ts": "02:32.640 -> 02:34.060",
+      "jp": "8人は大丈夫かな",
+      "jp_html": "8<ruby>人<rt>にん</rt></ruby>は<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かな",
+      "zh": "8个人应该没问题吧",
+      "en": "Are 8 people okay?"
+    },
+    {
+      "id": 42,
+      "start": 154.06,
+      "end": 157.58,
+      "ts": "02:34.060 -> 02:37.580",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 43,
+      "start": 157.58,
+      "end": 161.96,
+      "ts": "02:37.580 -> 02:41.960",
+      "jp": "たくさんの人が家に来たときに",
+      "jp_html": "たくさんの<ruby>人<rt>にん</rt></ruby>が<ruby>家<rt>いえ</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>ときに",
+      "zh": "当很多人来家里时",
+      "en": "When many people come to the house"
+    },
+    {
+      "id": 44,
+      "start": 161.96,
+      "end": 164.1,
+      "ts": "02:41.960 -> 02:44.100",
+      "jp": "座敷で食べてました",
+      "jp_html": "<ruby>座敷<rt>ざしき</rt></ruby>で<ruby>食べて<rt>たべて</rt></ruby>ました",
+      "zh": "坐在座敷吃东西",
+      "en": "I was eating in the tatami room."
+    },
+    {
+      "id": 45,
+      "start": 164.1,
+      "end": 167.96,
+      "ts": "02:44.100 -> 02:47.960",
+      "jp": "テーブルを置いて",
+      "jp_html": "テーブルを<ruby>置い<rt>おい</rt></ruby>て",
+      "zh": "把桌子放好",
+      "en": "Place the table"
+    },
+    {
+      "id": 46,
+      "start": 167.96,
+      "end": 169.86,
+      "ts": "02:47.960 -> 02:49.860",
+      "jp": "下に座るんですね",
+      "jp_html": "<ruby>下に<rt>したに</rt></ruby><ruby>座る<rt>すわる</rt></ruby>んですね",
+      "zh": "你坐在下面呢",
+      "en": "You sit down below."
+    },
+    {
+      "id": 47,
+      "start": 169.86,
+      "end": 174.52,
+      "ts": "02:49.860 -> 02:54.520",
+      "jp": "あと座敷の使い方はもう一つあって",
+      "jp_html": "あと<ruby>座敷<rt>ざしき</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>はもう<ruby>一つ<rt>ひとつ</rt></ruby>あって",
+      "zh": "另外，座敷的用途还有一个",
+      "en": "Another way to use the alcove is"
+    },
+    {
+      "id": 48,
+      "start": 174.52,
+      "end": 177.8,
+      "ts": "02:54.520 -> 02:57.800",
+      "jp": "ゲストルームみたいになるんですね",
+      "jp_html": "ゲストルームみたいになるんですね",
+      "zh": "好像会变成 guest room 呢",
+      "en": "It's supposed to look like a guest room, right?"
+    },
+    {
+      "id": 49,
+      "start": 177.8,
+      "end": 180.2,
+      "ts": "02:57.800 -> 03:00.200",
+      "jp": "例えばお客さん",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>お<ruby>客<rt>きゃく</rt></ruby>さん",
+      "zh": "例如顾客",
+      "en": "For example, the customer"
+    },
+    {
+      "id": 50,
+      "start": 180.2,
+      "end": 182.34,
+      "ts": "03:00.200 -> 03:02.340",
+      "jp": "誰かが来た時に",
+      "jp_html": "<ruby>誰か<rt>だれか</rt></ruby>が<ruby>来た<rt>きた</rt></ruby><ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "有人来时",
+      "en": "When someone comes"
+    },
+    {
+      "id": 51,
+      "start": 182.34,
+      "end": 183.98,
+      "ts": "03:02.340 -> 03:03.980",
+      "jp": "泊まる時に",
+      "jp_html": "<ruby>泊ま<rt>とま</rt></ruby>る<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "住宿时",
+      "en": "When staying"
+    },
+    {
+      "id": 52,
+      "start": 183.98,
+      "end": 187.46,
+      "ts": "03:03.980 -> 03:07.460",
+      "jp": "そこに布団を敷いて寝ることができます",
+      "jp_html": "そこに<ruby>布団<rt>ふとん</rt></ruby>を<ruby>敷い<rt>しい</rt></ruby>て<ruby>寝る<rt>ねる</rt></ruby>ことができます",
+      "zh": "可以在那里铺上垫子睡觉",
+      "en": "You can铺开床垫在那里睡觉。"
+    },
+    {
+      "id": 53,
+      "start": 187.46,
+      "end": 189.72,
+      "ts": "03:07.460 -> 03:09.720",
+      "jp": "とても便利なシステムですね",
+      "jp_html": "とても<ruby>便利<rt>べんり</rt></ruby>なシステムですね",
+      "zh": "这是一个非常方便的系统呢",
+      "en": "It's a very convenient system, isn't it?"
+    },
+    {
+      "id": 54,
+      "start": 192.62,
+      "end": 196.2,
+      "ts": "03:12.620 -> 03:16.200",
+      "jp": "ゲストが来た時のダイニングにもなるし",
+      "jp_html": "ゲストが<ruby>来た<rt>きた</rt></ruby><ruby>時の<rt>ときの</rt></ruby>ダイニングにもなるし",
+      "zh": "客人来的时候也可以用来就餐",
+      "en": "It can also be used as dining area when guests come."
+    },
+    {
+      "id": 55,
+      "start": 196.2,
+      "end": 199.7,
+      "ts": "03:16.200 -> 03:19.700",
+      "jp": "ゲストが来た時のベッドルーミングにもなると",
+      "jp_html": "ゲストが<ruby>来た<rt>きた</rt></ruby><ruby>時の<rt>ときの</rt></ruby>ベッドルーミングにもなると",
+      "zh": "客人来时也可以用作床铺住宿",
+      "en": "It can also be used for bed hopping when guests come over."
+    },
+    {
+      "id": 56,
+      "start": 199.7,
+      "end": 202.82,
+      "ts": "03:19.700 -> 03:22.820",
+      "jp": "とても便利なシステムですが",
+      "jp_html": "とても<ruby>便利<rt>べんり</rt></ruby>なシステムですが",
+      "zh": "这是一个非常方便的系统，但是",
+      "en": "It is a very convenient system, but"
+    },
+    {
+      "id": 57,
+      "start": 202.82,
+      "end": 209.94,
+      "ts": "03:22.820 -> 03:29.940",
+      "jp": "僕と子供はその座敷に布団を敷いて寝てるんですが",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>はその<ruby>座敷<rt>ざしき</rt></ruby>に<ruby>布団<rt>ふとん</rt></ruby>を<ruby>敷い<rt>しい</rt></ruby>て<ruby>寝て<rt>ねて</rt></ruby>るんですが",
+      "zh": "我和孩子在那間簾子房裡铺了垫子睡觉呢",
+      "en": "I and the children are sleeping on futons laid out on the tatami mat."
+    },
+    {
+      "id": 58,
+      "start": 209.94,
+      "end": 214.88,
+      "ts": "03:29.940 -> 03:34.880",
+      "jp": "やっぱり背中がちょっと痛いですね",
+      "jp_html": "やっぱり<ruby>背中<rt>せなか</rt></ruby>がちょっと<ruby>痛い<rt>いたい</rt></ruby>ですね",
+      "zh": "果然背部有点疼呢",
+      "en": "Your back is still a little painful, isn't it?"
+    },
+    {
+      "id": 59,
+      "start": 214.88,
+      "end": 218.54,
+      "ts": "03:34.880 -> 03:38.540",
+      "jp": "体がちょっと痛いですね",
+      "jp_html": "<ruby>体<rt>からだ</rt></ruby>がちょっと<ruby>痛い<rt>いたい</rt></ruby>ですね",
+      "zh": "身体稍微有点疼呢",
+      "en": "My body hurts a little bit."
+    },
+    {
+      "id": 60,
+      "start": 219.54,
+      "end": 225.2,
+      "ts": "03:39.540 -> 03:45.200",
+      "jp": "布団はちょっと固いんですよね",
+      "jp_html": "<ruby>布団<rt>ふとん</rt></ruby>はちょっと<ruby>固い<rt>かたい</rt></ruby>んですよね",
+      "zh": "床垫有点硬呢",
+      "en": "The futon is a bit stiff, though."
+    },
+    {
+      "id": 61,
+      "start": 225.2,
+      "end": 226.78,
+      "ts": "03:45.200 -> 03:46.780",
+      "jp": "やっぱり固い",
+      "jp_html": "やっぱり<ruby>固い<rt>かたい</rt></ruby>",
+      "zh": "果然硬邦邦的",
+      "en": "It's still hard."
+    },
+    {
+      "id": 62,
+      "start": 226.78,
+      "end": 229.2,
+      "ts": "03:46.780 -> 03:49.200",
+      "jp": "皆さんも日本に来て",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>も<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>",
+      "zh": "大家也来日本吧",
+      "en": "Everyone should come to Japan."
+    },
+    {
+      "id": 63,
+      "start": 229.2,
+      "end": 232.18,
+      "ts": "03:49.200 -> 03:52.180",
+      "jp": "布団に寝たことがあると思いますけど",
+      "jp_html": "<ruby>布団<rt>ふとん</rt></ruby>に<ruby>寝た<rt>ねた</rt></ruby>ことがあると<ruby>思い<rt>おもい</rt></ruby>ますけど",
+      "zh": "您睡过榻榻米吧？",
+      "en": "I think you've slept on a futon before."
+    },
+    {
+      "id": 64,
+      "start": 232.18,
+      "end": 233.04,
+      "ts": "03:52.180 -> 03:53.040",
+      "jp": "ちょっとね",
+      "jp_html": "ちょっとね",
+      "zh": "稍微一下",
+      "en": "Oh, just a little bit."
+    },
+    {
+      "id": 65,
+      "start": 233.04,
+      "end": 235.7,
+      "ts": "03:53.040 -> 03:55.700",
+      "jp": "まあ固いですやっぱり",
+      "jp_html": "まあ<ruby>固い<rt>かたい</rt></ruby>ですやっぱり",
+      "zh": "确实有点硬",
+      "en": "Well, it's pretty hard, as expected."
+    },
+    {
+      "id": 66,
+      "start": 235.7,
+      "end": 238.72,
+      "ts": "03:55.700 -> 03:58.720",
+      "jp": "ベッドに比べると布団は固い",
+      "jp_html": "ベッドに<ruby>比べ<rt>くらべ</rt></ruby>ると<ruby>布団<rt>ふとん</rt></ruby>は<ruby>固い<rt>かたい</rt></ruby>",
+      "zh": "与床相比，褥子更硬",
+      "en": "A futon is harder than a bed."
+    },
+    {
+      "id": 67,
+      "start": 238.72,
+      "end": 242.88,
+      "ts": "03:58.720 -> 04:02.880",
+      "jp": "実は僕は東京の家でも布団で寝てます",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>でも<ruby>布団<rt>ふとん</rt></ruby>で<ruby>寝て<rt>ねて</rt></ruby>ます",
+      "zh": "实际上我在东京的家里也铺着榻榻米睡觉",
+      "en": "Actually, I also sleep on futons in my house in Tokyo."
+    },
+    {
+      "id": 68,
+      "start": 242.88,
+      "end": 246.02,
+      "ts": "04:02.880 -> 04:06.020",
+      "jp": "でもそれはちょっと特別な布団で",
+      "jp_html": "でもそれはちょっと<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>布団<rt>ふとん</rt></ruby>で",
+      "zh": "那它是一个稍微特别的被子",
+      "en": "But it's a little bit of a special bedsheet."
+    },
+    {
+      "id": 69,
+      "start": 246.02,
+      "end": 250.5,
+      "ts": "04:06.020 -> 04:10.500",
+      "jp": "テンピュールという会社が作っている",
+      "jp_html": "テンピュールという<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>作っ<rt>つくっ</rt></ruby>ている",
+      "zh": "-tempur这家公司制作的",
+      "en": "Tempur-Pedicure Inc. makes it."
+    },
+    {
+      "id": 70,
+      "start": 250.5,
+      "end": 253.84,
+      "ts": "04:10.500 -> 04:13.840",
+      "jp": "マットレスみたいな布団なんですね",
+      "jp_html": "マットレスみたいな<ruby>布団<rt>ふとん</rt></ruby>なんですね",
+      "zh": "像床垫一样的睡袋呢",
+      "en": "It's a quilt like a mattress, huh?"
+    },
+    {
+      "id": 71,
+      "start": 253.84,
+      "end": 255.02,
+      "ts": "04:13.840 -> 04:15.020",
+      "jp": "布団マットレス",
+      "jp_html": "<ruby>布団<rt>ふとん</rt></ruby>マットレス",
+      "zh": "床垫布团",
+      "en": "mattressematress"
+    },
+    {
+      "id": 72,
+      "start": 255.02,
+      "end": 258.18,
+      "ts": "04:15.020 -> 04:18.180",
+      "jp": "ちょっと普通の布団とは違う",
+      "jp_html": "ちょっと<ruby>普通<rt>ふつう</rt></ruby>の<ruby>布団<rt>ふとん</rt></ruby>とは<ruby>違う<rt>ちがう</rt></ruby>",
+      "zh": "和普通的被子不一样",
+      "en": "It's a bit different from a regular futon."
+    },
+    {
+      "id": 73,
+      "start": 258.18,
+      "end": 260.48,
+      "ts": "04:18.180 -> 04:20.480",
+      "jp": "もっと高くて",
+      "jp_html": "もっと<ruby>高く<rt>たかく</rt></ruby>て",
+      "zh": "更高一些",
+      "en": "Higher up"
+    },
+    {
+      "id": 74,
+      "start": 260.48,
+      "end": 262.8,
+      "ts": "04:20.480 -> 04:22.800",
+      "jp": "まあまあまあもっと高くて",
+      "jp_html": "まあまあまあもっと<ruby>高く<rt>たかく</rt></ruby>て",
+      "zh": "算了算了再高点",
+      "en": "Well, it's a bit more expensive."
+    },
+    {
+      "id": 75,
+      "start": 262.8,
+      "end": 264.58,
+      "ts": "04:22.800 -> 04:24.580",
+      "jp": "あのもっといいんですよね",
+      "jp_html": "あのもっといいんですよね",
+      "zh": "确实更好呢",
+      "en": "It's better like that, isn't it?"
+    },
+    {
+      "id": 76,
+      "start": 264.58,
+      "end": 268.2,
+      "ts": "04:24.580 -> 04:28.200",
+      "jp": "でも僕の両親の家にある布団は",
+      "jp_html": "でも<ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>にある<ruby>布団<rt>ふとん</rt></ruby>は",
+      "zh": "但是我家里的被子是在我父母的家里",
+      "en": "But the futon at my parents' house is"
+    },
+    {
+      "id": 77,
+      "start": 268.2,
+      "end": 270.86,
+      "ts": "04:28.200 -> 04:30.860",
+      "jp": "まあ普通の日本っぽい布団です",
+      "jp_html": "まあ<ruby>普通<rt>ふつう</rt></ruby>の<ruby>日本<rt>にっぽん</rt></ruby>っぽい<ruby>布団<rt>ふとん</rt></ruby>です",
+      "zh": "这是一张普通的日本风格的榻榻米。",
+      "en": "It's just an ordinary Japanese futon."
+    },
+    {
+      "id": 78,
+      "start": 270.86,
+      "end": 272.66,
+      "ts": "04:30.860 -> 04:32.660",
+      "jp": "なのでちょっとね",
+      "jp_html": "なのでちょっとね",
+      "zh": "所以稍微一下吧",
+      "en": "So kind of"
+    },
+    {
+      "id": 79,
+      "start": 272.66,
+      "end": 274.96,
+      "ts": "04:32.660 -> 04:34.960",
+      "jp": "毎日寝ていると",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>寝て<rt>ねて</rt></ruby>いると",
+      "zh": "每天睡觉",
+      "en": "Sleeping every day"
+    },
+    {
+      "id": 80,
+      "start": 274.96,
+      "end": 277.66,
+      "ts": "04:34.960 -> 04:37.660",
+      "jp": "背中がちょっと痛いですね",
+      "jp_html": "<ruby>背中<rt>せなか</rt></ruby>がちょっと<ruby>痛い<rt>いたい</rt></ruby>ですね",
+      "zh": "背部有点疼呢",
+      "en": "My back is a little sore."
+    },
+    {
+      "id": 81,
+      "start": 277.66,
+      "end": 280.7,
+      "ts": "04:37.660 -> 04:40.700",
+      "jp": "まあまあ大丈夫ですよ",
+      "jp_html": "まあまあ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ",
+      "zh": "还行，没问题的",
+      "en": "It's okay, don't worry."
+    },
+    {
+      "id": 82,
+      "start": 280.7,
+      "end": 281.9,
+      "ts": "04:40.700 -> 04:41.900",
+      "jp": "大丈夫だけど",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だけど",
+      "zh": "他是一个男人。",
+      "en": "I'm okay but"
+    },
+    {
+      "id": 83,
+      "start": 281.9,
+      "end": 283.26,
+      "ts": "04:41.900 -> 04:43.260",
+      "jp": "僕は慣れてるから",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>慣れ<rt>なれ</rt></ruby>てるから",
+      "zh": "我习惯了",
+      "en": "I am used to it."
+    },
+    {
+      "id": 84,
+      "start": 283.26,
+      "end": 284.32,
+      "ts": "04:43.260 -> 04:44.320",
+      "jp": "大丈夫だけど",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だけど",
+      "zh": "他是一个男人。",
+      "en": "I'm okay but"
+    },
+    {
+      "id": 85,
+      "start": 284.32,
+      "end": 289.88,
+      "ts": "04:44.320 -> 04:49.880",
+      "jp": "ちょっとだけ背中腰",
+      "jp_html": "ちょっとだけ<ruby>背中<rt>せなか</rt></ruby><ruby>腰<rt>こし</rt></ruby>",
+      "zh": "稍微背部腰部",
+      "en": "a little bit of back and waist"
+    },
+    {
+      "id": 86,
+      "start": 289.88,
+      "end": 297.42,
+      "ts": "04:49.880 -> 04:57.420",
+      "jp": "朝起きた時に腰が痛いなみたいな感じがしますが",
+      "jp_html": "<ruby>朝起き<rt>あさおき</rt></ruby>た<ruby>時に<rt>ときに</rt></ruby><ruby>腰<rt>こし</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>なみたいな<ruby>感じ<rt>かんじ</rt></ruby>がしますが",
+      "zh": "早上起床时感觉腰部疼痛",
+      "en": "I feel like my back hurts when I get up in the morning."
+    },
+    {
+      "id": 87,
+      "start": 297.42,
+      "end": 300.86,
+      "ts": "04:57.420 -> 05:00.860",
+      "jp": "大丈夫僕の子供は全然問題がないですね",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>全然問題<rt>ぜんぜんもんだい</rt></ruby>がないですね",
+      "zh": "我的孩子完全没有问题呢",
+      "en": "He's fine; my children have no problems at all."
+    },
+    {
+      "id": 88,
+      "start": 300.86,
+      "end": 305.28,
+      "ts": "05:00.860 -> 05:05.280",
+      "jp": "子供はやっぱり軽いから体が軽いんで",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>はやっぱり<ruby>軽い<rt>かるい</rt></ruby>から<ruby>体<rt>からだ</rt></ruby>が<ruby>軽い<rt>かるい</rt></ruby>んで",
+      "zh": "孩子果然轻所以身体轻",
+      "en": "Children are light anyway because their bodies are light."
+    },
+    {
+      "id": 89,
+      "start": 305.28,
+      "end": 309.72,
+      "ts": "05:05.280 -> 05:09.720",
+      "jp": "全然痛いとかなくよく眠れてるみたいですね",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>痛い<rt>いたい</rt></ruby>とかなくよく<ruby>眠れ<rt>ねむれ</rt></ruby>てるみたいですね",
+      "zh": "完全没有觉得疼，看起来睡得很香呢",
+      "en": "It doesn't seem like it hurts much, and you're sleeping well."
+    },
+    {
+      "id": 90,
+      "start": 309.72,
+      "end": 314.22,
+      "ts": "05:09.720 -> 05:14.220",
+      "jp": "僕もよく眠れるんですけど",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>もよく<ruby>眠れ<rt>ねむれ</rt></ruby>るんですけど",
+      "zh": "我也睡得很好呢",
+      "en": "I also sleep well."
+    },
+    {
+      "id": 91,
+      "start": 314.22,
+      "end": 318.02,
+      "ts": "05:14.220 -> 05:18.020",
+      "jp": "ちょっとだけ腰が痛いような気がする",
+      "jp_html": "ちょっとだけ<ruby>腰<rt>こし</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>ような<ruby>気が<rt>きが</rt></ruby>する",
+      "zh": "觉得腰部有点疼",
+      "en": "I feel like my waist is a little painful."
+    },
+    {
+      "id": 92,
+      "start": 318.02,
+      "end": 320.7,
+      "ts": "05:18.020 -> 05:20.700",
+      "jp": "背中が痛いような気がします",
+      "jp_html": "<ruby>背中<rt>せなか</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>ような<ruby>気が<rt>きが</rt></ruby>します",
+      "zh": "我觉得背部疼",
+      "en": "I feel like my back is hurting."
+    },
+    {
+      "id": 93,
+      "start": 320.7,
+      "end": 325.26,
+      "ts": "05:20.700 -> 05:25.260",
+      "jp": "というわけで田舎暮らし",
+      "jp_html": "というわけで<ruby>田舎<rt>いなか</rt></ruby><ruby>暮らし<rt>くらし</rt></ruby>",
+      "zh": "就这样，乡下生活",
+      "en": "So, that's why I'm living in the countryside."
+    },
+    {
+      "id": 94,
+      "start": 325.26,
+      "end": 327.12,
+      "ts": "05:25.260 -> 05:27.120",
+      "jp": "布団で寝る",
+      "jp_html": "<ruby>布団<rt>ふとん</rt></ruby>で<ruby>寝る<rt>ねる</rt></ruby>",
+      "zh": "在地上铺着垫子睡觉",
+      "en": "Sleep on a futon"
+    },
+    {
+      "id": 95,
+      "start": 327.12,
+      "end": 329.64,
+      "ts": "05:27.120 -> 05:29.640",
+      "jp": "これは普通ですよね",
+      "jp_html": "これは<ruby>普通<rt>ふつう</rt></ruby>ですよね",
+      "zh": "这很正常吧",
+      "en": "Isn't this normal?"
+    },
+    {
+      "id": 96,
+      "start": 329.64,
+      "end": 330.88,
+      "ts": "05:29.640 -> 05:30.880",
+      "jp": "いや普通じゃないか",
+      "jp_html": "いや<ruby>普通<rt>ふつう</rt></ruby>じゃないか",
+      "zh": "不对，这不正常吧",
+      "en": "No, that's not normal, right?"
+    },
+    {
+      "id": 97,
+      "start": 330.88,
+      "end": 332.74,
+      "ts": "05:30.880 -> 05:32.740",
+      "jp": "普通じゃないかもしれない",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>じゃないかもしれない",
+      "zh": "可能不太普通",
+      "en": "It might not be ordinary."
+    },
+    {
+      "id": 98,
+      "start": 332.74,
+      "end": 336.28,
+      "ts": "05:32.740 -> 05:36.280",
+      "jp": "実は僕の家族はみんなベッドで寝てますね",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>はみんなベッドで<ruby>寝て<rt>ねて</rt></ruby>ますね",
+      "zh": "其实我的家人全都睡在床上呢",
+      "en": "Actually, my whole family sleeps on beds."
+    },
+    {
+      "id": 99,
+      "start": 336.28,
+      "end": 340.52,
+      "ts": "05:36.280 -> 05:40.520",
+      "jp": "僕のお父さんもお母さんもおばあさんも",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>父さん<rt>とうさん</rt></ruby>もお<ruby>母さん<rt>かあさん</rt></ruby>もおばあさんも",
+      "zh": "我的爸爸妈妈祖奶奶",
+      "en": "My father, my mother, and my grandmother also."
+    },
+    {
+      "id": 100,
+      "start": 340.52,
+      "end": 343.24,
+      "ts": "05:40.520 -> 05:43.240",
+      "jp": "お姉さんもお姉さんの息子も",
+      "jp_html": "お<ruby>姉さん<rt>ねえさん</rt></ruby>もお<ruby>姉さん<rt>ねえさん</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>も",
+      "zh": "姐姐和姐姐的儿子",
+      "en": "The sister and her brother also."
+    },
+    {
+      "id": 101,
+      "start": 343.24,
+      "end": 344.68,
+      "ts": "05:43.240 -> 05:44.680",
+      "jp": "みんなベッドで寝てます",
+      "jp_html": "みんなベッドで<ruby>寝て<rt>ねて</rt></ruby>ます",
+      "zh": "大家在床上睡觉了",
+      "en": "Everyone is sleeping in bed."
+    },
+    {
+      "id": 102,
+      "start": 344.68,
+      "end": 348.38,
+      "ts": "05:44.680 -> 05:48.380",
+      "jp": "僕と子供だけが今布団で寝てます",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>だけが<ruby>今<rt>いま</rt></ruby><ruby>布団<rt>ふとん</rt></ruby>で<ruby>寝て<rt>ねて</rt></ruby>ます",
+      "zh": "现在只有我和孩子在榻榻米上睡觉",
+      "en": "Only me and the child are sleeping on the futon now."
+    },
+    {
+      "id": 103,
+      "start": 348.38,
+      "end": 353.3,
+      "ts": "05:48.380 -> 05:53.300",
+      "jp": "そうですね田舎でも布団で寝てない人は多いですね",
+      "jp_html": "そうですね<ruby>田舎<rt>いなか</rt></ruby>でも<ruby>布団<rt>ふとん</rt></ruby>で<ruby>寝て<rt>ねて</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>は<ruby>多い<rt>おおい</rt></ruby>ですね",
+      "zh": "确实，在农村里不住铺盖的人很多呢",
+      "en": "Yes, it seems that many people in rural areas don't sleep on futons either."
+    },
+    {
+      "id": 104,
+      "start": 353.3,
+      "end": 358.3,
+      "ts": "05:53.300 -> 05:58.300",
+      "jp": "あと畳の部屋は実はそんなにたくさんありません",
+      "jp_html": "あと<ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>実は<rt>じつは</rt></ruby>そんなにたくさんありません",
+      "zh": "另外榻榻米房间其实并没有那么多",
+      "en": "Actually, there aren't that many tatami rooms."
+    },
+    {
+      "id": 105,
+      "start": 358.3,
+      "end": 361.88,
+      "ts": "05:58.300 -> 06:01.880",
+      "jp": "僕の家ではその座敷ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>ではその<ruby>座敷<rt>ざしき</rt></ruby>ですね",
+      "zh": "我家就是那个座敷啊",
+      "en": "In my house, that tatami room, huh?"
+    },
+    {
+      "id": 106,
+      "start": 361.88,
+      "end": 364.02,
+      "ts": "06:01.880 -> 06:04.020",
+      "jp": "座敷だけですね",
+      "jp_html": "<ruby>座敷<rt>ざしき</rt></ruby>だけですね",
+      "zh": "只有座敷imidare",
+      "en": "It's just the tatami room."
+    },
+    {
+      "id": 107,
+      "start": 364.02,
+      "end": 366.54,
+      "ts": "06:04.020 -> 06:06.540",
+      "jp": "他の部屋は畳がありません",
+      "jp_html": "<ruby>他の<rt>ほかの</rt></ruby><ruby>部屋<rt>へや</rt></ruby>は<ruby>畳<rt>たたみ</rt></ruby>がありません",
+      "zh": "其他房间没有榻榻米。",
+      "en": "Other rooms do not have tatami mats."
+    },
+    {
+      "id": 108,
+      "start": 368.46,
+      "end": 370.16,
+      "ts": "06:08.460 -> 06:10.160",
+      "jp": "だからみんなの部屋には",
+      "jp_html": "だからみんなの<ruby>部屋<rt>へや</rt></ruby>には",
+      "zh": "所以每个人的房间里有",
+      "en": "So everyone's room has"
+    },
+    {
+      "id": 109,
+      "start": 370.16,
+      "end": 373.98,
+      "ts": "06:10.160 -> 06:13.980",
+      "jp": "フローリングといって木の床ですね",
+      "jp_html": "フローリングといって<ruby>木<rt>き</rt></ruby>の<ruby>床<rt>とこ</rt></ruby>ですね",
+      "zh": "Flooring就是木地板吧",
+      "en": "Flooring refers to wooden floors, right?"
+    },
+    {
+      "id": 110,
+      "start": 373.98,
+      "end": 378.04,
+      "ts": "06:13.980 -> 06:18.040",
+      "jp": "木の床があってその上にベッドを置いて",
+      "jp_html": "<ruby>木<rt>き</rt></ruby>の<ruby>床<rt>とこ</rt></ruby>があってその<ruby>上に<rt>うえに</rt></ruby>ベッドを<ruby>置い<rt>おい</rt></ruby>て",
+      "zh": "有木地板，上面放着一张床",
+      "en": "There is a wooden floor with a bed placed on it."
+    },
+    {
+      "id": 111,
+      "start": 378.04,
+      "end": 382.4,
+      "ts": "06:18.040 -> 06:22.400",
+      "jp": "もっとヨーロッパスタイルというかアメリカスタイルというか",
+      "jp_html": "もっとヨーロッパスタイルというかアメリカスタイルというか",
+      "zh": "更像欧洲风格或者说美国风格",
+      "en": "More like European style or American style"
+    },
+    {
+      "id": 112,
+      "start": 382.4,
+      "end": 386.0,
+      "ts": "06:22.400 -> 06:26.000",
+      "jp": "そういう感じ西洋的なベッドルームです",
+      "jp_html": "そういう<ruby>感じ<rt>かんじ</rt></ruby><ruby>西洋的<rt>せいようてき</rt></ruby>なベッドルームです",
+      "zh": "这种感觉是西方风格的卧室",
+      "en": "It's a Western-style bedroom feeling."
+    },
+    {
+      "id": 113,
+      "start": 386.0,
+      "end": 393.1,
+      "ts": "06:26.000 -> 06:33.100",
+      "jp": "僕と子供の部屋だけ座敷そして布団の上に寝てます",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>だけ<ruby>座敷<rt>ざしき</rt></ruby>そして<ruby>布団<rt>ふとん</rt></ruby>の<ruby>上に<rt>うえに</rt></ruby><ruby>寝て<rt>ねて</rt></ruby>ます",
+      "zh": "我和孩子的房间只在榻榻米和被子上睡觉",
+      "en": "I and my children only sleep on the tatami and futon in our room."
+    },
+    {
+      "id": 114,
+      "start": 393.1,
+      "end": 398.98,
+      "ts": "06:33.100 -> 06:38.980",
+      "jp": "というわけでそろそろ",
+      "jp_html": "というわけでそろそろ",
+      "zh": "因此，差不多了",
+      "en": "So, it's time to get going soon."
+    },
+    {
+      "id": 115,
+      "start": 398.98,
+      "end": 401.2,
+      "ts": "06:38.980 -> 06:41.200",
+      "jp": "アイスクリームの時間なので",
+      "jp_html": "アイスクリームの<ruby>時間<rt>じかん</rt></ruby>なので",
+      "zh": "冰淇淋时间所以",
+      "en": "It's time for ice cream."
+    },
+    {
+      "id": 116,
+      "start": 401.2,
+      "end": 405.66,
+      "ts": "06:41.200 -> 06:45.660",
+      "jp": "アイスクリームを食べに行きたいと思います",
+      "jp_html": "アイスクリームを<ruby>食べ<rt>たべ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想去吃冰淇淋",
+      "en": "I want to go eat ice cream."
+    },
+    {
+      "id": 117,
+      "start": 405.66,
+      "end": 407.06,
+      "ts": "06:45.660 -> 06:47.060",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

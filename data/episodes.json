@@ -1,5 +1,17 @@
 [
   {
+    "id": "1565",
+    "title": "#1565「田舎日記10」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/08/16/1565%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9810%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1565.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1565.json"
+  },
+  {
     "id": "1564",
     "title": "#1564「田舎日記⑨」",
     "category_id": "podcast",
