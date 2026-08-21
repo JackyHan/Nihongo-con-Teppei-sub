@@ -1,0 +1,1404 @@
+{
+  "id": "1567",
+  "title": "#1567「田舎日記12」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1567.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1567.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/21/1567%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9812%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.46,
+      "end": 2.76,
+      "ts": "00:01.460 -> 00:02.760",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.76,
+      "end": 8.98,
+      "ts": "00:02.760 -> 00:08.980",
+      "jp": "今日は田舎日記温泉について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby><ruby>温泉<rt>おんせん</rt></ruby>について",
+      "zh": "今天关于田舍日记温泉",
+      "en": "Today, I will be writing about the Tanishu Onsen."
+    },
+    {
+      "id": 2,
+      "start": 8.98,
+      "end": 12.14,
+      "ts": "00:08.980 -> 00:12.140",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 12.14,
+      "end": 20.42,
+      "ts": "00:12.140 -> 00:20.420",
+      "jp": "田舎にいる男の田舎日記を今日もやりたいと思います",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>にいる<ruby>男<rt>おとこ</rt></ruby>の<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>を<ruby>今日<rt>きょう</rt></ruby>もやりたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "今天也想写一写乡下的男人的日记",
+      "en": "I want to write today's rural diary of the man in the countryside."
+    },
+    {
+      "id": 4,
+      "start": 20.42,
+      "end": 23.32,
+      "ts": "00:20.420 -> 00:23.320",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "嗯——",
+      "en": "Um-"
+    },
+    {
+      "id": 5,
+      "start": 23.32,
+      "end": 26.06,
+      "ts": "00:23.320 -> 00:26.060",
+      "jp": "僕は大分県にいますね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>大分県<rt>おおいたけん</rt></ruby>にいますね",
+      "zh": "我住在大分县呢",
+      "en": "I am inŌita prefecture."
+    },
+    {
+      "id": 6,
+      "start": 26.06,
+      "end": 28.62,
+      "ts": "00:26.060 -> 00:28.620",
+      "jp": "九州の大分県",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>大分県<rt>おおいたけん</rt></ruby>",
+      "zh": "日本九州的大分县",
+      "en": "Fukuoka Prefecture in Kyushu"
+    },
+    {
+      "id": 7,
+      "start": 28.62,
+      "end": 39.02,
+      "ts": "00:28.620 -> 00:39.020",
+      "jp": "大分県は東北東ですね",
+      "jp_html": "<ruby>大分県<rt>おおいたけん</rt></ruby>は<ruby>東北東<rt>とうほくとう</rt></ruby>ですね",
+      "zh": "大分县在东北方向。",
+      "en": "Fukuoka Prefecture is located in the northeast, though it should be noted that this statement is incorrect as Fukuoka is actually in western Japan."
+    },
+    {
+      "id": 8,
+      "start": 39.02,
+      "end": 47.62,
+      "ts": "00:39.020 -> 00:47.620",
+      "jp": "大分県の九州の右上ですよね",
+      "jp_html": "<ruby>大分県<rt>おおいたけん</rt></ruby>の<ruby>九州<rt>きゅうしゅう</rt></ruby>の<ruby>右上<rt>みぎうえ</rt></ruby>ですよね",
+      "zh": "这是九州的右上方，不是大分县。",
+      "en": "It's on the upper right of Kyushu in Japan."
+    },
+    {
+      "id": 9,
+      "start": 47.62,
+      "end": 52.78,
+      "ts": "00:47.620 -> 00:52.780",
+      "jp": "右上にある県ですね",
+      "jp_html": "<ruby>右上<rt>みぎうえ</rt></ruby>にある<ruby>県<rt>けん</rt></ruby>ですね",
+      "zh": "右边上面的那个县吧",
+      "en": "The prefecture in the upper right, yes?"
+    },
+    {
+      "id": 10,
+      "start": 52.78,
+      "end": 57.66,
+      "ts": "00:52.780 -> 00:57.660",
+      "jp": "そして大分県はいろいろ有名なものがあるんですけど",
+      "jp_html": "そして<ruby>大分県<rt>おおいたけん</rt></ruby>はいろいろ<ruby>有名<rt>ゆうめい</rt></ruby>なものがあるんですけど",
+      "zh": "然后大分县也有一些很有名的东西",
+      "en": "And while there are many famous things in Fukuoka Prefecture,..."
+    },
+    {
+      "id": 11,
+      "start": 57.66,
+      "end": 63.14,
+      "ts": "00:57.660 -> 01:03.140",
+      "jp": "一番有名なのはやっぱり温泉ですね",
+      "jp_html": "<ruby>一番<rt>いちばん</rt></ruby><ruby>有名<rt>ゆうめい</rt></ruby>なのはやっぱり<ruby>温泉<rt>おんせん</rt></ruby>ですね",
+      "zh": "最著名的就是温泉了",
+      "en": "The most famous is definitely hot springs."
+    },
+    {
+      "id": 12,
+      "start": 63.14,
+      "end": 72.61,
+      "ts": "01:03.140 -> 01:12.610",
+      "jp": "大分というとちょっとわからない人も多いかもしれないけど",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>というとちょっとわからない<ruby>人<rt>にん</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>かもしれないけど",
+      "zh": "说起大分，可能有些人还不太清楚它是哪里",
+      "en": "While many might not know where Daibun is."
+    },
+    {
+      "id": 13,
+      "start": 72.61,
+      "end": 74.49,
+      "ts": "01:12.610 -> 01:14.490",
+      "jp": "例えば別府",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>別府<rt>べっぷ</rt></ruby>",
+      "zh": "比如别府",
+      "en": "For example, Beppu"
+    },
+    {
+      "id": 14,
+      "start": 74.49,
+      "end": 82.87,
+      "ts": "01:14.490 -> 01:22.870",
+      "jp": "別府といえば先生それは温泉の街ですねっていう風に",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>といえば<ruby>先生<rt>せんせい</rt></ruby>それは<ruby>温泉<rt>おんせん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>ですねっていう<ruby>風<rt>かぜ</rt></ruby>に",
+      "zh": "说到别府，人们往往会说那是一个温泉城市。",
+      "en": "When you mention Beppu, people usually think of it as a hot spring town."
+    },
+    {
+      "id": 15,
+      "start": 82.87,
+      "end": 84.87,
+      "ts": "01:22.870 -> 01:24.870",
+      "jp": "別府は有名ですよね",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>ですよね",
+      "zh": "别府是著名的吧",
+      "en": "Biei is famous, isn't it?"
+    },
+    {
+      "id": 16,
+      "start": 84.87,
+      "end": 88.05,
+      "ts": "01:24.870 -> 01:28.050",
+      "jp": "大分よりも別府の方が有名かもしれない",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>よりも<ruby>別府<rt>べっぷ</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby><ruby>有名<rt>ゆうめい</rt></ruby>かもしれない",
+      "zh": "别府可能比大分更出名",
+      "en": "Beppu might be more famous thandatable: Dobeppu."
+    },
+    {
+      "id": 17,
+      "start": 88.05,
+      "end": 93.64,
+      "ts": "01:28.050 -> 01:33.640",
+      "jp": "別府は大分の中にありますね",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>大分<rt>おおいた</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>ありますね",
+      "zh": "别府在大分县里面呢",
+      "en": "Biei is in Kumamoto, right?"
+    },
+    {
+      "id": 18,
+      "start": 93.64,
+      "end": 96.38,
+      "ts": "01:33.640 -> 01:36.380",
+      "jp": "大分県別府市ですね",
+      "jp_html": "<ruby>大分県<rt>おおいたけん</rt></ruby><ruby>別府<rt>べっぷ</rt></ruby><ruby>市<rt>し</rt></ruby>ですね",
+      "zh": "这是日本大分县别府市",
+      "en": "It's Beppu City in Fukuoka Prefecture, right?"
+    },
+    {
+      "id": 19,
+      "start": 96.38,
+      "end": 102.72,
+      "ts": "01:36.380 -> 01:42.720",
+      "jp": "別府以外にも有名な温泉があって",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby><ruby>以外<rt>いがい</rt></ruby>にも<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>温泉<rt>おんせん</rt></ruby>があって",
+      "zh": "别府之外还有很多著名的温泉",
+      "en": "There are also famous hot springs outside of Beppu."
+    },
+    {
+      "id": 20,
+      "start": 102.72,
+      "end": 104.84,
+      "ts": "01:42.720 -> 01:44.840",
+      "jp": "そこが湯風院ですね",
+      "jp_html": "そこが<ruby>湯<rt>ゆ</rt></ruby><ruby>風<rt>かぜ</rt></ruby><ruby>院<rt>いん</rt></ruby>ですね",
+      "zh": "那就是汤风院呢",
+      "en": "That is Doufūin, isn't it?"
+    },
+    {
+      "id": 21,
+      "start": 104.84,
+      "end": 108.38,
+      "ts": "01:44.840 -> 01:48.380",
+      "jp": "湯風院も有名です",
+      "jp_html": "<ruby>湯<rt>ゆ</rt></ruby><ruby>風<rt>かぜ</rt></ruby><ruby>院<rt>いん</rt></ruby>も<ruby>有名<rt>ゆうめい</rt></ruby>です",
+      "zh": "汤风院也很出名",
+      "en": "Tohokoin is also famous."
+    },
+    {
+      "id": 22,
+      "start": 108.38,
+      "end": 113.78,
+      "ts": "01:48.380 -> 01:53.780",
+      "jp": "僕は別府より湯風院の方が",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>別府<rt>べっぷ</rt></ruby>より<ruby>湯<rt>ゆ</rt></ruby><ruby>風<rt>かぜ</rt></ruby><ruby>院<rt>いん</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>",
+      "zh": "我认为温泉院比别府更好",
+      "en": "I think Yufuin is better than Beppu."
+    },
+    {
+      "id": 23,
+      "start": 113.78,
+      "end": 115.18,
+      "ts": "01:53.780 -> 01:55.180",
+      "jp": "もっと好きかな",
+      "jp_html": "もっと<ruby>好き<rt>すき</rt></ruby>かな",
+      "zh": "可能更喜欢了吧",
+      "en": "Maybe like it more?"
+    },
+    {
+      "id": 24,
+      "start": 115.18,
+      "end": 116.56,
+      "ts": "01:55.180 -> 01:56.560",
+      "jp": "好きかもしれない",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>かもしれない",
+      "zh": "可能喜欢",
+      "en": "Maybe I like it"
+    },
+    {
+      "id": 25,
+      "start": 116.56,
+      "end": 119.72,
+      "ts": "01:56.560 -> 01:59.720",
+      "jp": "理由は別府は大きいですね",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>大きい<rt>おおきい</rt></ruby>ですね",
+      "zh": "原因是别府很大呢",
+      "en": "The reason is that Beppu is quite large."
+    },
+    {
+      "id": 26,
+      "start": 119.72,
+      "end": 126.92,
+      "ts": "01:59.720 -> 02:06.920",
+      "jp": "別府は結構広くてそして結構大きい町もありますね",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>広く<rt>ひろく</rt></ruby>てそして<ruby>結構大き<rt>けっこうおおき</rt></ruby>い<ruby>町<rt>まち</rt></ruby>もありますね",
+      "zh": "别府确实挺大的，还有好几个相当大的城镇。",
+      "en": "Beppu is quite large and there are also rather big towns."
+    },
+    {
+      "id": 27,
+      "start": 126.92,
+      "end": 130.76,
+      "ts": "02:06.920 -> 02:10.760",
+      "jp": "でもユフインは小さいですもっと小さい",
+      "jp_html": "でもユフインは<ruby>小さい<rt>ちーさい</rt></ruby>ですもっと<ruby>小さい<rt>ちーさい</rt></ruby>",
+      "zh": "但是尤芬很小更小",
+      "en": "But Yufin is small. Even smaller."
+    },
+    {
+      "id": 28,
+      "start": 130.76,
+      "end": 138.56,
+      "ts": "02:10.760 -> 02:18.560",
+      "jp": "ユフインは山の中にあってきれいな湖があって",
+      "jp_html": "ユフインは<ruby>山<rt>やま</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>あってきれいな<ruby>湖<rt>みずうみ</rt></ruby>があって",
+      "zh": "耶费恩位于山中，有一个漂亮的湖泊",
+      "en": "Yufuin is in the mountains with a beautiful lake."
+    },
+    {
+      "id": 29,
+      "start": 138.56,
+      "end": 143.22,
+      "ts": "02:18.560 -> 02:23.220",
+      "jp": "十分お店とかはあるんですけど",
+      "jp_html": "<ruby>十分<rt>じゅうぶん</rt></ruby>お<ruby>店<rt>みせ</rt></ruby>とかはあるんですけど",
+      "zh": "虽然有很多店",
+      "en": "There are shops and places like that, but"
+    },
+    {
+      "id": 30,
+      "start": 143.22,
+      "end": 146.54,
+      "ts": "02:23.220 -> 02:26.540",
+      "jp": "別府みたいに大きくはないですね",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>みたいに<ruby>大きく<rt>おおきく</rt></ruby>はないですね",
+      "zh": "不像别府那么大吧",
+      "en": "It's not as large as Beppu, though."
+    },
+    {
+      "id": 31,
+      "start": 146.56,
+      "end": 153.92,
+      "ts": "02:26.560 -> 02:33.920",
+      "jp": "ユフインの山の中にはとってもいい旅館がありますね",
+      "jp_html": "ユフインの<ruby>山<rt>やま</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>はとってもいい<ruby>旅館<rt>りょかん</rt></ruby>がありますね",
+      "zh": "尤斐恩的山里有很好的旅馆呢",
+      "en": "There are some really good inns in Yufuin's mountains, ne?"
+    },
+    {
+      "id": 32,
+      "start": 153.92,
+      "end": 155.38,
+      "ts": "02:33.920 -> 02:35.380",
+      "jp": "たくさんあります",
+      "jp_html": "たくさんあります",
+      "zh": "有很多",
+      "en": "There are many."
+    },
+    {
+      "id": 33,
+      "start": 155.38,
+      "end": 162.36,
+      "ts": "02:35.380 -> 02:42.360",
+      "jp": "もちろん別府にもいいホテルやいい旅館がたくさんありますね",
+      "jp_html": "もちろん<ruby>別府<rt>べっぷ</rt></ruby>にもいいホテルやいい<ruby>旅館<rt>りょかん</rt></ruby>がたくさんありますね",
+      "zh": "当然别府也有许多好的酒店和旅馆呢",
+      "en": "Of course, there are many good hotels and inns in Beppu as well."
+    },
+    {
+      "id": 34,
+      "start": 162.36,
+      "end": 165.14,
+      "ts": "02:42.360 -> 02:45.140",
+      "jp": "そして安いところもたくさんありますね",
+      "jp_html": "そして<ruby>安い<rt>やすい</rt></ruby>ところもたくさんありますね",
+      "zh": "而且便宜的地方也有很多呢",
+      "en": "And there are also many affordable places, ne?"
+    },
+    {
+      "id": 35,
+      "start": 165.14,
+      "end": 170.58,
+      "ts": "02:45.140 -> 02:50.580",
+      "jp": "別府は高いところそして安いところいろいろなチョイスがあります",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>高い<rt>たかい</rt></ruby>ところそして<ruby>安い<rt>やすい</rt></ruby>ところいろいろなチョイスがあります",
+      "zh": "别府有各种不同的选择，既有高价也有低价的。",
+      "en": "Beppu offers various choices ranging from expensive to affordable options."
+    },
+    {
+      "id": 36,
+      "start": 170.58,
+      "end": 173.84,
+      "ts": "02:50.580 -> 02:53.840",
+      "jp": "ユフインは比較的高いんじゃないかな",
+      "jp_html": "ユフインは<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>高い<rt>たかい</rt></ruby>んじゃないかな",
+      "zh": "耶费恩的价格比较高的可能性较大",
+      "en": "Yufuin is probably relatively high, isn't it?"
+    },
+    {
+      "id": 37,
+      "start": 173.84,
+      "end": 176.3,
+      "ts": "02:53.840 -> 02:56.300",
+      "jp": "別府に比べたら",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>に<ruby>比べ<rt>くらべ</rt></ruby>たら",
+      "zh": "与别府比起来",
+      "en": "Compared to Beppu,"
+    },
+    {
+      "id": 38,
+      "start": 176.3,
+      "end": 179.12,
+      "ts": "02:56.300 -> 02:59.120",
+      "jp": "そんなにたくさんないですからね",
+      "jp_html": "そんなにたくさんないですからね",
+      "zh": "毕竟没有那么多。",
+      "en": "There aren't that many, you know."
+    },
+    {
+      "id": 39,
+      "start": 179.12,
+      "end": 182.44,
+      "ts": "02:59.120 -> 03:02.440",
+      "jp": "そして別府は海がありますね",
+      "jp_html": "そして<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>がありますね",
+      "zh": "然后别府有海呢",
+      "en": "And Beppu has the sea, doesn't it?"
+    },
+    {
+      "id": 40,
+      "start": 182.44,
+      "end": 185.42,
+      "ts": "03:02.440 -> 03:05.420",
+      "jp": "別府は山もあるし海もあるんで",
+      "jp_html": "<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>山<rt>やま</rt></ruby>もあるし<ruby>海<rt>うみ</rt></ruby>もあるんで",
+      "zh": "别府既有山又有海",
+      "en": "Biei has mountains and the sea as well."
+    },
+    {
+      "id": 41,
+      "start": 185.42,
+      "end": 189.84,
+      "ts": "03:05.420 -> 03:09.840",
+      "jp": "海が見える温泉に泊まりたい人",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>る<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>泊まり<rt>とまり</rt></ruby>たい<ruby>人<rt>にん</rt></ruby>",
+      "zh": "想住在可以看到海的温泉的人",
+      "en": "I want to stay at a hot spring that offers views of the sea."
+    },
+    {
+      "id": 42,
+      "start": 189.84,
+      "end": 192.24,
+      "ts": "03:09.840 -> 03:12.240",
+      "jp": "海が見えるホテルとか",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>るホテルとか",
+      "zh": "能看到海的酒店",
+      "en": "Hotels that overlook the sea"
+    },
+    {
+      "id": 43,
+      "start": 192.24,
+      "end": 195.82,
+      "ts": "03:12.240 -> 03:15.820",
+      "jp": "海が見える旅館に泊まりたい人は別府がいいですね",
+      "jp_html": "<ruby>海<rt>うみ</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>る<ruby>旅館<rt>りょかん</rt></ruby>に<ruby>泊まり<rt>とまり</rt></ruby>たい<ruby>人<rt>にん</rt></ruby>は<ruby>別府<rt>べっぷ</rt></ruby>がいいですね",
+      "zh": "想要住在可以看到海的旅馆的人，别府是个好地方。",
+      "en": "People who want to stay at a hotel that offers sea views should consider Beppu."
+    },
+    {
+      "id": 44,
+      "start": 195.82,
+      "end": 198.98,
+      "ts": "03:15.820 -> 03:18.980",
+      "jp": "いうふうには山の中なので",
+      "jp_html": "いうふうには<ruby>山<rt>やま</rt></ruby>の<ruby>中な<rt>なかな</rt></ruby>ので",
+      "zh": "说起来是在山中",
+      "en": "As he said, it is in the middle of the mountain."
+    },
+    {
+      "id": 45,
+      "start": 198.98,
+      "end": 201.9,
+      "ts": "03:18.980 -> 03:21.900",
+      "jp": "綺麗な山の街",
+      "jp_html": "<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>山<rt>やま</rt></ruby>の<ruby>街<rt>まち</rt></ruby>",
+      "zh": "美丽的山城",
+      "en": "Beautiful mountain town"
+    },
+    {
+      "id": 46,
+      "start": 201.9,
+      "end": 203.96,
+      "ts": "03:21.900 -> 03:23.960",
+      "jp": "山が見たい人",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>が<ruby>見た<rt>みた</rt></ruby>い<ruby>人<rt>にん</rt></ruby>",
+      "zh": "想看山的人",
+      "en": "People who want to see mountains"
+    },
+    {
+      "id": 47,
+      "start": 203.96,
+      "end": 207.7,
+      "ts": "03:23.960 -> 03:27.700",
+      "jp": "自然が見たい人はユフインがいいですね",
+      "jp_html": "<ruby>自然<rt>しぜん</rt></ruby>が<ruby>見た<rt>みた</rt></ruby>い<ruby>人<rt>にん</rt></ruby>はユフインがいいですね",
+      "zh": "想看自然的话，去尤斐恩不错呢",
+      "en": "People who want to see nature should go to Yufuin."
+    },
+    {
+      "id": 48,
+      "start": 207.7,
+      "end": 217.56,
+      "ts": "03:27.700 -> 03:37.560",
+      "jp": "そして僕の家は大分市の田舎の方なんですけど",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>は<ruby>大分<rt>おおいた</rt></ruby><ruby>市<rt>し</rt></ruby>の<ruby>田舎<rt>いなか</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>なんですけど",
+      "zh": "然后我家在大分市的 countryside 啦",
+      "en": "And my house is in the countryside of Takamatsu city."
+    },
+    {
+      "id": 49,
+      "start": 217.56,
+      "end": 225.4,
+      "ts": "03:37.560 -> 03:45.400",
+      "jp": "ユフインと別府は大体1時間ぐらいかな車で",
+      "jp_html": "ユフインと<ruby>別府<rt>べっぷ</rt></ruby>は<ruby>大体<rt>だいたい</rt></ruby>1<ruby>時間<rt>じかん</rt></ruby>ぐらいかな<ruby>車<rt>くるま</rt></ruby>で",
+      "zh": "宇治和别府大概开车需要一个多小时吧",
+      "en": "Yufuin and Beppu are about an hour by car."
+    },
+    {
+      "id": 50,
+      "start": 225.4,
+      "end": 231.8,
+      "ts": "03:45.400 -> 03:51.800",
+      "jp": "1時間はないかな50分1時間まあまあ遠いんですね",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>はないかな50<ruby>分<rt>ふん</rt></ruby>1<ruby>時間<rt>じかん</rt></ruby>まあまあ<ruby>遠い<rt>とおい</rt></ruby>んですね",
+      "zh": "没有1小时吧50分钟还算可以远呢",
+      "en": "Is it about 50 minutes? That's close enough. It's quite far, though."
+    },
+    {
+      "id": 51,
+      "start": 231.8,
+      "end": 238.18,
+      "ts": "03:51.800 -> 03:58.180",
+      "jp": "なので昨日は長湯温泉というところに行ってきました",
+      "jp_html": "なので<ruby>昨日<rt>きのう</rt></ruby>は<ruby>長湯<rt>ながゆ</rt></ruby><ruby>温泉<rt>おんせん</rt></ruby>というところに<ruby>行って<rt>いって</rt></ruby>きました",
+      "zh": "所以昨天我去了一趟长汤温泉",
+      "en": "So I went to a place called Long Stay Hot Springs yesterday."
+    },
+    {
+      "id": 52,
+      "start": 238.18,
+      "end": 239.02,
+      "ts": "03:58.180 -> 03:59.020",
+      "jp": "長湯",
+      "jp_html": "<ruby>長湯<rt>ながゆ</rt></ruby>",
+      "zh": "长汤",
+      "en": "Long bath"
+    },
+    {
+      "id": 53,
+      "start": 239.02,
+      "end": 246.12,
+      "ts": "03:59.020 -> 04:06.120",
+      "jp": "ここはベップウェイ風に比べるともっともっともっともっともっと小さいです",
+      "jp_html": "ここはベップウェイ<ruby>風<rt>かぜ</rt></ruby>に<ruby>比べ<rt>くらべ</rt></ruby>るともっともっともっともっともっと<ruby>小さい<rt>ちーさい</rt></ruby>です",
+      "zh": "这里比贝佩韦的小得多得多得多得多得多",
+      "en": "This is much smaller than the Beppu way."
+    },
+    {
+      "id": 54,
+      "start": 246.12,
+      "end": 250.8,
+      "ts": "04:06.120 -> 04:10.800",
+      "jp": "小さいけど僕の家から車で30分ぐらいですね",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby>けど<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>から<ruby>車<rt>くるま</rt></ruby>で30<ruby>分<rt>ふん</rt></ruby>ぐらいですね",
+      "zh": "我家开车大约30分钟的距离，虽然小一些。",
+      "en": "It's about 30 minutes by car from my house, but it's small."
+    },
+    {
+      "id": 55,
+      "start": 250.8,
+      "end": 252.9,
+      "ts": "04:10.800 -> 04:12.900",
+      "jp": "そんなに遠くない",
+      "jp_html": "そんなに<ruby>遠く<rt>とおく</rt></ruby>ない",
+      "zh": "不远",
+      "en": "It's not that far away."
+    },
+    {
+      "id": 56,
+      "start": 252.9,
+      "end": 262.56,
+      "ts": "04:12.900 -> 04:22.560",
+      "jp": "なので昨日僕と僕のお父さんと僕の子供は3人で長湯温泉に行ってきました",
+      "jp_html": "なので<ruby>昨日<rt>きのう</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>と<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は3<ruby>人<rt>にん</rt></ruby>で<ruby>長湯<rt>ながゆ</rt></ruby><ruby>温泉<rt>おんせん</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>きました",
+      "zh": "所以昨天我和我的父亲以及我的孩子三人去了长汤温泉",
+      "en": "So yesterday, my son and I went to Long Tang Hot Springs with my father."
+    },
+    {
+      "id": 57,
+      "start": 262.56,
+      "end": 268.1,
+      "ts": "04:22.560 -> 04:28.100",
+      "jp": "とても良かったですね",
+      "jp_html": "とても<ruby>良か<rt>よか</rt></ruby>ったですね",
+      "zh": "真的很好吧？",
+      "en": "It was very good, wasn't it?"
+    },
+    {
+      "id": 58,
+      "start": 268.1,
+      "end": 271.04,
+      "ts": "04:28.100 -> 04:31.040",
+      "jp": "いつもいいですね温泉はいつもいいです",
+      "jp_html": "いつもいいですね<ruby>温泉<rt>おんせん</rt></ruby>はいつもいいです",
+      "zh": "总是很好啊，温泉总是很好。",
+      "en": "It's always nice, doesn't it? The hot spring is always nice."
+    },
+    {
+      "id": 59,
+      "start": 271.04,
+      "end": 272.74,
+      "ts": "04:31.040 -> 04:32.740",
+      "jp": "温泉はいつもいいけど",
+      "jp_html": "<ruby>温泉<rt>おんせん</rt></ruby>はいつもいいけど",
+      "zh": "温泉总是很好",
+      "en": "The hot spring is always good but"
+    },
+    {
+      "id": 60,
+      "start": 272.74,
+      "end": 278.46,
+      "ts": "04:32.740 -> 04:38.460",
+      "jp": "昨日はいつも通り良かったですね",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>はいつも<ruby>通り<rt>とうり</rt></ruby><ruby>良か<rt>よか</rt></ruby>ったですね",
+      "zh": "昨天像往常一样很好呢",
+      "en": "It was good as usual yesterday."
+    },
+    {
+      "id": 61,
+      "start": 278.46,
+      "end": 286.94,
+      "ts": "04:38.460 -> 04:46.940",
+      "jp": "僕は午前11時までレッスンがあったので",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>11<ruby>時<rt>とき</rt></ruby>までレッスンがあったので",
+      "zh": "我上午11点之前有一节课",
+      "en": "I had a lesson until 11 AM."
+    },
+    {
+      "id": 62,
+      "start": 286.94,
+      "end": 289.7,
+      "ts": "04:46.940 -> 04:49.700",
+      "jp": "その後出かけました",
+      "jp_html": "その<ruby>後出<rt>こうしゅつ</rt></ruby>かけました",
+      "zh": "然后我就出去了。",
+      "en": "Then I went out."
+    },
+    {
+      "id": 63,
+      "start": 289.7,
+      "end": 294.36,
+      "ts": "04:49.700 -> 04:54.360",
+      "jp": "そしてまず着いて最初に昼ご飯を食べました",
+      "jp_html": "そしてまず<ruby>着い<rt>つい</rt></ruby>て<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "然后首先落地后第一个动作就是吃午饭",
+      "en": "And first, after arriving, we had lunch immediately."
+    },
+    {
+      "id": 64,
+      "start": 294.36,
+      "end": 299.6,
+      "ts": "04:54.360 -> 04:59.600",
+      "jp": "昼ご飯は鶏天を食べました",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>は<ruby>鶏<rt>にわとり</rt></ruby><ruby>天<rt>てん</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "午餐吃了鸡柳",
+      "en": "I had fried chicken for lunch."
+    },
+    {
+      "id": 65,
+      "start": 299.6,
+      "end": 300.58,
+      "ts": "04:59.600 -> 05:00.580",
+      "jp": "鶏天",
+      "jp_html": "<ruby>鶏<rt>にわとり</rt></ruby><ruby>天<rt>てん</rt></ruby>",
+      "zh": "鸡天",
+      "en": "Chicken Heaven"
+    },
+    {
+      "id": 66,
+      "start": 300.58,
+      "end": 303.92,
+      "ts": "05:00.580 -> 05:03.920",
+      "jp": "鶏天というのは鳥の天ぷらですね",
+      "jp_html": "<ruby>鶏<rt>にわとり</rt></ruby><ruby>天<rt>てん</rt></ruby>というのは<ruby>鳥<rt>とり</rt></ruby>の<ruby>天ぷら<rt>てんぷら</rt></ruby>ですね",
+      "zh": "鸡天就是鸟的天妇罗呢",
+      "en": "Chicken天妇罗 is basically fried chicken battered like tempura."
+    },
+    {
+      "id": 67,
+      "start": 303.92,
+      "end": 308.42,
+      "ts": "05:03.920 -> 05:08.420",
+      "jp": "普通東京とかでね",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>とかでね",
+      "zh": "比如东京之类的地方",
+      "en": "In ordinary Tokyo, you know?"
+    },
+    {
+      "id": 68,
+      "start": 308.42,
+      "end": 311.44,
+      "ts": "05:08.420 -> 05:11.440",
+      "jp": "鶏肉の天ぷらはないです",
+      "jp_html": "<ruby>鶏肉<rt>とりにく</rt></ruby>の<ruby>天ぷら<rt>てんぷら</rt></ruby>はないです",
+      "zh": "没有鸡肉天妇罗",
+      "en": "There is no tempura chicken."
+    },
+    {
+      "id": 69,
+      "start": 311.44,
+      "end": 316.12,
+      "ts": "05:11.440 -> 05:16.120",
+      "jp": "普通天ぷらは肉を使わない",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby><ruby>天ぷら<rt>てんぷら</rt></ruby>は<ruby>肉<rt>にく</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>ない",
+      "zh": "普通的天妇罗不使用肉",
+      "en": "Regular tempura does not use meat."
+    },
+    {
+      "id": 70,
+      "start": 316.12,
+      "end": 323.08,
+      "ts": "05:16.120 -> 05:23.080",
+      "jp": "普通はエビとかイカとか野菜とか",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>はエビとかイカとか<ruby>野菜<rt>やさい</rt></ruby>とか",
+      "zh": "普通人吃虾或者墨鱼或者蔬菜等",
+      "en": "Usually, it's shrimp and squid and vegetables."
+    },
+    {
+      "id": 71,
+      "start": 323.08,
+      "end": 326.04,
+      "ts": "05:23.080 -> 05:26.040",
+      "jp": "そういうものですね",
+      "jp_html": "そういうものですね",
+      "zh": "就是这样的东西吧",
+      "en": "That's something like that, I suppose."
+    },
+    {
+      "id": 72,
+      "start": 326.04,
+      "end": 328.62,
+      "ts": "05:26.040 -> 05:28.620",
+      "jp": "鶏肉は普通は天ぷらにしません",
+      "jp_html": "<ruby>鶏肉<rt>とりにく</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>は<ruby>天ぷら<rt>てんぷら</rt></ruby>にしません",
+      "zh": "鸡肉通常不会做成天妇罗",
+      "en": "Chicken is not usually made into tempura."
+    },
+    {
+      "id": 73,
+      "start": 328.62,
+      "end": 334.28,
+      "ts": "05:28.620 -> 05:34.280",
+      "jp": "だけど大分では鶏の天ぷらが普通です",
+      "jp_html": "だけど<ruby>大分<rt>おおいた</rt></ruby>では<ruby>鶏<rt>にわとり</rt></ruby>の<ruby>天ぷら<rt>てんぷら</rt></ruby>が<ruby>普通<rt>ふつう</rt></ruby>です",
+      "zh": "但是，在大分县，鸡天妇罗是很常见的。",
+      "en": "But indatable, chicken tempura is common."
+    },
+    {
+      "id": 74,
+      "start": 334.28,
+      "end": 337.9,
+      "ts": "05:34.280 -> 05:37.900",
+      "jp": "それはちょっと名物というか",
+      "jp_html": "それはちょっと<ruby>名物<rt>めいぶつ</rt></ruby>というか",
+      "zh": "那有点像特色小吃吧",
+      "en": "That's sort of a specialty item, huh?"
+    },
+    {
+      "id": 75,
+      "start": 337.9,
+      "end": 340.76,
+      "ts": "05:37.900 -> 05:40.760",
+      "jp": "大分の食べ物",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>の<ruby>食べ物<rt>たべもの</rt></ruby>",
+      "zh": "大的食物",
+      "en": "Fukuoka's food"
+    },
+    {
+      "id": 76,
+      "start": 340.76,
+      "end": 341.56,
+      "ts": "05:40.760 -> 05:41.560",
+      "jp": "鶏天",
+      "jp_html": "<ruby>鶏<rt>にわとり</rt></ruby><ruby>天<rt>てん</rt></ruby>",
+      "zh": "鸡天",
+      "en": "Chicken Heaven"
+    },
+    {
+      "id": 77,
+      "start": 341.56,
+      "end": 343.24,
+      "ts": "05:41.560 -> 05:43.240",
+      "jp": "鶏天定食",
+      "jp_html": "<ruby>鶏<rt>にわとり</rt></ruby><ruby>天定<rt>てんてい</rt></ruby><ruby>食<rt>しょく</rt></ruby>",
+      "zh": "鸡肉天定食",
+      "en": "Chicken Tenmusu"
+    },
+    {
+      "id": 78,
+      "start": 343.24,
+      "end": 351.78,
+      "ts": "05:43.240 -> 05:51.780",
+      "jp": "定食なのでご飯、味噌汁、豆腐とか小さいものがいろいろあって",
+      "jp_html": "<ruby>定食<rt>ていしょく</rt></ruby>なのでご<ruby>飯<rt>めし</rt></ruby>、<ruby>味噌汁<rt>みそしる</rt></ruby>、<ruby>豆腐<rt>とうふ</rt></ruby>とか<ruby>小さい<rt>ちーさい</rt></ruby>ものがいろいろあって",
+      "zh": "定食所以有米饭、味噌汤、豆腐之类的各种小菜",
+      "en": "It's set meals so there are various small items like rice, miso soup, tofu, etc."
+    },
+    {
+      "id": 79,
+      "start": 351.78,
+      "end": 353.08,
+      "ts": "05:51.780 -> 05:53.080",
+      "jp": "鶏の天ぷら",
+      "jp_html": "<ruby>鶏<rt>にわとり</rt></ruby>の<ruby>天ぷら<rt>てんぷら</rt></ruby>",
+      "zh": "炸鸡块",
+      "en": "Chicken tempura"
+    },
+    {
+      "id": 80,
+      "start": 353.08,
+      "end": 354.66,
+      "ts": "05:53.080 -> 05:54.660",
+      "jp": "めっちゃ美味しかったですね",
+      "jp_html": "めっちゃ<ruby>美味しか<rt>おいしか</rt></ruby>ったですね",
+      "zh": "真的超级好吃呢",
+      "en": "It was really delicious, right?"
+    },
+    {
+      "id": 81,
+      "start": 354.66,
+      "end": 357.98,
+      "ts": "05:54.660 -> 05:57.980",
+      "jp": "僕の子供はそば",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>はそば",
+      "zh": "我的孩子在旁边。",
+      "en": "My child is nearby."
+    },
+    {
+      "id": 82,
+      "start": 357.98,
+      "end": 361.96,
+      "ts": "05:57.980 -> 06:01.960",
+      "jp": "そばと唐揚げを食べました",
+      "jp_html": "そばと<ruby>唐揚げ<rt>からあげ</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "我吃了拉面和炸鸡",
+      "en": "I ate soba and fried chicken."
+    },
+    {
+      "id": 83,
+      "start": 361.96,
+      "end": 366.85,
+      "ts": "06:01.960 -> 06:06.850",
+      "jp": "大分県は鶏肉は結構有名ですね",
+      "jp_html": "<ruby>大分県<rt>おおいたけん</rt></ruby>は<ruby>鶏肉<rt>とりにく</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>有名<rt>ゆうめい</rt></ruby>ですね",
+      "zh": "大分县的鸡肉相当有名呢",
+      "en": "Fukuoka Prefecture is quite famous for chicken, isn't it?"
+    },
+    {
+      "id": 84,
+      "start": 366.85,
+      "end": 367.57,
+      "ts": "06:06.850 -> 06:07.570",
+      "jp": "鶏肉",
+      "jp_html": "<ruby>鶏肉<rt>とりにく</rt></ruby>",
+      "zh": "鸡肉",
+      "en": "Chicken"
+    },
+    {
+      "id": 85,
+      "start": 367.57,
+      "end": 372.09,
+      "ts": "06:07.570 -> 06:12.090",
+      "jp": "牛肉も有名ですけど鶏肉とか",
+      "jp_html": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>も<ruby>有名<rt>ゆうめい</rt></ruby>ですけど<ruby>鶏肉<rt>とりにく</rt></ruby>とか",
+      "zh": "牛肉也出名，但鸡肉也很受欢迎",
+      "en": "Beef is also famous but there's chicken too."
+    },
+    {
+      "id": 86,
+      "start": 372.09,
+      "end": 376.16,
+      "ts": "06:12.090 -> 06:16.160",
+      "jp": "あとは魚",
+      "jp_html": "あとは<ruby>魚<rt>さかな</rt></ruby>",
+      "zh": "剩下的就是鱼",
+      "en": "The rest is fish."
+    },
+    {
+      "id": 87,
+      "start": 376.16,
+      "end": 378.94,
+      "ts": "06:16.160 -> 06:18.940",
+      "jp": "たくさんの魚は有名ですね海鮮は",
+      "jp_html": "たくさんの<ruby>魚<rt>さかな</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>ですね<ruby>海鮮<rt>かいせん</rt></ruby>は",
+      "zh": "很多鱼是著名的，海鲜是",
+      "en": "Many fish are famous, right? Seafood is"
+    },
+    {
+      "id": 88,
+      "start": 378.94,
+      "end": 381.92,
+      "ts": "06:18.940 -> 06:21.920",
+      "jp": "それは日本のほとんどの場所は",
+      "jp_html": "それは<ruby>日本<rt>にっぽん</rt></ruby>のほとんどの<ruby>場所<rt>ばしょ</rt></ruby>は",
+      "zh": "那日本的大多数地方是",
+      "en": "That is true for most places in Japan"
+    },
+    {
+      "id": 89,
+      "start": 381.92,
+      "end": 385.84,
+      "ts": "06:21.920 -> 06:25.840",
+      "jp": "美味しい魚美味しい海鮮美味しい肉",
+      "jp_html": "<ruby>美味しい<rt>おいしい</rt></ruby><ruby>魚<rt>さかな</rt></ruby><ruby>美味しい<rt>おいしい</rt></ruby><ruby>海鮮<rt>かいせん</rt></ruby><ruby>美味しい<rt>おいしい</rt></ruby><ruby>肉<rt>にく</rt></ruby>",
+      "zh": "美味的鱼美味的海鲜美味的肉",
+      "en": "Delicious fish delicious seafood delicious meat"
+    },
+    {
+      "id": 90,
+      "start": 385.84,
+      "end": 387.26,
+      "ts": "06:25.840 -> 06:27.260",
+      "jp": "美味しい酒",
+      "jp_html": "<ruby>美味しい<rt>おいしい</rt></ruby><ruby>酒<rt>さけ</rt></ruby>",
+      "zh": "美味的酒",
+      "en": "Delicious alcohol"
+    },
+    {
+      "id": 91,
+      "start": 387.26,
+      "end": 389.62,
+      "ts": "06:27.260 -> 06:29.620",
+      "jp": "大分は焼酎です",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>は<ruby>焼酎<rt>しょうちゅう</rt></ruby>です",
+      "zh": "大分是烧酒。",
+      "en": "Daiwa is shochu."
+    },
+    {
+      "id": 92,
+      "start": 389.62,
+      "end": 391.8,
+      "ts": "06:29.620 -> 06:31.800",
+      "jp": "焼酎が有名です",
+      "jp_html": "<ruby>焼酎<rt>しょうちゅう</rt></ruby>が<ruby>有名<rt>ゆうめい</rt></ruby>です",
+      "zh": "烧酒出名了",
+      "en": "Shochu is famous."
+    },
+    {
+      "id": 93,
+      "start": 391.8,
+      "end": 394.7,
+      "ts": "06:31.800 -> 06:34.700",
+      "jp": "昨日は飲んでないですけどね",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>飲ん<rt>のん</rt></ruby>でないですけどね",
+      "zh": "昨天没有喝酒哦",
+      "en": "I didn't drink yesterday, you know."
+    },
+    {
+      "id": 94,
+      "start": 394.7,
+      "end": 395.8,
+      "ts": "06:34.700 -> 06:35.800",
+      "jp": "昼だったし",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>だったし",
+      "zh": "当时是白天",
+      "en": "It was daytime."
+    },
+    {
+      "id": 95,
+      "start": 395.8,
+      "end": 397.38,
+      "ts": "06:35.800 -> 06:37.380",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 96,
+      "start": 397.38,
+      "end": 399.38,
+      "ts": "06:37.380 -> 06:39.380",
+      "jp": "鳥天で食食べて",
+      "jp_html": "<ruby>鳥天<rt>とりてん</rt></ruby>で<ruby>食<rt>しょく</rt></ruby><ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "鸟天里吃饭",
+      "en": "Bird Tian where I ate food"
+    },
+    {
+      "id": 97,
+      "start": 399.38,
+      "end": 401.0,
+      "ts": "06:39.380 -> 06:41.000",
+      "jp": "温泉に入りました",
+      "jp_html": "<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入り<rt>いり</rt></ruby>ました",
+      "zh": "我泡了温泉",
+      "en": "I went into the hot spring."
+    },
+    {
+      "id": 98,
+      "start": 401.0,
+      "end": 403.84,
+      "ts": "06:41.000 -> 06:43.840",
+      "jp": "まあ良かったです",
+      "jp_html": "まあ<ruby>良か<rt>よか</rt></ruby>ったです",
+      "zh": "还好iswa",
+      "en": "Well, that was good."
+    },
+    {
+      "id": 99,
+      "start": 403.84,
+      "end": 405.82,
+      "ts": "06:43.840 -> 06:45.820",
+      "jp": "そこの温泉は",
+      "jp_html": "そこの<ruby>温泉<rt>おんせん</rt></ruby>は",
+      "zh": "那边的温泉是",
+      "en": "The hot spring there is"
+    },
+    {
+      "id": 100,
+      "start": 405.82,
+      "end": 407.32,
+      "ts": "06:45.820 -> 06:47.320",
+      "jp": "ちょっと変わった温泉で",
+      "jp_html": "ちょっと<ruby>変わ<rt>かわ</rt></ruby>った<ruby>温泉<rt>おんせん</rt></ruby>で",
+      "zh": "稍微有些不同的温泉",
+      "en": "A slightly unusual hot spring"
+    },
+    {
+      "id": 101,
+      "start": 407.32,
+      "end": 410.02,
+      "ts": "06:47.320 -> 06:50.020",
+      "jp": "ちょっと温泉だけど",
+      "jp_html": "ちょっと<ruby>温泉<rt>おんせん</rt></ruby>だけど",
+      "zh": "稍微泡个温泉吧",
+      "en": "Just a little hot spring but"
+    },
+    {
+      "id": 102,
+      "start": 410.02,
+      "end": 412.94,
+      "ts": "06:50.020 -> 06:52.940",
+      "jp": "ちょっとプールみたいな温泉で",
+      "jp_html": "ちょっとプールみたいな<ruby>温泉<rt>おんせん</rt></ruby>で",
+      "zh": "稍微像游泳池的温泉",
+      "en": "A little pool-like hot spring"
+    },
+    {
+      "id": 103,
+      "start": 412.94,
+      "end": 415.62,
+      "ts": "06:52.940 -> 06:55.620",
+      "jp": "子供と一緒に入れて",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>て",
+      "zh": "和孩子一起放进去",
+      "en": "Let me in with the children."
+    },
+    {
+      "id": 104,
+      "start": 415.62,
+      "end": 417.46,
+      "ts": "06:55.620 -> 06:57.460",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 105,
+      "start": 417.46,
+      "end": 420.44,
+      "ts": "06:57.460 -> 07:00.440",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 106,
+      "start": 420.44,
+      "end": 421.78,
+      "ts": "07:00.440 -> 07:01.780",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 107,
+      "start": 421.78,
+      "end": 423.64,
+      "ts": "07:01.780 -> 07:03.640",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 108,
+      "start": 423.64,
+      "end": 425.46,
+      "ts": "07:03.640 -> 07:05.460",
+      "jp": "暑い温泉もあるけど",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby><ruby>温泉<rt>おんせん</rt></ruby>もあるけど",
+      "zh": "也有炎热的温泉",
+      "en": "There are also hot springs that are warm."
+    },
+    {
+      "id": 109,
+      "start": 425.46,
+      "end": 427.08,
+      "ts": "07:05.460 -> 07:07.080",
+      "jp": "ちょっとぬるい温泉",
+      "jp_html": "ちょっとぬるい<ruby>温泉<rt>おんせん</rt></ruby>",
+      "zh": "稍微温热的温泉",
+      "en": "A slightly warm hot spring"
+    },
+    {
+      "id": 110,
+      "start": 427.08,
+      "end": 429.98,
+      "ts": "07:07.080 -> 07:09.980",
+      "jp": "あんまり暑くない",
+      "jp_html": "あんまり<ruby>暑く<rt>あつく</rt></ruby>ない",
+      "zh": "不太热",
+      "en": "It's not too hot."
+    },
+    {
+      "id": 111,
+      "start": 429.98,
+      "end": 432.18,
+      "ts": "07:09.980 -> 07:12.180",
+      "jp": "暑すぎない温度ですね",
+      "jp_html": "<ruby>暑す<rt>あつす</rt></ruby>ぎない<ruby>温度<rt>おんど</rt></ruby>ですね",
+      "zh": "温度刚刚好不过热",
+      "en": "The temperature is not too hot, right?"
+    },
+    {
+      "id": 112,
+      "start": 432.18,
+      "end": 433.38,
+      "ts": "07:12.180 -> 07:13.380",
+      "jp": "30何度じゃん",
+      "jp_html": "30<ruby>何度<rt>なんど</rt></ruby>じゃん",
+      "zh": "30多少嘛",
+      "en": "30 how many times"
+    },
+    {
+      "id": 113,
+      "start": 433.38,
+      "end": 433.82,
+      "ts": "07:13.380 -> 07:13.820",
+      "jp": "40",
+      "jp_html": "40",
+      "zh": "四十",
+      "en": "forty"
+    },
+    {
+      "id": 114,
+      "start": 433.82,
+      "end": 436.34,
+      "ts": "07:13.820 -> 07:16.340",
+      "jp": "40ないな",
+      "jp_html": "40ないな",
+      "zh": "40没有娜",
+      "en": "40 nada"
+    },
+    {
+      "id": 115,
+      "start": 436.34,
+      "end": 437.56,
+      "ts": "07:16.340 -> 07:17.560",
+      "jp": "30何度ですね",
+      "jp_html": "30<ruby>何度<rt>なんど</rt></ruby>ですね",
+      "zh": "30次吧？",
+      "en": "How many degrees is 30?"
+    },
+    {
+      "id": 116,
+      "start": 437.56,
+      "end": 441.04,
+      "ts": "07:17.560 -> 07:21.040",
+      "jp": "30何度のちょっとぬるい温泉があって",
+      "jp_html": "30<ruby>何度<rt>なんど</rt></ruby>のちょっとぬるい<ruby>温泉<rt>おんせん</rt></ruby>があって",
+      "zh": "有30个稍微温热的温泉",
+      "en": "There are about 30 slightly warm hot springs."
+    },
+    {
+      "id": 117,
+      "start": 441.04,
+      "end": 443.4,
+      "ts": "07:21.040 -> 07:23.400",
+      "jp": "あともちろん40度以上の",
+      "jp_html": "あともちろん40<ruby>度<rt>ど</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の",
+      "zh": "另外当然超过40度",
+      "en": "Also of course above 40 degrees"
+    },
+    {
+      "id": 118,
+      "start": 443.4,
+      "end": 445.18,
+      "ts": "07:23.400 -> 07:25.180",
+      "jp": "暑い温泉もあるんですけど",
+      "jp_html": "<ruby>暑い<rt>あつい</rt></ruby><ruby>温泉<rt>おんせん</rt></ruby>もあるんですけど",
+      "zh": "也有很热的温泉",
+      "en": "There are also hot springs that are warm."
+    },
+    {
+      "id": 119,
+      "start": 445.18,
+      "end": 447.44,
+      "ts": "07:25.180 -> 07:27.440",
+      "jp": "まああの",
+      "jp_html": "まああの",
+      "zh": "嗯，那个",
+      "en": "Well, those"
+    },
+    {
+      "id": 120,
+      "start": 447.44,
+      "end": 450.86,
+      "ts": "07:27.440 -> 07:30.860",
+      "jp": "子供と一緒なのでちょっとぬるい温泉",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒な<rt>いっしょな</rt></ruby>のでちょっとぬるい<ruby>温泉<rt>おんせん</rt></ruby>",
+      "zh": "因为有孩子所以温泉有点溫和",
+      "en": "Since it's with children, the hot spring is a bit milder."
+    },
+    {
+      "id": 121,
+      "start": 450.86,
+      "end": 456.7,
+      "ts": "07:30.860 -> 07:36.700",
+      "jp": "そして夏なのでぬるい温泉はいいですね",
+      "jp_html": "そして<ruby>夏<rt>なつ</rt></ruby>なのでぬるい<ruby>温泉<rt>おんせん</rt></ruby>はいいですね",
+      "zh": "而且是夏天，所以温泉水不错呢",
+      "en": "And since it's summer, a warm spring is nice, isn't it?"
+    },
+    {
+      "id": 122,
+      "start": 456.7,
+      "end": 459.32,
+      "ts": "07:36.700 -> 07:39.320",
+      "jp": "暑すぎるとちょっと夏はね",
+      "jp_html": "<ruby>暑す<rt>あつす</rt></ruby>ぎるとちょっと<ruby>夏<rt>なつ</rt></ruby>はね",
+      "zh": "太热了，夏天好像结束了。",
+      "en": "It's a bit too hot and feels like summer."
+    },
+    {
+      "id": 123,
+      "start": 459.32,
+      "end": 461.7,
+      "ts": "07:39.320 -> 07:41.700",
+      "jp": "暑すぎると疲れるんで",
+      "jp_html": "<ruby>暑す<rt>あつす</rt></ruby>ぎると<ruby>疲れ<rt>つかれ</rt></ruby>るんで",
+      "zh": "太热会让人疲劳",
+      "en": "It gets exhausting when it's too hot."
+    },
+    {
+      "id": 124,
+      "start": 461.7,
+      "end": 467.86,
+      "ts": "07:41.700 -> 07:47.860",
+      "jp": "ちょっとこう冷たいというかぬるい温泉がとても良かったです",
+      "jp_html": "ちょっとこう<ruby>冷たい<rt>つめたい</rt></ruby>というかぬるい<ruby>温泉<rt>おんせん</rt></ruby>がとても<ruby>良か<rt>よか</rt></ruby>ったです",
+      "zh": "水温稍微凉爽但很舒服的温泉我很喜欢",
+      "en": "The hot spring was very nice, kind of cool but not cold."
+    },
+    {
+      "id": 125,
+      "start": 467.86,
+      "end": 471.86,
+      "ts": "07:47.860 -> 07:51.860",
+      "jp": "そして温泉から上がってアイスクリームを食べる",
+      "jp_html": "そして<ruby>温泉<rt>おんせん</rt></ruby>から<ruby>上が<rt>あが</rt></ruby>ってアイスクリームを<ruby>食べ<rt>たべ</rt></ruby>る",
+      "zh": "然后从温泉出来吃冰淇淋",
+      "en": "And after getting out of the hot spring, I'll eat some ice cream."
+    },
+    {
+      "id": 126,
+      "start": 471.86,
+      "end": 473.46,
+      "ts": "07:51.860 -> 07:53.460",
+      "jp": "いいでしょ",
+      "jp_html": "いいでしょ",
+      "zh": "不错吧",
+      "en": "It's good, right?"
+    },
+    {
+      "id": 127,
+      "start": 473.46,
+      "end": 480.06,
+      "ts": "07:53.460 -> 08:00.060",
+      "jp": "昼ご飯を食べて温泉に入ってその後アイスクリームを食べる最高じゃん",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby><ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>てその<ruby>後<rt>のち</rt></ruby>アイスクリームを<ruby>食べ<rt>たべ</rt></ruby>る<ruby>最高<rt>さいこう</rt></ruby>じゃん",
+      "zh": "吃了午饭，再去泡温泉，之后吃冰淇淋，真是太棒了",
+      "en": "Having lunch, going to a hot spring, and then eating ice cream - that's great!"
+    },
+    {
+      "id": 128,
+      "start": 480.06,
+      "end": 484.66,
+      "ts": "08:00.060 -> 08:04.660",
+      "jp": "そして車に乗って帰ってきました",
+      "jp_html": "そして<ruby>車<rt>くるま</rt></ruby>に<ruby>乗って<rt>のって</rt></ruby><ruby>帰っ<rt>かえっ</rt></ruby>てきました",
+      "zh": "然后开车回家了",
+      "en": "And I came back by car."
+    },
+    {
+      "id": 129,
+      "start": 484.66,
+      "end": 487.8,
+      "ts": "08:04.660 -> 08:07.800",
+      "jp": "まあ良かったですね",
+      "jp_html": "まあ<ruby>良か<rt>よか</rt></ruby>ったですね",
+      "zh": "哎，还不错呢",
+      "en": "Well, that's good, I suppose."
+    },
+    {
+      "id": 130,
+      "start": 489.64,
+      "end": 496.72,
+      "ts": "08:09.640 -> 08:16.720",
+      "jp": "というわけで皆さんももし大分県に行ったら温泉に入ってみてください",
+      "jp_html": "というわけで<ruby>皆さん<rt>みなさん</rt></ruby>ももし<ruby>大分県<rt>おおいたけん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ら<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>てみてください",
+      "zh": "因此，大家如果去大分县的话，也请一定要试试当地的温泉",
+      "en": "So, everyone, if you go to Fukuoka Prefecture, be sure to try the hot springs."
+    },
+    {
+      "id": 131,
+      "start": 496.72,
+      "end": 501.26,
+      "ts": "08:16.720 -> 08:21.260",
+      "jp": "温泉はいつでもいいですよ夏でもいい全然いいです",
+      "jp_html": "<ruby>温泉<rt>おんせん</rt></ruby>はいつでもいいですよ<ruby>夏<rt>なつ</rt></ruby>でもいい<ruby>全然<rt>ぜんぜん</rt></ruby>いいです",
+      "zh": "温泉随时都可以，夏天去也很好完全没问题。",
+      "en": "Hot springs are good anytime. They're good in summer. It's totally fine."
+    },
+    {
+      "id": 132,
+      "start": 501.26,
+      "end": 502.7,
+      "ts": "08:21.260 -> 08:22.700",
+      "jp": "秋はいいですね",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>はいいですね",
+      "zh": "秋天不错呢",
+      "en": "Autumn is nice, isn't it?"
+    },
+    {
+      "id": 133,
+      "start": 502.7,
+      "end": 504.52,
+      "ts": "08:22.700 -> 08:24.520",
+      "jp": "冬も最高ですね",
+      "jp_html": "<ruby>冬<rt>ふゆ</rt></ruby>も<ruby>最高<rt>さいこう</rt></ruby>ですね",
+      "zh": "冬天也很好呢",
+      "en": "Winter is great too."
+    },
+    {
+      "id": 134,
+      "start": 504.52,
+      "end": 506.0,
+      "ts": "08:24.520 -> 08:26.000",
+      "jp": "春もいいですね",
+      "jp_html": "<ruby>春<rt>はる</rt></ruby>もいいですね",
+      "zh": "春天也很好呢",
+      "en": "Spring is nice, isn't it?"
+    },
+    {
+      "id": 135,
+      "start": 506.0,
+      "end": 508.0,
+      "ts": "08:26.000 -> 08:28.000",
+      "jp": "夏も全然悪くない",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>も<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>ない",
+      "zh": "夏天也完全不错",
+      "en": "Summer isn't bad at all."
+    },
+    {
+      "id": 136,
+      "start": 508.0,
+      "end": 510.34,
+      "ts": "08:28.000 -> 08:30.340",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Therefore"
+    },
+    {
+      "id": 137,
+      "start": 510.34,
+      "end": 513.64,
+      "ts": "08:30.340 -> 08:33.640",
+      "jp": "全ての季節に温泉を楽しんでください",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>に<ruby>温泉<rt>おんせん</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでください",
+      "zh": "请尽情享受四季温泉",
+      "en": "Enjoy the hot springs in all seasons."
+    },
+    {
+      "id": 138,
+      "start": 513.64,
+      "end": 514.86,
+      "ts": "08:33.640 -> 08:34.860",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
