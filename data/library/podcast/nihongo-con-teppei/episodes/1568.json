@@ -1,0 +1,934 @@
+{
+  "id": "1568",
+  "title": "#1568「田舎日記13」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1568.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1568.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/23/1568%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9813%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.68,
+      "end": 3.04,
+      "ts": "00:01.680 -> 00:03.040",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 3.04,
+      "end": 6.94,
+      "ts": "00:03.040 -> 00:06.940",
+      "jp": "今日も田舎日記",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>",
+      "zh": "今天的农村日记",
+      "en": "Today's Countryside Diary"
+    },
+    {
+      "id": 2,
+      "start": 6.94,
+      "end": 9.76,
+      "ts": "00:06.940 -> 00:09.760",
+      "jp": "はいこんにちは",
+      "jp_html": "はいこんにちは",
+      "zh": "你好hello",
+      "en": "Hello hello"
+    },
+    {
+      "id": 3,
+      "start": 9.76,
+      "end": 13.66,
+      "ts": "00:09.760 -> 00:13.660",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语播音的时间吧",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 13.66,
+      "end": 15.76,
+      "ts": "00:13.660 -> 00:15.760",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 15.76,
+      "end": 18.12,
+      "ts": "00:15.760 -> 00:18.120",
+      "jp": "僕はなんかちょっと",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>なんかちょっと",
+      "zh": "我有点儿什么",
+      "en": "I feel kind of weird."
+    },
+    {
+      "id": 6,
+      "start": 18.12,
+      "end": 21.36,
+      "ts": "00:18.120 -> 00:21.360",
+      "jp": "元気だけど",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>だけど",
+      "zh": "元气但",
+      "en": "I'm energetic but"
+    },
+    {
+      "id": 7,
+      "start": 21.36,
+      "end": 24.74,
+      "ts": "00:21.360 -> 00:24.740",
+      "jp": "なんかこうやる気がない",
+      "jp_html": "なんかこうやる<ruby>気が<rt>きが</rt></ruby>ない",
+      "zh": "感觉没什么干劲",
+      "en": "I don't really feel like doing anything."
+    },
+    {
+      "id": 8,
+      "start": 24.74,
+      "end": 29.18,
+      "ts": "00:24.740 -> 00:29.180",
+      "jp": "やる気がない感じになってますね",
+      "jp_html": "やる<ruby>気が<rt>きが</rt></ruby>ない<ruby>感じ<rt>かんじ</rt></ruby>になってますね",
+      "zh": "感觉没精神了吧",
+      "en": "I'm feeling lacking in motivation."
+    },
+    {
+      "id": 9,
+      "start": 29.18,
+      "end": 34.44,
+      "ts": "00:29.180 -> 00:34.440",
+      "jp": "別に何もすることはないんですね",
+      "jp_html": "<ruby>別に<rt>べつに</rt></ruby><ruby>何も<rt>なにも</rt></ruby>することはないんですね",
+      "zh": "其实没什么事情要做吧",
+      "en": "There's nothing much to do, right?"
+    },
+    {
+      "id": 10,
+      "start": 34.44,
+      "end": 37.9,
+      "ts": "00:34.440 -> 00:37.900",
+      "jp": "リラックスしてる毎日ですけど",
+      "jp_html": "リラックスしてる<ruby>毎日<rt>まいにち</rt></ruby>ですけど",
+      "zh": "放松的每一天",
+      "en": "It's a relaxing everyday life."
+    },
+    {
+      "id": 11,
+      "start": 37.9,
+      "end": 40.42,
+      "ts": "00:37.900 -> 00:40.420",
+      "jp": "それにしてもなんか",
+      "jp_html": "それにしてもなんか",
+      "zh": "反正怎么说总觉得怪怪的",
+      "en": "Well, somehow"
+    },
+    {
+      "id": 12,
+      "start": 40.42,
+      "end": 44.4,
+      "ts": "00:40.420 -> 00:44.400",
+      "jp": "今日は特にやる気がない",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>特に<rt>とくに</rt></ruby>やる<ruby>気が<rt>きが</rt></ruby>ない",
+      "zh": "今天特别没有力气",
+      "en": "I don't feel particularly motivated today."
+    },
+    {
+      "id": 13,
+      "start": 44.4,
+      "end": 46.8,
+      "ts": "00:44.400 -> 00:46.800",
+      "jp": "なんかこう",
+      "jp_html": "なんかこう",
+      "zh": "不知如何",
+      "en": "Well, kind of like this"
+    },
+    {
+      "id": 14,
+      "start": 46.8,
+      "end": 50.88,
+      "ts": "00:46.800 -> 00:50.880",
+      "jp": "ぼーっとする",
+      "jp_html": "ぼーっとする",
+      "zh": "发呆",
+      "en": "zone out"
+    },
+    {
+      "id": 15,
+      "start": 50.88,
+      "end": 54.5,
+      "ts": "00:50.880 -> 00:54.500",
+      "jp": "なんかこうやる気がないんですね",
+      "jp_html": "なんかこうやる<ruby>気が<rt>きが</rt></ruby>ないんですね",
+      "zh": "感觉没什么干劲呢",
+      "en": "You just don't seem motivated to do anything, huh?"
+    },
+    {
+      "id": 16,
+      "start": 54.5,
+      "end": 58.7,
+      "ts": "00:54.500 -> 00:58.700",
+      "jp": "でまあそういう時はありますよね",
+      "jp_html": "でまあそういう<ruby>時<rt>とき</rt></ruby>はありますよね",
+      "zh": "毕竟这种情况有时候也会发生吧",
+      "en": "Well, there are times like that, right?"
+    },
+    {
+      "id": 17,
+      "start": 58.7,
+      "end": 61.54,
+      "ts": "00:58.700 -> 01:01.540",
+      "jp": "皆さんにもそういう時があるでしょ",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>にもそういう<ruby>時<rt>とき</rt></ruby>があるでしょ",
+      "zh": "你们也有的时候会有这样的情况吧",
+      "en": "Don't you have times like that too?"
+    },
+    {
+      "id": 18,
+      "start": 61.54,
+      "end": 66.36,
+      "ts": "01:01.540 -> 01:06.360",
+      "jp": "別に嫌なことがあったとか",
+      "jp_html": "<ruby>別に<rt>べつに</rt></ruby><ruby>嫌な<rt>いやな</rt></ruby>ことがあったとか",
+      "zh": "别说我遇到了什么不愉快的事情",
+      "en": "Nothing bad happened or anything like that."
+    },
+    {
+      "id": 19,
+      "start": 66.36,
+      "end": 68.9,
+      "ts": "01:06.360 -> 01:08.900",
+      "jp": "お腹が痛いとか",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>とか",
+      "zh": "肚子疼orz",
+      "en": "My stomach hurts."
+    },
+    {
+      "id": 20,
+      "start": 68.9,
+      "end": 70.8,
+      "ts": "01:08.900 -> 01:10.800",
+      "jp": "病気だとか",
+      "jp_html": "<ruby>病気<rt>びょうき</rt></ruby>だとか",
+      "zh": "生病了或者说不舒服",
+      "en": "I'm sick."
+    },
+    {
+      "id": 21,
+      "start": 70.8,
+      "end": 72.78,
+      "ts": "01:10.800 -> 01:12.780",
+      "jp": "そんなことじゃないんですね",
+      "jp_html": "そんなことじゃないんですね",
+      "zh": "那可不是那样的呢",
+      "en": "That's not what it means, right?"
+    },
+    {
+      "id": 22,
+      "start": 72.78,
+      "end": 74.32,
+      "ts": "01:12.780 -> 01:14.320",
+      "jp": "何もないの",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>ないの",
+      "zh": "什么也没有",
+      "en": "There is nothing there."
+    },
+    {
+      "id": 23,
+      "start": 74.32,
+      "end": 77.24,
+      "ts": "01:14.320 -> 01:17.240",
+      "jp": "何もなさすぎて",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>なさすぎて",
+      "zh": "无所事事得太久",
+      "en": "Doing nothing too much"
+    },
+    {
+      "id": 24,
+      "start": 77.24,
+      "end": 80.2,
+      "ts": "01:17.240 -> 01:20.200",
+      "jp": "何も考えられないんですね",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>られないんですね",
+      "zh": "根本不想呢",
+      "en": "You can't think of anything, right?"
+    },
+    {
+      "id": 25,
+      "start": 80.2,
+      "end": 83.24,
+      "ts": "01:20.200 -> 01:23.240",
+      "jp": "多分こういう時は",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>こういう<ruby>時<rt>とき</rt></ruby>は",
+      "zh": "大概这种时候",
+      "en": "Probably in such times"
+    },
+    {
+      "id": 26,
+      "start": 83.24,
+      "end": 85.16,
+      "ts": "01:23.240 -> 01:25.160",
+      "jp": "映画を見たり",
+      "jp_html": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "看电影或",
+      "en": "To watch movies"
+    },
+    {
+      "id": 27,
+      "start": 85.16,
+      "end": 87.06,
+      "ts": "01:25.160 -> 01:27.060",
+      "jp": "漫画を読んだり",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "看了漫画",
+      "en": "I read manga or"
+    },
+    {
+      "id": 28,
+      "start": 87.06,
+      "end": 89.14,
+      "ts": "01:27.060 -> 01:29.140",
+      "jp": "本を読んだり",
+      "jp_html": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "读书或者",
+      "en": "Reading books"
+    },
+    {
+      "id": 29,
+      "start": 89.14,
+      "end": 96.66,
+      "ts": "01:29.140 -> 01:36.660",
+      "jp": "何かこう自分以外の人になった方がいいかもしれませんね",
+      "jp_html": "<ruby>何か<rt>なにか</rt></ruby>こう<ruby>自分以外<rt>じぶんいがい</rt></ruby>の<ruby>人<rt>にん</rt></ruby>になった<ruby>方が<rt>ほうが</rt></ruby>いいかもしれませんね",
+      "zh": "也许让自己变成别人会更好一些吧",
+      "en": "Maybe it would be better if I became someone else for a while."
+    },
+    {
+      "id": 30,
+      "start": 96.66,
+      "end": 99.96,
+      "ts": "01:36.660 -> 01:39.960",
+      "jp": "自分はやる気がなくても",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>はやる<ruby>気が<rt>きが</rt></ruby>なくても",
+      "zh": "自己即使没有动力也",
+      "en": "Even if I don't have the motivation to do it"
+    },
+    {
+      "id": 31,
+      "start": 99.96,
+      "end": 105.94,
+      "ts": "01:39.960 -> 01:45.940",
+      "jp": "アクション映画を見れば主人公が戦ってくれるし",
+      "jp_html": "アクション<ruby>映画<rt>えいが</rt></ruby>を<ruby>見れ<rt>みれ</rt></ruby>ば<ruby>主人公<rt>しゅじんこう</rt></ruby>が<ruby>戦っ<rt>たたかっ</rt></ruby>てくれるし",
+      "zh": "看动作电影就能看到主角替我们战斗",
+      "en": "By watching an action movie, the protagonist will fight for us."
+    },
+    {
+      "id": 32,
+      "start": 105.94,
+      "end": 111.16,
+      "ts": "01:45.940 -> 01:51.160",
+      "jp": "ホラー映画を見れば主人公が逃げてくれるし",
+      "jp_html": "ホラー<ruby>映画<rt>えいが</rt></ruby>を<ruby>見れ<rt>みれ</rt></ruby>ば<ruby>主人公<rt>しゅじんこう</rt></ruby>が<ruby>逃げ<rt>にげ</rt></ruby>てくれるし",
+      "zh": "看恐怖电影的话，主角会帮我逃跑。",
+      "en": "By watching horror movies, the protagonist always runs away for me."
+    },
+    {
+      "id": 33,
+      "start": 113.03,
+      "end": 117.67,
+      "ts": "01:53.030 -> 01:57.670",
+      "jp": "ラブストーリーを見れば主人公がデートするでしょ",
+      "jp_html": "ラブストーリーを<ruby>見れ<rt>みれ</rt></ruby>ば<ruby>主人公<rt>しゅじんこう</rt></ruby>がデートするでしょ",
+      "zh": "看爱情电影的话，主角会去约会吧",
+      "en": "If you watch a love story, the main character goes on dates, right?"
+    },
+    {
+      "id": 34,
+      "start": 117.67,
+      "end": 121.83,
+      "ts": "01:57.670 -> 02:01.830",
+      "jp": "僕は何もしなくてもいいんですね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>何も<rt>なにも</rt></ruby>しなくてもいいんですね",
+      "zh": "我什么都不用做呢",
+      "en": "I don't have to do anything, right?"
+    },
+    {
+      "id": 35,
+      "start": 121.83,
+      "end": 127.09,
+      "ts": "02:01.830 -> 02:07.090",
+      "jp": "なんとなく今日は何もしたくないなって気がします",
+      "jp_html": "なんとなく<ruby>今日は<rt>こんにちは</rt></ruby><ruby>何も<rt>なにも</rt></ruby>したくないなって<ruby>気が<rt>きが</rt></ruby>します",
+      "zh": "今天感觉不想做任何事情",
+      "en": "I kind of feel like I don't want to do anything today."
+    },
+    {
+      "id": 36,
+      "start": 127.09,
+      "end": 130.19,
+      "ts": "02:07.090 -> 02:10.190",
+      "jp": "でもポッドキャストはね",
+      "jp_html": "でもポッドキャストはね",
+      "zh": "但是播客呢",
+      "en": "But podcasts, you see"
+    },
+    {
+      "id": 37,
+      "start": 130.19,
+      "end": 133.83,
+      "ts": "02:10.190 -> 02:13.830",
+      "jp": "何もしたくなくても",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>したくなくても",
+      "zh": "即使不想做omething也愿意",
+      "en": "Even if you don't want to do anything"
+    },
+    {
+      "id": 38,
+      "start": 133.83,
+      "end": 136.83,
+      "ts": "02:13.830 -> 02:16.830",
+      "jp": "僕が話さないといけないので",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>話さ<rt>はなさ</rt></ruby>ないといけないので",
+      "zh": "我必须说所以",
+      "en": "I have to talk about it."
+    },
+    {
+      "id": 39,
+      "start": 136.83,
+      "end": 139.87,
+      "ts": "02:16.830 -> 02:19.870",
+      "jp": "ちょっと大変ですけど",
+      "jp_html": "ちょっと<ruby>大変<rt>たいへん</rt></ruby>ですけど",
+      "zh": "有点麻烦不过",
+      "en": "It's a bit troublesome but"
+    },
+    {
+      "id": 40,
+      "start": 139.87,
+      "end": 142.41,
+      "ts": "02:19.870 -> 02:22.410",
+      "jp": "大変じゃないけどね",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>じゃないけどね",
+      "zh": "不过还好啦",
+      "en": "It's not that bad, though."
+    },
+    {
+      "id": 41,
+      "start": 142.71,
+      "end": 146.87,
+      "ts": "02:22.710 -> 02:26.870",
+      "jp": "何もしたくないという話をすればいいので",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>したくないという<ruby>話<rt>はなし</rt></ruby>をすればいいので",
+      "zh": "只要说你想什么都不做就可以了",
+      "en": "Just say that you don't feel like doing anything."
+    },
+    {
+      "id": 42,
+      "start": 146.87,
+      "end": 149.25,
+      "ts": "02:26.870 -> 02:29.250",
+      "jp": "まあまあよかったですね",
+      "jp_html": "まあまあよかったですね",
+      "zh": "还好吧？还不错呢",
+      "en": "Not bad, it turned out well."
+    },
+    {
+      "id": 43,
+      "start": 149.25,
+      "end": 152.87,
+      "ts": "02:29.250 -> 02:32.870",
+      "jp": "ねえ皆さん何もしたくないでしょう",
+      "jp_html": "ねえ<ruby>皆さん<rt>みなさん</rt></ruby><ruby>何も<rt>なにも</rt></ruby>したくないでしょう",
+      "zh": "喂各位什么都不想做吧",
+      "en": "Hey everyone, you don't want to do anything, right?"
+    },
+    {
+      "id": 44,
+      "start": 152.87,
+      "end": 155.47,
+      "ts": "02:32.870 -> 02:35.470",
+      "jp": "僕も何もしたくないんですよね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>何も<rt>なにも</rt></ruby>したくないんですよね",
+      "zh": "我也什么都不想做呢",
+      "en": "I don't feel like doing anything either."
+    },
+    {
+      "id": 45,
+      "start": 155.47,
+      "end": 158.09,
+      "ts": "02:35.470 -> 02:38.090",
+      "jp": "っていう話をするだけで",
+      "jp_html": "っていう<ruby>話<rt>はなし</rt></ruby>をするだけで",
+      "zh": "仅仅谈论这样的事情",
+      "en": "To talk about that kind of thing alone"
+    },
+    {
+      "id": 46,
+      "start": 158.09,
+      "end": 161.45,
+      "ts": "02:38.090 -> 02:41.450",
+      "jp": "ポッドキャストが作れるので",
+      "jp_html": "ポッドキャストが<ruby>作れ<rt>つくれ</rt></ruby>るので",
+      "zh": "所以可以制作播客",
+      "en": "So I can create a podcast"
+    },
+    {
+      "id": 47,
+      "start": 161.45,
+      "end": 163.27,
+      "ts": "02:41.450 -> 02:43.270",
+      "jp": "よかったですね",
+      "jp_html": "よかったですね",
+      "zh": "真好呢",
+      "en": "It was good, wasn't it?"
+    },
+    {
+      "id": 48,
+      "start": 163.27,
+      "end": 168.75,
+      "ts": "02:43.270 -> 02:48.750",
+      "jp": "皆さんも何もしたくないとか言ってる",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>も<ruby>何も<rt>なにも</rt></ruby>したくないとか<ruby>言って<rt>いって</rt></ruby>る",
+      "zh": "你们也说自己不想做任何事情",
+      "en": "Everyone is also saying they don't want to do anything."
+    },
+    {
+      "id": 49,
+      "start": 168.75,
+      "end": 170.73,
+      "ts": "02:48.750 -> 02:50.730",
+      "jp": "日本語の先生の",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>の",
+      "zh": "日语的老师",
+      "en": "teacher of Japanese"
+    },
+    {
+      "id": 50,
+      "start": 170.73,
+      "end": 174.31,
+      "ts": "02:50.730 -> 02:54.310",
+      "jp": "何もしたくないっていう言葉を聞いて",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>したくないっていう<ruby>言葉<rt>ことば</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て",
+      "zh": "听到不想做任何事情这句话",
+      "en": "I heard the words \"I don't want to do anything.\""
+    },
+    {
+      "id": 51,
+      "start": 174.31,
+      "end": 181.35,
+      "ts": "02:54.310 -> 03:01.350",
+      "jp": "何もしたくないというフレーズはもう完璧ですよね",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>したくないというフレーズはもう<ruby>完璧<rt>かんぺき</rt></ruby>ですよね",
+      "zh": "“什么都不想做”这个短语已经完美了吧？",
+      "en": "The phrase \"nothing to do\" is already perfect, isn't it?"
+    },
+    {
+      "id": 52,
+      "start": 181.35,
+      "end": 182.45,
+      "ts": "03:01.350 -> 03:02.450",
+      "jp": "はい言ってください",
+      "jp_html": "はい<ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "好的，请说。",
+      "en": "Okay, please speak."
+    },
+    {
+      "id": 53,
+      "start": 182.45,
+      "end": 185.79,
+      "ts": "03:02.450 -> 03:05.790",
+      "jp": "何もしたくないな何もしたくない",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>したくないな<ruby>何も<rt>なにも</rt></ruby>したくない",
+      "zh": "什么也不想做什么都不想做",
+      "en": "I don't want to do anything. I don't want to do anything."
+    },
+    {
+      "id": 54,
+      "start": 185.79,
+      "end": 187.77,
+      "ts": "03:05.790 -> 03:07.770",
+      "jp": "今日は何もしたくない",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>何も<rt>なにも</rt></ruby>したくない",
+      "zh": "今天不想做任何事情",
+      "en": "I don't feel like doing anything today."
+    },
+    {
+      "id": 55,
+      "start": 187.77,
+      "end": 189.63,
+      "ts": "03:07.770 -> 03:09.630",
+      "jp": "たまにはいいでしょ",
+      "jp_html": "たまにはいいでしょ",
+      "zh": "偶尔还是不错的吧",
+      "en": "Sometimes it's okay, isn't it?"
+    },
+    {
+      "id": 56,
+      "start": 189.63,
+      "end": 192.63,
+      "ts": "03:09.630 -> 03:12.630",
+      "jp": "たまにはいいですよ時々",
+      "jp_html": "たまにはいいですよ<ruby>時々<rt>ときどき</rt></ruby>",
+      "zh": "偶尔很好啊",
+      "en": "It's okay sometimes."
+    },
+    {
+      "id": 57,
+      "start": 192.63,
+      "end": 195.23,
+      "ts": "03:12.630 -> 03:15.230",
+      "jp": "何もしたくないって言ってもいいです",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>したくないって<ruby>言って<rt>いって</rt></ruby>もいいです",
+      "zh": "你可以说我什么都不想做",
+      "en": "You can say that you don't feel like doing anything."
+    },
+    {
+      "id": 58,
+      "start": 195.23,
+      "end": 199.79,
+      "ts": "03:15.230 -> 03:19.790",
+      "jp": "今日はね実はそんなに暑くない",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ね<ruby>実は<rt>じつは</rt></ruby>そんなに<ruby>暑く<rt>あつく</rt></ruby>ない",
+      "zh": "今天其实并不太热",
+      "en": "Today, actually it's not that hot."
+    },
+    {
+      "id": 59,
+      "start": 199.79,
+      "end": 203.67,
+      "ts": "03:19.790 -> 03:23.670",
+      "jp": "そんなに涼しくない",
+      "jp_html": "そんなに<ruby>涼しく<rt>すずしく</rt></ruby>ない",
+      "zh": "并没有那么凉快",
+      "en": "It's not that cool."
+    },
+    {
+      "id": 60,
+      "start": 203.67,
+      "end": 205.63,
+      "ts": "03:23.670 -> 03:25.630",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 61,
+      "start": 205.63,
+      "end": 208.61,
+      "ts": "03:25.630 -> 03:28.610",
+      "jp": "何もない天気です",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>ない<ruby>天気<rt>てんき</rt></ruby>です",
+      "zh": "天气什么也没有",
+      "en": "It's a weather with nothing in it."
+    },
+    {
+      "id": 62,
+      "start": 208.61,
+      "end": 209.49,
+      "ts": "03:28.610 -> 03:29.490",
+      "jp": "雨もない",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>もない",
+      "zh": "没有雨",
+      "en": "There is no rain."
+    },
+    {
+      "id": 63,
+      "start": 209.49,
+      "end": 211.61,
+      "ts": "03:29.490 -> 03:31.610",
+      "jp": "でも晴れでもないな",
+      "jp_html": "でも<ruby>晴れ<rt>はれ</rt></ruby>でもないな",
+      "zh": "但也不是晴天呢",
+      "en": "But it's not even sunny."
+    },
+    {
+      "id": 64,
+      "start": 211.61,
+      "end": 213.77,
+      "ts": "03:31.610 -> 03:33.770",
+      "jp": "ちょっとだけ曇りの",
+      "jp_html": "ちょっとだけ<ruby>曇り<rt>くもり</rt></ruby>の",
+      "zh": "稍微有些阴天",
+      "en": "A little bit of clouds"
+    },
+    {
+      "id": 65,
+      "start": 213.77,
+      "end": 216.37,
+      "ts": "03:33.770 -> 03:36.370",
+      "jp": "でも雲もない",
+      "jp_html": "でも<ruby>雲<rt>くも</rt></ruby>もない",
+      "zh": "但也没有云",
+      "en": "But there is not a cloud in the sky."
+    },
+    {
+      "id": 66,
+      "start": 216.37,
+      "end": 218.89,
+      "ts": "03:36.370 -> 03:38.890",
+      "jp": "雲はあるか",
+      "jp_html": "<ruby>雲<rt>くも</rt></ruby>はあるか",
+      "zh": "云在吗",
+      "en": "Is there a cloud?"
+    },
+    {
+      "id": 67,
+      "start": 218.89,
+      "end": 220.01,
+      "ts": "03:38.890 -> 03:40.010",
+      "jp": "雲はあるけど",
+      "jp_html": "<ruby>雲<rt>くも</rt></ruby>はあるけど",
+      "zh": "有云但是",
+      "en": "There are clouds but"
+    },
+    {
+      "id": 68,
+      "start": 220.01,
+      "end": 222.43,
+      "ts": "03:40.010 -> 03:42.430",
+      "jp": "見える雲はない",
+      "jp_html": "<ruby>見え<rt>みえ</rt></ruby>る<ruby>雲<rt>くも</rt></ruby>はない",
+      "zh": "看不见云",
+      "en": "There are no visible clouds."
+    },
+    {
+      "id": 69,
+      "start": 222.43,
+      "end": 223.59,
+      "ts": "03:42.430 -> 03:43.590",
+      "jp": "なんかこう",
+      "jp_html": "なんかこう",
+      "zh": "不知怎么的",
+      "en": "Well, kind of like this"
+    },
+    {
+      "id": 70,
+      "start": 223.59,
+      "end": 224.77,
+      "ts": "03:43.590 -> 03:44.770",
+      "jp": "全部",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>",
+      "zh": "全部",
+      "en": "All"
+    },
+    {
+      "id": 71,
+      "start": 224.77,
+      "end": 227.75,
+      "ts": "03:44.770 -> 03:47.750",
+      "jp": "空が白い感じね",
+      "jp_html": "<ruby>空<rt>そら</rt></ruby>が<ruby>白い<rt>しろい</rt></ruby><ruby>感じ<rt>かんじ</rt></ruby>ね",
+      "zh": "天空感觉是白色的呢",
+      "en": "The sky feels white."
+    },
+    {
+      "id": 72,
+      "start": 227.75,
+      "end": 229.59,
+      "ts": "03:47.750 -> 03:49.590",
+      "jp": "少し空が白くて",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby><ruby>空<rt>そら</rt></ruby>が<ruby>白く<rt>しろく</rt></ruby>て",
+      "zh": "天空有些发白",
+      "en": "The sky is a little white."
+    },
+    {
+      "id": 73,
+      "start": 229.59,
+      "end": 231.77,
+      "ts": "03:49.590 -> 03:51.770",
+      "jp": "太陽もないけど",
+      "jp_html": "<ruby>太陽<rt>たいよう</rt></ruby>もないけど",
+      "zh": "没有太阳也好",
+      "en": "There's no sun either."
+    },
+    {
+      "id": 74,
+      "start": 231.77,
+      "end": 232.87,
+      "ts": "03:51.770 -> 03:52.870",
+      "jp": "雨もない",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>もない",
+      "zh": "没有雨",
+      "en": "There is no rain."
+    },
+    {
+      "id": 75,
+      "start": 232.87,
+      "end": 234.23,
+      "ts": "03:52.870 -> 03:54.230",
+      "jp": "風邪もない",
+      "jp_html": "<ruby>風邪<rt>かぜ</rt></ruby>もない",
+      "zh": "没有感冒",
+      "en": "I don't have a cold."
+    },
+    {
+      "id": 76,
+      "start": 234.23,
+      "end": 235.87,
+      "ts": "03:54.230 -> 03:55.870",
+      "jp": "何もないんですね",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>ないんですね",
+      "zh": "什么都没有呢",
+      "en": "There's nothing, I see."
+    },
+    {
+      "id": 77,
+      "start": 235.87,
+      "end": 240.21,
+      "ts": "03:55.870 -> 04:00.210",
+      "jp": "だから僕の気持ちもそんな感じですね",
+      "jp_html": "だから<ruby>僕<rt>ぼく</rt></ruby>の<ruby>気持ち<rt>きもち</rt></ruby>もそんな<ruby>感じ<rt>かんじ</rt></ruby>ですね",
+      "zh": "所以我的感觉也差不多吧",
+      "en": "So my feelings are like that too."
+    },
+    {
+      "id": 78,
+      "start": 240.21,
+      "end": 242.25,
+      "ts": "04:00.210 -> 04:02.250",
+      "jp": "お腹が空いてない",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>てない",
+      "zh": "我不饿",
+      "en": "I'm not hungry."
+    },
+    {
+      "id": 79,
+      "start": 242.25,
+      "end": 244.01,
+      "ts": "04:02.250 -> 04:04.010",
+      "jp": "喉が渇いてない",
+      "jp_html": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かつ</rt></ruby>いてない",
+      "zh": "嗓子不渴",
+      "en": "I'm not thirsty."
+    },
+    {
+      "id": 80,
+      "start": 244.01,
+      "end": 246.05,
+      "ts": "04:04.010 -> 04:06.050",
+      "jp": "疲れてない",
+      "jp_html": "<ruby>疲れ<rt>つかれ</rt></ruby>てない",
+      "zh": "不累",
+      "en": "Not tired"
+    },
+    {
+      "id": 81,
+      "start": 246.05,
+      "end": 248.27,
+      "ts": "04:06.050 -> 04:08.270",
+      "jp": "やる気もない",
+      "jp_html": "やる<ruby>気も<rt>きも</rt></ruby>ない",
+      "zh": "没动力",
+      "en": "I don't feel like doing it."
+    },
+    {
+      "id": 82,
+      "start": 248.27,
+      "end": 251.35,
+      "ts": "04:08.270 -> 04:11.350",
+      "jp": "何もないんですね",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby>ないんですね",
+      "zh": "什么都没有呢",
+      "en": "There's nothing, I see."
+    },
+    {
+      "id": 83,
+      "start": 251.35,
+      "end": 254.63,
+      "ts": "04:11.350 -> 04:14.630",
+      "jp": "ちょっとなんか甘いものでも食べようかな",
+      "jp_html": "ちょっとなんか<ruby>甘い<rt>あまい</rt></ruby>ものでも<ruby>食べ<rt>たべ</rt></ruby>ようかな",
+      "zh": "稍微吃点甜的东西怎么样呢",
+      "en": "Let's eat something sweet, I guess."
+    },
+    {
+      "id": 84,
+      "start": 254.63,
+      "end": 258.75,
+      "ts": "04:14.630 -> 04:18.750",
+      "jp": "ちょっと頭に砂糖が必要なのかな",
+      "jp_html": "ちょっと<ruby>頭<rt>あたま</rt></ruby>に<ruby>砂糖<rt>さとう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なのかな",
+      "zh": "脑袋里需要加点糖吗",
+      "en": "Maybe I need a little sugar in my head."
+    },
+    {
+      "id": 85,
+      "start": 258.75,
+      "end": 259.75,
+      "ts": "04:18.750 -> 04:19.750",
+      "jp": "わかりませんね",
+      "jp_html": "わかりませんね",
+      "zh": "不明白吧",
+      "en": "Don't you understand?"
+    },
+    {
+      "id": 86,
+      "start": 259.75,
+      "end": 260.69,
+      "ts": "04:19.750 -> 04:20.690",
+      "jp": "眠くない",
+      "jp_html": "<ruby>眠く<rt>ねむく</rt></ruby>ない",
+      "zh": "不想睡",
+      "en": "I'm not sleepy"
+    },
+    {
+      "id": 87,
+      "start": 260.69,
+      "end": 261.85,
+      "ts": "04:20.690 -> 04:21.850",
+      "jp": "お腹が減ってない",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>が<ruby>減っ<rt>へっ</rt></ruby>てない",
+      "zh": "我不饿",
+      "en": "I'm not hungry."
+    },
+    {
+      "id": 88,
+      "start": 261.85,
+      "end": 263.19,
+      "ts": "04:21.850 -> 04:23.190",
+      "jp": "トイレにも行きたくない",
+      "jp_html": "トイレにも<ruby>行き<rt>いき</rt></ruby>たくない",
+      "zh": "也不想上厕所",
+      "en": "I don't want to go to the toilet."
+    },
+    {
+      "id": 89,
+      "start": 263.19,
+      "end": 265.97,
+      "ts": "04:23.190 -> 04:25.970",
+      "jp": "なんでしょこの気持ちは",
+      "jp_html": "なんでしょこの<ruby>気持ち<rt>きもち</rt></ruby>は",
+      "zh": "这是什么感觉呢",
+      "en": "Why do I feel this way?"
+    },
+    {
+      "id": 90,
+      "start": 265.97,
+      "end": 269.31,
+      "ts": "04:25.970 -> 04:29.310",
+      "jp": "そんな時がたまにはあります",
+      "jp_html": "そんな<ruby>時<rt>とき</rt></ruby>がたまにはあります",
+      "zh": "有时候也会有这样的时候",
+      "en": "Sometimes such times occur."
+    },
+    {
+      "id": 91,
+      "start": 269.31,
+      "end": 271.39,
+      "ts": "04:29.310 -> 04:31.390",
+      "jp": "というわけでまたね",
+      "jp_html": "というわけでまたね",
+      "zh": "所以下次再见喽",
+      "en": "So anyway, see you later."
+    }
+  ]
+}
