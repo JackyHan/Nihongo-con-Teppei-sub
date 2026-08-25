@@ -1,0 +1,984 @@
+{
+  "id": "1569",
+  "title": "#1569「田舎日記14」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1569.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1569.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/25/1569%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9814%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.39,
+      "end": 3.03,
+      "ts": "00:01.390 -> 00:03.030",
+      "jp": "シャッキーン!",
+      "jp_html": "シャッキーン!",
+      "zh": "沙克钦！",
+      "en": "Shakkin!"
+    },
+    {
+      "id": 1,
+      "start": 3.87,
+      "end": 6.19,
+      "ts": "00:03.870 -> 00:06.190",
+      "jp": "今日も田舎日記",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>",
+      "zh": "今天的乡村日记",
+      "en": "Today's Countryside Diary"
+    },
+    {
+      "id": 2,
+      "start": 6.19,
+      "end": 9.69,
+      "ts": "00:06.190 -> 00:09.690",
+      "jp": "はい、皆さん元気ですか?",
+      "jp_html": "はい、<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "大家好，你们好吗?",
+      "en": "Hi, everyone, are you okay?"
+    },
+    {
+      "id": 3,
+      "start": 10.13,
+      "end": 12.93,
+      "ts": "00:10.130 -> 00:12.930",
+      "jp": "日本語コンテッペ、田舎の時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペ、<ruby>田舎<rt>いなか</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语节奏，乡下的时间呢",
+      "en": "Japanese phrase, rural time, isn't it?"
+    },
+    {
+      "id": 4,
+      "start": 12.93,
+      "end": 14.89,
+      "ts": "00:12.930 -> 00:14.890",
+      "jp": "田舎の生活長いですね",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>長い<rt>ながい</rt></ruby>ですね",
+      "zh": "乡下的生活真长啊",
+      "en": "The rural life seems long, doesn't it?"
+    },
+    {
+      "id": 5,
+      "start": 14.89,
+      "end": 19.97,
+      "ts": "00:14.890 -> 00:19.970",
+      "jp": "ちょっと長いですけど、まあまあ、いろいろ話すことはあります",
+      "jp_html": "ちょっと<ruby>長い<rt>ながい</rt></ruby>ですけど、まあまあ、いろいろ<ruby>話す<rt>はなす</rt></ruby>ことはあります",
+      "zh": "虽然有点长，不过还是能聊很多 things 的。",
+      "en": "It's a bit long, but there's actually quite a lot to talk about."
+    },
+    {
+      "id": 6,
+      "start": 19.97,
+      "end": 25.87,
+      "ts": "00:19.970 -> 00:25.870",
+      "jp": "僕の子供が何をしているかというと",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が<ruby>何を<rt>なにを</rt></ruby>しているかというと",
+      "zh": "我的孩子在做什么就是",
+      "en": "What my child is doing is"
+    },
+    {
+      "id": 7,
+      "start": 25.87,
+      "end": 32.57,
+      "ts": "00:25.870 -> 00:32.570",
+      "jp": "とても日本の夏休みっぽい夏休みを過ごしています",
+      "jp_html": "とても<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夏休み<rt>なつやすみ</rt></ruby>っぽい<ruby>夏休み<rt>なつやすみ</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>しています",
+      "zh": "我度过了非常像日本暑假的暑假",
+      "en": "I am spending a summer vacation very much like Japanese summer vacation."
+    },
+    {
+      "id": 8,
+      "start": 32.57,
+      "end": 35.79,
+      "ts": "00:32.570 -> 00:35.790",
+      "jp": "日本っぽい夏休みですね",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>っぽい<ruby>夏休み<rt>なつやすみ</rt></ruby>ですね",
+      "zh": "这看起来像一个日本式的暑假吧",
+      "en": "It seems like a Japanese-style summer vacation."
+    },
+    {
+      "id": 9,
+      "start": 35.79,
+      "end": 39.43,
+      "ts": "00:35.790 -> 00:39.430",
+      "jp": "どういうことかというと",
+      "jp_html": "どういうことかというと",
+      "zh": "也就是说",
+      "en": "What it means is"
+    },
+    {
+      "id": 10,
+      "start": 39.43,
+      "end": 40.91,
+      "ts": "00:39.430 -> 00:40.910",
+      "jp": "いろいろあるでしょ",
+      "jp_html": "いろいろあるでしょ",
+      "zh": "有的吧",
+      "en": "There are many things, right?"
+    },
+    {
+      "id": 11,
+      "start": 40.91,
+      "end": 42.31,
+      "ts": "00:40.910 -> 00:42.310",
+      "jp": "日本のイメージ",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>のイメージ",
+      "zh": "日本的形象",
+      "en": "Image of Japan"
+    },
+    {
+      "id": 12,
+      "start": 42.31,
+      "end": 45.69,
+      "ts": "00:42.310 -> 00:45.690",
+      "jp": "例えば暑いですね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>暑い<rt>あつい</rt></ruby>ですね",
+      "zh": "比如好热啊",
+      "en": "For example, it's hot, isn't it?"
+    },
+    {
+      "id": 13,
+      "start": 45.69,
+      "end": 50.23,
+      "ts": "00:45.690 -> 00:50.230",
+      "jp": "セミの声が聞こえます",
+      "jp_html": "セミの<ruby>声<rt>こえ</rt></ruby>が<ruby>聞こ<rt>きこ</rt></ruby>えます",
+      "zh": "能听到蝉的声音",
+      "en": "I can hear the sound of crickets."
+    },
+    {
+      "id": 14,
+      "start": 50.23,
+      "end": 51.79,
+      "ts": "00:50.230 -> 00:51.790",
+      "jp": "虫ですよね",
+      "jp_html": "<ruby>虫<rt>むし</rt></ruby>ですよね",
+      "zh": "是虫子吧",
+      "en": "It's a bug, right?"
+    },
+    {
+      "id": 15,
+      "start": 51.79,
+      "end": 53.79,
+      "ts": "00:51.790 -> 00:53.790",
+      "jp": "すごくうるさい",
+      "jp_html": "すごくうるさい",
+      "zh": "好吵",
+      "en": "It's really noisy."
+    },
+    {
+      "id": 16,
+      "start": 53.79,
+      "end": 56.17,
+      "ts": "00:53.790 -> 00:56.170",
+      "jp": "ミミミミミミミミミ",
+      "jp_html": "ミミミミミミミミミ",
+      "zh": "米米米米米米米米",
+      "en": "EEEEEEEEE"
+    },
+    {
+      "id": 17,
+      "start": 56.17,
+      "end": 59.23,
+      "ts": "00:56.170 -> 00:59.230",
+      "jp": "セミの声を聞きながら",
+      "jp_html": "セミの<ruby>声<rt>こえ</rt></ruby>を<ruby>聞き<rt>きき</rt></ruby>ながら",
+      "zh": "听着蝉鸣",
+      "en": "Hearing the sound of crickets"
+    },
+    {
+      "id": 18,
+      "start": 59.23,
+      "end": 61.57,
+      "ts": "00:59.230 -> 01:01.570",
+      "jp": "アイスクリームを食べたり",
+      "jp_html": "アイスクリームを<ruby>食べた<rt>たべた</rt></ruby>り",
+      "zh": "吃冰淇淋或",
+      "en": "To eat ice cream"
+    },
+    {
+      "id": 19,
+      "start": 61.57,
+      "end": 63.45,
+      "ts": "01:01.570 -> 01:03.450",
+      "jp": "畳の上でね",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>の<ruby>上で<rt>うえで</rt></ruby>ね",
+      "zh": "坐在榻榻米上",
+      "en": "On the tatami mat"
+    },
+    {
+      "id": 20,
+      "start": 63.45,
+      "end": 64.99,
+      "ts": "01:03.450 -> 01:04.990",
+      "jp": "畳の部屋がありますね",
+      "jp_html": "<ruby>畳<rt>たたみ</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>がありますね",
+      "zh": "有榻榻米的房间吧",
+      "en": "There is a tatami room, isn't there?"
+    },
+    {
+      "id": 21,
+      "start": 64.99,
+      "end": 68.61,
+      "ts": "01:04.990 -> 01:08.610",
+      "jp": "そこでアイスクリームを食べながら",
+      "jp_html": "そこでアイスクリームを<ruby>食べ<rt>たべ</rt></ruby>ながら",
+      "zh": "在那里吃着冰淇淋",
+      "en": "There, eating ice cream while"
+    },
+    {
+      "id": 22,
+      "start": 68.61,
+      "end": 70.75,
+      "ts": "01:08.610 -> 01:10.750",
+      "jp": "漫画を読んだり",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "看了漫画",
+      "en": "I read manga or"
+    },
+    {
+      "id": 23,
+      "start": 70.75,
+      "end": 73.35,
+      "ts": "01:10.750 -> 01:13.350",
+      "jp": "ドラえもんとかを読んだり",
+      "jp_html": "ドラえもんとかを<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "读哆啦A梦之类的漫画",
+      "en": "I read Doraemon or something like that."
+    },
+    {
+      "id": 24,
+      "start": 73.35,
+      "end": 77.83,
+      "ts": "01:13.350 -> 01:17.830",
+      "jp": "スイカですね",
+      "jp_html": "スイカですね",
+      "zh": "这是西瓜吧",
+      "en": "It's a watermelon."
+    },
+    {
+      "id": 25,
+      "start": 77.83,
+      "end": 81.09,
+      "ts": "01:17.830 -> 01:21.090",
+      "jp": "果物のスイカを食べながら",
+      "jp_html": "<ruby>果物<rt>くだもの</rt></ruby>のスイカを<ruby>食べ<rt>たべ</rt></ruby>ながら",
+      "zh": "吃着西瓜",
+      "en": "Eating watermelon while"
+    },
+    {
+      "id": 26,
+      "start": 81.09,
+      "end": 84.31,
+      "ts": "01:21.090 -> 01:24.310",
+      "jp": "テレビで高校野球を見たり",
+      "jp_html": "テレビで<ruby>高校野球<rt>こうこうやきゅう</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "电视里看高中棒球比赛",
+      "en": "I watch high school baseball on TV or"
+    },
+    {
+      "id": 27,
+      "start": 84.31,
+      "end": 86.47,
+      "ts": "01:24.310 -> 01:26.470",
+      "jp": "日本っぽいですね",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>っぽいですね",
+      "zh": "听起来有点日系呢",
+      "en": "It seems Japanese, huh?"
+    },
+    {
+      "id": 28,
+      "start": 86.47,
+      "end": 88.15,
+      "ts": "01:26.470 -> 01:28.150",
+      "jp": "高校野球",
+      "jp_html": "<ruby>高校野球<rt>こうこうやきゅう</rt></ruby>",
+      "zh": "高中棒球",
+      "en": "High school baseball"
+    },
+    {
+      "id": 29,
+      "start": 88.15,
+      "end": 91.15,
+      "ts": "01:28.150 -> 01:31.150",
+      "jp": "夏は高校野球がありますね",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>高校野球<rt>こうこうやきゅう</rt></ruby>がありますね",
+      "zh": "夏天有高中棒球赛呢",
+      "en": "There is high school baseball in the summer, right?"
+    },
+    {
+      "id": 30,
+      "start": 91.15,
+      "end": 93.07,
+      "ts": "01:31.150 -> 01:33.070",
+      "jp": "スイカを食べながら",
+      "jp_html": "スイカを<ruby>食べ<rt>たべ</rt></ruby>ながら",
+      "zh": "吃西瓜的同时",
+      "en": "Eating watermelon"
+    },
+    {
+      "id": 31,
+      "start": 93.07,
+      "end": 95.95,
+      "ts": "01:33.070 -> 01:35.950",
+      "jp": "高校野球を見る家族で",
+      "jp_html": "<ruby>高校野球<rt>こうこうやきゅう</rt></ruby>を<ruby>見る<rt>みる</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>で",
+      "zh": "看高中棒球比赛的家人一起",
+      "en": "A family watching high school baseball"
+    },
+    {
+      "id": 32,
+      "start": 95.95,
+      "end": 99.17,
+      "ts": "01:35.950 -> 01:39.170",
+      "jp": "そして麦茶",
+      "jp_html": "そして<ruby>麦茶<rt>むぎちゃ</rt></ruby>",
+      "zh": "然后是麦茶",
+      "en": "And green tea"
+    },
+    {
+      "id": 33,
+      "start": 99.17,
+      "end": 101.39,
+      "ts": "01:39.170 -> 01:41.390",
+      "jp": "麦茶というのは",
+      "jp_html": "<ruby>麦茶<rt>むぎちゃ</rt></ruby>というのは",
+      "zh": "麦茶是指",
+      "en": "What is麦茶?"
+    },
+    {
+      "id": 34,
+      "start": 101.39,
+      "end": 106.81,
+      "ts": "01:41.390 -> 01:46.810",
+      "jp": "色はウイスキーみたい",
+      "jp_html": "<ruby>色<rt>いろ</rt></ruby>はウイスキーみたい",
+      "zh": "颜色像威士忌一样",
+      "en": "The color is whiskey-like."
+    },
+    {
+      "id": 35,
+      "start": 106.81,
+      "end": 109.73,
+      "ts": "01:46.810 -> 01:49.730",
+      "jp": "色はウイスキーみたいだけど",
+      "jp_html": "<ruby>色<rt>いろ</rt></ruby>はウイスキーみたいだけど",
+      "zh": "颜色像威士忌一样",
+      "en": "The color looks like whiskey."
+    },
+    {
+      "id": 36,
+      "start": 109.73,
+      "end": 111.25,
+      "ts": "01:49.730 -> 01:51.250",
+      "jp": "味は全然違います",
+      "jp_html": "<ruby>味<rt>あじ</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違い<rt>ちがい</rt></ruby>ます",
+      "zh": "味道完全不一样",
+      "en": "The taste is completely different."
+    },
+    {
+      "id": 37,
+      "start": 111.25,
+      "end": 117.19,
+      "ts": "01:51.250 -> 01:57.190",
+      "jp": "味はお茶よりもっと優しい味",
+      "jp_html": "<ruby>味<rt>あじ</rt></ruby>はお<ruby>茶<rt>ちゃ</rt></ruby>よりもっと<ruby>優しい<rt>やさしい</rt></ruby><ruby>味<rt>あじ</rt></ruby>",
+      "zh": "味道比茶还要清淡一些",
+      "en": "The taste is much milder than tea."
+    },
+    {
+      "id": 38,
+      "start": 117.19,
+      "end": 119.21,
+      "ts": "01:57.190 -> 01:59.210",
+      "jp": "カフェインがない",
+      "jp_html": "カフェインがない",
+      "zh": "不含咖啡因",
+      "en": "There is no caffeine"
+    },
+    {
+      "id": 39,
+      "start": 119.21,
+      "end": 121.23,
+      "ts": "01:59.210 -> 02:01.230",
+      "jp": "ノンカフェインの飲み物",
+      "jp_html": "ノンカフェインの<ruby>飲み物<rt>のみもの</rt></ruby>",
+      "zh": "不含咖啡因的饮料",
+      "en": "Non-caffeinated drink"
+    },
+    {
+      "id": 40,
+      "start": 121.23,
+      "end": 122.97,
+      "ts": "02:01.230 -> 02:02.970",
+      "jp": "子供が大好きですね",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>が<ruby>大好き<rt>だいすき</rt></ruby>ですね",
+      "zh": "您很喜欢孩子吧",
+      "en": "You really like children, don't you?"
+    },
+    {
+      "id": 41,
+      "start": 122.97,
+      "end": 123.97,
+      "ts": "02:02.970 -> 02:03.970",
+      "jp": "麦茶",
+      "jp_html": "<ruby>麦茶<rt>むぎちゃ</rt></ruby>",
+      "zh": "麦茶",
+      "en": "Millet tea"
+    },
+    {
+      "id": 42,
+      "start": 123.97,
+      "end": 127.51,
+      "ts": "02:03.970 -> 02:07.510",
+      "jp": "麦茶を飲んだり",
+      "jp_html": "<ruby>麦茶<rt>むぎちゃ</rt></ruby>を<ruby>飲ん<rt>のん</rt></ruby>だり",
+      "zh": "喝麦茶",
+      "en": "I drank some iced tea."
+    },
+    {
+      "id": 43,
+      "start": 127.51,
+      "end": 129.87,
+      "ts": "02:07.510 -> 02:09.870",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的部分是",
+      "en": "The rest is"
+    },
+    {
+      "id": 44,
+      "start": 129.87,
+      "end": 133.37,
+      "ts": "02:09.870 -> 02:13.370",
+      "jp": "ゲームをしたり",
+      "jp_html": "ゲームをしたり",
+      "zh": "玩游戏或",
+      "en": "to play games"
+    },
+    {
+      "id": 45,
+      "start": 133.37,
+      "end": 139.59,
+      "ts": "02:13.370 -> 02:19.590",
+      "jp": "昼ご飯はそばとか",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>はそばとか",
+      "zh": "午餐是拉面等面条食品",
+      "en": "Lunch is soba or something like that."
+    },
+    {
+      "id": 46,
+      "start": 139.73,
+      "end": 143.65,
+      "ts": "02:19.730 -> 02:23.650",
+      "jp": "冷たいそば冷たいそうめん",
+      "jp_html": "<ruby>冷たい<rt>つめたい</rt></ruby>そば<ruby>冷たい<rt>つめたい</rt></ruby>そうめん",
+      "zh": "冰冷的凉面冰冷的凉粉",
+      "en": "Cold soba Cold tempura noodles"
+    },
+    {
+      "id": 47,
+      "start": 143.65,
+      "end": 147.33,
+      "ts": "02:23.650 -> 02:27.330",
+      "jp": "そういう冷たい冷たい麺ですね",
+      "jp_html": "そういう<ruby>冷たい<rt>つめたい</rt></ruby><ruby>冷たい<rt>つめたい</rt></ruby><ruby>麺<rt>めん</rt></ruby>ですね",
+      "zh": "这种冷冷的凉面呢",
+      "en": "That's a cold, cold noodle, you know?"
+    },
+    {
+      "id": 48,
+      "start": 147.33,
+      "end": 152.02,
+      "ts": "02:27.330 -> 02:32.020",
+      "jp": "冷たい麺を食べたり",
+      "jp_html": "<ruby>冷たい<rt>つめたい</rt></ruby><ruby>麺<rt>めん</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>り",
+      "zh": "吃冷面",
+      "en": "Eating cold noodles"
+    },
+    {
+      "id": 49,
+      "start": 152.02,
+      "end": 158.78,
+      "ts": "02:32.020 -> 02:38.780",
+      "jp": "またかき氷かかき氷を食べたり",
+      "jp_html": "またかき<ruby>氷<rt>こおり</rt></ruby>かかき<ruby>氷<rt>こおり</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>り",
+      "zh": "又吃刨冰或吃刨冰",
+      "en": "Again, eating shaved ice or shaved ice again"
+    },
+    {
+      "id": 50,
+      "start": 158.78,
+      "end": 162.84,
+      "ts": "02:38.780 -> 02:42.840",
+      "jp": "あんまり体に良くないですね",
+      "jp_html": "あんまり<ruby>体<rt>からだ</rt></ruby>に<ruby>良く<rt>よく</rt></ruby>ないですね",
+      "zh": "这对你身体不太好啊",
+      "en": "It's not very good for your body, huh?"
+    },
+    {
+      "id": 51,
+      "start": 162.84,
+      "end": 170.42,
+      "ts": "02:42.840 -> 02:50.420",
+      "jp": "エアコンの中で涼しい部屋で冷たい食べ物をいつも食べてる",
+      "jp_html": "エアコンの<ruby>中<rt>なか</rt></ruby>で<ruby>涼しい<rt>すずしい</rt></ruby><ruby>部屋<rt>へや</rt></ruby>で<ruby>冷たい<rt>つめたい</rt></ruby><ruby>食べ物<rt>たべもの</rt></ruby>をいつも<ruby>食べて<rt>たべて</rt></ruby>る",
+      "zh": "在空调房里吃冰冷的食物总觉得凉爽",
+      "en": "I'm always eating cold food in a cool room inside an air conditioner."
+    },
+    {
+      "id": 52,
+      "start": 170.42,
+      "end": 173.22,
+      "ts": "02:50.420 -> 02:53.220",
+      "jp": "結構健康的じゃないけど",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>健康的<rt>けんこうてき</rt></ruby>じゃないけど",
+      "zh": "结构不健康吧",
+      "en": "It's not really healthy, though."
+    },
+    {
+      "id": 53,
+      "start": 173.22,
+      "end": 174.96,
+      "ts": "02:53.220 -> 02:54.960",
+      "jp": "仕方がないですね",
+      "jp_html": "<ruby>仕方<rt>しかた</rt></ruby>がないですね",
+      "zh": "没办法啊",
+      "en": "There's no help for it, I suppose."
+    },
+    {
+      "id": 54,
+      "start": 174.96,
+      "end": 176.44,
+      "ts": "02:54.960 -> 02:56.440",
+      "jp": "外が暑いからね",
+      "jp_html": "<ruby>外<rt>そと</rt></ruby>が<ruby>暑い<rt>あつい</rt></ruby>からね",
+      "zh": "外面很热呢",
+      "en": "It's hot outside, you know?"
+    },
+    {
+      "id": 55,
+      "start": 176.44,
+      "end": 179.58,
+      "ts": "02:56.440 -> 02:59.580",
+      "jp": "外で少しだけ遊びます",
+      "jp_html": "<ruby>外<rt>そと</rt></ruby>で<ruby>少し<rt>すこし</rt></ruby>だけ<ruby>遊び<rt>あそび</rt></ruby>ます",
+      "zh": "在外面玩一会儿",
+      "en": "I play outside for a little while."
+    },
+    {
+      "id": 56,
+      "start": 179.58,
+      "end": 181.88,
+      "ts": "02:59.580 -> 03:01.880",
+      "jp": "スケートボードを少しやります",
+      "jp_html": "スケートボードを<ruby>少し<rt>すこし</rt></ruby>やります",
+      "zh": "我偶尔滑一下滑板。",
+      "en": "I play skateboarding a little."
+    },
+    {
+      "id": 57,
+      "start": 181.88,
+      "end": 185.34,
+      "ts": "03:01.880 -> 03:05.340",
+      "jp": "でも30分ぐらいしたらもう",
+      "jp_html": "でも30<ruby>分<rt>ふん</rt></ruby>ぐらいしたらもう",
+      "zh": "但是大约30分钟后就",
+      "en": "But about 30 minutes later, already"
+    },
+    {
+      "id": 58,
+      "start": 185.34,
+      "end": 188.9,
+      "ts": "03:05.340 -> 03:08.900",
+      "jp": "暑すぎて苦しくなりますね",
+      "jp_html": "<ruby>暑す<rt>あつす</rt></ruby>ぎて<ruby>苦しく<rt>くるしく</rt></ruby>なりますね",
+      "zh": "热得让人痛苦呢",
+      "en": "It's becoming tough because it's so hot, huh?"
+    },
+    {
+      "id": 59,
+      "start": 188.9,
+      "end": 191.8,
+      "ts": "03:08.900 -> 03:11.800",
+      "jp": "セミの声",
+      "jp_html": "セミの<ruby>声<rt>こえ</rt></ruby>",
+      "zh": "蝉鸣声",
+      "en": "The sound of crickets"
+    },
+    {
+      "id": 60,
+      "start": 191.8,
+      "end": 196.24,
+      "ts": "03:11.800 -> 03:16.240",
+      "jp": "外で30分ぐらい遊ぶとずっとセミの声がして",
+      "jp_html": "<ruby>外<rt>そと</rt></ruby>で30<ruby>分<rt>ふん</rt></ruby>ぐらい<ruby>遊ぶ<rt>あそぶ</rt></ruby>とずっとセミの<ruby>声<rt>こえ</rt></ruby>がして",
+      "zh": "在外面玩大约30分钟就会一直听到蝉叫",
+      "en": "Playing outside for about 30 minutes will keep hearing the cicada sounds all day."
+    },
+    {
+      "id": 61,
+      "start": 196.24,
+      "end": 199.42,
+      "ts": "03:16.240 -> 03:19.420",
+      "jp": "その後アイスクリーム食べて",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>アイスクリーム<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "然后吃冰淇淋",
+      "en": "Then I ate ice cream."
+    },
+    {
+      "id": 62,
+      "start": 199.42,
+      "end": 201.18,
+      "ts": "03:19.420 -> 03:21.180",
+      "jp": "かき氷を食べて",
+      "jp_html": "かき<ruby>氷<rt>こおり</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "吃刨冰",
+      "en": "Eat shaved ice"
+    },
+    {
+      "id": 63,
+      "start": 201.18,
+      "end": 203.26,
+      "ts": "03:21.180 -> 03:23.260",
+      "jp": "高校野球を見て",
+      "jp_html": "<ruby>高校野球<rt>こうこうやきゅう</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>",
+      "zh": "看高中棒球比赛",
+      "en": "Watch high school baseball"
+    },
+    {
+      "id": 64,
+      "start": 203.26,
+      "end": 205.36,
+      "ts": "03:23.260 -> 03:25.360",
+      "jp": "それ毎日ですね",
+      "jp_html": "それ<ruby>毎日<rt>まいにち</rt></ruby>ですね",
+      "zh": "那每天呢",
+      "en": "That every day, huh?"
+    },
+    {
+      "id": 65,
+      "start": 205.36,
+      "end": 208.46,
+      "ts": "03:25.360 -> 03:28.460",
+      "jp": "毎日その繰り返し",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>その<ruby>繰り返し<rt>くりかえし</rt></ruby>",
+      "zh": "每天重复着",
+      "en": "The same thing repeated every day"
+    },
+    {
+      "id": 66,
+      "start": 208.46,
+      "end": 209.42,
+      "ts": "03:28.460 -> 03:29.420",
+      "jp": "麦茶",
+      "jp_html": "<ruby>麦茶<rt>むぎちゃ</rt></ruby>",
+      "zh": "麦茶",
+      "en": "Millet tea"
+    },
+    {
+      "id": 67,
+      "start": 209.42,
+      "end": 210.9,
+      "ts": "03:29.420 -> 03:30.900",
+      "jp": "アイスコーヒー",
+      "jp_html": "アイスコーヒー",
+      "zh": "冰咖啡",
+      "en": "Ice coffee"
+    },
+    {
+      "id": 68,
+      "start": 210.9,
+      "end": 212.7,
+      "ts": "03:30.900 -> 03:32.700",
+      "jp": "僕はねアイスコーヒー",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ねアイスコーヒー",
+      "zh": "我喝的是冰咖啡",
+      "en": "I have some iced coffee."
+    },
+    {
+      "id": 69,
+      "start": 212.7,
+      "end": 213.98,
+      "ts": "03:32.700 -> 03:33.980",
+      "jp": "子供は麦茶",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>は<ruby>麦茶<rt>むぎちゃ</rt></ruby>",
+      "zh": "孩子喝麦茶",
+      "en": "The children are drinking barley tea."
+    },
+    {
+      "id": 70,
+      "start": 213.98,
+      "end": 216.04,
+      "ts": "03:33.980 -> 03:36.040",
+      "jp": "アイスクリーム",
+      "jp_html": "アイスクリーム",
+      "zh": "冰淇淋",
+      "en": "Ice cream"
+    },
+    {
+      "id": 71,
+      "start": 216.04,
+      "end": 218.64,
+      "ts": "03:36.040 -> 03:38.640",
+      "jp": "かき氷",
+      "jp_html": "かき<ruby>氷<rt>こおり</rt></ruby>",
+      "zh": "刨冰",
+      "en": "shaved ice"
+    },
+    {
+      "id": 72,
+      "start": 218.64,
+      "end": 220.9,
+      "ts": "03:38.640 -> 03:40.900",
+      "jp": "冷たいそば",
+      "jp_html": "<ruby>冷たい<rt>つめたい</rt></ruby>そば",
+      "zh": "冰冷的凉面",
+      "en": "Cold soba noodles"
+    },
+    {
+      "id": 73,
+      "start": 220.9,
+      "end": 224.12,
+      "ts": "03:40.900 -> 03:44.120",
+      "jp": "僕はビール",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ビール",
+      "zh": "我喝了啤酒",
+      "en": "I have beer."
+    },
+    {
+      "id": 74,
+      "start": 224.12,
+      "end": 225.72,
+      "ts": "03:44.120 -> 03:45.720",
+      "jp": "冷たいビール",
+      "jp_html": "<ruby>冷たい<rt>つめたい</rt></ruby>ビール",
+      "zh": "冰冷的啤酒",
+      "en": "Cold beer"
+    },
+    {
+      "id": 75,
+      "start": 225.72,
+      "end": 227.96,
+      "ts": "03:45.720 -> 03:47.960",
+      "jp": "子供はまた麦茶",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>はまた<ruby>麦茶<rt>むぎちゃ</rt></ruby>",
+      "zh": "孩子们又喝了麦茶",
+      "en": "The children had some iced tea again."
+    },
+    {
+      "id": 76,
+      "start": 227.96,
+      "end": 231.14,
+      "ts": "03:47.960 -> 03:51.140",
+      "jp": "高校野球",
+      "jp_html": "<ruby>高校野球<rt>こうこうやきゅう</rt></ruby>",
+      "zh": "高中棒球",
+      "en": "High school baseball"
+    },
+    {
+      "id": 77,
+      "start": 231.14,
+      "end": 234.74,
+      "ts": "03:51.140 -> 03:54.740",
+      "jp": "それを毎日毎日繰り返している",
+      "jp_html": "それを<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>繰り返し<rt>くりかえし</rt></ruby>ている",
+      "zh": "每天重复着这样做",
+      "en": "I am repeating this every single day."
+    },
+    {
+      "id": 78,
+      "start": 234.74,
+      "end": 238.18,
+      "ts": "03:54.740 -> 03:58.180",
+      "jp": "毎日毎日同じ",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>同じ<rt>おなじ</rt></ruby>",
+      "zh": "天天一样",
+      "en": "Day in and day out"
+    },
+    {
+      "id": 79,
+      "start": 238.18,
+      "end": 243.54,
+      "ts": "03:58.180 -> 04:03.540",
+      "jp": "ルーティンというかだらだら漫画を読んだり",
+      "jp_html": "ルーティンというかだらだら<ruby>漫画<rt>まんが</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "例行公事似的看了些漫畫",
+      "en": "It's more of a routine, I read some拖沓的漫画 or dragging comics."
+    },
+    {
+      "id": 80,
+      "start": 243.54,
+      "end": 246.48,
+      "ts": "04:03.540 -> 04:06.480",
+      "jp": "僕はなんかYouTube見たり",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>なんかYouTube<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "我看看了YouTube",
+      "en": "I was watching YouTube or something."
+    },
+    {
+      "id": 81,
+      "start": 246.48,
+      "end": 249.82,
+      "ts": "04:06.480 -> 04:09.820",
+      "jp": "悪くない悪くないですよ",
+      "jp_html": "<ruby>悪く<rt>わるく</rt></ruby>ない<ruby>悪く<rt>わるく</rt></ruby>ないですよ",
+      "zh": "不错不错，确实不错。",
+      "en": "Not bad, not bad at all."
+    },
+    {
+      "id": 82,
+      "start": 249.82,
+      "end": 250.92,
+      "ts": "04:09.820 -> 04:10.920",
+      "jp": "悪くないけど",
+      "jp_html": "<ruby>悪く<rt>わるく</rt></ruby>ないけど",
+      "zh": "还不错",
+      "en": "It's not bad but..."
+    },
+    {
+      "id": 83,
+      "start": 250.92,
+      "end": 255.64,
+      "ts": "04:10.920 -> 04:15.640",
+      "jp": "頭がアイスクリームのように溶けてきた",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>がアイスクリームのように<ruby>溶け<rt>とけ</rt></ruby>てきた",
+      "zh": "头像冰淇淋一样融化了",
+      "en": "My head feels like it's melting like ice cream."
+    },
+    {
+      "id": 84,
+      "start": 255.64,
+      "end": 258.26,
+      "ts": "04:15.640 -> 04:18.260",
+      "jp": "僕の頭も溶けてきました",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>も<ruby>溶け<rt>とけ</rt></ruby>てきました",
+      "zh": "我的脑袋也开始融化了",
+      "en": "My head is starting to melt as well."
+    },
+    {
+      "id": 85,
+      "start": 258.26,
+      "end": 263.46,
+      "ts": "04:18.260 -> 04:23.460",
+      "jp": "頭がどんどん溶けてきて何も考えられません",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>がどんどん<ruby>溶け<rt>とけ</rt></ruby>てきて<ruby>何も<rt>なにも</rt></ruby><ruby>考え<rt>かんがえ</rt></ruby>られません",
+      "zh": "头越来越空了，什么也想不起来",
+      "en": "My head is gradually melting and I can't think at all."
+    },
+    {
+      "id": 86,
+      "start": 263.46,
+      "end": 267.72,
+      "ts": "04:23.460 -> 04:27.720",
+      "jp": "これはいいんでしょうかそれとも悪いんでしょうか",
+      "jp_html": "これはいいんでしょうかそれとも<ruby>悪い<rt>わるい</rt></ruby>んでしょうか",
+      "zh": "这好还是不好呢",
+      "en": "Is this good or bad?"
+    },
+    {
+      "id": 87,
+      "start": 267.72,
+      "end": 268.48,
+      "ts": "04:27.720 -> 04:28.480",
+      "jp": "わかりません",
+      "jp_html": "わかりません",
+      "zh": "不明白",
+      "en": "I don't understand."
+    },
+    {
+      "id": 88,
+      "start": 268.48,
+      "end": 272.1,
+      "ts": "04:28.480 -> 04:32.100",
+      "jp": "皆さんもダラダラするのはいいけど",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>もダラダラするのはいいけど",
+      "zh": "大家也EGIN输ENG入玩玩是可以的",
+      "en": "Everyone also thinks dragging it out is okay but"
+    },
+    {
+      "id": 89,
+      "start": 272.1,
+      "end": 275.3,
+      "ts": "04:32.100 -> 04:35.300",
+      "jp": "僕は3週間ですからね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>3<ruby>週間<rt>しゅうかん</rt></ruby>ですからね",
+      "zh": "我三个星期呢",
+      "en": "I have been for 3 weeks, you know."
+    },
+    {
+      "id": 90,
+      "start": 275.3,
+      "end": 278.58,
+      "ts": "04:35.300 -> 04:38.580",
+      "jp": "3週間ダラダラしてたら本当に",
+      "jp_html": "3<ruby>週間<rt>しゅうかん</rt></ruby>ダラダラしてたら<ruby>本当<rt>ほんとう</rt></ruby>に",
+      "zh": "如果这三周我:'.$t.' 懒洋洋地过完了真的会怎么样",
+      "en": "If I slacked off for 3 weeks, really..."
+    },
+    {
+      "id": 91,
+      "start": 278.58,
+      "end": 281.32,
+      "ts": "04:38.580 -> 04:41.320",
+      "jp": "アイスクリームのように頭が溶けてきました",
+      "jp_html": "アイスクリームのように<ruby>頭<rt>あたま</rt></ruby>が<ruby>溶け<rt>とけ</rt></ruby>てきました",
+      "zh": "脑袋像冰淇淋一样融化了",
+      "en": "My head feels like it's melting like ice cream."
+    },
+    {
+      "id": 92,
+      "start": 281.32,
+      "end": 285.88,
+      "ts": "04:41.320 -> 04:45.880",
+      "jp": "果たして僕は東京に戻れるのか",
+      "jp_html": "<ruby>果た<rt>はた</rt></ruby>して<ruby>僕は<rt>ぼくは</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>戻れ<rt>もどれ</rt></ruby>るのか",
+      "zh": "我真的能回东京吗",
+      "en": "Can I really return to Tokyo?"
+    },
+    {
+      "id": 93,
+      "start": 285.88,
+      "end": 289.18,
+      "ts": "04:45.880 -> 04:49.180",
+      "jp": "東京で普通の生活ができるのか",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>普通<rt>ふつう</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>ができるのか",
+      "zh": "东京能过上普通的生活吗",
+      "en": "Can I live a normal life in Tokyo?"
+    },
+    {
+      "id": 94,
+      "start": 289.18,
+      "end": 291.92,
+      "ts": "04:49.180 -> 04:51.920",
+      "jp": "ちょっと心配になってきましたけど",
+      "jp_html": "ちょっと<ruby>心配<rt>しんぱい</rt></ruby>になってきましたけど",
+      "zh": "我现在有点担心了",
+      "en": "I'm starting to feel a bit worried."
+    },
+    {
+      "id": 95,
+      "start": 291.92,
+      "end": 295.06,
+      "ts": "04:51.920 -> 04:55.060",
+      "jp": "夏休みとはこういうもんでしょう",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>とはこういうもんでしょう",
+      "zh": "暑假就是这样的吧",
+      "en": "This is what summer vacation is all about."
+    },
+    {
+      "id": 96,
+      "start": 295.06,
+      "end": 296.8,
+      "ts": "04:55.060 -> 04:56.800",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
