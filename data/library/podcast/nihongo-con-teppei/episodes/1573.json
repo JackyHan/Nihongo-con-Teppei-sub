@@ -1,0 +1,584 @@
+{
+  "id": "1573",
+  "title": "#1573「ちょっと僕のMac Bookに問題があります（涙）！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1573.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1573.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/26/1573%e3%80%8c%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8%e5%83%95%e3%81%aemac-book%e3%81%ab%e5%95%8f%e9%a1%8c%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%ef%bc%88%e6%b6%99%ef%bc%89%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.3,
+      "end": 2.88,
+      "ts": "00:01.300 -> 00:02.880",
+      "jp": "シャキーン",
+      "jp_html": "シャキーン",
+      "zh": "唰kening",
+      "en": "Shakien"
+    },
+    {
+      "id": 1,
+      "start": 2.88,
+      "end": 9.4,
+      "ts": "00:02.880 -> 00:09.400",
+      "jp": "今日はちょっと僕のMacBookの問題があります",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ちょっと<ruby>僕<rt>ぼく</rt></ruby>のMacBookの<ruby>問題<rt>もんだい</rt></ruby>があります",
+      "zh": "今天我的 MacBook 有点问题",
+      "en": "Today I have a little problem with my MacBook."
+    },
+    {
+      "id": 2,
+      "start": 9.4,
+      "end": 12.4,
+      "ts": "00:09.400 -> 00:12.400",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 12.4,
+      "end": 15.22,
+      "ts": "00:12.400 -> 00:15.220",
+      "jp": "日本語コンテッペの時間ですが",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですが",
+      "zh": "这是日语会话的时间吧？",
+      "en": "But this is the time for Japanese language practice."
+    },
+    {
+      "id": 4,
+      "start": 15.22,
+      "end": 21.84,
+      "ts": "00:15.220 -> 00:21.840",
+      "jp": "ちょっと僕のMacBook Airに問題が起こってしまって",
+      "jp_html": "ちょっと<ruby>僕<rt>ぼく</rt></ruby>のMacBook Airに<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起こ<rt>おこ</rt></ruby>ってしまって",
+      "zh": "我的MacBook Air出现了一些问题",
+      "en": "There seems to be an issue with my MacBook Air."
+    },
+    {
+      "id": 5,
+      "start": 21.84,
+      "end": 25.9,
+      "ts": "00:21.840 -> 00:25.900",
+      "jp": "スクリーンの下の部分が",
+      "jp_html": "スクリーンの<ruby>下の<rt>したの</rt></ruby><ruby>部分<rt>ぶぶん</rt></ruby>が",
+      "zh": "屏幕下方的部分",
+      "en": "The bottom part of the screen is"
+    },
+    {
+      "id": 6,
+      "start": 25.9,
+      "end": 28.5,
+      "ts": "00:25.900 -> 00:28.500",
+      "jp": "こうチカチカと",
+      "jp_html": "こうチカチカと",
+      "zh": "这样闪烁",
+      "en": "This flickers"
+    },
+    {
+      "id": 7,
+      "start": 28.5,
+      "end": 30.22,
+      "ts": "00:28.500 -> 00:30.220",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 8,
+      "start": 30.22,
+      "end": 32.8,
+      "ts": "00:30.220 -> 00:32.800",
+      "jp": "光ることになってしまいました",
+      "jp_html": "<ruby>光る<rt>ひかる</rt></ruby>ことになってしまいました",
+      "zh": "事情变得明朗了",
+      "en": "It turned out to be a mistake."
+    },
+    {
+      "id": 9,
+      "start": 32.8,
+      "end": 34.44,
+      "ts": "00:32.800 -> 00:34.440",
+      "jp": "そしてそれが",
+      "jp_html": "そしてそれが",
+      "zh": "然后那便",
+      "en": "And then that happened."
+    },
+    {
+      "id": 10,
+      "start": 34.44,
+      "end": 35.8,
+      "ts": "00:34.440 -> 00:35.800",
+      "jp": "ちょっと問題ですね",
+      "jp_html": "ちょっと<ruby>問題<rt>もんだい</rt></ruby>ですね",
+      "zh": "有点问题呢",
+      "en": "There's a little problem, isn't there?"
+    },
+    {
+      "id": 11,
+      "start": 35.8,
+      "end": 37.78,
+      "ts": "00:35.800 -> 00:37.780",
+      "jp": "僕の目が痛いし",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>目<rt>め</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>し",
+      "zh": "我的眼睛疼",
+      "en": "My eyes hurt."
+    },
+    {
+      "id": 12,
+      "start": 37.78,
+      "end": 38.84,
+      "ts": "00:37.780 -> 00:38.840",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 13,
+      "start": 38.84,
+      "end": 42.94,
+      "ts": "00:38.840 -> 00:42.940",
+      "jp": "多分このMacBookを",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>このMacBookを",
+      "zh": "大概这个 MacBook 是",
+      "en": "I think this MacBook to"
+    },
+    {
+      "id": 14,
+      "start": 42.94,
+      "end": 44.76,
+      "ts": "00:42.940 -> 00:44.760",
+      "jp": "修理に出す",
+      "jp_html": "<ruby>修理<rt>しゅうり</rt></ruby>に<ruby>出す<rt>だす</rt></ruby>",
+      "zh": "送去修理",
+      "en": "To send for repair"
+    },
+    {
+      "id": 15,
+      "start": 44.76,
+      "end": 46.32,
+      "ts": "00:44.760 -> 00:46.320",
+      "jp": "そのリペアですね",
+      "jp_html": "そのリペアですね",
+      "zh": "那个修理呢",
+      "en": "That repair, right?"
+    },
+    {
+      "id": 16,
+      "start": 46.32,
+      "end": 47.78,
+      "ts": "00:46.320 -> 00:47.780",
+      "jp": "修理に出す",
+      "jp_html": "<ruby>修理<rt>しゅうり</rt></ruby>に<ruby>出す<rt>だす</rt></ruby>",
+      "zh": "送去修理",
+      "en": "To send for repair"
+    },
+    {
+      "id": 17,
+      "start": 47.78,
+      "end": 50.94,
+      "ts": "00:47.780 -> 00:50.940",
+      "jp": "もしくは新しいのを買う",
+      "jp_html": "もしくは<ruby>新しい<rt>あたらしい</rt></ruby>のを<ruby>買う<rt>かう</rt></ruby>",
+      "zh": "或者买一个新的",
+      "en": "Or buy a new one"
+    },
+    {
+      "id": 18,
+      "start": 50.94,
+      "end": 53.76,
+      "ts": "00:50.940 -> 00:53.760",
+      "jp": "これが必要ですね",
+      "jp_html": "これが<ruby>必要<rt>ひつよう</rt></ruby>ですね",
+      "zh": "这需要呢",
+      "en": "This is necessary."
+    },
+    {
+      "id": 19,
+      "start": 53.76,
+      "end": 56.1,
+      "ts": "00:53.760 -> 00:56.100",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 20,
+      "start": 56.1,
+      "end": 57.8,
+      "ts": "00:56.100 -> 00:57.800",
+      "jp": "今日この後",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>この<ruby>後<rt>のち</rt></ruby>",
+      "zh": "今天这之后",
+      "en": "Today after this"
+    },
+    {
+      "id": 21,
+      "start": 57.8,
+      "end": 61.0,
+      "ts": "00:57.800 -> 01:01.000",
+      "jp": "アップルストアに行ってきます",
+      "jp_html": "アップルストアに<ruby>行って<rt>いって</rt></ruby>きます",
+      "zh": "我去苹果店了",
+      "en": "I'm going to the Apple Store."
+    },
+    {
+      "id": 22,
+      "start": 61.0,
+      "end": 63.32,
+      "ts": "01:01.000 -> 01:03.320",
+      "jp": "新宿のアップルストアに行ってきます",
+      "jp_html": "<ruby>新宿<rt>しんじゅく</rt></ruby>のアップルストアに<ruby>行って<rt>いって</rt></ruby>きます",
+      "zh": "我去新宿苹果商店了",
+      "en": "I'm going to the Apple Store in Shinjuku."
+    },
+    {
+      "id": 23,
+      "start": 63.32,
+      "end": 66.08,
+      "ts": "01:03.320 -> 01:06.080",
+      "jp": "それでちょっと分かりません",
+      "jp_html": "それでちょっと<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "所以有点不明白",
+      "en": "So, I don't quite understand."
+    },
+    {
+      "id": 24,
+      "start": 66.08,
+      "end": 66.92,
+      "ts": "01:06.080 -> 01:06.920",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 25,
+      "start": 66.92,
+      "end": 69.3,
+      "ts": "01:06.920 -> 01:09.300",
+      "jp": "少し",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>",
+      "zh": "稍微",
+      "en": "a little"
+    },
+    {
+      "id": 26,
+      "start": 69.3,
+      "end": 73.96,
+      "ts": "01:09.300 -> 01:13.960",
+      "jp": "ポッドキャストをアップロードすることができないかもしれません",
+      "jp_html": "ポッドキャストをアップロードすることができないかもしれません",
+      "zh": "可能的话上传播客可能会有问题",
+      "en": "You may not be able to upload the podcast."
+    },
+    {
+      "id": 27,
+      "start": 73.96,
+      "end": 76.38,
+      "ts": "01:13.960 -> 01:16.380",
+      "jp": "もしかしたら1週間ぐらい",
+      "jp_html": "もしかしたら1<ruby>週間<rt>しゅうかん</rt></ruby>ぐらい",
+      "zh": "也许一个星期左右",
+      "en": "Maybe for about one week"
+    },
+    {
+      "id": 28,
+      "start": 76.38,
+      "end": 77.7,
+      "ts": "01:16.380 -> 01:17.700",
+      "jp": "もしかしたら",
+      "jp_html": "もしかしたら",
+      "zh": "也许会",
+      "en": "Maybe"
+    },
+    {
+      "id": 29,
+      "start": 77.7,
+      "end": 78.94,
+      "ts": "01:17.700 -> 01:18.940",
+      "jp": "それ以上",
+      "jp_html": "それ<ruby>以上<rt>いじょう</rt></ruby>",
+      "zh": "更多",
+      "en": "more"
+    },
+    {
+      "id": 30,
+      "start": 78.94,
+      "end": 80.3,
+      "ts": "01:18.940 -> 01:20.300",
+      "jp": "ちょっと",
+      "jp_html": "ちょっと",
+      "zh": "稍微",
+      "en": "A little bit"
+    },
+    {
+      "id": 31,
+      "start": 80.3,
+      "end": 83.58,
+      "ts": "01:20.300 -> 01:23.580",
+      "jp": "ポッドキャストアップロードできないかもしれないので",
+      "jp_html": "ポッドキャストアップロードできないかもしれないので",
+      "zh": "可能无法上传播客",
+      "en": "I might not be able to upload the podcast."
+    },
+    {
+      "id": 32,
+      "start": 83.58,
+      "end": 85.56,
+      "ts": "01:23.580 -> 01:25.560",
+      "jp": "ちょっと待っててください",
+      "jp_html": "ちょっと<ruby>待っ<rt>まっ</rt></ruby>ててください",
+      "zh": "请稍等一下",
+      "en": "Please wait a moment."
+    },
+    {
+      "id": 33,
+      "start": 85.56,
+      "end": 87.22,
+      "ts": "01:25.560 -> 01:27.220",
+      "jp": "ちょっと待っててください",
+      "jp_html": "ちょっと<ruby>待っ<rt>まっ</rt></ruby>ててください",
+      "zh": "请稍等一下",
+      "en": "Please wait a moment."
+    },
+    {
+      "id": 34,
+      "start": 87.22,
+      "end": 90.72,
+      "ts": "01:27.220 -> 01:30.720",
+      "jp": "これは僕も本当に嫌なことなんですね",
+      "jp_html": "これは<ruby>僕<rt>ぼく</rt></ruby>も<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>嫌な<rt>いやな</rt></ruby>ことなんですね",
+      "zh": "这真是我也不喜欢的事情呢",
+      "en": "This is really something I don't like either."
+    },
+    {
+      "id": 35,
+      "start": 90.72,
+      "end": 91.88,
+      "ts": "01:30.720 -> 01:31.880",
+      "jp": "でも仕方がない",
+      "jp_html": "でも<ruby>仕方<rt>しかた</rt></ruby>がない",
+      "zh": "也没办法",
+      "en": "But there's nothing we can do about it."
+    },
+    {
+      "id": 36,
+      "start": 91.88,
+      "end": 93.98,
+      "ts": "01:31.880 -> 01:33.980",
+      "jp": "壊れたからね",
+      "jp_html": "<ruby>壊れ<rt>こわれ</rt></ruby>たからね",
+      "zh": "因为坏了。",
+      "en": "Because it's broken."
+    },
+    {
+      "id": 37,
+      "start": 93.98,
+      "end": 96.54,
+      "ts": "01:33.980 -> 01:36.540",
+      "jp": "パソコンがちょっと壊れた",
+      "jp_html": "パソコンがちょっと<ruby>壊れ<rt>こわれ</rt></ruby>た",
+      "zh": "电脑稍微坏了",
+      "en": "My computer is a little broken."
+    },
+    {
+      "id": 38,
+      "start": 96.54,
+      "end": 100.18,
+      "ts": "01:36.540 -> 01:40.180",
+      "jp": "なのでちょっと待ってください",
+      "jp_html": "なのでちょっと<ruby>待っ<rt>まっ</rt></ruby>てください",
+      "zh": "所以请稍等一下",
+      "en": "So please wait a moment."
+    },
+    {
+      "id": 39,
+      "start": 100.18,
+      "end": 106.69,
+      "ts": "01:40.180 -> 01:46.690",
+      "jp": "だから今までのちょっとストックですね",
+      "jp_html": "だから<ruby>今まで<rt>いままで</rt></ruby>のちょっとストックですね",
+      "zh": "所以就是之前攒了一点存货吧",
+      "en": "So it's kind of stockpiling for now."
+    },
+    {
+      "id": 40,
+      "start": 106.69,
+      "end": 108.75,
+      "ts": "01:46.690 -> 01:48.750",
+      "jp": "たくさんアップロードしました",
+      "jp_html": "たくさんアップロードしました",
+      "zh": "我上传了很多东西",
+      "en": "I uploaded a lot."
+    },
+    {
+      "id": 41,
+      "start": 108.75,
+      "end": 113.89,
+      "ts": "01:48.750 -> 01:53.890",
+      "jp": "なので田舎日記たくさん聞いてください",
+      "jp_html": "なので<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>たくさん<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "所以请多听一些乡村日记",
+      "en": "So please listen to many rural diaries."
+    },
+    {
+      "id": 42,
+      "start": 113.89,
+      "end": 119.13,
+      "ts": "01:53.890 -> 01:59.130",
+      "jp": "そして今までのたくさんのポッドキャストがあるので",
+      "jp_html": "そして<ruby>今まで<rt>いままで</rt></ruby>のたくさんのポッドキャストがあるので",
+      "zh": "然后之前有很多podcast",
+      "en": "And there are so many podcasts from before."
+    },
+    {
+      "id": 43,
+      "start": 119.13,
+      "end": 120.41,
+      "ts": "01:59.130 -> 02:00.410",
+      "jp": "それを聞いてください",
+      "jp_html": "それを<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请听清楚",
+      "en": "Listen to that."
+    },
+    {
+      "id": 44,
+      "start": 120.41,
+      "end": 123.19,
+      "ts": "02:00.410 -> 02:03.190",
+      "jp": "それを何回も何回も聞いてください",
+      "jp_html": "それを<ruby>何回<rt>なんかい</rt></ruby>も<ruby>何回<rt>なんかい</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请反复问这个问题",
+      "en": "Please ask it repeatedly."
+    },
+    {
+      "id": 45,
+      "start": 123.19,
+      "end": 132.78,
+      "ts": "02:03.190 -> 02:12.780",
+      "jp": "必ずまたアップロードできるように戻ってくるので",
+      "jp_html": "<ruby>必ず<rt>かならず</rt></ruby>またアップロードできるように<ruby>戻っ<rt>もどっ</rt></ruby>てくるので",
+      "zh": "一定会回来再上传的",
+      "en": "I will come back so that you can upload it again."
+    },
+    {
+      "id": 46,
+      "start": 132.78,
+      "end": 134.54,
+      "ts": "02:12.780 -> 02:14.540",
+      "jp": "ちょっと待っててくださいね",
+      "jp_html": "ちょっと<ruby>待っ<rt>まっ</rt></ruby>ててくださいね",
+      "zh": "请稍等一下呢",
+      "en": "Please wait a moment."
+    },
+    {
+      "id": 47,
+      "start": 134.54,
+      "end": 135.56,
+      "ts": "02:14.540 -> 02:15.560",
+      "jp": "ちょっと待っててください",
+      "jp_html": "ちょっと<ruby>待っ<rt>まっ</rt></ruby>ててください",
+      "zh": "请稍等一下",
+      "en": "Please wait a moment."
+    },
+    {
+      "id": 48,
+      "start": 135.56,
+      "end": 139.1,
+      "ts": "02:15.560 -> 02:19.100",
+      "jp": "というわけで皆さんいつもいつもありがとうございます",
+      "jp_html": "というわけで<ruby>皆さん<rt>みなさん</rt></ruby>いつもいつもありがとうございます",
+      "zh": "因此，大家常常谢谢你们",
+      "en": "Therefore, I would like to thank you all very much as always."
+    },
+    {
+      "id": 49,
+      "start": 139.1,
+      "end": 142.62,
+      "ts": "02:19.100 -> 02:22.620",
+      "jp": "皆さんのサポートのおかげで",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>のサポートのおかげで",
+      "zh": "多亏了各位的支持",
+      "en": "Thanks to your support"
+    },
+    {
+      "id": 50,
+      "start": 142.62,
+      "end": 147.32,
+      "ts": "02:22.620 -> 02:27.320",
+      "jp": "僕は新しいMacBookを買うことができるのかな",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby>MacBookを<ruby>買う<rt>かう</rt></ruby>ことができるのかな",
+      "zh": "我能够买得起新的MacBook吗",
+      "en": "I can buy a new MacBook, right?"
+    },
+    {
+      "id": 51,
+      "start": 147.32,
+      "end": 149.44,
+      "ts": "02:27.320 -> 02:29.440",
+      "jp": "多分できると思います",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>できると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想能行",
+      "en": "I think I can do it."
+    },
+    {
+      "id": 52,
+      "start": 149.44,
+      "end": 152.94,
+      "ts": "02:29.440 -> 02:32.940",
+      "jp": "もしよかったらドネーションよろしくお願いします",
+      "jp_html": "もしよかったらドネーションよろしくお<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "如果你愿意，请多多捐赠。",
+      "en": "If you'd like, please consider a donation."
+    },
+    {
+      "id": 53,
+      "start": 152.94,
+      "end": 157.52,
+      "ts": "02:32.940 -> 02:37.520",
+      "jp": "パトレオンコーフィーよろしくお願いします",
+      "jp_html": "パトレオンコーフィーよろしくお<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "请多多指教帕atreon科菲",
+      "en": "Please be kind to the Patron Corps."
+    },
+    {
+      "id": 54,
+      "start": 157.52,
+      "end": 159.04,
+      "ts": "02:37.520 -> 02:39.040",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    },
+    {
+      "id": 55,
+      "start": 159.04,
+      "end": 161.54,
+      "ts": "02:39.040 -> 02:41.540",
+      "jp": "さようならまたすぐに",
+      "jp_html": "さようならまたすぐに",
+      "zh": "再见不久见",
+      "en": "Goodbye see you soon"
+    },
+    {
+      "id": 56,
+      "start": 161.54,
+      "end": 163.34,
+      "ts": "02:41.540 -> 02:43.340",
+      "jp": "またねまたねまたね",
+      "jp_html": "またねまたねまたね",
+      "zh": "再见再见再见",
+      "en": "See you see you see you"
+    }
+  ]
+}

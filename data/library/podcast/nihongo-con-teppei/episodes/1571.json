@@ -1,0 +1,824 @@
+{
+  "id": "1571",
+  "title": "#1571「田舎日記16」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1571.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1571.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/26/1571%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9816%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.26,
+      "end": 2.9,
+      "ts": "00:01.260 -> 00:02.900",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 2.9,
+      "end": 9.6,
+      "ts": "00:02.900 -> 00:09.600",
+      "jp": "今日も田舎日記遊園地に行ってきた話について",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby><ruby>遊園地<rt>ゆうえんち</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>きた<ruby>話<rt>はなし</rt></ruby>について",
+      "zh": "今天又去了乡村日记游乐园的故事",
+      "en": "Today, I went to the Countryside Diary Amusement Park and wanted to talk about it."
+    },
+    {
+      "id": 2,
+      "start": 9.6,
+      "end": 12.42,
+      "ts": "00:09.600 -> 00:12.420",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 12.42,
+      "end": 16.56,
+      "ts": "00:12.420 -> 00:16.560",
+      "jp": "田舎日記最後の週末でした",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby><ruby>最後<rt>さいご</rt></ruby>の<ruby>週末<rt>しゅうまつ</rt></ruby>でした",
+      "zh": "这是乡村日记的最后一周周末",
+      "en": "It was the last weekend of the countryside diary."
+    },
+    {
+      "id": 4,
+      "start": 16.56,
+      "end": 21.26,
+      "ts": "00:16.560 -> 00:21.260",
+      "jp": "最後の週末は遊園地に行ってきました",
+      "jp_html": "<ruby>最後<rt>さいご</rt></ruby>の<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>遊園地<rt>ゆうえんち</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>きました",
+      "zh": "最后一个周末我们去了游乐园",
+      "en": "We went to the amusement park last weekend."
+    },
+    {
+      "id": 5,
+      "start": 21.92,
+      "end": 24.58,
+      "ts": "00:21.920 -> 00:24.580",
+      "jp": "大分県にある遊園地ね",
+      "jp_html": "<ruby>大分県<rt>おおいたけん</rt></ruby>にある<ruby>遊園地<rt>ゆうえんち</rt></ruby>ね",
+      "zh": "位于大分县的游乐园呢",
+      "en": "Amusement park in Fukuoka Prefecture, Japan"
+    },
+    {
+      "id": 6,
+      "start": 24.58,
+      "end": 26.98,
+      "ts": "00:24.580 -> 00:26.980",
+      "jp": "めちゃめちゃ疲れました",
+      "jp_html": "めちゃめちゃ<ruby>疲れ<rt>つかれ</rt></ruby>ました",
+      "zh": "累死了",
+      "en": "I'm really tired."
+    },
+    {
+      "id": 7,
+      "start": 26.98,
+      "end": 32.34,
+      "ts": "00:26.980 -> 00:32.340",
+      "jp": "まあ暑かったし",
+      "jp_html": "まあ<ruby>暑か<rt>あつか</rt></ruby>ったし",
+      "zh": "哎，确实很热",
+      "en": "Well, it was pretty hot."
+    },
+    {
+      "id": 8,
+      "start": 32.34,
+      "end": 36.88,
+      "ts": "00:32.340 -> 00:36.880",
+      "jp": "人はねまあまあ多かった",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>はねまあまあ<ruby>多か<rt>おおか</rt></ruby>った",
+      "zh": "人可真不少",
+      "en": "People were quite a lot."
+    },
+    {
+      "id": 9,
+      "start": 36.88,
+      "end": 44.24,
+      "ts": "00:36.880 -> 00:44.240",
+      "jp": "もちろん東京ディズニーランドとかに比べると全然少ないです",
+      "jp_html": "もちろん<ruby>東京<rt>とうきょう</rt></ruby>ディズニーランドとかに<ruby>比べ<rt>くらべ</rt></ruby>ると<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>少ない<rt>すくない</rt></ruby>です",
+      "zh": "当然，和东京迪士尼乐园相比要少得多。",
+      "en": "Of course, compared to Tokyo Disneyland, it's much fewer."
+    },
+    {
+      "id": 10,
+      "start": 44.24,
+      "end": 47.46,
+      "ts": "00:44.240 -> 00:47.460",
+      "jp": "だけどまあまあ人がいました",
+      "jp_html": "だけどまあまあ<ruby>人<rt>にん</rt></ruby>がいました",
+      "zh": "但是人还是挺多的",
+      "en": "But anyway, there were quite a few people."
+    },
+    {
+      "id": 11,
+      "start": 49.46,
+      "end": 56.74,
+      "ts": "00:49.460 -> 00:56.740",
+      "jp": "そこで子供たちはジェットコースターローラーコースターなんかいろいろなのに乗ってたんですけど",
+      "jp_html": "そこで<ruby>子供<rt>こども</rt></ruby>たちはジェットコースターローラーコースターなんかいろいろなのに<ruby>乗って<rt>のって</rt></ruby>たんですけど",
+      "zh": "孩子们在那里乘了各种过山车，比如激流勇进和旋转木马之类的",
+      "en": "So the children were riding various things like roller coasters and jet coasters."
+    },
+    {
+      "id": 12,
+      "start": 56.74,
+      "end": 60.72,
+      "ts": "00:56.740 -> 01:00.720",
+      "jp": "実は僕は結構苦手なんですね",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>苦手<rt>にがて</rt></ruby>なんですね",
+      "zh": "其实我挺不喜欢的",
+      "en": "Honestly, I'm quite uncomfortable with that."
+    },
+    {
+      "id": 13,
+      "start": 60.72,
+      "end": 66.86,
+      "ts": "01:00.720 -> 01:06.860",
+      "jp": "苦手の理由は怖いからというのもあるけど",
+      "jp_html": "<ruby>苦手<rt>にがて</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は<ruby>怖い<rt>こわい</rt></ruby>からというのもあるけど",
+      "zh": "害怕的原因也是其中之一",
+      "en": "One reason why I dislike it is because it's scary."
+    },
+    {
+      "id": 14,
+      "start": 66.86,
+      "end": 70.82,
+      "ts": "01:06.860 -> 01:10.820",
+      "jp": "どちらかといえば気持ちが悪くなるんですよね",
+      "jp_html": "どちらかといえば<ruby>気持ち<rt>きもち</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なるんですよね",
+      "zh": "总觉得不舒服",
+      "en": "It's more upsetting to me, though."
+    },
+    {
+      "id": 15,
+      "start": 70.82,
+      "end": 75.0,
+      "ts": "01:10.820 -> 01:15.000",
+      "jp": "僕は車も結構苦手で",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>車<rt>くるま</rt></ruby>も<ruby>結構<rt>けっこう</rt></ruby><ruby>苦手<rt>にがて</rt></ruby>で",
+      "zh": "我也不太擅长开车",
+      "en": "I am also not very comfortable with cars."
+    },
+    {
+      "id": 16,
+      "start": 75.0,
+      "end": 78.68,
+      "ts": "01:15.000 -> 01:18.680",
+      "jp": "例えば車に乗って山の中の道",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>車<rt>くるま</rt></ruby>に<ruby>乗って<rt>のって</rt></ruby><ruby>山<rt>やま</rt></ruby>の<ruby>中の<rt>なかの</rt></ruby><ruby>道<rt>みち</rt></ruby>",
+      "zh": "比如开车在山中的道路",
+      "en": "For example, driving on a road in the mountains"
+    },
+    {
+      "id": 17,
+      "start": 78.68,
+      "end": 80.56,
+      "ts": "01:18.680 -> 01:20.560",
+      "jp": "山道と言いますね",
+      "jp_html": "<ruby>山道<rt>やまみち</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ますね",
+      "zh": "叫做山路吧",
+      "en": "They call it a mountain path, doesn't it?"
+    },
+    {
+      "id": 18,
+      "start": 80.56,
+      "end": 85.82,
+      "ts": "01:20.560 -> 01:25.820",
+      "jp": "車で山道を走るとぐるぐるぐるぐる回るでしょ",
+      "jp_html": "<ruby>車<rt>くるま</rt></ruby>で<ruby>山道<rt>やまみち</rt></ruby>を<ruby>走る<rt>はしる</rt></ruby>とぐるぐるぐるぐる<ruby>回る<rt>まわる</rt></ruby>でしょ",
+      "zh": "开车上山路就会转来转去的吧",
+      "en": "When you drive on mountain roads, it feels like you're spinning round and round, right?"
+    },
+    {
+      "id": 19,
+      "start": 85.82,
+      "end": 89.46,
+      "ts": "01:25.820 -> 01:29.460",
+      "jp": "曲がりますよねぐるぐる曲がる",
+      "jp_html": "<ruby>曲がり<rt>まがり</rt></ruby>ますよねぐるぐる<ruby>曲がる<rt>まがる</rt></ruby>",
+      "zh": "它会转弯吧，弯弯曲曲地转",
+      "en": "Does it turn? It turns round and round."
+    },
+    {
+      "id": 20,
+      "start": 89.46,
+      "end": 92.96,
+      "ts": "01:29.460 -> 01:32.960",
+      "jp": "そこで気持ちが悪くなる",
+      "jp_html": "そこで<ruby>気持ち<rt>きもち</rt></ruby>が<ruby>悪く<rt>わるく</rt></ruby>なる",
+      "zh": "在那里会感到不适",
+      "en": "Then I feel sick."
+    },
+    {
+      "id": 21,
+      "start": 92.96,
+      "end": 96.02,
+      "ts": "01:32.960 -> 01:36.020",
+      "jp": "気持ち悪いなってしまう",
+      "jp_html": "<ruby>気持ち悪い<rt>きもちわるい</rt></ruby>なってしまう",
+      "zh": "感觉有些恶心",
+      "en": "It becomes creepy."
+    },
+    {
+      "id": 22,
+      "start": 96.02,
+      "end": 97.54,
+      "ts": "01:36.020 -> 01:37.540",
+      "jp": "船とかもダメですね",
+      "jp_html": "<ruby>船<rt>ふね</rt></ruby>とかもダメですね",
+      "zh": "船也行不通呢",
+      "en": "Even ships don't work, right?"
+    },
+    {
+      "id": 23,
+      "start": 97.54,
+      "end": 104.48,
+      "ts": "01:37.540 -> 01:44.480",
+      "jp": "船とか山道の車とかバスとか",
+      "jp_html": "<ruby>船<rt>ふね</rt></ruby>とか<ruby>山道<rt>やまみち</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>とかバスとか",
+      "zh": "船或者山路的车或者巴士",
+      "en": "boats or cars on mountain roads or buses"
+    },
+    {
+      "id": 24,
+      "start": 104.48,
+      "end": 110.5,
+      "ts": "01:44.480 -> 01:50.500",
+      "jp": "結構乗り物が乗り物を酔いをしますね",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>乗り物<rt>のりもの</rt></ruby>が<ruby>乗り物<rt>のりもの</rt></ruby>を<ruby>酔い<rt>よい</rt></ruby>をしますね",
+      "zh": "结构的交通工具会使你晕车呢",
+      "en": "The structure of vehicles makes you feel dizzy, right?"
+    },
+    {
+      "id": 25,
+      "start": 110.5,
+      "end": 113.34,
+      "ts": "01:50.500 -> 01:53.340",
+      "jp": "僕は乗り物に弱い",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>乗り物<rt>のりもの</rt></ruby>に<ruby>弱い<rt>よわい</rt></ruby>",
+      "zh": "我对交通工具过敏",
+      "en": "I am weak to vehicles."
+    },
+    {
+      "id": 26,
+      "start": 113.34,
+      "end": 118.14,
+      "ts": "01:53.340 -> 01:58.140",
+      "jp": "で同じようにその遊園地テーマパークのね",
+      "jp_html": "で<ruby>同じ<rt>おなじ</rt></ruby>ようにその<ruby>遊園地<rt>ゆうえんち</rt></ruby>テーマパークのね",
+      "zh": "就这样，那个游乐园的主题公园也是这样的吧？",
+      "en": "So similarly, that amusement park theme park, ne?"
+    },
+    {
+      "id": 27,
+      "start": 118.14,
+      "end": 121.32,
+      "ts": "01:58.140 -> 02:01.320",
+      "jp": "遊園地のジェットコースターとか",
+      "jp_html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>のジェットコースターとか",
+      "zh": "游乐园的过山车之类的",
+      "en": "Amusement park roller coasters"
+    },
+    {
+      "id": 28,
+      "start": 121.32,
+      "end": 123.4,
+      "ts": "02:01.320 -> 02:03.400",
+      "jp": "あのコーヒーカップとかね",
+      "jp_html": "あのコーヒーカップとかね",
+      "zh": "那个咖啡杯啊",
+      "en": "Those coffee cups, you know?"
+    },
+    {
+      "id": 29,
+      "start": 123.4,
+      "end": 126.26,
+      "ts": "02:03.400 -> 02:06.260",
+      "jp": "コーヒーカップはマジでやばいですね",
+      "jp_html": "コーヒーカップはマジでやばいですね",
+      "zh": "咖啡杯真的paralleled呢:numel",
+      "en": "The coffee cup is really dangerous, you know?"
+    },
+    {
+      "id": 30,
+      "start": 126.26,
+      "end": 128.42,
+      "ts": "02:06.260 -> 02:08.420",
+      "jp": "コーヒーカップはもう",
+      "jp_html": "コーヒーカップはもう",
+      "zh": "咖啡杯已经",
+      "en": "The coffee cup is already."
+    },
+    {
+      "id": 31,
+      "start": 128.42,
+      "end": 130.74,
+      "ts": "02:08.420 -> 02:10.740",
+      "jp": "まあ無理ですね",
+      "jp_html": "まあ<ruby>無理<rt>むり</rt></ruby>ですね",
+      "zh": "唉，办不到吧",
+      "en": "It's probably impossible."
+    },
+    {
+      "id": 32,
+      "start": 130.74,
+      "end": 136.66,
+      "ts": "02:10.740 -> 02:16.660",
+      "jp": "コーヒーカップの前に何かを食べたら",
+      "jp_html": "コーヒーカップの<ruby>前<rt>まえ</rt></ruby>に<ruby>何か<rt>なにか</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>ら",
+      "zh": "在咖啡杯前吃了些什么",
+      "en": "If you eat something in front of the coffee cup"
+    },
+    {
+      "id": 33,
+      "start": 136.66,
+      "end": 139.66,
+      "ts": "02:16.660 -> 02:19.660",
+      "jp": "必ずウェーってなっちゃうし",
+      "jp_html": "<ruby>必ず<rt>かならず</rt></ruby>ウェーってなっちゃうし",
+      "zh": "总是会啊呜一声",
+      "en": "You always end up saying \"wee\"."
+    },
+    {
+      "id": 34,
+      "start": 139.66,
+      "end": 140.82,
+      "ts": "02:19.660 -> 02:20.820",
+      "jp": "まあ汚いね",
+      "jp_html": "まあ<ruby>汚い<rt>きたない</rt></ruby>ね",
+      "zh": "哎，真脏啊",
+      "en": "Well, it's pretty dirty, huh?"
+    },
+    {
+      "id": 35,
+      "start": 140.82,
+      "end": 142.4,
+      "ts": "02:20.820 -> 02:22.400",
+      "jp": "ウェーってなっちゃうし",
+      "jp_html": "ウェーってなっちゃうし",
+      "zh": "结果就变成了那样",
+      "en": "We end up doing it anyway."
+    },
+    {
+      "id": 36,
+      "start": 142.4,
+      "end": 148.44,
+      "ts": "02:22.400 -> 02:28.440",
+      "jp": "コーヒーカップをするとその後絶対食べられないですよね",
+      "jp_html": "コーヒーカップをするとその<ruby>後<rt>のち</rt></ruby><ruby>絶対<rt>ぜったい</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>られないですよね",
+      "zh": "拿咖啡杯之后绝对不会再吃了吧？",
+      "en": "Don't you always end up not eating after you get a coffee cup?"
+    },
+    {
+      "id": 37,
+      "start": 148.44,
+      "end": 149.92,
+      "ts": "02:28.440 -> 02:29.920",
+      "jp": "コーヒーカップ知ってますよね",
+      "jp_html": "コーヒーカップ<ruby>知って<rt>しって</rt></ruby>ますよね",
+      "zh": "你知道咖啡杯吧",
+      "en": "Do you know about coffee cups?"
+    },
+    {
+      "id": 38,
+      "start": 149.92,
+      "end": 158.2,
+      "ts": "02:29.920 -> 02:38.200",
+      "jp": "コーヒーカップの中にでっかいコーヒーカップの中に2人とかで入りますよね",
+      "jp_html": "コーヒーカップの<ruby>中に<rt>なかに</rt></ruby>でっかいコーヒーカップの<ruby>中に<rt>なかに</rt></ruby>2<ruby>人<rt>にん</rt></ruby>とかで<ruby>入り<rt>いり</rt></ruby>ますよね",
+      "zh": "咖啡杯里能放进两个杯子，对吧？",
+      "en": "Coffee cups can fit two people, right?"
+    },
+    {
+      "id": 39,
+      "start": 158.2,
+      "end": 162.74,
+      "ts": "02:38.200 -> 02:42.740",
+      "jp": "そしてハンドルがあるんですよね",
+      "jp_html": "そしてハンドルがあるんですよね",
+      "zh": "然后把手柄给找到了呢",
+      "en": "And there is a handle, right?"
+    },
+    {
+      "id": 40,
+      "start": 162.74,
+      "end": 166.48,
+      "ts": "02:42.740 -> 02:46.480",
+      "jp": "それをぐるぐる回すんですね",
+      "jp_html": "それをぐるぐる<ruby>回す<rt>まわす</rt></ruby>んですね",
+      "zh": "原来是要围着圈转啊",
+      "en": "You spin it around, huh?"
+    },
+    {
+      "id": 41,
+      "start": 166.48,
+      "end": 169.08,
+      "ts": "02:46.480 -> 02:49.080",
+      "jp": "不思議な現象です",
+      "jp_html": "<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>現象<rt>げんしょう</rt></ruby>です",
+      "zh": "这是一个奇怪的现象",
+      "en": "It's a mysterious phenomenon."
+    },
+    {
+      "id": 42,
+      "start": 169.08,
+      "end": 173.8,
+      "ts": "02:49.080 -> 02:53.800",
+      "jp": "まずコーヒーカップが多分10ぐらい乗ってるんですね",
+      "jp_html": "まずコーヒーカップが<ruby>多分<rt>たぶん</rt></ruby>10ぐらい<ruby>乗って<rt>のって</rt></ruby>るんですね",
+      "zh": "看来那里大概有十多个咖啡杯吧",
+      "en": "There are probably about 10 coffee cups, right?"
+    },
+    {
+      "id": 43,
+      "start": 173.8,
+      "end": 177.3,
+      "ts": "02:53.800 -> 02:57.300",
+      "jp": "それがメリーゴーランドみたいにぐるぐる回っている",
+      "jp_html": "それがメリーゴーランドみたいにぐるぐる<ruby>回っ<rt>まわっ</rt></ruby>ている",
+      "zh": "那就像 merry-go-round 一样咕噜咕噜转着",
+      "en": "That's spinning around like a merry-go-round."
+    },
+    {
+      "id": 44,
+      "start": 177.3,
+      "end": 182.22,
+      "ts": "02:57.300 -> 03:02.220",
+      "jp": "さらにそれぞれのコーヒーカップが回転している",
+      "jp_html": "さらにそれぞれのコーヒーカップが<ruby>回転<rt>かいてん</rt></ruby>している",
+      "zh": "而且每个咖啡杯都在旋转",
+      "en": "Furthermore, each coffee cup is spinning."
+    },
+    {
+      "id": 45,
+      "start": 182.22,
+      "end": 184.3,
+      "ts": "03:02.220 -> 03:04.300",
+      "jp": "まるで宇宙みたいね",
+      "jp_html": "まるで<ruby>宇宙<rt>うちゅう</rt></ruby>みたいね",
+      "zh": "就像宇宙一样呢",
+      "en": "It's like space, isn't it?"
+    },
+    {
+      "id": 46,
+      "start": 184.3,
+      "end": 186.42,
+      "ts": "03:04.300 -> 03:06.420",
+      "jp": "宇宙の中で",
+      "jp_html": "<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で",
+      "zh": "宇宙中里",
+      "en": "In the universe"
+    },
+    {
+      "id": 47,
+      "start": 186.42,
+      "end": 189.48,
+      "ts": "03:06.420 -> 03:09.480",
+      "jp": "例えば地球の周りを",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>を",
+      "zh": "例如围绕地球",
+      "en": "For example, around the Earth"
+    },
+    {
+      "id": 48,
+      "start": 189.48,
+      "end": 193.7,
+      "ts": "03:09.480 -> 03:13.700",
+      "jp": "太陽の周りを地球とかが回ってますよね",
+      "jp_html": "<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>を<ruby>地球<rt>ちきゅう</rt></ruby>とかが<ruby>回っ<rt>まわっ</rt></ruby>てますよね",
+      "zh": "地球围着太阳转，对吧？",
+      "en": "The Earth and other planets orbit around the sun, right?"
+    },
+    {
+      "id": 49,
+      "start": 193.7,
+      "end": 196.38,
+      "ts": "03:13.700 -> 03:16.380",
+      "jp": "そして地球の周りを月が回ってるでしょ",
+      "jp_html": "そして<ruby>地球<rt>ちきゅう</rt></ruby>の<ruby>周り<rt>まわり</rt></ruby>を<ruby>月<rt>がつ</rt></ruby>が<ruby>回っ<rt>まわっ</rt></ruby>てるでしょ",
+      "zh": "然后月亮绕着地球转对吧",
+      "en": "And the moon is orbiting around the Earth, right?"
+    },
+    {
+      "id": 50,
+      "start": 196.66,
+      "end": 198.74,
+      "ts": "03:16.660 -> 03:18.740",
+      "jp": "でもそれぞれも回ってるんですよね",
+      "jp_html": "でもそれぞれも<ruby>回っ<rt>まわっ</rt></ruby>てるんですよね",
+      "zh": "但每个都在转啊",
+      "en": "But they are all spinning, right?"
+    },
+    {
+      "id": 51,
+      "start": 198.74,
+      "end": 200.16,
+      "ts": "03:18.740 -> 03:20.160",
+      "jp": "そんな感じ",
+      "jp_html": "そんな<ruby>感じ<rt>かんじ</rt></ruby>",
+      "zh": "这样的感觉",
+      "en": "That kind of feeling"
+    },
+    {
+      "id": 52,
+      "start": 200.16,
+      "end": 202.68,
+      "ts": "03:20.160 -> 03:22.680",
+      "jp": "もう考えただけで頭痛くなってきた",
+      "jp_html": "もう<ruby>考え<rt>かんがえ</rt></ruby>ただけで<ruby>頭痛<rt>ずつう</rt></ruby>くなってきた",
+      "zh": "仅仅一想到就头痛起来了",
+      "en": "Just thinking about it gives me a headache."
+    },
+    {
+      "id": 53,
+      "start": 202.68,
+      "end": 206.66,
+      "ts": "03:22.680 -> 03:26.660",
+      "jp": "考えるだけで頭が痛くなってきました",
+      "jp_html": "<ruby>考え<rt>かんがえ</rt></ruby>るだけで<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛く<rt>いたく</rt></ruby>なってきました",
+      "zh": "光想想头就疼了",
+      "en": "Just thinking about it gives me a headache."
+    },
+    {
+      "id": 54,
+      "start": 206.66,
+      "end": 209.08,
+      "ts": "03:26.660 -> 03:29.080",
+      "jp": "まあとにかく僕はやらない",
+      "jp_html": "まあとにかく<ruby>僕は<rt>ぼくは</rt></ruby>やらない",
+      "zh": "总之我不会做",
+      "en": "Anyway, I won't do it."
+    },
+    {
+      "id": 55,
+      "start": 209.08,
+      "end": 210.14,
+      "ts": "03:29.080 -> 03:30.140",
+      "jp": "そういうのはやらない",
+      "jp_html": "そういうのはやらない",
+      "zh": "这种事不做",
+      "en": "I don't do that kind of thing."
+    },
+    {
+      "id": 56,
+      "start": 210.14,
+      "end": 211.66,
+      "ts": "03:30.140 -> 03:31.660",
+      "jp": "で子供たちがやって",
+      "jp_html": "で<ruby>子供<rt>こども</rt></ruby>たちがやって",
+      "zh": "孩子们来了",
+      "en": "Then the children came"
+    },
+    {
+      "id": 57,
+      "start": 211.66,
+      "end": 214.78,
+      "ts": "03:31.660 -> 03:34.780",
+      "jp": "まあ僕の友達もちょっと乗ったりして",
+      "jp_html": "まあ<ruby>僕<rt>ぼく</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>もちょっと<ruby>乗っ<rt>じょうっ</rt></ruby>たりして",
+      "zh": "我的朋友也偶尔会坐一下",
+      "en": "Well, my friends also gave it a try sometimes."
+    },
+    {
+      "id": 58,
+      "start": 214.78,
+      "end": 217.74,
+      "ts": "03:34.780 -> 03:37.740",
+      "jp": "あのー一日過ごしました",
+      "jp_html": "あのー<ruby>一日<rt>ついたち</rt></ruby><ruby>過ご<rt>すご</rt></ruby>しました",
+      "zh": "我度过了有一天的时间",
+      "en": "I spent the day, um..."
+    },
+    {
+      "id": 59,
+      "start": 217.74,
+      "end": 219.86,
+      "ts": "03:37.740 -> 03:39.860",
+      "jp": "疲れたな",
+      "jp_html": "<ruby>疲れ<rt>つかれ</rt></ruby>たな",
+      "zh": "好累啊",
+      "en": "I'm tired."
+    },
+    {
+      "id": 60,
+      "start": 219.86,
+      "end": 222.18,
+      "ts": "03:39.860 -> 03:42.180",
+      "jp": "遊園地は疲れますね",
+      "jp_html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>は<ruby>疲れ<rt>つかれ</rt></ruby>ますね",
+      "zh": "游乐园让人累了呢",
+      "en": "The amusement park is tiring, isn't it?"
+    },
+    {
+      "id": 61,
+      "start": 222.18,
+      "end": 223.96,
+      "ts": "03:42.180 -> 03:43.960",
+      "jp": "不思議なことに",
+      "jp_html": "<ruby>不思議<rt>ふしぎ</rt></ruby>なことに",
+      "zh": "奇妙的是",
+      "en": "By accident"
+    },
+    {
+      "id": 62,
+      "start": 223.96,
+      "end": 225.26,
+      "ts": "03:43.960 -> 03:45.260",
+      "jp": "まあ家に帰って",
+      "jp_html": "まあ<ruby>家<rt>いえ</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>て",
+      "zh": "回家吧",
+      "en": "Well, let's go home."
+    },
+    {
+      "id": 63,
+      "start": 225.26,
+      "end": 227.54,
+      "ts": "03:45.260 -> 03:47.540",
+      "jp": "まあ夜眠るときね",
+      "jp_html": "まあ<ruby>夜<rt>よる</rt></ruby><ruby>眠る<rt>ねむる</rt></ruby>ときね",
+      "zh": "晚上睡觉的时候呢",
+      "en": "Well, we sleep at night."
+    },
+    {
+      "id": 64,
+      "start": 227.54,
+      "end": 232.3,
+      "ts": "03:47.540 -> 03:52.300",
+      "jp": "あの夢の中でも僕は遊園地にいました",
+      "jp_html": "あの<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも<ruby>僕は<rt>ぼくは</rt></ruby><ruby>遊園地<rt>ゆうえんち</rt></ruby>にいました",
+      "zh": "那个梦中我也在游乐园里",
+      "en": "In that dream, I was at the amusement park."
+    },
+    {
+      "id": 65,
+      "start": 232.3,
+      "end": 239.16,
+      "ts": "03:52.300 -> 03:59.160",
+      "jp": "でコーヒーカップじゃないけど夢の中でローラーコースターに乗っていた",
+      "jp_html": "でコーヒーカップじゃないけど<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でローラーコースターに<ruby>乗って<rt>のって</rt></ruby>いた",
+      "zh": "虽然不是咖啡杯，但在梦中我乘了过山车",
+      "en": "Though it's not a coffee cup, in my dream I was riding a roller coaster."
+    },
+    {
+      "id": 66,
+      "start": 239.16,
+      "end": 246.22,
+      "ts": "03:59.160 -> 04:06.220",
+      "jp": "本物の遊園地では現実の遊園地では僕はローラーコースター乗ってないんですよね",
+      "jp_html": "<ruby>本物<rt>ほんもの</rt></ruby>の<ruby>遊園地<rt>ゆうえんち</rt></ruby>では<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>遊園地<rt>ゆうえんち</rt></ruby>では<ruby>僕は<rt>ぼくは</rt></ruby>ローラーコースター<ruby>乗って<rt>のって</rt></ruby>ないんですよね",
+      "zh": "在真正的游乐园里，我没有坐过过山车呢",
+      "en": "In actual amusement parks, I haven't ridden a roller coaster."
+    },
+    {
+      "id": 67,
+      "start": 246.52,
+      "end": 251.04,
+      "ts": "04:06.520 -> 04:11.040",
+      "jp": "だけど夢の中で乗った最悪でした",
+      "jp_html": "だけど<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>乗っ<rt>じょうっ</rt></ruby>た<ruby>最悪<rt>さいあく</rt></ruby>でした",
+      "zh": "但是梦里坐的最糟糕了",
+      "en": "But the worst was riding in a dream."
+    },
+    {
+      "id": 68,
+      "start": 251.04,
+      "end": 258.1,
+      "ts": "04:11.040 -> 04:18.100",
+      "jp": "というわけで夢の中でも苦しんだ一日でした",
+      "jp_html": "というわけで<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも<ruby>苦し<rt>くるし</rt></ruby>んだ<ruby>一日<rt>ついたち</rt></ruby>でした",
+      "zh": "因此这是一天我在梦中也感到痛苦的经历",
+      "en": "So it was a tough day even in my dreams."
+    },
+    {
+      "id": 69,
+      "start": 258.1,
+      "end": 263.0,
+      "ts": "04:18.100 -> 04:23.000",
+      "jp": "まあまあ子供はもうとても楽しんでましたね",
+      "jp_html": "まあまあ<ruby>子供<rt>こども</rt></ruby>はもうとても<ruby>楽し<rt>たのし</rt></ruby>んでましたね",
+      "zh": "嗯嗯，孩子们已经玩得很开心了。",
+      "en": "Well, the kids were really enjoying themselves, weren't they?"
+    },
+    {
+      "id": 70,
+      "start": 263.0,
+      "end": 266.58,
+      "ts": "04:23.000 -> 04:26.580",
+      "jp": "大人はちょっとまあどうなんですかね",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>はちょっとまあどうなんですかね",
+      "zh": "大人是稍微怎么样呢",
+      "en": "How do adults fare, you know?"
+    },
+    {
+      "id": 71,
+      "start": 266.58,
+      "end": 272.46,
+      "ts": "04:26.580 -> 04:32.460",
+      "jp": "遊園地のコンセプトは子供が楽しい大人は苦しい",
+      "jp_html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>のコンセプトは<ruby>子供<rt>こども</rt></ruby>が<ruby>楽しい<rt>たのしい</rt></ruby><ruby>大人<rt>おとな</rt></ruby>は<ruby>苦しい<rt>くるしい</rt></ruby>",
+      "zh": "游乐园的概念是孩子们喜欢大人们觉得难堪",
+      "en": "The theme park concept is that children have fun while adults find it boring."
+    },
+    {
+      "id": 72,
+      "start": 272.46,
+      "end": 275.98,
+      "ts": "04:32.460 -> 04:35.980",
+      "jp": "まあ楽しいけど疲れる",
+      "jp_html": "まあ<ruby>楽しい<rt>たのしい</rt></ruby>けど<ruby>疲れ<rt>つかれ</rt></ruby>る",
+      "zh": "虽然有趣但很累",
+      "en": "It's fun but exhausting."
+    },
+    {
+      "id": 73,
+      "start": 275.98,
+      "end": 280.82,
+      "ts": "04:35.980 -> 04:40.820",
+      "jp": "それが遊園地のコンセプトだと思います",
+      "jp_html": "それが<ruby>遊園地<rt>ゆうえんち</rt></ruby>のコンセプトだと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为那是游乐园的概念",
+      "en": "I think that's the concept of the amusement park."
+    },
+    {
+      "id": 74,
+      "start": 280.82,
+      "end": 284.28,
+      "ts": "04:40.820 -> 04:44.280",
+      "jp": "子供はね行こう行こう行きたい行きたい",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>はね<ruby>行こ<rt>いこ</rt></ruby>う<ruby>行こ<rt>いこ</rt></ruby>う<ruby>行き<rt>いき</rt></ruby>たい<ruby>行き<rt>いき</rt></ruby>たい",
+      "zh": "孩子们想去想去想去了想去去了",
+      "en": "Kids want to go, want to go, they want to go!"
+    },
+    {
+      "id": 75,
+      "start": 284.28,
+      "end": 286.8,
+      "ts": "04:44.280 -> 04:46.800",
+      "jp": "遊園地に行きたい子供は大人は",
+      "jp_html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たい<ruby>子供<rt>こども</rt></ruby>は<ruby>大人<rt>おとな</rt></ruby>は",
+      "zh": "想去游乐园的孩子是大人",
+      "en": "Children who want to go to an amusement park are adults"
+    },
+    {
+      "id": 76,
+      "start": 286.8,
+      "end": 289.84,
+      "ts": "04:46.800 -> 04:49.840",
+      "jp": "あーいいよーみたいな",
+      "jp_html": "あーいいよーみたいな",
+      "zh": "啊好呀像那样",
+      "en": "Ah, okay like that?"
+    },
+    {
+      "id": 77,
+      "start": 289.84,
+      "end": 293.54,
+      "ts": "04:49.840 -> 04:53.540",
+      "jp": "それが遊園地のリアリティだと思います",
+      "jp_html": "それが<ruby>遊園地<rt>ゆうえんち</rt></ruby>のリアリティだと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为这就是游乐园的现实感",
+      "en": "I think that's the realism of the amusement park."
+    },
+    {
+      "id": 78,
+      "start": 293.54,
+      "end": 297.98,
+      "ts": "04:53.540 -> 04:57.980",
+      "jp": "まあ明日は別の話ですね",
+      "jp_html": "まあ<ruby>明日<rt>あした</rt></ruby>は<ruby>別の<rt>べつの</rt></ruby><ruby>話<rt>はなし</rt></ruby>ですね",
+      "zh": "明天就是另一回事了。",
+      "en": "Well, tomorrow is a different story, though."
+    },
+    {
+      "id": 79,
+      "start": 297.98,
+      "end": 302.1,
+      "ts": "04:57.980 -> 05:02.100",
+      "jp": "寿司屋に行ってきた話をしたいと思います",
+      "jp_html": "<ruby>寿司屋<rt>すしや</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>きた<ruby>話<rt>はなし</rt></ruby>をしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想谈谈我去寿司店的经历",
+      "en": "I want to tell you about the sushi restaurant I went to."
+    },
+    {
+      "id": 80,
+      "start": 302.1,
+      "end": 303.5,
+      "ts": "05:02.100 -> 05:03.500",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

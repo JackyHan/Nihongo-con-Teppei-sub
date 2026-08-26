@@ -1,0 +1,994 @@
+{
+  "id": "1570",
+  "title": "#1570「田舎日記15」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1570.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1570.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/26/1570%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9815%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.46,
+      "end": 3.1,
+      "ts": "00:01.460 -> 00:03.100",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.1,
+      "end": 7.24,
+      "ts": "00:03.100 -> 00:07.240",
+      "jp": "今日も田舎日記",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>",
+      "zh": "今天的乡村日记",
+      "en": "Today's Countryside Diary"
+    },
+    {
+      "id": 2,
+      "start": 7.24,
+      "end": 10.0,
+      "ts": "00:07.240 -> 00:10.000",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 10.0,
+      "end": 11.42,
+      "ts": "00:10.000 -> 00:11.420",
+      "jp": "田舎ですね",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>ですね",
+      "zh": "countryside 啦",
+      "en": "It's countryside, huh?"
+    },
+    {
+      "id": 4,
+      "start": 11.42,
+      "end": 14.48,
+      "ts": "00:11.420 -> 00:14.480",
+      "jp": "田舎シリーズ結構長いですけど",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>シリーズ<ruby>結構<rt>けっこう</rt></ruby><ruby>長い<rt>ながい</rt></ruby>ですけど",
+      "zh": "田园系列挺长的吧",
+      "en": "The Countryside Series is quite long, though."
+    },
+    {
+      "id": 5,
+      "start": 14.48,
+      "end": 16.46,
+      "ts": "00:14.480 -> 00:16.460",
+      "jp": "まあいいんじゃないですか",
+      "jp_html": "まあいいんじゃないですか",
+      "zh": "何必呢",
+      "en": "Why not just leave it?"
+    },
+    {
+      "id": 6,
+      "start": 16.46,
+      "end": 20.08,
+      "ts": "00:16.460 -> 00:20.080",
+      "jp": "僕は田舎に住んでますね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>田舎<rt>いなか</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でますね",
+      "zh": "我住在乡下呢",
+      "en": "I live in the countryside."
+    },
+    {
+      "id": 7,
+      "start": 20.08,
+      "end": 21.8,
+      "ts": "00:20.080 -> 00:21.800",
+      "jp": "もうほとんどね",
+      "jp_html": "もうほとんどね",
+      "zh": "已经差不多了",
+      "en": "It's almost done."
+    },
+    {
+      "id": 8,
+      "start": 21.8,
+      "end": 23.56,
+      "ts": "00:21.800 -> 00:23.560",
+      "jp": "まあまあもうすぐ帰りますけど",
+      "jp_html": "まあまあもうすぐ<ruby>帰り<rt>かえり</rt></ruby>ますけど",
+      "zh": "好吧，我马上就回来了。",
+      "en": "Well, I'll be back soon though."
+    },
+    {
+      "id": 9,
+      "start": 23.56,
+      "end": 26.44,
+      "ts": "00:23.560 -> 00:26.440",
+      "jp": "そしておそらく多分",
+      "jp_html": "そしておそらく<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "然后恐怕大概",
+      "en": "And probably somehow"
+    },
+    {
+      "id": 10,
+      "start": 26.44,
+      "end": 30.3,
+      "ts": "00:26.440 -> 00:30.300",
+      "jp": "このポッドキャストをアップロードしているときは",
+      "jp_html": "このポッドキャストをアップロードしているときは",
+      "zh": "在上传这个播客的时候",
+      "en": "When uploading this podcast"
+    },
+    {
+      "id": 11,
+      "start": 30.3,
+      "end": 33.52,
+      "ts": "00:30.300 -> 00:33.520",
+      "jp": "僕はもう東京にいるでしょうね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>もう<ruby>東京<rt>とうきょう</rt></ruby>にいるでしょうね",
+      "zh": "我大概已经在东京了吧",
+      "en": "I'm probably already in Tokyo."
+    },
+    {
+      "id": 12,
+      "start": 33.52,
+      "end": 35.62,
+      "ts": "00:33.520 -> 00:35.620",
+      "jp": "ちょっとタイムラグがあるんで",
+      "jp_html": "ちょっとタイムラグがあるんで",
+      "zh": "有点时间差所以",
+      "en": "There's a little time lag."
+    },
+    {
+      "id": 13,
+      "start": 35.62,
+      "end": 43.7,
+      "ts": "00:35.620 -> 00:43.700",
+      "jp": "東京に戻ってまた忙しくしてるんじゃないかなと思いますけど",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>戻っ<rt>もどっ</rt></ruby>てまた<ruby>忙しく<rt>いそがしく</rt></ruby>してるんじゃないかなと<ruby>思い<rt>おもい</rt></ruby>ますけど",
+      "zh": "我想东京回去后应该又忙起来了吧",
+      "en": "I think you're getting busy again in Tokyo."
+    },
+    {
+      "id": 14,
+      "start": 43.7,
+      "end": 48.48,
+      "ts": "00:43.700 -> 00:48.480",
+      "jp": "今日のトピックはお盆ですね",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>のトピックはお<ruby>盆<rt>ぼん</rt></ruby>ですね",
+      "zh": "今天的主题是盂兰节呢",
+      "en": "Today's topic is Obon, isn't it?"
+    },
+    {
+      "id": 15,
+      "start": 48.48,
+      "end": 52.36,
+      "ts": "00:48.480 -> 00:52.360",
+      "jp": "皆さんお盆を知ってますか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>お<ruby>盆<rt>ぼん</rt></ruby>を<ruby>知って<rt>しって</rt></ruby>ますか",
+      "zh": "你们知道盂兰节吗",
+      "en": "Do you know about Obon?"
+    },
+    {
+      "id": 16,
+      "start": 52.36,
+      "end": 61.54,
+      "ts": "00:52.360 -> 01:01.540",
+      "jp": "お盆というのは日本の場所によってちょっと違いがあります",
+      "jp_html": "お<ruby>盆<rt>ぼん</rt></ruby>というのは<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>によってちょっと<ruby>違い<rt>ちがい</rt></ruby>があります",
+      "zh": "盂兰盆会在日本的不同地方稍微有些差异",
+      "en": "Obon is slightly different in various parts of Japan."
+    },
+    {
+      "id": 17,
+      "start": 61.54,
+      "end": 65.88,
+      "ts": "01:01.540 -> 01:05.880",
+      "jp": "東京は実は少し早いんですね",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>実は<rt>じつは</rt></ruby><ruby>少し<rt>すこし</rt></ruby><ruby>早い<rt>はやい</rt></ruby>んですね",
+      "zh": "东京其实稍微早一点呢",
+      "en": "Tokyo is actually a bit early, isn't it?"
+    },
+    {
+      "id": 18,
+      "start": 65.88,
+      "end": 71.64,
+      "ts": "01:05.880 -> 01:11.640",
+      "jp": "ちょっと正確にはわからないけど6月とかじゃなかったかな",
+      "jp_html": "ちょっと<ruby>正確<rt>せいかく</rt></ruby>にはわからないけど6<ruby>月<rt>がつ</rt></ruby>とかじゃなかったかな",
+      "zh": "稍微准确地说不太清楚，但应该是六月份吧",
+      "en": "I'm not sure exactly, but it wasn't in June, right?"
+    },
+    {
+      "id": 19,
+      "start": 71.64,
+      "end": 72.62,
+      "ts": "01:11.640 -> 01:12.620",
+      "jp": "ちょっと覚えてない",
+      "jp_html": "ちょっと<ruby>覚え<rt>おぼえ</rt></ruby>てない",
+      "zh": "记不太起来了",
+      "en": "I kind of forgot."
+    },
+    {
+      "id": 20,
+      "start": 72.62,
+      "end": 78.0,
+      "ts": "01:12.620 -> 01:18.000",
+      "jp": "でもたくさんの場所",
+      "jp_html": "でもたくさんの<ruby>場所<rt>ばしょ</rt></ruby>",
+      "zh": "但是很多地方",
+      "en": "But many places"
+    },
+    {
+      "id": 21,
+      "start": 78.0,
+      "end": 84.44,
+      "ts": "01:18.000 -> 01:24.440",
+      "jp": "そして僕の出身の九州とかではお盆は8月ですね",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>の<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>九州<rt>きゅうしゅう</rt></ruby>とかではお<ruby>盆<rt>ぼん</rt></ruby>は8<ruby>月<rt>がつ</rt></ruby>ですね",
+      "zh": "而在我的家乡九州等地，盂兰节是在八月举行。",
+      "en": "And in my hometown in Kyushu, Obon is in August."
+    },
+    {
+      "id": 22,
+      "start": 84.44,
+      "end": 90.0,
+      "ts": "01:24.440 -> 01:30.000",
+      "jp": "8月の15ぐらいなのかな",
+      "jp_html": "8<ruby>月<rt>がつ</rt></ruby>の15ぐらいなのかな",
+      "zh": "大概是8月15日左右吧",
+      "en": "It's around August 15, right?"
+    },
+    {
+      "id": 23,
+      "start": 90.0,
+      "end": 94.34,
+      "ts": "01:30.000 -> 01:34.340",
+      "jp": "12 13 14 15それぐらいが多いと思いますね",
+      "jp_html": "12 13 14 15それぐらいが<ruby>多い<rt>おおい</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "我想大概有12到15个吧",
+      "en": "I think there are quite a few more than that."
+    },
+    {
+      "id": 24,
+      "start": 94.34,
+      "end": 98.62,
+      "ts": "01:34.340 -> 01:38.620",
+      "jp": "じゃあお盆っていうのは何をするかというと",
+      "jp_html": "じゃあお<ruby>盆<rt>ぼん</rt></ruby>っていうのは<ruby>何を<rt>なにを</rt></ruby>するかというと",
+      "zh": "那么中元节主要是做什么的呢",
+      "en": "So Obon is what you do..."
+    },
+    {
+      "id": 25,
+      "start": 98.62,
+      "end": 103.56,
+      "ts": "01:38.620 -> 01:43.560",
+      "jp": "お盆はちょっと葬式みたいなものですね",
+      "jp_html": "お<ruby>盆<rt>ぼん</rt></ruby>はちょっと<ruby>葬式<rt>そうしき</rt></ruby>みたいなものですね",
+      "zh": "中元有点像小小的葬礼呢",
+      "en": "Obon is kind of like a funeral."
+    },
+    {
+      "id": 26,
+      "start": 103.56,
+      "end": 105.58,
+      "ts": "01:43.560 -> 01:45.580",
+      "jp": "お葬式みたいなもの",
+      "jp_html": "お<ruby>葬式<rt>そうしき</rt></ruby>みたいなもの",
+      "zh": "像葬礼一样的东西",
+      "en": "Something like a funeral"
+    },
+    {
+      "id": 27,
+      "start": 105.58,
+      "end": 109.24,
+      "ts": "01:45.580 -> 01:49.240",
+      "jp": "例えば誰かが死んだ時",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>誰か<rt>だれか</rt></ruby>が<ruby>死ん<rt>しん</rt></ruby>だ<ruby>時<rt>とき</rt></ruby>",
+      "zh": "例如有人去世时",
+      "en": "For example, when someone dies"
+    },
+    {
+      "id": 28,
+      "start": 109.24,
+      "end": 113.52,
+      "ts": "01:49.240 -> 01:53.520",
+      "jp": "亡くなった時にすぐに葬式をします",
+      "jp_html": "<ruby>亡く<rt>なく</rt></ruby>なった<ruby>時に<rt>ときに</rt></ruby>すぐに<ruby>葬式<rt>そうしき</rt></ruby>をします",
+      "zh": "在去世后会立即举行葬礼",
+      "en": "We perform the funeral immediately when someone passes away."
+    },
+    {
+      "id": 29,
+      "start": 113.52,
+      "end": 115.72,
+      "ts": "01:53.520 -> 01:55.720",
+      "jp": "フューネラルですね",
+      "jp_html": "フューネラルですね",
+      "zh": "葬礼吧",
+      "en": "It's a funeral, right?"
+    },
+    {
+      "id": 30,
+      "start": 115.72,
+      "end": 121.54,
+      "ts": "01:55.720 -> 02:01.540",
+      "jp": "そしてその次の夏ですね",
+      "jp_html": "そしてその<ruby>次の<rt>つぎの</rt></ruby><ruby>夏<rt>なつ</rt></ruby>ですね",
+      "zh": "然后就是下一个夏天了",
+      "en": "And then it was the next summer."
+    },
+    {
+      "id": 31,
+      "start": 121.54,
+      "end": 124.7,
+      "ts": "02:01.540 -> 02:04.700",
+      "jp": "次の夏お盆をします",
+      "jp_html": "<ruby>次の<rt>つぎの</rt></ruby><ruby>夏<rt>なつ</rt></ruby>お<ruby>盆<rt>ぼん</rt></ruby>をします",
+      "zh": "下一个夏天我们将举办盂兰节",
+      "en": "Next summer Obon will be held."
+    },
+    {
+      "id": 32,
+      "start": 124.7,
+      "end": 125.86,
+      "ts": "02:04.700 -> 02:05.860",
+      "jp": "初めてのお盆",
+      "jp_html": "<ruby>初めて<rt>はじめて</rt></ruby>のお<ruby>盆<rt>ぼん</rt></ruby>",
+      "zh": "第一次盂兰盆节",
+      "en": "First Obon"
+    },
+    {
+      "id": 33,
+      "start": 125.86,
+      "end": 131.78,
+      "ts": "02:05.860 -> 02:11.780",
+      "jp": "人が死んでその初めての夏にお盆",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>が<ruby>死ん<rt>しん</rt></ruby>でその<ruby>初めて<rt>はじめて</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>にお<ruby>盆<rt>ぼん</rt></ruby>",
+      "zh": "人在去世后在第一个夏天举行盂兰盆会",
+      "en": "A person died and during their first summer, they held a Bon Festival."
+    },
+    {
+      "id": 34,
+      "start": 131.78,
+      "end": 133.94,
+      "ts": "02:11.780 -> 02:13.940",
+      "jp": "初盆と言いますね",
+      "jp_html": "<ruby>初盆<rt>はつぼん</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ますね",
+      "zh": "初盆说是吧？",
+      "en": "It's called 初盆 (hatsu-bon)."
+    },
+    {
+      "id": 35,
+      "start": 133.94,
+      "end": 136.78,
+      "ts": "02:13.940 -> 02:16.780",
+      "jp": "初めてのお盆のことを初盆と言います",
+      "jp_html": "<ruby>初めて<rt>はじめて</rt></ruby>のお<ruby>盆<rt>ぼん</rt></ruby>のことを<ruby>初盆<rt>はつぼん</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ます",
+      "zh": "第一次盂兰盆节称为初盆",
+      "en": "The first Obon is called Shubun."
+    },
+    {
+      "id": 36,
+      "start": 136.78,
+      "end": 138.44,
+      "ts": "02:16.780 -> 02:18.440",
+      "jp": "初盆する",
+      "jp_html": "<ruby>初盆<rt>はつぼん</rt></ruby>する",
+      "zh": "初盆",
+      "en": "Celebrate the first Buddhist service for a deceased relative"
+    },
+    {
+      "id": 37,
+      "start": 138.44,
+      "end": 140.42,
+      "ts": "02:18.440 -> 02:20.420",
+      "jp": "毎年ですね",
+      "jp_html": "<ruby>毎年<rt>まいとし</rt></ruby>ですね",
+      "zh": "每年呢",
+      "en": "Every year, right?"
+    },
+    {
+      "id": 38,
+      "start": 140.42,
+      "end": 143.92,
+      "ts": "02:20.420 -> 02:23.920",
+      "jp": "2年目3年目4年目5年目6年目7年目",
+      "jp_html": "2<ruby>年目<rt>ねんめ</rt></ruby>3<ruby>年目<rt>ねんめ</rt></ruby>4<ruby>年目<rt>ねんめ</rt></ruby>5<ruby>年目<rt>ねんめ</rt></ruby>6<ruby>年目<rt>ねんめ</rt></ruby>7<ruby>年目<rt>ねんめ</rt></ruby>",
+      "zh": "第二年第三年第四年第五年第六年第七年",
+      "en": "2nd year 3rd year 4th year 5th year 6th year 7th year"
+    },
+    {
+      "id": 39,
+      "start": 143.92,
+      "end": 146.66,
+      "ts": "02:23.920 -> 02:26.660",
+      "jp": "毎年夏になると",
+      "jp_html": "<ruby>毎年<rt>まいとし</rt></ruby><ruby>夏<rt>なつ</rt></ruby>になると",
+      "zh": "每年夏天都会",
+      "en": "Every summer,"
+    },
+    {
+      "id": 40,
+      "start": 146.66,
+      "end": 152.44,
+      "ts": "02:26.660 -> 02:32.440",
+      "jp": "死んだ人のメモリアルというか",
+      "jp_html": "<ruby>死ん<rt>しん</rt></ruby>だ<ruby>人<rt>にん</rt></ruby>のメモリアルというか",
+      "zh": "逝去者纪念之类的",
+      "en": "A memorial for a deceased person"
+    },
+    {
+      "id": 41,
+      "start": 152.44,
+      "end": 156.88,
+      "ts": "02:32.440 -> 02:36.880",
+      "jp": "そういうちょっとセレモニーみたいなものをします",
+      "jp_html": "そういうちょっとセレモニーみたいなものをします",
+      "zh": "我们会举行这样一个稍微正式一点的仪式。",
+      "en": "I will perform a little ceremonial thing."
+    },
+    {
+      "id": 42,
+      "start": 156.88,
+      "end": 161.36,
+      "ts": "02:36.880 -> 02:41.360",
+      "jp": "やっぱり一番最初が一番大事ですね",
+      "jp_html": "やっぱり<ruby>一番最初<rt>いちばんさいしょ</rt></ruby>が<ruby>一番大事<rt>いちばんだいじ</rt></ruby>ですね",
+      "zh": "果然最开始最重要呢",
+      "en": "It's true that the first thing is the most important, though."
+    },
+    {
+      "id": 43,
+      "start": 161.36,
+      "end": 171.48,
+      "ts": "02:41.360 -> 02:51.480",
+      "jp": "一番最初は近所の人とか知り合いの人とかが家に来てお祈りをしたりします",
+      "jp_html": "<ruby>一番最初<rt>いちばんさいしょ</rt></ruby>は<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>とか<ruby>知り合い<rt>しりあい</rt></ruby>の<ruby>人<rt>にん</rt></ruby>とかが<ruby>家<rt>いえ</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>お<ruby>祈り<rt>いのり</rt></ruby>をしたりします",
+      "zh": "最初附近的人或 acquaintances会来家里祈祷。",
+      "en": "At first, neighbors and acquaintances come to the house to pray."
+    },
+    {
+      "id": 44,
+      "start": 171.48,
+      "end": 179.72,
+      "ts": "02:51.480 -> 02:59.720",
+      "jp": "2年目3年目とか少しずつ家族だけになりますね",
+      "jp_html": "2<ruby>年目<rt>ねんめ</rt></ruby>3<ruby>年目<rt>ねんめ</rt></ruby>とか<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>家族<rt>かぞく</rt></ruby>だけになりますね",
+      "zh": "第二年、第三年就会逐渐变成只有家人了呢",
+      "en": "In the second and third years, it will gradually become just the family, right?"
+    },
+    {
+      "id": 45,
+      "start": 179.72,
+      "end": 189.5,
+      "ts": "02:59.720 -> 03:09.500",
+      "jp": "とにかく僕が住んでいる近所は老人が多いんですね",
+      "jp_html": "とにかく<ruby>僕<rt>ぼく</rt></ruby>が<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>近所<rt>きんじょ</rt></ruby>は<ruby>老人<rt>ろうじん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>んですね",
+      "zh": "总之我住的地方有很多老人",
+      "en": "Anyway, the area where I live has a lot of elderly people."
+    },
+    {
+      "id": 46,
+      "start": 189.5,
+      "end": 191.76,
+      "ts": "03:09.500 -> 03:11.760",
+      "jp": "僕が今僕の両親の家ね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>今<rt>いま</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>ね",
+      "zh": "我现在在我父母的家里",
+      "en": "I am at my parents' house now."
+    },
+    {
+      "id": 47,
+      "start": 191.76,
+      "end": 196.8,
+      "ts": "03:11.760 -> 03:16.800",
+      "jp": "近所は本当に年を取った人が多いから",
+      "jp_html": "<ruby>近所<rt>きんじょ</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>年<rt>ねん</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>た<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>から",
+      "zh": "附近真的有很多老人",
+      "en": "The neighborhood really has a lot of elderly people."
+    },
+    {
+      "id": 48,
+      "start": 196.8,
+      "end": 201.76,
+      "ts": "03:16.800 -> 03:21.760",
+      "jp": "たくさんのニュースを聞きますよね",
+      "jp_html": "たくさんのニュースを<ruby>聞き<rt>きき</rt></ruby>ますよね",
+      "zh": "你们不是经常听很多新闻吗？",
+      "en": "Don't you listen to lots of news?"
+    },
+    {
+      "id": 49,
+      "start": 201.76,
+      "end": 204.3,
+      "ts": "03:21.760 -> 03:24.300",
+      "jp": "あそこのおじいさんも亡くなった",
+      "jp_html": "あそこのおじいさんも<ruby>亡く<rt>なく</rt></ruby>なった",
+      "zh": "那边的老爷爷也去世了",
+      "en": "The old man over there also passed away."
+    },
+    {
+      "id": 50,
+      "start": 204.3,
+      "end": 207.46,
+      "ts": "03:24.300 -> 03:27.460",
+      "jp": "あそこのおじいさんもおばあさんも亡くなった",
+      "jp_html": "あそこのおじいさんもおばあさんも<ruby>亡く<rt>なく</rt></ruby>なった",
+      "zh": "那边的爷爷和奶奶也去世了",
+      "en": "The grandfather and grandmother over there have passed away."
+    },
+    {
+      "id": 51,
+      "start": 207.46,
+      "end": 215.68,
+      "ts": "03:27.460 -> 03:35.680",
+      "jp": "そして僕の友達というか同級生ですよね",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>というか<ruby>同級生<rt>どうきゅうせい</rt></ruby>ですよね",
+      "zh": "然后我的朋友或者说同学吧",
+      "en": "And my friend, or classmate, right?"
+    },
+    {
+      "id": 52,
+      "start": 215.68,
+      "end": 220.44,
+      "ts": "03:35.680 -> 03:40.440",
+      "jp": "子供の時の同級生のお父さんとか",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>同級生<rt>どうきゅうせい</rt></ruby>のお<ruby>父さん<rt>とうさん</rt></ruby>とか",
+      "zh": "childhood 同班同学的爸爸们",
+      "en": "Classmates' fathers from when I was a child"
+    },
+    {
+      "id": 53,
+      "start": 220.44,
+      "end": 225.52,
+      "ts": "03:40.440 -> 03:45.520",
+      "jp": "お母さんも少しずつ早い人は亡くなることもあります",
+      "jp_html": "お<ruby>母さん<rt>かあさん</rt></ruby>も<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>早い<rt>はやい</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>亡く<rt>なく</rt></ruby>なることもあります",
+      "zh": "妈妈也会慢慢变老，有人甚至会早早去世。",
+      "en": "Mothers also die a little earlier in some cases."
+    },
+    {
+      "id": 54,
+      "start": 225.52,
+      "end": 230.84,
+      "ts": "03:45.520 -> 03:50.840",
+      "jp": "早い人は70代でやっぱり死ぬ人もいるし",
+      "jp_html": "<ruby>早い<rt>はやい</rt></ruby><ruby>人<rt>にん</rt></ruby>は70<ruby>代<rt>だい</rt></ruby>でやっぱり<ruby>死ぬ<rt>しぬ</rt></ruby><ruby>人<rt>にん</rt></ruby>もいるし",
+      "zh": "早死の人も70代で死ぬ人もいる",
+      "en": "The early birds die in their seventies, after all, some do still pass away."
+    },
+    {
+      "id": 55,
+      "start": 230.84,
+      "end": 234.42,
+      "ts": "03:50.840 -> 03:54.420",
+      "jp": "80代90代まで生きる人もいるし",
+      "jp_html": "80<ruby>代<rt>だい</rt></ruby>90<ruby>代<rt>だい</rt></ruby>まで<ruby>生き<rt>いき</rt></ruby>る<ruby>人<rt>にん</rt></ruby>もいるし",
+      "zh": "有些人可以活到80多岁或90多岁",
+      "en": "People can live into their 80s and 90s."
+    },
+    {
+      "id": 56,
+      "start": 234.42,
+      "end": 241.3,
+      "ts": "03:54.420 -> 04:01.300",
+      "jp": "だけどやっぱりたくさんの人が毎年毎年死にますよね",
+      "jp_html": "だけどやっぱりたくさんの<ruby>人<rt>にん</rt></ruby>が<ruby>毎年<rt>まいとし</rt></ruby><ruby>毎年<rt>まいとし</rt></ruby><ruby>死に<rt>しに</rt></ruby>ますよね",
+      "zh": "但是果然每年都有很多人死去吧",
+      "en": "But still, countless people die every year, don't they?"
+    },
+    {
+      "id": 57,
+      "start": 241.3,
+      "end": 247.5,
+      "ts": "04:01.300 -> 04:07.500",
+      "jp": "僕がここに帰ってくるといつもそのニュースを聞きますね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がここに<ruby>帰っ<rt>かえっ</rt></ruby>てくるといつもそのニュースを<ruby>聞き<rt>きき</rt></ruby>ますね",
+      "zh": "我回来这里总是能听到那个新闻呢",
+      "en": "Every time I come back here, I always hear that news."
+    },
+    {
+      "id": 58,
+      "start": 247.5,
+      "end": 249.92,
+      "ts": "04:07.500 -> 04:09.920",
+      "jp": "あそこのおじいさんも亡くなった",
+      "jp_html": "あそこのおじいさんも<ruby>亡く<rt>なく</rt></ruby>なった",
+      "zh": "那边的老爷爷也去世了",
+      "en": "The old man over there also passed away."
+    },
+    {
+      "id": 59,
+      "start": 249.92,
+      "end": 252.06,
+      "ts": "04:09.920 -> 04:12.060",
+      "jp": "あそこのおばあさんも亡くなった",
+      "jp_html": "あそこのおばあさんも<ruby>亡く<rt>なく</rt></ruby>なった",
+      "zh": "那边的奶奶也去世了",
+      "en": "The grandmother over there also passed away."
+    },
+    {
+      "id": 60,
+      "start": 252.06,
+      "end": 257.36,
+      "ts": "04:12.060 -> 04:17.360",
+      "jp": "ちょっとこう悲しいというか",
+      "jp_html": "ちょっとこう<ruby>悲しい<rt>かなしい</rt></ruby>というか",
+      "zh": "有点悲伤吧",
+      "en": "It's kind of sad, I guess."
+    },
+    {
+      "id": 61,
+      "start": 257.36,
+      "end": 263.44,
+      "ts": "04:17.360 -> 04:23.440",
+      "jp": "当たり前だからね自然なことだから",
+      "jp_html": "<ruby>当たり前<rt>あたりまえ</rt></ruby>だからね<ruby>自然<rt>しぜん</rt></ruby>なことだから",
+      "zh": "因为是理所当然的自然的事情",
+      "en": "It's obvious because it's a natural thing."
+    },
+    {
+      "id": 62,
+      "start": 263.44,
+      "end": 266.0,
+      "ts": "04:23.440 -> 04:26.000",
+      "jp": "人が死ぬのは自然なことなので",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>が<ruby>死ぬ<rt>しぬ</rt></ruby>のは<ruby>自然<rt>しぜん</rt></ruby>なことなので",
+      "zh": "人死亡是自然的事情",
+      "en": "It is natural for people to die."
+    },
+    {
+      "id": 63,
+      "start": 266.0,
+      "end": 270.1,
+      "ts": "04:26.000 -> 04:30.100",
+      "jp": "例えば90歳のおばあちゃんが亡くなったとか",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>90<ruby>歳<rt>とし</rt></ruby>のおばあちゃんが<ruby>亡く<rt>なく</rt></ruby>なったとか",
+      "zh": "比如一位90岁的奶奶去世了",
+      "en": "For example, if an elderly grandmother passed away at 90 years old."
+    },
+    {
+      "id": 64,
+      "start": 270.1,
+      "end": 275.6,
+      "ts": "04:30.100 -> 04:35.600",
+      "jp": "自然ですよねもちろんいつかね",
+      "jp_html": "<ruby>自然<rt>しぜん</rt></ruby>ですよねもちろんいつかね",
+      "zh": "当然啦，当然了，总有一天呢",
+      "en": "Of course, naturally, someday."
+    },
+    {
+      "id": 65,
+      "start": 275.6,
+      "end": 278.06,
+      "ts": "04:35.600 -> 04:38.060",
+      "jp": "いつか人は死ぬから",
+      "jp_html": "いつか<ruby>人<rt>にん</rt></ruby>は<ruby>死ぬ<rt>しぬ</rt></ruby>から",
+      "zh": "人总会死的",
+      "en": "People will die someday."
+    },
+    {
+      "id": 66,
+      "start": 278.06,
+      "end": 284.7,
+      "ts": "04:38.060 -> 04:44.700",
+      "jp": "だけど問題はねこの街の問題は若い人が少ないんですね",
+      "jp_html": "だけど<ruby>問題<rt>もんだい</rt></ruby>はねこの<ruby>街<rt>まち</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>は<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>んですね",
+      "zh": "但是问题在于，猫城的年轻人很少呢",
+      "en": "But the problem is that the cat city has few young people."
+    },
+    {
+      "id": 67,
+      "start": 284.7,
+      "end": 292.5,
+      "ts": "04:44.700 -> 04:52.500",
+      "jp": "若い人が少なくて例えば家があっておばあさんが一人で住んでいる",
+      "jp_html": "<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>にん</rt></ruby>が<ruby>少なく<rt>すくなく</rt></ruby>て<ruby>例えば<rt>たとえば</rt></ruby><ruby>家<rt>いえ</rt></ruby>があっておばあさんが<ruby>一人<rt>ひとり</rt></ruby>で<ruby>住ん<rt>すん</rt></ruby>でいる",
+      "zh": "年轻人少，比如有房子但有一位老人独自居住。",
+      "en": "There are few young people, so for example there is a house where an elderly grandmother lives alone."
+    },
+    {
+      "id": 68,
+      "start": 292.5,
+      "end": 294.62,
+      "ts": "04:52.500 -> 04:54.620",
+      "jp": "そしておばあさんが亡くなる",
+      "jp_html": "そしておばあさんが<ruby>亡く<rt>なく</rt></ruby>なる",
+      "zh": "然后奶奶去世了",
+      "en": "And then the grandmother passes away."
+    },
+    {
+      "id": 69,
+      "start": 294.62,
+      "end": 299.24,
+      "ts": "04:54.620 -> 04:59.240",
+      "jp": "そうするとその家は誰もいなくなるんですね",
+      "jp_html": "そうするとその<ruby>家<rt>いえ</rt></ruby>は<ruby>誰も<rt>だれも</rt></ruby>いなくなるんですね",
+      "zh": "这样一来那家人就都不在了",
+      "en": "Then the house will be empty of everyone, right?"
+    },
+    {
+      "id": 70,
+      "start": 299.24,
+      "end": 306.42,
+      "ts": "04:59.240 -> 05:06.420",
+      "jp": "空き家ですよね空き家になったりそれとも家が壊されて何もなくなる",
+      "jp_html": "<ruby>空き家<rt>あきや</rt></ruby>ですよね<ruby>空き家<rt>あきや</rt></ruby>になったりそれとも<ruby>家<rt>いえ</rt></ruby>が<ruby>壊さ<rt>こわさ</rt></ruby>れて<ruby>何も<rt>なにも</rt></ruby>なくなる",
+      "zh": "空房子吧？可能会变成空房子，或者房子被毁了什么都没有了",
+      "en": "Is it an empty house? It might become an empty house, or maybe the house will be destroyed and left with nothing."
+    },
+    {
+      "id": 71,
+      "start": 306.42,
+      "end": 309.0,
+      "ts": "05:06.420 -> 05:09.000",
+      "jp": "そういう家がたくさんあるんですね",
+      "jp_html": "そういう<ruby>家<rt>いえ</rt></ruby>がたくさんあるんですね",
+      "zh": "原来有这样的很多家庭",
+      "en": "There are many such houses, I see."
+    },
+    {
+      "id": 72,
+      "start": 309.0,
+      "end": 311.34,
+      "ts": "05:09.000 -> 05:11.340",
+      "jp": "誰も住んでいない家とか",
+      "jp_html": "<ruby>誰も<rt>だれも</rt></ruby><ruby>住ん<rt>すん</rt></ruby>でいない<ruby>家<rt>いえ</rt></ruby>とか",
+      "zh": "没有人居住的房子",
+      "en": "An empty house or so"
+    },
+    {
+      "id": 73,
+      "start": 311.34,
+      "end": 315.34,
+      "ts": "05:11.340 -> 05:15.340",
+      "jp": "壊れて何もなくなった",
+      "jp_html": "<ruby>壊れ<rt>こわれ</rt></ruby>て<ruby>何も<rt>なにも</rt></ruby>なくなった",
+      "zh": "破烂了，什么都没有了",
+      "en": "Broken and nothing is left."
+    },
+    {
+      "id": 74,
+      "start": 315.34,
+      "end": 317.16,
+      "ts": "05:15.340 -> 05:17.160",
+      "jp": "家がなくなった土地とか",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>がなくなった<ruby>土地<rt>とち</rt></ruby>とか",
+      "zh": "失去了家园的土地",
+      "en": "land where the house used to be"
+    },
+    {
+      "id": 75,
+      "start": 317.16,
+      "end": 320.74,
+      "ts": "05:17.160 -> 05:20.740",
+      "jp": "それがちょっと寂しいな",
+      "jp_html": "それがちょっと<ruby>寂しい<rt>さびしい</rt></ruby>な",
+      "zh": "这多少有点寂寞呢",
+      "en": "That's a little sad, isn't it?"
+    },
+    {
+      "id": 76,
+      "start": 320.74,
+      "end": 325.34,
+      "ts": "05:20.740 -> 05:25.340",
+      "jp": "結構いいところなんですよ",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>いいところなんですよ",
+      "zh": "结构很好呢",
+      "en": "It's a pretty good place, you know."
+    },
+    {
+      "id": 77,
+      "start": 325.34,
+      "end": 327.98,
+      "ts": "05:25.340 -> 05:27.980",
+      "jp": "山もある川もある",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>もある<ruby>川<rt>かわ</rt></ruby>もある",
+      "zh": "山也有河",
+      "en": "There are mountains and rivers."
+    },
+    {
+      "id": 78,
+      "start": 327.98,
+      "end": 330.5,
+      "ts": "05:27.980 -> 05:30.500",
+      "jp": "自然もあってね",
+      "jp_html": "<ruby>自然<rt>しぜん</rt></ruby>もあってね",
+      "zh": "也有自然的原因呢",
+      "en": "Also because of nature."
+    },
+    {
+      "id": 79,
+      "start": 330.5,
+      "end": 334.28,
+      "ts": "05:30.500 -> 05:34.280",
+      "jp": "空気もいいし食べ物もおいしい",
+      "jp_html": "<ruby>空気<rt>くうき</rt></ruby>もいいし<ruby>食べ物<rt>たべもの</rt></ruby>もおいしい",
+      "zh": "空气也好，食物也好吃",
+      "en": "The air is good and the food is delicious."
+    },
+    {
+      "id": 80,
+      "start": 334.28,
+      "end": 338.46,
+      "ts": "05:34.280 -> 05:38.460",
+      "jp": "だけどやっぱり大学とか仕事とか",
+      "jp_html": "だけどやっぱり<ruby>大学<rt>だいがく</rt></ruby>とか<ruby>仕事<rt>しごと</rt></ruby>とか",
+      "zh": "但是果然还是大学或者工作",
+      "en": "But anyway, universities or work or something like that"
+    },
+    {
+      "id": 81,
+      "start": 338.46,
+      "end": 341.28,
+      "ts": "05:38.460 -> 05:41.280",
+      "jp": "そういうのがあまりない",
+      "jp_html": "そういうのがあまりない",
+      "zh": "这种东西很少见",
+      "en": "There aren't many like that."
+    },
+    {
+      "id": 82,
+      "start": 341.28,
+      "end": 343.7,
+      "ts": "05:41.280 -> 05:43.700",
+      "jp": "大学も少ない仕事は",
+      "jp_html": "<ruby>大学<rt>だいがく</rt></ruby>も<ruby>少ない<rt>すくない</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>は",
+      "zh": "大学也少 工作也少",
+      "en": "There are also few universities and jobs."
+    },
+    {
+      "id": 83,
+      "start": 343.7,
+      "end": 347.44,
+      "ts": "05:43.700 -> 05:47.440",
+      "jp": "まあそうだな",
+      "jp_html": "まあそうだな",
+      "zh": "嗯，说得对吧",
+      "en": "Well, that's true."
+    },
+    {
+      "id": 84,
+      "start": 347.44,
+      "end": 351.9,
+      "ts": "05:47.440 -> 05:51.900",
+      "jp": "やっぱり東京に行きたい若い人がたくさんいますよね",
+      "jp_html": "やっぱり<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>たい<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>にん</rt></ruby>がたくさんいますよね",
+      "zh": "果然，很多年轻人都想来东京吧",
+      "en": "Isn't it true that many young people want to go to Tokyo?"
+    },
+    {
+      "id": 85,
+      "start": 351.9,
+      "end": 354.26,
+      "ts": "05:51.900 -> 05:54.260",
+      "jp": "僕みたいに",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>みたいに",
+      "zh": "像我这样的",
+      "en": "Like me"
+    },
+    {
+      "id": 86,
+      "start": 354.26,
+      "end": 358.32,
+      "ts": "05:54.260 -> 05:58.320",
+      "jp": "なのでちょっと寂しい気もするけど",
+      "jp_html": "なのでちょっと<ruby>寂しい<rt>さびしい</rt></ruby><ruby>気も<rt>きも</rt></ruby>するけど",
+      "zh": "所以有点寂寞也是正常的",
+      "en": "So I do feel a little lonely but"
+    },
+    {
+      "id": 87,
+      "start": 358.32,
+      "end": 360.52,
+      "ts": "05:58.320 -> 06:00.520",
+      "jp": "まあ僕もここに住んでないから",
+      "jp_html": "まあ<ruby>僕<rt>ぼく</rt></ruby>もここに<ruby>住ん<rt>すん</rt></ruby>でないから",
+      "zh": "反正我也不住在这里",
+      "en": "Well, I don't live here either."
+    },
+    {
+      "id": 88,
+      "start": 360.52,
+      "end": 363.6,
+      "ts": "06:00.520 -> 06:03.600",
+      "jp": "まあまあそれは仕方がないのかな",
+      "jp_html": "まあまあそれは<ruby>仕方<rt>しかた</rt></ruby>がないのかな",
+      "zh": "maybe那也是没办法的事情吧",
+      "en": "Well, that's probably unavoidable, huh?"
+    },
+    {
+      "id": 89,
+      "start": 363.6,
+      "end": 364.92,
+      "ts": "06:03.600 -> 06:04.920",
+      "jp": "どう思いますか皆さん",
+      "jp_html": "どう<ruby>思い<rt>おもい</rt></ruby>ますか<ruby>皆さん<rt>みなさん</rt></ruby>",
+      "zh": "大家觉得怎么样",
+      "en": "What do you all think?"
+    },
+    {
+      "id": 90,
+      "start": 364.92,
+      "end": 366.08,
+      "ts": "06:04.920 -> 06:06.080",
+      "jp": "田舎の",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>の",
+      "zh": "乡村的",
+      "en": "countryside"
+    },
+    {
+      "id": 91,
+      "start": 366.08,
+      "end": 369.24,
+      "ts": "06:06.080 -> 06:09.240",
+      "jp": "人がどんどんいなくなる問題ですね",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>がどんどんいなくなる<ruby>問題<rt>もんだい</rt></ruby>ですね",
+      "zh": "人口在逐渐减少的问题吧",
+      "en": "The problem is that people are gradually disappearing."
+    },
+    {
+      "id": 92,
+      "start": 369.24,
+      "end": 371.42,
+      "ts": "06:09.240 -> 06:11.420",
+      "jp": "田舎は人がどんどんいなくなる",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>は<ruby>人<rt>にん</rt></ruby>がどんどんいなくなる",
+      "zh": "农村人口在逐渐减少",
+      "en": "The countryside is losing people gradually."
+    },
+    {
+      "id": 93,
+      "start": 371.42,
+      "end": 375.26,
+      "ts": "06:11.420 -> 06:15.260",
+      "jp": "大丈夫かなとちょっと思いますけどね",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かなとちょっと<ruby>思い<rt>おもい</rt></ruby>ますけどね",
+      "zh": "我想 maybe 我是个男子汉吧",
+      "en": "I wonder if it's okay, you know?"
+    },
+    {
+      "id": 94,
+      "start": 375.26,
+      "end": 376.74,
+      "ts": "06:15.260 -> 06:16.740",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "还行",
+      "en": "Well, okay."
+    },
+    {
+      "id": 95,
+      "start": 376.74,
+      "end": 380.66,
+      "ts": "06:16.740 -> 06:20.660",
+      "jp": "ちょっと寂しい話になりました",
+      "jp_html": "ちょっと<ruby>寂しい<rt>さびしい</rt></ruby><ruby>話<rt>はなし</rt></ruby>になりました",
+      "zh": "话变得有点寂寞了",
+      "en": "It became a somewhat sad story."
+    },
+    {
+      "id": 96,
+      "start": 380.66,
+      "end": 383.26,
+      "ts": "06:20.660 -> 06:23.260",
+      "jp": "コーヒーでも飲もうと思います",
+      "jp_html": "コーヒーでも<ruby>飲も<rt>のも</rt></ruby>うと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想喝杯咖啡",
+      "en": "I think I'll have some coffee."
+    },
+    {
+      "id": 97,
+      "start": 383.26,
+      "end": 384.38,
+      "ts": "06:23.260 -> 06:24.380",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

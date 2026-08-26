@@ -28,6 +28,54 @@
   ],
   "episodes": [
     {
+      "id": "1573",
+      "title": "#1573「ちょっと僕のMac Bookに問題があります（涙）！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/08/26/1573%e3%80%8c%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8%e5%83%95%e3%81%aemac-book%e3%81%ab%e5%95%8f%e9%a1%8c%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%ef%bc%88%e6%b6%99%ef%bc%89%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1573.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1573.json"
+    },
+    {
+      "id": "1572",
+      "title": "#1572「田舎日記17」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/08/26/1572%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9817%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1572.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1572.json"
+    },
+    {
+      "id": "1571",
+      "title": "#1571「田舎日記16」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/08/26/1571%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9816%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1571.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1571.json"
+    },
+    {
+      "id": "1570",
+      "title": "#1570「田舎日記15」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/08/26/1570%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9815%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1570.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1570.json"
+    },
+    {
       "id": "1569",
       "title": "#1569「田舎日記14」",
       "category_id": "podcast",

@@ -1,0 +1,1374 @@
+{
+  "id": "1572",
+  "title": "#1572「田舎日記17」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1572.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1572.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/26/1572%e3%80%8c%e7%94%b0%e8%88%8e%e6%97%a5%e8%a8%9817%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.49,
+      "end": 3.13,
+      "ts": "00:01.490 -> 00:03.130",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.13,
+      "end": 4.69,
+      "ts": "00:03.130 -> 00:04.690",
+      "jp": "今日は",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>",
+      "zh": "今天",
+      "en": "Today"
+    },
+    {
+      "id": 2,
+      "start": 4.69,
+      "end": 7.15,
+      "ts": "00:04.690 -> 00:07.150",
+      "jp": "田舎日記",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>",
+      "zh": "乡村日记",
+      "en": "Rural Diary"
+    },
+    {
+      "id": 3,
+      "start": 7.15,
+      "end": 8.79,
+      "ts": "00:07.150 -> 00:08.790",
+      "jp": "寿司を食べた話",
+      "jp_html": "<ruby>寿司<rt>すし</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby><ruby>話<rt>はなし</rt></ruby>",
+      "zh": "吃寿司的故事",
+      "en": "A story about eating sushi."
+    },
+    {
+      "id": 4,
+      "start": 8.79,
+      "end": 11.27,
+      "ts": "00:08.790 -> 00:11.270",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 5,
+      "start": 11.27,
+      "end": 12.33,
+      "ts": "00:11.270 -> 00:12.330",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 6,
+      "start": 12.33,
+      "end": 14.57,
+      "ts": "00:12.330 -> 00:14.570",
+      "jp": "田舎日記最後の",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby><ruby>最後<rt>さいご</rt></ruby>の",
+      "zh": "乡村日记最后的",
+      "en": "Last rural diary"
+    },
+    {
+      "id": 7,
+      "start": 14.57,
+      "end": 16.33,
+      "ts": "00:14.570 -> 00:16.330",
+      "jp": "週末でした",
+      "jp_html": "<ruby>週末<rt>しゅうまつ</rt></ruby>でした",
+      "zh": "周末了",
+      "en": "It was the weekend."
+    },
+    {
+      "id": 8,
+      "start": 16.33,
+      "end": 19.49,
+      "ts": "00:16.330 -> 00:19.490",
+      "jp": "土曜日と日曜日があって",
+      "jp_html": "<ruby>土曜日<rt>どようび</rt></ruby>と<ruby>日曜日<rt>にちようび</rt></ruby>があって",
+      "zh": "星期六和星期天有",
+      "en": "There are Saturdays and Sundays."
+    },
+    {
+      "id": 9,
+      "start": 19.49,
+      "end": 20.59,
+      "ts": "00:19.490 -> 00:20.590",
+      "jp": "土曜日は",
+      "jp_html": "<ruby>土曜日<rt>どようび</rt></ruby>は",
+      "zh": "星期六是",
+      "en": "Saturday is"
+    },
+    {
+      "id": 10,
+      "start": 20.59,
+      "end": 22.73,
+      "ts": "00:20.590 -> 00:22.730",
+      "jp": "遊園地に行きました",
+      "jp_html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "我去了一趟游乐园",
+      "en": "I went to the amusement park."
+    },
+    {
+      "id": 11,
+      "start": 22.73,
+      "end": 24.95,
+      "ts": "00:22.730 -> 00:24.950",
+      "jp": "遊園地でジェットコースターに乗って",
+      "jp_html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>でジェットコースターに<ruby>乗って<rt>のって</rt></ruby>",
+      "zh": "在游乐园乘过山车",
+      "en": "I rode a roller coaster at the amusement park."
+    },
+    {
+      "id": 12,
+      "start": 24.95,
+      "end": 26.41,
+      "ts": "00:24.950 -> 00:26.410",
+      "jp": "僕は乗ってないけどね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>乗って<rt>のって</rt></ruby>ないけどね",
+      "zh": "我虽然没有坐呢",
+      "en": "I'm not riding though."
+    },
+    {
+      "id": 13,
+      "start": 26.41,
+      "end": 28.73,
+      "ts": "00:26.410 -> 00:28.730",
+      "jp": "子供はジェットコースターに乗って",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>はジェットコースターに<ruby>乗って<rt>のって</rt></ruby>",
+      "zh": "孩子们坐了过山车",
+      "en": "The child rode on the roller coaster."
+    },
+    {
+      "id": 14,
+      "start": 28.73,
+      "end": 30.49,
+      "ts": "00:28.730 -> 00:30.490",
+      "jp": "僕は夢の中で",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>夢<rt>ゆめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で",
+      "zh": "我在梦中",
+      "en": "I had a dream about"
+    },
+    {
+      "id": 15,
+      "start": 30.49,
+      "end": 32.99,
+      "ts": "00:30.490 -> 00:32.990",
+      "jp": "ジェットコースターに乗ってしまったと",
+      "jp_html": "ジェットコースターに<ruby>乗って<rt>のって</rt></ruby>しまったと",
+      "zh": "坐了过山车",
+      "en": "I ended up getting on the roller coaster."
+    },
+    {
+      "id": 16,
+      "start": 32.99,
+      "end": 34.55,
+      "ts": "00:32.990 -> 00:34.550",
+      "jp": "そういう話でした",
+      "jp_html": "そういう<ruby>話<rt>はなし</rt></ruby>でした",
+      "zh": "就是这样的话题。",
+      "en": "That's the kind of talk."
+    },
+    {
+      "id": 17,
+      "start": 34.55,
+      "end": 38.33,
+      "ts": "00:34.550 -> 00:38.330",
+      "jp": "今日は日曜の話ね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>日曜<rt>にちよう</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>ね",
+      "zh": "今天是周日的事情呢",
+      "en": "It's about Sunday today."
+    },
+    {
+      "id": 18,
+      "start": 38.33,
+      "end": 42.41,
+      "ts": "00:38.330 -> 00:42.410",
+      "jp": "日曜日は朝早く起きて",
+      "jp_html": "<ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>朝早く<rt>あさはやく</rt></ruby><ruby>起き<rt>おき</rt></ruby>て",
+      "zh": "周日早上早起",
+      "en": "I got up early on Sunday morning."
+    },
+    {
+      "id": 19,
+      "start": 42.41,
+      "end": 46.09,
+      "ts": "00:42.410 -> 00:46.090",
+      "jp": "まあまあ朝早く",
+      "jp_html": "まあまあ<ruby>朝早く<rt>あさはやく</rt></ruby>",
+      "zh": "嗯嗯，早点儿。",
+      "en": "Well, let's get up early then."
+    },
+    {
+      "id": 20,
+      "start": 46.09,
+      "end": 47.73,
+      "ts": "00:46.090 -> 00:47.730",
+      "jp": "まあ普通ですよね",
+      "jp_html": "まあ<ruby>普通<rt>ふつう</rt></ruby>ですよね",
+      "zh": "嘛，很正常吧？",
+      "en": "Well, that's normal, right?"
+    },
+    {
+      "id": 21,
+      "start": 47.73,
+      "end": 50.55,
+      "ts": "00:47.730 -> 00:50.550",
+      "jp": "普通に起きて朝8時に",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>に<ruby>起き<rt>おき</rt></ruby>て<ruby>朝<rt>あさ</rt></ruby>8<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "普通地起床，早上8点",
+      "en": "Wake up normally at 8 AM"
+    },
+    {
+      "id": 22,
+      "start": 50.55,
+      "end": 53.51,
+      "ts": "00:50.550 -> 00:53.510",
+      "jp": "友達が車で迎えに行きました",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>で<ruby>迎え<rt>むかえ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "朋友开车来接了我",
+      "en": "My friend came to pick me up in a car."
+    },
+    {
+      "id": 23,
+      "start": 53.51,
+      "end": 57.63,
+      "ts": "00:53.510 -> 00:57.630",
+      "jp": "そしてそこから1時間ぐらい車を運転して",
+      "jp_html": "そしてそこから1<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>して",
+      "zh": "然后开车再行驶大约一个小时左右",
+      "en": "And then drive for about an hour from there."
+    },
+    {
+      "id": 24,
+      "start": 57.63,
+      "end": 59.73,
+      "ts": "00:57.630 -> 00:59.730",
+      "jp": "ちょっと海の近くですね",
+      "jp_html": "ちょっと<ruby>海<rt>うみ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>ですね",
+      "zh": "离海近一点。",
+      "en": "It's just a little close to the sea, huh?"
+    },
+    {
+      "id": 25,
+      "start": 59.73,
+      "end": 62.69,
+      "ts": "00:59.730 -> 01:02.690",
+      "jp": "大分県の海の近く",
+      "jp_html": "<ruby>大分県<rt>おおいたけん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>",
+      "zh": "大分县海边附近",
+      "en": "Near the sea inŌita Prefecture"
+    },
+    {
+      "id": 26,
+      "start": 62.69,
+      "end": 64.09,
+      "ts": "01:02.690 -> 01:04.090",
+      "jp": "佐伯市ですね",
+      "jp_html": "<ruby>佐伯<rt>さえき</rt></ruby><ruby>市<rt>し</rt></ruby>ですね",
+      "zh": "这是佐伯市吧？",
+      "en": "It's Sakaoka City, right?"
+    },
+    {
+      "id": 27,
+      "start": 64.09,
+      "end": 65.63,
+      "ts": "01:04.090 -> 01:05.630",
+      "jp": "佐伯の方に行きました",
+      "jp_html": "<ruby>佐伯<rt>さえき</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "去了佐伯那边",
+      "en": "I went to the direction of Sano."
+    },
+    {
+      "id": 28,
+      "start": 65.63,
+      "end": 71.51,
+      "ts": "01:05.630 -> 01:11.510",
+      "jp": "そこで朝から寿司を食べるということをしました",
+      "jp_html": "そこで<ruby>朝<rt>あさ</rt></ruby>から<ruby>寿司<rt>すし</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>るということをしました",
+      "zh": "于是决定从早上开始吃寿司",
+      "en": "So I decided to eat sushi from morning."
+    },
+    {
+      "id": 29,
+      "start": 71.51,
+      "end": 76.15,
+      "ts": "01:11.510 -> 01:16.150",
+      "jp": "正直言って僕は朝寿司を食べたくないです",
+      "jp_html": "<ruby>正直<rt>しょうじき</rt></ruby><ruby>言って<rt>いって</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>朝<rt>あさ</rt></ruby><ruby>寿司<rt>すし</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>くないです",
+      "zh": "老实说我不想吃早饭寿司",
+      "en": "To be honest, I don't feel like eating breakfast sushi."
+    },
+    {
+      "id": 30,
+      "start": 76.15,
+      "end": 78.95,
+      "ts": "01:16.150 -> 01:18.950",
+      "jp": "だけど友達が",
+      "jp_html": "だけど<ruby>友達<rt>ともだち</rt></ruby>が",
+      "zh": "但是朋友",
+      "en": "But my friends are"
+    },
+    {
+      "id": 31,
+      "start": 78.95,
+      "end": 82.65,
+      "ts": "01:18.950 -> 01:22.650",
+      "jp": "いやあそこの寿司は朝食べるのがいい",
+      "jp_html": "いやあそこの<ruby>寿司<rt>すし</rt></ruby>は<ruby>朝食<rt>ちょうしょく</rt></ruby>べるのがいい",
+      "zh": "哎，那边的寿司早上吃比较好",
+      "en": "Well, those sushi are best eaten in the morning."
+    },
+    {
+      "id": 32,
+      "start": 82.65,
+      "end": 88.03,
+      "ts": "01:22.650 -> 01:28.030",
+      "jp": "昼になると美味しい魚がもうなくなってしまう",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>になると<ruby>美味しい<rt>おいしい</rt></ruby><ruby>魚<rt>さかな</rt></ruby>がもうなくなってしまう",
+      "zh": "到了白天，美味的鱼就都没有了",
+      "en": "By noon, all the delicious fish will be gone."
+    },
+    {
+      "id": 33,
+      "start": 88.03,
+      "end": 89.17,
+      "ts": "01:28.030 -> 01:29.170",
+      "jp": "みたいなことを言うので",
+      "jp_html": "みたいなことを<ruby>言う<rt>いう</rt></ruby>ので",
+      "zh": "像这样说话",
+      "en": "like that"
+    },
+    {
+      "id": 34,
+      "start": 89.17,
+      "end": 92.31,
+      "ts": "01:29.170 -> 01:32.310",
+      "jp": "わかりましたいいですよと言って",
+      "jp_html": "わかりましたいいですよと<ruby>言って<rt>いって</rt></ruby>",
+      "zh": "明白了好啊我说了",
+      "en": "Understood, I'll say okay."
+    },
+    {
+      "id": 35,
+      "start": 92.31,
+      "end": 94.57,
+      "ts": "01:32.310 -> 01:34.570",
+      "jp": "まあ友達の車で",
+      "jp_html": "まあ<ruby>友達<rt>ともだち</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で",
+      "zh": "反正朋友的车",
+      "en": "Well, as a friend's car"
+    },
+    {
+      "id": 36,
+      "start": 94.57,
+      "end": 96.49,
+      "ts": "01:34.570 -> 01:36.490",
+      "jp": "僕の友達と",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>と",
+      "zh": "我的朋友和",
+      "en": "My friend and"
+    },
+    {
+      "id": 37,
+      "start": 96.49,
+      "end": 98.19,
+      "ts": "01:36.490 -> 01:38.190",
+      "jp": "友達の奥さん",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>",
+      "zh": "朋友的夫人",
+      "en": "My friend's wife"
+    },
+    {
+      "id": 38,
+      "start": 98.19,
+      "end": 99.41,
+      "ts": "01:38.190 -> 01:39.410",
+      "jp": "友達の子供",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>",
+      "zh": "朋友的孩子",
+      "en": "Friend's child"
+    },
+    {
+      "id": 39,
+      "start": 99.41,
+      "end": 101.49,
+      "ts": "01:39.410 -> 01:41.490",
+      "jp": "そして僕と僕の子供",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>と<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>",
+      "zh": "然后我和我的孩子",
+      "en": "And me and my child"
+    },
+    {
+      "id": 40,
+      "start": 101.49,
+      "end": 105.49,
+      "ts": "01:41.490 -> 01:45.490",
+      "jp": "5人で朝から寿司を食べに行きました",
+      "jp_html": "5<ruby>人<rt>にん</rt></ruby>で<ruby>朝<rt>あさ</rt></ruby>から<ruby>寿司<rt>すし</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "五个人从早上开始去吃寿司",
+      "en": "We went out for sushi with five people in the morning."
+    },
+    {
+      "id": 41,
+      "start": 105.49,
+      "end": 106.57,
+      "ts": "01:45.490 -> 01:46.570",
+      "jp": "9時ですね",
+      "jp_html": "9<ruby>時<rt>とき</rt></ruby>ですね",
+      "zh": "是9点吧",
+      "en": "It's 9 o'clock."
+    },
+    {
+      "id": 42,
+      "start": 106.57,
+      "end": 109.63,
+      "ts": "01:46.570 -> 01:49.630",
+      "jp": "午前9時に店が開いて",
+      "jp_html": "<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時に<rt>ときに</rt></ruby><ruby>店<rt>みせ</rt></ruby>が<ruby>開い<rt>ひらい</rt></ruby>て",
+      "zh": "上午9点开门",
+      "en": "The store opens at 9 AM."
+    },
+    {
+      "id": 43,
+      "start": 109.63,
+      "end": 111.93,
+      "ts": "01:49.630 -> 01:51.930",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "那个-Allow me to introduce myself.",
+      "en": "Um-"
+    },
+    {
+      "id": 44,
+      "start": 111.93,
+      "end": 113.19,
+      "ts": "01:51.930 -> 01:53.190",
+      "jp": "寿司を食べました",
+      "jp_html": "<ruby>寿司<rt>すし</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "我吃了寿司",
+      "en": "I ate sushi."
+    },
+    {
+      "id": 45,
+      "start": 113.19,
+      "end": 114.61,
+      "ts": "01:53.190 -> 01:54.610",
+      "jp": "朝9時に",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>9<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "早上9点",
+      "en": "At 9 AM in the morning"
+    },
+    {
+      "id": 46,
+      "start": 114.61,
+      "end": 116.27,
+      "ts": "01:54.610 -> 01:56.270",
+      "jp": "ちょっと変",
+      "jp_html": "ちょっと<ruby>変<rt>へん</rt></ruby>",
+      "zh": "有点怪异",
+      "en": "A little strange"
+    },
+    {
+      "id": 47,
+      "start": 116.27,
+      "end": 118.21,
+      "ts": "01:56.270 -> 01:58.210",
+      "jp": "ちょっと変",
+      "jp_html": "ちょっと<ruby>変<rt>へん</rt></ruby>",
+      "zh": "有点怪异",
+      "en": "A little strange"
+    },
+    {
+      "id": 48,
+      "start": 118.21,
+      "end": 121.35,
+      "ts": "01:58.210 -> 02:01.350",
+      "jp": "友達は結構たくさん食べてた",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>たくさん<ruby>食べて<rt>たべて</rt></ruby>た",
+      "zh": "朋友吃了很多东西",
+      "en": "My friend was eating quite a lot."
+    },
+    {
+      "id": 49,
+      "start": 121.35,
+      "end": 123.35,
+      "ts": "02:01.350 -> 02:03.350",
+      "jp": "僕はまあまあ食べました",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>まあまあ<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "我吃了蛮多的",
+      "en": "I ate pretty decently."
+    },
+    {
+      "id": 50,
+      "start": 123.35,
+      "end": 125.47,
+      "ts": "02:03.350 -> 02:05.470",
+      "jp": "十分食べました",
+      "jp_html": "<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "吃得很饱",
+      "en": "I ate enough."
+    },
+    {
+      "id": 51,
+      "start": 125.47,
+      "end": 128.69,
+      "ts": "02:05.470 -> 02:08.690",
+      "jp": "子供は少し食べました",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "孩子吃了一点食物",
+      "en": "The children ate a little."
+    },
+    {
+      "id": 52,
+      "start": 128.69,
+      "end": 131.29,
+      "ts": "02:08.690 -> 02:11.290",
+      "jp": "そしてその後",
+      "jp_html": "そしてその<ruby>後<rt>のち</rt></ruby>",
+      "zh": "然后随后",
+      "en": "And then afterwards"
+    },
+    {
+      "id": 53,
+      "start": 131.29,
+      "end": 133.85,
+      "ts": "02:11.290 -> 02:13.850",
+      "jp": "美味しかったです",
+      "jp_html": "<ruby>美味しか<rt>おいしか</rt></ruby>ったです",
+      "zh": "很好吃",
+      "en": "It was delicious."
+    },
+    {
+      "id": 54,
+      "start": 133.85,
+      "end": 136.17,
+      "ts": "02:13.850 -> 02:16.170",
+      "jp": "本当に美味しい寿司でしたけど",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>美味しい<rt>おいしい</rt></ruby><ruby>寿司<rt>すし</rt></ruby>でしたけど",
+      "zh": "真的很好吃壽司 (~(￢￣￢)~)",
+      "en": "The sushi was really delicious but"
+    },
+    {
+      "id": 55,
+      "start": 136.17,
+      "end": 139.77,
+      "ts": "02:16.170 -> 02:19.770",
+      "jp": "朝じゃない方がいいかな僕は",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>じゃない<ruby>方が<rt>ほうが</rt></ruby>いいかな<ruby>僕は<rt>ぼくは</rt></ruby>",
+      "zh": "不如不是早晨好了吗我",
+      "en": "Maybe it shouldn't be in the morning, I think."
+    },
+    {
+      "id": 56,
+      "start": 139.77,
+      "end": 143.71,
+      "ts": "02:19.770 -> 02:23.710",
+      "jp": "寿司は昼とか夜でいいですね",
+      "jp_html": "<ruby>寿司<rt>すし</rt></ruby>は<ruby>昼<rt>ひる</rt></ruby>とか<ruby>夜<rt>よる</rt></ruby>でいいですね",
+      "zh": "寿司是中午或晚上都可以吃呢",
+      "en": "Sushi is good for lunch or dinner."
+    },
+    {
+      "id": 57,
+      "start": 143.71,
+      "end": 144.67,
+      "ts": "02:23.710 -> 02:24.670",
+      "jp": "朝ですよ",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>ですよ",
+      "zh": "早上好",
+      "en": "It's morning."
+    },
+    {
+      "id": 58,
+      "start": 144.67,
+      "end": 146.33,
+      "ts": "02:24.670 -> 02:26.330",
+      "jp": "午前9時ですよ",
+      "jp_html": "<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>とき</rt></ruby>ですよ",
+      "zh": "上午9点吧",
+      "en": "It's 9 AM."
+    },
+    {
+      "id": 59,
+      "start": 146.33,
+      "end": 148.93,
+      "ts": "02:26.330 -> 02:28.930",
+      "jp": "コーヒーが飲みたかったですよね",
+      "jp_html": "コーヒーが<ruby>飲み<rt>のみ</rt></ruby>たかったですよね",
+      "zh": "您想喝咖啡对吧？",
+      "en": "You wanted to drink coffee, didn't you?"
+    },
+    {
+      "id": 60,
+      "start": 148.93,
+      "end": 153.44,
+      "ts": "02:28.930 -> 02:33.440",
+      "jp": "その後は岬に行きました",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>は<ruby>岬<rt>みさき</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "然后我们去了岬",
+      "en": "Then we went to the cape."
+    },
+    {
+      "id": 61,
+      "start": 153.44,
+      "end": 161.48,
+      "ts": "02:33.440 -> 02:41.480",
+      "jp": "岬というのは海の近くに山みたいなのがあって",
+      "jp_html": "<ruby>岬<rt>みさき</rt></ruby>というのは<ruby>海<rt>うみ</rt></ruby>の<ruby>近く<rt>ちかく</rt></ruby>に<ruby>山<rt>やま</rt></ruby>みたいなのがあって",
+      "zh": "岬是指海边有像山一样的突出部分",
+      "en": "A cape is where there's a hill-like feature near the sea."
+    },
+    {
+      "id": 62,
+      "start": 161.48,
+      "end": 166.84,
+      "ts": "02:41.480 -> 02:46.840",
+      "jp": "山から海が見えるみたいなところを岬と言います",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>から<ruby>海<rt>うみ</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>るみたいなところを<ruby>岬<rt>みさき</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ます",
+      "zh": "我们把能看到海的山岬叫做岬",
+      "en": "We call a place where you can see the sea from a cape like a mountain."
+    },
+    {
+      "id": 63,
+      "start": 166.84,
+      "end": 169.06,
+      "ts": "02:46.840 -> 02:49.060",
+      "jp": "ちょっとわからない人は調べてみてください",
+      "jp_html": "ちょっとわからない<ruby>人<rt>にん</rt></ruby>は<ruby>調べ<rt>しらべ</rt></ruby>てみてください",
+      "zh": "稍微不明白的人可以查一查",
+      "en": "People who don't understand should check it out."
+    },
+    {
+      "id": 64,
+      "start": 169.06,
+      "end": 174.5,
+      "ts": "02:49.060 -> 02:54.500",
+      "jp": "岬というのは山から海が見える",
+      "jp_html": "<ruby>岬<rt>みさき</rt></ruby>というのは<ruby>山<rt>やま</rt></ruby>から<ruby>海<rt>うみ</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>る",
+      "zh": "岬是指从山上可以看到海的地方",
+      "en": "A cape is where you can see the sea from a mountain."
+    },
+    {
+      "id": 65,
+      "start": 174.5,
+      "end": 177.42,
+      "ts": "02:54.500 -> 02:57.420",
+      "jp": "山というか山ですね",
+      "jp_html": "<ruby>山<rt>やま</rt></ruby>というか<ruby>山<rt>やま</rt></ruby>ですね",
+      "zh": "那叫山吧",
+      "en": "It's more of a mountain, you could say."
+    },
+    {
+      "id": 66,
+      "start": 177.42,
+      "end": 181.2,
+      "ts": "02:57.420 -> 03:01.200",
+      "jp": "ちょっと怖いねちょっと怖いです",
+      "jp_html": "ちょっと<ruby>怖い<rt>こわい</rt></ruby>ねちょっと<ruby>怖い<rt>こわい</rt></ruby>です",
+      "zh": "有点可怕呢有点可怕",
+      "en": "A little scary, a little scary."
+    },
+    {
+      "id": 67,
+      "start": 181.2,
+      "end": 186.76,
+      "ts": "03:01.200 -> 03:06.760",
+      "jp": "ビーチじゃなくて石の山みたいな感じなんですね",
+      "jp_html": "ビーチじゃなくて<ruby>石<rt>いし</rt></ruby>の<ruby>山<rt>やま</rt></ruby>みたいな<ruby>感じ<rt>かんじ</rt></ruby>なんですね",
+      "zh": "那感觉像是石头山而不是海滩",
+      "en": "It feels more like a mountain of stones instead of a beach."
+    },
+    {
+      "id": 68,
+      "start": 186.76,
+      "end": 192.78,
+      "ts": "03:06.760 -> 03:12.780",
+      "jp": "そしてその石の山から海が見えるんですけど結構高いんですね",
+      "jp_html": "そしてその<ruby>石<rt>いし</rt></ruby>の<ruby>山<rt>やま</rt></ruby>から<ruby>海<rt>うみ</rt></ruby>が<ruby>見え<rt>みえ</rt></ruby>るんですけど<ruby>結構<rt>けっこう</rt></ruby><ruby>高い<rt>たかい</rt></ruby>んですね",
+      "zh": "然后从那座石头山上看下去可以看见海，海拔挺高的。",
+      "en": "And from that mountain of stones, you can see the sea, and it's quite high up, isn't it?"
+    },
+    {
+      "id": 69,
+      "start": 192.78,
+      "end": 196.86,
+      "ts": "03:12.780 -> 03:16.860",
+      "jp": "結構高い場所にあって怖いんですね",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>高い<rt>たかい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>にあって<ruby>怖い<rt>こわい</rt></ruby>んですね",
+      "zh": "结构高的地方让人觉得害怕呢",
+      "en": "It's scary because it's in such a high place."
+    },
+    {
+      "id": 70,
+      "start": 196.86,
+      "end": 200.64,
+      "ts": "03:16.860 -> 03:20.640",
+      "jp": "なんか怖い本当に怖いです",
+      "jp_html": "なんか<ruby>怖い<rt>こわい</rt></ruby><ruby>本当<rt>ほんとう</rt></ruby>に<ruby>怖い<rt>こわい</rt></ruby>です",
+      "zh": "真的好可怕",
+      "en": "Something is scary. I really am scared."
+    },
+    {
+      "id": 71,
+      "start": 202.26,
+      "end": 206.66,
+      "ts": "03:22.260 -> 03:26.660",
+      "jp": "映画とかで人が死ぬ時があるじゃないですか",
+      "jp_html": "<ruby>映画<rt>えいが</rt></ruby>とかで<ruby>人<rt>にん</rt></ruby>が<ruby>死ぬ<rt>しぬ</rt></ruby><ruby>時<rt>とき</rt></ruby>があるじゃないですか",
+      "zh": "电影里不是有时候会有角色死亡的情节吗",
+      "en": "Don't people die in movies, right?"
+    },
+    {
+      "id": 72,
+      "start": 206.66,
+      "end": 207.92,
+      "ts": "03:26.660 -> 03:27.920",
+      "jp": "戦いとかで",
+      "jp_html": "<ruby>戦い<rt>たたかい</rt></ruby>とかで",
+      "zh": "战斗或者",
+      "en": "battle or in fights"
+    },
+    {
+      "id": 73,
+      "start": 207.92,
+      "end": 211.54,
+      "ts": "03:27.920 -> 03:31.540",
+      "jp": "例えば昔の映画ね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>昔<rt>むかし</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>ね",
+      "zh": "比如以前的电影呢",
+      "en": "For example, the old movies, you know?"
+    },
+    {
+      "id": 74,
+      "start": 211.54,
+      "end": 216.4,
+      "ts": "03:31.540 -> 03:36.400",
+      "jp": "なんかこうローマ時代の戦いみたいなのでも",
+      "jp_html": "なんかこうローマ<ruby>時代<rt>じだい</rt></ruby>の<ruby>戦い<rt>たたかい</rt></ruby>みたいなのでも",
+      "zh": "感觉就像罗马时代的战斗一样",
+      "en": "It's kind of like a battle from Roman times too"
+    },
+    {
+      "id": 75,
+      "start": 216.4,
+      "end": 218.32,
+      "ts": "03:36.400 -> 03:38.320",
+      "jp": "岬から落ちたりとかね",
+      "jp_html": "<ruby>岬<rt>みさき</rt></ruby>から<ruby>落ち<rt>おち</rt></ruby>たりとかね",
+      "zh": "从岬上掉下来之类的",
+      "en": "Or like falling off a cliff."
+    },
+    {
+      "id": 76,
+      "start": 218.32,
+      "end": 221.54,
+      "ts": "03:38.320 -> 03:41.540",
+      "jp": "あとはハリーポッターみたいなのとか",
+      "jp_html": "あとはハリーポッターみたいなのとか",
+      "zh": "剩下的就是哈利波特那样的东西了",
+      "en": "And then things like Harry Potter"
+    },
+    {
+      "id": 77,
+      "start": 221.54,
+      "end": 223.58,
+      "ts": "03:41.540 -> 03:43.580",
+      "jp": "なんかいろいろな映画で",
+      "jp_html": "なんかいろいろな<ruby>映画<rt>えいが</rt></ruby>で",
+      "zh": "各种电影里",
+      "en": "Something in various movies"
+    },
+    {
+      "id": 78,
+      "start": 223.58,
+      "end": 226.6,
+      "ts": "03:43.580 -> 03:46.600",
+      "jp": "崖というのかな",
+      "jp_html": "<ruby>崖<rt>がけ</rt></ruby>というのかな",
+      "zh": "叫吧，可能是悬崖吧",
+      "en": "Is it a cliff, I wonder?"
+    },
+    {
+      "id": 79,
+      "start": 226.6,
+      "end": 228.2,
+      "ts": "03:46.600 -> 03:48.200",
+      "jp": "崖みたいなところですね",
+      "jp_html": "<ruby>崖<rt>がけ</rt></ruby>みたいなところですね",
+      "zh": "就像悬崖一样的地方吧",
+      "en": "It's like a cliff, right?"
+    },
+    {
+      "id": 80,
+      "start": 228.2,
+      "end": 230.88,
+      "ts": "03:48.200 -> 03:50.880",
+      "jp": "岬崖",
+      "jp_html": "<ruby>岬<rt>みさき</rt></ruby><ruby>崖<rt>がけ</rt></ruby>",
+      "zh": "岬崖",
+      "en": "Headland Cliff"
+    },
+    {
+      "id": 81,
+      "start": 230.88,
+      "end": 235.86,
+      "ts": "03:50.880 -> 03:55.860",
+      "jp": "石の上から海に落ちるシーンが",
+      "jp_html": "<ruby>石<rt>いし</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>から<ruby>海<rt>うみ</rt></ruby>に<ruby>落ちる<rt>おちる</rt></ruby>シーンが",
+      "zh": "石头上掉落进海里的场景",
+      "en": "The scene of falling into the sea from a stone on top of it."
+    },
+    {
+      "id": 82,
+      "start": 235.86,
+      "end": 236.88,
+      "ts": "03:55.860 -> 03:56.880",
+      "jp": "いろいろありますよね",
+      "jp_html": "いろいろありますよね",
+      "zh": "确实有很多吧",
+      "en": "There are many things, aren't there?"
+    },
+    {
+      "id": 83,
+      "start": 236.88,
+      "end": 238.18,
+      "ts": "03:56.880 -> 03:58.180",
+      "jp": "ハリポッターじゃないかな",
+      "jp_html": "ハリポッターじゃないかな",
+      "zh": "不会是哈利·波特吧？",
+      "en": "Isn't it Harry Potter?"
+    },
+    {
+      "id": 84,
+      "start": 238.18,
+      "end": 240.96,
+      "ts": "03:58.180 -> 04:00.960",
+      "jp": "ちょっといろいろな映画であると思う",
+      "jp_html": "ちょっといろいろな<ruby>映画<rt>えいが</rt></ruby>であると<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得这可能是好几部电影",
+      "en": "I think it's a variety of movies."
+    },
+    {
+      "id": 85,
+      "start": 240.96,
+      "end": 242.96,
+      "ts": "04:00.960 -> 04:02.960",
+      "jp": "そんなシーンが",
+      "jp_html": "そんなシーンが",
+      "zh": "那样的场景就",
+      "en": "Such scenes occur"
+    },
+    {
+      "id": 86,
+      "start": 242.96,
+      "end": 246.48,
+      "ts": "04:02.960 -> 04:06.480",
+      "jp": "サスペンスとかでも多い",
+      "jp_html": "サスペンスとかでも<ruby>多い<rt>おおい</rt></ruby>",
+      "zh": "悬疑片里也很多见",
+      "en": "Suspense is also common in that."
+    },
+    {
+      "id": 87,
+      "start": 246.48,
+      "end": 247.7,
+      "ts": "04:06.480 -> 04:07.700",
+      "jp": "テレビドラマでも",
+      "jp_html": "テレビドラマでも",
+      "zh": "电视连续剧里也",
+      "en": "In TV dramas as well"
+    },
+    {
+      "id": 88,
+      "start": 247.7,
+      "end": 249.82,
+      "ts": "04:07.700 -> 04:09.820",
+      "jp": "悪いやつがね",
+      "jp_html": "<ruby>悪い<rt>わるい</rt></ruby>やつがね",
+      "zh": "坏家伙",
+      "en": "The bad guy got away."
+    },
+    {
+      "id": 89,
+      "start": 249.82,
+      "end": 251.76,
+      "ts": "04:09.820 -> 04:11.760",
+      "jp": "崖から",
+      "jp_html": "<ruby>崖<rt>がけ</rt></ruby>から",
+      "zh": "从悬崖",
+      "en": "from the cliff"
+    },
+    {
+      "id": 90,
+      "start": 251.76,
+      "end": 254.32,
+      "ts": "04:11.760 -> 04:14.320",
+      "jp": "人を落とすとかね",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>を<ruby>落と<rt>おと</rt></ruby>すとかね",
+      "zh": "让人摔倒的意思",
+      "en": "To throw someone off balance"
+    },
+    {
+      "id": 91,
+      "start": 254.32,
+      "end": 255.94,
+      "ts": "04:14.320 -> 04:15.940",
+      "jp": "そういうシーンがありますよ",
+      "jp_html": "そういうシーンがありますよ",
+      "zh": "有这样的场景哦",
+      "en": "There are scenes like that."
+    },
+    {
+      "id": 92,
+      "start": 255.94,
+      "end": 258.08,
+      "ts": "04:15.940 -> 04:18.080",
+      "jp": "怖い",
+      "jp_html": "<ruby>怖い<rt>こわい</rt></ruby>",
+      "zh": "恐怖",
+      "en": "Scary"
+    },
+    {
+      "id": 93,
+      "start": 258.08,
+      "end": 260.26,
+      "ts": "04:18.080 -> 04:20.260",
+      "jp": "楽しかったかというと",
+      "jp_html": "<ruby>楽しか<rt>たのしか</rt></ruby>ったかというと",
+      "zh": "你玩得开心吗？",
+      "en": "Was it fun?"
+    },
+    {
+      "id": 94,
+      "start": 260.26,
+      "end": 261.62,
+      "ts": "04:20.260 -> 04:21.620",
+      "jp": "楽しくない",
+      "jp_html": "<ruby>楽しく<rt>たのしく</rt></ruby>ない",
+      "zh": "不有趣",
+      "en": "Not fun"
+    },
+    {
+      "id": 95,
+      "start": 261.62,
+      "end": 263.7,
+      "ts": "04:21.620 -> 04:23.700",
+      "jp": "なんで",
+      "jp_html": "なんで",
+      "zh": "为什么",
+      "en": "Why"
+    },
+    {
+      "id": 96,
+      "start": 263.7,
+      "end": 266.46,
+      "ts": "04:23.700 -> 04:26.460",
+      "jp": "なんでそこに行ったか分かりません",
+      "jp_html": "なんでそこに<ruby>行った<rt>いった</rt></ruby>か<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "为什么去了那里我不知道",
+      "en": "I don't know why I went there."
+    },
+    {
+      "id": 97,
+      "start": 266.46,
+      "end": 268.92,
+      "ts": "04:26.460 -> 04:28.920",
+      "jp": "なんでそこに行ったか分かりません",
+      "jp_html": "なんでそこに<ruby>行った<rt>いった</rt></ruby>か<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "为什么去了那里我不知道",
+      "en": "I don't know why I went there."
+    },
+    {
+      "id": 98,
+      "start": 268.92,
+      "end": 271.22,
+      "ts": "04:28.920 -> 04:31.220",
+      "jp": "全然分からない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>分か<rt>わか</rt></ruby>らない",
+      "zh": "完全不懂",
+      "en": "I don't understand at all"
+    },
+    {
+      "id": 99,
+      "start": 271.22,
+      "end": 275.3,
+      "ts": "04:31.220 -> 04:35.300",
+      "jp": "だけど寿司を食べてその後三崎に行って",
+      "jp_html": "だけど<ruby>寿司<rt>すし</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>その<ruby>後<rt>のち</rt></ruby><ruby>三崎<rt>みさき</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "但是吃了寿司之后再去三崎",
+      "en": "But I ate sushi and then went to Mutsu afterwards."
+    },
+    {
+      "id": 100,
+      "start": 275.3,
+      "end": 278.94,
+      "ts": "04:35.300 -> 04:38.940",
+      "jp": "崖の下を見て怖いなと思って",
+      "jp_html": "<ruby>崖<rt>がけ</rt></ruby>の<ruby>下<rt>した</rt></ruby>を<ruby>見て<rt>みて</rt></ruby><ruby>怖い<rt>こわい</rt></ruby>なと<ruby>思って<rt>おもって</rt></ruby>",
+      "zh": "看到悬崖下面觉得害怕呢",
+      "en": "I find it scary looking down from the cliff."
+    },
+    {
+      "id": 101,
+      "start": 278.94,
+      "end": 283.52,
+      "ts": "04:38.940 -> 04:43.520",
+      "jp": "その後パフェを食べましたね",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>パフェを<ruby>食べ<rt>たべ</rt></ruby>ましたね",
+      "zh": "之后吃了巴菲吧",
+      "en": "Then we ate the parfait, right?"
+    },
+    {
+      "id": 102,
+      "start": 283.52,
+      "end": 284.92,
+      "ts": "04:43.520 -> 04:44.920",
+      "jp": "アイスクリームパフェ",
+      "jp_html": "アイスクリームパフェ",
+      "zh": "冰淇淋帕夫",
+      "en": "Ice cream parfait"
+    },
+    {
+      "id": 103,
+      "start": 284.92,
+      "end": 287.16,
+      "ts": "04:44.920 -> 04:47.160",
+      "jp": "めっちゃ美味しかったです",
+      "jp_html": "めっちゃ<ruby>美味しか<rt>おいしか</rt></ruby>ったです",
+      "zh": "真的超级好吃",
+      "en": "It was really delicious."
+    },
+    {
+      "id": 104,
+      "start": 287.16,
+      "end": 289.94,
+      "ts": "04:47.160 -> 04:49.940",
+      "jp": "そしてコーヒーを飲んで",
+      "jp_html": "そしてコーヒーを<ruby>飲ん<rt>のん</rt></ruby>で",
+      "zh": "然后喝咖啡",
+      "en": "And then drink coffee."
+    },
+    {
+      "id": 105,
+      "start": 289.94,
+      "end": 291.6,
+      "ts": "04:49.940 -> 04:51.600",
+      "jp": "めっちゃ良かったです",
+      "jp_html": "めっちゃ<ruby>良か<rt>よか</rt></ruby>ったです",
+      "zh": "真的太好了",
+      "en": "It was really great!"
+    },
+    {
+      "id": 106,
+      "start": 291.6,
+      "end": 294.24,
+      "ts": "04:51.600 -> 04:54.240",
+      "jp": "それが昼の1時ぐらいかな",
+      "jp_html": "それが<ruby>昼<rt>ひる</rt></ruby>の1<ruby>時<rt>とき</rt></ruby>ぐらいかな",
+      "zh": "那大概是一点钟左右吧",
+      "en": "That was around 1 o'clock in the afternoon."
+    },
+    {
+      "id": 107,
+      "start": 294.24,
+      "end": 299.28,
+      "ts": "04:54.240 -> 04:59.280",
+      "jp": "で車で長い時間をかけて帰ってきました",
+      "jp_html": "で<ruby>車<rt>くるま</rt></ruby>で<ruby>長い<rt>ながい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>をかけて<ruby>帰っ<rt>かえっ</rt></ruby>てきました",
+      "zh": "开车回家，花了很长时间",
+      "en": "I came back after a long time by car."
+    },
+    {
+      "id": 108,
+      "start": 299.28,
+      "end": 303.24,
+      "ts": "04:59.280 -> 05:03.240",
+      "jp": "3時?4時ぐらいだったかな",
+      "jp_html": "3<ruby>時<rt>とき</rt></ruby>?4<ruby>時<rt>とき</rt></ruby>ぐらいだったかな",
+      "zh": "大概是3点左右或者4点左右吧",
+      "en": "It was around 3 o'clock or 4 o'clock, I think."
+    },
+    {
+      "id": 109,
+      "start": 303.24,
+      "end": 304.78,
+      "ts": "05:03.240 -> 05:04.780",
+      "jp": "ちょっと早いけど",
+      "jp_html": "ちょっと<ruby>早い<rt>はやい</rt></ruby>けど",
+      "zh": "有点早吧",
+      "en": "It's a bit early but"
+    },
+    {
+      "id": 110,
+      "start": 304.78,
+      "end": 307.5,
+      "ts": "05:04.780 -> 05:07.500",
+      "jp": "朝早かったし",
+      "jp_html": "<ruby>朝早か<rt>あさはやか</rt></ruby>ったし",
+      "zh": "早上起得早了",
+      "en": "It was early in the morning."
+    },
+    {
+      "id": 111,
+      "start": 307.5,
+      "end": 310.04,
+      "ts": "05:07.500 -> 05:10.040",
+      "jp": "寿司も食べたし",
+      "jp_html": "<ruby>寿司<rt>すし</rt></ruby>も<ruby>食べた<rt>たべた</rt></ruby>し",
+      "zh": "也吃了寿司",
+      "en": "I ate sushi too."
+    },
+    {
+      "id": 112,
+      "start": 310.04,
+      "end": 312.46,
+      "ts": "05:10.040 -> 05:12.460",
+      "jp": "崖にも行ったし",
+      "jp_html": "<ruby>崖<rt>がけ</rt></ruby>にも<ruby>行った<rt>いった</rt></ruby>し",
+      "zh": "也去过了悬崖",
+      "en": "I've been to the cliff too."
+    },
+    {
+      "id": 113,
+      "start": 312.46,
+      "end": 316.14,
+      "ts": "05:12.460 -> 05:16.140",
+      "jp": "アイスクリームパフェも食べて",
+      "jp_html": "アイスクリームパフェも<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "也吃一下冰淇淋帕费",
+      "en": "Let's also eat ice cream parfait."
+    },
+    {
+      "id": 114,
+      "start": 316.14,
+      "end": 320.04,
+      "ts": "05:16.140 -> 05:20.040",
+      "jp": "コーヒーも飲んでもう十分でしたね",
+      "jp_html": "コーヒーも<ruby>飲ん<rt>のん</rt></ruby>でもう<ruby>十分<rt>じゅうぶん</rt></ruby>でしたね",
+      "zh": "喝咖啡也已经足够了呢",
+      "en": "You've had enough coffee already, right?"
+    },
+    {
+      "id": 115,
+      "start": 320.04,
+      "end": 321.34,
+      "ts": "05:20.040 -> 05:21.340",
+      "jp": "十分だったので",
+      "jp_html": "<ruby>十分<rt>じゅうぶん</rt></ruby>だったので",
+      "zh": "因为是十点所以",
+      "en": "It was more than enough."
+    },
+    {
+      "id": 116,
+      "start": 321.34,
+      "end": 322.8,
+      "ts": "05:21.340 -> 05:22.800",
+      "jp": "帰ってきました",
+      "jp_html": "<ruby>帰っ<rt>かえっ</rt></ruby>てきました",
+      "zh": "回来了",
+      "en": "I have come back."
+    },
+    {
+      "id": 117,
+      "start": 322.8,
+      "end": 324.76,
+      "ts": "05:22.800 -> 05:24.760",
+      "jp": "子供はその後",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>はその<ruby>後<rt>のち</rt></ruby>",
+      "zh": "孩子随后",
+      "en": "The children were then"
+    },
+    {
+      "id": 118,
+      "start": 324.76,
+      "end": 326.5,
+      "ts": "05:24.760 -> 05:26.500",
+      "jp": "友達の家で",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>で",
+      "zh": "朋友家里",
+      "en": "At my friend's house"
+    },
+    {
+      "id": 119,
+      "start": 326.5,
+      "end": 328.2,
+      "ts": "05:26.500 -> 05:28.200",
+      "jp": "友達の子供と",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>と",
+      "zh": "和朋友的孩子一起",
+      "en": "with my friend's child"
+    },
+    {
+      "id": 120,
+      "start": 328.2,
+      "end": 330.5,
+      "ts": "05:28.200 -> 05:30.500",
+      "jp": "任天堂スイッチをやってました",
+      "jp_html": "<ruby>任天堂<rt>にんてんどう</rt></ruby>スイッチをやってました",
+      "zh": "我在玩任天堂Switch",
+      "en": "I was playing Nintendo Switch."
+    },
+    {
+      "id": 121,
+      "start": 330.5,
+      "end": 332.86,
+      "ts": "05:30.500 -> 05:32.860",
+      "jp": "スマッシュブラザーズを",
+      "jp_html": "スマッシュブラザーズを",
+      "zh": "Smash Bros.",
+      "en": "Smash Brothers"
+    },
+    {
+      "id": 122,
+      "start": 332.86,
+      "end": 334.4,
+      "ts": "05:32.860 -> 05:34.400",
+      "jp": "ずっとやってましたね",
+      "jp_html": "ずっとやってましたね",
+      "zh": "一直都在做吧？",
+      "en": "Didn't you do that for a long time?"
+    },
+    {
+      "id": 123,
+      "start": 334.4,
+      "end": 336.68,
+      "ts": "05:34.400 -> 05:36.680",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Therefore"
+    },
+    {
+      "id": 124,
+      "start": 336.68,
+      "end": 339.32,
+      "ts": "05:36.680 -> 05:39.320",
+      "jp": "最後の週末とても良かったです",
+      "jp_html": "<ruby>最後<rt>さいご</rt></ruby>の<ruby>週末<rt>しゅうまつ</rt></ruby>とても<ruby>良か<rt>よか</rt></ruby>ったです",
+      "zh": "最后一个周末很好。",
+      "en": "The last weekend was very good."
+    },
+    {
+      "id": 125,
+      "start": 339.32,
+      "end": 341.26,
+      "ts": "05:39.320 -> 05:41.260",
+      "jp": "もうすぐ東京に",
+      "jp_html": "もうすぐ<ruby>東京<rt>とうきょう</rt></ruby>に",
+      "zh": "东京马上就要到了",
+      "en": "Tokyo is coming soon."
+    },
+    {
+      "id": 126,
+      "start": 341.26,
+      "end": 342.0,
+      "ts": "05:41.260 -> 05:42.000",
+      "jp": "帰ります",
+      "jp_html": "<ruby>帰り<rt>かえり</rt></ruby>ます",
+      "zh": "回家了",
+      "en": "I'm going home."
+    },
+    {
+      "id": 127,
+      "start": 342.0,
+      "end": 345.04,
+      "ts": "05:42.000 -> 05:45.040",
+      "jp": "休みは良かったね",
+      "jp_html": "<ruby>休み<rt>やすみ</rt></ruby>は<ruby>良か<rt>よか</rt></ruby>ったね",
+      "zh": "休息不错吧",
+      "en": "The vacation was good, huh?"
+    },
+    {
+      "id": 128,
+      "start": 345.04,
+      "end": 346.64,
+      "ts": "05:45.040 -> 05:46.640",
+      "jp": "楽しい夏休みでした",
+      "jp_html": "<ruby>楽しい<rt>たのしい</rt></ruby><ruby>夏休み<rt>なつやすみ</rt></ruby>でした",
+      "zh": "愉快的暑假 Wrestler",
+      "en": "I had a fun summer vacation."
+    },
+    {
+      "id": 129,
+      "start": 346.64,
+      "end": 348.18,
+      "ts": "05:46.640 -> 05:48.180",
+      "jp": "皆さんはどうでしたか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうでしたか",
+      "zh": "您们怎么样了？",
+      "en": "How was it for you all?"
+    },
+    {
+      "id": 130,
+      "start": 348.18,
+      "end": 350.44,
+      "ts": "05:48.180 -> 05:50.440",
+      "jp": "夏休みまだありますか",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>まだありますか",
+      "zh": "暑假还在吗",
+      "en": "Is your summer vacation still available?"
+    },
+    {
+      "id": 131,
+      "start": 350.44,
+      "end": 352.46,
+      "ts": "05:50.440 -> 05:52.460",
+      "jp": "それとももう終わりましたか",
+      "jp_html": "それとももう<ruby>終わり<rt>おわり</rt></ruby>ましたか",
+      "zh": "那 maybe 已经结束了呢",
+      "en": "Or has it already ended?"
+    },
+    {
+      "id": 132,
+      "start": 352.46,
+      "end": 355.26,
+      "ts": "05:52.460 -> 05:55.260",
+      "jp": "夏休みが終わったら仕事ですね",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>ったら<ruby>仕事<rt>しごと</rt></ruby>ですね",
+      "zh": "暑假结束后就是工作了",
+      "en": "After summer vacation, it's back to work, huh?"
+    },
+    {
+      "id": 133,
+      "start": 355.26,
+      "end": 356.86,
+      "ts": "05:55.260 -> 05:56.860",
+      "jp": "勉強ですね",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>ですね",
+      "zh": "真是学习呢",
+      "en": "Studying, I presume?"
+    },
+    {
+      "id": 134,
+      "start": 356.86,
+      "end": 358.84,
+      "ts": "05:56.860 -> 05:58.840",
+      "jp": "頑張ってください",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>てください",
+      "zh": "请加油",
+      "en": "Please try your best."
+    },
+    {
+      "id": 135,
+      "start": 358.84,
+      "end": 361.02,
+      "ts": "05:58.840 -> 06:01.020",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
