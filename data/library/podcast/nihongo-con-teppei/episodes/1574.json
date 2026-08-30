@@ -1,0 +1,614 @@
+{
+  "id": "1574",
+  "title": "#1574「パソコンの修理が始まります！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1574.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1574.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/08/30/1574%e3%80%8c%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%ae%e4%bf%ae%e7%90%86%e3%81%8c%e5%a7%8b%e3%81%be%e3%82%8a%e3%81%be%e3%81%99%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.49,
+      "end": 2.81,
+      "ts": "00:01.490 -> 00:02.810",
+      "jp": "シャキーン",
+      "jp_html": "シャキーン",
+      "zh": "啪嗒声",
+      "en": "Snap"
+    },
+    {
+      "id": 1,
+      "start": 2.81,
+      "end": 7.87,
+      "ts": "00:02.810 -> 00:07.870",
+      "jp": "今日はパソコンの修理が始まります",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>パソコンの<ruby>修理<rt>しゅうり</rt></ruby>が<ruby>始まり<rt>はじまり</rt></ruby>ます",
+      "zh": "今天开始修理电脑",
+      "en": "Today, the computer repair will start."
+    },
+    {
+      "id": 2,
+      "start": 7.87,
+      "end": 9.97,
+      "ts": "00:07.870 -> 00:09.970",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好👋",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 9.97,
+      "end": 13.59,
+      "ts": "00:09.970 -> 00:13.590",
+      "jp": "シャキーンがシャキーン",
+      "jp_html": "シャキーンがシャキーン",
+      "zh": "咔嚓咔嚓",
+      "en": "Shakain Shakain"
+    },
+    {
+      "id": 4,
+      "start": 13.59,
+      "end": 16.89,
+      "ts": "00:13.590 -> 00:16.890",
+      "jp": "ちょっとこう言い方が変わってしまいましたけど",
+      "jp_html": "ちょっとこう<ruby>言い方<rt>いいかた</rt></ruby>が<ruby>変わ<rt>かわ</rt></ruby>ってしまいましたけど",
+      "zh": "稍微改变了说法，但",
+      "en": "Slightly, the way of saying it has changed a bit but"
+    },
+    {
+      "id": 5,
+      "start": 16.89,
+      "end": 18.13,
+      "ts": "00:16.890 -> 00:18.130",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 6,
+      "start": 18.13,
+      "end": 25.53,
+      "ts": "00:18.130 -> 00:25.530",
+      "jp": "まあ僕のパソコンのMacBookのディスプレイがちょっと壊れて",
+      "jp_html": "まあ<ruby>僕<rt>ぼく</rt></ruby>のパソコンのMacBookのディスプレイがちょっと<ruby>壊れ<rt>こわれ</rt></ruby>て",
+      "zh": "我的 MacBook 的显示器稍微坏了点",
+      "en": "My MacBook's display is a little bit broken."
+    },
+    {
+      "id": 7,
+      "start": 25.53,
+      "end": 28.63,
+      "ts": "00:25.530 -> 00:28.630",
+      "jp": "チカチカ光るようになって",
+      "jp_html": "チカチカ<ruby>光る<rt>ひかる</rt></ruby>ようになって",
+      "zh": "闪烁发光",
+      "en": "Flicker like it's glowing"
+    },
+    {
+      "id": 8,
+      "start": 28.63,
+      "end": 31.89,
+      "ts": "00:28.630 -> 00:31.890",
+      "jp": "ちょっと問題があるんですけど",
+      "jp_html": "ちょっと<ruby>問題<rt>もんだい</rt></ruby>があるんですけど",
+      "zh": "有点问题不过",
+      "en": "There's a little problem but."
+    },
+    {
+      "id": 9,
+      "start": 31.89,
+      "end": 36.99,
+      "ts": "00:31.890 -> 00:36.990",
+      "jp": "思ったよりも早く修理が始められそうです",
+      "jp_html": "<ruby>思った<rt>おもった</rt></ruby>よりも<ruby>早く<rt>はやく</rt></ruby><ruby>修理<rt>しゅうり</rt></ruby>が<ruby>始め<rt>はじめ</rt></ruby>られそうです",
+      "zh": "没想到能这么快开始维修",
+      "en": "It seems we can start the repair sooner than expected."
+    },
+    {
+      "id": 10,
+      "start": 36.99,
+      "end": 43.99,
+      "ts": "00:36.990 -> 00:43.990",
+      "jp": "なのでこれからちょっとやっぱりアップロードできなくなります",
+      "jp_html": "なのでこれからちょっとやっぱりアップロードできなくなります",
+      "zh": "所以从现在开始可能会暂时无法上传了",
+      "en": "So from now on, I'll be able to upload things slightly less frequently."
+    },
+    {
+      "id": 11,
+      "start": 43.99,
+      "end": 48.65,
+      "ts": "00:43.990 -> 00:48.650",
+      "jp": "前のポッドキャストでも言いましたけど",
+      "jp_html": "<ruby>前<rt>まえ</rt></ruby>のポッドキャストでも<ruby>言い<rt>いい</rt></ruby>ましたけど",
+      "zh": "如我在之前的播客中提到的那样",
+      "en": "As I mentioned in the previous podcast,"
+    },
+    {
+      "id": 12,
+      "start": 48.65,
+      "end": 54.83,
+      "ts": "00:48.650 -> 00:54.830",
+      "jp": "もし今までたくさんエピソードがあるので",
+      "jp_html": "もし<ruby>今まで<rt>いままで</rt></ruby>たくさんエピソードがあるので",
+      "zh": "如果之前有很多集的话",
+      "en": "If there are many episodes so far,"
+    },
+    {
+      "id": 13,
+      "start": 54.83,
+      "end": 58.13,
+      "ts": "00:54.830 -> 00:58.130",
+      "jp": "もし聞いてないエピソードがあれば",
+      "jp_html": "もし<ruby>聞い<rt>きい</rt></ruby>てないエピソードがあれば",
+      "zh": "如果还有没听过的episode请告诉我",
+      "en": "If there are any episodes you haven't heard yet"
+    },
+    {
+      "id": 14,
+      "start": 58.13,
+      "end": 59.63,
+      "ts": "00:58.130 -> 00:59.630",
+      "jp": "それを聞いてください",
+      "jp_html": "それを<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请听清楚",
+      "en": "Listen to that."
+    },
+    {
+      "id": 15,
+      "start": 59.63,
+      "end": 63.21,
+      "ts": "00:59.630 -> 01:03.210",
+      "jp": "全部聞いている人は",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>聞い<rt>きい</rt></ruby>ている<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "全都在听的人",
+      "en": "All who are listening"
+    },
+    {
+      "id": 16,
+      "start": 63.21,
+      "end": 65.39,
+      "ts": "01:03.210 -> 01:05.390",
+      "jp": "2回とか3回とか",
+      "jp_html": "2<ruby>回と<rt>まわと</rt></ruby>か3<ruby>回と<rt>まわと</rt></ruby>か",
+      "zh": "两三次",
+      "en": "2 times or 3 times"
+    },
+    {
+      "id": 17,
+      "start": 65.39,
+      "end": 68.07,
+      "ts": "01:05.390 -> 01:08.070",
+      "jp": "繰り返し繰り返し聞くことも",
+      "jp_html": "<ruby>繰り返し<rt>くりかえし</rt></ruby><ruby>繰り返し<rt>くりかえし</rt></ruby><ruby>聞く<rt>きく</rt></ruby>ことも",
+      "zh": "一遍又一遍地听也是",
+      "en": "Repeating and listening again and again."
+    },
+    {
+      "id": 18,
+      "start": 68.07,
+      "end": 71.05,
+      "ts": "01:08.070 -> 01:11.050",
+      "jp": "皆さんの勉強のためにいいと思うので",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>のためにいいと<ruby>思う<rt>おもう</rt></ruby>ので",
+      "zh": "我认为这会对大家的学习有帮助",
+      "en": "I think it would be good for everyone's studies so"
+    },
+    {
+      "id": 19,
+      "start": 71.05,
+      "end": 73.37,
+      "ts": "01:11.050 -> 01:13.370",
+      "jp": "僕がアップロードできない",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がアップロードできない",
+      "zh": "我上传不了",
+      "en": "I cannot upload it."
+    },
+    {
+      "id": 20,
+      "start": 73.37,
+      "end": 74.91,
+      "ts": "01:13.370 -> 01:14.910",
+      "jp": "1週間の間",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>の<ruby>間<rt>かん</rt></ruby>",
+      "zh": "一周的时间",
+      "en": "For one week"
+    },
+    {
+      "id": 21,
+      "start": 74.91,
+      "end": 77.21,
+      "ts": "01:14.910 -> 01:17.210",
+      "jp": "ぜひぜひ",
+      "jp_html": "ぜひぜひ",
+      "zh": "非常非常",
+      "en": "Certainly certainly"
+    },
+    {
+      "id": 22,
+      "start": 77.21,
+      "end": 79.55,
+      "ts": "01:17.210 -> 01:19.550",
+      "jp": "今までのエピソードを聞いてください",
+      "jp_html": "<ruby>今まで<rt>いままで</rt></ruby>のエピソードを<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请听之前的剧集",
+      "en": "Please listen to the previous episodes."
+    },
+    {
+      "id": 23,
+      "start": 79.55,
+      "end": 81.59,
+      "ts": "01:19.550 -> 01:21.590",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 24,
+      "start": 81.59,
+      "end": 82.53,
+      "ts": "01:21.590 -> 01:22.530",
+      "jp": "パソコンが",
+      "jp_html": "パソコンが",
+      "zh": "电脑",
+      "en": "The computer is"
+    },
+    {
+      "id": 25,
+      "start": 82.53,
+      "end": 85.07,
+      "ts": "01:22.530 -> 01:25.070",
+      "jp": "良くなって",
+      "jp_html": "<ruby>良く<rt>よく</rt></ruby>なって",
+      "zh": "好转了",
+      "en": "Getting better"
+    },
+    {
+      "id": 26,
+      "start": 85.07,
+      "end": 86.49,
+      "ts": "01:25.070 -> 01:26.490",
+      "jp": "また",
+      "jp_html": "また",
+      "zh": "又",
+      "en": "again"
+    },
+    {
+      "id": 27,
+      "start": 86.49,
+      "end": 89.49,
+      "ts": "01:26.490 -> 01:29.490",
+      "jp": "家に戻ってきたら",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>に<ruby>戻っ<rt>もどっ</rt></ruby>てきたら",
+      "zh": "回到家后",
+      "en": "When I got home"
+    },
+    {
+      "id": 28,
+      "start": 89.49,
+      "end": 91.75,
+      "ts": "01:29.490 -> 01:31.750",
+      "jp": "もちろん今までのように",
+      "jp_html": "もちろん<ruby>今まで<rt>いままで</rt></ruby>のように",
+      "zh": "当然可以像以前一样",
+      "en": "Of course, like before,"
+    },
+    {
+      "id": 29,
+      "start": 91.75,
+      "end": 93.35,
+      "ts": "01:31.750 -> 01:33.350",
+      "jp": "ポッドキャストを",
+      "jp_html": "ポッドキャストを",
+      "zh": "播客",
+      "en": "Podcast to"
+    },
+    {
+      "id": 30,
+      "start": 93.35,
+      "end": 94.63,
+      "ts": "01:33.350 -> 01:34.630",
+      "jp": "たくさん作るので",
+      "jp_html": "たくさん<ruby>作る<rt>つくる</rt></ruby>ので",
+      "zh": "所以要多做些",
+      "en": "We make a lot so"
+    },
+    {
+      "id": 31,
+      "start": 94.63,
+      "end": 97.81,
+      "ts": "01:34.630 -> 01:37.810",
+      "jp": "その時はまたよろしくお願いします",
+      "jp_html": "その<ruby>時<rt>とき</rt></ruby>はまたよろしくお<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "那时还请多多关照",
+      "en": "Please take care and we'll meet again sometime."
+    },
+    {
+      "id": 32,
+      "start": 97.81,
+      "end": 101.31,
+      "ts": "01:37.810 -> 01:41.310",
+      "jp": "まあ仕方ないね",
+      "jp_html": "まあ<ruby>仕方ない<rt>しかたない</rt></ruby>ね",
+      "zh": "没办法呢",
+      "en": "Well, there's no help for it."
+    },
+    {
+      "id": 33,
+      "start": 101.31,
+      "end": 103.53,
+      "ts": "01:41.310 -> 01:43.530",
+      "jp": "こういうことはたまにあります",
+      "jp_html": "こういうことはたまにあります",
+      "zh": "这种事偶尔会发生",
+      "en": "Such things happen sometimes."
+    },
+    {
+      "id": 34,
+      "start": 103.53,
+      "end": 105.93,
+      "ts": "01:43.530 -> 01:45.930",
+      "jp": "いいこともあるし悪いこともあるし",
+      "jp_html": "いいこともあるし<ruby>悪い<rt>わるい</rt></ruby>こともあるし",
+      "zh": "有的好事，也有一些坏事",
+      "en": "Good things happen, and bad things happen."
+    },
+    {
+      "id": 35,
+      "start": 105.93,
+      "end": 107.31,
+      "ts": "01:45.930 -> 01:47.310",
+      "jp": "ちょっとした問題ね",
+      "jp_html": "ちょっとした<ruby>問題<rt>もんだい</rt></ruby>ね",
+      "zh": "小小的問題呢",
+      "en": "It's just a little problem."
+    },
+    {
+      "id": 36,
+      "start": 107.31,
+      "end": 108.51,
+      "ts": "01:47.310 -> 01:48.510",
+      "jp": "小さい問題",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>",
+      "zh": "小问题",
+      "en": "Small problem"
+    },
+    {
+      "id": 37,
+      "start": 108.51,
+      "end": 110.67,
+      "ts": "01:48.510 -> 01:50.670",
+      "jp": "いつもありますね",
+      "jp_html": "いつもありますね",
+      "zh": "有时也会吧",
+      "en": "There is always when."
+    },
+    {
+      "id": 38,
+      "start": 110.67,
+      "end": 111.65,
+      "ts": "01:50.670 -> 01:51.650",
+      "jp": "でも",
+      "jp_html": "でも",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 39,
+      "start": 111.65,
+      "end": 114.59,
+      "ts": "01:51.650 -> 01:54.590",
+      "jp": "本当に良かった",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>良か<rt>よか</rt></ruby>った",
+      "zh": "真的很好",
+      "en": "Really good."
+    },
+    {
+      "id": 40,
+      "start": 114.59,
+      "end": 116.11,
+      "ts": "01:54.590 -> 01:56.110",
+      "jp": "すぐに",
+      "jp_html": "すぐに",
+      "zh": "立刻",
+      "en": "soon"
+    },
+    {
+      "id": 41,
+      "start": 116.11,
+      "end": 118.85,
+      "ts": "01:56.110 -> 01:58.850",
+      "jp": "修理が始まるということで",
+      "jp_html": "<ruby>修理<rt>しゅうり</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>るということで",
+      "zh": "据说修理就要开始了",
+      "en": "Since the repair is about to begin."
+    },
+    {
+      "id": 42,
+      "start": 118.85,
+      "end": 123.95,
+      "ts": "01:58.850 -> 02:03.950",
+      "jp": "なんか夜に映画を見たり",
+      "jp_html": "なんか<ruby>夜<rt>よる</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "晚上看了电影",
+      "en": "Sometimes I watch movies at night."
+    },
+    {
+      "id": 43,
+      "start": 123.95,
+      "end": 127.05,
+      "ts": "02:03.950 -> 02:07.050",
+      "jp": "動画を見たりしてる時に",
+      "jp_html": "<ruby>動画<rt>どうが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>りしてる<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "在看视频的时候",
+      "en": "When I'm watching videos or something like that"
+    },
+    {
+      "id": 44,
+      "start": 127.05,
+      "end": 128.99,
+      "ts": "02:07.050 -> 02:08.990",
+      "jp": "ちょっとやっぱり目が痛かったんですね",
+      "jp_html": "ちょっとやっぱり<ruby>目<rt>め</rt></ruby>が<ruby>痛か<rt>いたか</rt></ruby>ったんですね",
+      "zh": "原来眼睛还是有点疼呢",
+      "en": "It's just that my eyes were a little painful, huh?"
+    },
+    {
+      "id": 45,
+      "start": 128.99,
+      "end": 131.45,
+      "ts": "02:08.990 -> 02:11.450",
+      "jp": "チカチカチカチカ光って",
+      "jp_html": "チカチカチカチカ<ruby>光っ<rt>ひかっ</rt></ruby>て",
+      "zh": "咔嚓咔嚓发光",
+      "en": "Flickering brightly"
+    },
+    {
+      "id": 46,
+      "start": 131.45,
+      "end": 135.23,
+      "ts": "02:11.450 -> 02:15.230",
+      "jp": "ちょっとそれは健康にも悪いと思ったし",
+      "jp_html": "ちょっとそれは<ruby>健康<rt>けんこう</rt></ruby>にも<ruby>悪い<rt>わるい</rt></ruby>と<ruby>思った<rt>おもった</rt></ruby>し",
+      "zh": "我想到那对健康也不好。",
+      "en": "I thought that was bad for health too."
+    },
+    {
+      "id": 47,
+      "start": 135.23,
+      "end": 139.39,
+      "ts": "02:15.230 -> 02:19.390",
+      "jp": "毎日使うものなんですね",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>使う<rt>つかう</rt></ruby>ものなんですね",
+      "zh": "原来每天都会用到的东西呢",
+      "en": "It's something you use every day, huh?"
+    },
+    {
+      "id": 48,
+      "start": 139.39,
+      "end": 141.67,
+      "ts": "02:19.390 -> 02:21.670",
+      "jp": "やっぱりパソコンは大事ですよね",
+      "jp_html": "やっぱりパソコンは<ruby>大事<rt>だいじ</rt></ruby>ですよね",
+      "zh": "果然电脑很重要吧",
+      "en": "Yes, computers are important, aren't they?"
+    },
+    {
+      "id": 49,
+      "start": 141.67,
+      "end": 143.39,
+      "ts": "02:21.670 -> 02:23.390",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 50,
+      "start": 143.39,
+      "end": 145.99,
+      "ts": "02:23.390 -> 02:25.990",
+      "jp": "これから少しお休みに入ります",
+      "jp_html": "これから<ruby>少し<rt>すこし</rt></ruby>お<ruby>休み<rt>やすみ</rt></ruby>に<ruby>入り<rt>いり</rt></ruby>ます",
+      "zh": "我现在将稍微休息一下",
+      "en": "I will take a short break now."
+    },
+    {
+      "id": 51,
+      "start": 145.99,
+      "end": 147.63,
+      "ts": "02:25.990 -> 02:27.630",
+      "jp": "日本語コンテッペ",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペ",
+      "zh": "日语conteppe",
+      "en": "Japanese context"
+    },
+    {
+      "id": 52,
+      "start": 147.63,
+      "end": 149.09,
+      "ts": "02:27.630 -> 02:29.090",
+      "jp": "ポッドキャスト",
+      "jp_html": "ポッドキャスト",
+      "zh": "播客",
+      "en": "Podcast"
+    },
+    {
+      "id": 53,
+      "start": 149.09,
+      "end": 151.53,
+      "ts": "02:29.090 -> 02:31.530",
+      "jp": "少しだけお休みになるので",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>だけお<ruby>休み<rt>やすみ</rt></ruby>になるので",
+      "zh": "我会稍微休息一下",
+      "en": "I will take a little break so"
+    },
+    {
+      "id": 54,
+      "start": 151.53,
+      "end": 154.13,
+      "ts": "02:31.530 -> 02:34.130",
+      "jp": "その間は今までアップロードした",
+      "jp_html": "その<ruby>間<rt>かん</rt></ruby>は<ruby>今まで<rt>いままで</rt></ruby>アップロードした",
+      "zh": "其间之前上传了",
+      "en": "During that time, I will upload what I have prepared."
+    },
+    {
+      "id": 55,
+      "start": 154.13,
+      "end": 156.13,
+      "ts": "02:34.130 -> 02:36.130",
+      "jp": "ポッドキャストを聞いてください",
+      "jp_html": "ポッドキャストを<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请收听播客",
+      "en": "Please listen to the podcast."
+    },
+    {
+      "id": 56,
+      "start": 156.13,
+      "end": 157.65,
+      "ts": "02:36.130 -> 02:37.650",
+      "jp": "よろしくお願いします",
+      "jp_html": "よろしくお<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "请多指教",
+      "en": "Please take care."
+    },
+    {
+      "id": 57,
+      "start": 157.65,
+      "end": 159.17,
+      "ts": "02:37.650 -> 02:39.170",
+      "jp": "またすぐに戻っていきます",
+      "jp_html": "またすぐに<ruby>戻っ<rt>もどっ</rt></ruby>ていきます",
+      "zh": "我马上回来。",
+      "en": "I will be right back."
+    },
+    {
+      "id": 58,
+      "start": 159.17,
+      "end": 161.23,
+      "ts": "02:39.170 -> 02:41.230",
+      "jp": "それではまた皆さんすぐに",
+      "jp_html": "それではまた<ruby>皆さん<rt>みなさん</rt></ruby>すぐに",
+      "zh": "那么我就再不打扰各位了",
+      "en": "So I will see you all soon again."
+    },
+    {
+      "id": 59,
+      "start": 161.23,
+      "end": 162.75,
+      "ts": "02:41.230 -> 02:42.750",
+      "jp": "すぐにまたね",
+      "jp_html": "すぐにまたね",
+      "zh": "再见，一会儿见",
+      "en": "See you soon"
+    }
+  ]
+}

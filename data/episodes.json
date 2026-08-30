@@ -1,5 +1,17 @@
 [
   {
+    "id": "1574",
+    "title": "#1574「パソコンの修理が始まります！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/08/30/1574%e3%80%8c%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e3%81%ae%e4%bf%ae%e7%90%86%e3%81%8c%e5%a7%8b%e3%81%be%e3%82%8a%e3%81%be%e3%81%99%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/08/Beginners-con-Teppei1574.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1574.json"
+  },
+  {
     "id": "1573",
     "title": "#1573「ちょっと僕のMac Bookに問題があります（涙）！」",
     "category_id": "podcast",
