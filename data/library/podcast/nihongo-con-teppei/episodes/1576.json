@@ -1,0 +1,1164 @@
+{
+  "id": "1576",
+  "title": "#1576「やっとルーティンに戻った！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1576.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1576.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/03/1576%e3%80%8c%e3%82%84%e3%81%a3%e3%81%a8%e3%83%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%81%ab%e6%88%bb%e3%81%a3%e3%81%9f%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.3,
+      "end": 2.76,
+      "ts": "00:01.300 -> 00:02.760",
+      "jp": "借金!",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>!",
+      "zh": "借钱！",
+      "en": "Debt!"
+    },
+    {
+      "id": 1,
+      "start": 3.52,
+      "end": 7.76,
+      "ts": "00:03.520 -> 00:07.760",
+      "jp": "今日はやっとルーティンに戻った",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>やっとルーティンに<ruby>戻っ<rt>もどっ</rt></ruby>た",
+      "zh": "今天终于恢复了常规作息",
+      "en": "Today, I finally got back into the routine."
+    },
+    {
+      "id": 2,
+      "start": 7.76,
+      "end": 10.9,
+      "ts": "00:07.760 -> 00:10.900",
+      "jp": "皆さんこんにちは",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>こんにちは",
+      "zh": "大家好こんにちは",
+      "en": "Hello everyone"
+    },
+    {
+      "id": 3,
+      "start": 10.9,
+      "end": 13.62,
+      "ts": "00:10.900 -> 00:13.620",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 13.62,
+      "end": 14.82,
+      "ts": "00:13.620 -> 00:14.820",
+      "jp": "元気ですか?",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "你还好吗？",
+      "en": "Are you okay?"
+    },
+    {
+      "id": 5,
+      "start": 17.42,
+      "end": 20.14,
+      "ts": "00:17.420 -> 00:20.140",
+      "jp": "夏休みが終わって",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>って",
+      "zh": "暑假结束了",
+      "en": "Summer vacation is over"
+    },
+    {
+      "id": 6,
+      "start": 20.14,
+      "end": 22.36,
+      "ts": "00:20.140 -> 00:22.360",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 7,
+      "start": 22.36,
+      "end": 25.44,
+      "ts": "00:22.360 -> 00:25.440",
+      "jp": "僕のMacBook Proじゃなくて",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のMacBook Proじゃなくて",
+      "zh": "我的MacBook Pro不是那个",
+      "en": "Not on my MacBook Pro"
+    },
+    {
+      "id": 8,
+      "start": 25.44,
+      "end": 28.0,
+      "ts": "00:25.440 -> 00:28.000",
+      "jp": "MacBook Airが壊れて",
+      "jp_html": "MacBook Airが<ruby>壊れ<rt>こわれ</rt></ruby>て",
+      "zh": "MacBook Air坏了",
+      "en": "My MacBook Air is broken."
+    },
+    {
+      "id": 9,
+      "start": 28.0,
+      "end": 30.96,
+      "ts": "00:28.000 -> 00:30.960",
+      "jp": "だけど良くなって",
+      "jp_html": "だけど<ruby>良く<rt>よく</rt></ruby>なって",
+      "zh": "但是好起来了",
+      "en": "But it's getting better."
+    },
+    {
+      "id": 10,
+      "start": 31.3,
+      "end": 39.74,
+      "ts": "00:31.300 -> 00:39.740",
+      "jp": "やっと夏休みの後こうやってルーティンが戻ってきました",
+      "jp_html": "やっと<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>後<rt>のち</rt></ruby>こうやってルーティンが<ruby>戻っ<rt>もどっ</rt></ruby>てきました",
+      "zh": "终于暑假过后恢复了常规作息",
+      "en": "Finally, after summer vacation, our routine has returned."
+    },
+    {
+      "id": 11,
+      "start": 39.74,
+      "end": 42.74,
+      "ts": "00:39.740 -> 00:42.740",
+      "jp": "いやーよかったよかった",
+      "jp_html": "いやーよかったよかった",
+      "zh": "哎呀好幸好多谢",
+      "en": "Yeah, good thing that happened!"
+    },
+    {
+      "id": 12,
+      "start": 42.74,
+      "end": 44.84,
+      "ts": "00:42.740 -> 00:44.840",
+      "jp": "よかったですね",
+      "jp_html": "よかったですね",
+      "zh": "真好呢",
+      "en": "It was good, wasn't it?"
+    },
+    {
+      "id": 13,
+      "start": 44.84,
+      "end": 50.48,
+      "ts": "00:44.840 -> 00:50.480",
+      "jp": "本当にどうなるかと心配してましたけど",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>にどうなるかと<ruby>心配<rt>しんぱい</rt></ruby>してましたけど",
+      "zh": "我真的担心会变成什么样子",
+      "en": "I was worried about how it would turn out."
+    },
+    {
+      "id": 14,
+      "start": 50.48,
+      "end": 52.24,
+      "ts": "00:50.480 -> 00:52.240",
+      "jp": "よかったよかった",
+      "jp_html": "よかったよかった",
+      "zh": "太好了太好了",
+      "en": "Thank you so much."
+    },
+    {
+      "id": 15,
+      "start": 52.24,
+      "end": 54.74,
+      "ts": "00:52.240 -> 00:54.740",
+      "jp": "はい皆さんはどうですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您好，您们怎么样？",
+      "en": "Okay, how about everyone?"
+    },
+    {
+      "id": 16,
+      "start": 54.74,
+      "end": 58.18,
+      "ts": "00:54.740 -> 00:58.180",
+      "jp": "9月になりましたね",
+      "jp_html": "9<ruby>月<rt>がつ</rt></ruby>になりましたね",
+      "zh": "九月开始了呢",
+      "en": "It's September now, isn't it?"
+    },
+    {
+      "id": 17,
+      "start": 58.18,
+      "end": 64.62,
+      "ts": "00:58.180 -> 01:04.620",
+      "jp": "9月はたくさんの国で夏休みが終わって",
+      "jp_html": "9<ruby>月<rt>がつ</rt></ruby>はたくさんの<ruby>国<rt>くに</rt></ruby>で<ruby>夏休み<rt>なつやすみ</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>って",
+      "zh": "9月是在很多国家暑假结束的月份",
+      "en": "September is when summer vacation ends in many countries."
+    },
+    {
+      "id": 18,
+      "start": 64.62,
+      "end": 69.66,
+      "ts": "01:04.620 -> 01:09.660",
+      "jp": "新しいスタートという感じがしますね",
+      "jp_html": "<ruby>新しい<rt>あたらしい</rt></ruby>スタートという<ruby>感じ<rt>かんじ</rt></ruby>がしますね",
+      "zh": "有一种新的开始的感觉呢",
+      "en": "It feels like a new start, doesn't it?"
+    },
+    {
+      "id": 19,
+      "start": 69.66,
+      "end": 73.24,
+      "ts": "01:09.660 -> 01:13.240",
+      "jp": "学校とか仕事とか",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>とか<ruby>仕事<rt>しごと</rt></ruby>とか",
+      "zh": "学校或者工作",
+      "en": "School and work"
+    },
+    {
+      "id": 20,
+      "start": 73.24,
+      "end": 78.06,
+      "ts": "01:13.240 -> 01:18.060",
+      "jp": "やっとみんなが夏休みから戻ってきて",
+      "jp_html": "やっとみんなが<ruby>夏休み<rt>なつやすみ</rt></ruby>から<ruby>戻っ<rt>もどっ</rt></ruby>てきて",
+      "zh": "终于大家从暑假回来了",
+      "en": "Finally, everyone has come back from summer vacation."
+    },
+    {
+      "id": 21,
+      "start": 78.06,
+      "end": 83.04,
+      "ts": "01:18.060 -> 01:23.040",
+      "jp": "よしじゃあまた頑張るぞと",
+      "jp_html": "よしじゃあまた<ruby>頑張る<rt>がんばる</rt></ruby>ぞと",
+      "zh": "于是他决定再次努力ozo",
+      "en": "Let's just say I'll have to work harder again."
+    },
+    {
+      "id": 22,
+      "start": 83.04,
+      "end": 85.68,
+      "ts": "01:23.040 -> 01:25.680",
+      "jp": "そういう時だと思います",
+      "jp_html": "そういう<ruby>時<rt>とき</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想在这种时候吧",
+      "en": "I think that's when"
+    },
+    {
+      "id": 23,
+      "start": 85.68,
+      "end": 90.56,
+      "ts": "01:25.680 -> 01:30.560",
+      "jp": "夏休みにいろいろなことをして",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>にいろいろなことをして",
+      "zh": "暑假做了许多事情",
+      "en": "To do various things during summer vacation"
+    },
+    {
+      "id": 24,
+      "start": 90.56,
+      "end": 94.92,
+      "ts": "01:30.560 -> 01:34.920",
+      "jp": "ちょっとルーティンが壊れてしまったかもしれません",
+      "jp_html": "ちょっとルーティンが<ruby>壊れ<rt>こわれ</rt></ruby>てしまったかもしれません",
+      "zh": "可能的话稍微打乱了routine了吧",
+      "en": "Maybe my routine has been disrupted a bit."
+    },
+    {
+      "id": 25,
+      "start": 94.92,
+      "end": 98.56,
+      "ts": "01:34.920 -> 01:38.560",
+      "jp": "だけど9月はですね",
+      "jp_html": "だけど9<ruby>月<rt>がつ</rt></ruby>はですね",
+      "zh": "但是九月的话",
+      "en": "But in September, well"
+    },
+    {
+      "id": 26,
+      "start": 98.56,
+      "end": 101.26,
+      "ts": "01:38.560 -> 01:41.260",
+      "jp": "やっぱり新しい",
+      "jp_html": "やっぱり<ruby>新しい<rt>あたらしい</rt></ruby>",
+      "zh": "果然新的是好的",
+      "en": "Still new"
+    },
+    {
+      "id": 27,
+      "start": 101.26,
+      "end": 109.2,
+      "ts": "01:41.260 -> 01:49.200",
+      "jp": "いつものようにルーティンを始めなければいけない",
+      "jp_html": "いつものようにルーティンを<ruby>始め<rt>はじめ</rt></ruby>なければいけない",
+      "zh": "我应该像往常一样开始例行公事",
+      "en": "I should start with my routine as usual."
+    },
+    {
+      "id": 28,
+      "start": 109.2,
+      "end": 111.62,
+      "ts": "01:49.200 -> 01:51.620",
+      "jp": "ルーティンに戻らなければいけない",
+      "jp_html": "ルーティンに<ruby>戻ら<rt>もどら</rt></ruby>なければいけない",
+      "zh": "必须恢复常态",
+      "en": "I need to get back into routine."
+    },
+    {
+      "id": 29,
+      "start": 111.62,
+      "end": 114.5,
+      "ts": "01:51.620 -> 01:54.500",
+      "jp": "例えばですね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ですね",
+      "zh": "例如说呢",
+      "en": "For example,"
+    },
+    {
+      "id": 30,
+      "start": 114.5,
+      "end": 120.5,
+      "ts": "01:54.500 -> 02:00.500",
+      "jp": "僕だったら朝起きてコーヒーを飲みながら",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>だったら<ruby>朝起き<rt>あさおき</rt></ruby>てコーヒーを<ruby>飲み<rt>のみ</rt></ruby>ながら",
+      "zh": "我会早上起床喝着咖啡一边",
+      "en": "If I were to get up in the morning, I would drink coffee while..."
+    },
+    {
+      "id": 31,
+      "start": 120.5,
+      "end": 122.84,
+      "ts": "02:00.500 -> 02:02.840",
+      "jp": "ちょっと朝の準備をして",
+      "jp_html": "ちょっと<ruby>朝<rt>あさ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をして",
+      "zh": "稍微做一下早晨的准备",
+      "en": "I'll do a little morning preparation."
+    },
+    {
+      "id": 32,
+      "start": 122.84,
+      "end": 127.5,
+      "ts": "02:02.840 -> 02:07.500",
+      "jp": "子供と奥さんが出て行ったら",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>奥さん<rt>おくさん</rt></ruby>が<ruby>出て<rt>でて</rt></ruby><ruby>行った<rt>いった</rt></ruby>ら",
+      "zh": "孩子和妻子出去后",
+      "en": "When my wife and child left."
+    },
+    {
+      "id": 33,
+      "start": 127.5,
+      "end": 132.5,
+      "ts": "02:07.500 -> 02:12.500",
+      "jp": "僕は掃除をしたり洗濯をしたり",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>掃除<rt>そうじ</rt></ruby>をしたり<ruby>洗濯<rt>せんたく</rt></ruby>をしたり",
+      "zh": "我做清洁或洗衣",
+      "en": "I do cleaning or laundry."
+    },
+    {
+      "id": 34,
+      "start": 132.5,
+      "end": 136.58,
+      "ts": "02:12.500 -> 02:16.580",
+      "jp": "その後はもちろん朝ごはんを食べてますけど",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>はもちろん<ruby>朝ごはん<rt>あさごはん</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>ますけど",
+      "zh": "当然，之后他们会吃早餐。",
+      "en": "Of course, I eat breakfast after that."
+    },
+    {
+      "id": 35,
+      "start": 136.58,
+      "end": 139.96,
+      "ts": "02:16.580 -> 02:19.960",
+      "jp": "その後はレッスンをちょっとやって",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>はレッスンをちょっとやって",
+      "zh": "然后试了一下课",
+      "en": "Then I did a little bit of the lesson"
+    },
+    {
+      "id": 36,
+      "start": 139.96,
+      "end": 144.48,
+      "ts": "02:19.960 -> 02:24.480",
+      "jp": "時間があったらポッドキャストを撮って",
+      "jp_html": "<ruby>時間<rt>じかん</rt></ruby>があったらポッドキャストを<ruby>撮っ<rt>とっ</rt></ruby>て",
+      "zh": "如果有时间，可以拍个播客",
+      "en": "If you have time, record a podcast."
+    },
+    {
+      "id": 37,
+      "start": 144.48,
+      "end": 149.44,
+      "ts": "02:24.480 -> 02:29.440",
+      "jp": "そして散歩をしたり",
+      "jp_html": "そして<ruby>散歩<rt>さんぽ</rt></ruby>をしたり",
+      "zh": "然后出去散步",
+      "en": "And then go for a walk or something."
+    },
+    {
+      "id": 38,
+      "start": 149.44,
+      "end": 155.06,
+      "ts": "02:29.440 -> 02:35.060",
+      "jp": "夜は1週間に2回か3回はジムに行ったり",
+      "jp_html": "<ruby>夜<rt>よる</rt></ruby>は1<ruby>週間<rt>しゅうかん</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>か3<ruby>回<rt>かい</rt></ruby>はジムに<ruby>行った<rt>いった</rt></ruby>り",
+      "zh": "晚上每周去健身房两三次或三次",
+      "en": "I go to the gym two or three times a week at night."
+    },
+    {
+      "id": 39,
+      "start": 155.06,
+      "end": 158.94,
+      "ts": "02:35.060 -> 02:38.940",
+      "jp": "そしてまたポッドキャストを撮ったり",
+      "jp_html": "そしてまたポッドキャストを<ruby>撮っ<rt>とっ</rt></ruby>たり",
+      "zh": "然后又录制了播客",
+      "en": "And then record another podcast or so"
+    },
+    {
+      "id": 40,
+      "start": 158.94,
+      "end": 161.64,
+      "ts": "02:38.940 -> 02:41.640",
+      "jp": "君ちゃんと話したり",
+      "jp_html": "<ruby>君<rt>くん</rt></ruby>ちゃんと<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "和君酱聊天",
+      "en": "Talked to you-chan or"
+    },
+    {
+      "id": 41,
+      "start": 161.64,
+      "end": 164.14,
+      "ts": "02:41.640 -> 02:44.140",
+      "jp": "のりこさんと話したり",
+      "jp_html": "のりこさんと<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "与的里子说话",
+      "en": "Talked with Noriko"
+    },
+    {
+      "id": 42,
+      "start": 164.14,
+      "end": 166.72,
+      "ts": "02:44.140 -> 02:46.720",
+      "jp": "生徒さんと話したり",
+      "jp_html": "<ruby>生徒<rt>せいと</rt></ruby>さんと<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "和学生交谈",
+      "en": "Talk to the students"
+    },
+    {
+      "id": 43,
+      "start": 166.72,
+      "end": 169.04,
+      "ts": "02:46.720 -> 02:49.040",
+      "jp": "一人で話したり",
+      "jp_html": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "一个人自言自语",
+      "en": "Talk to oneself"
+    },
+    {
+      "id": 44,
+      "start": 169.04,
+      "end": 171.44,
+      "ts": "02:49.040 -> 02:51.440",
+      "jp": "奥さんと話したり",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "和太太 talking 或者 和妻子谈话",
+      "en": "Talked to the lady."
+    },
+    {
+      "id": 45,
+      "start": 171.44,
+      "end": 173.88,
+      "ts": "02:51.440 -> 02:53.880",
+      "jp": "子供と話したり",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "和孩子说话",
+      "en": "Talk to the children or kids."
+    },
+    {
+      "id": 46,
+      "start": 173.88,
+      "end": 176.7,
+      "ts": "02:53.880 -> 02:56.700",
+      "jp": "話してばっかりですね",
+      "jp_html": "<ruby>話し<rt>はなし</rt></ruby>てばっかりですね",
+      "zh": "说得可真多啊",
+      "en": "You just talk all the time."
+    },
+    {
+      "id": 47,
+      "start": 176.7,
+      "end": 180.14,
+      "ts": "02:56.700 -> 03:00.140",
+      "jp": "いろんな人とたくさん話をしたい",
+      "jp_html": "いろんな<ruby>人<rt>にん</rt></ruby>とたくさん<ruby>話<rt>はなし</rt></ruby>をしたい",
+      "zh": "我想和很多人多聊天",
+      "en": "I want to talk to lots of different people."
+    },
+    {
+      "id": 48,
+      "start": 180.14,
+      "end": 184.84,
+      "ts": "03:00.140 -> 03:04.840",
+      "jp": "僕の2026年",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の2026<ruby>年<rt>ねん</rt></ruby>",
+      "zh": "我的2026年",
+      "en": "My 2026"
+    },
+    {
+      "id": 49,
+      "start": 184.84,
+      "end": 187.78,
+      "ts": "03:04.840 -> 03:07.780",
+      "jp": "秋シーズン",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>シーズン",
+      "zh": "秋季",
+      "en": "Autumn season"
+    },
+    {
+      "id": 50,
+      "start": 187.78,
+      "end": 189.24,
+      "ts": "03:07.780 -> 03:09.240",
+      "jp": "秋と冬か",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>と<ruby>冬か<rt>ふゆか</rt></ruby>",
+      "zh": "秋天和冬天吗",
+      "en": "Autumn and winter?"
+    },
+    {
+      "id": 51,
+      "start": 189.24,
+      "end": 191.54,
+      "ts": "03:09.240 -> 03:11.540",
+      "jp": "秋と冬シーズンは",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>と<ruby>冬<rt>ふゆ</rt></ruby>シーズンは",
+      "zh": "秋季和冬季",
+      "en": "The autumn and winter seasons are"
+    },
+    {
+      "id": 52,
+      "start": 191.54,
+      "end": 195.24,
+      "ts": "03:11.540 -> 03:15.240",
+      "jp": "いつものようにたくさん話したいと思います",
+      "jp_html": "いつものようにたくさん<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我打算像往常一样多聊天",
+      "en": "I want to talk a lot as usual."
+    },
+    {
+      "id": 53,
+      "start": 195.24,
+      "end": 198.78,
+      "ts": "03:15.240 -> 03:18.780",
+      "jp": "ポッドキャストもたくさん撮りたいと思います",
+      "jp_html": "ポッドキャストもたくさん<ruby>撮り<rt>とり</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我也想多录一些播客",
+      "en": "I also want to record many podcasts."
+    },
+    {
+      "id": 54,
+      "start": 198.78,
+      "end": 202.48,
+      "ts": "03:18.780 -> 03:22.480",
+      "jp": "なので皆さん楽しみにしておいてください",
+      "jp_html": "なので<ruby>皆さん<rt>みなさん</rt></ruby><ruby>楽しみ<rt>たのしみ</rt></ruby>にしておいてください",
+      "zh": "所以请大家期待一下",
+      "en": "So please look forward to it."
+    },
+    {
+      "id": 55,
+      "start": 202.48,
+      "end": 205.14,
+      "ts": "03:22.480 -> 03:25.140",
+      "jp": "毎日のこと",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>のこと",
+      "zh": "每天的事情",
+      "en": "Something done every day"
+    },
+    {
+      "id": 56,
+      "start": 205.14,
+      "end": 208.64,
+      "ts": "03:25.140 -> 03:28.640",
+      "jp": "日本語学習のこと",
+      "jp_html": "<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>習<rt>しゅう</rt></ruby>のこと",
+      "zh": "日语学习的事情",
+      "en": "The thing about learning Japanese"
+    },
+    {
+      "id": 57,
+      "start": 208.64,
+      "end": 211.16,
+      "ts": "03:28.640 -> 03:31.160",
+      "jp": "モチベーションとかね",
+      "jp_html": "モチベーションとかね",
+      "zh": "动机或者说",
+      "en": "Motivation or something like that"
+    },
+    {
+      "id": 58,
+      "start": 211.16,
+      "end": 212.16,
+      "ts": "03:31.160 -> 03:32.160",
+      "jp": "そういうこと",
+      "jp_html": "そういうこと",
+      "zh": "就是那样",
+      "en": "That's what I mean."
+    },
+    {
+      "id": 59,
+      "start": 212.16,
+      "end": 215.4,
+      "ts": "03:32.160 -> 03:35.400",
+      "jp": "毎日のルーティンのこと",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>のルーティンのこと",
+      "zh": "每天的例行事务",
+      "en": "Daily routine matters"
+    },
+    {
+      "id": 60,
+      "start": 215.4,
+      "end": 218.82,
+      "ts": "03:35.400 -> 03:38.820",
+      "jp": "やる気があるとき",
+      "jp_html": "やる<ruby>気が<rt>きが</rt></ruby>あるとき",
+      "zh": "有动力的时候",
+      "en": "When I have motivation"
+    },
+    {
+      "id": 61,
+      "start": 218.82,
+      "end": 221.06,
+      "ts": "03:38.820 -> 03:41.060",
+      "jp": "やる気がないとき",
+      "jp_html": "やる<ruby>気が<rt>きが</rt></ruby>ないとき",
+      "zh": "没力气的时候",
+      "en": "When I don't feel like doing anything"
+    },
+    {
+      "id": 62,
+      "start": 221.06,
+      "end": 223.64,
+      "ts": "03:41.060 -> 03:43.640",
+      "jp": "人間関係",
+      "jp_html": "<ruby>人間関係<rt>にんげんかんけい</rt></ruby>",
+      "zh": "人际关系",
+      "en": "人际关系"
+    },
+    {
+      "id": 63,
+      "start": 223.64,
+      "end": 226.02,
+      "ts": "03:43.640 -> 03:46.020",
+      "jp": "いろいろなことについて",
+      "jp_html": "いろいろなことについて",
+      "zh": "关于各种事情",
+      "en": "About various things"
+    },
+    {
+      "id": 64,
+      "start": 226.02,
+      "end": 228.72,
+      "ts": "03:46.020 -> 03:48.720",
+      "jp": "秋も話していきます",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>も<ruby>話し<rt>はなし</rt></ruby>ていきます",
+      "zh": "秋天也会聊到的",
+      "en": "I will also talk about autumn."
+    },
+    {
+      "id": 65,
+      "start": 228.72,
+      "end": 230.52,
+      "ts": "03:48.720 -> 03:50.520",
+      "jp": "冬も話していきます",
+      "jp_html": "<ruby>冬<rt>ふゆ</rt></ruby>も<ruby>話し<rt>はなし</rt></ruby>ていきます",
+      "zh": "冬天也会继续聊天的",
+      "en": "We will also talk in winter."
+    },
+    {
+      "id": 66,
+      "start": 230.52,
+      "end": 235.2,
+      "ts": "03:50.520 -> 03:55.200",
+      "jp": "ちょっとだけ夜は涼しい日もあるけど",
+      "jp_html": "ちょっとだけ<ruby>夜<rt>よる</rt></ruby>は<ruby>涼しい<rt>すずしい</rt></ruby><ruby>日<rt>にち</rt></ruby>もあるけど",
+      "zh": "有时候晚上会凉快一些",
+      "en": "There are days when it's a little cool at night."
+    },
+    {
+      "id": 67,
+      "start": 235.2,
+      "end": 238.52,
+      "ts": "03:55.200 -> 03:58.520",
+      "jp": "まだ東京の昼は暑いです",
+      "jp_html": "まだ<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>昼<rt>ひる</rt></ruby>は<ruby>暑い<rt>あつい</rt></ruby>です",
+      "zh": "东京的中午还是很热",
+      "en": "Still, the noon in Tokyo is hot."
+    },
+    {
+      "id": 68,
+      "start": 238.52,
+      "end": 242.06,
+      "ts": "03:58.520 -> 04:02.060",
+      "jp": "昼は暑い朝も暑い",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>は<ruby>暑い<rt>あつい</rt></ruby><ruby>朝<rt>あさ</rt></ruby>も<ruby>暑い<rt>あつい</rt></ruby>",
+      "zh": "白天很热早晨也很热",
+      "en": "It's hot in the afternoon and early morning."
+    },
+    {
+      "id": 69,
+      "start": 242.06,
+      "end": 243.64,
+      "ts": "04:02.060 -> 04:03.640",
+      "jp": "夜はちょっとだけね",
+      "jp_html": "<ruby>夜<rt>よる</rt></ruby>はちょっとだけね",
+      "zh": "晚上只是稍微一会儿",
+      "en": "Night is just a little bit."
+    },
+    {
+      "id": 70,
+      "start": 243.64,
+      "end": 245.72,
+      "ts": "04:03.640 -> 04:05.720",
+      "jp": "ちょっとだけ涼しい時がある",
+      "jp_html": "ちょっとだけ<ruby>涼しい<rt>すずしい</rt></ruby><ruby>時<rt>とき</rt></ruby>がある",
+      "zh": "有时会凉快一点",
+      "en": "There are times when it's slightly cool."
+    },
+    {
+      "id": 71,
+      "start": 245.72,
+      "end": 248.28,
+      "ts": "04:05.720 -> 04:08.280",
+      "jp": "だけど今暑いです",
+      "jp_html": "だけど<ruby>今<rt>いま</rt></ruby><ruby>暑い<rt>あつい</rt></ruby>です",
+      "zh": "但是现在很热",
+      "en": "But it's hot now."
+    },
+    {
+      "id": 72,
+      "start": 248.28,
+      "end": 250.62,
+      "ts": "04:08.280 -> 04:10.620",
+      "jp": "今昼だけど暑い",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby><ruby>昼<rt>ひる</rt></ruby>だけど<ruby>暑い<rt>あつい</rt></ruby>",
+      "zh": "今天白天但是很热",
+      "en": "It's noon but it's hot."
+    },
+    {
+      "id": 73,
+      "start": 250.62,
+      "end": 252.58,
+      "ts": "04:10.620 -> 04:12.580",
+      "jp": "まだまだ暑い",
+      "jp_html": "まだまだ<ruby>暑い<rt>あつい</rt></ruby>",
+      "zh": "还是很热",
+      "en": "It's still very hot."
+    },
+    {
+      "id": 74,
+      "start": 252.58,
+      "end": 253.8,
+      "ts": "04:12.580 -> 04:13.800",
+      "jp": "9月は暑い",
+      "jp_html": "9<ruby>月<rt>がつ</rt></ruby>は<ruby>暑い<rt>あつい</rt></ruby>",
+      "zh": "九月还是热的",
+      "en": "September is hot."
+    },
+    {
+      "id": 75,
+      "start": 253.8,
+      "end": 256.68,
+      "ts": "04:13.800 -> 04:16.680",
+      "jp": "だけど夜はちょっと涼しくなってきました",
+      "jp_html": "だけど<ruby>夜<rt>よる</rt></ruby>はちょっと<ruby>涼しく<rt>すずしく</rt></ruby>なってきました",
+      "zh": "但是晚上稍微凉快了一些",
+      "en": "But the night has cooled off a bit."
+    },
+    {
+      "id": 76,
+      "start": 256.68,
+      "end": 257.8,
+      "ts": "04:16.680 -> 04:17.800",
+      "jp": "これは良かった",
+      "jp_html": "これは<ruby>良か<rt>よか</rt></ruby>った",
+      "zh": "这很好",
+      "en": "This was good."
+    },
+    {
+      "id": 77,
+      "start": 257.8,
+      "end": 259.6,
+      "ts": "04:17.800 -> 04:19.600",
+      "jp": "これはいいことですね",
+      "jp_html": "これはいいことですね",
+      "zh": "这是好事呢",
+      "en": "This is good news."
+    },
+    {
+      "id": 78,
+      "start": 259.6,
+      "end": 265.12,
+      "ts": "04:19.600 -> 04:25.120",
+      "jp": "なので日本には読書の秋という言葉があります",
+      "jp_html": "なので<ruby>日本<rt>にっぽん</rt></ruby>には<ruby>読書<rt>どくしょ</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby>があります",
+      "zh": "因此日本有“读书的秋天”这个说法",
+      "en": "So, in Japan, there is a phrase called \"reading autumn.\""
+    },
+    {
+      "id": 79,
+      "start": 265.12,
+      "end": 266.2,
+      "ts": "04:25.120 -> 04:26.200",
+      "jp": "読書の秋",
+      "jp_html": "<ruby>読書<rt>どくしょ</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>",
+      "zh": "读书的秋天",
+      "en": "Autumn for reading"
+    },
+    {
+      "id": 80,
+      "start": 266.2,
+      "end": 268.82,
+      "ts": "04:26.200 -> 04:28.820",
+      "jp": "本を読むといいですよ",
+      "jp_html": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読む<rt>よむ</rt></ruby>といいですよ",
+      "zh": "读书比较好哦",
+      "en": "Reading a book would be good."
+    },
+    {
+      "id": 81,
+      "start": 268.82,
+      "end": 270.88,
+      "ts": "04:28.820 -> 04:30.880",
+      "jp": "秋は本を読みましょうと",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>を<ruby>読み<rt>よみ</rt></ruby>ましょうと",
+      "zh": "秋天让我们读书吧",
+      "en": "Let's read books in autumn."
+    },
+    {
+      "id": 82,
+      "start": 270.88,
+      "end": 272.94,
+      "ts": "04:30.880 -> 04:32.940",
+      "jp": "理由は分かりません",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "我不明白原因。",
+      "en": "I don't understand the reason."
+    },
+    {
+      "id": 83,
+      "start": 272.94,
+      "end": 276.68,
+      "ts": "04:32.940 -> 04:36.680",
+      "jp": "多分ちょっとだけ涼しくなるからかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ちょっとだけ<ruby>涼しく<rt>すずしく</rt></ruby>なるからかな",
+      "zh": "大概会稍微凉快一点吧",
+      "en": "Probably it will become a little cooler, right?"
+    },
+    {
+      "id": 84,
+      "start": 276.68,
+      "end": 281.3,
+      "ts": "04:36.680 -> 04:41.300",
+      "jp": "そして芸術の秋という言葉があります",
+      "jp_html": "そして<ruby>芸術<rt>げいじゅつ</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby>があります",
+      "zh": "然后有一个词语叫做“艺术的秋天”",
+      "en": "And there is the phrase \"autumn of arts.\""
+    },
+    {
+      "id": 85,
+      "start": 281.3,
+      "end": 282.54,
+      "ts": "04:41.300 -> 04:42.540",
+      "jp": "芸術の秋",
+      "jp_html": "<ruby>芸術<rt>げいじゅつ</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>",
+      "zh": "艺术之秋",
+      "en": "Autumn of Arts"
+    },
+    {
+      "id": 86,
+      "start": 282.54,
+      "end": 283.94,
+      "ts": "04:42.540 -> 04:43.940",
+      "jp": "アートですね",
+      "jp_html": "アートですね",
+      "zh": "艺术呢",
+      "en": "Art, I presume?"
+    },
+    {
+      "id": 87,
+      "start": 283.94,
+      "end": 286.34,
+      "ts": "04:43.940 -> 04:46.340",
+      "jp": "理由は分かりません",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "我不明白原因。",
+      "en": "I don't understand the reason."
+    },
+    {
+      "id": 88,
+      "start": 286.34,
+      "end": 290.28,
+      "ts": "04:46.340 -> 04:50.280",
+      "jp": "多分ちょっと涼しくなるからかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ちょっと<ruby>涼しく<rt>すずしく</rt></ruby>なるからかな",
+      "zh": "大概是会稍微凉快一点吧",
+      "en": "Probably it will be a little cooler, right?"
+    },
+    {
+      "id": 89,
+      "start": 290.28,
+      "end": 291.42,
+      "ts": "04:50.280 -> 04:51.420",
+      "jp": "よくわからない",
+      "jp_html": "よくわからない",
+      "zh": "不明白",
+      "en": "I don't understand well."
+    },
+    {
+      "id": 90,
+      "start": 291.42,
+      "end": 294.58,
+      "ts": "04:51.420 -> 04:54.580",
+      "jp": "なんで芸術の秋",
+      "jp_html": "なんで<ruby>芸術<rt>げいじゅつ</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>",
+      "zh": "为什么艺术之秋",
+      "en": "Why is autumn the season of art?"
+    },
+    {
+      "id": 91,
+      "start": 294.58,
+      "end": 297.72,
+      "ts": "04:54.580 -> 04:57.720",
+      "jp": "そして最後が食欲の秋",
+      "jp_html": "そして<ruby>最後<rt>さいご</rt></ruby>が<ruby>食欲<rt>しょくよく</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>",
+      "zh": "然后最后是秋高气爽",
+      "en": "And lastly comes the autumn of appetite."
+    },
+    {
+      "id": 92,
+      "start": 297.72,
+      "end": 299.36,
+      "ts": "04:57.720 -> 04:59.360",
+      "jp": "食欲の秋ですね",
+      "jp_html": "<ruby>食欲<rt>しょくよく</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>ですね",
+      "zh": "秋是食欲的季节呢",
+      "en": "Autumn is the season of appetite."
+    },
+    {
+      "id": 93,
+      "start": 299.36,
+      "end": 300.94,
+      "ts": "04:59.360 -> 05:00.940",
+      "jp": "これは食べ物ですね",
+      "jp_html": "これは<ruby>食べ物<rt>たべもの</rt></ruby>ですね",
+      "zh": "这是食物呢",
+      "en": "This is food, right?"
+    },
+    {
+      "id": 94,
+      "start": 300.94,
+      "end": 303.1,
+      "ts": "05:00.940 -> 05:03.100",
+      "jp": "食欲というのは食べたいということ",
+      "jp_html": "<ruby>食欲<rt>しょくよく</rt></ruby>というのは<ruby>食べた<rt>たべた</rt></ruby>いということ",
+      "zh": "食欲是指想吃东西的状态",
+      "en": "Appetite is the desire to eat."
+    },
+    {
+      "id": 95,
+      "start": 303.1,
+      "end": 306.84,
+      "ts": "05:03.100 -> 05:06.840",
+      "jp": "秋はお腹が空く",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>はお<ruby>腹<rt>はら</rt></ruby>が<ruby>空く<rt>あく</rt></ruby>",
+      "zh": "秋天容易饿",
+      "en": "Autumn makes me hungry."
+    },
+    {
+      "id": 96,
+      "start": 306.84,
+      "end": 308.92,
+      "ts": "05:06.840 -> 05:08.920",
+      "jp": "秋はたくさん食べたい",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>はたくさん<ruby>食べた<rt>たべた</rt></ruby>い",
+      "zh": "秋天想多吃点",
+      "en": "Autumn is when I want to eat a lot."
+    },
+    {
+      "id": 97,
+      "start": 308.92,
+      "end": 310.14,
+      "ts": "05:08.920 -> 05:10.140",
+      "jp": "そういうこと",
+      "jp_html": "そういうこと",
+      "zh": "就是那样",
+      "en": "That's what I mean."
+    },
+    {
+      "id": 98,
+      "start": 310.14,
+      "end": 315.86,
+      "ts": "05:10.140 -> 05:15.860",
+      "jp": "理由は多分やっぱりちょっと涼しくなるからかな",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby>やっぱりちょっと<ruby>涼しく<rt>すずしく</rt></ruby>なるからかな",
+      "zh": "大概是天气会稍微凉快一点吧",
+      "en": "Probably because it's going to get a little cooler, right?"
+    },
+    {
+      "id": 99,
+      "start": 315.86,
+      "end": 318.6,
+      "ts": "05:15.860 -> 05:18.600",
+      "jp": "夏は暑いですよね",
+      "jp_html": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑い<rt>あつい</rt></ruby>ですよね",
+      "zh": "夏天好热吧？",
+      "en": "Isn't summer hot, right?"
+    },
+    {
+      "id": 100,
+      "start": 318.6,
+      "end": 321.38,
+      "ts": "05:18.600 -> 05:21.380",
+      "jp": "暑すぎてあんまり食べられない",
+      "jp_html": "<ruby>暑す<rt>あつす</rt></ruby>ぎてあんまり<ruby>食べ<rt>たべ</rt></ruby>られない",
+      "zh": "太热了，不太想吃东西",
+      "en": "It's too hot and I don't really feel like eating."
+    },
+    {
+      "id": 101,
+      "start": 321.38,
+      "end": 323.9,
+      "ts": "05:21.380 -> 05:23.900",
+      "jp": "アイスクリームとかビールとか",
+      "jp_html": "アイスクリームとかビールとか",
+      "zh": "冰淇淋和啤酒",
+      "en": "Ice cream and beer"
+    },
+    {
+      "id": 102,
+      "start": 323.9,
+      "end": 325.7,
+      "ts": "05:23.900 -> 05:25.700",
+      "jp": "冷たいものばかり",
+      "jp_html": "<ruby>冷たい<rt>つめたい</rt></ruby>ものばかり",
+      "zh": "只吃冷的东西",
+      "en": "Only cold things"
+    },
+    {
+      "id": 103,
+      "start": 325.7,
+      "end": 328.38,
+      "ts": "05:25.700 -> 05:28.380",
+      "jp": "だけど秋になるとちょっとね",
+      "jp_html": "だけど<ruby>秋<rt>あき</rt></ruby>になるとちょっとね",
+      "zh": "但是秋天的时候会有点儿",
+      "en": "But in autumn, well, it's kind of..."
+    },
+    {
+      "id": 104,
+      "start": 328.38,
+      "end": 332.22,
+      "ts": "05:28.380 -> 05:32.220",
+      "jp": "涼しくなるのでお腹が空いてくる",
+      "jp_html": "<ruby>涼しく<rt>すずしく</rt></ruby>なるのでお<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>てくる",
+      "zh": "天气变凉所以肚子饿了",
+      "en": "It gets cooler so I start getting hungry."
+    },
+    {
+      "id": 105,
+      "start": 332.22,
+      "end": 334.34,
+      "ts": "05:32.220 -> 05:34.340",
+      "jp": "秋の食べ物はいいですよ",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>の<ruby>食べ物<rt>たべもの</rt></ruby>はいいですよ",
+      "zh": "秋天的食物很好吃",
+      "en": "Fall foods are good, too."
+    },
+    {
+      "id": 106,
+      "start": 334.34,
+      "end": 336.38,
+      "ts": "05:34.340 -> 05:36.380",
+      "jp": "さつまいもとか",
+      "jp_html": "さつまいもとか",
+      "zh": "红薯或者",
+      "en": "sweet potatoes and"
+    },
+    {
+      "id": 107,
+      "start": 336.38,
+      "end": 338.38,
+      "ts": "05:36.380 -> 05:38.380",
+      "jp": "栗とか",
+      "jp_html": "<ruby>栗<rt>くり</rt></ruby>とか",
+      "zh": "栗或栗子",
+      "en": "nuts"
+    },
+    {
+      "id": 108,
+      "start": 338.38,
+      "end": 341.0,
+      "ts": "05:38.380 -> 05:41.000",
+      "jp": "あと何があるかな",
+      "jp_html": "あと<ruby>何<rt>なに</rt></ruby>があるかな",
+      "zh": "还有些什么呢？",
+      "en": "What else is there?"
+    },
+    {
+      "id": 109,
+      "start": 341.0,
+      "end": 344.12,
+      "ts": "05:41.000 -> 05:44.120",
+      "jp": "あんまりわかんないな",
+      "jp_html": "あんまりわかんないな",
+      "zh": "不太明白呢",
+      "en": "I don't really understand it well."
+    },
+    {
+      "id": 110,
+      "start": 344.12,
+      "end": 350.6,
+      "ts": "05:44.120 -> 05:50.600",
+      "jp": "柿とか他にもいろいろキノコとかね",
+      "jp_html": "<ruby>柿<rt>かき</rt></ruby>とか<ruby>他に<rt>ほかに</rt></ruby>もいろいろキノコとかね",
+      "zh": "柿还有许多其他的，比如蘑菇之类的",
+      "en": "Mushrooms and other various things like persimmons."
+    },
+    {
+      "id": 111,
+      "start": 350.6,
+      "end": 355.56,
+      "ts": "05:50.600 -> 05:55.560",
+      "jp": "でもキノコはいつでも日本だと食べられますけどね",
+      "jp_html": "でもキノコはいつでも<ruby>日本<rt>にっぽん</rt></ruby>だと<ruby>食べ<rt>たべ</rt></ruby>られますけどね",
+      "zh": "但是蘑菇在日本一年四季都能吃呢",
+      "en": "But mushrooms can be eaten in Japan at any time, though."
+    },
+    {
+      "id": 112,
+      "start": 355.56,
+      "end": 356.68,
+      "ts": "05:55.560 -> 05:56.680",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 113,
+      "start": 356.68,
+      "end": 360.46,
+      "ts": "05:56.680 -> 06:00.460",
+      "jp": "というわけで秋を楽しんでいきましょう",
+      "jp_html": "というわけで<ruby>秋<rt>あき</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでいきましょう",
+      "zh": "就这样，让我们享受秋天吧",
+      "en": "So let's enjoy autumn!"
+    },
+    {
+      "id": 114,
+      "start": 360.46,
+      "end": 361.94,
+      "ts": "06:00.460 -> 06:01.940",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}
