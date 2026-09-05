@@ -1,0 +1,954 @@
+{
+  "id": "1577",
+  "title": "#1577「片付け、掃除について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1577.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1577.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/05/1577%e3%80%8c%e7%89%87%e4%bb%98%e3%81%91%e3%80%81%e6%8e%83%e9%99%a4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.17,
+      "end": 7.41,
+      "ts": "00:01.170 -> 00:07.410",
+      "jp": "借金 今日は片付け掃除について",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby> <ruby>今日は<rt>こんにちは</rt></ruby><ruby>片付け<rt>かたづけ</rt></ruby><ruby>掃除<rt>そうじ</rt></ruby>について",
+      "zh": "借金 今天关于整理清洁的话题",
+      "en": "Debt Today I want to talk about cleaning up."
+    },
+    {
+      "id": 1,
+      "start": 7.41,
+      "end": 17.19,
+      "ts": "00:07.410 -> 00:17.190",
+      "jp": "はい皆さん元気ですか あのまあ9月またルーティンを取り戻すぞ",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか あのまあ9<ruby>月<rt>がつ</rt></ruby>またルーティンを<ruby>取り<rt>とり</rt></ruby><ruby>戻す<rt>もどす</rt></ruby>ぞ",
+      "zh": "大家好，大家都好吗？那个，九月又要恢复常规了。",
+      "en": "Hi everyone, how are you? Well, in September we'll get back into our routine."
+    },
+    {
+      "id": 2,
+      "start": 17.19,
+      "end": 23.83,
+      "ts": "00:17.190 -> 00:23.830",
+      "jp": "という気持ちで あの毎日を過ごしていますが皆さんはどうですか",
+      "jp_html": "という<ruby>気持ち<rt>きもち</rt></ruby>で あの<ruby>毎日<rt>まいにち</rt></ruby>を<ruby>過ご<rt>すご</rt></ruby>していますが<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "我就是这么度过那些日子的，你们呢？",
+      "en": "I am going through each day with that feeling, but how about you all?"
+    },
+    {
+      "id": 3,
+      "start": 23.83,
+      "end": 34.93,
+      "ts": "00:23.830 -> 00:34.930",
+      "jp": "やっぱりね掃除洗濯家事料理そういうのが大事ですね",
+      "jp_html": "やっぱりね<ruby>掃除<rt>そうじ</rt></ruby><ruby>洗濯<rt>せんたく</rt></ruby><ruby>家事<rt>かじ</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>そういうのが<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "果然呢，打扫整理家务这些确实很重要呢",
+      "en": "As expected, cleaning, laundry, housework, and cooking are important, right?"
+    },
+    {
+      "id": 4,
+      "start": 34.93,
+      "end": 39.85,
+      "ts": "00:34.930 -> 00:39.850",
+      "jp": "片付け掃除これ本当に大事ですね",
+      "jp_html": "<ruby>片付け<rt>かたづけ</rt></ruby><ruby>掃除こ<rt>はこ</rt></ruby>れ<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "整理打扫真的很重要呢",
+      "en": "Cleaning up and organizing really matters, doesn't it?"
+    },
+    {
+      "id": 5,
+      "start": 41.31,
+      "end": 43.73,
+      "ts": "00:41.310 -> 00:43.730",
+      "jp": "なので僕はまずですね",
+      "jp_html": "なので<ruby>僕は<rt>ぼくは</rt></ruby>まずですね",
+      "zh": "所以我首先",
+      "en": "So I first need to"
+    },
+    {
+      "id": 6,
+      "start": 43.73,
+      "end": 48.85,
+      "ts": "00:43.730 -> 00:48.850",
+      "jp": "まず部屋の中をきれいにしようと思って",
+      "jp_html": "まず<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をきれいにしようと<ruby>思って<rt>おもって</rt></ruby>",
+      "zh": "先打扫一下房间里的卫生",
+      "en": "I wanted to clean inside the room first."
+    },
+    {
+      "id": 7,
+      "start": 48.85,
+      "end": 52.31,
+      "ts": "00:48.850 -> 00:52.310",
+      "jp": "掃除機をかけ",
+      "jp_html": "<ruby>掃除機<rt>そうじき</rt></ruby>をかけ",
+      "zh": "打扫干净",
+      "en": "To vacuum"
+    },
+    {
+      "id": 8,
+      "start": 52.31,
+      "end": 55.31,
+      "ts": "00:52.310 -> 00:55.310",
+      "jp": "埃を取って",
+      "jp_html": "<ruby>埃<rt>ほこり</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て",
+      "zh": "吃掉埃",
+      "en": "Take the pawn."
+    },
+    {
+      "id": 9,
+      "start": 55.31,
+      "end": 58.27,
+      "ts": "00:55.310 -> 00:58.270",
+      "jp": "床を拭いて",
+      "jp_html": "<ruby>床<rt>とこ</rt></ruby>を<ruby>拭い<rt>ぬぐい</rt></ruby>て",
+      "zh": "擦床",
+      "en": "Wipe the floor"
+    },
+    {
+      "id": 10,
+      "start": 58.27,
+      "end": 60.19,
+      "ts": "00:58.270 -> 01:00.190",
+      "jp": "台所",
+      "jp_html": "<ruby>台所<rt>だいどころ</rt></ruby>",
+      "zh": "厨房",
+      "en": "Kitchen"
+    },
+    {
+      "id": 11,
+      "start": 60.19,
+      "end": 61.37,
+      "ts": "01:00.190 -> 01:01.370",
+      "jp": "トイレ",
+      "jp_html": "トイレ",
+      "zh": "厕所",
+      "en": "Bathroom"
+    },
+    {
+      "id": 12,
+      "start": 61.37,
+      "end": 63.23,
+      "ts": "01:01.370 -> 01:03.230",
+      "jp": "シャワー室",
+      "jp_html": "シャワー<ruby>室<rt>しつ</rt></ruby>",
+      "zh": "淋浴间",
+      "en": "Shower room"
+    },
+    {
+      "id": 13,
+      "start": 63.23,
+      "end": 64.27,
+      "ts": "01:03.230 -> 01:04.270",
+      "jp": "お風呂",
+      "jp_html": "お<ruby>風呂<rt>ふろ</rt></ruby>",
+      "zh": "浴室",
+      "en": "bath"
+    },
+    {
+      "id": 14,
+      "start": 64.27,
+      "end": 66.01,
+      "ts": "01:04.270 -> 01:06.010",
+      "jp": "全部きれいにして",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>きれいにして",
+      "zh": "全部整理做好了",
+      "en": "Clean everything up"
+    },
+    {
+      "id": 15,
+      "start": 66.01,
+      "end": 67.11,
+      "ts": "01:06.010 -> 01:07.110",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 16,
+      "start": 67.11,
+      "end": 69.49,
+      "ts": "01:07.110 -> 01:09.490",
+      "jp": "新しく",
+      "jp_html": "<ruby>新しく<rt>あたらしく</rt></ruby>",
+      "zh": "新的",
+      "en": "new"
+    },
+    {
+      "id": 17,
+      "start": 69.49,
+      "end": 74.83,
+      "ts": "01:09.490 -> 01:14.830",
+      "jp": "収納をいくつか買いましたね",
+      "jp_html": "<ruby>収納<rt>しゅうのう</rt></ruby>をいくつか<ruby>買い<rt>かい</rt></ruby>ましたね",
+      "zh": "买了一些收纳用品吧",
+      "en": "You bought several storage solutions, I see."
+    },
+    {
+      "id": 18,
+      "start": 74.83,
+      "end": 75.51,
+      "ts": "01:14.830 -> 01:15.510",
+      "jp": "収納",
+      "jp_html": "<ruby>収納<rt>しゅうのう</rt></ruby>",
+      "zh": "收纳",
+      "en": "Storage"
+    },
+    {
+      "id": 19,
+      "start": 75.51,
+      "end": 76.73,
+      "ts": "01:15.510 -> 01:16.730",
+      "jp": "収納というのは",
+      "jp_html": "<ruby>収納<rt>しゅうのう</rt></ruby>というのは",
+      "zh": "收纳是指",
+      "en": "Storage involves"
+    },
+    {
+      "id": 20,
+      "start": 76.73,
+      "end": 80.27,
+      "ts": "01:16.730 -> 01:20.270",
+      "jp": "物を片付けるためのものですね",
+      "jp_html": "<ruby>物<rt>もの</rt></ruby>を<ruby>片付け<rt>かたづけ</rt></ruby>るためのものですね",
+      "zh": "用来整理物品的吧",
+      "en": "It's for putting things away, I see."
+    },
+    {
+      "id": 21,
+      "start": 80.27,
+      "end": 82.39,
+      "ts": "01:20.270 -> 01:22.390",
+      "jp": "例えば箱みたいなものね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>箱<rt>はこ</rt></ruby>みたいなものね",
+      "zh": "比如像箱子一样的东西吧",
+      "en": "Like a box, you know."
+    },
+    {
+      "id": 22,
+      "start": 82.39,
+      "end": 83.49,
+      "ts": "01:22.390 -> 01:23.490",
+      "jp": "箱みたいな",
+      "jp_html": "<ruby>箱<rt>はこ</rt></ruby>みたいな",
+      "zh": "像箱子一样",
+      "en": "like a box"
+    },
+    {
+      "id": 23,
+      "start": 83.49,
+      "end": 85.41,
+      "ts": "01:23.490 -> 01:25.410",
+      "jp": "ボックスみたいなの",
+      "jp_html": "ボックスみたいなの",
+      "zh": "像盒子的东西",
+      "en": "Boxes like things"
+    },
+    {
+      "id": 24,
+      "start": 85.41,
+      "end": 87.03,
+      "ts": "01:25.410 -> 01:27.030",
+      "jp": "いろいろあるでしょ",
+      "jp_html": "いろいろあるでしょ",
+      "zh": "有的吧",
+      "en": "There are many things, right?"
+    },
+    {
+      "id": 25,
+      "start": 87.03,
+      "end": 89.29,
+      "ts": "01:27.030 -> 01:29.290",
+      "jp": "プラスチックのボックスや",
+      "jp_html": "プラスチックのボックスや",
+      "zh": "塑料的盒子或",
+      "en": "Plastic boxes and"
+    },
+    {
+      "id": 26,
+      "start": 89.29,
+      "end": 91.57,
+      "ts": "01:29.290 -> 01:31.570",
+      "jp": "布のボックスや",
+      "jp_html": "<ruby>布<rt>ぬの</rt></ruby>のボックスや",
+      "zh": "布的盒子或",
+      "en": "Paper boxes or"
+    },
+    {
+      "id": 27,
+      "start": 91.57,
+      "end": 93.37,
+      "ts": "01:31.570 -> 01:33.370",
+      "jp": "僕はちょっと布を買いましたね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ちょっと<ruby>布<rt>ぬの</rt></ruby>を<ruby>買い<rt>かい</rt></ruby>ましたね",
+      "zh": "我买了一块布。",
+      "en": "I bought a little cloth, I think."
+    },
+    {
+      "id": 28,
+      "start": 93.37,
+      "end": 95.11,
+      "ts": "01:33.370 -> 01:35.110",
+      "jp": "布のボックスを買って",
+      "jp_html": "<ruby>布<rt>ぬの</rt></ruby>のボックスを<ruby>買っ<rt>かっ</rt></ruby>て",
+      "zh": "买了一个布盒子",
+      "en": "Buy a cloth box"
+    },
+    {
+      "id": 29,
+      "start": 95.11,
+      "end": 98.69,
+      "ts": "01:35.110 -> 01:38.690",
+      "jp": "いろいろなものをそこに入れます",
+      "jp_html": "いろいろなものをそこに<ruby>入れ<rt>いれ</rt></ruby>ます",
+      "zh": "把各种东西放在那里",
+      "en": "I put various things there."
+    },
+    {
+      "id": 30,
+      "start": 98.69,
+      "end": 100.87,
+      "ts": "01:38.690 -> 01:40.870",
+      "jp": "例えば子供のもの",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>子供<rt>こども</rt></ruby>のもの",
+      "zh": "比如孩子的用品",
+      "en": "For example, children's items"
+    },
+    {
+      "id": 31,
+      "start": 100.87,
+      "end": 103.59,
+      "ts": "01:40.870 -> 01:43.590",
+      "jp": "子供のものたち",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>のものたち",
+      "zh": "孩子们的东西",
+      "en": "Children's things"
+    },
+    {
+      "id": 32,
+      "start": 103.59,
+      "end": 104.67,
+      "ts": "01:43.590 -> 01:44.670",
+      "jp": "子供はね",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>はね",
+      "zh": "孩子是né",
+      "en": "Children are sleepy."
+    },
+    {
+      "id": 33,
+      "start": 104.67,
+      "end": 109.11,
+      "ts": "01:44.670 -> 01:49.110",
+      "jp": "たくさんのよくわからないおもちゃを持ってますね",
+      "jp_html": "たくさんのよくわからないおもちゃを<ruby>持っ<rt>もっ</rt></ruby>てますね",
+      "zh": "你有很多不怎么懂的玩具吧",
+      "en": "You seem to have a lot of toys that I don't understand."
+    },
+    {
+      "id": 34,
+      "start": 109.11,
+      "end": 113.45,
+      "ts": "01:49.110 -> 01:53.450",
+      "jp": "最近僕の子供が好きなのがクレヨンしんちゃん",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>なのがクレヨンしんちゃん",
+      "zh": "最近我的孩子喜欢的是蜡笔小新",
+      "en": "Recently, my child has started liking Crayon Shin-chan."
+    },
+    {
+      "id": 35,
+      "start": 113.45,
+      "end": 116.91,
+      "ts": "01:53.450 -> 01:56.910",
+      "jp": "なんかクレヨンしんちゃんのフィギュアとか",
+      "jp_html": "なんかクレヨンしんちゃんのフィギュアとか",
+      "zh": "好像有一些克力ён松熏的 figurine 之类的",
+      "en": "Something like Crayon Shin-chan figures"
+    },
+    {
+      "id": 36,
+      "start": 116.91,
+      "end": 119.41,
+      "ts": "01:56.910 -> 01:59.410",
+      "jp": "クレヨンしんちゃんのステッカーとか",
+      "jp_html": "クレヨンしんちゃんのステッカーとか",
+      "zh": "蜡笔小新贴纸之类的",
+      "en": "Shinchan crayon stickers"
+    },
+    {
+      "id": 37,
+      "start": 119.41,
+      "end": 121.91,
+      "ts": "01:59.410 -> 02:01.910",
+      "jp": "クレヨンしんちゃんの漫画とか",
+      "jp_html": "クレヨンしんちゃんの<ruby>漫画<rt>まんが</rt></ruby>とか",
+      "zh": "蜡笔小新的话剧或者漫画",
+      "en": "Chin Chan's manga, etc."
+    },
+    {
+      "id": 38,
+      "start": 121.91,
+      "end": 125.65,
+      "ts": "02:01.910 -> 02:05.650",
+      "jp": "なんかいろいろクレヨンしんちゃんグッズがたくさんあるんです",
+      "jp_html": "なんかいろいろクレヨンしんちゃんグッズがたくさんあるんです",
+      "zh": "各种各样的蜡笔小新周边商品很多",
+      "en": "There are lots of Crayon Shin-chan merchandise available."
+    },
+    {
+      "id": 39,
+      "start": 125.65,
+      "end": 127.67,
+      "ts": "02:05.650 -> 02:07.670",
+      "jp": "あとドラえもんとか",
+      "jp_html": "あとドラえもんとか",
+      "zh": "还有哆啦A梦之类的",
+      "en": "And Doraemon too"
+    },
+    {
+      "id": 40,
+      "start": 127.67,
+      "end": 131.95,
+      "ts": "02:07.670 -> 02:11.950",
+      "jp": "あといろんなキャラクターたちのなんか小さいもの",
+      "jp_html": "あといろんなキャラクターたちのなんか<ruby>小さい<rt>ちーさい</rt></ruby>もの",
+      "zh": "还有各种角色的一些小东西",
+      "en": "Also, some small things of various characters"
+    },
+    {
+      "id": 41,
+      "start": 131.95,
+      "end": 133.81,
+      "ts": "02:11.950 -> 02:13.810",
+      "jp": "大きいものいろいろですよ",
+      "jp_html": "<ruby>大きい<rt>おおきい</rt></ruby>ものいろいろですよ",
+      "zh": "有很多大的东西",
+      "en": "There are various big things, yes."
+    },
+    {
+      "id": 42,
+      "start": 133.81,
+      "end": 135.93,
+      "ts": "02:13.810 -> 02:15.930",
+      "jp": "ぬいぐるみとかね",
+      "jp_html": "ぬいぐるみとかね",
+      "zh": "玩偶和钱",
+      "en": "teddy bears and money"
+    },
+    {
+      "id": 43,
+      "start": 135.93,
+      "end": 137.33,
+      "ts": "02:15.930 -> 02:17.330",
+      "jp": "いろいろあるの",
+      "jp_html": "いろいろあるの",
+      "zh": "有各种事情",
+      "en": "There are various things."
+    },
+    {
+      "id": 44,
+      "start": 137.33,
+      "end": 140.99,
+      "ts": "02:17.330 -> 02:20.990",
+      "jp": "でそれを捨てるわけにはいかない",
+      "jp_html": "でそれを<ruby>捨て<rt>すて</rt></ruby>るわけにはいかない",
+      "zh": "所以不能把它扔掉",
+      "en": "We can't just throw that away."
+    },
+    {
+      "id": 45,
+      "start": 140.99,
+      "end": 143.19,
+      "ts": "02:20.990 -> 02:23.190",
+      "jp": "捨てたら子供が泣く",
+      "jp_html": "<ruby>捨て<rt>すて</rt></ruby>たら<ruby>子供<rt>こども</rt></ruby>が<ruby>泣く<rt>なく</rt></ruby>",
+      "zh": "扔了就会让小孩哭",
+      "en": "If I throw it away, the child will cry."
+    },
+    {
+      "id": 46,
+      "start": 143.19,
+      "end": 145.93,
+      "ts": "02:23.190 -> 02:25.930",
+      "jp": "だから箱にね",
+      "jp_html": "だから<ruby>箱<rt>はこ</rt></ruby>にね",
+      "zh": "所以把它们放进盒子里吧",
+      "en": "So put it in the box."
+    },
+    {
+      "id": 47,
+      "start": 145.93,
+      "end": 147.63,
+      "ts": "02:25.930 -> 02:27.630",
+      "jp": "そういうのを全部入れて",
+      "jp_html": "そういうのを<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>入れ<rt>いれ</rt></ruby>て",
+      "zh": "把所有这些东西都加进去",
+      "en": "Put all of that in."
+    },
+    {
+      "id": 48,
+      "start": 147.63,
+      "end": 148.87,
+      "ts": "02:27.630 -> 02:28.870",
+      "jp": "片付けるんです",
+      "jp_html": "<ruby>片付け<rt>かたづけ</rt></ruby>るんです",
+      "zh": "整理收拾一下",
+      "en": "It's about cleaning up."
+    },
+    {
+      "id": 49,
+      "start": 148.87,
+      "end": 151.61,
+      "ts": "02:28.870 -> 02:31.610",
+      "jp": "でもちろん",
+      "jp_html": "でもちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 50,
+      "start": 151.61,
+      "end": 154.99,
+      "ts": "02:31.610 -> 02:34.990",
+      "jp": "子供のものだけじゃなくて",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>のものだけじゃなくて",
+      "zh": "不只是孩子们的",
+      "en": "Not just for children"
+    },
+    {
+      "id": 51,
+      "start": 154.99,
+      "end": 157.61,
+      "ts": "02:34.990 -> 02:37.610",
+      "jp": "僕の服とか靴下とか",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>服<rt>ふく</rt></ruby>とか<ruby>靴下<rt>くつした</rt></ruby>とか",
+      "zh": "我的衣服和袜子",
+      "en": "My clothes and socks"
+    },
+    {
+      "id": 52,
+      "start": 157.61,
+      "end": 158.59,
+      "ts": "02:37.610 -> 02:38.590",
+      "jp": "いろいろあるでしょ",
+      "jp_html": "いろいろあるでしょ",
+      "zh": "有的吧",
+      "en": "There are many things, right?"
+    },
+    {
+      "id": 53,
+      "start": 158.59,
+      "end": 160.47,
+      "ts": "02:38.590 -> 02:40.470",
+      "jp": "そういうのもまとめて",
+      "jp_html": "そういうのもまとめて",
+      "zh": "把这种也一起",
+      "en": "Put that all together"
+    },
+    {
+      "id": 54,
+      "start": 160.47,
+      "end": 163.07,
+      "ts": "02:40.470 -> 02:43.070",
+      "jp": "その箱に入れることができるんですね",
+      "jp_html": "その<ruby>箱<rt>はこ</rt></ruby>に<ruby>入れ<rt>いれ</rt></ruby>ることができるんですね",
+      "zh": "原来可以放进那个盒子里。",
+      "en": "You can put it in that box, huh?"
+    },
+    {
+      "id": 55,
+      "start": 163.07,
+      "end": 165.33,
+      "ts": "02:43.070 -> 02:45.330",
+      "jp": "そしてクローゼットに入れる",
+      "jp_html": "そしてクローゼットに<ruby>入れ<rt>いれ</rt></ruby>る",
+      "zh": "然后放进衣柜里",
+      "en": "And put it in the closet"
+    },
+    {
+      "id": 56,
+      "start": 165.33,
+      "end": 167.09,
+      "ts": "02:45.330 -> 02:47.090",
+      "jp": "便利ですよね",
+      "jp_html": "<ruby>便利<rt>べんり</rt></ruby>ですよね",
+      "zh": "方便吧？",
+      "en": "Isn't it convenient?"
+    },
+    {
+      "id": 57,
+      "start": 167.09,
+      "end": 169.93,
+      "ts": "02:47.090 -> 02:49.930",
+      "jp": "だからやっぱり収納が大事",
+      "jp_html": "だからやっぱり<ruby>収納<rt>しゅうのう</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>",
+      "zh": "所以果然收纳很重要",
+      "en": "So storage is really important anyway"
+    },
+    {
+      "id": 58,
+      "start": 169.93,
+      "end": 171.81,
+      "ts": "02:49.930 -> 02:51.810",
+      "jp": "収納が大事です",
+      "jp_html": "<ruby>収納<rt>しゅうのう</rt></ruby>が<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "收纳很重要",
+      "en": "Storage is important."
+    },
+    {
+      "id": 59,
+      "start": 171.81,
+      "end": 175.15,
+      "ts": "02:51.810 -> 02:55.150",
+      "jp": "収納というのは片付けるときに",
+      "jp_html": "<ruby>収納<rt>しゅうのう</rt></ruby>というのは<ruby>片付け<rt>かたづけ</rt></ruby>るときに",
+      "zh": "收纳就是在整理东西的时候",
+      "en": "Storage is about putting things away when cleaning up."
+    },
+    {
+      "id": 60,
+      "start": 175.15,
+      "end": 176.61,
+      "ts": "02:55.150 -> 02:56.610",
+      "jp": "それを入れておくもの",
+      "jp_html": "それを<ruby>入れ<rt>いれ</rt></ruby>ておくもの",
+      "zh": "放进去的东西",
+      "en": "Something to put that in"
+    },
+    {
+      "id": 61,
+      "start": 176.61,
+      "end": 179.87,
+      "ts": "02:56.610 -> 02:59.870",
+      "jp": "普通は箱の形が多いかな",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>箱<rt>はこ</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>かな",
+      "zh": "普通的大多是箱子的形状呢",
+      "en": "Usually, box shapes are the most common."
+    },
+    {
+      "id": 62,
+      "start": 179.87,
+      "end": 181.51,
+      "ts": "02:59.870 -> 03:01.510",
+      "jp": "四角いですよね",
+      "jp_html": "<ruby>四角い<rt>しかくい</rt></ruby>ですよね",
+      "zh": "不是四方形吗？",
+      "en": "Isn't it square?"
+    },
+    {
+      "id": 63,
+      "start": 181.51,
+      "end": 185.39,
+      "ts": "03:01.510 -> 03:05.390",
+      "jp": "なので片付けをしました",
+      "jp_html": "なので<ruby>片付け<rt>かたづけ</rt></ruby>をしました",
+      "zh": "所以我把东西收拾好了",
+      "en": "So I cleaned up."
+    },
+    {
+      "id": 64,
+      "start": 185.39,
+      "end": 187.63,
+      "ts": "03:05.390 -> 03:07.630",
+      "jp": "あとゴミ捨てね",
+      "jp_html": "あとゴミ<ruby>捨て<rt>すて</rt></ruby>ね",
+      "zh": "然后去扔垃圾",
+      "en": "Then throw away the trash"
+    },
+    {
+      "id": 65,
+      "start": 187.63,
+      "end": 188.61,
+      "ts": "03:07.630 -> 03:08.610",
+      "jp": "ゴミですよね",
+      "jp_html": "ゴミですよね",
+      "zh": "垃圾吧？",
+      "en": "Trash, right?"
+    },
+    {
+      "id": 66,
+      "start": 188.61,
+      "end": 189.91,
+      "ts": "03:08.610 -> 03:09.910",
+      "jp": "ゴミを捨てたり",
+      "jp_html": "ゴミを<ruby>捨て<rt>すて</rt></ruby>たり",
+      "zh": "扔垃圾",
+      "en": "To throw away trash"
+    },
+    {
+      "id": 67,
+      "start": 189.91,
+      "end": 192.89,
+      "ts": "03:09.910 -> 03:12.890",
+      "jp": "とにかく部屋の中をきれいにする",
+      "jp_html": "とにかく<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をきれいにする",
+      "zh": "总之要把房间打扫干净",
+      "en": "Just clean up inside the room."
+    },
+    {
+      "id": 68,
+      "start": 192.89,
+      "end": 194.13,
+      "ts": "03:12.890 -> 03:14.130",
+      "jp": "まずはそこから",
+      "jp_html": "まずはそこから",
+      "zh": "从那里开始",
+      "en": "Start from there."
+    },
+    {
+      "id": 69,
+      "start": 194.13,
+      "end": 196.07,
+      "ts": "03:14.130 -> 03:16.070",
+      "jp": "まずそれが大事です",
+      "jp_html": "まずそれが<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "这很重要",
+      "en": "First, that is important."
+    },
+    {
+      "id": 70,
+      "start": 196.07,
+      "end": 200.79,
+      "ts": "03:16.070 -> 03:20.790",
+      "jp": "そして部屋をきれいにしながらね",
+      "jp_html": "そして<ruby>部屋<rt>へや</rt></ruby>をきれいにしながらね",
+      "zh": "然后在打扫房间的时候呢",
+      "en": "And while cleaning the room, too."
+    },
+    {
+      "id": 71,
+      "start": 200.79,
+      "end": 203.43,
+      "ts": "03:20.790 -> 03:23.430",
+      "jp": "ポッドキャストを聞くことができる",
+      "jp_html": "ポッドキャストを<ruby>聞く<rt>きく</rt></ruby>ことができる",
+      "zh": "可以听播客",
+      "en": "I can listen to podcasts."
+    },
+    {
+      "id": 72,
+      "start": 203.43,
+      "end": 205.53,
+      "ts": "03:23.430 -> 03:25.530",
+      "jp": "僕はスペイン語のポッドキャストを聞いたけど",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>スペイン<ruby>語<rt>ご</rt></ruby>のポッドキャストを<ruby>聞い<rt>きい</rt></ruby>たけど",
+      "zh": "我听了些西班牙语的播客",
+      "en": "I listened to a Spanish language podcast but"
+    },
+    {
+      "id": 73,
+      "start": 205.53,
+      "end": 209.81,
+      "ts": "03:25.530 -> 03:29.810",
+      "jp": "皆さんはもちろん日本語のポッドキャストを聞きながら",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はもちろん<ruby>日本語<rt>にほんご</rt></ruby>のポッドキャストを<ruby>聞き<rt>きき</rt></ruby>ながら",
+      "zh": "大家当然也可以一边听日语播客",
+      "en": "Of course you can listen to Japanese podcasts while"
+    },
+    {
+      "id": 74,
+      "start": 209.81,
+      "end": 210.93,
+      "ts": "03:29.810 -> 03:30.930",
+      "jp": "片付けをしてください",
+      "jp_html": "<ruby>片付け<rt>かたづけ</rt></ruby>をしてください",
+      "zh": "请整理一下。",
+      "en": "Please clean up."
+    },
+    {
+      "id": 75,
+      "start": 210.93,
+      "end": 213.17,
+      "ts": "03:30.930 -> 03:33.170",
+      "jp": "やっぱり9月はね",
+      "jp_html": "やっぱり9<ruby>月<rt>がつ</rt></ruby>はね",
+      "zh": "果然九月呢",
+      "en": "Surely September is..."
+    },
+    {
+      "id": 76,
+      "start": 213.17,
+      "end": 214.35,
+      "ts": "03:33.170 -> 03:34.350",
+      "jp": "まずは片付け",
+      "jp_html": "まずは<ruby>片付け<rt>かたづけ</rt></ruby>",
+      "zh": "先整理一下家务",
+      "en": "First, let's clean up."
+    },
+    {
+      "id": 77,
+      "start": 214.35,
+      "end": 216.11,
+      "ts": "03:34.350 -> 03:36.110",
+      "jp": "まず片付けをして",
+      "jp_html": "まず<ruby>片付け<rt>かたづけ</rt></ruby>をして",
+      "zh": "先整理一下再说",
+      "en": "First, clean up."
+    },
+    {
+      "id": 78,
+      "start": 216.11,
+      "end": 218.65,
+      "ts": "03:36.110 -> 03:38.650",
+      "jp": "家の中をきれいにしてから",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>をきれいにしてから",
+      "zh": "把家里打扫干净后再来",
+      "en": "Clean the house before"
+    },
+    {
+      "id": 79,
+      "start": 218.65,
+      "end": 221.49,
+      "ts": "03:38.650 -> 03:41.490",
+      "jp": "ルーティンを始めましょう",
+      "jp_html": "ルーティンを<ruby>始め<rt>はじめ</rt></ruby>ましょう",
+      "zh": "让我们开始例行公事吧",
+      "en": "Let's start the routine."
+    },
+    {
+      "id": 80,
+      "start": 221.49,
+      "end": 222.55,
+      "ts": "03:41.490 -> 03:42.550",
+      "jp": "これ大事ですね",
+      "jp_html": "これ<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "这很重要呢",
+      "en": "This is important, huh?"
+    },
+    {
+      "id": 81,
+      "start": 222.55,
+      "end": 226.75,
+      "ts": "03:42.550 -> 03:46.750",
+      "jp": "なのでなんとなく9月になったけど",
+      "jp_html": "なのでなんとなく9<ruby>月<rt>がつ</rt></ruby>になったけど",
+      "zh": "所以大概九月来了吧",
+      "en": "So somehow September has come around but"
+    },
+    {
+      "id": 82,
+      "start": 226.75,
+      "end": 229.67,
+      "ts": "03:46.750 -> 03:49.670",
+      "jp": "夏休みの気分が変わらないな",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>が<ruby>変わ<rt>かわ</rt></ruby>らないな",
+      "zh": "暑假的感觉不变呢",
+      "en": "I still can't shake off the summer vacation mood."
+    },
+    {
+      "id": 83,
+      "start": 229.67,
+      "end": 233.65,
+      "ts": "03:49.670 -> 03:53.650",
+      "jp": "夏休みの懐かしいな",
+      "jp_html": "<ruby>夏休み<rt>なつやすみ</rt></ruby>の<ruby>懐かしい<rt>なつかしい</rt></ruby>な",
+      "zh": "暑假怀念啊",
+      "en": "Summer vacation is nostalgic."
+    },
+    {
+      "id": 84,
+      "start": 233.65,
+      "end": 235.63,
+      "ts": "03:53.650 -> 03:55.630",
+      "jp": "仕事したくないな",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>したくないな",
+      "zh": "不想去工作",
+      "en": "I don't want to work."
+    },
+    {
+      "id": 85,
+      "start": 235.63,
+      "end": 237.85,
+      "ts": "03:55.630 -> 03:57.850",
+      "jp": "勉強したくないなと思っている人は",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>したくないなと<ruby>思って<rt>おもって</rt></ruby>いる<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "我想不想学习",
+      "en": "I don't feel like studying."
+    },
+    {
+      "id": 86,
+      "start": 237.85,
+      "end": 242.05,
+      "ts": "03:57.850 -> 04:02.050",
+      "jp": "まずポッドキャストを聞きながら片付けをするのはどうでしょう",
+      "jp_html": "まずポッドキャストを<ruby>聞き<rt>きき</rt></ruby>ながら<ruby>片付け<rt>かたづけ</rt></ruby>をするのはどうでしょう",
+      "zh": "为什么不试试一边听播客一边收拾东西呢",
+      "en": "How about doing some cleaning while listening to a podcast?"
+    },
+    {
+      "id": 87,
+      "start": 242.05,
+      "end": 247.47,
+      "ts": "04:02.050 -> 04:07.470",
+      "jp": "部屋の中がきれいになればちょっとすっきりする",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>がきれいになればちょっとすっきりする",
+      "zh": "房间干净了就会感觉清爽一些",
+      "en": "The room will feel a bit cleaner if it's tidied up."
+    },
+    {
+      "id": 88,
+      "start": 247.47,
+      "end": 250.43,
+      "ts": "04:07.470 -> 04:10.430",
+      "jp": "そしてまた新しいスタート",
+      "jp_html": "そしてまた<ruby>新しい<rt>あたらしい</rt></ruby>スタート",
+      "zh": "然后又是新的开始",
+      "en": "And then another new start"
+    },
+    {
+      "id": 89,
+      "start": 250.43,
+      "end": 253.57,
+      "ts": "04:10.430 -> 04:13.570",
+      "jp": "いい秋が始められると思います",
+      "jp_html": "いい<ruby>秋<rt>あき</rt></ruby>が<ruby>始め<rt>はじめ</rt></ruby>られると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为可以开始一个好秋天",
+      "en": "I think we can start a good autumn."
+    },
+    {
+      "id": 90,
+      "start": 253.57,
+      "end": 255.89,
+      "ts": "04:13.570 -> 04:15.890",
+      "jp": "まずいらないものを捨てて",
+      "jp_html": "まずいらないものを<ruby>捨て<rt>すて</rt></ruby>て",
+      "zh": "先丢掉不需要的东西",
+      "en": "First, get rid of what you don't need."
+    },
+    {
+      "id": 91,
+      "start": 255.89,
+      "end": 258.59,
+      "ts": "04:15.890 -> 04:18.590",
+      "jp": "いるものは片付けて",
+      "jp_html": "いるものは<ruby>片付け<rt>かたづけ</rt></ruby>て",
+      "zh": "把有的东西收拾一下",
+      "en": "There's something that should be cleaned up."
+    },
+    {
+      "id": 92,
+      "start": 258.59,
+      "end": 262.47,
+      "ts": "04:18.590 -> 04:22.470",
+      "jp": "掃除をして秋を始めましょう",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>をして<ruby>秋<rt>あき</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>ましょう",
+      "zh": "打扫一下，开始迎接秋天吧",
+      "en": "Let's start with cleaning to welcome autumn."
+    },
+    {
+      "id": 93,
+      "start": 262.47,
+      "end": 264.75,
+      "ts": "04:22.470 -> 04:24.750",
+      "jp": "というわけでまた今度",
+      "jp_html": "というわけでまた<ruby>今度<rt>こんど</rt></ruby>",
+      "zh": "所以下次再见吧",
+      "en": "So I'll see you next time."
+    }
+  ]
+}

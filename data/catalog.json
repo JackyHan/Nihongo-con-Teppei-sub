@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1577",
+      "title": "#1577「片付け、掃除について！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/09/05/1577%e3%80%8c%e7%89%87%e4%bb%98%e3%81%91%e3%80%81%e6%8e%83%e9%99%a4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1577.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1577.json"
+    },
+    {
       "id": "1576",
       "title": "#1576「やっとルーティンに戻った！」",
       "category_id": "podcast",
