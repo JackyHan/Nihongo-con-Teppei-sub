@@ -1,5 +1,17 @@
 [
   {
+    "id": "1578",
+    "title": "#1578「運動とか食べ物について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/09/07/1578%e3%80%8c%e9%81%8b%e5%8b%95%e3%81%a8%e3%81%8b%e9%a3%9f%e3%81%b9%e7%89%a9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1578.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1578.json"
+  },
+  {
     "id": "1577",
     "title": "#1577「片付け、掃除について！」",
     "category_id": "podcast",

@@ -1,0 +1,834 @@
+{
+  "id": "1578",
+  "title": "#1578「運動とか食べ物について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1578.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1578.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/07/1578%e3%80%8c%e9%81%8b%e5%8b%95%e3%81%a8%e3%81%8b%e9%a3%9f%e3%81%b9%e7%89%a9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.26,
+      "end": 2.82,
+      "ts": "00:01.260 -> 00:02.820",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 2.82,
+      "end": 7.34,
+      "ts": "00:02.820 -> 00:07.340",
+      "jp": "今日は運動とか食べ物について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>とか<ruby>食べ物<rt>たべもの</rt></ruby>について",
+      "zh": "今天关于运动和食物的话题",
+      "en": "Today, I'll talk about exercise and food."
+    },
+    {
+      "id": 2,
+      "start": 7.34,
+      "end": 9.86,
+      "ts": "00:07.340 -> 00:09.860",
+      "jp": "はい皆さん元気ですか?",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all well?"
+    },
+    {
+      "id": 3,
+      "start": 10.08,
+      "end": 11.44,
+      "ts": "00:10.080 -> 00:11.440",
+      "jp": "日本語コンテッペですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペですね",
+      "zh": "日语conteppe呢",
+      "en": "Japanese context, huh?"
+    },
+    {
+      "id": 4,
+      "start": 11.44,
+      "end": 18.84,
+      "ts": "00:11.440 -> 00:18.840",
+      "jp": "9月になって結構やっぱり夏休みが終わって",
+      "jp_html": "9<ruby>月<rt>がつ</rt></ruby>になって<ruby>結構<rt>けっこう</rt></ruby>やっぱり<ruby>夏休み<rt>なつやすみ</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>って",
+      "zh": "九月份了果然夏天假期快结束了",
+      "en": "By September, it's pretty clear that summer vacation is over."
+    },
+    {
+      "id": 5,
+      "start": 18.84,
+      "end": 22.74,
+      "ts": "00:18.840 -> 00:22.740",
+      "jp": "結構疲れてる人も多いかもしれないけど",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>疲れ<rt>つかれ</rt></ruby>てる<ruby>人<rt>にん</rt></ruby>も<ruby>多い<rt>おおい</rt></ruby>かもしれないけど",
+      "zh": "可能也有很多人感到结构疲劳吧",
+      "en": "Maybe many people are also feeling quite tired."
+    },
+    {
+      "id": 6,
+      "start": 22.74,
+      "end": 25.44,
+      "ts": "00:22.740 -> 00:25.440",
+      "jp": "だけどまた頑張りましょう",
+      "jp_html": "だけどまた<ruby>頑張り<rt>がんばり</rt></ruby>ましょう",
+      "zh": "但是我们再加油吧",
+      "en": "But let's try again anyway."
+    },
+    {
+      "id": 7,
+      "start": 25.44,
+      "end": 29.7,
+      "ts": "00:25.440 -> 00:29.700",
+      "jp": "ということで前回は片付けをしましょう",
+      "jp_html": "ということで<ruby>前回<rt>ぜんかい</rt></ruby>は<ruby>片付け<rt>かたづけ</rt></ruby>をしましょう",
+      "zh": "所以上次我们就整理一下吧",
+      "en": "So let's clean up last time."
+    },
+    {
+      "id": 8,
+      "start": 29.7,
+      "end": 31.22,
+      "ts": "00:29.700 -> 00:31.220",
+      "jp": "掃除をしましょう",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>をしましょう",
+      "zh": "让我们打扫一下吧",
+      "en": "Let's clean up."
+    },
+    {
+      "id": 9,
+      "start": 31.22,
+      "end": 32.92,
+      "ts": "00:31.220 -> 00:32.920",
+      "jp": "そういう話をしました",
+      "jp_html": "そういう<ruby>話<rt>はなし</rt></ruby>をしました",
+      "zh": "我进行了那样的谈话",
+      "en": "I had such a conversation."
+    },
+    {
+      "id": 10,
+      "start": 32.92,
+      "end": 36.24,
+      "ts": "00:32.920 -> 00:36.240",
+      "jp": "今回は運動とかね",
+      "jp_html": "<ruby>今回<rt>こんかい</rt></ruby>は<ruby>運動<rt>うんどう</rt></ruby>とかね",
+      "zh": "这次运动也是为了锻炼。",
+      "en": "This time, it's about exercise."
+    },
+    {
+      "id": 11,
+      "start": 36.24,
+      "end": 39.9,
+      "ts": "00:36.240 -> 00:39.900",
+      "jp": "あとは食べ物とかについて話したいと思います",
+      "jp_html": "あとは<ruby>食べ物<rt>たべもの</rt></ruby>とかについて<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "接下来我想谈谈食物之类的话题",
+      "en": "I want to talk about food and other related topics."
+    },
+    {
+      "id": 12,
+      "start": 39.9,
+      "end": 42.44,
+      "ts": "00:39.900 -> 00:42.440",
+      "jp": "やっぱりルーティーンですよね",
+      "jp_html": "やっぱりルーティーンですよね",
+      "zh": "果然是一成不变的routine吧",
+      "en": "Yeah, it's just a routine, right?"
+    },
+    {
+      "id": 13,
+      "start": 42.44,
+      "end": 43.54,
+      "ts": "00:42.440 -> 00:43.540",
+      "jp": "これは大事です",
+      "jp_html": "これは<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "这很重要。",
+      "en": "This is important."
+    },
+    {
+      "id": 14,
+      "start": 43.54,
+      "end": 47.04,
+      "ts": "00:43.540 -> 00:47.040",
+      "jp": "そして僕もジムに戻りました",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>もジムに<ruby>戻り<rt>もどり</rt></ruby>ました",
+      "zh": "然后我也回到了 gym",
+      "en": "And I also returned to the gym."
+    },
+    {
+      "id": 15,
+      "start": 47.04,
+      "end": 51.02,
+      "ts": "00:47.040 -> 00:51.020",
+      "jp": "1ヶ月間ジムに行ってなかったんですね",
+      "jp_html": "1ヶ<ruby>月間<rt>げっかん</rt></ruby>ジムに<ruby>行って<rt>いって</rt></ruby>なかったんですね",
+      "zh": "原来你一个月没去健身房了。",
+      "en": "You hadn't been going to the gym for a month, huh?"
+    },
+    {
+      "id": 16,
+      "start": 51.02,
+      "end": 54.14,
+      "ts": "00:51.020 -> 00:54.140",
+      "jp": "8月は全部休んでました",
+      "jp_html": "8<ruby>月<rt>がつ</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>休ん<rt>やすん</rt></ruby>でました",
+      "zh": "8月份我全都休息了",
+      "en": "I was taking all of August off."
+    },
+    {
+      "id": 17,
+      "start": 54.14,
+      "end": 57.1,
+      "ts": "00:54.140 -> 00:57.100",
+      "jp": "8月は大分に行ったし",
+      "jp_html": "8<ruby>月<rt>がつ</rt></ruby>は<ruby>大分<rt>おおいた</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>し",
+      "zh": "8月我去过大分",
+      "en": "I went to Kumamoto in August."
+    },
+    {
+      "id": 18,
+      "start": 57.1,
+      "end": 59.92,
+      "ts": "00:57.100 -> 00:59.920",
+      "jp": "田舎日記と言ってね",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby><ruby>日記<rt>にっき</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>ね",
+      "zh": "说是乡居日记呢",
+      "en": "Say it's a countryside diary"
+    },
+    {
+      "id": 19,
+      "start": 59.92,
+      "end": 61.82,
+      "ts": "00:59.920 -> 01:01.820",
+      "jp": "田舎にいましたね",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>にいましたね",
+      "zh": "你在乡下呢吧",
+      "en": "You were in the countryside, huh?"
+    },
+    {
+      "id": 20,
+      "start": 61.82,
+      "end": 67.1,
+      "ts": "01:01.820 -> 01:07.100",
+      "jp": "田舎でのんびりアイスクリームとかビールとか飲んで過ごしてたんで",
+      "jp_html": "<ruby>田舎<rt>いなか</rt></ruby>でのんびりアイスクリームとかビールとか<ruby>飲ん<rt>のん</rt></ruby>で<ruby>過ご<rt>すご</rt></ruby>してたんで",
+      "zh": "我在乡下悠闲地喝着冰淇淋和啤酒度过了时间",
+      "en": "I was just lounging around in the countryside, drinking ice cream and beer."
+    },
+    {
+      "id": 21,
+      "start": 67.1,
+      "end": 70.74,
+      "ts": "01:07.100 -> 01:10.740",
+      "jp": "お腹がなんか太ってきました",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>がなんか<ruby>太っ<rt>ふとっ</rt></ruby>てきました",
+      "zh": "肚子好像胖了一点",
+      "en": "My stomach seems to be getting bigger."
+    },
+    {
+      "id": 22,
+      "start": 70.74,
+      "end": 72.02,
+      "ts": "01:10.740 -> 01:12.020",
+      "jp": "ちょっとね",
+      "jp_html": "ちょっとね",
+      "zh": "稍微一下",
+      "en": "Oh, just a little bit."
+    },
+    {
+      "id": 23,
+      "start": 72.02,
+      "end": 74.02,
+      "ts": "01:12.020 -> 01:14.020",
+      "jp": "僕も45歳だから",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も45<ruby>歳<rt>とし</rt></ruby>だから",
+      "zh": "我也45岁了",
+      "en": "I am also 45 years old."
+    },
+    {
+      "id": 24,
+      "start": 74.02,
+      "end": 77.5,
+      "ts": "01:14.020 -> 01:17.500",
+      "jp": "毎日毎日アイスクリーム食べたり",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>アイスクリーム<ruby>食べた<rt>たべた</rt></ruby>り",
+      "zh": "每天每天吃冰淇淋或",
+      "en": "Day by day, I eat ice cream or something like that."
+    },
+    {
+      "id": 25,
+      "start": 77.5,
+      "end": 81.38,
+      "ts": "01:17.500 -> 01:21.380",
+      "jp": "ビールを飲んだりしてるとお腹が出てくるんですよね",
+      "jp_html": "ビールを<ruby>飲ん<rt>のん</rt></ruby>だりしてるとお<ruby>腹<rt>はら</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>くるんですよね",
+      "zh": "喝啤酒的时候肚子容易出来呢",
+      "en": "When I drink beer, my stomach sticks out, you know?"
+    },
+    {
+      "id": 26,
+      "start": 81.38,
+      "end": 85.14,
+      "ts": "01:21.380 -> 01:25.140",
+      "jp": "あまりに健康に悪いしカッコ悪いんで",
+      "jp_html": "あまりに<ruby>健康<rt>けんこう</rt></ruby>に<ruby>悪い<rt>わるい</rt></ruby>しカッコ<ruby>悪い<rt>わるい</rt></ruby>んで",
+      "zh": "太坏了而且看起来也不酷",
+      "en": "It's too bad for my health and looks bad too."
+    },
+    {
+      "id": 27,
+      "start": 85.14,
+      "end": 88.3,
+      "ts": "01:25.140 -> 01:28.300",
+      "jp": "また9月からジムに行ってます",
+      "jp_html": "また9<ruby>月<rt>がつ</rt></ruby>からジムに<ruby>行って<rt>いって</rt></ruby>ます",
+      "zh": "从九月份开始我去健身房了",
+      "en": "I have been going to the gym from September."
+    },
+    {
+      "id": 28,
+      "start": 88.3,
+      "end": 92.2,
+      "ts": "01:28.300 -> 01:32.200",
+      "jp": "ちょっと久しぶりのジムは疲れますね",
+      "jp_html": "ちょっと<ruby>久し<rt>ひさし</rt></ruby>ぶりのジムは<ruby>疲れ<rt>つかれ</rt></ruby>ますね",
+      "zh": "健身房好长时间没去了，有点累呢",
+      "en": "It's tiring, isn't it, after a long break at the gym?"
+    },
+    {
+      "id": 29,
+      "start": 92.2,
+      "end": 93.36,
+      "ts": "01:32.200 -> 01:33.360",
+      "jp": "すごい嫌だ",
+      "jp_html": "すごい<ruby>嫌だ<rt>いやだ</rt></ruby>",
+      "zh": "真讨厌",
+      "en": "It's really hateful."
+    },
+    {
+      "id": 30,
+      "start": 93.36,
+      "end": 95.02,
+      "ts": "01:33.360 -> 01:35.020",
+      "jp": "もう行きたくないと思うけど",
+      "jp_html": "もう<ruby>行き<rt>いき</rt></ruby>たくないと<ruby>思う<rt>おもう</rt></ruby>けど",
+      "zh": "你觉得不想去了吧",
+      "en": "But you think you don't want to go anymore."
+    },
+    {
+      "id": 31,
+      "start": 95.02,
+      "end": 98.04,
+      "ts": "01:35.020 -> 01:38.040",
+      "jp": "ルーティンは大事なので",
+      "jp_html": "ルーティンは<ruby>大事<rt>だいじ</rt></ruby>なので",
+      "zh": "例行公事很重要",
+      "en": "Routines are important so"
+    },
+    {
+      "id": 32,
+      "start": 98.04,
+      "end": 101.72,
+      "ts": "01:38.040 -> 01:41.720",
+      "jp": "1週間に2回か3回行ってます",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>か3<ruby>回行<rt>かいこう</rt></ruby>ってます",
+      "zh": "我每周去两三次。",
+      "en": "I go 2 times or 3 times a week."
+    },
+    {
+      "id": 33,
+      "start": 101.72,
+      "end": 105.72,
+      "ts": "01:41.720 -> 01:45.720",
+      "jp": "そして食べ物ね",
+      "jp_html": "そして<ruby>食べ物<rt>たべもの</rt></ruby>ね",
+      "zh": "然后是食物呢",
+      "en": "And food, too."
+    },
+    {
+      "id": 34,
+      "start": 105.72,
+      "end": 107.82,
+      "ts": "01:45.720 -> 01:47.820",
+      "jp": "これもやっぱり大事ですね",
+      "jp_html": "これもやっぱり<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "这也确实很重要呢",
+      "en": "This is important too, you know?"
+    },
+    {
+      "id": 35,
+      "start": 107.82,
+      "end": 110.36,
+      "ts": "01:47.820 -> 01:50.360",
+      "jp": "毎日毎日アイスクリーム食べて",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>アイスクリーム<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "每天每天吃冰淇淋",
+      "en": "Day by day eating ice cream"
+    },
+    {
+      "id": 36,
+      "start": 110.36,
+      "end": 111.8,
+      "ts": "01:50.360 -> 01:51.800",
+      "jp": "ビール飲んでたんですけど",
+      "jp_html": "ビール<ruby>飲ん<rt>のん</rt></ruby>でたんですけど",
+      "zh": "我喝啤酒来着",
+      "en": "I was drinking beer."
+    },
+    {
+      "id": 37,
+      "start": 111.8,
+      "end": 115.08,
+      "ts": "01:51.800 -> 01:55.080",
+      "jp": "やっぱりそれはやめなければいけない",
+      "jp_html": "やっぱりそれはやめなければいけない",
+      "zh": "果然那件事不能继续了",
+      "en": "It really needs to stop."
+    },
+    {
+      "id": 38,
+      "start": 115.08,
+      "end": 117.52,
+      "ts": "01:55.080 -> 01:57.520",
+      "jp": "なのでちょっとアイスクリームはもう終わり",
+      "jp_html": "なのでちょっとアイスクリームはもう<ruby>終わり<rt>おわり</rt></ruby>",
+      "zh": "所以冰淇淋差不多吃完了",
+      "en": "So I think we should end the ice cream a little early."
+    },
+    {
+      "id": 39,
+      "start": 117.52,
+      "end": 119.32,
+      "ts": "01:57.520 -> 01:59.320",
+      "jp": "アイスクリームは買いません",
+      "jp_html": "アイスクリームは<ruby>買い<rt>かい</rt></ruby>ません",
+      "zh": "我不买冰淇淋",
+      "en": "I won't buy ice cream."
+    },
+    {
+      "id": 40,
+      "start": 119.32,
+      "end": 121.78,
+      "ts": "01:59.320 -> 02:01.780",
+      "jp": "僕は基本的に",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>基本的<rt>きほんてき</rt></ruby>に",
+      "zh": "我基本上",
+      "en": "I am basically"
+    },
+    {
+      "id": 41,
+      "start": 121.78,
+      "end": 123.52,
+      "ts": "02:01.780 -> 02:03.520",
+      "jp": "夏以外アイスクリームを買わない",
+      "jp_html": "<ruby>夏以外<rt>なついがい</rt></ruby>アイスクリームを<ruby>買わ<rt>かわ</rt></ruby>ない",
+      "zh": "除了夏天，我不买冰淇淋",
+      "en": "I don't buy ice cream except in summer."
+    },
+    {
+      "id": 42,
+      "start": 123.52,
+      "end": 124.68,
+      "ts": "02:03.520 -> 02:04.680",
+      "jp": "これはルールです",
+      "jp_html": "これはルールです",
+      "zh": "这是规则",
+      "en": "This is a rule."
+    },
+    {
+      "id": 43,
+      "start": 124.68,
+      "end": 128.44,
+      "ts": "02:04.680 -> 02:08.440",
+      "jp": "なのでアイスクリームはもう終わり",
+      "jp_html": "なのでアイスクリームはもう<ruby>終わり<rt>おわり</rt></ruby>",
+      "zh": "所以冰淇淋已经结束了",
+      "en": "So the ice cream is finished."
+    },
+    {
+      "id": 44,
+      "start": 128.44,
+      "end": 129.6,
+      "ts": "02:08.440 -> 02:09.600",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 45,
+      "start": 129.6,
+      "end": 132.16,
+      "ts": "02:09.600 -> 02:12.160",
+      "jp": "ビールもできるだけ飲まない",
+      "jp_html": "ビールもできるだけ<ruby>飲ま<rt>のま</rt></ruby>ない",
+      "zh": "尽量不喝啤酒",
+      "en": "I will try not to drink beer as much as possible."
+    },
+    {
+      "id": 46,
+      "start": 132.16,
+      "end": 134.28,
+      "ts": "02:12.160 -> 02:14.280",
+      "jp": "やっぱりビールはね",
+      "jp_html": "やっぱりビールはね",
+      "zh": "果然啤酒不错",
+      "en": "Yeah, beer is it."
+    },
+    {
+      "id": 47,
+      "start": 134.28,
+      "end": 135.72,
+      "ts": "02:14.280 -> 02:15.720",
+      "jp": "お腹が大きくなる",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>なる",
+      "zh": "肚子变大了",
+      "en": "The belly is getting bigger."
+    },
+    {
+      "id": 48,
+      "start": 135.72,
+      "end": 137.4,
+      "ts": "02:15.720 -> 02:17.400",
+      "jp": "なのでビール飲みません",
+      "jp_html": "なのでビール<ruby>飲み<rt>のみ</rt></ruby>ません",
+      "zh": "所以我不喝啤酒",
+      "en": "So I don't drink beer."
+    },
+    {
+      "id": 49,
+      "start": 137.4,
+      "end": 139.36,
+      "ts": "02:17.400 -> 02:19.360",
+      "jp": "ウイスキーは少し飲むけど",
+      "jp_html": "ウイスキーは<ruby>少し<rt>すこし</rt></ruby><ruby>飲む<rt>のむ</rt></ruby>けど",
+      "zh": "我只喝一点威士忌",
+      "en": "I have a little whiskey."
+    },
+    {
+      "id": 50,
+      "start": 139.36,
+      "end": 140.42,
+      "ts": "02:19.360 -> 02:20.420",
+      "jp": "ビールはやめます",
+      "jp_html": "ビールはやめます",
+      "zh": "啤酒不喝了",
+      "en": "I will stop drinking beer."
+    },
+    {
+      "id": 51,
+      "start": 140.42,
+      "end": 143.52,
+      "ts": "02:20.420 -> 02:23.520",
+      "jp": "ビールをやめてアイスクリームをやめて",
+      "jp_html": "ビールをやめてアイスクリームをやめて",
+      "zh": "戒了啤酒又戒了冰淇淋",
+      "en": "Stop drinking beer and stop eating ice cream."
+    },
+    {
+      "id": 52,
+      "start": 143.52,
+      "end": 146.72,
+      "ts": "02:23.520 -> 02:26.720",
+      "jp": "あとやっぱり",
+      "jp_html": "あとやっぱり",
+      "zh": "果然还是",
+      "en": "And still..."
+    },
+    {
+      "id": 53,
+      "start": 146.72,
+      "end": 150.02,
+      "ts": "02:26.720 -> 02:30.020",
+      "jp": "やっぱりちょっと食べ過ぎは良くないね",
+      "jp_html": "やっぱりちょっと<ruby>食べ<rt>たべ</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>は<ruby>良く<rt>よく</rt></ruby>ないね",
+      "zh": "果然吃多了不太好呢",
+      "en": "It's better not to eat a little too much, though."
+    },
+    {
+      "id": 54,
+      "start": 150.02,
+      "end": 152.34,
+      "ts": "02:30.020 -> 02:32.340",
+      "jp": "食べ過ぎは良くないです",
+      "jp_html": "<ruby>食べ<rt>たべ</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>は<ruby>良く<rt>よく</rt></ruby>ないです",
+      "zh": "吃太多不好",
+      "en": "Eating too much is not good."
+    },
+    {
+      "id": 55,
+      "start": 152.34,
+      "end": 157.32,
+      "ts": "02:32.340 -> 02:37.320",
+      "jp": "なので食べる量を少し減らしてね",
+      "jp_html": "なので<ruby>食べ<rt>たべ</rt></ruby>る<ruby>量<rt>りょう</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby><ruby>減ら<rt>へら</rt></ruby>してね",
+      "zh": "所以吃少一点吧",
+      "en": "So reduce the amount you eat a little bit."
+    },
+    {
+      "id": 56,
+      "start": 157.32,
+      "end": 161.08,
+      "ts": "02:37.320 -> 02:41.080",
+      "jp": "できるだけやっぱり野菜とか",
+      "jp_html": "できるだけやっぱり<ruby>野菜<rt>やさい</rt></ruby>とか",
+      "zh": "尽可能还是多吃蔬菜之类的",
+      "en": "As expected, try to include vegetables, etc."
+    },
+    {
+      "id": 57,
+      "start": 161.08,
+      "end": 166.66,
+      "ts": "02:41.080 -> 02:46.660",
+      "jp": "あとは豆とかナッツとかね",
+      "jp_html": "あとは<ruby>豆<rt>まめ</rt></ruby>とかナッツとかね",
+      "zh": "剩下的就是豆类或者坚果之类的了",
+      "en": "And then there are beans and nuts too."
+    },
+    {
+      "id": 58,
+      "start": 166.66,
+      "end": 169.62,
+      "ts": "02:46.660 -> 02:49.620",
+      "jp": "そういう良いタンパク質をとって",
+      "jp_html": "そういう<ruby>良い<rt>よい</rt></ruby>タンパク<ruby>質<rt>しつ</rt></ruby>をとって",
+      "zh": "摄取这种良好的蛋白质",
+      "en": "Take in such good protein"
+    },
+    {
+      "id": 59,
+      "start": 169.62,
+      "end": 173.28,
+      "ts": "02:49.620 -> 02:53.280",
+      "jp": "肉もいいですけどやっぱり油も少なくね",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>もいいですけどやっぱり<ruby>油<rt>あぶら</rt></ruby>も<ruby>少なく<rt>すくなく</rt></ruby>ね",
+      "zh": "肉也很好，但还是应该少油一些",
+      "en": "Meat is good too, but it should still have less oil, though."
+    },
+    {
+      "id": 60,
+      "start": 173.28,
+      "end": 175.38,
+      "ts": "02:53.280 -> 02:55.380",
+      "jp": "油は少なく",
+      "jp_html": "<ruby>油<rt>あぶら</rt></ruby>は<ruby>少なく<rt>すくなく</rt></ruby>",
+      "zh": "用油要少些",
+      "en": "The oil is little."
+    },
+    {
+      "id": 61,
+      "start": 175.38,
+      "end": 178.94,
+      "ts": "02:55.380 -> 02:58.940",
+      "jp": "なんかこう唐揚げとかとんかつとかラーメンとか",
+      "jp_html": "なんかこう<ruby>唐揚げ<rt>からあげ</rt></ruby>とかとんかつとかラーメンとか",
+      "zh": "好像这样炸鸡块、猪排、拉面之类的",
+      "en": "Something like chicken nuggets and pork cutlet and ramen, etc."
+    },
+    {
+      "id": 62,
+      "start": 178.94,
+      "end": 180.5,
+      "ts": "02:58.940 -> 03:00.500",
+      "jp": "そういうのじゃなくて",
+      "jp_html": "そういうのじゃなくて",
+      "zh": "不是那样的",
+      "en": "That's not what I meant."
+    },
+    {
+      "id": 63,
+      "start": 180.5,
+      "end": 182.1,
+      "ts": "03:00.500 -> 03:02.100",
+      "jp": "もっとこう",
+      "jp_html": "もっとこう",
+      "zh": "更多这样",
+      "en": "More like this"
+    },
+    {
+      "id": 64,
+      "start": 182.1,
+      "end": 184.74,
+      "ts": "03:02.100 -> 03:04.740",
+      "jp": "魚とかね",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>とかね",
+      "zh": "鱼或者",
+      "en": "fish and pans"
+    },
+    {
+      "id": 65,
+      "start": 184.74,
+      "end": 189.06,
+      "ts": "03:04.740 -> 03:09.060",
+      "jp": "しかもその油の少ない魚とかね",
+      "jp_html": "しかもその<ruby>油<rt>あぶら</rt></ruby>の<ruby>少ない<rt>すくない</rt></ruby><ruby>魚<rt>さかな</rt></ruby>とかね",
+      "zh": "而且那种油少的鱼呢",
+      "en": "And those fish with little oil too, right?"
+    },
+    {
+      "id": 66,
+      "start": 189.06,
+      "end": 192.44,
+      "ts": "03:09.060 -> 03:12.440",
+      "jp": "肉でもちょっと油の少ない部分を食べたり",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>でもちょっと<ruby>油<rt>あぶら</rt></ruby>の<ruby>少ない<rt>すくない</rt></ruby><ruby>部分<rt>ぶぶん</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>り",
+      "zh": "可以吃点稍微少些脂肪的肉部位",
+      "en": "Eat a bit of the less fatty part of the meat."
+    },
+    {
+      "id": 67,
+      "start": 192.44,
+      "end": 197.68,
+      "ts": "03:12.440 -> 03:17.680",
+      "jp": "でやっぱりいい食べ物といい運動ですよね",
+      "jp_html": "でやっぱりいい<ruby>食べ物<rt>たべもの</rt></ruby>といい<ruby>運動<rt>うんどう</rt></ruby>ですよね",
+      "zh": "果然好的食物和运动呢",
+      "en": "So, it's really about good food and good exercise, isn't it?"
+    },
+    {
+      "id": 68,
+      "start": 197.68,
+      "end": 200.84,
+      "ts": "03:17.680 -> 03:20.840",
+      "jp": "あとはいい睡眠ですよね",
+      "jp_html": "あとはいい<ruby>睡眠<rt>すいみん</rt></ruby>ですよね",
+      "zh": "那不就是好的睡眠吗？",
+      "en": "Isn't a good sleep wonderful?"
+    },
+    {
+      "id": 69,
+      "start": 200.84,
+      "end": 203.24,
+      "ts": "03:20.840 -> 03:23.240",
+      "jp": "ちゃんと寝るこれも大事ですね",
+      "jp_html": "ちゃんと<ruby>寝る<rt>ねる</rt></ruby>これも<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "好好睡觉这也很重要呢",
+      "en": "It's also important to sleep well."
+    },
+    {
+      "id": 70,
+      "start": 203.24,
+      "end": 208.97,
+      "ts": "03:23.240 -> 03:28.970",
+      "jp": "前回部屋をきれいにするという話をしました",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby><ruby>部屋<rt>へや</rt></ruby>をきれいにするという<ruby>話<rt>はなし</rt></ruby>をしました",
+      "zh": "上次我说了关于打扫房间的事情",
+      "en": "I talked about cleaning the room last time."
+    },
+    {
+      "id": 71,
+      "start": 208.97,
+      "end": 210.31,
+      "ts": "03:28.970 -> 03:30.310",
+      "jp": "部屋がきれいになった",
+      "jp_html": "<ruby>部屋<rt>へや</rt></ruby>がきれいになった",
+      "zh": "房间变干净了",
+      "en": "The room became clean."
+    },
+    {
+      "id": 72,
+      "start": 210.31,
+      "end": 211.77,
+      "ts": "03:30.310 -> 03:31.770",
+      "jp": "片付いた",
+      "jp_html": "<ruby>片付い<rt>かたづい</rt></ruby>た",
+      "zh": "收拾好了",
+      "en": "Cleaned up"
+    },
+    {
+      "id": 73,
+      "start": 211.77,
+      "end": 214.81,
+      "ts": "03:31.770 -> 03:34.810",
+      "jp": "そして運動をしている",
+      "jp_html": "そして<ruby>運動<rt>うんどう</rt></ruby>をしている",
+      "zh": "然后在做运动",
+      "en": "And then I was doing exercise."
+    },
+    {
+      "id": 74,
+      "start": 214.81,
+      "end": 216.95,
+      "ts": "03:34.810 -> 03:36.950",
+      "jp": "そしてちゃんと食べている",
+      "jp_html": "そしてちゃんと<ruby>食べて<rt>たべて</rt></ruby>いる",
+      "zh": "然后真的好好吃了",
+      "en": "And they are eating properly."
+    },
+    {
+      "id": 75,
+      "start": 216.95,
+      "end": 218.57,
+      "ts": "03:36.950 -> 03:38.570",
+      "jp": "そしてちゃんと寝ている",
+      "jp_html": "そしてちゃんと<ruby>寝て<rt>ねて</rt></ruby>いる",
+      "zh": "然后好好睡着了",
+      "en": "And they are sleeping soundly."
+    },
+    {
+      "id": 76,
+      "start": 218.57,
+      "end": 219.85,
+      "ts": "03:38.570 -> 03:39.850",
+      "jp": "いいですね",
+      "jp_html": "いいですね",
+      "zh": "不错呢",
+      "en": "It's good, isn't it?"
+    },
+    {
+      "id": 77,
+      "start": 219.85,
+      "end": 224.07,
+      "ts": "03:39.850 -> 03:44.070",
+      "jp": "これで基本的なことが整いました",
+      "jp_html": "これで<ruby>基本的<rt>きほんてき</rt></ruby>なことが<ruby>整い<rt>ととのい</rt></ruby>ました",
+      "zh": "这样基本就绪了",
+      "en": "This is now ready for the basics."
+    },
+    {
+      "id": 78,
+      "start": 224.07,
+      "end": 225.73,
+      "ts": "03:44.070 -> 03:45.730",
+      "jp": "準備ができました",
+      "jp_html": "<ruby>準備<rt>じゅんび</rt></ruby>ができました",
+      "zh": "准备好了",
+      "en": "I am ready."
+    },
+    {
+      "id": 79,
+      "start": 225.73,
+      "end": 229.51,
+      "ts": "03:45.730 -> 03:49.510",
+      "jp": "そして勉強をしましょう",
+      "jp_html": "そして<ruby>勉強<rt>べんきょう</rt></ruby>をしましょう",
+      "zh": "然后让我们学习吧",
+      "en": "And let's study now."
+    },
+    {
+      "id": 80,
+      "start": 229.51,
+      "end": 232.27,
+      "ts": "03:49.510 -> 03:52.270",
+      "jp": "というわけで頑張りましょう",
+      "jp_html": "というわけで<ruby>頑張り<rt>がんばり</rt></ruby>ましょう",
+      "zh": "所以让我们努力吧",
+      "en": "So let's give it our best shot!"
+    },
+    {
+      "id": 81,
+      "start": 232.27,
+      "end": 232.93,
+      "ts": "03:52.270 -> 03:52.930",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}
