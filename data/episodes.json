@@ -1,5 +1,17 @@
 [
   {
+    "id": "1579",
+    "title": "#1579「散歩について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/09/09/1579%e3%80%8c%e6%95%a3%e6%ad%a9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1579.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1579.json"
+  },
+  {
     "id": "1578",
     "title": "#1578「運動とか食べ物について！」",
     "category_id": "podcast",
