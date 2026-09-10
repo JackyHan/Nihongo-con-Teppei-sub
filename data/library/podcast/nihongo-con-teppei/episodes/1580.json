@@ -1,0 +1,824 @@
+{
+  "id": "1580",
+  "title": "#1580「ジムに行った次の日について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1580.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1580.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/10/1580%e3%80%8c%e3%82%b8%e3%83%a0%e3%81%ab%e8%a1%8c%e3%81%a3%e3%81%9f%e6%ac%a1%e3%81%ae%e6%97%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.3,
+      "end": 2.94,
+      "ts": "00:01.300 -> 00:02.940",
+      "jp": "シャッキー",
+      "jp_html": "シャッキー",
+      "zh": "沙克利",
+      "en": "Shackey"
+    },
+    {
+      "id": 1,
+      "start": 2.94,
+      "end": 4.2,
+      "ts": "00:02.940 -> 00:04.200",
+      "jp": "今日は",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>",
+      "zh": "今天",
+      "en": "Today"
+    },
+    {
+      "id": 2,
+      "start": 4.2,
+      "end": 8.3,
+      "ts": "00:04.200 -> 00:08.300",
+      "jp": "ジムに行った次の日について",
+      "jp_html": "ジムに<ruby>行った<rt>いった</rt></ruby><ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>にち</rt></ruby>について",
+      "zh": "去了健身房的第二天关于的事情",
+      "en": "About the day after I went to the gym."
+    },
+    {
+      "id": 3,
+      "start": 8.3,
+      "end": 11.04,
+      "ts": "00:08.300 -> 00:11.040",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 4,
+      "start": 11.04,
+      "end": 13.7,
+      "ts": "00:11.040 -> 00:13.700",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语 Conteppe 的时间呢",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 5,
+      "start": 13.7,
+      "end": 17.14,
+      "ts": "00:13.700 -> 00:17.140",
+      "jp": "あのちょっと僕は疲れてますね",
+      "jp_html": "あのちょっと<ruby>僕は<rt>ぼくは</rt></ruby><ruby>疲れ<rt>つかれ</rt></ruby>てますね",
+      "zh": "我有点累呢",
+      "en": "I'm a bit tired, huh?"
+    },
+    {
+      "id": 6,
+      "start": 17.14,
+      "end": 19.16,
+      "ts": "00:17.140 -> 00:19.160",
+      "jp": "その理由は",
+      "jp_html": "その<ruby>理由<rt>りゆう</rt></ruby>は",
+      "zh": "原因是",
+      "en": "The reason is"
+    },
+    {
+      "id": 7,
+      "start": 19.16,
+      "end": 22.8,
+      "ts": "00:19.160 -> 00:22.800",
+      "jp": "あのジムに昨日行ったからですね",
+      "jp_html": "あのジムに<ruby>昨日<rt>きのう</rt></ruby><ruby>行った<rt>いった</rt></ruby>からですね",
+      "zh": "因为我昨天去了那个健身房",
+      "en": "I went to that gym yesterday, you know?"
+    },
+    {
+      "id": 8,
+      "start": 22.8,
+      "end": 28.16,
+      "ts": "00:22.800 -> 00:28.160",
+      "jp": "皆さんはジムが好きですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はジムが<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "您喜欢吉姆吗？",
+      "en": "Do you like gym?"
+    },
+    {
+      "id": 9,
+      "start": 28.16,
+      "end": 34.42,
+      "ts": "00:28.160 -> 00:34.420",
+      "jp": "ジムに行って運動している時が好きですか",
+      "jp_html": "ジムに<ruby>行って<rt>いって</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>している<ruby>時<rt>とき</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "你喜欢去健身房运动的时候吗？",
+      "en": "Do you like when you are exercising at the gym?"
+    },
+    {
+      "id": 10,
+      "start": 34.42,
+      "end": 41.46,
+      "ts": "00:34.420 -> 00:41.460",
+      "jp": "僕も運動している時は嫌いじゃないんですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>運動<rt>うんどう</rt></ruby>している<ruby>時<rt>とき</rt></ruby>は<ruby>嫌い<rt>きらい</rt></ruby>じゃないんですね",
+      "zh": "我运动的时候也不讨厌呢",
+      "en": "I don't mind exercising when I'm doing it."
+    },
+    {
+      "id": 11,
+      "start": 41.46,
+      "end": 50.3,
+      "ts": "00:41.460 -> 00:50.300",
+      "jp": "例えば昨日足の運動をしてその後ちょっと走って",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>昨日<rt>きのう</rt></ruby><ruby>足<rt>あし</rt></ruby>の<ruby>運動<rt>うんどう</rt></ruby>をしてその<ruby>後<rt>のち</rt></ruby>ちょっと<ruby>走っ<rt>はしっ</rt></ruby>て",
+      "zh": "例如昨天做了腿部运动，然后稍微跑了跑。",
+      "en": "For example, yesterday I did leg exercises and then ran a little bit."
+    },
+    {
+      "id": 12,
+      "start": 50.3,
+      "end": 54.88,
+      "ts": "00:50.300 -> 00:54.880",
+      "jp": "走ってないかちょっと早く歩いて",
+      "jp_html": "<ruby>走っ<rt>はしっ</rt></ruby>てないかちょっと<ruby>早く<rt>はやく</rt></ruby><ruby>歩い<rt>あるい</rt></ruby>て",
+      "zh": "走得不够，稍微快点走",
+      "en": "Are you not walking? Let's walk a bit faster."
+    },
+    {
+      "id": 13,
+      "start": 54.88,
+      "end": 60.16,
+      "ts": "00:54.880 -> 01:00.160",
+      "jp": "なんか気持ちよかったですよね",
+      "jp_html": "なんか<ruby>気持ち<rt>きもち</rt></ruby>よかったですよね",
+      "zh": "感觉很好吧？",
+      "en": "Didn't that feel good, huh?"
+    },
+    {
+      "id": 14,
+      "start": 60.16,
+      "end": 63.88,
+      "ts": "01:00.160 -> 01:03.880",
+      "jp": "汗をかいてシャワー浴びて",
+      "jp_html": "<ruby>汗<rt>あせ</rt></ruby>をかいてシャワー<ruby>浴び<rt>あび</rt></ruby>て",
+      "zh": "出汗后洗个澡",
+      "en": "Sweat and take a shower"
+    },
+    {
+      "id": 15,
+      "start": 63.88,
+      "end": 65.82,
+      "ts": "01:03.880 -> 01:05.820",
+      "jp": "気持ちいいですよね",
+      "jp_html": "<ruby>気持ちい<rt>きもちい</rt></ruby>いですよね",
+      "zh": "不错吧？",
+      "en": "Isn't it nice?"
+    },
+    {
+      "id": 16,
+      "start": 65.82,
+      "end": 72.92,
+      "ts": "01:05.820 -> 01:12.920",
+      "jp": "家に帰ってもなんか達成感というのがあって",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てもなんか<ruby>達成感<rt>たっせいかん</rt></ruby>というのがあって",
+      "zh": "回到家还是有一种成就感",
+      "en": "Even when I get home, there's some sense of accomplishment."
+    },
+    {
+      "id": 17,
+      "start": 72.92,
+      "end": 75.02,
+      "ts": "01:12.920 -> 01:15.020",
+      "jp": "達成感と言いますね",
+      "jp_html": "<ruby>達成感<rt>たっせいかん</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ますね",
+      "zh": "成就感嘛",
+      "en": "It's the sense of accomplishment, right?"
+    },
+    {
+      "id": 18,
+      "start": 75.02,
+      "end": 76.98,
+      "ts": "01:15.020 -> 01:16.980",
+      "jp": "達成感というのは",
+      "jp_html": "<ruby>達成感<rt>たっせいかん</rt></ruby>というのは",
+      "zh": "成就感是什么呢",
+      "en": "The sense of accomplishment is"
+    },
+    {
+      "id": 19,
+      "start": 76.98,
+      "end": 79.56,
+      "ts": "01:16.980 -> 01:19.560",
+      "jp": "よし俺はやったぞ",
+      "jp_html": "よし<ruby>俺<rt>おれ</rt></ruby>はやったぞ",
+      "zh": "好了，我做了",
+      "en": "Good I did it."
+    },
+    {
+      "id": 20,
+      "start": 79.56,
+      "end": 83.04,
+      "ts": "01:19.560 -> 01:23.040",
+      "jp": "自分で自分を",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>を",
+      "zh": "自己重复",
+      "en": "Himself himself"
+    },
+    {
+      "id": 21,
+      "start": 83.04,
+      "end": 85.24,
+      "ts": "01:23.040 -> 01:25.240",
+      "jp": "褒めたい",
+      "jp_html": "<ruby>褒め<rt>ほめ</rt></ruby>たい",
+      "zh": "想表扬",
+      "en": "Want to praise"
+    },
+    {
+      "id": 22,
+      "start": 85.24,
+      "end": 87.48,
+      "ts": "01:25.240 -> 01:27.480",
+      "jp": "てっぺすごいぞ",
+      "jp_html": "てっぺすごいぞ",
+      "zh": "你的额头真大",
+      "en": "That roof is amazing!"
+    },
+    {
+      "id": 23,
+      "start": 87.48,
+      "end": 90.02,
+      "ts": "01:27.480 -> 01:30.020",
+      "jp": "自分で思えること",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>思え<rt>おもえ</rt></ruby>ること",
+      "zh": "自己认为的事情",
+      "en": "Things I can think of myself"
+    },
+    {
+      "id": 24,
+      "start": 90.02,
+      "end": 92.04,
+      "ts": "01:30.020 -> 01:32.040",
+      "jp": "これを達成感と言います",
+      "jp_html": "これを<ruby>達成感<rt>たっせいかん</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ます",
+      "zh": "这叫做成就感",
+      "en": "This is called a sense of accomplishment."
+    },
+    {
+      "id": 25,
+      "start": 92.04,
+      "end": 93.76,
+      "ts": "01:32.040 -> 01:33.760",
+      "jp": "達成したような感じ",
+      "jp_html": "<ruby>達成<rt>たっせい</rt></ruby>したような<ruby>感じ<rt>かんじ</rt></ruby>",
+      "zh": "有种完成的感觉",
+      "en": "Feeling accomplished"
+    },
+    {
+      "id": 26,
+      "start": 93.76,
+      "end": 97.0,
+      "ts": "01:33.760 -> 01:37.000",
+      "jp": "目標",
+      "jp_html": "<ruby>目標<rt>もくひょう</rt></ruby>",
+      "zh": "目标",
+      "en": "Goal"
+    },
+    {
+      "id": 27,
+      "start": 97.0,
+      "end": 101.02,
+      "ts": "01:37.000 -> 01:41.020",
+      "jp": "目標に届いたような感じ",
+      "jp_html": "<ruby>目標<rt>もくひょう</rt></ruby>に<ruby>届い<rt>とどい</rt></ruby>たような<ruby>感じ<rt>かんじ</rt></ruby>",
+      "zh": "有种到达目标的感觉",
+      "en": "It feels like I've reached my goal."
+    },
+    {
+      "id": 28,
+      "start": 101.02,
+      "end": 102.82,
+      "ts": "01:41.020 -> 01:42.820",
+      "jp": "これを達成感と言います",
+      "jp_html": "これを<ruby>達成感<rt>たっせいかん</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ます",
+      "zh": "这叫做成就感",
+      "en": "This is called a sense of accomplishment."
+    },
+    {
+      "id": 29,
+      "start": 102.82,
+      "end": 105.78,
+      "ts": "01:42.820 -> 01:45.780",
+      "jp": "達成感を感じて",
+      "jp_html": "<ruby>達成感<rt>たっせいかん</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>て",
+      "zh": "感受到成就感",
+      "en": "Feeling a sense of accomplishment"
+    },
+    {
+      "id": 30,
+      "start": 105.78,
+      "end": 107.04,
+      "ts": "01:45.780 -> 01:47.040",
+      "jp": "よし頑張った",
+      "jp_html": "よし<ruby>頑張っ<rt>がんばっ</rt></ruby>た",
+      "zh": "好嘞，努力了",
+      "en": "Good, you've worked hard."
+    },
+    {
+      "id": 31,
+      "start": 107.04,
+      "end": 108.56,
+      "ts": "01:47.040 -> 01:48.560",
+      "jp": "頑張ったぞ",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>たぞ",
+      "zh": "你努力了",
+      "en": "You did well."
+    },
+    {
+      "id": 32,
+      "start": 108.56,
+      "end": 109.14,
+      "ts": "01:48.560 -> 01:49.140",
+      "jp": "オレ",
+      "jp_html": "オレ",
+      "zh": "我",
+      "en": "I"
+    },
+    {
+      "id": 33,
+      "start": 109.14,
+      "end": 111.72,
+      "ts": "01:49.140 -> 01:51.720",
+      "jp": "おめでとうみたいなね",
+      "jp_html": "おめでとうみたいなね",
+      "zh": "像在恭喜似的",
+      "en": "It's like congratulations, I guess."
+    },
+    {
+      "id": 34,
+      "start": 111.72,
+      "end": 115.22,
+      "ts": "01:51.720 -> 01:55.220",
+      "jp": "そういう気持ちになって",
+      "jp_html": "そういう<ruby>気持ち<rt>きもち</rt></ruby>になって",
+      "zh": "有这样的感觉",
+      "en": "Have that feeling in mind"
+    },
+    {
+      "id": 35,
+      "start": 115.22,
+      "end": 116.68,
+      "ts": "01:55.220 -> 01:56.680",
+      "jp": "昨日はとても良かった",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>はとても<ruby>良か<rt>よか</rt></ruby>った",
+      "zh": "昨天很好",
+      "en": "Yesterday was very good."
+    },
+    {
+      "id": 36,
+      "start": 116.68,
+      "end": 123.18,
+      "ts": "01:56.680 -> 02:03.180",
+      "jp": "だけど今日の朝最悪の気分でしたね",
+      "jp_html": "だけど<ruby>今日<rt>きょう</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby><ruby>最悪<rt>さいあく</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>でしたね",
+      "zh": "但是今天的早晨感觉最糟糕了呢",
+      "en": "But today's morning was the worst mood, though."
+    },
+    {
+      "id": 37,
+      "start": 123.18,
+      "end": 128.38,
+      "ts": "02:03.180 -> 02:08.380",
+      "jp": "朝いつものように目を覚ましたけど",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>いつものように<ruby>目<rt>め</rt></ruby>を<ruby>覚ま<rt>さま</rt></ruby>したけど",
+      "zh": "像往常一样睁开眼睛但",
+      "en": "I woke up as usual in the morning but"
+    },
+    {
+      "id": 38,
+      "start": 128.38,
+      "end": 133.04,
+      "ts": "02:08.380 -> 02:13.040",
+      "jp": "なんか眠いなんか疲れてる",
+      "jp_html": "なんか<ruby>眠い<rt>ねむい</rt></ruby>なんか<ruby>疲れ<rt>つかれ</rt></ruby>てる",
+      "zh": "感觉困感觉累",
+      "en": "I feel sleepy I'm feeling tired"
+    },
+    {
+      "id": 39,
+      "start": 133.04,
+      "end": 136.02,
+      "ts": "02:13.040 -> 02:16.020",
+      "jp": "起きたくない",
+      "jp_html": "<ruby>起き<rt>おき</rt></ruby>たくない",
+      "zh": "不想起床",
+      "en": "Don't want to get up"
+    },
+    {
+      "id": 40,
+      "start": 136.02,
+      "end": 139.86,
+      "ts": "02:16.020 -> 02:19.860",
+      "jp": "子供と奥さんはいつものように",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>と<ruby>奥さん<rt>おくさん</rt></ruby>はいつものように",
+      "zh": "孩子和妻子像往常一样",
+      "en": "The children and wife were as usual"
+    },
+    {
+      "id": 41,
+      "start": 139.86,
+      "end": 142.2,
+      "ts": "02:19.860 -> 02:22.200",
+      "jp": "朝ごはんとか食べてて",
+      "jp_html": "<ruby>朝ごはん<rt>あさごはん</rt></ruby>とか<ruby>食べて<rt>たべて</rt></ruby>て",
+      "zh": "正在吃早晨的饭",
+      "en": "I was eating breakfast or something like that."
+    },
+    {
+      "id": 42,
+      "start": 142.2,
+      "end": 143.1,
+      "ts": "02:22.200 -> 02:23.100",
+      "jp": "僕はなんか",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>なんか",
+      "zh": "我也不知道",
+      "en": "I feel something"
+    },
+    {
+      "id": 43,
+      "start": 143.1,
+      "end": 147.92,
+      "ts": "02:23.100 -> 02:27.920",
+      "jp": "シャワーを浴びて",
+      "jp_html": "シャワーを<ruby>浴び<rt>あび</rt></ruby>て",
+      "zh": "洗个澡",
+      "en": "Take a shower"
+    },
+    {
+      "id": 44,
+      "start": 147.92,
+      "end": 149.78,
+      "ts": "02:27.920 -> 02:29.780",
+      "jp": "コーヒーを飲んだら",
+      "jp_html": "コーヒーを<ruby>飲ん<rt>のん</rt></ruby>だら",
+      "zh": "喝了咖啡之后",
+      "en": "After drinking coffee"
+    },
+    {
+      "id": 45,
+      "start": 149.78,
+      "end": 151.08,
+      "ts": "02:29.780 -> 02:31.080",
+      "jp": "やっと",
+      "jp_html": "やっと",
+      "zh": "终于",
+      "en": "Finally"
+    },
+    {
+      "id": 46,
+      "start": 151.08,
+      "end": 153.48,
+      "ts": "02:31.080 -> 02:33.480",
+      "jp": "ちょっと目が覚めてきたけど",
+      "jp_html": "ちょっと<ruby>目<rt>め</rt></ruby>が<ruby>覚め<rt>さめ</rt></ruby>てきたけど",
+      "zh": "稍微清醒了一点",
+      "en": "I'm starting to wake up a bit."
+    },
+    {
+      "id": 47,
+      "start": 153.48,
+      "end": 155.68,
+      "ts": "02:33.480 -> 02:35.680",
+      "jp": "体は重い",
+      "jp_html": "<ruby>体<rt>からだ</rt></ruby>は<ruby>重い<rt>おもい</rt></ruby>",
+      "zh": "身体沉重",
+      "en": "The body is heavy."
+    },
+    {
+      "id": 48,
+      "start": 155.68,
+      "end": 158.14,
+      "ts": "02:35.680 -> 02:38.140",
+      "jp": "体が重いんですよね",
+      "jp_html": "<ruby>体<rt>からだ</rt></ruby>が<ruby>重い<rt>おもい</rt></ruby>んですよね",
+      "zh": "身体沉重呢",
+      "en": "My body feels heavy."
+    },
+    {
+      "id": 49,
+      "start": 158.14,
+      "end": 160.08,
+      "ts": "02:38.140 -> 02:40.080",
+      "jp": "ここは",
+      "jp_html": "ここは",
+      "zh": "这里是",
+      "en": "This is"
+    },
+    {
+      "id": 50,
+      "start": 160.08,
+      "end": 161.06,
+      "ts": "02:40.080 -> 02:41.060",
+      "jp": "どこだ",
+      "jp_html": "どこだ",
+      "zh": "在哪里",
+      "en": "Where is it?"
+    },
+    {
+      "id": 51,
+      "start": 161.06,
+      "end": 162.52,
+      "ts": "02:41.060 -> 02:42.520",
+      "jp": "地球か",
+      "jp_html": "<ruby>地球<rt>ちきゅう</rt></ruby>か",
+      "zh": "地球啊",
+      "en": "Earth or planet?"
+    },
+    {
+      "id": 52,
+      "start": 162.52,
+      "end": 164.82,
+      "ts": "02:42.520 -> 02:44.820",
+      "jp": "本当に地球ですか",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>ですか",
+      "zh": "真的是地球吗",
+      "en": "Is it really the Earth?"
+    },
+    {
+      "id": 53,
+      "start": 164.82,
+      "end": 167.58,
+      "ts": "02:44.820 -> 02:47.580",
+      "jp": "めちゃめちゃ重い",
+      "jp_html": "めちゃめちゃ<ruby>重い<rt>おもい</rt></ruby>",
+      "zh": "超重",
+      "en": "It's really incredibly heavy"
+    },
+    {
+      "id": 54,
+      "start": 167.58,
+      "end": 168.52,
+      "ts": "02:47.580 -> 02:48.520",
+      "jp": "体が",
+      "jp_html": "<ruby>体<rt>からだ</rt></ruby>が",
+      "zh": "身体",
+      "en": "body"
+    },
+    {
+      "id": 55,
+      "start": 168.52,
+      "end": 172.08,
+      "ts": "02:48.520 -> 02:52.080",
+      "jp": "重力が強い",
+      "jp_html": "<ruby>重力<rt>じゅうりょく</rt></ruby>が<ruby>強い<rt>つよい</rt></ruby>",
+      "zh": "gravity较强",
+      "en": "Gravity is strong"
+    },
+    {
+      "id": 56,
+      "start": 172.08,
+      "end": 175.86,
+      "ts": "02:52.080 -> 02:55.860",
+      "jp": "重力というのはグラビティのことね",
+      "jp_html": "<ruby>重力<rt>じゅうりょく</rt></ruby>というのはグラビティのことね",
+      "zh": "重力就是引力啦",
+      "en": "Gravity is the same as gravitation, you know."
+    },
+    {
+      "id": 57,
+      "start": 175.86,
+      "end": 178.86,
+      "ts": "02:55.860 -> 02:58.860",
+      "jp": "重力がいつもと違う",
+      "jp_html": "<ruby>重力<rt>じゅうりょく</rt></ruby>がいつもと<ruby>違う<rt>ちがう</rt></ruby>",
+      "zh": "gravity 和平时不同",
+      "en": "Gravity is different this time."
+    },
+    {
+      "id": 58,
+      "start": 178.86,
+      "end": 183.38,
+      "ts": "02:58.860 -> 03:03.380",
+      "jp": "まあまあ足が疲れてるだけなんですけど",
+      "jp_html": "まあまあ<ruby>足<rt>あし</rt></ruby>が<ruby>疲れ<rt>つかれ</rt></ruby>てるだけなんですけど",
+      "zh": "反正只是脚累了而已",
+      "en": "It's just that my legs are tired."
+    },
+    {
+      "id": 59,
+      "start": 183.38,
+      "end": 185.88,
+      "ts": "03:03.380 -> 03:05.880",
+      "jp": "なんかね",
+      "jp_html": "なんかね",
+      "zh": "嗯，嗯",
+      "en": "Well, ne"
+    },
+    {
+      "id": 60,
+      "start": 185.88,
+      "end": 190.32,
+      "ts": "03:05.880 -> 03:10.320",
+      "jp": "今日一日中疲れてた",
+      "jp_html": "<ruby>今日一日<rt>きょういちにち</rt></ruby><ruby>中<rt>なか</rt></ruby><ruby>疲れ<rt>つかれ</rt></ruby>てた",
+      "zh": "今天一天都很累",
+      "en": "I was tired all day today."
+    },
+    {
+      "id": 61,
+      "start": 190.32,
+      "end": 194.16,
+      "ts": "03:10.320 -> 03:14.160",
+      "jp": "あの階段を登る時とかは疲れてる",
+      "jp_html": "あの<ruby>階段<rt>かいだん</rt></ruby>を<ruby>登る<rt>のぼる</rt></ruby><ruby>時<rt>とき</rt></ruby>とかは<ruby>疲れ<rt>つかれ</rt></ruby>てる",
+      "zh": "爬楼梯的时候感觉好累",
+      "en": "When climbing those stairs, I'm tired."
+    },
+    {
+      "id": 62,
+      "start": 194.16,
+      "end": 196.7,
+      "ts": "03:14.160 -> 03:16.700",
+      "jp": "足が痛いし疲れてるしね",
+      "jp_html": "<ruby>足<rt>あし</rt></ruby>が<ruby>痛い<rt>いたい</rt></ruby>し<ruby>疲れ<rt>つかれ</rt></ruby>てるしね",
+      "zh": "脚疼而且累呢",
+      "en": "My feet hurt and I'm tired too."
+    },
+    {
+      "id": 63,
+      "start": 196.7,
+      "end": 199.22,
+      "ts": "03:16.700 -> 03:19.220",
+      "jp": "なんか肩とかもね",
+      "jp_html": "なんか<ruby>肩<rt>かた</rt></ruby>とかもね",
+      "zh": "好像肩膀也一样",
+      "en": "Something my shoulders also feel like"
+    },
+    {
+      "id": 64,
+      "start": 199.22,
+      "end": 201.18,
+      "ts": "03:19.220 -> 03:21.180",
+      "jp": "ちょっと肩の運動もしたので",
+      "jp_html": "ちょっと<ruby>肩<rt>かた</rt></ruby>の<ruby>運動<rt>うんどう</rt></ruby>もしたので",
+      "zh": "稍微做了些肩膀运动",
+      "en": "I did some shoulder exercises so"
+    },
+    {
+      "id": 65,
+      "start": 201.18,
+      "end": 203.02,
+      "ts": "03:21.180 -> 03:23.020",
+      "jp": "肩もなんかこう",
+      "jp_html": "<ruby>肩<rt>かた</rt></ruby>もなんかこう",
+      "zh": "肩膀也感觉怎么样",
+      "en": "Shoulders also kind of..."
+    },
+    {
+      "id": 66,
+      "start": 203.02,
+      "end": 204.62,
+      "ts": "03:23.020 -> 03:24.620",
+      "jp": "とにかく",
+      "jp_html": "とにかく",
+      "zh": "总之",
+      "en": "Just do it."
+    },
+    {
+      "id": 67,
+      "start": 204.62,
+      "end": 206.0,
+      "ts": "03:24.620 -> 03:26.000",
+      "jp": "調子が良くない",
+      "jp_html": "<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>良く<rt>よく</rt></ruby>ない",
+      "zh": "情绪不好",
+      "en": "I don't feel good."
+    },
+    {
+      "id": 68,
+      "start": 206.0,
+      "end": 209.64,
+      "ts": "03:26.000 -> 03:29.640",
+      "jp": "というわけで皆さんどうですか",
+      "jp_html": "というわけで<ruby>皆さん<rt>みなさん</rt></ruby>どうですか",
+      "zh": "所以大家怎么样？",
+      "en": "So, how are everyone doing?"
+    },
+    {
+      "id": 69,
+      "start": 209.64,
+      "end": 211.88,
+      "ts": "03:29.640 -> 03:31.880",
+      "jp": "ジムが好きですか",
+      "jp_html": "ジムが<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "你喜欢吉姆吗？",
+      "en": "Do you like Jim?"
+    },
+    {
+      "id": 70,
+      "start": 211.88,
+      "end": 215.46,
+      "ts": "03:31.880 -> 03:35.460",
+      "jp": "ジムに行って運動してる時が好きですか",
+      "jp_html": "ジムに<ruby>行って<rt>いって</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>してる<ruby>時<rt>とき</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "你喜欢去健身房运动的时候吗？",
+      "en": "Do you like when you're exercising at the gym?"
+    },
+    {
+      "id": 71,
+      "start": 215.46,
+      "end": 217.74,
+      "ts": "03:35.460 -> 03:37.740",
+      "jp": "僕もそれは好きです",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>もそれは<ruby>好き<rt>すき</rt></ruby>です",
+      "zh": "我也喜欢那个",
+      "en": "I also like that."
+    },
+    {
+      "id": 72,
+      "start": 217.74,
+      "end": 220.52,
+      "ts": "03:37.740 -> 03:40.520",
+      "jp": "その後シャワー浴びて気持ちいいですね",
+      "jp_html": "その<ruby>後<rt>のち</rt></ruby>シャワー<ruby>浴び<rt>あび</rt></ruby>て<ruby>気持ちい<rt>きもちい</rt></ruby>いですね",
+      "zh": "之后洗个澡感觉很好呢",
+      "en": "After taking a shower, it feels nice."
+    },
+    {
+      "id": 73,
+      "start": 220.52,
+      "end": 224.18,
+      "ts": "03:40.520 -> 03:44.180",
+      "jp": "でも次の日の朝",
+      "jp_html": "でも<ruby>次の<rt>つぎの</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>",
+      "zh": "但是第二天早上",
+      "en": "But the next morning"
+    },
+    {
+      "id": 74,
+      "start": 224.18,
+      "end": 229.22,
+      "ts": "03:44.180 -> 03:49.220",
+      "jp": "ちょっと体が疲れてるんですけど",
+      "jp_html": "ちょっと<ruby>体<rt>からだ</rt></ruby>が<ruby>疲れ<rt>つかれ</rt></ruby>てるんですけど",
+      "zh": "我的身体有点累",
+      "en": "I'm a bit tired but."
+    },
+    {
+      "id": 75,
+      "start": 229.22,
+      "end": 233.18,
+      "ts": "03:49.220 -> 03:53.180",
+      "jp": "なんか良くないな",
+      "jp_html": "なんか<ruby>良く<rt>よく</rt></ruby>ないな",
+      "zh": "感觉不太好吧",
+      "en": "Something doesn't feel right."
+    },
+    {
+      "id": 76,
+      "start": 233.18,
+      "end": 236.54,
+      "ts": "03:53.180 -> 03:56.540",
+      "jp": "全然好きじゃないな",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃないな",
+      "zh": "根本不喜欢呢",
+      "en": "I don't like it at all."
+    },
+    {
+      "id": 77,
+      "start": 236.54,
+      "end": 238.2,
+      "ts": "03:56.540 -> 03:58.200",
+      "jp": "と思いますけど",
+      "jp_html": "と<ruby>思い<rt>おもい</rt></ruby>ますけど",
+      "zh": "我想吧",
+      "en": "I think but"
+    },
+    {
+      "id": 78,
+      "start": 238.2,
+      "end": 240.58,
+      "ts": "03:58.200 -> 04:00.580",
+      "jp": "ちょっと頑張ってね",
+      "jp_html": "ちょっと<ruby>頑張っ<rt>がんばっ</rt></ruby>てね",
+      "zh": "再加把劲哦",
+      "en": "Just give it a little more effort, please."
+    },
+    {
+      "id": 79,
+      "start": 240.58,
+      "end": 242.78,
+      "ts": "04:00.580 -> 04:02.780",
+      "jp": "続けてみたいと思います",
+      "jp_html": "<ruby>続け<rt>つづけ</rt></ruby>てみたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我将继续尝试",
+      "en": "I want to continue thinking about it."
+    },
+    {
+      "id": 80,
+      "start": 242.78,
+      "end": 244.46,
+      "ts": "04:02.780 -> 04:04.460",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
