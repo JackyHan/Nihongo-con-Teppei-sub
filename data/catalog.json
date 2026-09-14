@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1582",
+      "title": "#1582「週末の散歩について！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/09/14/1582%e3%80%8c%e9%80%b1%e6%9c%ab%e3%81%ae%e6%95%a3%e6%ad%a9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1582.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1582.json"
+    },
+    {
       "id": "1581",
       "title": "#1581「きみちゃんが新しい生徒を探しています！！」",
       "category_id": "podcast",
