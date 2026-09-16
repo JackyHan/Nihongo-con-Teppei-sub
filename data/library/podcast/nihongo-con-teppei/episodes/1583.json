@@ -1,0 +1,674 @@
+{
+  "id": "1583",
+  "title": "#1583「お腹いっぱいだ〜！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1583.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1583.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/16/1583%e3%80%8c%e3%81%8a%e8%85%b9%e3%81%84%e3%81%a3%e3%81%b1%e3%81%84%e3%81%a0%e3%80%9c%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.3,
+      "end": 2.84,
+      "ts": "00:01.300 -> 00:02.840",
+      "jp": "シャキーン",
+      "jp_html": "シャキーン",
+      "zh": "唰kening",
+      "en": "Crack"
+    },
+    {
+      "id": 1,
+      "start": 2.84,
+      "end": 6.28,
+      "ts": "00:02.840 -> 00:06.280",
+      "jp": "お腹いっぱいだ",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>いっぱいだ",
+      "zh": "吃得好饱啊",
+      "en": "I'm full."
+    },
+    {
+      "id": 2,
+      "start": 6.28,
+      "end": 9.44,
+      "ts": "00:06.280 -> 00:09.440",
+      "jp": "はいみなさん元気ですか",
+      "jp_html": "はいみなさん<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all well?"
+    },
+    {
+      "id": 3,
+      "start": 9.44,
+      "end": 11.52,
+      "ts": "00:09.440 -> 00:11.520",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音训练的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 11.52,
+      "end": 14.94,
+      "ts": "00:11.520 -> 00:14.940",
+      "jp": "僕はちょっとお腹がいっぱいですね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ちょっとお<ruby>腹<rt>はら</rt></ruby>がいっぱいですね",
+      "zh": "我有点吃饱了。",
+      "en": "I'm a little full, you know?"
+    },
+    {
+      "id": 5,
+      "start": 14.94,
+      "end": 19.72,
+      "ts": "00:14.940 -> 00:19.720",
+      "jp": "今4時30分なんですが",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>4<ruby>時<rt>とき</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>なんですが",
+      "zh": "现在是4点30分",
+      "en": "It's 4:30 now."
+    },
+    {
+      "id": 6,
+      "start": 19.72,
+      "end": 21.88,
+      "ts": "00:19.720 -> 00:21.880",
+      "jp": "午後の4時30分",
+      "jp_html": "<ruby>午後<rt>ごご</rt></ruby>の4<ruby>時<rt>とき</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>",
+      "zh": "下午4点30分",
+      "en": "4:30 in the afternoon"
+    },
+    {
+      "id": 7,
+      "start": 21.88,
+      "end": 25.3,
+      "ts": "00:21.880 -> 00:25.300",
+      "jp": "だけど僕はお腹がいっぱい",
+      "jp_html": "だけど<ruby>僕は<rt>ぼくは</rt></ruby>お<ruby>腹<rt>はら</rt></ruby>がいっぱい",
+      "zh": "但是我很饱了",
+      "en": "But I am full."
+    },
+    {
+      "id": 8,
+      "start": 25.3,
+      "end": 26.82,
+      "ts": "00:25.300 -> 00:26.820",
+      "jp": "ちょっと変ですね",
+      "jp_html": "ちょっと<ruby>変で<rt>へんで</rt></ruby>すね",
+      "zh": "有点奇怪呢",
+      "en": "It's a bit strange."
+    },
+    {
+      "id": 9,
+      "start": 26.82,
+      "end": 35.66,
+      "ts": "00:26.820 -> 00:35.660",
+      "jp": "普通午後4時30分はお腹が空いてきたなーっていうような感じでしょ",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby><ruby>午後<rt>ごご</rt></ruby>4<ruby>時<rt>とき</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>はお<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>てきたなーっていうような<ruby>感じ<rt>かんじ</rt></ruby>でしょ",
+      "zh": "普通的下午四点半应该是感觉饿了吧",
+      "en": "Around 4:30 in the afternoon, you'd usually be starting to get hungry, right?"
+    },
+    {
+      "id": 10,
+      "start": 35.66,
+      "end": 41.36,
+      "ts": "00:35.660 -> 00:41.360",
+      "jp": "僕も朝ごはんは8時に食べました",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>朝ごはん<rt>あさごはん</rt></ruby>は8<ruby>時に<rt>ときに</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "我也在早上8点吃了早餐",
+      "en": "I also had breakfast at 8 o'clock in the morning."
+    },
+    {
+      "id": 11,
+      "start": 41.36,
+      "end": 45.64,
+      "ts": "00:41.360 -> 00:45.640",
+      "jp": "昼ごはんは12時ぐらいに食べました",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ごはんは12<ruby>時<rt>とき</rt></ruby>ぐらいに<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "中午饭大约在12点吃的",
+      "en": "I had lunch around 12 o'clock."
+    },
+    {
+      "id": 12,
+      "start": 45.64,
+      "end": 50.62,
+      "ts": "00:45.640 -> 00:50.620",
+      "jp": "そして晩ごはんを4時に食べたんですね",
+      "jp_html": "そして<ruby>晩<rt>ばん</rt></ruby>ごはんを4<ruby>時に<rt>ときに</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>んですね",
+      "zh": "然后你们是晚上在下午4点吃的晚饭吧",
+      "en": "And you had dinner at 4 o'clock in the afternoon, right?"
+    },
+    {
+      "id": 13,
+      "start": 51.62,
+      "end": 53.12,
+      "ts": "00:51.620 -> 00:53.120",
+      "jp": "ちょっと早いですよね",
+      "jp_html": "ちょっと<ruby>早い<rt>はやい</rt></ruby>ですよね",
+      "zh": "不是还早吗？",
+      "en": "Isn't it a bit early?"
+    },
+    {
+      "id": 14,
+      "start": 53.12,
+      "end": 59.6,
+      "ts": "00:53.120 -> 00:59.600",
+      "jp": "じゃあなぜ僕がそんなに早く晩ご飯を食べたかというと",
+      "jp_html": "じゃあなぜ<ruby>僕<rt>ぼく</rt></ruby>がそんなに<ruby>早く<rt>はやく</rt></ruby><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby>かというと",
+      "zh": "我之所以这么早就吃了晚饭是因为",
+      "en": "That's why I ate dinner so early."
+    },
+    {
+      "id": 15,
+      "start": 59.6,
+      "end": 63.04,
+      "ts": "00:59.600 -> 01:03.040",
+      "jp": "理由はあるかな",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>はあるかな",
+      "zh": "maybe 有吧",
+      "en": "Is there perhaps a reason?"
+    },
+    {
+      "id": 16,
+      "start": 63.04,
+      "end": 67.28,
+      "ts": "01:03.040 -> 01:07.280",
+      "jp": "5時からレッスンがあって",
+      "jp_html": "5<ruby>時<rt>とき</rt></ruby>からレッスンがあって",
+      "zh": "从5点开始有lesson",
+      "en": "I have a lesson from 5 o'clock."
+    },
+    {
+      "id": 17,
+      "start": 67.28,
+      "end": 70.2,
+      "ts": "01:07.280 -> 01:10.200",
+      "jp": "6時半ぐらいかな",
+      "jp_html": "6<ruby>時半<rt>じはん</rt></ruby>ぐらいかな",
+      "zh": "大概六点半左右吧",
+      "en": "It's around 6:30, I guess."
+    },
+    {
+      "id": 18,
+      "start": 70.2,
+      "end": 72.56,
+      "ts": "01:10.200 -> 01:12.560",
+      "jp": "ジムに行く予定ですね",
+      "jp_html": "ジムに<ruby>行く<rt>いく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>ですね",
+      "zh": "你打算去健身房吧？",
+      "en": "You're going to the gym, right?"
+    },
+    {
+      "id": 19,
+      "start": 72.56,
+      "end": 77.36,
+      "ts": "01:12.560 -> 01:17.360",
+      "jp": "だからちょっと早いけど食べました",
+      "jp_html": "だからちょっと<ruby>早い<rt>はやい</rt></ruby>けど<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "所以稍微早了一点，我吃了。",
+      "en": "So I ate a bit early."
+    },
+    {
+      "id": 20,
+      "start": 78.78,
+      "end": 82.2,
+      "ts": "01:18.780 -> 01:22.200",
+      "jp": "ジムに行く前直前ですよね",
+      "jp_html": "ジムに<ruby>行く<rt>いく</rt></ruby><ruby>前<rt>まえ</rt></ruby><ruby>直前<rt>ちょくぜん</rt></ruby>ですよね",
+      "zh": "去健身房之前对吧？",
+      "en": "Just before going to the gym, right?"
+    },
+    {
+      "id": 21,
+      "start": 82.2,
+      "end": 91.68,
+      "ts": "01:22.200 -> 01:31.680",
+      "jp": "ジムに行く本当にその直前ちょっと前に食べるとやっぱり良くないですよね",
+      "jp_html": "ジムに<ruby>行く<rt>いく</rt></ruby><ruby>本当<rt>ほんとう</rt></ruby>にその<ruby>直前<rt>ちょくぜん</rt></ruby>ちょっと<ruby>前<rt>まえ</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>るとやっぱり<ruby>良く<rt>よく</rt></ruby>ないですよね",
+      "zh": "去健身房真的在那之前稍微吃点东西不太好吧？",
+      "en": "Going to the gym and eating just before or right before really isn't good, huh?"
+    },
+    {
+      "id": 22,
+      "start": 91.68,
+      "end": 93.58,
+      "ts": "01:31.680 -> 01:33.580",
+      "jp": "苦しいですよね",
+      "jp_html": "<ruby>苦しい<rt>くるしい</rt></ruby>ですよね",
+      "zh": "真难啊rende",
+      "en": "It must be hard."
+    },
+    {
+      "id": 23,
+      "start": 93.58,
+      "end": 100.68,
+      "ts": "01:33.580 -> 01:40.680",
+      "jp": "そしてジムの時にお腹が減りすぎると",
+      "jp_html": "そしてジムの<ruby>時に<rt>ときに</rt></ruby>お<ruby>腹<rt>はら</rt></ruby>が<ruby>減り<rt>へり</rt></ruby>すぎると",
+      "zh": "然后在健身房的时候饿得太过分了",
+      "en": "And when I'm really hungry at Jim's place,"
+    },
+    {
+      "id": 24,
+      "start": 100.68,
+      "end": 107.6,
+      "ts": "01:40.680 -> 01:47.600",
+      "jp": "ちょっとこう疲れるというかやりたくないですよね",
+      "jp_html": "ちょっとこう<ruby>疲れ<rt>つかれ</rt></ruby>るというかやりたくないですよね",
+      "zh": "稍微感觉累不想做吧？",
+      "en": "It's a bit tiring, and you don't really want to do it, right?"
+    },
+    {
+      "id": 25,
+      "start": 107.6,
+      "end": 112.7,
+      "ts": "01:47.600 -> 01:52.700",
+      "jp": "だからちょっと早めだけど食べました",
+      "jp_html": "だからちょっと<ruby>早め<rt>はやめ</rt></ruby>だけど<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "所以稍微提前了，我已经吃了。",
+      "en": "So I ate a bit early."
+    },
+    {
+      "id": 26,
+      "start": 112.7,
+      "end": 115.66,
+      "ts": "01:52.700 -> 01:55.660",
+      "jp": "パスタを食べました",
+      "jp_html": "パスタを<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "我吃了意大利面",
+      "en": "I ate pasta."
+    },
+    {
+      "id": 27,
+      "start": 115.66,
+      "end": 117.66,
+      "ts": "01:55.660 -> 01:57.660",
+      "jp": "たくさん食べました",
+      "jp_html": "たくさん<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "吃了很多东西",
+      "en": "I ate a lot."
+    },
+    {
+      "id": 28,
+      "start": 117.66,
+      "end": 123.58,
+      "ts": "01:57.660 -> 02:03.580",
+      "jp": "本当はお腹が空いてなかったので",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>はお<ruby>腹<rt>はら</rt></ruby>が<ruby>空い<rt>あい</rt></ruby>てなかったので",
+      "zh": "其实肚子不饿",
+      "en": "I was actually not hungry at all so"
+    },
+    {
+      "id": 29,
+      "start": 123.58,
+      "end": 127.74,
+      "ts": "02:03.580 -> 02:07.740",
+      "jp": "少しで良かったはずですけど",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>で<ruby>良か<rt>よか</rt></ruby>ったはずですけど",
+      "zh": "本来用不着那么多就好了。",
+      "en": "I should have been enough with just a little."
+    },
+    {
+      "id": 30,
+      "start": 127.74,
+      "end": 134.02,
+      "ts": "02:07.740 -> 02:14.020",
+      "jp": "男のパスタはいつも量が多くなってしまいますね",
+      "jp_html": "<ruby>男<rt>おとこ</rt></ruby>のパスタはいつも<ruby>量<rt>りょう</rt></ruby>が<ruby>多く<rt>おおく</rt></ruby>なってしまいますね",
+      "zh": "男的做面食总是做得太多了吧",
+      "en": "The man's pasta always ends up being too generous in portion size, doesn't it?"
+    },
+    {
+      "id": 31,
+      "start": 134.4,
+      "end": 135.82,
+      "ts": "02:14.400 -> 02:15.820",
+      "jp": "理由はわかりません",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>はわかりません",
+      "zh": "我不明白原因。",
+      "en": "I don't understand the reason."
+    },
+    {
+      "id": 32,
+      "start": 135.82,
+      "end": 139.36,
+      "ts": "02:15.820 -> 02:19.360",
+      "jp": "男のパスタは量が多い",
+      "jp_html": "<ruby>男<rt>おとこ</rt></ruby>のパスタは<ruby>量<rt>りょう</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>",
+      "zh": "男生的意大利面分量较多",
+      "en": "The man's pasta has a larger portion."
+    },
+    {
+      "id": 33,
+      "start": 139.36,
+      "end": 143.94,
+      "ts": "02:19.360 -> 02:23.940",
+      "jp": "逆に僕の奥さんがパスタを作ると",
+      "jp_html": "<ruby>逆に<rt>ぎゃくに</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>がパスタを<ruby>作る<rt>つくる</rt></ruby>と",
+      "zh": "相反，是我妻子做的意大利面",
+      "en": "By contrast, when my wife makes pasta,..."
+    },
+    {
+      "id": 34,
+      "start": 143.94,
+      "end": 146.26,
+      "ts": "02:23.940 -> 02:26.260",
+      "jp": "いつも少し足りないんですよね",
+      "jp_html": "いつも<ruby>少し<rt>すこし</rt></ruby><ruby>足り<rt>たり</rt></ruby>ないんですよね",
+      "zh": "总是感觉不够",
+      "en": "It's always a little lacking, isn't it?"
+    },
+    {
+      "id": 35,
+      "start": 146.26,
+      "end": 151.84,
+      "ts": "02:26.260 -> 02:31.840",
+      "jp": "おいもうちょっと多くしてくれよって思うんですが",
+      "jp_html": "おいもうちょっと<ruby>多く<rt>おおく</rt></ruby>してくれよって<ruby>思う<rt>おもう</rt></ruby>んですが",
+      "zh": "我希望能多给我一些",
+      "en": "I wish they would give a little more."
+    },
+    {
+      "id": 36,
+      "start": 151.84,
+      "end": 153.38,
+      "ts": "02:31.840 -> 02:33.380",
+      "jp": "分からない",
+      "jp_html": "<ruby>分か<rt>わか</rt></ruby>らない",
+      "zh": "不明白",
+      "en": "I don't understand."
+    },
+    {
+      "id": 37,
+      "start": 153.38,
+      "end": 156.08,
+      "ts": "02:33.380 -> 02:36.080",
+      "jp": "なんでそんなにパスタが小さい",
+      "jp_html": "なんでそんなにパスタが<ruby>小さい<rt>ちーさい</rt></ruby>",
+      "zh": "为什么面条做得那么小",
+      "en": "Why is the pasta so small?"
+    },
+    {
+      "id": 38,
+      "start": 156.08,
+      "end": 161.15,
+      "ts": "02:36.080 -> 02:41.150",
+      "jp": "高級なイタリアンレストランとか",
+      "jp_html": "<ruby>高級<rt>こうきゅう</rt></ruby>なイタリアンレストランとか",
+      "zh": "高级意大利餐厅等地方",
+      "en": "Expensive Italian restaurants or something like that"
+    },
+    {
+      "id": 39,
+      "start": 161.15,
+      "end": 164.85,
+      "ts": "02:41.150 -> 02:44.850",
+      "jp": "高級な店に行くとパスタが小さいですよね",
+      "jp_html": "<ruby>高級<rt>こうきゅう</rt></ruby>な<ruby>店<rt>みせ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とパスタが<ruby>小さい<rt>ちーさい</rt></ruby>ですよね",
+      "zh": "高级的餐厅去的话，意大利面好像份量都会少一些吧",
+      "en": "When you go to fancy restaurants, the pasta seems small, doesn't it?"
+    },
+    {
+      "id": 40,
+      "start": 164.85,
+      "end": 167.45,
+      "ts": "02:44.850 -> 02:47.450",
+      "jp": "あれは僕は大嫌いですね",
+      "jp_html": "あれは<ruby>僕は<rt>ぼくは</rt></ruby><ruby>大嫌い<rt>だいきらい</rt></ruby>ですね",
+      "zh": "那我非常不喜欢",
+      "en": "That is something I really dislike."
+    },
+    {
+      "id": 41,
+      "start": 167.45,
+      "end": 170.07,
+      "ts": "02:47.450 -> 02:50.070",
+      "jp": "なんでこんなに小さいのか",
+      "jp_html": "なんでこんなに<ruby>小さい<rt>ちーさい</rt></ruby>のか",
+      "zh": "为什么这么小",
+      "en": "Why is it so small?"
+    },
+    {
+      "id": 42,
+      "start": 170.07,
+      "end": 172.07,
+      "ts": "02:50.070 -> 02:52.070",
+      "jp": "それはなんだ",
+      "jp_html": "それはなんだ",
+      "zh": "那是什么",
+      "en": "What is that?"
+    },
+    {
+      "id": 43,
+      "start": 172.07,
+      "end": 178.21,
+      "ts": "02:52.070 -> 02:58.210",
+      "jp": "こんな大きい皿の真ん中にちょっとだけある",
+      "jp_html": "こんな<ruby>大きい<rt>おおきい</rt></ruby><ruby>皿<rt>さら</rt></ruby>の<ruby>真ん中<rt>まんなか</rt></ruby>にちょっとだけある",
+      "zh": "这么大的盘子中间只有一点儿东西",
+      "en": "There's just a little bit in the center of such a large plate."
+    },
+    {
+      "id": 44,
+      "start": 178.21,
+      "end": 180.83,
+      "ts": "02:58.210 -> 03:00.830",
+      "jp": "どういうことだと思いますね",
+      "jp_html": "どういうことだと<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "您是这么认为的吧",
+      "en": "I think you're asking what that means, right?"
+    },
+    {
+      "id": 45,
+      "start": 180.83,
+      "end": 183.45,
+      "ts": "03:00.830 -> 03:03.450",
+      "jp": "蕎麦もちょっと変ですね",
+      "jp_html": "<ruby>蕎麦<rt>そば</rt></ruby>もちょっと<ruby>変で<rt>へんで</rt></ruby>すね",
+      "zh": "荞麦也有些奇怪呢",
+      "en": "The buckwheat seems a bit strange too."
+    },
+    {
+      "id": 46,
+      "start": 183.45,
+      "end": 187.75,
+      "ts": "03:03.450 -> 03:07.750",
+      "jp": "日本の蕎麦も少ないことが多いですよね",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>蕎麦<rt>そば</rt></ruby>も<ruby>少ない<rt>すくない</rt></ruby>ことが<ruby>多い<rt>おおい</rt></ruby>ですよね",
+      "zh": "日本的手擀面也经常很少吧",
+      "en": "It's true that there often isn't much Japanese buckwheat available, isn't it?"
+    },
+    {
+      "id": 47,
+      "start": 187.75,
+      "end": 189.79,
+      "ts": "03:07.750 -> 03:09.790",
+      "jp": "なんだこれは",
+      "jp_html": "なんだこれは",
+      "zh": "这是什么",
+      "en": "What is this?"
+    },
+    {
+      "id": 48,
+      "start": 189.79,
+      "end": 192.27,
+      "ts": "03:09.790 -> 03:12.270",
+      "jp": "一口で終わっちゃったぞ",
+      "jp_html": "<ruby>一口<rt>ひとくち</rt></ruby>で<ruby>終わ<rt>おわ</rt></ruby>っちゃったぞ",
+      "zh": "一口就结束啦",
+      "en": "It ended in one bite."
+    },
+    {
+      "id": 49,
+      "start": 192.27,
+      "end": 193.99,
+      "ts": "03:12.270 -> 03:13.990",
+      "jp": "一口はないけど",
+      "jp_html": "<ruby>一口<rt>ひとくち</rt></ruby>はないけど",
+      "zh": "没有牙齿但是",
+      "en": "There isn't any mouth but"
+    },
+    {
+      "id": 50,
+      "start": 193.99,
+      "end": 197.41,
+      "ts": "03:13.990 -> 03:17.410",
+      "jp": "なんかすぐに食べ終わってしまいますよね",
+      "jp_html": "なんかすぐに<ruby>食べ<rt>たべ</rt></ruby><ruby>終わ<rt>おわ</rt></ruby>ってしまいますよね",
+      "zh": "不是马上就吃完了嘛",
+      "en": "It's true that I finish eating quickly, isn't it?"
+    },
+    {
+      "id": 51,
+      "start": 197.41,
+      "end": 200.33,
+      "ts": "03:17.410 -> 03:20.330",
+      "jp": "すごい変だと思う",
+      "jp_html": "すごい<ruby>変だ<rt>へんだ</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "觉得这很神奇",
+      "en": "I think it's a great change"
+    },
+    {
+      "id": 52,
+      "start": 200.33,
+      "end": 203.11,
+      "ts": "03:20.330 -> 03:23.110",
+      "jp": "ちょっと少なすぎると思う",
+      "jp_html": "ちょっと<ruby>少なす<rt>ずくなす</rt></ruby>ぎると<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "觉得有点太少了吧",
+      "en": "I think it's a bit too little."
+    },
+    {
+      "id": 53,
+      "start": 203.11,
+      "end": 207.29,
+      "ts": "03:23.110 -> 03:27.290",
+      "jp": "そばの場合は天ぷらと一緒に食べるとかね",
+      "jp_html": "そばの<ruby>場合<rt>ばあい</rt></ruby>は<ruby>天ぷら<rt>てんぷら</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>食べ<rt>たべ</rt></ruby>るとかね",
+      "zh": "通常，拉面会和天妇罗一起吃",
+      "en": "In the case of soba, it can be eaten with tempura."
+    },
+    {
+      "id": 54,
+      "start": 207.29,
+      "end": 209.11,
+      "ts": "03:27.290 -> 03:29.110",
+      "jp": "多分そうすればいいのかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>そうすればいいのかな",
+      "zh": "大概那样做就好了。",
+      "en": "I think that would be good, right?"
+    },
+    {
+      "id": 55,
+      "start": 209.11,
+      "end": 216.21,
+      "ts": "03:29.110 -> 03:36.210",
+      "jp": "パスタもその後にデザートとかね",
+      "jp_html": "パスタもその<ruby>後に<rt>のちに</rt></ruby>デザートとかね",
+      "zh": "之后还有面食，然后是甜点",
+      "en": "Pasta is also followed by dessert, right?"
+    },
+    {
+      "id": 56,
+      "start": 216.21,
+      "end": 218.11,
+      "ts": "03:36.210 -> 03:38.110",
+      "jp": "食べればいいのかもしれない",
+      "jp_html": "<ruby>食べ<rt>たべ</rt></ruby>ればいいのかもしれない",
+      "zh": "吃也许就好了",
+      "en": "Maybe it's just that I need to eat."
+    },
+    {
+      "id": 57,
+      "start": 218.11,
+      "end": 221.87,
+      "ts": "03:38.110 -> 03:41.870",
+      "jp": "まあまあでも僕はパスタがないので",
+      "jp_html": "まあまあでも<ruby>僕は<rt>ぼくは</rt></ruby>パスタがないので",
+      "zh": "还行，但我没有意大利面",
+      "en": "Well, anyway, I don't have any pasta so"
+    },
+    {
+      "id": 58,
+      "start": 221.87,
+      "end": 224.45,
+      "ts": "03:41.870 -> 03:44.450",
+      "jp": "デザートがないので",
+      "jp_html": "デザートがないので",
+      "zh": "因为没有甜点",
+      "en": "There is no dessert."
+    },
+    {
+      "id": 59,
+      "start": 224.45,
+      "end": 226.85,
+      "ts": "03:44.450 -> 03:46.850",
+      "jp": "パスタだけを食べました",
+      "jp_html": "パスタだけを<ruby>食べ<rt>たべ</rt></ruby>ました",
+      "zh": "只吃了意大利面",
+      "en": "I ate only pasta."
+    },
+    {
+      "id": 60,
+      "start": 226.85,
+      "end": 228.75,
+      "ts": "03:46.850 -> 03:48.750",
+      "jp": "まあまあいいですよ",
+      "jp_html": "まあまあいいですよ",
+      "zh": "还行，没关系。",
+      "en": "It's okay, not bad."
+    },
+    {
+      "id": 61,
+      "start": 228.75,
+      "end": 230.99,
+      "ts": "03:48.750 -> 03:50.990",
+      "jp": "お腹いっぱいになったので",
+      "jp_html": "お<ruby>腹<rt>はら</rt></ruby>いっぱいになったので",
+      "zh": "吃饱了所以",
+      "en": "I ate until I was full."
+    },
+    {
+      "id": 62,
+      "start": 230.99,
+      "end": 234.03,
+      "ts": "03:50.990 -> 03:54.030",
+      "jp": "まあ運動しますね",
+      "jp_html": "まあ<ruby>運動<rt>うんどう</rt></ruby>しますね",
+      "zh": "嗯，会运动呢",
+      "en": "Well, at least I exercise."
+    },
+    {
+      "id": 63,
+      "start": 234.03,
+      "end": 235.67,
+      "ts": "03:54.030 -> 03:55.670",
+      "jp": "たくさん運動して",
+      "jp_html": "たくさん<ruby>運動<rt>うんどう</rt></ruby>して",
+      "zh": "多做运动",
+      "en": "Exercise a lot"
+    },
+    {
+      "id": 64,
+      "start": 235.67,
+      "end": 238.95,
+      "ts": "03:55.670 -> 03:58.950",
+      "jp": "カロリーを使いたいと思います",
+      "jp_html": "カロリーを<ruby>使い<rt>つかい</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想使用卡路里",
+      "en": "I want to use the calories."
+    },
+    {
+      "id": 65,
+      "start": 238.95,
+      "end": 241.71,
+      "ts": "03:58.950 -> 04:01.710",
+      "jp": "それではみんなも頑張ってくれよ",
+      "jp_html": "それではみんなも<ruby>頑張っ<rt>がんばっ</rt></ruby>てくれよ",
+      "zh": "那么大家也要加油哦",
+      "en": "So everyone also keep going!"
+    }
+  ]
+}
