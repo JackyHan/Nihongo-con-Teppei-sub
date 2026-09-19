@@ -1,5 +1,17 @@
 [
   {
+    "id": "1585",
+    "title": "#1585「サボることについて！②」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/09/19/1585%e3%80%8c%e3%82%b5%e3%83%9c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e2%91%a1%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1585.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1585.json"
+  },
+  {
     "id": "1584",
     "title": "#1584「サボることについて！」",
     "category_id": "podcast",

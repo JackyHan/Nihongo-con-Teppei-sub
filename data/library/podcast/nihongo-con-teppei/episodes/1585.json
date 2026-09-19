@@ -1,0 +1,694 @@
+{
+  "id": "1585",
+  "title": "#1585「サボることについて！②」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1585.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1585.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/19/1585%e3%80%8c%e3%82%b5%e3%83%9c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e2%91%a1%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.36,
+      "end": 3.02,
+      "ts": "00:01.360 -> 00:03.020",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.02,
+      "end": 8.38,
+      "ts": "00:03.020 -> 00:08.380",
+      "jp": "今日もサボることについて",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>もサボることについて",
+      "zh": "今天也关于偷懒的事情",
+      "en": "Today also about skipping the task"
+    },
+    {
+      "id": 2,
+      "start": 8.38,
+      "end": 10.54,
+      "ts": "00:08.380 -> 00:10.540",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all well?"
+    },
+    {
+      "id": 3,
+      "start": 10.54,
+      "end": 18.24,
+      "ts": "00:10.540 -> 00:18.240",
+      "jp": "あのね僕は今日もこの後ジムに行く予定なんですが",
+      "jp_html": "あのね<ruby>僕は<rt>ぼくは</rt></ruby><ruby>今日<rt>きょう</rt></ruby>もこの<ruby>後<rt>のち</rt></ruby>ジムに<ruby>行く<rt>いく</rt></ruby><ruby>予定<rt>よてい</rt></ruby>なんですが",
+      "zh": "你知道我今天之后还有计划去健身房,},",
+      "en": "You see, I also have plans to go to the gym later today."
+    },
+    {
+      "id": 4,
+      "start": 18.24,
+      "end": 24.64,
+      "ts": "00:18.240 -> 00:24.640",
+      "jp": "また雨が降っていてサボりたいんですよね",
+      "jp_html": "また<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていてサボりたいんですよね",
+      "zh": "又下雨了，真的想偷懒不去呢",
+      "en": "It's raining, and I want to skip it."
+    },
+    {
+      "id": 5,
+      "start": 24.64,
+      "end": 33.12,
+      "ts": "00:24.640 -> 00:33.120",
+      "jp": "まあ別に雨に濡れても死ぬわけじゃないし",
+      "jp_html": "まあ<ruby>別に<rt>べつに</rt></ruby><ruby>雨<rt>あめ</rt></ruby>に<ruby>濡れ<rt>ぬれ</rt></ruby>ても<ruby>死ぬ<rt>しぬ</rt></ruby>わけじゃないし",
+      "zh": "反正淋点雨也不会死的",
+      "en": "Well, I'm not going to die just because I get wet in the rain."
+    },
+    {
+      "id": 6,
+      "start": 33.12,
+      "end": 36.88,
+      "ts": "00:33.120 -> 00:36.880",
+      "jp": "大した雨でもないしね",
+      "jp_html": "<ruby>大した<rt>たいした</rt></ruby><ruby>雨<rt>あめ</rt></ruby>でもないしね",
+      "zh": "毕竟也不是什么大雨呢",
+      "en": "It wasn't that big of a rain, you know?"
+    },
+    {
+      "id": 7,
+      "start": 36.88,
+      "end": 42.16,
+      "ts": "00:36.880 -> 00:42.160",
+      "jp": "台風じゃないのでそんなにひどい雨ではありません",
+      "jp_html": "<ruby>台風<rt>たいふう</rt></ruby>じゃないのでそんなにひどい<ruby>雨<rt>あめ</rt></ruby>ではありません",
+      "zh": "不是台风，所以并没有那么大的雨",
+      "en": "It's not a typhoon, so it's not that bad rain."
+    },
+    {
+      "id": 8,
+      "start": 42.16,
+      "end": 48.96,
+      "ts": "00:42.160 -> 00:48.960",
+      "jp": "だけど自転車に乗るのはちょっと良くない",
+      "jp_html": "だけど<ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗る<rt>のる</rt></ruby>のはちょっと<ruby>良く<rt>よく</rt></ruby>ない",
+      "zh": "但是骑自行车可能不太好",
+      "en": "But riding a bicycle might be a little bad."
+    },
+    {
+      "id": 9,
+      "start": 48.96,
+      "end": 56.2,
+      "ts": "00:48.960 -> 00:56.200",
+      "jp": "僕の家からジムまでは微妙に遠いんですよね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>からジムまでは<ruby>微妙に<rt>びみょうに</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>んですよね",
+      "zh": "我的家到健身房有点远呢",
+      "en": "It's a bit far from my house to the gym, you know?"
+    },
+    {
+      "id": 10,
+      "start": 56.2,
+      "end": 59.28,
+      "ts": "00:56.200 -> 00:59.280",
+      "jp": "とても遠いわけではない",
+      "jp_html": "とても<ruby>遠い<rt>とおい</rt></ruby>わけではない",
+      "zh": "并不非常远",
+      "en": "It's not very far."
+    },
+    {
+      "id": 11,
+      "start": 59.28,
+      "end": 62.82,
+      "ts": "00:59.280 -> 01:02.820",
+      "jp": "だけど微妙に遠いんですよね",
+      "jp_html": "だけど<ruby>微妙に<rt>びみょうに</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>んですよね",
+      "zh": "但感觉有点遥远呢",
+      "en": "But it feels slightly distant, though."
+    },
+    {
+      "id": 12,
+      "start": 62.82,
+      "end": 64.08,
+      "ts": "01:02.820 -> 01:04.080",
+      "jp": "微妙に遠い",
+      "jp_html": "<ruby>微妙に<rt>びみょうに</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>",
+      "zh": "微微遥远",
+      "en": "Slightly distant"
+    },
+    {
+      "id": 13,
+      "start": 64.08,
+      "end": 67.02,
+      "ts": "01:04.080 -> 01:07.020",
+      "jp": "微妙というのはちょっとってことですね",
+      "jp_html": "<ruby>微妙<rt>びみょう</rt></ruby>というのはちょっとってことですね",
+      "zh": "微妙是指有点儿那个意思吧？",
+      "en": "Subtle means just a little, doesn't it?"
+    },
+    {
+      "id": 14,
+      "start": 67.02,
+      "end": 70.6,
+      "ts": "01:07.020 -> 01:10.600",
+      "jp": "微妙に遠いんですよ",
+      "jp_html": "<ruby>微妙に<rt>びみょうに</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>んですよ",
+      "zh": "它有点遥远呢",
+      "en": "It's slightly distant, you know?"
+    },
+    {
+      "id": 15,
+      "start": 70.6,
+      "end": 78.3,
+      "ts": "01:10.600 -> 01:18.300",
+      "jp": "歩いたら歩いたら30分近くかかるな",
+      "jp_html": "<ruby>歩い<rt>あるい</rt></ruby>たら<ruby>歩い<rt>あるい</rt></ruby>たら30<ruby>分近<rt>ぶんきん</rt></ruby>くかかるな",
+      "zh": "走了好一会儿，竟然快30分钟了",
+      "en": "I walked and walked, it's going to take more than 30 minutes."
+    },
+    {
+      "id": 16,
+      "start": 78.3,
+      "end": 83.5,
+      "ts": "01:18.300 -> 01:23.500",
+      "jp": "25分ぐらいかな",
+      "jp_html": "25<ruby>分<rt>ふん</rt></ruby>ぐらいかな",
+      "zh": "大约25分钟吧",
+      "en": "About 25 minutes, I guess."
+    },
+    {
+      "id": 17,
+      "start": 83.5,
+      "end": 86.96,
+      "ts": "01:23.500 -> 01:26.960",
+      "jp": "自転車だったら10分ぐらい",
+      "jp_html": "<ruby>自転車<rt>じてんしゃ</rt></ruby>だったら10<ruby>分<rt>ふん</rt></ruby>ぐらい",
+      "zh": "如果是自行车的话，大概需要10分钟。",
+      "en": "If it were a bicycle, it would take about 10 minutes."
+    },
+    {
+      "id": 18,
+      "start": 86.96,
+      "end": 91.5,
+      "ts": "01:26.960 -> 01:31.500",
+      "jp": "でも歩くと25分ぐらい",
+      "jp_html": "でも<ruby>歩く<rt>あるく</rt></ruby>と25<ruby>分<rt>ふん</rt></ruby>ぐらい",
+      "zh": "但步行需要大约25分钟",
+      "en": "But it takes about 25 minutes by walking."
+    },
+    {
+      "id": 19,
+      "start": 91.5,
+      "end": 96.38,
+      "ts": "01:31.500 -> 01:36.380",
+      "jp": "めっちゃ急げば20分ぐらいかな",
+      "jp_html": "めっちゃ<ruby>急げ<rt>いそげ</rt></ruby>ば20<ruby>分<rt>ふん</rt></ruby>ぐらいかな",
+      "zh": "快点的话大概需要20分钟吧",
+      "en": "If we really hurry, it might take about 20 minutes."
+    },
+    {
+      "id": 20,
+      "start": 96.38,
+      "end": 98.66,
+      "ts": "01:36.380 -> 01:38.660",
+      "jp": "めっちゃ急いで20分",
+      "jp_html": "めっちゃ<ruby>急い<rt>いそい</rt></ruby>で20<ruby>分<rt>ふん</rt></ruby>",
+      "zh": "拼命赶，20分钟",
+      "en": "Really hurrying, 20 minutes"
+    },
+    {
+      "id": 21,
+      "start": 98.66,
+      "end": 100.0,
+      "ts": "01:38.660 -> 01:40.000",
+      "jp": "ちょっと疲れますよね",
+      "jp_html": "ちょっと<ruby>疲れ<rt>つかれ</rt></ruby>ますよね",
+      "zh": "稍微有点累吧？",
+      "en": "You must be a bit tired, right?"
+    },
+    {
+      "id": 22,
+      "start": 100.0,
+      "end": 101.92,
+      "ts": "01:40.000 -> 01:41.920",
+      "jp": "ちょっと疲れますよ",
+      "jp_html": "ちょっと<ruby>疲れ<rt>つかれ</rt></ruby>ますよ",
+      "zh": "稍微有点累哦",
+      "en": "I feel a bit tired."
+    },
+    {
+      "id": 23,
+      "start": 101.92,
+      "end": 104.56,
+      "ts": "01:41.920 -> 01:44.560",
+      "jp": "ちょっと疲れるでしょ",
+      "jp_html": "ちょっと<ruby>疲れ<rt>つかれ</rt></ruby>るでしょ",
+      "zh": "你有点累吧",
+      "en": "You must be a bit tired, right?"
+    },
+    {
+      "id": 24,
+      "start": 104.56,
+      "end": 108.49,
+      "ts": "01:44.560 -> 01:48.490",
+      "jp": "しかも雨が降っていたら",
+      "jp_html": "しかも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>ていたら",
+      "zh": "而且如果下雨了呢",
+      "en": "And moreover, if it was raining"
+    },
+    {
+      "id": 25,
+      "start": 108.49,
+      "end": 110.79,
+      "ts": "01:48.490 -> 01:50.790",
+      "jp": "傘をさして歩かないといけない",
+      "jp_html": "<ruby>傘<rt>かさ</rt></ruby>をさして<ruby>歩か<rt>あるか</rt></ruby>ないといけない",
+      "zh": "必须打着伞走",
+      "en": "I have to walk with an umbrella."
+    },
+    {
+      "id": 26,
+      "start": 110.79,
+      "end": 112.61,
+      "ts": "01:50.790 -> 01:52.610",
+      "jp": "めんどくさいんですよね",
+      "jp_html": "めんどくさいんですよね",
+      "zh": "真是麻烦呢",
+      "en": "It's bothersome, isn't it?"
+    },
+    {
+      "id": 27,
+      "start": 112.61,
+      "end": 114.19,
+      "ts": "01:52.610 -> 01:54.190",
+      "jp": "サボりたい",
+      "jp_html": "サボりたい",
+      "zh": "想偷懒",
+      "en": "I want to procrastinate"
+    },
+    {
+      "id": 28,
+      "start": 114.19,
+      "end": 116.83,
+      "ts": "01:54.190 -> 01:56.830",
+      "jp": "もう別に",
+      "jp_html": "もう<ruby>別に<rt>べつに</rt></ruby>",
+      "zh": "那也没关系",
+      "en": "Well, not really."
+    },
+    {
+      "id": 29,
+      "start": 116.83,
+      "end": 119.81,
+      "ts": "01:56.830 -> 01:59.810",
+      "jp": "ジムなんか行かなくてもいいや",
+      "jp_html": "ジムなんか<ruby>行か<rt>いか</rt></ruby>なくてもいいや",
+      "zh": "不去健身房也没关系",
+      "en": "I don't have to go to the gym either way."
+    },
+    {
+      "id": 30,
+      "start": 119.81,
+      "end": 122.49,
+      "ts": "01:59.810 -> 02:02.490",
+      "jp": "と思うんですが",
+      "jp_html": "と<ruby>思う<rt>おもう</rt></ruby>んですが",
+      "zh": "我想可能是这样吧",
+      "en": "I think but"
+    },
+    {
+      "id": 31,
+      "start": 122.49,
+      "end": 124.71,
+      "ts": "02:02.490 -> 02:04.710",
+      "jp": "今日はちょっと",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ちょっと",
+      "zh": "今天稍微",
+      "en": "Today a little"
+    },
+    {
+      "id": 32,
+      "start": 124.71,
+      "end": 127.15,
+      "ts": "02:04.710 -> 02:07.150",
+      "jp": "まあそうはいかない",
+      "jp_html": "まあそうはいかない",
+      "zh": "那可不行",
+      "en": "Well, that can't happen."
+    },
+    {
+      "id": 33,
+      "start": 127.15,
+      "end": 129.39,
+      "ts": "02:07.150 -> 02:09.390",
+      "jp": "そういうわけにはいきません",
+      "jp_html": "そういうわけにはいきません",
+      "zh": "这种情况不行",
+      "en": "That doesn't work that way."
+    },
+    {
+      "id": 34,
+      "start": 129.39,
+      "end": 130.87,
+      "ts": "02:09.390 -> 02:10.870",
+      "jp": "なぜかというと",
+      "jp_html": "なぜかというと",
+      "zh": "因为这样",
+      "en": "Because of some reason"
+    },
+    {
+      "id": 35,
+      "start": 130.87,
+      "end": 134.95,
+      "ts": "02:10.870 -> 02:14.950",
+      "jp": "今日は子供の空手のクラスがあります",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>子供<rt>こども</rt></ruby>の<ruby>空手<rt>からて</rt></ruby>のクラスがあります",
+      "zh": "今天有孩子的空手道课",
+      "en": "There is a children's karate class today"
+    },
+    {
+      "id": 36,
+      "start": 134.95,
+      "end": 136.45,
+      "ts": "02:14.950 -> 02:16.450",
+      "jp": "空手のクラス",
+      "jp_html": "<ruby>空手<rt>からて</rt></ruby>のクラス",
+      "zh": "空手的课程",
+      "en": "Karate classes"
+    },
+    {
+      "id": 37,
+      "start": 136.45,
+      "end": 142.87,
+      "ts": "02:16.450 -> 02:22.870",
+      "jp": "僕の子供は空手のクラスを受けているんですが",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>空手<rt>からて</rt></ruby>のクラスを<ruby>受け<rt>うけ</rt></ruby>ているんですが",
+      "zh": "我的孩子在上空手道课",
+      "en": "My child is attending karate classes."
+    },
+    {
+      "id": 38,
+      "start": 142.87,
+      "end": 146.99,
+      "ts": "02:22.870 -> 02:26.990",
+      "jp": "そのクラスは僕のジムの中であるんですね",
+      "jp_html": "そのクラスは<ruby>僕<rt>ぼく</rt></ruby>のジムの<ruby>中<rt>なか</rt></ruby>であるんですね",
+      "zh": "那个班级在我的健身房里啊",
+      "en": "That class is in my gym, right?"
+    },
+    {
+      "id": 39,
+      "start": 146.99,
+      "end": 153.07,
+      "ts": "02:26.990 -> 02:33.070",
+      "jp": "だから僕が行くジムと子供が行く空手クラスは",
+      "jp_html": "だから<ruby>僕<rt>ぼく</rt></ruby>が<ruby>行く<rt>いく</rt></ruby>ジムと<ruby>子供<rt>こども</rt></ruby>が<ruby>行く<rt>いく</rt></ruby><ruby>空手<rt>からて</rt></ruby>クラスは",
+      "zh": "所以我去的健身房和孩子去的空手道班级是",
+      "en": "So the gym I go to and the karate class my child attends are"
+    },
+    {
+      "id": 40,
+      "start": 153.07,
+      "end": 155.73,
+      "ts": "02:33.070 -> 02:35.730",
+      "jp": "同じ建物の中にあります",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>建物<rt>たてもの</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>あります",
+      "zh": "在同一建筑物内",
+      "en": "It is in the same building."
+    },
+    {
+      "id": 41,
+      "start": 155.73,
+      "end": 161.49,
+      "ts": "02:35.730 -> 02:41.490",
+      "jp": "そして子供が空手をやっている間",
+      "jp_html": "そして<ruby>子供<rt>こども</rt></ruby>が<ruby>空手<rt>からて</rt></ruby>をやっている<ruby>間<rt>かん</rt></ruby>",
+      "zh": "然后孩子们在练空手道的时候",
+      "en": "And while the child is doing karate"
+    },
+    {
+      "id": 42,
+      "start": 161.49,
+      "end": 164.43,
+      "ts": "02:41.490 -> 02:44.430",
+      "jp": "僕は運動するんですねジムで",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>するんですねジムで",
+      "zh": "我在健身房锻炼呢",
+      "en": "I exercise at the gym."
+    },
+    {
+      "id": 43,
+      "start": 164.43,
+      "end": 169.85,
+      "ts": "02:44.430 -> 02:49.850",
+      "jp": "だから僕はサボりたい",
+      "jp_html": "だから<ruby>僕は<rt>ぼくは</rt></ruby>サボりたい",
+      "zh": "所以我想要偷懒",
+      "en": "So I want to slack off."
+    },
+    {
+      "id": 44,
+      "start": 169.85,
+      "end": 172.71,
+      "ts": "02:49.850 -> 02:52.710",
+      "jp": "じゃあ子供一人で行ってらっしゃい",
+      "jp_html": "じゃあ<ruby>子供<rt>こども</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>で<ruby>行って<rt>いって</rt></ruby>らっしゃい",
+      "zh": "那你一个人去吧",
+      "en": "Go by yourself with just one child."
+    },
+    {
+      "id": 45,
+      "start": 172.71,
+      "end": 175.85,
+      "ts": "02:52.710 -> 02:55.850",
+      "jp": "ということはちょっとできない",
+      "jp_html": "ということはちょっとできない",
+      "zh": "那恐怕就做不到",
+      "en": "That means it's slightly impossible."
+    },
+    {
+      "id": 46,
+      "start": 175.85,
+      "end": 179.09,
+      "ts": "02:55.850 -> 02:59.090",
+      "jp": "できるけどできない",
+      "jp_html": "できるけどできない",
+      "zh": "能做但不能做",
+      "en": "Can do but cannot do"
+    },
+    {
+      "id": 47,
+      "start": 179.09,
+      "end": 182.21,
+      "ts": "02:59.090 -> 03:02.210",
+      "jp": "僕の子供はもう11歳だから",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>はもう11<ruby>歳<rt>とし</rt></ruby>だから",
+      "zh": "我的孩子已经11岁了",
+      "en": "My child is already 11 years old."
+    },
+    {
+      "id": 48,
+      "start": 182.21,
+      "end": 186.31,
+      "ts": "03:02.210 -> 03:06.310",
+      "jp": "一人で行ってらっしゃいと言いたいけど",
+      "jp_html": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>行って<rt>いって</rt></ruby>らっしゃいと<ruby>言い<rt>いい</rt></ruby>たいけど",
+      "zh": "我想说一个人去吧",
+      "en": "I want to say go on your own, but"
+    },
+    {
+      "id": 49,
+      "start": 188.37,
+      "end": 192.0,
+      "ts": "03:08.370 -> 03:12.000",
+      "jp": "一緒に行った方がいいでしょうね",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>行った<rt>いった</rt></ruby><ruby>方が<rt>ほうが</rt></ruby>いいでしょうね",
+      "zh": "一起去会比较好吧",
+      "en": "It would be better to go together, wouldn't it?"
+    },
+    {
+      "id": 50,
+      "start": 192.0,
+      "end": 196.44,
+      "ts": "03:12.000 -> 03:16.440",
+      "jp": "そして僕も運動した方がいいでしょうね",
+      "jp_html": "そして<ruby>僕<rt>ぼく</rt></ruby>も<ruby>運動<rt>うんどう</rt></ruby>した<ruby>方が<rt>ほうが</rt></ruby>いいでしょうね",
+      "zh": "所以我也应该多运动吧",
+      "en": "So I should probably get some exercise too."
+    },
+    {
+      "id": 51,
+      "start": 196.44,
+      "end": 199.64,
+      "ts": "03:16.440 -> 03:19.640",
+      "jp": "ジムに行った方がいいでしょうね",
+      "jp_html": "ジムに<ruby>行った<rt>いった</rt></ruby><ruby>方が<rt>ほうが</rt></ruby>いいでしょうね",
+      "zh": "去健身房比较好吧",
+      "en": "You should probably go to the gym."
+    },
+    {
+      "id": 52,
+      "start": 199.64,
+      "end": 204.18,
+      "ts": "03:19.640 -> 03:24.180",
+      "jp": "というわけでまたサボろうと思ったけど",
+      "jp_html": "というわけでまたサボろうと<ruby>思った<rt>おもった</rt></ruby>けど",
+      "zh": "结果我又想偷懒了",
+      "en": "So I thought about skipping it again but"
+    },
+    {
+      "id": 53,
+      "start": 204.18,
+      "end": 205.08,
+      "ts": "03:24.180 -> 03:25.080",
+      "jp": "サボりません",
+      "jp_html": "サボりません",
+      "zh": "不会偷懒",
+      "en": "I won't slack off."
+    },
+    {
+      "id": 54,
+      "start": 205.08,
+      "end": 206.38,
+      "ts": "03:25.080 -> 03:26.380",
+      "jp": "サボらない",
+      "jp_html": "サボらない",
+      "zh": "不偷懒",
+      "en": "Don't slack off"
+    },
+    {
+      "id": 55,
+      "start": 206.38,
+      "end": 209.34,
+      "ts": "03:26.380 -> 03:29.340",
+      "jp": "それでは俺は行ってくるぜ",
+      "jp_html": "それでは<ruby>俺<rt>おれ</rt></ruby>は<ruby>行って<rt>いって</rt></ruby>くるぜ",
+      "zh": "那么我先走了zeugenate",
+      "en": "I'll be going then."
+    },
+    {
+      "id": 56,
+      "start": 209.34,
+      "end": 210.92,
+      "ts": "03:29.340 -> 03:30.920",
+      "jp": "行きたくないけど",
+      "jp_html": "<ruby>行き<rt>いき</rt></ruby>たくないけど",
+      "zh": "不想去但是",
+      "en": "I don't want to go but"
+    },
+    {
+      "id": 57,
+      "start": 210.92,
+      "end": 212.78,
+      "ts": "03:30.920 -> 03:32.780",
+      "jp": "ジムに行ってきます",
+      "jp_html": "ジムに<ruby>行って<rt>いって</rt></ruby>きます",
+      "zh": "我去健身房了",
+      "en": "I'll go to the gym."
+    },
+    {
+      "id": 58,
+      "start": 212.78,
+      "end": 216.28,
+      "ts": "03:32.780 -> 03:36.280",
+      "jp": "皆さんも勉強したくなくても",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>も<ruby>勉強<rt>べんきょう</rt></ruby>したくなくても",
+      "zh": "即使大家不想学习也行",
+      "en": "Even if you don't want to study, everyone else might."
+    },
+    {
+      "id": 59,
+      "start": 216.28,
+      "end": 217.38,
+      "ts": "03:36.280 -> 03:37.380",
+      "jp": "勉強してください",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>してください",
+      "zh": "请学习",
+      "en": "Study please."
+    },
+    {
+      "id": 60,
+      "start": 217.38,
+      "end": 219.26,
+      "ts": "03:37.380 -> 03:39.260",
+      "jp": "サボらないでください",
+      "jp_html": "サボらないでください",
+      "zh": "请不要偷懒",
+      "en": "Please don't slack off."
+    },
+    {
+      "id": 61,
+      "start": 219.26,
+      "end": 221.38,
+      "ts": "03:39.260 -> 03:41.380",
+      "jp": "サボってもいいけど",
+      "jp_html": "サボってもいいけど",
+      "zh": "可以偷懒也行",
+      "en": "I can skip it too."
+    },
+    {
+      "id": 62,
+      "start": 221.38,
+      "end": 223.24,
+      "ts": "03:41.380 -> 03:43.240",
+      "jp": "サボらないでください",
+      "jp_html": "サボらないでください",
+      "zh": "请不要偷懒",
+      "en": "Please don't slack off."
+    },
+    {
+      "id": 63,
+      "start": 223.24,
+      "end": 226.16,
+      "ts": "03:43.240 -> 03:46.160",
+      "jp": "サボってもいいですよ別に",
+      "jp_html": "サボってもいいですよ<ruby>別に<rt>べつに</rt></ruby>",
+      "zh": "可以偷懒也没关系",
+      "en": "It's okay to slack off. Honestly."
+    },
+    {
+      "id": 64,
+      "start": 226.16,
+      "end": 227.54,
+      "ts": "03:46.160 -> 03:47.540",
+      "jp": "サボってもいいですよ",
+      "jp_html": "サボってもいいですよ",
+      "zh": "可以偷懒也行",
+      "en": "It's okay to slack off."
+    },
+    {
+      "id": 65,
+      "start": 227.54,
+      "end": 228.8,
+      "ts": "03:47.540 -> 03:48.800",
+      "jp": "だけど頑張れ",
+      "jp_html": "だけど<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "但是要坚持下去",
+      "en": "But you can do it."
+    },
+    {
+      "id": 66,
+      "start": 228.8,
+      "end": 230.62,
+      "ts": "03:48.800 -> 03:50.620",
+      "jp": "だけど頑張れ",
+      "jp_html": "だけど<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "但是要加油",
+      "en": "But you can do it."
+    },
+    {
+      "id": 67,
+      "start": 230.62,
+      "end": 232.72,
+      "ts": "03:50.620 -> 03:52.720",
+      "jp": "というわけで元に",
+      "jp_html": "というわけで<ruby>元に<rt>もとに</rt></ruby>",
+      "zh": "因此归根结底是",
+      "en": "Therefore, back to the original"
+    }
+  ]
+}
