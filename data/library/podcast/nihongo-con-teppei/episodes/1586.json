@@ -1,0 +1,1914 @@
+{
+  "id": "1586",
+  "title": "#1586「スーパーで使う日本語について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1586.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1586.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/21/1586%e3%80%8c%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%81%a7%e4%bd%bf%e3%81%86%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.33,
+      "end": 2.83,
+      "ts": "00:01.330 -> 00:02.830",
+      "jp": "借金!",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>!",
+      "zh": "借钱！",
+      "en": "Debt!"
+    },
+    {
+      "id": 1,
+      "start": 4.21,
+      "end": 9.65,
+      "ts": "00:04.210 -> 00:09.650",
+      "jp": "今日はスーパーで使う日本語について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>スーパーで<ruby>使う<rt>つかう</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>について",
+      "zh": "今天在超市使用的日语关于",
+      "en": "Today's Japanese for using at the supermarket"
+    },
+    {
+      "id": 2,
+      "start": 9.65,
+      "end": 12.29,
+      "ts": "00:09.650 -> 00:12.290",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 12.29,
+      "end": 14.97,
+      "ts": "00:12.290 -> 00:14.970",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语播音的时间吧",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 14.97,
+      "end": 20.19,
+      "ts": "00:14.970 -> 00:20.190",
+      "jp": "日本語の勉強をしましょうね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をしましょうね",
+      "zh": "让我们来学习日语吧",
+      "en": "Let's study Japanese shall we?"
+    },
+    {
+      "id": 5,
+      "start": 20.19,
+      "end": 23.31,
+      "ts": "00:20.190 -> 00:23.310",
+      "jp": "たまに僕は忘れてますけど",
+      "jp_html": "たまに<ruby>僕は<rt>ぼくは</rt></ruby><ruby>忘れ<rt>わすれ</rt></ruby>てますけど",
+      "zh": "有时候我会忘了",
+      "en": "Sometimes I forget that."
+    },
+    {
+      "id": 6,
+      "start": 23.31,
+      "end": 29.59,
+      "ts": "00:23.310 -> 00:29.590",
+      "jp": "これは日本語学習者のための日本語ポッドキャストなので",
+      "jp_html": "これは<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>習<rt>しゅう</rt></ruby><ruby>者<rt>もの</rt></ruby>のための<ruby>日本語<rt>にほんご</rt></ruby>ポッドキャストなので",
+      "zh": "这是为了日语学习者们的日语播客所以",
+      "en": "This is a Japanese podcast for Japanese language learners."
+    },
+    {
+      "id": 7,
+      "start": 29.59,
+      "end": 39.09,
+      "ts": "00:29.590 -> 00:39.090",
+      "jp": "たまには、たまにはというかいつも日本語の話をした方がいいんですね。",
+      "jp_html": "たまには、たまにはというかいつも<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をした<ruby>方が<rt>ほうが</rt></ruby>いいんですね。",
+      "zh": "有时候，时不时地说说日语也是挺好的。",
+      "en": "Sometimes, actually, it's better to talk in Japanese all the time."
+    },
+    {
+      "id": 8,
+      "start": 39.47,
+      "end": 39.79,
+      "ts": "00:39.470 -> 00:39.790",
+      "jp": "多分。",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>。",
+      "zh": "大概。",
+      "en": "Probably."
+    },
+    {
+      "id": 9,
+      "start": 40.99,
+      "end": 51.49,
+      "ts": "00:40.990 -> 00:51.490",
+      "jp": "というわけで、日本の生活シリーズ、旅行とか生活とか、",
+      "jp_html": "というわけで、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>シリーズ、<ruby>旅行<rt>りょこう</rt></ruby>とか<ruby>生活<rt>せいかつ</rt></ruby>とか、",
+      "zh": "因此，日本的生活系列，旅行或者生活相关的内容，",
+      "en": "Therefore, this series on life in Japan covers travel and daily life topics."
+    },
+    {
+      "id": 10,
+      "start": 51.49,
+      "end": 56.73,
+      "ts": "00:51.490 -> 00:56.730",
+      "jp": "日本の中で使える日本語",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>る<ruby>日本語<rt>にほんご</rt></ruby>",
+      "zh": "在日本可用的日语",
+      "en": "Japanese that can be used in Japan"
+    },
+    {
+      "id": 11,
+      "start": 56.73,
+      "end": 61.25,
+      "ts": "00:56.730 -> 01:01.250",
+      "jp": "こういうのをやっぱり皆さんは勉強したいんでしょう",
+      "jp_html": "こういうのをやっぱり<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>勉強<rt>べんきょう</rt></ruby>したいんでしょう",
+      "zh": "你们果然想学习这种东西吧",
+      "en": "I guess you all really want to study something like this, right?"
+    },
+    {
+      "id": 12,
+      "start": 61.25,
+      "end": 61.93,
+      "ts": "01:01.250 -> 01:01.930",
+      "jp": "多分",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>",
+      "zh": "大概",
+      "en": "Probably"
+    },
+    {
+      "id": 13,
+      "start": 61.93,
+      "end": 66.77,
+      "ts": "01:01.930 -> 01:06.770",
+      "jp": "というわけでいろいろ考えてみました",
+      "jp_html": "というわけでいろいろ<ruby>考え<rt>かんがえ</rt></ruby>てみました",
+      "zh": "于是考虑了很多事情",
+      "en": "So I thought of various things in the end."
+    },
+    {
+      "id": 14,
+      "start": 66.77,
+      "end": 69.17,
+      "ts": "01:06.770 -> 01:09.170",
+      "jp": "まずはスーパー",
+      "jp_html": "まずはスーパー",
+      "zh": "首先是超市",
+      "en": "First is the supermarket."
+    },
+    {
+      "id": 15,
+      "start": 69.17,
+      "end": 70.77,
+      "ts": "01:09.170 -> 01:10.770",
+      "jp": "スーパーマーケット",
+      "jp_html": "スーパーマーケット",
+      "zh": "超市",
+      "en": "Supermarket"
+    },
+    {
+      "id": 16,
+      "start": 70.77,
+      "end": 73.47,
+      "ts": "01:10.770 -> 01:13.470",
+      "jp": "スーパーマーケットで",
+      "jp_html": "スーパーマーケットで",
+      "zh": "在超市里",
+      "en": "At the supermarket"
+    },
+    {
+      "id": 17,
+      "start": 73.47,
+      "end": 77.53,
+      "ts": "01:13.470 -> 01:17.530",
+      "jp": "僕がスーパーに行って",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がスーパーに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "我去超市去买东西",
+      "en": "I went to the supermarket."
+    },
+    {
+      "id": 18,
+      "start": 77.53,
+      "end": 81.17,
+      "ts": "01:17.530 -> 01:21.170",
+      "jp": "使う日本語はゼロです",
+      "jp_html": "<ruby>使う<rt>つかう</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>はゼロです",
+      "zh": "使用的的日语是零。",
+      "en": "The Japanese used is zero."
+    },
+    {
+      "id": 19,
+      "start": 81.17,
+      "end": 83.33,
+      "ts": "01:21.170 -> 01:23.330",
+      "jp": "ありません",
+      "jp_html": "ありません",
+      "zh": "没有",
+      "en": "There is none."
+    },
+    {
+      "id": 20,
+      "start": 83.33,
+      "end": 85.75,
+      "ts": "01:23.330 -> 01:25.750",
+      "jp": "声を出しません",
+      "jp_html": "<ruby>声<rt>こえ</rt></ruby>を<ruby>出し<rt>だし</rt></ruby>ません",
+      "zh": "不出声",
+      "en": "I won't make a sound."
+    },
+    {
+      "id": 21,
+      "start": 85.75,
+      "end": 89.05,
+      "ts": "01:25.750 -> 01:29.050",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 22,
+      "start": 89.05,
+      "end": 90.43,
+      "ts": "01:29.050 -> 01:30.430",
+      "jp": "今日は終わり",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>終わり<rt>おわり</rt></ruby>",
+      "zh": "今天结束了",
+      "en": "Today ends"
+    },
+    {
+      "id": 23,
+      "start": 90.43,
+      "end": 91.59,
+      "ts": "01:30.430 -> 01:31.590",
+      "jp": "じゃなくて",
+      "jp_html": "じゃなくて",
+      "zh": "不是",
+      "en": "Not instead"
+    },
+    {
+      "id": 24,
+      "start": 91.59,
+      "end": 93.33,
+      "ts": "01:31.590 -> 01:33.330",
+      "jp": "説明すると",
+      "jp_html": "<ruby>説明す<rt>せつめいす</rt></ruby>ると",
+      "zh": "解释一下",
+      "en": "To explain,"
+    },
+    {
+      "id": 25,
+      "start": 93.33,
+      "end": 95.65,
+      "ts": "01:33.330 -> 01:35.650",
+      "jp": "日本でね",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>でね",
+      "zh": "在日本呢",
+      "en": "In Japan,"
+    },
+    {
+      "id": 26,
+      "start": 95.65,
+      "end": 96.89,
+      "ts": "01:35.650 -> 01:36.890",
+      "jp": "スーパーに行って",
+      "jp_html": "スーパーに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "去超市",
+      "en": "Go to the supermarket."
+    },
+    {
+      "id": 27,
+      "start": 96.89,
+      "end": 98.77,
+      "ts": "01:36.890 -> 01:38.770",
+      "jp": "コンビニでもいいですけど",
+      "jp_html": "コンビニでもいいですけど",
+      "zh": "在便利店也可以",
+      "en": "It's okay if it's from a convenience store too."
+    },
+    {
+      "id": 28,
+      "start": 98.77,
+      "end": 103.17,
+      "ts": "01:38.770 -> 01:43.170",
+      "jp": "普通は何も言わないですよね",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>ないですよね",
+      "zh": "普通人不会说什么呢？",
+      "en": "Don't they usually say nothing?"
+    },
+    {
+      "id": 29,
+      "start": 103.17,
+      "end": 106.05,
+      "ts": "01:43.170 -> 01:46.050",
+      "jp": "それは多分日本だけじゃなくて",
+      "jp_html": "それは<ruby>多分<rt>たぶん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>だけじゃなくて",
+      "zh": "那恐怕不只是日本 saja",
+      "en": "That's probably not just Japan"
+    },
+    {
+      "id": 30,
+      "start": 106.05,
+      "end": 107.57,
+      "ts": "01:46.050 -> 01:47.570",
+      "jp": "たくさんの国で",
+      "jp_html": "たくさんの<ruby>国<rt>くに</rt></ruby>で",
+      "zh": "在很多国家里",
+      "en": "In many countries"
+    },
+    {
+      "id": 31,
+      "start": 107.57,
+      "end": 108.79,
+      "ts": "01:47.570 -> 01:48.790",
+      "jp": "スーパーで",
+      "jp_html": "スーパーで",
+      "zh": "超市里",
+      "en": "At the supermarket"
+    },
+    {
+      "id": 32,
+      "start": 108.79,
+      "end": 111.15,
+      "ts": "01:48.790 -> 01:51.150",
+      "jp": "話をしますか",
+      "jp_html": "<ruby>話<rt>はなし</rt></ruby>をしますか",
+      "zh": "我们来说话吧",
+      "en": "Do you want to talk?"
+    },
+    {
+      "id": 33,
+      "start": 111.15,
+      "end": 114.19,
+      "ts": "01:51.150 -> 01:54.190",
+      "jp": "店員さんと話しますか",
+      "jp_html": "<ruby>店員<rt>てんいん</rt></ruby>さんと<ruby>話し<rt>はなし</rt></ruby>ますか",
+      "zh": "您要和店员说话吗？",
+      "en": "Do you want to talk to the clerk?"
+    },
+    {
+      "id": 34,
+      "start": 114.19,
+      "end": 117.35,
+      "ts": "01:54.190 -> 01:57.350",
+      "jp": "すいませんヨーグルトはどこですかとか",
+      "jp_html": "すいませんヨーグルトはどこですかとか",
+      "zh": "不好意思酸奶在哪里",
+      "en": "Excuse me, where is the yogurt?"
+    },
+    {
+      "id": 35,
+      "start": 117.35,
+      "end": 119.13,
+      "ts": "01:57.350 -> 01:59.130",
+      "jp": "言わないですよね",
+      "jp_html": "<ruby>言わ<rt>いわ</rt></ruby>ないですよね",
+      "zh": "不会说吧",
+      "en": "Won't you say it?"
+    },
+    {
+      "id": 36,
+      "start": 119.13,
+      "end": 121.13,
+      "ts": "01:59.130 -> 02:01.130",
+      "jp": "聞きますか",
+      "jp_html": "<ruby>聞き<rt>きき</rt></ruby>ますか",
+      "zh": "你能听见吗？",
+      "en": "Are you listening?"
+    },
+    {
+      "id": 37,
+      "start": 121.13,
+      "end": 124.49,
+      "ts": "02:01.130 -> 02:04.490",
+      "jp": "たまにねおばあさんとかが",
+      "jp_html": "たまにねおばあさんとかが",
+      "zh": "有时候呢奶奶或者爷爷会",
+      "en": "Sometimes grandma or grandpa will"
+    },
+    {
+      "id": 38,
+      "start": 124.49,
+      "end": 128.11,
+      "ts": "02:04.490 -> 02:08.110",
+      "jp": "すいません納豆はどこですかとか",
+      "jp_html": "すいません<ruby>納豆<rt>なっとう</rt></ruby>はどこですかとか",
+      "zh": "不好意思，纳豆在哪里？",
+      "en": "Excuse me, where is the miso?"
+    },
+    {
+      "id": 39,
+      "start": 128.11,
+      "end": 130.23,
+      "ts": "02:08.110 -> 02:10.230",
+      "jp": "あるかもしれないけど",
+      "jp_html": "あるかもしれないけど",
+      "zh": "可能但不确定",
+      "en": "There might be one."
+    },
+    {
+      "id": 40,
+      "start": 130.23,
+      "end": 132.79,
+      "ts": "02:10.230 -> 02:12.790",
+      "jp": "普通は自分で探しますよね",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>で<ruby>探し<rt>さがし</rt></ruby>ますよね",
+      "zh": "普通人通常自己去找吧",
+      "en": "Usually you search for it yourself, right?"
+    },
+    {
+      "id": 41,
+      "start": 132.79,
+      "end": 137.05,
+      "ts": "02:12.790 -> 02:17.050",
+      "jp": "そしてそんなに難しくないんですよね",
+      "jp_html": "そしてそんなに<ruby>難しく<rt>むずかしく</rt></ruby>ないんですよね",
+      "zh": "而其实并不难呢",
+      "en": "And it's not that difficult, right?"
+    },
+    {
+      "id": 42,
+      "start": 137.05,
+      "end": 141.33,
+      "ts": "02:17.050 -> 02:21.330",
+      "jp": "なのであんまり心配しなくていいと思います",
+      "jp_html": "なのであんまり<ruby>心配<rt>しんぱい</rt></ruby>しなくていいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "所以我认为你不用太担心。",
+      "en": "So I think you don't need to worry too much."
+    },
+    {
+      "id": 43,
+      "start": 141.33,
+      "end": 145.95,
+      "ts": "02:21.330 -> 02:25.950",
+      "jp": "日本に住んでいる外国人の人で",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>人<rt>にん</rt></ruby>で",
+      "zh": "在日本的外国人的人员中",
+      "en": "Among foreigners living in Japan"
+    },
+    {
+      "id": 44,
+      "start": 145.95,
+      "end": 149.53,
+      "ts": "02:25.950 -> 02:29.530",
+      "jp": "日本語が全然話せない全然読めない",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>話せ<rt>はなせ</rt></ruby>ない<ruby>全然読め<rt>ぜんぜんよめ</rt></ruby>ない",
+      "zh": "完全不会说日语，完全不懂读日语",
+      "en": "I can't speak Japanese at all and I can't read it either."
+    },
+    {
+      "id": 45,
+      "start": 149.53,
+      "end": 152.25,
+      "ts": "02:29.530 -> 02:32.250",
+      "jp": "全然わからない人でも",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>わからない<ruby>人<rt>にん</rt></ruby>でも",
+      "zh": "完全不懂的人也",
+      "en": "Someone who doesn't understand at all"
+    },
+    {
+      "id": 46,
+      "start": 152.25,
+      "end": 157.57,
+      "ts": "02:32.250 -> 02:37.570",
+      "jp": "スーパーに行って買い物をするのはそんなに難しくありません",
+      "jp_html": "スーパーに<ruby>行って<rt>いって</rt></ruby><ruby>買い物<rt>かいもの</rt></ruby>をするのはそんなに<ruby>難しく<rt>むずかしく</rt></ruby>ありません",
+      "zh": "去超市购物并不难",
+      "en": "Going shopping at the supermarket isn't that difficult."
+    },
+    {
+      "id": 47,
+      "start": 157.57,
+      "end": 161.8,
+      "ts": "02:37.570 -> 02:41.800",
+      "jp": "ただですね",
+      "jp_html": "ただですね",
+      "zh": "只是呢",
+      "en": "Just well"
+    },
+    {
+      "id": 48,
+      "start": 161.8,
+      "end": 167.28,
+      "ts": "02:41.800 -> 02:47.280",
+      "jp": "いろいろ気をつけなきゃいけないことはあります",
+      "jp_html": "いろいろ<ruby>気を<rt>きを</rt></ruby>つけなきゃいけないことはあります",
+      "zh": "需要注意的事情很多",
+      "en": "There are things I need to be careful about."
+    },
+    {
+      "id": 49,
+      "start": 167.28,
+      "end": 168.06,
+      "ts": "02:47.280 -> 02:48.060",
+      "jp": "もちろんね",
+      "jp_html": "もちろんね",
+      "zh": "当然啦",
+      "en": "Of course!"
+    },
+    {
+      "id": 50,
+      "start": 168.06,
+      "end": 176.52,
+      "ts": "02:48.060 -> 02:56.520",
+      "jp": "例えばいろいろな理由で",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>いろいろな<ruby>理由<rt>りゆう</rt></ruby>で",
+      "zh": "例如各种原因",
+      "en": "For various reasons"
+    },
+    {
+      "id": 51,
+      "start": 176.52,
+      "end": 183.2,
+      "ts": "02:56.520 -> 03:03.200",
+      "jp": "宗教的な理由で肉が食べられないとかね",
+      "jp_html": "<ruby>宗教的<rt>しゅうきょうてき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>で<ruby>肉<rt>にく</rt></ruby>が<ruby>食べ<rt>たべ</rt></ruby>られないとかね",
+      "zh": "因为宗教原因不吃肉",
+      "en": "I don't eat meat for religious reasons, you know."
+    },
+    {
+      "id": 52,
+      "start": 183.2,
+      "end": 187.0,
+      "ts": "03:03.200 -> 03:07.000",
+      "jp": "牛肉が食べられない豚肉が食べられない",
+      "jp_html": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>が<ruby>食べ<rt>たべ</rt></ruby>られない<ruby>豚肉<rt>ぶたにく</rt></ruby>が<ruby>食べ<rt>たべ</rt></ruby>られない",
+      "zh": "不吃牛肉也不吃猪肉",
+      "en": "I can't eat beef or pork."
+    },
+    {
+      "id": 53,
+      "start": 187.0,
+      "end": 190.04,
+      "ts": "03:07.000 -> 03:10.040",
+      "jp": "鶏肉が食べられないいろいろあるかもしれない",
+      "jp_html": "<ruby>鶏肉<rt>とりにく</rt></ruby>が<ruby>食べ<rt>たべ</rt></ruby>られないいろいろあるかもしれない",
+      "zh": "可能有很多理由不吃鸡肉",
+      "en": "There might be various reasons why someone can't eat chicken."
+    },
+    {
+      "id": 54,
+      "start": 190.04,
+      "end": 193.52,
+      "ts": "03:10.040 -> 03:13.520",
+      "jp": "そしてアレルギーとかね",
+      "jp_html": "そしてアレルギーとかね",
+      "zh": "然后是过敏之类的东西",
+      "en": "And allergies too."
+    },
+    {
+      "id": 55,
+      "start": 193.52,
+      "end": 195.28,
+      "ts": "03:13.520 -> 03:15.280",
+      "jp": "アレルギーがあるときには",
+      "jp_html": "アレルギーがあるときには",
+      "zh": "当过敏时",
+      "en": "When there is an allergy"
+    },
+    {
+      "id": 56,
+      "start": 195.28,
+      "end": 198.98,
+      "ts": "03:15.280 -> 03:18.980",
+      "jp": "例えばピーナッツが食べられないとかね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ピーナッツが<ruby>食べ<rt>たべ</rt></ruby>られないとかね",
+      "zh": "比如对花生过敏之类的",
+      "en": "For example, not being able to eat peanuts."
+    },
+    {
+      "id": 57,
+      "start": 198.98,
+      "end": 205.14,
+      "ts": "03:18.980 -> 03:25.140",
+      "jp": "そういう時にやっぱり字が読めた方がいいですよね",
+      "jp_html": "そういう<ruby>時に<rt>ときに</rt></ruby>やっぱり<ruby>字が<rt>じが</rt></ruby><ruby>読め<rt>よめ</rt></ruby>た<ruby>方が<rt>ほうが</rt></ruby>いいですよね",
+      "zh": "在这种时候，能读出字来当然更好吧？",
+      "en": "It's better to be able to read the writing in those situations, isn't it?"
+    },
+    {
+      "id": 58,
+      "start": 205.14,
+      "end": 210.76,
+      "ts": "03:25.140 -> 03:30.760",
+      "jp": "パッケージの後ろを見てピーナッツが入ってる危ないとかね",
+      "jp_html": "パッケージの<ruby>後ろ<rt>うしろ</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>ピーナッツが<ruby>入っ<rt>いっっ</rt></ruby>てる<ruby>危ない<rt>あぶない</rt></ruby>とかね",
+      "zh": "看看包装后面，花生里面有危险什么的",
+      "en": "Check the back of the package to see if it says there are peanuts and it's dangerous."
+    },
+    {
+      "id": 59,
+      "start": 210.76,
+      "end": 213.14,
+      "ts": "03:30.760 -> 03:33.140",
+      "jp": "そういうことは大事なので",
+      "jp_html": "そういうことは<ruby>大事<rt>だいじ</rt></ruby>なので",
+      "zh": "这种事情很重要所以",
+      "en": "Such things are important so"
+    },
+    {
+      "id": 60,
+      "start": 213.14,
+      "end": 220.52,
+      "ts": "03:33.140 -> 03:40.520",
+      "jp": "ちょっと読む練習をした方がいいかもしれません",
+      "jp_html": "ちょっと<ruby>読む<rt>よむ</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>をした<ruby>方が<rt>ほうが</rt></ruby>いいかもしれません",
+      "zh": "稍微练习一下阅读也许会比较好",
+      "en": "It might be good to practice reading a little bit."
+    },
+    {
+      "id": 61,
+      "start": 220.52,
+      "end": 224.06,
+      "ts": "03:40.520 -> 03:44.060",
+      "jp": "でも最近はなんかいろいろなアプリとかあるんですよね",
+      "jp_html": "でも<ruby>最近<rt>さいきん</rt></ruby>はなんかいろいろなアプリとかあるんですよね",
+      "zh": "但是现在好像有很多各种各样的应用程序呢",
+      "en": "But lately, there seem to be all sorts of apps nowadays."
+    },
+    {
+      "id": 62,
+      "start": 225.28,
+      "end": 226.7,
+      "ts": "03:45.280 -> 03:46.700",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 63,
+      "start": 226.7,
+      "end": 230.22,
+      "ts": "03:46.700 -> 03:50.220",
+      "jp": "でえっとまあ",
+      "jp_html": "でえっとまあ",
+      "zh": "嗯嗯，总之",
+      "en": "Well, umm, basically"
+    },
+    {
+      "id": 64,
+      "start": 230.22,
+      "end": 233.88,
+      "ts": "03:50.220 -> 03:53.880",
+      "jp": "普通はまあ会話をすることはありません",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>はまあ<ruby>会話<rt>かいわ</rt></ruby>をすることはありません",
+      "zh": "普通人通常也不会交谈",
+      "en": "Usually, we don't have much conversation."
+    },
+    {
+      "id": 65,
+      "start": 233.88,
+      "end": 236.1,
+      "ts": "03:53.880 -> 03:56.100",
+      "jp": "店に入ったら",
+      "jp_html": "<ruby>店<rt>みせ</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>たら",
+      "zh": "进到店里后",
+      "en": "When I entered the store"
+    },
+    {
+      "id": 66,
+      "start": 236.1,
+      "end": 239.56,
+      "ts": "03:56.100 -> 03:59.560",
+      "jp": "まあいらっしゃいませとか言われるかもしれないし",
+      "jp_html": "まあいらっしゃいませとか<ruby>言わ<rt>いわ</rt></ruby>れるかもしれないし",
+      "zh": "可能会有人说欢迎光临吧",
+      "en": "I might be greeted with something like \"Welcome!\""
+    },
+    {
+      "id": 67,
+      "start": 239.56,
+      "end": 241.46,
+      "ts": "03:59.560 -> 04:01.460",
+      "jp": "まあ何も言われないかもしれない",
+      "jp_html": "まあ<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>れないかもしれない",
+      "zh": "也许什么都不会说",
+      "en": "Maybe nothing will be said about it."
+    },
+    {
+      "id": 68,
+      "start": 241.46,
+      "end": 244.84,
+      "ts": "04:01.460 -> 04:04.840",
+      "jp": "スーパーに入ったらカゴを取って",
+      "jp_html": "スーパーに<ruby>入っ<rt>いっっ</rt></ruby>たらカゴを<ruby>取っ<rt>とっ</rt></ruby>て",
+      "zh": "进了超市就拿个购物车吧",
+      "en": "When you enter the supermarket, get a cart."
+    },
+    {
+      "id": 69,
+      "start": 244.84,
+      "end": 247.32,
+      "ts": "04:04.840 -> 04:07.320",
+      "jp": "まあ歩きますよね",
+      "jp_html": "まあ<ruby>歩き<rt>あるき</rt></ruby>ますよね",
+      "zh": "毕竟还是要走路吧",
+      "en": "Well, you do have to walk, don't you?"
+    },
+    {
+      "id": 70,
+      "start": 247.32,
+      "end": 249.48,
+      "ts": "04:07.320 -> 04:09.480",
+      "jp": "普通は最初",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>",
+      "zh": "普通人通常一开始",
+      "en": "Usually at first"
+    },
+    {
+      "id": 71,
+      "start": 249.48,
+      "end": 253.64,
+      "ts": "04:09.480 -> 04:13.640",
+      "jp": "果物野菜そういうのがあるかな",
+      "jp_html": "<ruby>果物<rt>くだもの</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>そういうのがあるかな",
+      "zh": "水果蔬菜应该有吧？",
+      "en": "Are there any fruits and vegetables like that?"
+    },
+    {
+      "id": 72,
+      "start": 253.64,
+      "end": 258.48,
+      "ts": "04:13.640 -> 04:18.480",
+      "jp": "僕はいつもバナナをとって",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>いつもバナナをとって",
+      "zh": "我总是拿香蕉",
+      "en": "I always take the banana."
+    },
+    {
+      "id": 73,
+      "start": 258.48,
+      "end": 261.4,
+      "ts": "04:18.480 -> 04:21.400",
+      "jp": "リンゴをとって",
+      "jp_html": "リンゴをとって",
+      "zh": "拿苹果",
+      "en": "Take the apple."
+    },
+    {
+      "id": 74,
+      "start": 261.4,
+      "end": 264.0,
+      "ts": "04:21.400 -> 04:24.000",
+      "jp": "もう少し行って",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>行って<rt>いって</rt></ruby>",
+      "zh": "再走一点",
+      "en": "Go a little further."
+    },
+    {
+      "id": 75,
+      "start": 264.0,
+      "end": 269.82,
+      "ts": "04:24.000 -> 04:29.820",
+      "jp": "野菜は玉ねぎとか人参とか",
+      "jp_html": "<ruby>野菜<rt>やさい</rt></ruby>は<ruby>玉<rt>たま</rt></ruby>ねぎとか<ruby>人参<rt>にんじん</rt></ruby>とか",
+      "zh": "蔬菜有洋葱和胡萝卜等",
+      "en": "Vegetables are onions and carrots."
+    },
+    {
+      "id": 76,
+      "start": 269.82,
+      "end": 271.02,
+      "ts": "04:29.820 -> 04:31.020",
+      "jp": "そういうのをとって",
+      "jp_html": "そういうのをとって",
+      "zh": "把那种东西拿走",
+      "en": "Take that kind of thing"
+    },
+    {
+      "id": 77,
+      "start": 271.02,
+      "end": 272.4,
+      "ts": "04:31.020 -> 04:32.400",
+      "jp": "キャベツとか",
+      "jp_html": "キャベツとか",
+      "zh": "白菜之类的",
+      "en": "Cabbage and so on."
+    },
+    {
+      "id": 78,
+      "start": 272.4,
+      "end": 275.08,
+      "ts": "04:32.400 -> 04:35.080",
+      "jp": "もう少し進んで",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>進ん<rt>すすん</rt></ruby>で",
+      "zh": "再往前走一点",
+      "en": "Go a little further."
+    },
+    {
+      "id": 79,
+      "start": 275.08,
+      "end": 278.5,
+      "ts": "04:35.080 -> 04:38.500",
+      "jp": "魚があれば魚を買って",
+      "jp_html": "<ruby>魚<rt>さかな</rt></ruby>があれば<ruby>魚<rt>さかな</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て",
+      "zh": "有鱼就买鱼",
+      "en": "If there's fish, buy fish."
+    },
+    {
+      "id": 80,
+      "start": 278.5,
+      "end": 280.22,
+      "ts": "04:38.500 -> 04:40.220",
+      "jp": "肉にしようかな",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>にしようかな",
+      "zh": "想吃肉吗？",
+      "en": "Let's have some meat."
+    },
+    {
+      "id": 81,
+      "start": 280.22,
+      "end": 281.78,
+      "ts": "04:40.220 -> 04:41.780",
+      "jp": "肉を買って",
+      "jp_html": "<ruby>肉<rt>にく</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て",
+      "zh": "买肉",
+      "en": "Buy meat"
+    },
+    {
+      "id": 82,
+      "start": 281.78,
+      "end": 286.5,
+      "ts": "04:41.780 -> 04:46.500",
+      "jp": "もう少し進んで納豆を買うかな",
+      "jp_html": "もう<ruby>少し<rt>すこし</rt></ruby><ruby>進ん<rt>すすん</rt></ruby>で<ruby>納豆<rt>なっとう</rt></ruby>を<ruby>買う<rt>かう</rt></ruby>かな",
+      "zh": "再往前走买些纳豆吧",
+      "en": "Maybe I'll go buy miso a little further on."
+    },
+    {
+      "id": 83,
+      "start": 286.5,
+      "end": 292.88,
+      "ts": "04:46.500 -> 04:52.880",
+      "jp": "そして牛乳を取って卵も1つ買おうかな",
+      "jp_html": "そして<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>て<ruby>卵<rt>たまご</rt></ruby>も1つ<ruby>買お<rt>かお</rt></ruby>うかな",
+      "zh": "然后拿牛奶，顺便买一个鸡蛋怎么样",
+      "en": "And I'll get some milk and maybe buy an egg too."
+    },
+    {
+      "id": 84,
+      "start": 292.88,
+      "end": 295.8,
+      "ts": "04:52.880 -> 04:55.800",
+      "jp": "1つというか10個ね10個買おうかな",
+      "jp_html": "1つというか10<ruby>個<rt>こ</rt></ruby>ね10<ruby>個<rt>こ</rt></ruby><ruby>買お<rt>かお</rt></ruby>うかな",
+      "zh": "买一个吧，还是买十个呢",
+      "en": "I'll buy 10, not just one."
+    },
+    {
+      "id": 85,
+      "start": 295.8,
+      "end": 299.88,
+      "ts": "04:55.800 -> 04:59.880",
+      "jp": "ちょっとヨーグルトを取って",
+      "jp_html": "ちょっとヨーグルトを<ruby>取っ<rt>とっ</rt></ruby>て",
+      "zh": "拿点酸奶过来",
+      "en": "Can you get me some yogurt?"
+    },
+    {
+      "id": 86,
+      "start": 299.88,
+      "end": 304.62,
+      "ts": "04:59.880 -> 05:04.620",
+      "jp": "そんな感じかな",
+      "jp_html": "そんな<ruby>感じ<rt>かんじ</rt></ruby>かな",
+      "zh": "大概就是那种感觉吧",
+      "en": "It feels like that, huh?"
+    },
+    {
+      "id": 87,
+      "start": 304.62,
+      "end": 306.96,
+      "ts": "05:04.620 -> 05:06.960",
+      "jp": "そんな感じですかね",
+      "jp_html": "そんな<ruby>感じ<rt>かんじ</rt></ruby>ですかね",
+      "zh": "感觉是这样的吧？",
+      "en": "Is that how it feels, right?"
+    },
+    {
+      "id": 88,
+      "start": 306.96,
+      "end": 309.96,
+      "ts": "05:06.960 -> 05:09.960",
+      "jp": "そしたらレジに行きますね",
+      "jp_html": "そしたらレジに<ruby>行き<rt>いき</rt></ruby>ますね",
+      "zh": "然后去收银台吧",
+      "en": "Then I'll go to the checkout."
+    },
+    {
+      "id": 89,
+      "start": 309.96,
+      "end": 312.96,
+      "ts": "05:09.960 -> 05:12.960",
+      "jp": "最近はセルフレジ",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>はセルフレジ",
+      "zh": "最近自助结账越来越多",
+      "en": "Recently, self-checkout has become more common."
+    },
+    {
+      "id": 90,
+      "start": 312.96,
+      "end": 316.6,
+      "ts": "05:12.960 -> 05:16.600",
+      "jp": "自分でやるセルフレジが多いです",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>でやるセルフレジが<ruby>多い<rt>おおい</rt></ruby>です",
+      "zh": "自助结账的很多",
+      "en": "Self-checkout is used a lot."
+    },
+    {
+      "id": 91,
+      "start": 316.6,
+      "end": 318.88,
+      "ts": "05:16.600 -> 05:18.880",
+      "jp": "僕は全然好きじゃない",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "我一点都不喜欢",
+      "en": "I don't like it at all."
+    },
+    {
+      "id": 92,
+      "start": 318.88,
+      "end": 320.06,
+      "ts": "05:18.880 -> 05:20.060",
+      "jp": "めんどくさい",
+      "jp_html": "めんどくさい",
+      "zh": "麻烦",
+      "en": "麻烦"
+    },
+    {
+      "id": 93,
+      "start": 320.06,
+      "end": 321.86,
+      "ts": "05:20.060 -> 05:21.860",
+      "jp": "だけど仕方がない",
+      "jp_html": "だけど<ruby>仕方<rt>しかた</rt></ruby>がない",
+      "zh": "但是没办法",
+      "en": "But there's nothing we can do about it."
+    },
+    {
+      "id": 94,
+      "start": 321.86,
+      "end": 325.34,
+      "ts": "05:21.860 -> 05:25.340",
+      "jp": "あとは人がいるレジですね",
+      "jp_html": "あとは<ruby>人<rt>にん</rt></ruby>がいるレジですね",
+      "zh": "那就是有人的收银台呢",
+      "en": "It's the checkout with people in it, though."
+    },
+    {
+      "id": 95,
+      "start": 325.34,
+      "end": 328.74,
+      "ts": "05:25.340 -> 05:28.740",
+      "jp": "いらっしゃいませって言って",
+      "jp_html": "いらっしゃいませって<ruby>言って<rt>いって</rt></ruby>",
+      "zh": "欢迎说",
+      "en": "Say welcome"
+    },
+    {
+      "id": 96,
+      "start": 328.74,
+      "end": 332.86,
+      "ts": "05:28.740 -> 05:32.860",
+      "jp": "ピッとやってくれます",
+      "jp_html": "ピッとやってくれます",
+      "zh": "啪地一声做到了",
+      "en": "It will be done with a snap."
+    },
+    {
+      "id": 97,
+      "start": 332.86,
+      "end": 335.02,
+      "ts": "05:32.860 -> 05:35.020",
+      "jp": "別に何も聞かれないですよね",
+      "jp_html": "<ruby>別に<rt>べつに</rt></ruby><ruby>何も<rt>なにも</rt></ruby><ruby>聞か<rt>きか</rt></ruby>れないですよね",
+      "zh": "别人都不会听到吧？",
+      "en": "You're not going to be asked anything, right?"
+    },
+    {
+      "id": 98,
+      "start": 337.16,
+      "end": 340.44,
+      "ts": "05:37.160 -> 05:40.440",
+      "jp": "たまにコンビニとかで",
+      "jp_html": "たまにコンビニとかで",
+      "zh": "有时会在便利店等地",
+      "en": "Sometimes at convenience stores"
+    },
+    {
+      "id": 99,
+      "start": 340.44,
+      "end": 341.36,
+      "ts": "05:40.440 -> 05:41.360",
+      "jp": "袋は",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>は",
+      "zh": "袋子是",
+      "en": "The bag is"
+    },
+    {
+      "id": 100,
+      "start": 341.36,
+      "end": 342.92,
+      "ts": "05:41.360 -> 05:42.920",
+      "jp": "袋は",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>は",
+      "zh": "袋子是",
+      "en": "The bag is"
+    },
+    {
+      "id": 101,
+      "start": 342.92,
+      "end": 345.12,
+      "ts": "05:42.920 -> 05:45.120",
+      "jp": "なんて言うかな",
+      "jp_html": "なんて<ruby>言う<rt>いう</rt></ruby>かな",
+      "zh": "怎么说呢",
+      "en": "How should I say it?"
+    },
+    {
+      "id": 102,
+      "start": 345.12,
+      "end": 347.8,
+      "ts": "05:45.120 -> 05:47.800",
+      "jp": "袋はお入りでしょうか",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>はお<ruby>入り<rt>いり</rt></ruby>でしょうか",
+      "zh": "您进来了吗？",
+      "en": "Have you entered the bag?"
+    },
+    {
+      "id": 103,
+      "start": 347.8,
+      "end": 349.94,
+      "ts": "05:47.800 -> 05:49.940",
+      "jp": "袋はいりますかってことね",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>はいりますかってことね",
+      "zh": "你是想知道我有没有袋子吧？",
+      "en": "Are you asking if I need a bag?"
+    },
+    {
+      "id": 104,
+      "start": 349.94,
+      "end": 351.8,
+      "ts": "05:49.940 -> 05:51.800",
+      "jp": "袋はお入り",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>はお<ruby>入り<rt>いり</rt></ruby>",
+      "zh": "袋子请入内",
+      "en": "The bag is in."
+    },
+    {
+      "id": 105,
+      "start": 351.8,
+      "end": 352.8,
+      "ts": "05:51.800 -> 05:52.800",
+      "jp": "お入りって言うかな",
+      "jp_html": "お<ruby>入り<rt>いり</rt></ruby>って<ruby>言う<rt>いう</rt></ruby>かな",
+      "zh": "说成是进来了吧",
+      "en": "Would you say \"come in\"?"
+    },
+    {
+      "id": 106,
+      "start": 352.8,
+      "end": 353.82,
+      "ts": "05:52.800 -> 05:53.820",
+      "jp": "袋は",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>は",
+      "zh": "袋子是",
+      "en": "The bag is"
+    },
+    {
+      "id": 107,
+      "start": 353.82,
+      "end": 357.16,
+      "ts": "05:53.820 -> 05:57.160",
+      "jp": "袋は何とかって言いますよね",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>は<ruby>何とか<rt>なんとか</rt></ruby>って<ruby>言い<rt>いい</rt></ruby>ますよね",
+      "zh": "袋子叫做布袋吧？",
+      "en": "Bags are called something like that, right?"
+    },
+    {
+      "id": 108,
+      "start": 357.16,
+      "end": 358.58,
+      "ts": "05:57.160 -> 05:58.580",
+      "jp": "ちょっとなんて言うかな",
+      "jp_html": "ちょっとなんて<ruby>言う<rt>いう</rt></ruby>かな",
+      "zh": "说个啥呢",
+      "en": "What would you call a little something like that?"
+    },
+    {
+      "id": 109,
+      "start": 358.58,
+      "end": 360.38,
+      "ts": "05:58.580 -> 06:00.380",
+      "jp": "袋は",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>は",
+      "zh": "袋子是",
+      "en": "The bag is"
+    },
+    {
+      "id": 110,
+      "start": 360.38,
+      "end": 363.4,
+      "ts": "06:00.380 -> 06:03.400",
+      "jp": "袋はお入れしましょうか",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>はお<ruby>入れ<rt>いれ</rt></ruby>しましょうか",
+      "zh": "我们把袋子放进去吧",
+      "en": "Shall I put a bag for you?"
+    },
+    {
+      "id": 111,
+      "start": 363.4,
+      "end": 365.16,
+      "ts": "06:03.400 -> 06:05.160",
+      "jp": "お入れする",
+      "jp_html": "お<ruby>入れ<rt>いれ</rt></ruby>する",
+      "zh": "放入",
+      "en": "To put in"
+    },
+    {
+      "id": 112,
+      "start": 365.16,
+      "end": 367.18,
+      "ts": "06:05.160 -> 06:07.180",
+      "jp": "入れないな別に",
+      "jp_html": "<ruby>入れ<rt>いれ</rt></ruby>ないな<ruby>別に<rt>べつに</rt></ruby>",
+      "zh": "插不进去也没关系",
+      "en": "It doesn't fit, whatever."
+    },
+    {
+      "id": 113,
+      "start": 367.18,
+      "end": 368.1,
+      "ts": "06:07.180 -> 06:08.100",
+      "jp": "お入りでしょうか",
+      "jp_html": "お<ruby>入り<rt>いり</rt></ruby>でしょうか",
+      "zh": "您进来了吗？",
+      "en": "May I come in?"
+    },
+    {
+      "id": 114,
+      "start": 368.1,
+      "end": 369.72,
+      "ts": "06:08.100 -> 06:09.720",
+      "jp": "いりますか",
+      "jp_html": "いりますか",
+      "zh": "需要吗",
+      "en": "Do you need it?"
+    },
+    {
+      "id": 115,
+      "start": 369.72,
+      "end": 372.04,
+      "ts": "06:09.720 -> 06:12.040",
+      "jp": "袋はお入りでしょうか",
+      "jp_html": "<ruby>袋<rt>ふくろ</rt></ruby>はお<ruby>入り<rt>いり</rt></ruby>でしょうか",
+      "zh": "您进来了吗？",
+      "en": "Have you entered the bag yet?"
+    },
+    {
+      "id": 116,
+      "start": 372.04,
+      "end": 372.98,
+      "ts": "06:12.040 -> 06:12.980",
+      "jp": "そうですね",
+      "jp_html": "そうですね",
+      "zh": "是呢",
+      "en": "Yes, that's right."
+    },
+    {
+      "id": 117,
+      "start": 372.98,
+      "end": 374.48,
+      "ts": "06:12.980 -> 06:14.480",
+      "jp": "お入りでしょうかというのは",
+      "jp_html": "お<ruby>入り<rt>いり</rt></ruby>でしょうかというのは",
+      "zh": "您进来了吗？",
+      "en": "Is it okay for you to enter?"
+    },
+    {
+      "id": 118,
+      "start": 374.48,
+      "end": 376.08,
+      "ts": "06:14.480 -> 06:16.080",
+      "jp": "いりますかということですね",
+      "jp_html": "いりますかということですね",
+      "zh": "你是说需要的话",
+      "en": "Is there anything you need?"
+    },
+    {
+      "id": 119,
+      "start": 376.08,
+      "end": 377.68,
+      "ts": "06:16.080 -> 06:17.680",
+      "jp": "そしたらまあ",
+      "jp_html": "そしたらまあ",
+      "zh": "然后嘛",
+      "en": "Then, well"
+    },
+    {
+      "id": 120,
+      "start": 377.68,
+      "end": 379.46,
+      "ts": "06:17.680 -> 06:19.460",
+      "jp": "いや大丈夫ですとか",
+      "jp_html": "いや<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですとか",
+      "zh": "不，没关系。",
+      "en": "No, it's okay."
+    },
+    {
+      "id": 121,
+      "start": 379.46,
+      "end": 381.34,
+      "ts": "06:19.460 -> 06:21.340",
+      "jp": "あお願いしますとか",
+      "jp_html": "あお<ruby>願い<rt>ねがい</rt></ruby>しますとか",
+      "zh": "请帮忙吧",
+      "en": "Please say thank you."
+    },
+    {
+      "id": 122,
+      "start": 381.34,
+      "end": 383.8,
+      "ts": "06:21.340 -> 06:23.800",
+      "jp": "そんな感じですよね",
+      "jp_html": "そんな<ruby>感じ<rt>かんじ</rt></ruby>ですよね",
+      "zh": "不是这样的吧？",
+      "en": "Isn't it like that?"
+    },
+    {
+      "id": 123,
+      "start": 383.8,
+      "end": 385.18,
+      "ts": "06:23.800 -> 06:25.180",
+      "jp": "大丈夫です",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "他是真棒",
+      "en": "It's okay."
+    },
+    {
+      "id": 124,
+      "start": 385.18,
+      "end": 387.88,
+      "ts": "06:25.180 -> 06:27.880",
+      "jp": "大丈夫ですは必要ないですとかね",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですは<ruby>必要<rt>ひつよう</rt></ruby>ないですとかね",
+      "zh": "大丈夫です不需要了哦",
+      "en": "It's okay, you don't need to worry about it."
+    },
+    {
+      "id": 125,
+      "start": 387.88,
+      "end": 389.02,
+      "ts": "06:27.880 -> 06:29.020",
+      "jp": "必要ありませんとか",
+      "jp_html": "<ruby>必要<rt>ひつよう</rt></ruby>ありませんとか",
+      "zh": "不需要",
+      "en": "It's not necessary."
+    },
+    {
+      "id": 126,
+      "start": 389.02,
+      "end": 390.48,
+      "ts": "06:29.020 -> 06:30.480",
+      "jp": "いりませんとかね",
+      "jp_html": "いりませんとかね",
+      "zh": "不需要了哦",
+      "en": "I don't need it anymore."
+    },
+    {
+      "id": 127,
+      "start": 390.48,
+      "end": 394.94,
+      "ts": "06:30.480 -> 06:34.940",
+      "jp": "大丈夫ですは確かに分かりにくいかもしれないな",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですは<ruby>確かに<rt>たしかに</rt></ruby><ruby>分か<rt>わか</rt></ruby>りにくいかもしれないな",
+      "zh": "这句确实可能有点难懂吧",
+      "en": "It's definitely possible that \"大丈夫です\" might be confusing."
+    },
+    {
+      "id": 128,
+      "start": 394.94,
+      "end": 396.96,
+      "ts": "06:34.940 -> 06:36.960",
+      "jp": "どっちってなるので",
+      "jp_html": "どっちってなるので",
+      "zh": "那会怎么样呢",
+      "en": "Which one will it be?"
+    },
+    {
+      "id": 129,
+      "start": 396.96,
+      "end": 399.38,
+      "ts": "06:36.960 -> 06:39.380",
+      "jp": "あ必要ないですとかね",
+      "jp_html": "あ<ruby>必要<rt>ひつよう</rt></ruby>ないですとかね",
+      "zh": "不需要了吧？",
+      "en": "Isn't it unnecessary, you know?"
+    },
+    {
+      "id": 130,
+      "start": 399.38,
+      "end": 401.26,
+      "ts": "06:39.380 -> 06:41.260",
+      "jp": "お願いします",
+      "jp_html": "お<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "请帮忙",
+      "en": "Please."
+    },
+    {
+      "id": 131,
+      "start": 401.26,
+      "end": 403.24,
+      "ts": "06:41.260 -> 06:43.240",
+      "jp": "お願いしますはください",
+      "jp_html": "お<ruby>願い<rt>ねがい</rt></ruby>しますはください",
+      "zh": "请便",
+      "en": "Please is ください"
+    },
+    {
+      "id": 132,
+      "start": 403.24,
+      "end": 405.56,
+      "ts": "06:43.240 -> 06:45.560",
+      "jp": "の意味ですよね",
+      "jp_html": "の<ruby>意味<rt>いみ</rt></ruby>ですよね",
+      "zh": "的意思吧？",
+      "en": "Isn't that the meaning?"
+    },
+    {
+      "id": 133,
+      "start": 405.56,
+      "end": 407.14,
+      "ts": "06:45.560 -> 06:47.140",
+      "jp": "お願いしますとか",
+      "jp_html": "お<ruby>願い<rt>ねがい</rt></ruby>しますとか",
+      "zh": "请 Casinos",
+      "en": "Please."
+    },
+    {
+      "id": 134,
+      "start": 407.14,
+      "end": 408.32,
+      "ts": "06:47.140 -> 06:48.320",
+      "jp": "で",
+      "jp_html": "で",
+      "zh": "得",
+      "en": "where"
+    },
+    {
+      "id": 135,
+      "start": 408.32,
+      "end": 411.16,
+      "ts": "06:48.320 -> 06:51.160",
+      "jp": "お支払いはとか",
+      "jp_html": "お<ruby>支払い<rt>しはらい</rt></ruby>はとか",
+      "zh": "付款方式是怎样的呢？",
+      "en": "Payment is due."
+    },
+    {
+      "id": 136,
+      "start": 411.16,
+      "end": 414.88,
+      "ts": "06:51.160 -> 06:54.880",
+      "jp": "お支払い方法はいかがなさいますか",
+      "jp_html": "お<ruby>支払い<rt>しはらい</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>はいかがなさいますか",
+      "zh": "您想采用哪种支付方式？",
+      "en": "How would you like to make the payment?"
+    },
+    {
+      "id": 137,
+      "start": 414.88,
+      "end": 416.08,
+      "ts": "06:54.880 -> 06:56.080",
+      "jp": "と聞かれます",
+      "jp_html": "と<ruby>聞か<rt>きか</rt></ruby>れます",
+      "zh": "您想知道",
+      "en": "Are you asked?"
+    },
+    {
+      "id": 138,
+      "start": 416.08,
+      "end": 417.24,
+      "ts": "06:56.080 -> 06:57.240",
+      "jp": "お支払い方法",
+      "jp_html": "お<ruby>支払い<rt>しはらい</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>",
+      "zh": "支付方式",
+      "en": "Payment method"
+    },
+    {
+      "id": 139,
+      "start": 417.24,
+      "end": 418.88,
+      "ts": "06:57.240 -> 06:58.880",
+      "jp": "何で払うか",
+      "jp_html": "<ruby>何で<rt>なんで</rt></ruby><ruby>払う<rt>はらう</rt></ruby>か",
+      "zh": "为什么付款",
+      "en": "Why pay?"
+    },
+    {
+      "id": 140,
+      "start": 418.88,
+      "end": 421.36,
+      "ts": "06:58.880 -> 07:01.360",
+      "jp": "クレジットカードか",
+      "jp_html": "クレジットカードか",
+      "zh": "信用卡吗？",
+      "en": "Credit card?"
+    },
+    {
+      "id": 141,
+      "start": 421.36,
+      "end": 423.3,
+      "ts": "07:01.360 -> 07:03.300",
+      "jp": "ペイペイ",
+      "jp_html": "ペイペイ",
+      "zh": "支付宝",
+      "en": "PayPay"
+    },
+    {
+      "id": 142,
+      "start": 423.3,
+      "end": 424.72,
+      "ts": "07:03.300 -> 07:04.720",
+      "jp": "とかねそういう",
+      "jp_html": "とかねそういう",
+      "zh": "或者就是这样吧",
+      "en": "or something like that"
+    },
+    {
+      "id": 143,
+      "start": 424.72,
+      "end": 425.66,
+      "ts": "07:04.720 -> 07:05.660",
+      "jp": "ペイペイで",
+      "jp_html": "ペイペイで",
+      "zh": "使用支付宝",
+      "en": "PayPay for"
+    },
+    {
+      "id": 144,
+      "start": 425.66,
+      "end": 427.52,
+      "ts": "07:05.660 -> 07:07.520",
+      "jp": "ペイペイでとかね",
+      "jp_html": "ペイペイでとかね",
+      "zh": "用支付宝或者呢",
+      "en": "Using PayPay or coins"
+    },
+    {
+      "id": 145,
+      "start": 427.52,
+      "end": 432.08,
+      "ts": "07:07.520 -> 07:12.080",
+      "jp": "クレジットカードでといえば",
+      "jp_html": "クレジットカードでといえば",
+      "zh": "说到信用卡",
+      "en": "When it comes to credit cards,..."
+    },
+    {
+      "id": 146,
+      "start": 432.08,
+      "end": 434.0,
+      "ts": "07:12.080 -> 07:14.000",
+      "jp": "じゃあこちらにお願いします",
+      "jp_html": "じゃあこちらにお<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "请到这里来。",
+      "en": "Please do it over here."
+    },
+    {
+      "id": 147,
+      "start": 434.0,
+      "end": 437.1,
+      "ts": "07:14.000 -> 07:17.100",
+      "jp": "それは同じでしょ",
+      "jp_html": "それは<ruby>同じ<rt>おなじ</rt></ruby>でしょ",
+      "zh": "那是一样的吧",
+      "en": "Isn't it the same?"
+    },
+    {
+      "id": 148,
+      "start": 437.1,
+      "end": 442.4,
+      "ts": "07:17.100 -> 07:22.400",
+      "jp": "クレジットカードの使い方はそんなに難しくないですよね",
+      "jp_html": "クレジットカードの<ruby>使い方<rt>つかいかた</rt></ruby>はそんなに<ruby>難しく<rt>むずかしく</rt></ruby>ないですよね",
+      "zh": "信用卡的使用并不难对吧？",
+      "en": "Isn't using a credit card not that difficult, right?"
+    },
+    {
+      "id": 149,
+      "start": 442.4,
+      "end": 446.42,
+      "ts": "07:22.400 -> 07:26.420",
+      "jp": "お金を払ったらありがとうございましたと言われます",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>たらありがとうございましたと<ruby>言わ<rt>いわ</rt></ruby>れます",
+      "zh": "付了款后，我会被感谢说谢谢",
+      "en": "I am thanked when I pay."
+    },
+    {
+      "id": 150,
+      "start": 446.42,
+      "end": 447.36,
+      "ts": "07:26.420 -> 07:27.360",
+      "jp": "ありがとうございました",
+      "jp_html": "ありがとうございました",
+      "zh": "谢谢",
+      "en": "Thank you."
+    },
+    {
+      "id": 151,
+      "start": 447.36,
+      "end": 451.26,
+      "ts": "07:27.360 -> 07:31.260",
+      "jp": "ありがとうございますと言われるので",
+      "jp_html": "ありがとうございますと<ruby>言わ<rt>いわ</rt></ruby>れるので",
+      "zh": "当有人说谢谢时",
+      "en": "I am thanked so that I may say \"thank you.\""
+    },
+    {
+      "id": 152,
+      "start": 451.26,
+      "end": 453.46,
+      "ts": "07:31.260 -> 07:33.460",
+      "jp": "ありがとうございます",
+      "jp_html": "ありがとうございます",
+      "zh": "谢谢",
+      "en": "Thank you"
+    },
+    {
+      "id": 153,
+      "start": 453.46,
+      "end": 455.68,
+      "ts": "07:33.460 -> 07:35.680",
+      "jp": "これぐらいかな",
+      "jp_html": "これぐらいかな",
+      "zh": "就这样吧",
+      "en": "This much, I suppose."
+    },
+    {
+      "id": 154,
+      "start": 455.68,
+      "end": 457.64,
+      "ts": "07:35.680 -> 07:37.640",
+      "jp": "そして店から出る",
+      "jp_html": "そして<ruby>店<rt>みせ</rt></ruby>から<ruby>出る<rt>でる</rt></ruby>",
+      "zh": "然后从店里出来",
+      "en": "And then I leave the store."
+    },
+    {
+      "id": 155,
+      "start": 457.64,
+      "end": 459.06,
+      "ts": "07:37.640 -> 07:39.060",
+      "jp": "何も言わなくてもいいですよ",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>なくてもいいですよ",
+      "zh": "不用说也行",
+      "en": "It's okay not to say anything."
+    },
+    {
+      "id": 156,
+      "start": 459.06,
+      "end": 461.32,
+      "ts": "07:39.060 -> 07:41.320",
+      "jp": "何も言わなくても大丈夫です",
+      "jp_html": "<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>なくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "不说也没关系",
+      "en": "It's okay not to say anything."
+    },
+    {
+      "id": 157,
+      "start": 461.32,
+      "end": 466.66,
+      "ts": "07:41.320 -> 07:46.660",
+      "jp": "日本人はあんまりお客さんはありがとうとか言わないですね",
+      "jp_html": "<ruby>日本人<rt>にほんじん</rt></ruby>はあんまりお<ruby>客<rt>きゃく</rt></ruby>さんはありがとうとか<ruby>言わ<rt>いわ</rt></ruby>ないですね",
+      "zh": "日本人通常不太会说谢谢之类的客套话呢",
+      "en": "Japanese people don't really say thank you much to customers, huh?"
+    },
+    {
+      "id": 158,
+      "start": 466.66,
+      "end": 471.3,
+      "ts": "07:46.660 -> 07:51.300",
+      "jp": "外国人のお客さんは結構ありがとうと言うけど",
+      "jp_html": "<ruby>外国人<rt>がいこくじん</rt></ruby>のお<ruby>客<rt>きゃく</rt></ruby>さんは<ruby>結構<rt>けっこう</rt></ruby>ありがとうと<ruby>言う<rt>いう</rt></ruby>けど",
+      "zh": "外国客人经常会谢谢我",
+      "en": "Foreign customers thank me quite a bit, though."
+    },
+    {
+      "id": 159,
+      "start": 471.3,
+      "end": 473.14,
+      "ts": "07:51.300 -> 07:53.140",
+      "jp": "一つ一つだけ大事なこと",
+      "jp_html": "<ruby>一つ一つ<rt>ひとつひとつ</rt></ruby>だけ<ruby>大事<rt>だいじ</rt></ruby>なこと",
+      "zh": "一件件重要的事情",
+      "en": "One thing at a time is important."
+    },
+    {
+      "id": 160,
+      "start": 473.14,
+      "end": 475.5,
+      "ts": "07:53.140 -> 07:55.500",
+      "jp": "ありがとうとは言わないでください",
+      "jp_html": "ありがとうとは<ruby>言わ<rt>いわ</rt></ruby>ないでください",
+      "zh": "请不要说谢谢",
+      "en": "Please don't say thank you"
+    },
+    {
+      "id": 161,
+      "start": 475.5,
+      "end": 477.0,
+      "ts": "07:55.500 -> 07:57.000",
+      "jp": "ありがとうございます",
+      "jp_html": "ありがとうございます",
+      "zh": "谢谢",
+      "en": "Thank you"
+    },
+    {
+      "id": 162,
+      "start": 477.0,
+      "end": 479.7,
+      "ts": "07:57.000 -> 07:59.700",
+      "jp": "ちゃんとありがとうございます",
+      "jp_html": "ちゃんとありがとうございます",
+      "zh": "谢谢",
+      "en": "Thank you properly"
+    },
+    {
+      "id": 163,
+      "start": 479.7,
+      "end": 482.42,
+      "ts": "07:59.700 -> 08:02.420",
+      "jp": "ちゃんと言ってください",
+      "jp_html": "ちゃんと<ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "请你说出来",
+      "en": "Say it yourself."
+    },
+    {
+      "id": 164,
+      "start": 482.42,
+      "end": 486.56,
+      "ts": "08:02.420 -> 08:06.560",
+      "jp": "実はありがとうはちょっとダメですね",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby>ありがとうはちょっとダメですね",
+      "zh": "其实谢谢有点不行哦",
+      "en": "Actually, thank you is a bit inappropriate, isn't it?"
+    },
+    {
+      "id": 165,
+      "start": 486.56,
+      "end": 489.24,
+      "ts": "08:06.560 -> 08:09.240",
+      "jp": "十分丁寧ではありません",
+      "jp_html": "<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>丁寧<rt>ていねい</rt></ruby>ではありません",
+      "zh": "不够细心",
+      "en": "It is not sufficiently polite."
+    },
+    {
+      "id": 166,
+      "start": 489.24,
+      "end": 495.02,
+      "ts": "08:09.240 -> 08:15.020",
+      "jp": "僕が例えば居酒屋とかレストランに行って",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>例えば<rt>たとえば</rt></ruby><ruby>居酒屋<rt>いざかや</rt></ruby>とかレストランに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "比如我去居酒屋或餐馆",
+      "en": "For example, when I go to a izakaya or restaurant,"
+    },
+    {
+      "id": 167,
+      "start": 495.02,
+      "end": 496.86,
+      "ts": "08:15.020 -> 08:16.860",
+      "jp": "美味しかった美味しかった",
+      "jp_html": "<ruby>美味しか<rt>おいしか</rt></ruby>った<ruby>美味しか<rt>おいしか</rt></ruby>った",
+      "zh": "很好吃，很好吃",
+      "en": "It was delicious, it was delicious"
+    },
+    {
+      "id": 168,
+      "start": 496.86,
+      "end": 500.14,
+      "ts": "08:16.860 -> 08:20.140",
+      "jp": "ごちそうさまでお金を払って",
+      "jp_html": "ごちそうさまでお<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て",
+      "zh": "请客付钱",
+      "en": "Thank you for the meal; I'll pay for it."
+    },
+    {
+      "id": 169,
+      "start": 500.14,
+      "end": 505.04,
+      "ts": "08:20.140 -> 08:25.040",
+      "jp": "お店の人がありがとうございましたって言うんで",
+      "jp_html": "お<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>がありがとうございましたって<ruby>言う<rt>いう</rt></ruby>んで",
+      "zh": "店员说谢谢的话",
+      "en": "The store clerk said thank you, so I should say thank you to them."
+    },
+    {
+      "id": 170,
+      "start": 505.04,
+      "end": 510.2,
+      "ts": "08:25.040 -> 08:30.200",
+      "jp": "僕もありがとうございますまた来ますみたいな感じね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>もありがとうございますまた<ruby>来ま<rt>きま</rt></ruby>すみたいな<ruby>感じ<rt>かんじ</rt></ruby>ね",
+      "zh": "我也谢谢你们下次再来呢",
+      "en": "I thank you as well. It'll be coming again, sort of like that."
+    },
+    {
+      "id": 171,
+      "start": 510.2,
+      "end": 513.72,
+      "ts": "08:30.200 -> 08:33.720",
+      "jp": "でもありがとうありがとうはダメですよね",
+      "jp_html": "でもありがとうありがとうはダメですよね",
+      "zh": "但是谢谢谢谢不行吧",
+      "en": "But thank you too much is bad, right?"
+    },
+    {
+      "id": 172,
+      "start": 513.72,
+      "end": 516.78,
+      "ts": "08:33.720 -> 08:36.780",
+      "jp": "知らない人にありがとうはダメです",
+      "jp_html": "<ruby>知ら<rt>しら</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>にありがとうはダメです",
+      "zh": "对陌生人说谢谢不好",
+      "en": "Saying thank you to strangers is inappropriate."
+    },
+    {
+      "id": 173,
+      "start": 516.78,
+      "end": 521.8,
+      "ts": "08:36.780 -> 08:41.800",
+      "jp": "ありがとうございますございますとても大事です",
+      "jp_html": "ありがとうございますございますとても<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "谢谢，这非常重要。",
+      "en": "Thank you very much. It is extremely important."
+    },
+    {
+      "id": 174,
+      "start": 521.8,
+      "end": 526.72,
+      "ts": "08:41.800 -> 08:46.720",
+      "jp": "なので皆さんもコンビニとかでありがとうございます",
+      "jp_html": "なので<ruby>皆さん<rt>みなさん</rt></ruby>もコンビニとかでありがとうございます",
+      "zh": "所以大家在便利店的时候也要说谢谢",
+      "en": "So please say thank you at convenience stores as well."
+    },
+    {
+      "id": 175,
+      "start": 526.72,
+      "end": 531.02,
+      "ts": "08:46.720 -> 08:51.020",
+      "jp": "ありがとうはダメですありがとうございます",
+      "jp_html": "ありがとうはダメですありがとうございます",
+      "zh": "谢谢不行，谢谢",
+      "en": "Thank you is not good, thank you very much."
+    },
+    {
+      "id": 176,
+      "start": 531.02,
+      "end": 534.32,
+      "ts": "08:51.020 -> 08:54.320",
+      "jp": "これは結構大きい違いがあります",
+      "jp_html": "これは<ruby>結構大き<rt>けっこうおおき</rt></ruby>い<ruby>違い<rt>ちがい</rt></ruby>があります",
+      "zh": "这有一个相当大的区别",
+      "en": "There is quite a significant difference."
+    },
+    {
+      "id": 177,
+      "start": 534.32,
+      "end": 542.87,
+      "ts": "08:54.320 -> 09:02.870",
+      "jp": "というわけでスーパーでの日本語はほとんどないってことですね",
+      "jp_html": "というわけでスーパーでの<ruby>日本語<rt>にほんご</rt></ruby>はほとんどないってことですね",
+      "zh": "这么说在超市的日语几乎听不到了是吧",
+      "en": "So, I see that there's hardly any Japanese in the supermarket, right?"
+    },
+    {
+      "id": 178,
+      "start": 542.87,
+      "end": 548.71,
+      "ts": "09:02.870 -> 09:08.710",
+      "jp": "コンビニでもほとんど何も言わなくても大丈夫ということで",
+      "jp_html": "コンビニでもほとんど<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>なくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ということで",
+      "zh": "据说在便利店几乎不用说太多的话也可以",
+      "en": "I can manage without saying much at the convenience store as well."
+    },
+    {
+      "id": 179,
+      "start": 548.71,
+      "end": 552.25,
+      "ts": "09:08.710 -> 09:12.250",
+      "jp": "でも少しだけありましたね",
+      "jp_html": "でも<ruby>少し<rt>すこし</rt></ruby>だけありましたね",
+      "zh": "但也有一点吧。",
+      "en": "But there was a little bit, though."
+    },
+    {
+      "id": 180,
+      "start": 552.25,
+      "end": 553.77,
+      "ts": "09:12.250 -> 09:13.770",
+      "jp": "最後にありがとうございます",
+      "jp_html": "<ruby>最後<rt>さいご</rt></ruby>にありがとうございます",
+      "zh": "谢谢最后的感谢",
+      "en": "Thank you lastly."
+    },
+    {
+      "id": 181,
+      "start": 553.77,
+      "end": 555.85,
+      "ts": "09:13.770 -> 09:15.850",
+      "jp": "言っても言わなくてもいいです",
+      "jp_html": "<ruby>言って<rt>いって</rt></ruby>も<ruby>言わ<rt>いわ</rt></ruby>なくてもいいです",
+      "zh": "说不说都行",
+      "en": "It's okay to say or not say it."
+    },
+    {
+      "id": 182,
+      "start": 555.85,
+      "end": 557.05,
+      "ts": "09:15.850 -> 09:17.050",
+      "jp": "別に言わなくていいです",
+      "jp_html": "<ruby>別に<rt>べつに</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>なくていいです",
+      "zh": "你不必说。",
+      "en": "You don't have to say it if you don't want to."
+    },
+    {
+      "id": 183,
+      "start": 557.05,
+      "end": 562.67,
+      "ts": "09:17.050 -> 09:22.670",
+      "jp": "日本人は多分普通は何も言わないと思う",
+      "jp_html": "<ruby>日本人<rt>にほんじん</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby><ruby>普通<rt>ふつう</rt></ruby>は<ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>ないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想日本人大概通常什么也不说",
+      "en": "I think ordinary Japanese people don't say much."
+    },
+    {
+      "id": 184,
+      "start": 562.67,
+      "end": 564.95,
+      "ts": "09:22.670 -> 09:24.950",
+      "jp": "でも別にそれは悪くない",
+      "jp_html": "でも<ruby>別に<rt>べつに</rt></ruby>それは<ruby>悪く<rt>わるく</rt></ruby>ない",
+      "zh": "但那也没关系",
+      "en": "But it's not bad either."
+    },
+    {
+      "id": 185,
+      "start": 564.95,
+      "end": 569.75,
+      "ts": "09:24.950 -> 09:29.750",
+      "jp": "お客さんは別に何も言わなくても大丈夫です",
+      "jp_html": "お<ruby>客<rt>きゃく</rt></ruby>さんは<ruby>別に<rt>べつに</rt></ruby><ruby>何も<rt>なにも</rt></ruby><ruby>言わ<rt>いわ</rt></ruby>なくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "客人即使没有说什么也没关系",
+      "en": "The customer doesn't need to say anything else either."
+    },
+    {
+      "id": 186,
+      "start": 569.75,
+      "end": 572.17,
+      "ts": "09:29.750 -> 09:32.170",
+      "jp": "言いたかったらありがとうございます",
+      "jp_html": "<ruby>言い<rt>いい</rt></ruby>たかったらありがとうございます",
+      "zh": "说出来谢谢",
+      "en": "Thank you for allowing me to speak."
+    },
+    {
+      "id": 187,
+      "start": 572.17,
+      "end": 574.19,
+      "ts": "09:32.170 -> 09:34.190",
+      "jp": "言ってください",
+      "jp_html": "<ruby>言って<rt>いって</rt></ruby>ください",
+      "zh": "说吧",
+      "en": "Say it please."
+    },
+    {
+      "id": 188,
+      "start": 574.19,
+      "end": 577.25,
+      "ts": "09:34.190 -> 09:37.250",
+      "jp": "というわけでまた次回も",
+      "jp_html": "というわけでまた<ruby>次回<rt>じかい</rt></ruby>も",
+      "zh": "因此下次再见也要再见了",
+      "en": "Therefore, see you next time."
+    },
+    {
+      "id": 189,
+      "start": 577.25,
+      "end": 579.17,
+      "ts": "09:37.250 -> 09:39.170",
+      "jp": "日本語の勉強頑張ろう",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby><ruby>頑張ろ<rt>がんばろ</rt></ruby>う",
+      "zh": "好好学习日语",
+      "en": "Let's study Japanese hard"
+    }
+  ]
+}
