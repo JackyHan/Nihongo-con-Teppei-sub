@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1587",
+      "title": "#1587「レストランでの日本語について！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/09/23/1587%e3%80%8c%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3%e3%81%a7%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1587.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1587.json"
+    },
+    {
       "id": "1586",
       "title": "#1586「スーパーで使う日本語について！」",
       "category_id": "podcast",
