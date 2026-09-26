@@ -1,0 +1,684 @@
+{
+  "id": "1589",
+  "title": "#1589「日本に来て使う日本語について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1589.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1589.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/26/1589%e3%80%8c%e6%97%a5%e6%9c%ac%e3%81%ab%e6%9d%a5%e3%81%a6%e4%bd%bf%e3%81%86%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.2,
+      "end": 2.62,
+      "ts": "00:01.200 -> 00:02.620",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.62,
+      "end": 4.64,
+      "ts": "00:02.620 -> 00:04.640",
+      "jp": "今日は",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>",
+      "zh": "今天",
+      "en": "Today"
+    },
+    {
+      "id": 2,
+      "start": 4.64,
+      "end": 11.1,
+      "ts": "00:04.640 -> 00:11.100",
+      "jp": "日本に来て使う日本語について",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来て<rt>きて</rt></ruby><ruby>使う<rt>つかう</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>について",
+      "zh": "关于在日本使用的日语",
+      "en": "About Japanese used in Japan"
+    },
+    {
+      "id": 3,
+      "start": 11.1,
+      "end": 13.56,
+      "ts": "00:11.100 -> 00:13.560",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 4,
+      "start": 13.56,
+      "end": 15.62,
+      "ts": "00:13.560 -> 00:15.620",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音训练的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 5,
+      "start": 15.62,
+      "end": 16.68,
+      "ts": "00:15.620 -> 00:16.680",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 6,
+      "start": 16.68,
+      "end": 22.36,
+      "ts": "00:16.680 -> 00:22.360",
+      "jp": "あの前回とか前々回とか前々前回とか",
+      "jp_html": "あの<ruby>前回<rt>ぜんかい</rt></ruby>とか<ruby>前々回<rt>ぜんぜんかい</rt></ruby>とか<ruby>前々<rt>まえまえ</rt></ruby><ruby>前回<rt>ぜんかい</rt></ruby>とか",
+      "zh": "那些上一次、再上一次、再上上次的",
+      "en": "Those from the previous time, the one before that, and the one before that"
+    },
+    {
+      "id": 7,
+      "start": 22.36,
+      "end": 27.48,
+      "ts": "00:22.360 -> 00:27.480",
+      "jp": "最近旅行とかホテルとか",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>とかホテルとか",
+      "zh": "最近旅行或者酒店",
+      "en": "Recently travel or hotels"
+    },
+    {
+      "id": 8,
+      "start": 27.48,
+      "end": 32.3,
+      "ts": "00:27.480 -> 00:32.300",
+      "jp": "レストランとか居酒屋とかコンビニとかスーパーとか",
+      "jp_html": "レストランとか<ruby>居酒屋<rt>いざかや</rt></ruby>とかコンビニとかスーパーとか",
+      "zh": "餐馆或酒吧或便利店或超市或",
+      "en": "restaurants or izakayas or convenience stores or supermarkets"
+    },
+    {
+      "id": 9,
+      "start": 32.3,
+      "end": 40.16,
+      "ts": "00:32.300 -> 00:40.160",
+      "jp": "そういうところで話す日本語についてちょっと話していましたけど",
+      "jp_html": "そういうところで<ruby>話す<rt>はなす</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>についてちょっと<ruby>話し<rt>はなし</rt></ruby>ていましたけど",
+      "zh": "我们稍微谈了一下那个地方说的日语不过",
+      "en": "But we talked a little bit about Japanese that is spoken in those kinds of places."
+    },
+    {
+      "id": 10,
+      "start": 40.16,
+      "end": 42.98,
+      "ts": "00:40.160 -> 00:42.980",
+      "jp": "もし皆さんがですね",
+      "jp_html": "もし<ruby>皆さん<rt>みなさん</rt></ruby>がですね",
+      "zh": "如果各位呢",
+      "en": "If everyone is okay with this,"
+    },
+    {
+      "id": 11,
+      "start": 42.98,
+      "end": 48.56,
+      "ts": "00:42.980 -> 00:48.560",
+      "jp": "今度日本に来る予定があるんだったら",
+      "jp_html": "<ruby>今度<rt>こんど</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来る<rt>くる</rt></ruby><ruby>予定<rt>よてい</rt></ruby>があるんだったら",
+      "zh": "如果你下次来日本的话",
+      "en": "If you have plans to come to Japan next time"
+    },
+    {
+      "id": 12,
+      "start": 48.56,
+      "end": 52.98,
+      "ts": "00:48.560 -> 00:52.980",
+      "jp": "とりあえず心配しなくて大丈夫です",
+      "jp_html": "とりあえず<ruby>心配<rt>しんぱい</rt></ruby>しなくて<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "暂时不用擔心paralleled",
+      "en": "Just relax, there's nothing to worry about."
+    },
+    {
+      "id": 13,
+      "start": 52.98,
+      "end": 55.74,
+      "ts": "00:52.980 -> 00:55.740",
+      "jp": "心配しなくていいですよ",
+      "jp_html": "<ruby>心配<rt>しんぱい</rt></ruby>しなくていいですよ",
+      "zh": "不用擔心哦",
+      "en": "Don't worry."
+    },
+    {
+      "id": 14,
+      "start": 55.74,
+      "end": 60.12,
+      "ts": "00:55.740 -> 01:00.120",
+      "jp": "まず日本語のことですけど",
+      "jp_html": "まず<ruby>日本語<rt>にほんご</rt></ruby>のことですけど",
+      "zh": "首先关于日语的事情",
+      "en": "First, about Japanese."
+    },
+    {
+      "id": 15,
+      "start": 60.12,
+      "end": 63.78,
+      "ts": "01:00.120 -> 01:03.780",
+      "jp": "そんなに心配しなくていいです",
+      "jp_html": "そんなに<ruby>心配<rt>しんぱい</rt></ruby>しなくていいです",
+      "zh": "不用这么担心",
+      "en": "There's no need to worry so much."
+    },
+    {
+      "id": 16,
+      "start": 63.78,
+      "end": 68.26,
+      "ts": "01:03.780 -> 01:08.260",
+      "jp": "同じ地球だし",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>地球<rt>ちきゅう</rt></ruby>だし",
+      "zh": "同一个地球啊",
+      "en": "Same planet, right?"
+    },
+    {
+      "id": 17,
+      "start": 68.26,
+      "end": 70.66,
+      "ts": "01:08.260 -> 01:10.660",
+      "jp": "同じ人間なので",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>人間<rt>にんげん</rt></ruby>なので",
+      "zh": "因为是同一个人类所以",
+      "en": "We are the same people so"
+    },
+    {
+      "id": 18,
+      "start": 70.66,
+      "end": 72.56,
+      "ts": "01:10.660 -> 01:12.560",
+      "jp": "そんなにね",
+      "jp_html": "そんなにね",
+      "zh": "真是这样啊",
+      "en": "Like that, huh?"
+    },
+    {
+      "id": 19,
+      "start": 72.56,
+      "end": 75.42,
+      "ts": "01:12.560 -> 01:15.420",
+      "jp": "違わないですよ",
+      "jp_html": "<ruby>違わ<rt>ちがわ</rt></ruby>ないですよ",
+      "zh": "不会违反的",
+      "en": "I won't violate it."
+    },
+    {
+      "id": 20,
+      "start": 75.42,
+      "end": 78.32,
+      "ts": "01:15.420 -> 01:18.320",
+      "jp": "皆さんが今どこに住んでいて",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>が<ruby>今<rt>いま</rt></ruby>どこに<ruby>住ん<rt>すん</rt></ruby>でいて",
+      "zh": "你们现在住在哪儿",
+      "en": "Where do you all currently live?"
+    },
+    {
+      "id": 21,
+      "start": 78.32,
+      "end": 83.2,
+      "ts": "01:18.320 -> 01:23.200",
+      "jp": "どこから日本に来るかは分からないけど",
+      "jp_html": "どこから<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来る<rt>くる</rt></ruby>かは<ruby>分か<rt>わか</rt></ruby>らないけど",
+      "zh": "我不知道从哪里来日本",
+      "en": "I don't know from where I will be coming to Japan but"
+    },
+    {
+      "id": 22,
+      "start": 83.2,
+      "end": 85.64,
+      "ts": "01:23.200 -> 01:25.640",
+      "jp": "そんなに変わらないです",
+      "jp_html": "そんなに<ruby>変わ<rt>かわ</rt></ruby>らないです",
+      "zh": "并没有太大变化",
+      "en": "It doesn't change that much."
+    },
+    {
+      "id": 23,
+      "start": 85.64,
+      "end": 89.22,
+      "ts": "01:25.640 -> 01:29.220",
+      "jp": "同じ人間なのでそんなに変わりません",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>人間<rt>にんげん</rt></ruby>なのでそんなに<ruby>変わり<rt>かわり</rt></ruby>ません",
+      "zh": "same people 所以不会有太大变化",
+      "en": "We don't change that much since we're the same people."
+    },
+    {
+      "id": 24,
+      "start": 89.22,
+      "end": 97.72,
+      "ts": "01:29.220 -> 01:37.720",
+      "jp": "なのでほとんど言葉を使わなくても旅行はできます",
+      "jp_html": "なのでほとんど<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>なくても<ruby>旅行<rt>りょこう</rt></ruby>はできます",
+      "zh": "所以几乎不用说话也可以旅行",
+      "en": "So we can travel almost without using words."
+    },
+    {
+      "id": 25,
+      "start": 97.72,
+      "end": 101.74,
+      "ts": "01:37.720 -> 01:41.740",
+      "jp": "なのであんまり心配しなくて大丈夫です",
+      "jp_html": "なのであんまり<ruby>心配<rt>しんぱい</rt></ruby>しなくて<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "所以不用太担心",
+      "en": "So you don't need to worry too much."
+    },
+    {
+      "id": 26,
+      "start": 101.74,
+      "end": 106.54,
+      "ts": "01:41.740 -> 01:46.540",
+      "jp": "これは日本語の勉強全部同じです",
+      "jp_html": "これは<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>同じ<rt>おなじ</rt></ruby>です",
+      "zh": "这是日语的学习全部一样",
+      "en": "This is all study for Japanese."
+    },
+    {
+      "id": 27,
+      "start": 106.54,
+      "end": 108.48,
+      "ts": "01:46.540 -> 01:48.480",
+      "jp": "まず心配しなくていいです",
+      "jp_html": "まず<ruby>心配<rt>しんぱい</rt></ruby>しなくていいです",
+      "zh": "首先不要担心",
+      "en": "Don't worry first of all."
+    },
+    {
+      "id": 28,
+      "start": 108.48,
+      "end": 109.26,
+      "ts": "01:48.480 -> 01:49.260",
+      "jp": "大丈夫",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "大丈夫",
+      "en": "It's okay"
+    },
+    {
+      "id": 29,
+      "start": 109.26,
+      "end": 114.14,
+      "ts": "01:49.260 -> 01:54.140",
+      "jp": "大丈夫なのであんまり心配せずに",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>なのであんまり<ruby>心配<rt>しんぱい</rt></ruby>せずに",
+      "zh": "既然是个大丈夫就不必太担心",
+      "en": "I'm okay so don't worry too much."
+    },
+    {
+      "id": 30,
+      "start": 114.14,
+      "end": 119.78,
+      "ts": "01:54.140 -> 01:59.780",
+      "jp": "のびのびと自由に日本語を話してみてください",
+      "jp_html": "のびのびと<ruby>自由<rt>じゆう</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話し<rt>はなし</rt></ruby>てみてください",
+      "zh": "请尽情自由地用日语说话吧",
+      "en": "Please try speaking Japanese freely and naturally."
+    },
+    {
+      "id": 31,
+      "start": 119.78,
+      "end": 123.22,
+      "ts": "01:59.780 -> 02:03.220",
+      "jp": "間違っても全然いいです",
+      "jp_html": "<ruby>間違っ<rt>まちがっ</rt></ruby>ても<ruby>全然<rt>ぜんぜん</rt></ruby>いいです",
+      "zh": "绝对没关系",
+      "en": "Don't worry at all."
+    },
+    {
+      "id": 32,
+      "start": 123.22,
+      "end": 128.62,
+      "ts": "02:03.220 -> 02:08.620",
+      "jp": "そうやって間違えたり話したり聞いたり",
+      "jp_html": "そうやって<ruby>間違え<rt>まちがえ</rt></ruby>たり<ruby>話し<rt>はなし</rt></ruby>たり<ruby>聞い<rt>きい</rt></ruby>たり",
+      "zh": "就这样可能会说错或者听错",
+      "en": "That's how I make mistakes or talk or hear things."
+    },
+    {
+      "id": 33,
+      "start": 128.62,
+      "end": 131.26,
+      "ts": "02:08.620 -> 02:11.260",
+      "jp": "読んだり間違ったり",
+      "jp_html": "<ruby>読んだ<rt>よんだ</rt></ruby>り<ruby>間違っ<rt>まちがっ</rt></ruby>たり",
+      "zh": "读了就错了",
+      "en": "Read and make mistakes"
+    },
+    {
+      "id": 34,
+      "start": 131.26,
+      "end": 135.76,
+      "ts": "02:11.260 -> 02:15.760",
+      "jp": "いろいろしながら少しずつ日本語が良くなるので",
+      "jp_html": "いろいろしながら<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>良く<rt>よく</rt></ruby>なるので",
+      "zh": "尝试着一点一点地 Japanese 就会变好",
+      "en": "By trying various methods, your Japanese will gradually improve little by little."
+    },
+    {
+      "id": 35,
+      "start": 135.76,
+      "end": 138.26,
+      "ts": "02:15.760 -> 02:18.260",
+      "jp": "あんまり心配しなくて",
+      "jp_html": "あんまり<ruby>心配<rt>しんぱい</rt></ruby>しなくて",
+      "zh": "不要太担心",
+      "en": "Don't worry too much."
+    },
+    {
+      "id": 36,
+      "start": 138.26,
+      "end": 141.26,
+      "ts": "02:18.260 -> 02:21.260",
+      "jp": "のびのび間違えてください",
+      "jp_html": "のびのび<ruby>間違え<rt>まちがえ</rt></ruby>てください",
+      "zh": "尽情犯错",
+      "en": "Please do not hesitate to make mistakes."
+    },
+    {
+      "id": 37,
+      "start": 141.26,
+      "end": 144.52,
+      "ts": "02:21.260 -> 02:24.520",
+      "jp": "のびのびというのは自由にということですね",
+      "jp_html": "のびのびというのは<ruby>自由<rt>じゆう</rt></ruby>にということですね",
+      "zh": "的含义就是自由地吧",
+      "en": "\"のびのび\" means freedom to be and act as one wishes."
+    },
+    {
+      "id": 38,
+      "start": 144.52,
+      "end": 149.74,
+      "ts": "02:24.520 -> 02:29.740",
+      "jp": "これが本当に今日一番言いたかったことです",
+      "jp_html": "これが<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>今日<rt>きょう</rt></ruby><ruby>一番<rt>いちばん</rt></ruby><ruby>言い<rt>いい</rt></ruby>たかったことです",
+      "zh": "这是我今天最想说的事情。",
+      "en": "This is really what I wanted to say most today."
+    },
+    {
+      "id": 39,
+      "start": 149.74,
+      "end": 153.58,
+      "ts": "02:29.740 -> 02:33.580",
+      "jp": "今日一番言いたかったことは",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby><ruby>一番<rt>いちばん</rt></ruby><ruby>言い<rt>いい</rt></ruby>たかったことは",
+      "zh": "今天最想说的是",
+      "en": "The most wanted to say today was that"
+    },
+    {
+      "id": 40,
+      "start": 153.58,
+      "end": 156.66,
+      "ts": "02:33.580 -> 02:36.660",
+      "jp": "間違っても全然大丈夫だし",
+      "jp_html": "<ruby>間違っ<rt>まちがっ</rt></ruby>ても<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だし",
+      "zh": "反正无论如何都行的",
+      "en": "You're totally okay even if you make a mistake."
+    },
+    {
+      "id": 41,
+      "start": 156.66,
+      "end": 159.52,
+      "ts": "02:36.660 -> 02:39.520",
+      "jp": "日本語が話せなくても全然大丈夫です",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話せ<rt>はなせ</rt></ruby>なくても<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "日语说得不好也没关系",
+      "en": "It's totally fine if you can't speak Japanese."
+    },
+    {
+      "id": 42,
+      "start": 159.52,
+      "end": 162.76,
+      "ts": "02:39.520 -> 02:42.760",
+      "jp": "日本語が話せたらいいですよね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話せ<rt>はなせ</rt></ruby>たらいいですよね",
+      "zh": "会说日语该多好啊",
+      "en": "It would be nice if I could speak Japanese, wouldn't it?"
+    },
+    {
+      "id": 43,
+      "start": 162.76,
+      "end": 166.8,
+      "ts": "02:42.760 -> 02:46.800",
+      "jp": "日本語だけで話せたら嬉しいですよね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だけで<ruby>話せ<rt>はなせ</rt></ruby>たら<ruby>嬉しい<rt>うれしい</rt></ruby>ですよね",
+      "zh": "只会说日语该多好啊",
+      "en": "It would be nice if I could talk in Japanese only, wouldn't it?"
+    },
+    {
+      "id": 44,
+      "start": 166.8,
+      "end": 171.24,
+      "ts": "02:46.800 -> 02:51.240",
+      "jp": "でももしそれができなくても全然大丈夫です",
+      "jp_html": "でももしそれができなくても<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "但是即使做不到也没关系",
+      "en": "But even if that can't be done, it's totally fine."
+    },
+    {
+      "id": 45,
+      "start": 171.26,
+      "end": 173.5,
+      "ts": "02:51.260 -> 02:53.500",
+      "jp": "心配しないでください",
+      "jp_html": "<ruby>心配<rt>しんぱい</rt></ruby>しないでください",
+      "zh": "不要担心",
+      "en": "Don't worry."
+    },
+    {
+      "id": 46,
+      "start": 173.5,
+      "end": 181.36,
+      "ts": "02:53.500 -> 03:01.360",
+      "jp": "本当にずっと長く少しずつ勉強を続ければ",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>にずっと<ruby>長く<rt>ながく</rt></ruby><ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>れば",
+      "zh": "真的是一直长期一点点地学习才行",
+      "en": "Really, if you continue studying little by little for a long time..."
+    },
+    {
+      "id": 47,
+      "start": 181.36,
+      "end": 185.6,
+      "ts": "03:01.360 -> 03:05.600",
+      "jp": "必ず良くなるのであんまり心配しなくていいです",
+      "jp_html": "<ruby>必ず<rt>かならず</rt></ruby><ruby>良く<rt>よく</rt></ruby>なるのであんまり<ruby>心配<rt>しんぱい</rt></ruby>しなくていいです",
+      "zh": "一定会好起来，你不用太担心。",
+      "en": "It will get better so you don't need to worry too much."
+    },
+    {
+      "id": 48,
+      "start": 185.6,
+      "end": 188.74,
+      "ts": "03:05.600 -> 03:08.740",
+      "jp": "なんで僕は日本に行ったら",
+      "jp_html": "なんで<ruby>僕は<rt>ぼくは</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ら",
+      "zh": "我为什么去了日本",
+      "en": "Why did I go to Japan?"
+    },
+    {
+      "id": 49,
+      "start": 188.74,
+      "end": 193.18,
+      "ts": "03:08.740 -> 03:13.180",
+      "jp": "日本語だけを話さないといけないストレスだ",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だけを<ruby>話さ<rt>はなさ</rt></ruby>ないといけないストレスだ",
+      "zh": "只能说日语的压力",
+      "en": "It's stress about having to speak only Japanese."
+    },
+    {
+      "id": 50,
+      "start": 193.18,
+      "end": 195.5,
+      "ts": "03:13.180 -> 03:15.500",
+      "jp": "とかいうのはやめてください",
+      "jp_html": "とかいうのはやめてください",
+      "zh": "请不要这么说。",
+      "en": "Please stop saying that."
+    },
+    {
+      "id": 51,
+      "start": 195.5,
+      "end": 197.62,
+      "ts": "03:15.500 -> 03:17.620",
+      "jp": "ストレスを感じなくても大丈夫",
+      "jp_html": "ストレスを<ruby>感じ<rt>かんじ</rt></ruby>なくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "即使没有感到压力也没关系",
+      "en": "It's okay even if you don't feel stressed."
+    },
+    {
+      "id": 52,
+      "start": 197.62,
+      "end": 200.28,
+      "ts": "03:17.620 -> 03:20.280",
+      "jp": "もっとリラックスしていきましょう",
+      "jp_html": "もっとリラックスしていきましょう",
+      "zh": "让我们放松一下吧",
+      "en": "Let's relax more."
+    },
+    {
+      "id": 53,
+      "start": 200.28,
+      "end": 203.54,
+      "ts": "03:20.280 -> 03:23.540",
+      "jp": "というわけで今日言いたかったことは",
+      "jp_html": "というわけで<ruby>今日<rt>きょう</rt></ruby><ruby>言い<rt>いい</rt></ruby>たかったことは",
+      "zh": "因此今天我想说的是",
+      "en": "So today I wanted to say..."
+    },
+    {
+      "id": 54,
+      "start": 203.54,
+      "end": 205.46,
+      "ts": "03:23.540 -> 03:25.460",
+      "jp": "日本語を使ってもいいし",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>もいいし",
+      "zh": "可以用日语也可以",
+      "en": "It's okay to use Japanese."
+    },
+    {
+      "id": 55,
+      "start": 205.46,
+      "end": 207.2,
+      "ts": "03:25.460 -> 03:27.200",
+      "jp": "使わなくてもいいし",
+      "jp_html": "<ruby>使わ<rt>つかわ</rt></ruby>なくてもいいし",
+      "zh": "不用用也行",
+      "en": "You don't have to use it if you don't want to."
+    },
+    {
+      "id": 56,
+      "start": 207.2,
+      "end": 210.68,
+      "ts": "03:27.200 -> 03:30.680",
+      "jp": "日本語を使って間違えても全然いいし",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby><ruby>間違え<rt>まちがえ</rt></ruby>ても<ruby>全然<rt>ぜんぜん</rt></ruby>いいし",
+      "zh": "用日语说错了也没关系ipsisquisquis",
+      "en": "It's totally fine to make mistakes using Japanese."
+    },
+    {
+      "id": 57,
+      "start": 210.68,
+      "end": 212.52,
+      "ts": "03:30.680 -> 03:32.520",
+      "jp": "あんまり心配しないでください",
+      "jp_html": "あんまり<ruby>心配<rt>しんぱい</rt></ruby>しないでください",
+      "zh": "请不要过于担心",
+      "en": "Don't worry too much."
+    },
+    {
+      "id": 58,
+      "start": 212.52,
+      "end": 215.26,
+      "ts": "03:32.520 -> 03:35.260",
+      "jp": "いろいろな場所でね",
+      "jp_html": "いろいろな<ruby>場所<rt>ばしょ</rt></ruby>でね",
+      "zh": "在很多地方呢",
+      "en": "In many places, you know."
+    },
+    {
+      "id": 59,
+      "start": 215.26,
+      "end": 219.46,
+      "ts": "03:35.260 -> 03:39.460",
+      "jp": "スーパー、コンビニ、居酒屋、レストラン",
+      "jp_html": "スーパー、コンビニ、<ruby>居酒屋<rt>いざかや</rt></ruby>、レストラン",
+      "zh": "超市、便利店、居酒屋、餐馆",
+      "en": "supermarket, convenience store, izakaya, restaurant"
+    },
+    {
+      "id": 60,
+      "start": 219.46,
+      "end": 221.52,
+      "ts": "03:39.460 -> 03:41.520",
+      "jp": "ホテル、旅館",
+      "jp_html": "ホテル、<ruby>旅館<rt>りょかん</rt></ruby>",
+      "zh": "酒店、旅馆",
+      "en": "Hotel, lodging"
+    },
+    {
+      "id": 61,
+      "start": 221.52,
+      "end": 224.38,
+      "ts": "03:41.520 -> 03:44.380",
+      "jp": "いろいろなところで",
+      "jp_html": "いろいろなところで",
+      "zh": "在很多地方",
+      "en": "In many places"
+    },
+    {
+      "id": 62,
+      "start": 224.38,
+      "end": 226.32,
+      "ts": "03:44.380 -> 03:46.320",
+      "jp": "全然間違っていいです",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>間違っ<rt>まちがっ</rt></ruby>ていいです",
+      "zh": "完全错了也没关系",
+      "en": "It's okay to be completely wrong."
+    },
+    {
+      "id": 63,
+      "start": 226.32,
+      "end": 228.28,
+      "ts": "03:46.320 -> 03:48.280",
+      "jp": "全然話せなくても大丈夫",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>話せ<rt>はなせ</rt></ruby>なくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "完全不会说也没关系",
+      "en": "It's okay even if you can't talk at all."
+    },
+    {
+      "id": 64,
+      "start": 228.28,
+      "end": 230.88,
+      "ts": "03:48.280 -> 03:50.880",
+      "jp": "心配しないでください",
+      "jp_html": "<ruby>心配<rt>しんぱい</rt></ruby>しないでください",
+      "zh": "不要担心",
+      "en": "Don't worry about it."
+    },
+    {
+      "id": 65,
+      "start": 230.88,
+      "end": 235.74,
+      "ts": "03:50.880 -> 03:55.740",
+      "jp": "少しずつ楽しく勉強を続けていきましょう",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>楽しく<rt>たのしく</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>続け<rt>つづけ</rt></ruby>ていきましょう",
+      "zh": "让我们一点一点地愉快地继续学习吧",
+      "en": "Let's continue studying happily little by little."
+    },
+    {
+      "id": 66,
+      "start": 235.74,
+      "end": 237.68,
+      "ts": "03:55.740 -> 03:57.680",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
