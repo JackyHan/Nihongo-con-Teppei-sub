@@ -1,0 +1,1674 @@
+{
+  "id": "1590",
+  "title": "#1590「日本旅行について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1590.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1590.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/28/1590%e3%80%8c%e6%97%a5%e6%9c%ac%e6%97%85%e8%a1%8c%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.33,
+      "end": 2.83,
+      "ts": "00:01.330 -> 00:02.830",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.83,
+      "end": 7.91,
+      "ts": "00:02.830 -> 00:07.910",
+      "jp": "今日は日本旅行について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>日本旅行<rt>にほんりょこう</rt></ruby>について",
+      "zh": "今天关于日本旅游的话题",
+      "en": "Today about a trip to Japan"
+    },
+    {
+      "id": 2,
+      "start": 7.91,
+      "end": 10.97,
+      "ts": "00:07.910 -> 00:10.970",
+      "jp": "はいみなさんおはようございます",
+      "jp_html": "はいみなさんおはようございます",
+      "zh": "大家早上好",
+      "en": "Good morning everyone"
+    },
+    {
+      "id": 3,
+      "start": 10.97,
+      "end": 14.33,
+      "ts": "00:10.970 -> 00:14.330",
+      "jp": "日本語コンテッペ朝の時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペ<ruby>朝<rt>あさ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语台词是朝的时间哦",
+      "en": "It's the time of the Japanese Contemple era in Japanese."
+    },
+    {
+      "id": 4,
+      "start": 14.33,
+      "end": 16.03,
+      "ts": "00:14.330 -> 00:16.030",
+      "jp": "午前ですね",
+      "jp_html": "<ruby>午前<rt>ごぜん</rt></ruby>ですね",
+      "zh": "上午呢",
+      "en": "It's in the morning."
+    },
+    {
+      "id": 5,
+      "start": 16.03,
+      "end": 17.79,
+      "ts": "00:16.030 -> 00:17.790",
+      "jp": "朝ですね",
+      "jp_html": "<ruby>朝<rt>あさ</rt></ruby>ですね",
+      "zh": "早上好",
+      "en": "It's morning."
+    },
+    {
+      "id": 6,
+      "start": 17.79,
+      "end": 19.49,
+      "ts": "00:17.790 -> 00:19.490",
+      "jp": "まあ9時ぐらい",
+      "jp_html": "まあ9<ruby>時<rt>とき</rt></ruby>ぐらい",
+      "zh": "大概九点左右",
+      "en": "About 9 o'clock"
+    },
+    {
+      "id": 7,
+      "start": 19.49,
+      "end": 21.73,
+      "ts": "00:19.490 -> 00:21.730",
+      "jp": "午前9時ぐらいいいですね",
+      "jp_html": "<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>とき</rt></ruby>ぐらいいいですね",
+      "zh": "上午9点左右不错",
+      "en": "Around 9 AM is good."
+    },
+    {
+      "id": 8,
+      "start": 21.73,
+      "end": 24.73,
+      "ts": "00:21.730 -> 00:24.730",
+      "jp": "今日は天気も良くて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>天気<rt>てんき</rt></ruby>も<ruby>良く<rt>よく</rt></ruby>て",
+      "zh": "今天天气也很好",
+      "en": "Today the weather is also nice"
+    },
+    {
+      "id": 9,
+      "start": 24.73,
+      "end": 26.61,
+      "ts": "00:24.730 -> 00:26.610",
+      "jp": "僕はめっちゃ元気なので",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>めっちゃ<ruby>元気<rt>げんき</rt></ruby>なので",
+      "zh": "我感觉非常棒所以",
+      "en": "I am feeling really energetic so"
+    },
+    {
+      "id": 10,
+      "start": 26.61,
+      "end": 30.23,
+      "ts": "00:26.610 -> 00:30.230",
+      "jp": "まあ日本旅行について話したいと思います",
+      "jp_html": "まあ<ruby>日本旅行<rt>にほんりょこう</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想谈谈日本旅游事宜",
+      "en": "I want to talk about Japanese travel."
+    },
+    {
+      "id": 11,
+      "start": 30.23,
+      "end": 35.47,
+      "ts": "00:30.230 -> 00:35.470",
+      "jp": "皆さんは日本旅行したことがありますか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>日本旅行<rt>にほんりょこう</rt></ruby>したことがありますか",
+      "zh": "你们去过日本旅游吗？",
+      "en": "Have you gone on a trip to Japan?"
+    },
+    {
+      "id": 12,
+      "start": 35.47,
+      "end": 38.19,
+      "ts": "00:35.470 -> 00:38.190",
+      "jp": "日本に来たことがありますか",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来た<rt>きた</rt></ruby>ことがありますか",
+      "zh": "您来过日本吗？",
+      "en": "Have you come to Japan before?"
+    },
+    {
+      "id": 13,
+      "start": 38.19,
+      "end": 41.87,
+      "ts": "00:38.190 -> 00:41.870",
+      "jp": "ある人もいるない人もいるでしょう",
+      "jp_html": "ある<ruby>人<rt>にん</rt></ruby>もいるない<ruby>人<rt>にん</rt></ruby>もいるでしょう",
+      "zh": "有的有，没有的也有。",
+      "en": "Some people have it, and some people don't."
+    },
+    {
+      "id": 14,
+      "start": 41.87,
+      "end": 49.67,
+      "ts": "00:41.870 -> 00:49.670",
+      "jp": "僕はですね実は日本はあまり旅行したことがありません",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ですね<ruby>実は<rt>じつは</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>はあまり<ruby>旅行<rt>りょこう</rt></ruby>したことがありません",
+      "zh": "我其实没怎么去过日本旅游。",
+      "en": "I actually haven't traveled to Japan very much."
+    },
+    {
+      "id": 15,
+      "start": 49.67,
+      "end": 53.51,
+      "ts": "00:49.670 -> 00:53.510",
+      "jp": "まあまあまあまあまあまあ",
+      "jp_html": "まあまあまあまあまあまあ",
+      "zh": "嘛嘛嘛嘛嘛嘛",
+      "en": "Well well well well well well"
+    },
+    {
+      "id": 16,
+      "start": 53.51,
+      "end": 55.55,
+      "ts": "00:53.510 -> 00:55.550",
+      "jp": "そうですね",
+      "jp_html": "そうですね",
+      "zh": "是啊",
+      "en": "Yes, that's right."
+    },
+    {
+      "id": 17,
+      "start": 55.55,
+      "end": 59.97,
+      "ts": "00:55.550 -> 00:59.970",
+      "jp": "行ったことがない場所がたくさんあるんですね",
+      "jp_html": "<ruby>行った<rt>いった</rt></ruby>ことがない<ruby>場所<rt>ばしょ</rt></ruby>がたくさんあるんですね",
+      "zh": "原来你有很多没有去过的地方。",
+      "en": "There are many places I haven't gone to yet."
+    },
+    {
+      "id": 18,
+      "start": 59.97,
+      "end": 63.89,
+      "ts": "00:59.970 -> 01:03.890",
+      "jp": "そして行ったことがある場所もあります",
+      "jp_html": "そして<ruby>行った<rt>いった</rt></ruby>ことがある<ruby>場所<rt>ばしょ</rt></ruby>もあります",
+      "zh": "还有一些我去过的地方",
+      "en": "And there are also places I have been to."
+    },
+    {
+      "id": 19,
+      "start": 63.89,
+      "end": 71.23,
+      "ts": "01:03.890 -> 01:11.230",
+      "jp": "というわけで今日はちょっと日本旅行",
+      "jp_html": "というわけで<ruby>今日は<rt>こんにちは</rt></ruby>ちょっと<ruby>日本旅行<rt>にほんりょこう</rt></ruby>",
+      "zh": "因此今天稍微来一次日本旅行吧",
+      "en": "So today I'm going on a little Japan trip."
+    },
+    {
+      "id": 20,
+      "start": 71.23,
+      "end": 76.75,
+      "ts": "01:11.230 -> 01:16.750",
+      "jp": "僕がどこに行ったことがあるどこに行ったことがない",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がどこに<ruby>行った<rt>いった</rt></ruby>ことがあるどこに<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "我去过哪里没有去过哪里",
+      "en": "Where have I been, where have I not been?"
+    },
+    {
+      "id": 21,
+      "start": 76.75,
+      "end": 81.89,
+      "ts": "01:16.750 -> 01:21.890",
+      "jp": "県ですよね何県に行ったことがあって何県に行ったことがない",
+      "jp_html": "<ruby>県<rt>けん</rt></ruby>ですよね<ruby>何県<rt>なにけん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ことがあって<ruby>何県<rt>なにけん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "你是说去了哪个县？去过哪些县？没去过哪些县？",
+      "en": "Are you talking about which prefecture I've visited and which ones I haven't been to?"
+    },
+    {
+      "id": 22,
+      "start": 81.89,
+      "end": 84.77,
+      "ts": "01:21.890 -> 01:24.770",
+      "jp": "その話をしたいと思います",
+      "jp_html": "その<ruby>話<rt>はなし</rt></ruby>をしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想谈谈那个话题",
+      "en": "I want to tell that story."
+    },
+    {
+      "id": 23,
+      "start": 84.77,
+      "end": 88.85,
+      "ts": "01:24.770 -> 01:28.850",
+      "jp": "僕が子供の時ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>ですね",
+      "zh": "我小时候呢",
+      "en": "When I was a child."
+    },
+    {
+      "id": 24,
+      "start": 88.85,
+      "end": 90.91,
+      "ts": "01:28.850 -> 01:30.910",
+      "jp": "僕は子供の時",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "我小时候",
+      "en": "I was a child when"
+    },
+    {
+      "id": 25,
+      "start": 90.91,
+      "end": 97.55,
+      "ts": "01:30.910 -> 01:37.550",
+      "jp": "一回京都に行ったらしいですね",
+      "jp_html": "<ruby>一回<rt>いっかい</rt></ruby><ruby>京都<rt>きょうと</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>らしいですね",
+      "zh": "据说你去过京都一次呢",
+      "en": "It seems you went to Kyoto once."
+    },
+    {
+      "id": 26,
+      "start": 97.55,
+      "end": 99.45,
+      "ts": "01:37.550 -> 01:39.450",
+      "jp": "子供の時に",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "孩子时候",
+      "en": "When I was a child"
+    },
+    {
+      "id": 27,
+      "start": 99.45,
+      "end": 102.63,
+      "ts": "01:39.450 -> 01:42.630",
+      "jp": "僕のお父さんの弟",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>父さん<rt>とうさん</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>",
+      "zh": "我父亲的弟弟",
+      "en": "My father's brother"
+    },
+    {
+      "id": 28,
+      "start": 102.63,
+      "end": 104.11,
+      "ts": "01:42.630 -> 01:44.110",
+      "jp": "おじさん",
+      "jp_html": "おじさん",
+      "zh": "大叔",
+      "en": "Uncle"
+    },
+    {
+      "id": 29,
+      "start": 104.11,
+      "end": 107.39,
+      "ts": "01:44.110 -> 01:47.390",
+      "jp": "僕のおじさんが京都に住んでいる",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のおじさんが<ruby>京都<rt>きょうと</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる",
+      "zh": "我的叔叔住在京都",
+      "en": "My uncle lives in Kyoto."
+    },
+    {
+      "id": 30,
+      "start": 107.39,
+      "end": 108.09,
+      "ts": "01:47.390 -> 01:48.090",
+      "jp": "今でも",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>でも",
+      "zh": "现在仍然",
+      "en": "Now still"
+    },
+    {
+      "id": 31,
+      "start": 108.09,
+      "end": 113.05,
+      "ts": "01:48.090 -> 01:53.050",
+      "jp": "なので僕が3歳ぐらいかな",
+      "jp_html": "なので<ruby>僕<rt>ぼく</rt></ruby>が3<ruby>歳<rt>とし</rt></ruby>ぐらいかな",
+      "zh": "所以我当时大概三岁左右吧",
+      "en": "So I was about 3 years old."
+    },
+    {
+      "id": 32,
+      "start": 113.05,
+      "end": 115.61,
+      "ts": "01:53.050 -> 01:55.610",
+      "jp": "3歳4歳ぐらいの時に",
+      "jp_html": "3<ruby>歳<rt>とし</rt></ruby>4<ruby>歳<rt>とし</rt></ruby>ぐらいの<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "3岁到4岁左右的时候",
+      "en": "Around 3 to 4 years old"
+    },
+    {
+      "id": 33,
+      "start": 115.61,
+      "end": 117.37,
+      "ts": "01:55.610 -> 01:57.370",
+      "jp": "一回京都に行ったらしいです",
+      "jp_html": "<ruby>一回<rt>いっかい</rt></ruby><ruby>京都<rt>きょうと</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>らしいです",
+      "zh": "据说他去过京都一次",
+      "en": "Seems like he went to Kyoto once."
+    },
+    {
+      "id": 34,
+      "start": 117.37,
+      "end": 123.65,
+      "ts": "01:57.370 -> 02:03.650",
+      "jp": "はいなのでまず僕が出身の大分県そして京都府ですね",
+      "jp_html": "はいなのでまず<ruby>僕<rt>ぼく</rt></ruby>が<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>大分県<rt>おおいたけん</rt></ruby>そして<ruby>京都府<rt>きょうとふ</rt></ruby>ですね",
+      "zh": "所以我是首先出生在大分县，然后是京都府。",
+      "en": "Yes so first let me say that I am from Kumamoto Prefecture and Kyoto Prefecture."
+    },
+    {
+      "id": 35,
+      "start": 123.65,
+      "end": 125.31,
+      "ts": "02:03.650 -> 02:05.310",
+      "jp": "行ったことがある",
+      "jp_html": "<ruby>行った<rt>いった</rt></ruby>ことがある",
+      "zh": "去过",
+      "en": "I have been there before."
+    },
+    {
+      "id": 36,
+      "start": 125.31,
+      "end": 135.15,
+      "ts": "02:05.310 -> 02:15.150",
+      "jp": "次に小学校5年か6年ぐらいの時に四国に行きましたね",
+      "jp_html": "<ruby>次に<rt>つぎに</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>5<ruby>年<rt>ねん</rt></ruby>か6<ruby>年<rt>ねん</rt></ruby>ぐらいの<ruby>時に<rt>ときに</rt></ruby><ruby>四国<rt>しこく</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ましたね",
+      "zh": "然后大概是小学五年级或六年级的时候我去了一次四国",
+      "en": "Next, I went to Shikoku when I was around 5th or 6th grade."
+    },
+    {
+      "id": 37,
+      "start": 135.15,
+      "end": 136.47,
+      "ts": "02:15.150 -> 02:16.470",
+      "jp": "高知県ですね",
+      "jp_html": "<ruby>高知県<rt>こうちけん</rt></ruby>ですね",
+      "zh": "高知县啊",
+      "en": "Okay, it's Kochi Prefecture."
+    },
+    {
+      "id": 38,
+      "start": 136.47,
+      "end": 141.45,
+      "ts": "02:16.470 -> 02:21.450",
+      "jp": "大分からフェリーに乗って高知県に行ったことがある",
+      "jp_html": "<ruby>大分<rt>おおいた</rt></ruby>からフェリーに<ruby>乗って<rt>のって</rt></ruby><ruby>高知県<rt>こうちけん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ことがある",
+      "zh": "我曾经从大分乘船去了高知县",
+      "en": "I have been to Kochi Prefecture by ferry from Fukuoka."
+    },
+    {
+      "id": 39,
+      "start": 141.45,
+      "end": 145.65,
+      "ts": "02:21.450 -> 02:25.650",
+      "jp": "はいなので3県目",
+      "jp_html": "はいなので3<ruby>県<rt>けん</rt></ruby><ruby>目<rt>め</rt></ruby>",
+      "zh": "好的所以第三县",
+      "en": "Yes so for the third prefecture"
+    },
+    {
+      "id": 40,
+      "start": 145.65,
+      "end": 148.31,
+      "ts": "02:25.650 -> 02:28.310",
+      "jp": "3つ目の県は高知県ですね",
+      "jp_html": "3つ<ruby>目の<rt>めの</rt></ruby><ruby>県<rt>けん</rt></ruby>は<ruby>高知県<rt>こうちけん</rt></ruby>ですね",
+      "zh": "第三个县是高知县吧？",
+      "en": "The third prefecture is Kochi Prefecture, right?"
+    },
+    {
+      "id": 41,
+      "start": 148.31,
+      "end": 149.73,
+      "ts": "02:28.310 -> 02:29.730",
+      "jp": "高知県に行ったことがある",
+      "jp_html": "<ruby>高知県<rt>こうちけん</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ことがある",
+      "zh": "我去过高知县",
+      "en": "I have been to Kochi Prefecture."
+    },
+    {
+      "id": 42,
+      "start": 149.73,
+      "end": 151.19,
+      "ts": "02:29.730 -> 02:31.190",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 43,
+      "start": 151.19,
+      "end": 155.53,
+      "ts": "02:31.190 -> 02:35.530",
+      "jp": "これも小学校6年の時に",
+      "jp_html": "これも<ruby>小学校<rt>しょうがっこう</rt></ruby>6<ruby>年<rt>ねん</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "这也是六年级时",
+      "en": "This was also when I was in sixth grade of elementary school."
+    },
+    {
+      "id": 44,
+      "start": 155.53,
+      "end": 158.55,
+      "ts": "02:35.530 -> 02:38.550",
+      "jp": "学校の修学旅行で",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>修学旅行<rt>しゅうがくりょこう</rt></ruby>で",
+      "zh": "学校的修学旅行中",
+      "en": "For the school's field trip"
+    },
+    {
+      "id": 45,
+      "start": 158.55,
+      "end": 161.31,
+      "ts": "02:38.550 -> 02:41.310",
+      "jp": "長崎県に行きました",
+      "jp_html": "<ruby>長崎県<rt>ながさきけん</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "我去长崎县去了",
+      "en": "I went to Nagasaki Prefecture."
+    },
+    {
+      "id": 46,
+      "start": 161.31,
+      "end": 164.63,
+      "ts": "02:41.310 -> 02:44.630",
+      "jp": "修学旅行で長崎県",
+      "jp_html": "<ruby>修学旅行<rt>しゅうがくりょこう</rt></ruby>で<ruby>長崎県<rt>ながさきけん</rt></ruby>",
+      "zh": "修学旅行到长崎县",
+      "en": "Study trip to Nagasaki Prefecture"
+    },
+    {
+      "id": 47,
+      "start": 164.63,
+      "end": 166.23,
+      "ts": "02:44.630 -> 02:46.230",
+      "jp": "そして佐賀県かな",
+      "jp_html": "そして<ruby>佐賀県<rt>さがけん</rt></ruby>かな",
+      "zh": "然后是 Saga 县吧",
+      "en": "And then, Saga Prefecture?"
+    },
+    {
+      "id": 48,
+      "start": 166.23,
+      "end": 167.49,
+      "ts": "02:46.230 -> 02:47.490",
+      "jp": "そうですね",
+      "jp_html": "そうですね",
+      "zh": "是啊",
+      "en": "Yes, that's right."
+    },
+    {
+      "id": 49,
+      "start": 167.49,
+      "end": 170.49,
+      "ts": "02:47.490 -> 02:50.490",
+      "jp": "長崎と佐賀に行ったことがあります",
+      "jp_html": "<ruby>長崎<rt>ながさき</rt></ruby>と<ruby>佐賀<rt>さが</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ことがあります",
+      "zh": "我去过长崎和佐贺。",
+      "en": "I have been to Nagasaki and Saga."
+    },
+    {
+      "id": 50,
+      "start": 170.49,
+      "end": 172.11,
+      "ts": "02:50.490 -> 02:52.110",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Therefore"
+    },
+    {
+      "id": 51,
+      "start": 172.11,
+      "end": 173.51,
+      "ts": "02:52.110 -> 02:53.510",
+      "jp": "長崎佐賀",
+      "jp_html": "<ruby>長崎<rt>ながさき</rt></ruby><ruby>佐賀<rt>さが</rt></ruby>",
+      "zh": "长崎佐贺",
+      "en": "Long崎Saga"
+    },
+    {
+      "id": 52,
+      "start": 173.51,
+      "end": 175.17,
+      "ts": "02:53.510 -> 02:55.170",
+      "jp": "今5個ですね",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>5<ruby>個<rt>こ</rt></ruby>ですね",
+      "zh": "现在五个呢",
+      "en": "Now 5 please."
+    },
+    {
+      "id": 53,
+      "start": 175.17,
+      "end": 180.39,
+      "ts": "02:55.170 -> 03:00.390",
+      "jp": "そして多分中学生の時",
+      "jp_html": "そして<ruby>多分<rt>たぶん</rt></ruby><ruby>中学生<rt>ちゅうがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "然后大概是在初中的时候",
+      "en": "And probably around middle school时光"
+    },
+    {
+      "id": 54,
+      "start": 180.39,
+      "end": 185.15,
+      "ts": "03:00.390 -> 03:05.150",
+      "jp": "広島かな",
+      "jp_html": "<ruby>広島<rt>ひろしま</rt></ruby>かな",
+      "zh": "广岛吧",
+      "en": "Hiroshima, perhaps?"
+    },
+    {
+      "id": 55,
+      "start": 185.15,
+      "end": 187.73,
+      "ts": "03:05.150 -> 03:07.730",
+      "jp": "そうですね広島に行った",
+      "jp_html": "そうですね<ruby>広島<rt>ひろしま</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>",
+      "zh": "对，我去过广岛。",
+      "en": "Yes, I went to Hiroshima."
+    },
+    {
+      "id": 56,
+      "start": 187.73,
+      "end": 188.89,
+      "ts": "03:07.730 -> 03:08.890",
+      "jp": "6",
+      "jp_html": "6",
+      "zh": "6",
+      "en": "Six"
+    },
+    {
+      "id": 57,
+      "start": 188.89,
+      "end": 196.31,
+      "ts": "03:08.890 -> 03:16.310",
+      "jp": "次高校生の時かな",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby><ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>かな",
+      "zh": "大概是上初中时吧",
+      "en": "Was it in junior high school?"
+    },
+    {
+      "id": 58,
+      "start": 196.31,
+      "end": 198.79,
+      "ts": "03:16.310 -> 03:18.790",
+      "jp": "福岡に行ったかな",
+      "jp_html": "<ruby>福岡<rt>ふくおか</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>かな",
+      "zh": "去福冈了没？",
+      "en": "Did you go to Fukuoka?"
+    },
+    {
+      "id": 59,
+      "start": 198.79,
+      "end": 203.33,
+      "ts": "03:18.790 -> 03:23.330",
+      "jp": "中学校か高校の時どっちかだったかな",
+      "jp_html": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby>か<ruby>高校<rt>こうこう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>どっちかだったかな",
+      "zh": "是中学还是高中时候呢",
+      "en": "It was either middle school or high school, I think."
+    },
+    {
+      "id": 60,
+      "start": 203.33,
+      "end": 204.91,
+      "ts": "03:23.330 -> 03:24.910",
+      "jp": "福岡に行きました",
+      "jp_html": "<ruby>福岡<rt>ふくおか</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "我去福冈了",
+      "en": "I went to Fukuoka."
+    },
+    {
+      "id": 61,
+      "start": 204.91,
+      "end": 210.49,
+      "ts": "03:24.910 -> 03:30.490",
+      "jp": "そして京都に2回目行った",
+      "jp_html": "そして<ruby>京都<rt>きょうと</rt></ruby>に2<ruby>回目<rt>かいめ</rt></ruby><ruby>行った<rt>いった</rt></ruby>",
+      "zh": "然后我又去了京都两次",
+      "en": "And I went to Kyoto for the second time."
+    },
+    {
+      "id": 62,
+      "start": 210.49,
+      "end": 213.51,
+      "ts": "03:30.490 -> 03:33.510",
+      "jp": "あと北海道に行きました",
+      "jp_html": "あと<ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "后来我又去了北海道。",
+      "en": "I also went to Hokkaido."
+    },
+    {
+      "id": 63,
+      "start": 213.51,
+      "end": 216.51,
+      "ts": "03:33.510 -> 03:36.510",
+      "jp": "でちょっとだけ東京に行きました",
+      "jp_html": "でちょっとだけ<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "我去东京玩了一趟",
+      "en": "I went to Tokyo for a little while."
+    },
+    {
+      "id": 64,
+      "start": 216.51,
+      "end": 220.77,
+      "ts": "03:36.510 -> 03:40.770",
+      "jp": "これもあの高校の修学旅行ですね",
+      "jp_html": "これもあの<ruby>高校<rt>こうこう</rt></ruby>の<ruby>修学旅行<rt>しゅうがくりょこう</rt></ruby>ですね",
+      "zh": "这也是那个高中的修学旅行呢",
+      "en": "This is also from that high school study trip, right?"
+    },
+    {
+      "id": 65,
+      "start": 220.77,
+      "end": 228.99,
+      "ts": "03:40.770 -> 03:48.990",
+      "jp": "そして大学生になって東京に住んでますね",
+      "jp_html": "そして<ruby>大学生<rt>だいがくせい</rt></ruby>になって<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でますね",
+      "zh": "然后你是在东京上大学对吧？",
+      "en": "And you're living in Tokyo now that you're a university student, right?"
+    },
+    {
+      "id": 66,
+      "start": 228.99,
+      "end": 230.71,
+      "ts": "03:48.990 -> 03:50.710",
+      "jp": "その時埼玉に行きました",
+      "jp_html": "その<ruby>時<rt>とき</rt></ruby><ruby>埼玉<rt>さいたま</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "那时我去了一趟埼玉",
+      "en": "At that time, I went to Saitama."
+    },
+    {
+      "id": 67,
+      "start": 230.71,
+      "end": 232.23,
+      "ts": "03:50.710 -> 03:52.230",
+      "jp": "神奈川に行きました",
+      "jp_html": "<ruby>神奈川<rt>かながわ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "我去神奈川了",
+      "en": "I went to Kanagawa."
+    },
+    {
+      "id": 68,
+      "start": 232.23,
+      "end": 233.95,
+      "ts": "03:52.230 -> 03:53.950",
+      "jp": "千葉に行きました",
+      "jp_html": "<ruby>千葉<rt>ちば</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "我去过千叶",
+      "en": "I went to Chiba."
+    },
+    {
+      "id": 69,
+      "start": 233.95,
+      "end": 238.11,
+      "ts": "03:53.950 -> 03:58.110",
+      "jp": "それぐらいかな",
+      "jp_html": "それぐらいかな",
+      "zh": "大概就是那样吧",
+      "en": "That's about it, I guess."
+    },
+    {
+      "id": 70,
+      "start": 238.11,
+      "end": 241.91,
+      "ts": "03:58.110 -> 04:01.910",
+      "jp": "そしてその後",
+      "jp_html": "そしてその<ruby>後<rt>のち</rt></ruby>",
+      "zh": "然后之后",
+      "en": "And then afterwards"
+    },
+    {
+      "id": 71,
+      "start": 241.91,
+      "end": 244.89,
+      "ts": "04:01.910 -> 04:04.890",
+      "jp": "行ったことがあるのは",
+      "jp_html": "<ruby>行った<rt>いった</rt></ruby>ことがあるのは",
+      "zh": "去过的地方是",
+      "en": "I have been to"
+    },
+    {
+      "id": 72,
+      "start": 244.89,
+      "end": 249.49,
+      "ts": "04:04.890 -> 04:09.490",
+      "jp": "例えば静岡とかね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>静岡<rt>しずおか</rt></ruby>とかね",
+      "zh": "比如静冈之类的",
+      "en": "For example, Shizuoka."
+    },
+    {
+      "id": 73,
+      "start": 249.49,
+      "end": 253.11,
+      "ts": "04:09.490 -> 04:13.110",
+      "jp": "それぐらいか",
+      "jp_html": "それぐらいか",
+      "zh": "竟然只有那样吗？",
+      "en": "That's about it?"
+    },
+    {
+      "id": 74,
+      "start": 253.11,
+      "end": 255.79,
+      "ts": "04:13.110 -> 04:15.790",
+      "jp": "大阪も行ったことありますね",
+      "jp_html": "<ruby>大阪<rt>おおさか</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>ことありますね",
+      "zh": "我也去过大阪呢",
+      "en": "I have been to Osaka as well."
+    },
+    {
+      "id": 75,
+      "start": 255.79,
+      "end": 259.19,
+      "ts": "04:15.790 -> 04:19.190",
+      "jp": "大学生の時に何回か大阪に行きましたね",
+      "jp_html": "<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby><ruby>何回<rt>なんかい</rt></ruby>か<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ましたね",
+      "zh": "大学的时候我曾经几次去大阪",
+      "en": "I went to Osaka a few times when I was in university."
+    },
+    {
+      "id": 76,
+      "start": 259.19,
+      "end": 263.09,
+      "ts": "04:19.190 -> 04:23.090",
+      "jp": "大阪、京都、神戸",
+      "jp_html": "<ruby>大阪<rt>おおさか</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>、<ruby>神戸<rt>こうべ</rt></ruby>",
+      "zh": "大阪、京都、 Kobe",
+      "en": "Osaka, Kyoto, Kobe"
+    },
+    {
+      "id": 77,
+      "start": 263.09,
+      "end": 265.25,
+      "ts": "04:23.090 -> 04:25.250",
+      "jp": "行ったことがある",
+      "jp_html": "<ruby>行った<rt>いった</rt></ruby>ことがある",
+      "zh": "去过",
+      "en": "I have been there before."
+    },
+    {
+      "id": 78,
+      "start": 265.25,
+      "end": 267.61,
+      "ts": "04:25.250 -> 04:27.610",
+      "jp": "それぐらいかな",
+      "jp_html": "それぐらいかな",
+      "zh": "大概就是那样吧",
+      "en": "Is that about right?"
+    },
+    {
+      "id": 79,
+      "start": 267.61,
+      "end": 272.26,
+      "ts": "04:27.610 -> 04:32.260",
+      "jp": "そんなもんですね",
+      "jp_html": "そんなもんですね",
+      "zh": "不外如此吧",
+      "en": "That's just how it is."
+    },
+    {
+      "id": 80,
+      "start": 272.26,
+      "end": 274.04,
+      "ts": "04:32.260 -> 04:34.040",
+      "jp": "あと宮崎に行きますね",
+      "jp_html": "あと<ruby>宮崎<rt>みやざき</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ますね",
+      "zh": "之后还会去宫崎吧",
+      "en": "We will go to Miyazaki next."
+    },
+    {
+      "id": 81,
+      "start": 274.04,
+      "end": 276.22,
+      "ts": "04:34.040 -> 04:36.220",
+      "jp": "宮崎に行ったことがある",
+      "jp_html": "<ruby>宮崎<rt>みやざき</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ことがある",
+      "zh": "我去过宫崎",
+      "en": "I have been to宫崎."
+    },
+    {
+      "id": 82,
+      "start": 276.22,
+      "end": 277.88,
+      "ts": "04:36.220 -> 04:37.880",
+      "jp": "そんなもんかな",
+      "jp_html": "そんなもんかな",
+      "zh": "难道就是那样吗",
+      "en": "Is that all?"
+    },
+    {
+      "id": 83,
+      "start": 277.88,
+      "end": 280.5,
+      "ts": "04:37.880 -> 04:40.500",
+      "jp": "これで終わりです",
+      "jp_html": "これで<ruby>終わり<rt>おわり</rt></ruby>です",
+      "zh": "这就结束了",
+      "en": "This is the end."
+    },
+    {
+      "id": 84,
+      "start": 280.5,
+      "end": 282.02,
+      "ts": "04:40.500 -> 04:42.020",
+      "jp": "多分10ぐらいじゃないかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>10ぐらいじゃないかな",
+      "zh": "大概有十来个吧",
+      "en": "Probably around 10 or so."
+    },
+    {
+      "id": 85,
+      "start": 282.02,
+      "end": 284.1,
+      "ts": "04:42.020 -> 04:44.100",
+      "jp": "あとね",
+      "jp_html": "あとね",
+      "zh": "然后呢",
+      "en": "and then"
+    },
+    {
+      "id": 86,
+      "start": 284.1,
+      "end": 290.08,
+      "ts": "04:44.100 -> 04:50.080",
+      "jp": "例えばフジロックに行った時に",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>フジロックに<ruby>行った<rt>いった</rt></ruby><ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "比如去 Fuji Rock 时",
+      "en": "For example, when I went to Fuji Rock."
+    },
+    {
+      "id": 87,
+      "start": 290.08,
+      "end": 291.96,
+      "ts": "04:50.080 -> 04:51.960",
+      "jp": "群馬新潟とかに行ったけど",
+      "jp_html": "<ruby>群馬<rt>ぐんま</rt></ruby><ruby>新潟<rt>にいがた</rt></ruby>とかに<ruby>行った<rt>いった</rt></ruby>けど",
+      "zh": "我去过群马和新潟等地",
+      "en": "I went to Gunma and Niigata."
+    },
+    {
+      "id": 88,
+      "start": 291.96,
+      "end": 293.04,
+      "ts": "04:51.960 -> 04:53.040",
+      "jp": "あれはほとんど",
+      "jp_html": "あれはほとんど",
+      "zh": "那几乎完全是",
+      "en": "That was almost"
+    },
+    {
+      "id": 89,
+      "start": 293.04,
+      "end": 294.72,
+      "ts": "04:53.040 -> 04:54.720",
+      "jp": "街を見てないので",
+      "jp_html": "<ruby>街<rt>まち</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>ないので",
+      "zh": "没有看街道",
+      "en": "I haven't seen the street so"
+    },
+    {
+      "id": 90,
+      "start": 294.72,
+      "end": 297.36,
+      "ts": "04:54.720 -> 04:57.360",
+      "jp": "行ってないのと同じですね",
+      "jp_html": "<ruby>行って<rt>いって</rt></ruby>ないのと<ruby>同じ<rt>おなじ</rt></ruby>ですね",
+      "zh": "和没去是一样的吧",
+      "en": "It's the same as not going."
+    },
+    {
+      "id": 91,
+      "start": 297.36,
+      "end": 299.6,
+      "ts": "04:57.360 -> 04:59.600",
+      "jp": "ここで終わり",
+      "jp_html": "ここで<ruby>終わり<rt>おわり</rt></ruby>",
+      "zh": "到这里结束",
+      "en": "Here it ends"
+    },
+    {
+      "id": 92,
+      "start": 299.6,
+      "end": 301.28,
+      "ts": "04:59.600 -> 05:01.280",
+      "jp": "これだけです",
+      "jp_html": "これだけです",
+      "zh": "这就是全部了",
+      "en": "This is all."
+    },
+    {
+      "id": 93,
+      "start": 301.28,
+      "end": 303.52,
+      "ts": "05:01.280 -> 05:03.520",
+      "jp": "全然行ってないですね",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>行って<rt>いって</rt></ruby>ないですね",
+      "zh": "你完全没去过吧？",
+      "en": "You haven't been at all, right?"
+    },
+    {
+      "id": 94,
+      "start": 303.52,
+      "end": 305.26,
+      "ts": "05:03.520 -> 05:05.260",
+      "jp": "全然行ってない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>行って<rt>いって</rt></ruby>ない",
+      "zh": "根本没去过",
+      "en": "I haven't gone at all."
+    },
+    {
+      "id": 95,
+      "start": 305.26,
+      "end": 308.4,
+      "ts": "05:05.260 -> 05:08.400",
+      "jp": "全然行ったことがないですね",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>行った<rt>いった</rt></ruby>ことがないですね",
+      "zh": "您完全没去过吧？",
+      "en": "You haven't gone at all, right?"
+    },
+    {
+      "id": 96,
+      "start": 308.4,
+      "end": 311.5,
+      "ts": "05:08.400 -> 05:11.500",
+      "jp": "例えば東北は一つも行ったことがありません",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>東北<rt>とうほく</rt></ruby>は<ruby>一つ<rt>ひとつ</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>ことがありません",
+      "zh": "例如东北一个也没去过",
+      "en": "For example, I have never been to Tohoku."
+    },
+    {
+      "id": 97,
+      "start": 311.5,
+      "end": 314.22,
+      "ts": "05:11.500 -> 05:14.220",
+      "jp": "僕は東北に行ったことがない",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>東北<rt>とうほく</rt></ruby>に<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "我从未去过东北",
+      "en": "I have never been to Tohoku."
+    },
+    {
+      "id": 98,
+      "start": 314.22,
+      "end": 316.32,
+      "ts": "05:14.220 -> 05:16.320",
+      "jp": "北海道も",
+      "jp_html": "<ruby>北海道<rt>ほっかいどう</rt></ruby>も",
+      "zh": "北海道也",
+      "en": "Hokkaido also"
+    },
+    {
+      "id": 99,
+      "start": 316.32,
+      "end": 320.8,
+      "ts": "05:16.320 -> 05:20.800",
+      "jp": "だから札幌と函館しか行ってない",
+      "jp_html": "だから<ruby>札幌<rt>さっぽろ</rt></ruby>と<ruby>函館<rt>はこだて</rt></ruby>しか<ruby>行って<rt>いって</rt></ruby>ない",
+      "zh": "所以只去了札幌和函馆",
+      "en": "That's why I've only been to Sapporo and Hakodate."
+    },
+    {
+      "id": 100,
+      "start": 320.8,
+      "end": 323.32,
+      "ts": "05:20.800 -> 05:23.320",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 101,
+      "start": 323.32,
+      "end": 326.74,
+      "ts": "05:23.320 -> 05:26.740",
+      "jp": "北陸ですね",
+      "jp_html": "<ruby>北陸<rt>ほくりく</rt></ruby>ですね",
+      "zh": "那是北陆地区呢",
+      "en": "It's Kansai, right?"
+    },
+    {
+      "id": 102,
+      "start": 326.74,
+      "end": 328.14,
+      "ts": "05:26.740 -> 05:28.140",
+      "jp": "北陸も行ったことがない",
+      "jp_html": "<ruby>北陸<rt>ほくりく</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "也没有去过北陆",
+      "en": "I have never been to Chūbu either."
+    },
+    {
+      "id": 103,
+      "start": 328.14,
+      "end": 333.76,
+      "ts": "05:28.140 -> 05:33.760",
+      "jp": "富山石川あの辺も行ったことがない",
+      "jp_html": "<ruby>富山<rt>とやま</rt></ruby><ruby>石川<rt>いしかわ</rt></ruby>あの<ruby>辺<rt>へん</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "富山石川那边也没去过大。",
+      "en": "I've never been to that area around Fukui and Toyama."
+    },
+    {
+      "id": 104,
+      "start": 333.76,
+      "end": 336.12,
+      "ts": "05:33.760 -> 05:36.120",
+      "jp": "名古屋も行ってない",
+      "jp_html": "<ruby>名古屋<rt>なごや</rt></ruby>も<ruby>行って<rt>いって</rt></ruby>ない",
+      "zh": "没有去过名古屋",
+      "en": "I haven't been to Nagoya either."
+    },
+    {
+      "id": 105,
+      "start": 336.12,
+      "end": 338.36,
+      "ts": "05:36.120 -> 05:38.360",
+      "jp": "名古屋も行ってません",
+      "jp_html": "<ruby>名古屋<rt>なごや</rt></ruby>も<ruby>行って<rt>いって</rt></ruby>ません",
+      "zh": "还没有去过名古屋呢",
+      "en": "I haven't been to Nagoya either."
+    },
+    {
+      "id": 106,
+      "start": 338.36,
+      "end": 340.32,
+      "ts": "05:38.360 -> 05:40.320",
+      "jp": "行ったことがない",
+      "jp_html": "<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "没去过",
+      "en": "I have not gone there."
+    },
+    {
+      "id": 107,
+      "start": 340.32,
+      "end": 345.4,
+      "ts": "05:40.320 -> 05:45.400",
+      "jp": "三重とか和歌山とかあの辺も行ったことがない",
+      "jp_html": "<ruby>三重<rt>みえ</rt></ruby>とか<ruby>和歌山<rt>わかやま</rt></ruby>とかあの<ruby>辺<rt>へん</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "我没有去过三重或者和歌山那边。",
+      "en": "I haven't been to places like Mie or Wakayama in that area either."
+    },
+    {
+      "id": 108,
+      "start": 345.4,
+      "end": 349.32,
+      "ts": "05:45.400 -> 05:49.320",
+      "jp": "四国も本当に高知だけですね",
+      "jp_html": "<ruby>四国<rt>しこく</rt></ruby>も<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>高知<rt>こうち</rt></ruby>だけですね",
+      "zh": "确实只有高知啊",
+      "en": "Is it really just Kochi in Shikoku?"
+    },
+    {
+      "id": 109,
+      "start": 349.32,
+      "end": 352.4,
+      "ts": "05:49.320 -> 05:52.400",
+      "jp": "徳島香川愛媛行ったことがない",
+      "jp_html": "<ruby>徳<rt>とく</rt></ruby><ruby>島<rt>しま</rt></ruby><ruby>香川<rt>かがわ</rt></ruby><ruby>愛媛<rt>えひめ</rt></ruby><ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "没有去过德岛、香川和爱媛",
+      "en": "I have not been to Tokushima, Kagawa, or Ehime."
+    },
+    {
+      "id": 110,
+      "start": 352.4,
+      "end": 355.34,
+      "ts": "05:52.400 -> 05:55.340",
+      "jp": "いわゆる中国地方",
+      "jp_html": "いわゆる<ruby>中国地方<rt>ちゅうごくちほう</rt></ruby>",
+      "zh": "所谓的中国地区",
+      "en": "The so-called China region"
+    },
+    {
+      "id": 111,
+      "start": 355.34,
+      "end": 358.52,
+      "ts": "05:55.340 -> 05:58.520",
+      "jp": "これも広島以外行ったことがない",
+      "jp_html": "これも<ruby>広島<rt>ひろしま</rt></ruby><ruby>以外<rt>いがい</rt></ruby><ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "这我也只去过一次，不在广岛之外的地方。",
+      "en": "This is also somewhere I've never been except Hiroshima."
+    },
+    {
+      "id": 112,
+      "start": 358.52,
+      "end": 362.76,
+      "ts": "05:58.520 -> 06:02.760",
+      "jp": "のりこさんの出身の岡山とか",
+      "jp_html": "のりこさんの<ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>岡山<rt>おかやま</rt></ruby>とか",
+      "zh": "的里子小姐的故乡是冈山吧",
+      "en": "Nariko's hometown is Okayama."
+    },
+    {
+      "id": 113,
+      "start": 362.76,
+      "end": 367.84,
+      "ts": "06:02.760 -> 06:07.840",
+      "jp": "鳥取とか",
+      "jp_html": "<ruby>鳥取<rt>とっとり</rt></ruby>とか",
+      "zh": "鸟取县或",
+      "en": "Tottori or something"
+    },
+    {
+      "id": 114,
+      "start": 367.84,
+      "end": 372.71,
+      "ts": "06:07.840 -> 06:12.710",
+      "jp": "山口とか行ったことがない",
+      "jp_html": "<ruby>山口<rt>やまぐち</rt></ruby>とか<ruby>行った<rt>いった</rt></ruby>ことがない",
+      "zh": "没去过山口县",
+      "en": "I have never been to Yamaguchi."
+    },
+    {
+      "id": 115,
+      "start": 372.71,
+      "end": 374.33,
+      "ts": "06:12.710 -> 06:14.330",
+      "jp": "九州も",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>も",
+      "zh": "九州也",
+      "en": "Kyushu also"
+    },
+    {
+      "id": 116,
+      "start": 374.33,
+      "end": 380.71,
+      "ts": "06:14.330 -> 06:20.710",
+      "jp": "例えば熊本市は行ったことないし",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>熊本市<rt>くまもとし</rt></ruby>は<ruby>行った<rt>いった</rt></ruby>ことないし",
+      "zh": "比如熊本市就没有去过。",
+      "en": "For example, I haven't been to Kumamoto City yet."
+    },
+    {
+      "id": 117,
+      "start": 380.71,
+      "end": 383.99,
+      "ts": "06:20.710 -> 06:23.990",
+      "jp": "鹿児島も行ってないと思う",
+      "jp_html": "<ruby>鹿児<rt>かこ</rt></ruby><ruby>島<rt>しま</rt></ruby>も<ruby>行って<rt>いって</rt></ruby>ないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得没有去过鹿儿岛。",
+      "en": "I think you've never been to Kagoshima."
+    },
+    {
+      "id": 118,
+      "start": 383.99,
+      "end": 386.37,
+      "ts": "06:23.990 -> 06:26.370",
+      "jp": "そして沖縄も行ったことないんですね",
+      "jp_html": "そして<ruby>沖縄<rt>おきなわ</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>ことないんですね",
+      "zh": "而且你也没去过冲绳呢",
+      "en": "And you haven't been to Okinawa either?"
+    },
+    {
+      "id": 119,
+      "start": 386.37,
+      "end": 389.85,
+      "ts": "06:26.370 -> 06:29.850",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Therefore"
+    },
+    {
+      "id": 120,
+      "start": 389.85,
+      "end": 395.11,
+      "ts": "06:29.850 -> 06:35.110",
+      "jp": "僕は本当にたくさんの日本を知りません",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>本当<rt>ほんとう</rt></ruby>にたくさんの<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>知り<rt>しり</rt></ruby>ません",
+      "zh": "我其实不了解很多关于日本的事情",
+      "en": "I really don't know much about Japan."
+    },
+    {
+      "id": 121,
+      "start": 395.11,
+      "end": 396.91,
+      "ts": "06:35.110 -> 06:36.910",
+      "jp": "全然わからない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>わからない",
+      "zh": "完全不懂",
+      "en": "I don't understand at all"
+    },
+    {
+      "id": 122,
+      "start": 396.91,
+      "end": 399.37,
+      "ts": "06:36.910 -> 06:39.370",
+      "jp": "なぜですか先生と",
+      "jp_html": "なぜですか<ruby>先生<rt>せんせい</rt></ruby>と",
+      "zh": "为什么先生和",
+      "en": "Why, Mr."
+    },
+    {
+      "id": 123,
+      "start": 399.37,
+      "end": 400.99,
+      "ts": "06:39.370 -> 06:40.990",
+      "jp": "みんな言いますよね",
+      "jp_html": "みんな<ruby>言い<rt>いい</rt></ruby>ますよね",
+      "zh": "大家不是都在说吗",
+      "en": "Don't they say that?"
+    },
+    {
+      "id": 124,
+      "start": 400.99,
+      "end": 402.93,
+      "ts": "06:40.990 -> 06:42.930",
+      "jp": "先生なぜ旅行しないですか",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>なぜ<ruby>旅行<rt>りょこう</rt></ruby>しないですか",
+      "zh": "先生为什么不出去旅行呢",
+      "en": "Why don't you travel, sir?"
+    },
+    {
+      "id": 125,
+      "start": 402.93,
+      "end": 404.89,
+      "ts": "06:42.930 -> 06:44.890",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 126,
+      "start": 404.89,
+      "end": 409.33,
+      "ts": "06:44.890 -> 06:49.330",
+      "jp": "旅行はね好きだけど好きじゃないんですよね",
+      "jp_html": "<ruby>旅行<rt>りょこう</rt></ruby>はね<ruby>好き<rt>すき</rt></ruby>だけど<ruby>好き<rt>すき</rt></ruby>じゃないんですよね",
+      "zh": "旅行是喜欢的，但又不是很喜欢。",
+      "en": "I like traveling, but I don't like it, you know?"
+    },
+    {
+      "id": 127,
+      "start": 409.33,
+      "end": 413.57,
+      "ts": "06:49.330 -> 06:53.570",
+      "jp": "というか好きじゃないけど好きなんですよね",
+      "jp_html": "というか<ruby>好き<rt>すき</rt></ruby>じゃないけど<ruby>好き<rt>すき</rt></ruby>なんですよね",
+      "zh": "其实不喜欢吧，却又喜欢呢",
+      "en": "It's more that I don't like it, yet I do like it somehow."
+    },
+    {
+      "id": 128,
+      "start": 413.57,
+      "end": 419.37,
+      "ts": "06:53.570 -> 06:59.370",
+      "jp": "旅行の準備をするのは大嫌いです",
+      "jp_html": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をするのは<ruby>大嫌い<rt>だいきらい</rt></ruby>です",
+      "zh": "旅行的准备我非常不喜欢",
+      "en": "I hate preparing for travel."
+    },
+    {
+      "id": 129,
+      "start": 419.37,
+      "end": 422.05,
+      "ts": "06:59.370 -> 07:02.050",
+      "jp": "航空券を取ったり",
+      "jp_html": "<ruby>航空券<rt>こうくうけん</rt></ruby>を<ruby>取っ<rt>とっ</rt></ruby>たり",
+      "zh": "预订机票或",
+      "en": "To book a flight ticket"
+    },
+    {
+      "id": 130,
+      "start": 422.05,
+      "end": 424.89,
+      "ts": "07:02.050 -> 07:04.890",
+      "jp": "飛行機の予約をしたり",
+      "jp_html": "<ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>をしたり",
+      "zh": "预订飞机票或",
+      "en": "To book a flight"
+    },
+    {
+      "id": 131,
+      "start": 424.89,
+      "end": 428.83,
+      "ts": "07:04.890 -> 07:08.830",
+      "jp": "ホテルを予約したり",
+      "jp_html": "ホテルを<ruby>予約<rt>よやく</rt></ruby>したり",
+      "zh": "预订酒店",
+      "en": "To make a hotel reservation"
+    },
+    {
+      "id": 132,
+      "start": 428.83,
+      "end": 430.07,
+      "ts": "07:08.830 -> 07:10.070",
+      "jp": "全然好きじゃない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "一点也不想喜欢",
+      "en": "I don't like it at all."
+    },
+    {
+      "id": 133,
+      "start": 430.07,
+      "end": 434.27,
+      "ts": "07:10.070 -> 07:14.270",
+      "jp": "なんかこう準備をしたりね",
+      "jp_html": "なんかこう<ruby>準備<rt>じゅんび</rt></ruby>をしたりね",
+      "zh": "好像这样准备一下吧",
+      "en": "It's like preparing something, you know?"
+    },
+    {
+      "id": 134,
+      "start": 434.27,
+      "end": 436.21,
+      "ts": "07:14.270 -> 07:16.210",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 135,
+      "start": 436.21,
+      "end": 440.43,
+      "ts": "07:16.210 -> 07:20.430",
+      "jp": "旅行に行くとやっぱり好きなんですよね",
+      "jp_html": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とやっぱり<ruby>好き<rt>すき</rt></ruby>なんですよね",
+      "zh": "旅行去的话果然还是喜欢啊",
+      "en": "Going on trips, I really do like it anyway."
+    },
+    {
+      "id": 136,
+      "start": 441.31,
+      "end": 442.85,
+      "ts": "07:21.310 -> 07:22.850",
+      "jp": "旅行に行った時は",
+      "jp_html": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行った<rt>いった</rt></ruby><ruby>時<rt>とき</rt></ruby>は",
+      "zh": "旅行的时候",
+      "en": "When I travel,"
+    },
+    {
+      "id": 137,
+      "start": 442.85,
+      "end": 446.01,
+      "ts": "07:22.850 -> 07:26.010",
+      "jp": "あー旅行に行ってよかったなーと思うんですね",
+      "jp_html": "あー<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>よかったなーと<ruby>思う<rt>おもう</rt></ruby>んですね",
+      "zh": "啊，想着旅行去了一定很好呢",
+      "en": "Ah, I'm glad I went on the trip, you know?"
+    },
+    {
+      "id": 138,
+      "start": 446.01,
+      "end": 448.73,
+      "ts": "07:26.010 -> 07:28.730",
+      "jp": "でも家に帰ってくると",
+      "jp_html": "でも<ruby>家<rt>いえ</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てくると",
+      "zh": "但是回到家时",
+      "en": "But when I come back home"
+    },
+    {
+      "id": 139,
+      "start": 448.73,
+      "end": 450.67,
+      "ts": "07:28.730 -> 07:30.670",
+      "jp": "あーやっぱり家の方がいいな",
+      "jp_html": "あーやっぱり<ruby>家<rt>いえ</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>いいな",
+      "zh": "啊果然家里比较好",
+      "en": "Ah, I guess home is better after all."
+    },
+    {
+      "id": 140,
+      "start": 450.67,
+      "end": 454.43,
+      "ts": "07:30.670 -> 07:34.430",
+      "jp": "東京の方がいいなと思うわけです",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>方が<rt>ほうが</rt></ruby>いいなと<ruby>思う<rt>おもう</rt></ruby>わけです",
+      "zh": "我觉得东京更好",
+      "en": "I think Tokyo is better."
+    },
+    {
+      "id": 141,
+      "start": 454.43,
+      "end": 457.83,
+      "ts": "07:34.430 -> 07:37.830",
+      "jp": "なのでまあなんていうかな",
+      "jp_html": "なのでまあなんていうかな",
+      "zh": "所以嘛，怎么说呢",
+      "en": "So, well, you know, kinda..."
+    },
+    {
+      "id": 142,
+      "start": 457.83,
+      "end": 462.41,
+      "ts": "07:37.830 -> 07:42.410",
+      "jp": "旅行は嫌いじゃないんですよ",
+      "jp_html": "<ruby>旅行<rt>りょこう</rt></ruby>は<ruby>嫌い<rt>きらい</rt></ruby>じゃないんですよ",
+      "zh": "我喜欢旅行不是不喜欢",
+      "en": "I don't hate traveling."
+    },
+    {
+      "id": 143,
+      "start": 462.41,
+      "end": 464.71,
+      "ts": "07:42.410 -> 07:44.710",
+      "jp": "でも好きじゃないんです",
+      "jp_html": "でも<ruby>好き<rt>すき</rt></ruby>じゃないんです",
+      "zh": "但是不喜欢呢",
+      "en": "But I don't like it either."
+    },
+    {
+      "id": 144,
+      "start": 464.71,
+      "end": 467.39,
+      "ts": "07:44.710 -> 07:47.390",
+      "jp": "皆さんどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>どうですか",
+      "zh": "大家怎么样？",
+      "en": "How are everyone doing?"
+    },
+    {
+      "id": 145,
+      "start": 467.39,
+      "end": 469.49,
+      "ts": "07:47.390 -> 07:49.490",
+      "jp": "日本旅行",
+      "jp_html": "<ruby>日本旅行<rt>にほんりょこう</rt></ruby>",
+      "zh": "日本旅游",
+      "en": "Japanese travel"
+    },
+    {
+      "id": 146,
+      "start": 469.49,
+      "end": 471.85,
+      "ts": "07:49.490 -> 07:51.850",
+      "jp": "全ての県を行ってみたいですか",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>の<ruby>県<rt>けん</rt></ruby>を<ruby>行って<rt>いって</rt></ruby>みたいですか",
+      "zh": "你想去所有的县吗？",
+      "en": "Do you want to visit all the prefectures?"
+    },
+    {
+      "id": 147,
+      "start": 471.85,
+      "end": 474.03,
+      "ts": "07:51.850 -> 07:54.030",
+      "jp": "全ての県に行ってみたいですか",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>の<ruby>県<rt>けん</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>みたいですか",
+      "zh": "你想去所有的县吗？",
+      "en": "Do you want to go to all the prefectures?"
+    },
+    {
+      "id": 148,
+      "start": 474.03,
+      "end": 477.63,
+      "ts": "07:54.030 -> 07:57.630",
+      "jp": "沖縄から北海道まで全部行きたいですか",
+      "jp_html": "<ruby>沖縄<rt>おきなわ</rt></ruby>から<ruby>北海道<rt>ほっかいどう</rt></ruby>まで<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>行き<rt>いき</rt></ruby>たいですか",
+      "zh": "您想去从冲绳到北海道的所有地方吗？",
+      "en": "Do you want to go to all the way from Okinawa to Hokkaido?"
+    },
+    {
+      "id": 149,
+      "start": 477.63,
+      "end": 480.5,
+      "ts": "07:57.630 -> 08:00.500",
+      "jp": "まあちょっと",
+      "jp_html": "まあちょっと",
+      "zh": "嗯，稍微",
+      "en": "Well, slightly."
+    },
+    {
+      "id": 150,
+      "start": 480.5,
+      "end": 482.28,
+      "ts": "08:00.500 -> 08:02.280",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 151,
+      "start": 482.28,
+      "end": 483.36,
+      "ts": "08:02.280 -> 08:03.360",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 152,
+      "start": 483.36,
+      "end": 484.38,
+      "ts": "08:03.360 -> 08:04.380",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嗯嗯嗯",
+      "en": "Well well well"
+    },
+    {
+      "id": 153,
+      "start": 484.38,
+      "end": 486.7,
+      "ts": "08:04.380 -> 08:06.700",
+      "jp": "まあ皆さんが旅行して",
+      "jp_html": "まあ<ruby>皆さん<rt>みなさん</rt></ruby>が<ruby>旅行<rt>りょこう</rt></ruby>して",
+      "zh": "大家去旅行吧",
+      "en": "Well, as you travel,..."
+    },
+    {
+      "id": 154,
+      "start": 486.7,
+      "end": 488.7,
+      "ts": "08:06.700 -> 08:08.700",
+      "jp": "それを僕に聞かせてください",
+      "jp_html": "それを<ruby>僕<rt>ぼく</rt></ruby>に<ruby>聞か<rt>きか</rt></ruby>せてください",
+      "zh": "请告诉我那个。",
+      "en": "Please tell me about that."
+    },
+    {
+      "id": 155,
+      "start": 488.7,
+      "end": 491.32,
+      "ts": "08:08.700 -> 08:11.320",
+      "jp": "僕は話は好きだからね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>話<rt>はなし</rt></ruby>は<ruby>好き<rt>すき</rt></ruby>だからね",
+      "zh": "我喜欢说话因此",
+      "en": "I like to talk, you know."
+    },
+    {
+      "id": 156,
+      "start": 491.32,
+      "end": 494.0,
+      "ts": "08:11.320 -> 08:14.000",
+      "jp": "先生北海道に行きました",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby><ruby>北海道<rt>ほっかいどう</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "先生去北海道了",
+      "en": "The teacher went to Hokkaido."
+    },
+    {
+      "id": 157,
+      "start": 494.0,
+      "end": 497.0,
+      "ts": "08:14.000 -> 08:17.000",
+      "jp": "とか先生沖縄に行きました",
+      "jp_html": "とか<ruby>先生<rt>せんせい</rt></ruby><ruby>沖縄<rt>おきなわ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "或者老师去冲绳了",
+      "en": "Like the teacher went to Okinawa."
+    },
+    {
+      "id": 158,
+      "start": 497.0,
+      "end": 497.6,
+      "ts": "08:17.000 -> 08:17.600",
+      "jp": "とかね",
+      "jp_html": "とかね",
+      "zh": "或者",
+      "en": "or something"
+    },
+    {
+      "id": 159,
+      "start": 497.6,
+      "end": 499.6,
+      "ts": "08:17.600 -> 08:19.600",
+      "jp": "そういう話を聞かせてください",
+      "jp_html": "そういう<ruby>話<rt>はなし</rt></ruby>を<ruby>聞か<rt>きか</rt></ruby>せてください",
+      "zh": "请告诉我这样的事情吧",
+      "en": "Could you tell me such a story?"
+    },
+    {
+      "id": 160,
+      "start": 499.6,
+      "end": 501.32,
+      "ts": "08:19.600 -> 08:21.320",
+      "jp": "僕はまあ家でゆっくり",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>まあ<ruby>家<rt>いえ</rt></ruby>でゆっくり",
+      "zh": "我在家里好好休息一下",
+      "en": "I'm just hanging out at home."
+    },
+    {
+      "id": 161,
+      "start": 501.32,
+      "end": 504.1,
+      "ts": "08:21.320 -> 08:24.100",
+      "jp": "コーヒーでも飲みながら",
+      "jp_html": "コーヒーでも<ruby>飲み<rt>のみ</rt></ruby>ながら",
+      "zh": "喝杯咖啡的同时",
+      "en": "Let's drink coffee while"
+    },
+    {
+      "id": 162,
+      "start": 504.1,
+      "end": 506.04,
+      "ts": "08:24.100 -> 08:26.040",
+      "jp": "ゆっくりしたいと",
+      "jp_html": "ゆっくりしたいと",
+      "zh": "想慢慢来",
+      "en": "I want to go slow."
+    },
+    {
+      "id": 163,
+      "start": 506.04,
+      "end": 507.28,
+      "ts": "08:26.040 -> 08:27.280",
+      "jp": "思います",
+      "jp_html": "<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "思考",
+      "en": "I think"
+    },
+    {
+      "id": 164,
+      "start": 507.28,
+      "end": 508.68,
+      "ts": "08:27.280 -> 08:28.680",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 165,
+      "start": 508.68,
+      "end": 510.36,
+      "ts": "08:28.680 -> 08:30.360",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
