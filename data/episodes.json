@@ -1,5 +1,17 @@
 [
   {
+    "id": "1591",
+    "title": "#1591「漢字について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/09/30/1591%e3%80%8c%e6%bc%a2%e5%ad%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1591.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1591.json"
+  },
+  {
     "id": "1590",
     "title": "#1590「日本旅行について！」",
     "category_id": "podcast",

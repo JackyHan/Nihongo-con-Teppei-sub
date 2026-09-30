@@ -1,0 +1,1014 @@
+{
+  "id": "1591",
+  "title": "#1591「漢字について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1591.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/09/Beginners-con-Teppei1591.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/09/30/1591%e3%80%8c%e6%bc%a2%e5%ad%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.23,
+      "end": 2.67,
+      "ts": "00:01.230 -> 00:02.670",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.67,
+      "end": 7.35,
+      "ts": "00:02.670 -> 00:07.350",
+      "jp": "今日は漢字について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>について",
+      "zh": "今天关于汉字",
+      "en": "Today, about Chinese characters"
+    },
+    {
+      "id": 2,
+      "start": 7.35,
+      "end": 10.81,
+      "ts": "00:07.350 -> 00:10.810",
+      "jp": "はい、皆さん元気ですか?",
+      "jp_html": "はい、<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "大家好，你们好吗?",
+      "en": "Hi, everyone, are you okay?"
+    },
+    {
+      "id": 3,
+      "start": 11.09,
+      "end": 13.15,
+      "ts": "00:11.090 -> 00:13.150",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 13.15,
+      "end": 18.69,
+      "ts": "00:13.150 -> 00:18.690",
+      "jp": "今日は漢字について話したいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "今天我想谈谈汉字",
+      "en": "Today, I want to talk about Chinese characters."
+    },
+    {
+      "id": 5,
+      "start": 18.69,
+      "end": 21.91,
+      "ts": "00:18.690 -> 00:21.910",
+      "jp": "漢字は難しいですよね",
+      "jp_html": "<ruby>漢字<rt>かんじ</rt></ruby>は<ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "汉字很难吧",
+      "en": "Isn't Chinese characters difficult, right?"
+    },
+    {
+      "id": 6,
+      "start": 21.91,
+      "end": 25.75,
+      "ts": "00:21.910 -> 00:25.750",
+      "jp": "音読み、訓読み",
+      "jp_html": "<ruby>音読み<rt>おんよみ</rt></ruby>、<ruby>訓読み<rt>くんよみ</rt></ruby>",
+      "zh": "音读、训读",
+      "en": "On-yomi, kun-yomi"
+    },
+    {
+      "id": 7,
+      "start": 25.75,
+      "end": 28.03,
+      "ts": "00:25.750 -> 00:28.030",
+      "jp": "いろいろあるし",
+      "jp_html": "いろいろあるし",
+      "zh": "有的很多",
+      "en": "There are various things."
+    },
+    {
+      "id": 8,
+      "start": 28.03,
+      "end": 30.15,
+      "ts": "00:28.030 -> 00:30.150",
+      "jp": "いろいろな読み方がある",
+      "jp_html": "いろいろな<ruby>読み方<rt>よみかた</rt></ruby>がある",
+      "zh": "有多种读法",
+      "en": "There are various ways to read it"
+    },
+    {
+      "id": 9,
+      "start": 30.15,
+      "end": 37.35,
+      "ts": "00:30.150 -> 00:37.350",
+      "jp": "そしてなんか書くのがめっちゃ複雑ですよね",
+      "jp_html": "そしてなんか<ruby>書く<rt>かく</rt></ruby>のがめっちゃ<ruby>複雑<rt>ふくざつ</rt></ruby>ですよね",
+      "zh": "然后写起来感觉好复杂呢",
+      "en": "And something like writing that seems really complicated, doesn't it?"
+    },
+    {
+      "id": 10,
+      "start": 37.35,
+      "end": 43.17,
+      "ts": "00:37.350 -> 00:43.170",
+      "jp": "もちろん漢字がわかる人",
+      "jp_html": "もちろん<ruby>漢字<rt>かんじ</rt></ruby>がわかる<ruby>人<rt>にん</rt></ruby>",
+      "zh": "当然会认汉字的人",
+      "en": "Of course, people who can understand Chinese characters."
+    },
+    {
+      "id": 11,
+      "start": 43.17,
+      "end": 46.67,
+      "ts": "00:43.170 -> 00:46.670",
+      "jp": "例えば中国語とかね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>中国語<rt>ちゅうごくご</rt></ruby>とかね",
+      "zh": "比如中文或者日文",
+      "en": "For example, Chinese, or so."
+    },
+    {
+      "id": 12,
+      "start": 46.67,
+      "end": 53.85,
+      "ts": "00:46.670 -> 00:53.850",
+      "jp": "漢字の文化の人たちにとっては簡単でしょ",
+      "jp_html": "<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちにとっては<ruby>簡単<rt>かんたん</rt></ruby>でしょ",
+      "zh": "对汉字文化的 people来说当然简单吧",
+      "en": "For people who study Chinese characters, it should be easy, right?"
+    },
+    {
+      "id": 13,
+      "start": 53.85,
+      "end": 58.29,
+      "ts": "00:53.850 -> 00:58.290",
+      "jp": "だけど例えばアルファベットとか",
+      "jp_html": "だけど<ruby>例えば<rt>たとえば</rt></ruby>アルファベットとか",
+      "zh": "但是比如说字母表之类的",
+      "en": "But for example, alphabets or"
+    },
+    {
+      "id": 14,
+      "start": 58.29,
+      "end": 64.29,
+      "ts": "00:58.290 -> 01:04.290",
+      "jp": "そういう漢字以外の文字を使っている人にとっては",
+      "jp_html": "そういう<ruby>漢字以外<rt>かんじいがい</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>いる<ruby>人<rt>にん</rt></ruby>にとっては",
+      "zh": "对于使用其他字符的人来说",
+      "en": "For people using characters other than those Chinese characters,"
+    },
+    {
+      "id": 15,
+      "start": 64.29,
+      "end": 72.25,
+      "ts": "01:04.290 -> 01:12.250",
+      "jp": "なんだこりゃというぐらいわけわからない",
+      "jp_html": "なんだこりゃというぐらいわけわからない",
+      "zh": "这简直让人无法理解",
+      "en": "This is completely beyond me."
+    },
+    {
+      "id": 16,
+      "start": 72.25,
+      "end": 76.55,
+      "ts": "01:12.250 -> 01:16.550",
+      "jp": "なんでこんなに複雑なんだ",
+      "jp_html": "なんでこんなに<ruby>複雑<rt>ふくざつ</rt></ruby>なんだ",
+      "zh": "为什么这么复杂呢",
+      "en": "Why is it so complicated?"
+    },
+    {
+      "id": 17,
+      "start": 76.55,
+      "end": 82.15,
+      "ts": "01:16.550 -> 01:22.150",
+      "jp": "そしてなんでこんなに量が多いんだと思うでしょ",
+      "jp_html": "そしてなんでこんなに<ruby>量<rt>りょう</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>んだと<ruby>思う<rt>おもう</rt></ruby>でしょ",
+      "zh": "你想想，为什么会有这么多呢",
+      "en": "Why do you think there's so much of it?"
+    },
+    {
+      "id": 18,
+      "start": 82.15,
+      "end": 86.49,
+      "ts": "01:22.150 -> 01:26.490",
+      "jp": "常用漢字だけでも2000",
+      "jp_html": "<ruby>常用漢字<rt>じょうようかんじ</rt></ruby>だけでも2000",
+      "zh": "仅常用汉字就有2000个",
+      "en": "Just common characters amount to 2000."
+    },
+    {
+      "id": 19,
+      "start": 86.49,
+      "end": 90.49,
+      "ts": "01:26.490 -> 01:30.490",
+      "jp": "なんでこんなに多いんだ",
+      "jp_html": "なんでこんなに<ruby>多い<rt>おおい</rt></ruby>んだ",
+      "zh": "为什么会有这么多",
+      "en": "Why are there so many?"
+    },
+    {
+      "id": 20,
+      "start": 90.49,
+      "end": 93.49,
+      "ts": "01:30.490 -> 01:33.490",
+      "jp": "そしてそれ以上ある",
+      "jp_html": "そしてそれ<ruby>以上<rt>いじょう</rt></ruby>ある",
+      "zh": "然后就更多了",
+      "en": "And there is more than that"
+    },
+    {
+      "id": 21,
+      "start": 93.49,
+      "end": 96.13,
+      "ts": "01:33.490 -> 01:36.130",
+      "jp": "もっともっともっともっとあるんですよね",
+      "jp_html": "もっともっともっともっとあるんですよね",
+      "zh": "确实还有很多很多很多呢",
+      "en": "There's so much more, you know?"
+    },
+    {
+      "id": 22,
+      "start": 96.13,
+      "end": 103.34,
+      "ts": "01:36.130 -> 01:43.340",
+      "jp": "大変ですよね",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>ですよね",
+      "zh": "真麻烦啊",
+      "en": "It must be very difficult/sorry."
+    },
+    {
+      "id": 23,
+      "start": 103.34,
+      "end": 106.3,
+      "ts": "01:43.340 -> 01:46.300",
+      "jp": "大変なんですけど",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>なんですけど",
+      "zh": "真的很麻烦",
+      "en": "It's very troublesome."
+    },
+    {
+      "id": 24,
+      "start": 106.3,
+      "end": 110.28,
+      "ts": "01:46.300 -> 01:50.280",
+      "jp": "じゃあどうすればいいかっていうのは分かりません",
+      "jp_html": "じゃあどうすればいいかっていうのは<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "那我们应该怎么做还不清楚",
+      "en": "I don't know how to do that."
+    },
+    {
+      "id": 25,
+      "start": 110.28,
+      "end": 115.56,
+      "ts": "01:50.280 -> 01:55.560",
+      "jp": "少しずつ勉強するしかないですよね",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>勉強<rt>べんきょう</rt></ruby>するしかないですよね",
+      "zh": "只能一点点地学习，对吧？",
+      "en": "We have to study little by little, right?"
+    },
+    {
+      "id": 26,
+      "start": 115.56,
+      "end": 117.58,
+      "ts": "01:55.560 -> 01:57.580",
+      "jp": "少しですね",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ですね",
+      "zh": "有点儿吧",
+      "en": "It's a little bit."
+    },
+    {
+      "id": 27,
+      "start": 117.58,
+      "end": 122.92,
+      "ts": "01:57.580 -> 02:02.920",
+      "jp": "僕の子供は今小学校5年生",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>5<ruby>年生<rt>ねんせい</rt></ruby>",
+      "zh": "我的孩子现在是五年级小学生",
+      "en": "My child is now in fifth grade of elementary school."
+    },
+    {
+      "id": 28,
+      "start": 122.92,
+      "end": 124.32,
+      "ts": "02:02.920 -> 02:04.320",
+      "jp": "11歳です",
+      "jp_html": "11<ruby>歳<rt>とし</rt></ruby>です",
+      "zh": "我十一岁了",
+      "en": "I am 11 years old."
+    },
+    {
+      "id": 29,
+      "start": 124.32,
+      "end": 131.64,
+      "ts": "02:04.320 -> 02:11.640",
+      "jp": "僕の子供が漢字の勉強を始めたとき",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>が<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>始め<rt>はじめ</rt></ruby>たとき",
+      "zh": "当我儿子开始学习汉字的时候",
+      "en": "When my child started studying Chinese characters"
+    },
+    {
+      "id": 30,
+      "start": 131.64,
+      "end": 133.5,
+      "ts": "02:11.640 -> 02:13.500",
+      "jp": "何年前かな",
+      "jp_html": "<ruby>何年前<rt>なんねんまえ</rt></ruby>かな",
+      "zh": "是几年前呢",
+      "en": "How many years ago?"
+    },
+    {
+      "id": 31,
+      "start": 133.5,
+      "end": 135.58,
+      "ts": "02:13.500 -> 02:15.580",
+      "jp": "だから5年くらい前かな",
+      "jp_html": "だから5<ruby>年<rt>ねん</rt></ruby>くらい<ruby>前か<rt>ぜんか</rt></ruby>な",
+      "zh": "所以大概是五年前吧",
+      "en": "So, about 5 years ago, I guess."
+    },
+    {
+      "id": 32,
+      "start": 135.58,
+      "end": 138.48,
+      "ts": "02:15.580 -> 02:18.480",
+      "jp": "4年?5年?",
+      "jp_html": "4<ruby>年<rt>ねん</rt></ruby>?5<ruby>年<rt>ねん</rt></ruby>?",
+      "zh": "4年？5年？",
+      "en": "4 years? 5 years?"
+    },
+    {
+      "id": 33,
+      "start": 140.18,
+      "end": 142.38,
+      "ts": "02:20.180 -> 02:22.380",
+      "jp": "小学校1年の時ですよね",
+      "jp_html": "<ruby>小学校<rt>しょうがっこう</rt></ruby>1<ruby>年<rt>ねん</rt></ruby>の<ruby>時<rt>とき</rt></ruby>ですよね",
+      "zh": "不是小学一年级吗？",
+      "en": "Was it in first grade of elementary school?"
+    },
+    {
+      "id": 34,
+      "start": 142.38,
+      "end": 144.16,
+      "ts": "02:22.380 -> 02:24.160",
+      "jp": "7歳くらいかな",
+      "jp_html": "7<ruby>歳<rt>とし</rt></ruby>くらいかな",
+      "zh": "大约7岁吧",
+      "en": "About 7 years old, I guess."
+    },
+    {
+      "id": 35,
+      "start": 144.16,
+      "end": 147.0,
+      "ts": "02:24.160 -> 02:27.000",
+      "jp": "少しずつ始めます",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>始め<rt>はじめ</rt></ruby>ます",
+      "zh": "我会一点点开始。",
+      "en": "I will start little by little."
+    },
+    {
+      "id": 36,
+      "start": 147.0,
+      "end": 153.04,
+      "ts": "02:27.000 -> 02:33.040",
+      "jp": "そして毎日毎日感じの練習をします",
+      "jp_html": "そして<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>感じ<rt>かんじ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をします",
+      "zh": "然后每天每天感受练习一下",
+      "en": "And I practice feeling it every day every day."
+    },
+    {
+      "id": 37,
+      "start": 153.04,
+      "end": 158.32,
+      "ts": "02:33.040 -> 02:38.320",
+      "jp": "毎週毎週感じのミニテストがあります",
+      "jp_html": "<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby><ruby>感じ<rt>かんじ</rt></ruby>のミニテストがあります",
+      "zh": "每周都有感觉的迷你测验",
+      "en": "There is a feeling mini-test every week every week"
+    },
+    {
+      "id": 38,
+      "start": 158.32,
+      "end": 163.65,
+      "ts": "02:38.320 -> 02:43.650",
+      "jp": "1年生7歳ですよね",
+      "jp_html": "1<ruby>年生<rt>ねんせい</rt></ruby>7<ruby>歳<rt>とし</rt></ruby>ですよね",
+      "zh": "一年级七岁吧",
+      "en": "She is 7 years old, right?"
+    },
+    {
+      "id": 39,
+      "start": 163.65,
+      "end": 169.25,
+      "ts": "02:43.650 -> 02:49.250",
+      "jp": "7歳8歳9歳3年生ぐらい",
+      "jp_html": "7<ruby>歳<rt>とし</rt></ruby>8<ruby>歳<rt>とし</rt></ruby>9<ruby>歳<rt>とし</rt></ruby>3<ruby>年生<rt>ねんせい</rt></ruby>ぐらい",
+      "zh": "7岁8岁9岁三年级左右",
+      "en": "About 7, 8, and 9 years old, or around 3rd grade"
+    },
+    {
+      "id": 40,
+      "start": 169.25,
+      "end": 174.61,
+      "ts": "02:49.250 -> 02:54.610",
+      "jp": "9歳の時僕はちょっとやばいと思った",
+      "jp_html": "9<ruby>歳<rt>とし</rt></ruby>の<ruby>時<rt>とき</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby>ちょっとやばいと<ruby>思った<rt>おもった</rt></ruby>",
+      "zh": "我9岁的时候觉得有点糟糕",
+      "en": "At 9 years old, I thought things were a bit messed up."
+    },
+    {
+      "id": 41,
+      "start": 174.61,
+      "end": 177.23,
+      "ts": "02:54.610 -> 02:57.230",
+      "jp": "僕はちょっと焦りました",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ちょっと<ruby>焦り<rt>あせり</rt></ruby>ました",
+      "zh": "我有点着急了",
+      "en": "I got a little anxious."
+    },
+    {
+      "id": 42,
+      "start": 177.23,
+      "end": 180.31,
+      "ts": "02:57.230 -> 03:00.310",
+      "jp": "頭から汗が出て",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>から<ruby>汗<rt>あせ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>",
+      "zh": "头上冒出了汗",
+      "en": "Sweat is coming from my head."
+    },
+    {
+      "id": 43,
+      "start": 180.31,
+      "end": 182.11,
+      "ts": "03:00.310 -> 03:02.110",
+      "jp": "顔から汗が出て",
+      "jp_html": "<ruby>顔<rt>かお</rt></ruby>から<ruby>汗<rt>あせ</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>",
+      "zh": "脸上出汗了",
+      "en": "Sweat is coming out from my face."
+    },
+    {
+      "id": 44,
+      "start": 182.11,
+      "end": 186.75,
+      "ts": "03:02.110 -> 03:06.750",
+      "jp": "おいお前全然漢字を知らないじゃん",
+      "jp_html": "おいお<ruby>前<rt>まえ</rt></ruby><ruby>全然<rt>ぜんぜん</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>を<ruby>知ら<rt>しら</rt></ruby>ないじゃん",
+      "zh": "喂你完全不知道汉字吧",
+      "en": "Hey you don't know any Chinese characters at all, right?"
+    },
+    {
+      "id": 45,
+      "start": 186.75,
+      "end": 188.23,
+      "ts": "03:06.750 -> 03:08.230",
+      "jp": "マジでやばいよ",
+      "jp_html": "マジでやばいよ",
+      "zh": "真的paralleled呢",
+      "en": "It's really bad man."
+    },
+    {
+      "id": 46,
+      "start": 188.23,
+      "end": 193.81,
+      "ts": "03:08.230 -> 03:13.810",
+      "jp": "そうやって本当に大変だと思った",
+      "jp_html": "そうやって<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>大変<rt>たいへん</rt></ruby>だと<ruby>思った<rt>おもった</rt></ruby>",
+      "zh": "这样真的觉得非常辛苦",
+      "en": "That's when it really seemed tough."
+    },
+    {
+      "id": 47,
+      "start": 193.81,
+      "end": 197.93,
+      "ts": "03:13.810 -> 03:17.930",
+      "jp": "あれ俺の子供は漢字が全然書けない",
+      "jp_html": "あれ<ruby>俺<rt>おれ</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>書け<rt>かけ</rt></ruby>ない",
+      "zh": "那个我的孩子完全不会写汉字",
+      "en": "That is, my children can't write Chinese characters at all."
+    },
+    {
+      "id": 48,
+      "start": 197.93,
+      "end": 200.43,
+      "ts": "03:17.930 -> 03:20.430",
+      "jp": "漢字が全然読めない",
+      "jp_html": "<ruby>漢字<rt>かんじ</rt></ruby>が<ruby>全然読め<rt>ぜんぜんよめ</rt></ruby>ない",
+      "zh": "完全看不懂汉字",
+      "en": "I can't read any Chinese characters."
+    },
+    {
+      "id": 49,
+      "start": 200.43,
+      "end": 204.12,
+      "ts": "03:20.430 -> 03:24.120",
+      "jp": "そして一緒に頑張りました",
+      "jp_html": "そして<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>頑張り<rt>がんばり</rt></ruby>ました",
+      "zh": "然后我们一起努力了",
+      "en": "And we worked hard together."
+    },
+    {
+      "id": 50,
+      "start": 204.12,
+      "end": 208.14,
+      "ts": "03:24.120 -> 03:28.140",
+      "jp": "毎日毎日宿題をチェックして",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>宿題<rt>しゅくだい</rt></ruby>をチェックして",
+      "zh": "每天每天检查作业",
+      "en": "Day by day, checking homework every day"
+    },
+    {
+      "id": 51,
+      "start": 208.14,
+      "end": 213.34,
+      "ts": "03:28.140 -> 03:33.340",
+      "jp": "毎週毎週ミニテストのための勉強をしました",
+      "jp_html": "<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby>ミニテストのための<ruby>勉強<rt>べんきょう</rt></ruby>をしました",
+      "zh": "我每周都为小测验学习",
+      "en": "I studied every week for weekly mini-tests."
+    },
+    {
+      "id": 52,
+      "start": 213.34,
+      "end": 220.77,
+      "ts": "03:33.340 -> 03:40.770",
+      "jp": "9歳10歳今11歳",
+      "jp_html": "9<ruby>歳<rt>とし</rt></ruby>10<ruby>歳<rt>とし</rt></ruby><ruby>今<rt>いま</rt></ruby>11<ruby>歳<rt>とし</rt></ruby>",
+      "zh": "9岁10岁现在11岁",
+      "en": "9 years old, 10 years old, now 11 years old"
+    },
+    {
+      "id": 53,
+      "start": 220.77,
+      "end": 226.35,
+      "ts": "03:40.770 -> 03:46.350",
+      "jp": "3年生4年生今小学校5年生",
+      "jp_html": "3<ruby>年生<rt>ねんせい</rt></ruby>4<ruby>年生<rt>ねんせい</rt></ruby><ruby>今<rt>いま</rt></ruby><ruby>小学校<rt>しょうがっこう</rt></ruby>5<ruby>年生<rt>ねんせい</rt></ruby>",
+      "zh": "三年级四年级现在小学五年级",
+      "en": "3rd and 4th graders, 5th grader"
+    },
+    {
+      "id": 54,
+      "start": 226.35,
+      "end": 229.69,
+      "ts": "03:46.350 -> 03:49.690",
+      "jp": "最近ちょっと驚きました",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>ちょっと<ruby>驚き<rt>おどろき</rt></ruby>ました",
+      "zh": "最近稍微惊讶了一下",
+      "en": "Recently, I was a bit surprised."
+    },
+    {
+      "id": 55,
+      "start": 229.69,
+      "end": 232.31,
+      "ts": "03:49.690 -> 03:52.310",
+      "jp": "あれ結構わかるな",
+      "jp_html": "あれ<ruby>結構<rt>けっこう</rt></ruby>わかるな",
+      "zh": "哎，竟然懂这么多",
+      "en": "That's pretty understandable, huh?"
+    },
+    {
+      "id": 56,
+      "start": 233.31,
+      "end": 236.77,
+      "ts": "03:53.310 -> 03:56.770",
+      "jp": "僕の子供は結構漢字が書けるようになっている",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>が<ruby>書け<rt>かけ</rt></ruby>るようになっている",
+      "zh": "我的孩子已经能写一些汉字了",
+      "en": "My children have become quite proficient in writing Chinese characters."
+    },
+    {
+      "id": 57,
+      "start": 236.77,
+      "end": 240.89,
+      "ts": "03:56.770 -> 04:00.890",
+      "jp": "僕の子供は結構漢字が読めるようになっている",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>が<ruby>読め<rt>よめ</rt></ruby>るようになっている",
+      "zh": "我的孩子已经能读一些汉字了",
+      "en": "My children can read kanji quite well."
+    },
+    {
+      "id": 58,
+      "start": 240.89,
+      "end": 242.27,
+      "ts": "04:00.890 -> 04:02.270",
+      "jp": "少し驚いた",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby><ruby>驚い<rt>おどろい</rt></ruby>た",
+      "zh": "有点惊讶",
+      "en": "I was slightly surprised."
+    },
+    {
+      "id": 59,
+      "start": 242.27,
+      "end": 244.01,
+      "ts": "04:02.270 -> 04:04.010",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 60,
+      "start": 244.01,
+      "end": 249.71,
+      "ts": "04:04.010 -> 04:09.710",
+      "jp": "だから7歳8歳9歳10歳11歳",
+      "jp_html": "だから7<ruby>歳<rt>とし</rt></ruby>8<ruby>歳<rt>とし</rt></ruby>9<ruby>歳<rt>とし</rt></ruby>10<ruby>歳<rt>とし</rt></ruby>11<ruby>歳<rt>とし</rt></ruby>",
+      "zh": "所以7岁8岁9岁10岁11岁",
+      "en": "So 7 years 8 years 9 years 10 years 11 years"
+    },
+    {
+      "id": 61,
+      "start": 249.71,
+      "end": 251.03,
+      "ts": "04:09.710 -> 04:11.030",
+      "jp": "5年間ね",
+      "jp_html": "5<ruby>年間<rt>ねんかん</rt></ruby>ね",
+      "zh": "五年间呢",
+      "en": "5 years interval"
+    },
+    {
+      "id": 62,
+      "start": 251.03,
+      "end": 255.25,
+      "ts": "04:11.030 -> 04:15.250",
+      "jp": "5年間ほとんど毎日",
+      "jp_html": "5<ruby>年間<rt>ねんかん</rt></ruby>ほとんど<ruby>毎日<rt>まいにち</rt></ruby>",
+      "zh": "五年几乎每天",
+      "en": "For almost every day for 5 years"
+    },
+    {
+      "id": 63,
+      "start": 255.25,
+      "end": 260.35,
+      "ts": "04:15.250 -> 04:20.350",
+      "jp": "漢字の勉強を少しずつ続けてるんですね",
+      "jp_html": "<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>続け<rt>つづけ</rt></ruby>てるんですね",
+      "zh": "你一直在慢慢学习汉字呢",
+      "en": "I've been continuing to study Chinese characters little by little, huh?"
+    },
+    {
+      "id": 64,
+      "start": 260.35,
+      "end": 263.41,
+      "ts": "04:20.350 -> 04:23.410",
+      "jp": "もちろん毎日毎日",
+      "jp_html": "もちろん<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>",
+      "zh": "当然每天每天",
+      "en": "Of course day by day"
+    },
+    {
+      "id": 65,
+      "start": 263.41,
+      "end": 266.89,
+      "ts": "04:23.410 -> 04:26.890",
+      "jp": "学校で漢字を見ます",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>見ま<rt>みま</rt></ruby>す",
+      "zh": "在学校里我看到了汉字",
+      "en": "I see Chinese characters at school."
+    },
+    {
+      "id": 66,
+      "start": 266.89,
+      "end": 268.57,
+      "ts": "04:26.890 -> 04:28.570",
+      "jp": "漢字を読みます",
+      "jp_html": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>読み<rt>よみ</rt></ruby>ます",
+      "zh": "我会读汉字",
+      "en": "I can read kanji."
+    },
+    {
+      "id": 67,
+      "start": 268.57,
+      "end": 272.59,
+      "ts": "04:28.570 -> 04:32.590",
+      "jp": "毎日毎日家で漫画を読みます",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>家<rt>いえ</rt></ruby>で<ruby>漫画<rt>まんが</rt></ruby>を<ruby>読み<rt>よみ</rt></ruby>ます",
+      "zh": "每天我在家里读漫画",
+      "en": "I read manga at home every day."
+    },
+    {
+      "id": 68,
+      "start": 272.59,
+      "end": 274.59,
+      "ts": "04:32.590 -> 04:34.590",
+      "jp": "本を読みます",
+      "jp_html": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読み<rt>よみ</rt></ruby>ます",
+      "zh": "我读书",
+      "en": "I read books."
+    },
+    {
+      "id": 69,
+      "start": 274.59,
+      "end": 277.15,
+      "ts": "04:34.590 -> 04:37.150",
+      "jp": "テレビの字幕を見ます",
+      "jp_html": "テレビの<ruby>字幕<rt>じまく</rt></ruby>を<ruby>見ま<rt>みま</rt></ruby>す",
+      "zh": "看电视剧的字幕",
+      "en": "I watch subtitles on TV."
+    },
+    {
+      "id": 70,
+      "start": 277.15,
+      "end": 281.17,
+      "ts": "04:37.150 -> 04:41.170",
+      "jp": "毎日毎日漢字をやってます",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>をやってます",
+      "zh": "每天都在练习汉字",
+      "en": "I do kanji every day."
+    },
+    {
+      "id": 71,
+      "start": 281.17,
+      "end": 284.11,
+      "ts": "04:41.170 -> 04:44.110",
+      "jp": "それを5年間続けたんですね",
+      "jp_html": "それを5<ruby>年間<rt>ねんかん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>たんですね",
+      "zh": "您连续做了五年啊",
+      "en": "You continued that for five years, huh?"
+    },
+    {
+      "id": 72,
+      "start": 284.11,
+      "end": 287.51,
+      "ts": "04:44.110 -> 04:47.510",
+      "jp": "だからできるようになった",
+      "jp_html": "だからできるようになった",
+      "zh": "因此才能做到",
+      "en": "That's how I was able to do it."
+    },
+    {
+      "id": 73,
+      "start": 287.51,
+      "end": 290.74,
+      "ts": "04:47.510 -> 04:50.740",
+      "jp": "だから皆さんも",
+      "jp_html": "だから<ruby>皆さん<rt>みなさん</rt></ruby>も",
+      "zh": "所以大家也",
+      "en": "So everyone also"
+    },
+    {
+      "id": 74,
+      "start": 290.74,
+      "end": 293.26,
+      "ts": "04:50.740 -> 04:53.260",
+      "jp": "頑張ってください",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>てください",
+      "zh": "请加油",
+      "en": "Please try your best."
+    },
+    {
+      "id": 75,
+      "start": 293.26,
+      "end": 296.04,
+      "ts": "04:53.260 -> 04:56.040",
+      "jp": "それしかないんですよね",
+      "jp_html": "それしかないんですよね",
+      "zh": "那只好啦",
+      "en": "That's the only option, right?"
+    },
+    {
+      "id": 76,
+      "start": 296.04,
+      "end": 299.04,
+      "ts": "04:56.040 -> 04:59.040",
+      "jp": "それしかアドバイスはできない",
+      "jp_html": "それしかアドバイスはできない",
+      "zh": "只能给出这些建议",
+      "en": "That's the only advice I can give."
+    },
+    {
+      "id": 77,
+      "start": 299.04,
+      "end": 301.38,
+      "ts": "04:59.040 -> 05:01.380",
+      "jp": "だからみんなも頑張れ",
+      "jp_html": "だからみんなも<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "所以大家也要加油",
+      "en": "So everyone should also strive and succeed."
+    },
+    {
+      "id": 78,
+      "start": 301.38,
+      "end": 303.78,
+      "ts": "05:01.380 -> 05:03.780",
+      "jp": "僕の子供も頑張る",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>も<ruby>頑張る<rt>がんばる</rt></ruby>",
+      "zh": "我的孩子也很努力",
+      "en": "My child also works hard."
+    },
+    {
+      "id": 79,
+      "start": 303.78,
+      "end": 306.16,
+      "ts": "05:03.780 -> 05:06.160",
+      "jp": "だからみんなも頑張れ",
+      "jp_html": "だからみんなも<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "所以大家也要加油",
+      "en": "So everyone should also strive and succeed."
+    },
+    {
+      "id": 80,
+      "start": 306.16,
+      "end": 308.66,
+      "ts": "05:06.160 -> 05:08.660",
+      "jp": "毎日少しでいいです",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>少し<rt>すこし</rt></ruby>でいいです",
+      "zh": "每天进步一点点就可以了",
+      "en": "It's okay to do it a little bit every day."
+    },
+    {
+      "id": 81,
+      "start": 308.66,
+      "end": 311.52,
+      "ts": "05:08.660 -> 05:11.520",
+      "jp": "少しだけど毎日漢字をやってください",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>だけど<ruby>毎日<rt>まいにち</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>をやってください",
+      "zh": "请每天稍微做一点汉字练习吧",
+      "en": "Please do a little bit of kanji every day."
+    },
+    {
+      "id": 82,
+      "start": 311.52,
+      "end": 314.2,
+      "ts": "05:11.520 -> 05:14.200",
+      "jp": "毎日やらないとダメです",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>やらないとダメです",
+      "zh": "每天都不做不行",
+      "en": "It has to be done every day."
+    },
+    {
+      "id": 83,
+      "start": 314.2,
+      "end": 316.42,
+      "ts": "05:14.200 -> 05:16.420",
+      "jp": "毎日読んだり",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "每天读或",
+      "en": "I read every day"
+    },
+    {
+      "id": 84,
+      "start": 317.56,
+      "end": 322.86,
+      "ts": "05:17.560 -> 05:22.860",
+      "jp": "書くのは書かなくてもいいかな",
+      "jp_html": "<ruby>書く<rt>かく</rt></ruby>のは<ruby>書か<rt>かか</rt></ruby>なくてもいいかな",
+      "zh": "写写也行吧",
+      "en": "I wonder if I should bother writing it."
+    },
+    {
+      "id": 85,
+      "start": 322.86,
+      "end": 325.46,
+      "ts": "05:22.860 -> 05:25.460",
+      "jp": "でも毎日読んでください",
+      "jp_html": "でも<ruby>毎日<rt>まいにち</rt></ruby><ruby>読んで<rt>よんで</rt></ruby>ください",
+      "zh": "但是请每天阅读它吧",
+      "en": "But please read it every day."
+    },
+    {
+      "id": 86,
+      "start": 325.46,
+      "end": 328.32,
+      "ts": "05:25.460 -> 05:28.320",
+      "jp": "毎日漢字を読んでください",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>ください",
+      "zh": "请每天读汉字。",
+      "en": "Please read kanji every day."
+    },
+    {
+      "id": 87,
+      "start": 328.32,
+      "end": 332.46,
+      "ts": "05:28.320 -> 05:32.460",
+      "jp": "いろいろな方法がある",
+      "jp_html": "いろいろな<ruby>方法<rt>ほうほう</rt></ruby>がある",
+      "zh": "有很多方法",
+      "en": "There are various methods."
+    },
+    {
+      "id": 88,
+      "start": 332.46,
+      "end": 333.52,
+      "ts": "05:32.460 -> 05:33.520",
+      "jp": "漫画でもいい",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>でもいい",
+      "zh": "漫画也行",
+      "en": "It's okay in manga too."
+    },
+    {
+      "id": 89,
+      "start": 333.52,
+      "end": 336.1,
+      "ts": "05:33.520 -> 05:36.100",
+      "jp": "テレビの字幕でもいい",
+      "jp_html": "テレビの<ruby>字幕<rt>じまく</rt></ruby>でもいい",
+      "zh": "电视的字幕也可以",
+      "en": "It's okay with subtitles on the TV."
+    },
+    {
+      "id": 90,
+      "start": 336.1,
+      "end": 336.9,
+      "ts": "05:36.100 -> 05:36.900",
+      "jp": "何でもいいです",
+      "jp_html": "<ruby>何で<rt>なんで</rt></ruby>もいいです",
+      "zh": "随便什么都可以",
+      "en": "Anything is fine."
+    },
+    {
+      "id": 91,
+      "start": 336.9,
+      "end": 339.62,
+      "ts": "05:36.900 -> 05:39.620",
+      "jp": "でも漢字を毎日読んでください",
+      "jp_html": "でも<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby><ruby>読んで<rt>よんで</rt></ruby>ください",
+      "zh": "但请每天读一遍汉字",
+      "en": "But please read kanji every day."
+    },
+    {
+      "id": 92,
+      "start": 339.62,
+      "end": 341.68,
+      "ts": "05:39.620 -> 05:41.680",
+      "jp": "そうすれば",
+      "jp_html": "そうすれば",
+      "zh": "那么就可以",
+      "en": "Then it would be possible."
+    },
+    {
+      "id": 93,
+      "start": 341.68,
+      "end": 345.96,
+      "ts": "05:41.680 -> 05:45.960",
+      "jp": "必ず漢字が読めるようになる",
+      "jp_html": "<ruby>必ず<rt>かならず</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>が<ruby>読め<rt>よめ</rt></ruby>るようになる",
+      "zh": "一定你能学会读汉字",
+      "en": "I will definitely be able to read Chinese characters."
+    },
+    {
+      "id": 94,
+      "start": 345.96,
+      "end": 347.14,
+      "ts": "05:45.960 -> 05:47.140",
+      "jp": "漢字が",
+      "jp_html": "<ruby>漢字<rt>かんじ</rt></ruby>が",
+      "zh": "汉字가",
+      "en": "Chinese characters"
+    },
+    {
+      "id": 95,
+      "start": 347.14,
+      "end": 350.28,
+      "ts": "05:47.140 -> 05:50.280",
+      "jp": "書くのはそんなに大事じゃない",
+      "jp_html": "<ruby>書く<rt>かく</rt></ruby>のはそんなに<ruby>大事<rt>だいじ</rt></ruby>じゃない",
+      "zh": "写得那么好不是很重要",
+      "en": "Writing isn't that important."
+    },
+    {
+      "id": 96,
+      "start": 350.28,
+      "end": 352.22,
+      "ts": "05:50.280 -> 05:52.220",
+      "jp": "漢字を読んでください",
+      "jp_html": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>読んで<rt>よんで</rt></ruby>ください",
+      "zh": "请读出汉字",
+      "en": "Read the Chinese characters please."
+    },
+    {
+      "id": 97,
+      "start": 352.22,
+      "end": 353.26,
+      "ts": "05:52.220 -> 05:53.260",
+      "jp": "たくさん読んでください",
+      "jp_html": "たくさん<ruby>読んで<rt>よんで</rt></ruby>ください",
+      "zh": "请多读些书",
+      "en": "Read a lot please."
+    },
+    {
+      "id": 98,
+      "start": 353.26,
+      "end": 355.36,
+      "ts": "05:53.260 -> 05:55.360",
+      "jp": "頑張れ",
+      "jp_html": "<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "加油",
+      "en": "Keep going"
+    },
+    {
+      "id": 99,
+      "start": 355.36,
+      "end": 357.08,
+      "ts": "05:55.360 -> 05:57.080",
+      "jp": "というわけでまたね",
+      "jp_html": "というわけでまたね",
+      "zh": "所以下次见吧",
+      "en": "So anyway, see you later."
+    }
+  ]
+}
