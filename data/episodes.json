@@ -1,5 +1,17 @@
 [
   {
+    "id": "1592",
+    "title": "#1592「発音とかアクセントとかについて！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/10/02/1592%e3%80%8c%e7%99%ba%e9%9f%b3%e3%81%a8%e3%81%8b%e3%82%a2%e3%82%af%e3%82%bb%e3%83%b3%e3%83%88%e3%81%a8%e3%81%8b%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1592.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1592.json"
+  },
+  {
     "id": "1591",
     "title": "#1591「漢字について！」",
     "category_id": "podcast",
