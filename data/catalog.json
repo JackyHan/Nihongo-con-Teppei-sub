@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1593",
+      "title": "#1593「敬語（けいご）、丁寧語（ていねいご）について！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/10/04/1593%e3%80%8c%e6%95%ac%e8%aa%9e%ef%bc%88%e3%81%91%e3%81%84%e3%81%94%ef%bc%89%e3%80%81%e4%b8%81%e5%af%a7%e8%aa%9e%ef%bc%88%e3%81%a6%e3%81%84%e3%81%ad%e3%81%84%e3%81%94%ef%bc%89%e3%81%ab%e3%81%a4/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1593.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1593.json"
+    },
+    {
       "id": "1592",
       "title": "#1592「発音とかアクセントとかについて！」",
       "category_id": "podcast",

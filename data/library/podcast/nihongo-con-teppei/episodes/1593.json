@@ -1,0 +1,764 @@
+{
+  "id": "1593",
+  "title": "#1593「敬語（けいご）、丁寧語（ていねいご）について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1593.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1593.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/04/1593%e3%80%8c%e6%95%ac%e8%aa%9e%ef%bc%88%e3%81%91%e3%81%84%e3%81%94%ef%bc%89%e3%80%81%e4%b8%81%e5%af%a7%e8%aa%9e%ef%bc%88%e3%81%a6%e3%81%84%e3%81%ad%e3%81%84%e3%81%94%ef%bc%89%e3%81%ab%e3%81%a4/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.3,
+      "end": 3.22,
+      "ts": "00:01.300 -> 00:03.220",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.22,
+      "end": 8.04,
+      "ts": "00:03.220 -> 00:08.040",
+      "jp": "今日は敬語、丁寧語について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>敬語<rt>けいご</rt></ruby>、<ruby>丁寧語<rt>ていねいご</rt></ruby>について",
+      "zh": "今天关于尊敬语、丁寧语的话题",
+      "en": "Today, I will talk about respectful and polite language."
+    },
+    {
+      "id": 2,
+      "start": 8.04,
+      "end": 11.28,
+      "ts": "00:08.040 -> 00:11.280",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 11.28,
+      "end": 13.7,
+      "ts": "00:11.280 -> 00:13.700",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语 Conteppe 的时间呢",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 13.7,
+      "end": 17.72,
+      "ts": "00:13.700 -> 00:17.720",
+      "jp": "日本語のトピックについて話しています",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>のトピックについて<ruby>話し<rt>はなし</rt></ruby>ています",
+      "zh": "我们正在谈论日本语的话题",
+      "en": "We are talking about topics in Japanese."
+    },
+    {
+      "id": 5,
+      "start": 17.72,
+      "end": 22.26,
+      "ts": "00:17.720 -> 00:22.260",
+      "jp": "今日は敬語そして丁寧語について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>敬語<rt>けいご</rt></ruby>そして<ruby>丁寧語<rt>ていねいご</rt></ruby>について",
+      "zh": "今天关于尊敬语和谦让语",
+      "en": "Today, I will talk about respect and polite language."
+    },
+    {
+      "id": 6,
+      "start": 22.26,
+      "end": 25.48,
+      "ts": "00:22.260 -> 00:25.480",
+      "jp": "まずですね敬語",
+      "jp_html": "まずですね<ruby>敬語<rt>けいご</rt></ruby>",
+      "zh": "首先，使用尊敬语",
+      "en": "First, let's use honorifics."
+    },
+    {
+      "id": 7,
+      "start": 25.48,
+      "end": 29.34,
+      "ts": "00:25.480 -> 00:29.340",
+      "jp": "敬語はあんまり心配しないでください",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>はあんまり<ruby>心配<rt>しんぱい</rt></ruby>しないでください",
+      "zh": "请不要过于担心敬语问题",
+      "en": "Don't worry too much about polite speech."
+    },
+    {
+      "id": 8,
+      "start": 29.34,
+      "end": 34.9,
+      "ts": "00:29.340 -> 00:34.900",
+      "jp": "敬語を使うことはあまりないと思う",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby>ことはあまりないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我认为很少使用敬语",
+      "en": "I don't think I use honorifics very often."
+    },
+    {
+      "id": 9,
+      "start": 34.9,
+      "end": 38.12,
+      "ts": "00:34.900 -> 00:38.120",
+      "jp": "僕も敬語はほとんど使いません",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>敬語<rt>けいご</rt></ruby>はほとんど<ruby>使い<rt>つかい</rt></ruby>ません",
+      "zh": "我几乎不使用尊敬语",
+      "en": "I hardly use honorifics at all."
+    },
+    {
+      "id": 10,
+      "start": 38.12,
+      "end": 43.88,
+      "ts": "00:38.120 -> 00:43.880",
+      "jp": "その理由は敬語はカスタマーサービスの言葉だからです",
+      "jp_html": "その<ruby>理由<rt>りゆう</rt></ruby>は<ruby>敬語<rt>けいご</rt></ruby>はカスタマーサービスの<ruby>言葉<rt>ことば</rt></ruby>だからです",
+      "zh": "原因是使用敬语是客户服务的语言",
+      "en": "The reason is that polite language is the language of customer service."
+    },
+    {
+      "id": 11,
+      "start": 43.88,
+      "end": 46.34,
+      "ts": "00:43.880 -> 00:46.340",
+      "jp": "いらっしゃいませ",
+      "jp_html": "いらっしゃいませ",
+      "zh": "欢迎光临",
+      "en": "Welcome"
+    },
+    {
+      "id": 12,
+      "start": 46.34,
+      "end": 50.08,
+      "ts": "00:46.340 -> 00:50.080",
+      "jp": "ご予約は終わりでしょうか",
+      "jp_html": "ご<ruby>予約<rt>よやく</rt></ruby>は<ruby>終わり<rt>おわり</rt></ruby>でしょうか",
+      "zh": "您的预约结束了嗎？",
+      "en": "Has your reservation ended?"
+    },
+    {
+      "id": 13,
+      "start": 50.08,
+      "end": 51.86,
+      "ts": "00:50.080 -> 00:51.860",
+      "jp": "ご予約はありますか",
+      "jp_html": "ご<ruby>予約<rt>よやく</rt></ruby>はありますか",
+      "zh": "您有预约吗？",
+      "en": "Do you have a reservation?"
+    },
+    {
+      "id": 14,
+      "start": 51.86,
+      "end": 53.7,
+      "ts": "00:51.860 -> 00:53.700",
+      "jp": "ご予約はありますか",
+      "jp_html": "ご<ruby>予約<rt>よやく</rt></ruby>はありますか",
+      "zh": "您有预约吗？",
+      "en": "Do you have a reservation?"
+    },
+    {
+      "id": 15,
+      "start": 53.7,
+      "end": 56.46,
+      "ts": "00:53.700 -> 00:56.460",
+      "jp": "ご予約は終わりです",
+      "jp_html": "ご<ruby>予約<rt>よやく</rt></ruby>は<ruby>終わり<rt>おわり</rt></ruby>です",
+      "zh": "预订已经结束了",
+      "en": "The reservation is over."
+    },
+    {
+      "id": 16,
+      "start": 56.46,
+      "end": 58.84,
+      "ts": "00:56.460 -> 00:58.840",
+      "jp": "いらっしゃいませ",
+      "jp_html": "いらっしゃいませ",
+      "zh": "欢迎光临",
+      "en": "Welcome"
+    },
+    {
+      "id": 17,
+      "start": 58.84,
+      "end": 62.16,
+      "ts": "00:58.840 -> 01:02.160",
+      "jp": "ご予約は終わりでしょうか",
+      "jp_html": "ご<ruby>予約<rt>よやく</rt></ruby>は<ruby>終わり<rt>おわり</rt></ruby>でしょうか",
+      "zh": "您的预约结束了嗎？",
+      "en": "Has your reservation ended?"
+    },
+    {
+      "id": 18,
+      "start": 62.16,
+      "end": 63.5,
+      "ts": "01:02.160 -> 01:03.500",
+      "jp": "ちょっと待ってください",
+      "jp_html": "ちょっと<ruby>待っ<rt>まっ</rt></ruby>てください",
+      "zh": "请稍等一下",
+      "en": "Please wait a moment."
+    },
+    {
+      "id": 19,
+      "start": 63.5,
+      "end": 67.14,
+      "ts": "01:03.500 -> 01:07.140",
+      "jp": "僕は敬語がうまく使えないぞ",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>敬語<rt>けいご</rt></ruby>がうまく<ruby>使え<rt>つかえ</rt></ruby>ないぞ",
+      "zh": "我不会使用敬语呢",
+      "en": "I am not good at using honorifics."
+    },
+    {
+      "id": 20,
+      "start": 67.14,
+      "end": 76.42,
+      "ts": "01:07.140 -> 01:16.420",
+      "jp": "敬語は本当に使わない",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>使わ<rt>つかわ</rt></ruby>ない",
+      "zh": "真的不使用敬语",
+      "en": "Politeness forms are hardly used."
+    },
+    {
+      "id": 21,
+      "start": 76.42,
+      "end": 77.7,
+      "ts": "01:16.420 -> 01:17.700",
+      "jp": "僕は使わない",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>使わ<rt>つかわ</rt></ruby>ない",
+      "zh": "我不使用",
+      "en": "I don't use it."
+    },
+    {
+      "id": 22,
+      "start": 77.7,
+      "end": 81.48,
+      "ts": "01:17.700 -> 01:21.480",
+      "jp": "それはカスタマーサービスをほとんどしたことがないからね",
+      "jp_html": "それはカスタマーサービスをほとんどしたことがないからね",
+      "zh": "那是因为几乎 never 服务过客服",
+      "en": "That's because I haven't dealt with customer service much."
+    },
+    {
+      "id": 23,
+      "start": 81.48,
+      "end": 83.16,
+      "ts": "01:21.480 -> 01:23.160",
+      "jp": "仕事ですよね",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>ですよね",
+      "zh": "是工作吧？",
+      "en": "It's work, right?"
+    },
+    {
+      "id": 24,
+      "start": 83.16,
+      "end": 85.82,
+      "ts": "01:23.160 -> 01:25.820",
+      "jp": "敬語は仕事でしか使わない",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>でしか<ruby>使わ<rt>つかわ</rt></ruby>ない",
+      "zh": "敬语只在工作中使用",
+      "en": "I use honorifics only at work."
+    },
+    {
+      "id": 25,
+      "start": 85.82,
+      "end": 90.12,
+      "ts": "01:25.820 -> 01:30.120",
+      "jp": "多分あと社長とかね",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>あと<ruby>社長<rt>しゃちょう</rt></ruby>とかね",
+      "zh": "大概还会遇到总经理之类的人吧",
+      "en": "Probably after president or something like that."
+    },
+    {
+      "id": 26,
+      "start": 90.12,
+      "end": 92.08,
+      "ts": "01:30.120 -> 01:32.080",
+      "jp": "社長おはようございます",
+      "jp_html": "<ruby>社長<rt>しゃちょう</rt></ruby>おはようございます",
+      "zh": "总经理早上好",
+      "en": "President good morning."
+    },
+    {
+      "id": 27,
+      "start": 92.08,
+      "end": 96.1,
+      "ts": "01:32.080 -> 01:36.100",
+      "jp": "おーてっぺくん元気かね",
+      "jp_html": "おーてっぺくん<ruby>元気<rt>げんき</rt></ruby>かね",
+      "zh": "哦手pek君还好吧",
+      "en": "Oh-teppu-kun, are you okay?"
+    },
+    {
+      "id": 28,
+      "start": 96.1,
+      "end": 99.54,
+      "ts": "01:36.100 -> 01:39.540",
+      "jp": "はい社長のおかげで",
+      "jp_html": "はい<ruby>社長<rt>しゃちょう</rt></ruby>のおかげで",
+      "zh": "是董事长的おかげ",
+      "en": "Yes thanks to the president/CEO"
+    },
+    {
+      "id": 29,
+      "start": 99.54,
+      "end": 104.04,
+      "ts": "01:39.540 -> 01:44.040",
+      "jp": "会社のおかげで元気にさせていただいております",
+      "jp_html": "<ruby>会社<rt>かいしゃ</rt></ruby>のおかげで<ruby>元気<rt>げんき</rt></ruby>にさせていただいております",
+      "zh": "多亏了公司让我恢复活力",
+      "en": "We are keeping our energy with the help of the company."
+    },
+    {
+      "id": 30,
+      "start": 104.04,
+      "end": 105.18,
+      "ts": "01:44.040 -> 01:45.180",
+      "jp": "みたいな",
+      "jp_html": "みたいな",
+      "zh": "似的",
+      "en": "like"
+    },
+    {
+      "id": 31,
+      "start": 105.18,
+      "end": 108.48,
+      "ts": "01:45.180 -> 01:48.480",
+      "jp": "そんな言葉は使ったことがない",
+      "jp_html": "そんな<ruby>言葉<rt>ことば</rt></ruby>は<ruby>使った<rt>つかった</rt></ruby>ことがない",
+      "zh": "我从来没有说过这样的话",
+      "en": "I have never used such words."
+    },
+    {
+      "id": 32,
+      "start": 108.48,
+      "end": 109.64,
+      "ts": "01:48.480 -> 01:49.640",
+      "jp": "僕はね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ね",
+      "zh": "我呢",
+      "en": "I'm like"
+    },
+    {
+      "id": 33,
+      "start": 109.64,
+      "end": 113.28,
+      "ts": "01:49.640 -> 01:53.280",
+      "jp": "なので僕は傾向は分かりません",
+      "jp_html": "なので<ruby>僕は<rt>ぼくは</rt></ruby><ruby>傾向<rt>けいこう</rt></ruby>は<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "所以我不清楚趋势如何",
+      "en": "So I don't understand the trend."
+    },
+    {
+      "id": 34,
+      "start": 113.28,
+      "end": 115.94,
+      "ts": "01:53.280 -> 01:55.940",
+      "jp": "だけど丁寧語ですね",
+      "jp_html": "だけど<ruby>丁寧語<rt>ていねいご</rt></ruby>ですね",
+      "zh": "但是是敬语呢",
+      "en": "But it is polite language, though."
+    },
+    {
+      "id": 35,
+      "start": 115.94,
+      "end": 118.14,
+      "ts": "01:55.940 -> 01:58.140",
+      "jp": "丁寧語は毎日使います",
+      "jp_html": "<ruby>丁寧語<rt>ていねいご</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>使い<rt>つかい</rt></ruby>ます",
+      "zh": "丁寧语我每天都用。",
+      "en": "I use polite language every day."
+    },
+    {
+      "id": 36,
+      "start": 118.14,
+      "end": 121.32,
+      "ts": "01:58.140 -> 02:01.320",
+      "jp": "丁寧語はですますですね",
+      "jp_html": "<ruby>丁寧語<rt>ていねいご</rt></ruby>はですますですね",
+      "zh": "丁寧语是ですますね",
+      "en": "丁寧語はですますね"
+    },
+    {
+      "id": 37,
+      "start": 121.32,
+      "end": 122.78,
+      "ts": "02:01.320 -> 02:02.780",
+      "jp": "ちゃんと使います",
+      "jp_html": "ちゃんと<ruby>使い<rt>つかい</rt></ruby>ます",
+      "zh": "我会好好使用的",
+      "en": "I will use it properly."
+    },
+    {
+      "id": 38,
+      "start": 122.78,
+      "end": 124.26,
+      "ts": "02:02.780 -> 02:04.260",
+      "jp": "ですます",
+      "jp_html": "ですます",
+      "zh": "结束了",
+      "en": "is desu masu"
+    },
+    {
+      "id": 39,
+      "start": 124.26,
+      "end": 127.06,
+      "ts": "02:04.260 -> 02:07.060",
+      "jp": "のりこさん元気ですか",
+      "jp_html": "のりこさん<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "的里子，你精神吗",
+      "en": "Noriko-san, are you okay?"
+    },
+    {
+      "id": 40,
+      "start": 127.06,
+      "end": 131.82,
+      "ts": "02:07.060 -> 02:11.820",
+      "jp": "のりこ元気じゃなくてのりこさん元気ですか",
+      "jp_html": "のりこ<ruby>元気<rt>げんき</rt></ruby>じゃなくてのりこさん<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "的里子不精神，的里子小姐精神好吗",
+      "en": "Noriko isn't feeling well. Is Noriko okay?"
+    },
+    {
+      "id": 41,
+      "start": 131.82,
+      "end": 134.3,
+      "ts": "02:11.820 -> 02:14.300",
+      "jp": "これが丁寧語ですね",
+      "jp_html": "これが<ruby>丁寧語<rt>ていねいご</rt></ruby>ですね",
+      "zh": "这是敬语呢",
+      "en": "This is polite language, huh?"
+    },
+    {
+      "id": 42,
+      "start": 134.3,
+      "end": 138.98,
+      "ts": "02:14.300 -> 02:18.980",
+      "jp": "敬語はのりこ様お元気でしょうか",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>はのりこ<ruby>様<rt>さま</rt></ruby>お<ruby>元気<rt>げんき</rt></ruby>でしょうか",
+      "zh": "的语您身体可好？",
+      "en": "Is Lady Noriko doing well?"
+    },
+    {
+      "id": 43,
+      "start": 138.98,
+      "end": 142.32,
+      "ts": "02:18.980 -> 02:22.320",
+      "jp": "お元気でしたでしょうか",
+      "jp_html": "お<ruby>元気<rt>げんき</rt></ruby>でしたでしょうか",
+      "zh": "您好吗？",
+      "en": "Were you well?>>Translated literally, but a more natural English phrasing would be \"How have you been?\" or \"How are you?\""
+    },
+    {
+      "id": 44,
+      "start": 142.32,
+      "end": 143.74,
+      "ts": "02:22.320 -> 02:23.740",
+      "jp": "ちょっとわかんない",
+      "jp_html": "ちょっとわかんない",
+      "zh": "有点不懂",
+      "en": "I kind of don't understand."
+    },
+    {
+      "id": 45,
+      "start": 143.74,
+      "end": 147.68,
+      "ts": "02:23.740 -> 02:27.680",
+      "jp": "ちょっと敬語が使えない",
+      "jp_html": "ちょっと<ruby>敬語<rt>けいご</rt></ruby>が<ruby>使え<rt>つかえ</rt></ruby>ない",
+      "zh": "稍微不用那么尊敬的语言",
+      "en": "Can't use honorifics a bit"
+    },
+    {
+      "id": 46,
+      "start": 147.68,
+      "end": 150.84,
+      "ts": "02:27.680 -> 02:30.840",
+      "jp": "だけど丁寧語ですね",
+      "jp_html": "だけど<ruby>丁寧語<rt>ていねいご</rt></ruby>ですね",
+      "zh": "但是是敬语呢",
+      "en": "But it is polite language, though."
+    },
+    {
+      "id": 47,
+      "start": 150.84,
+      "end": 153.5,
+      "ts": "02:30.840 -> 02:33.500",
+      "jp": "丁寧語は毎日使います",
+      "jp_html": "<ruby>丁寧語<rt>ていねいご</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>使い<rt>つかい</rt></ruby>ます",
+      "zh": "丁寧语我每天都用。",
+      "en": "I use polite language every day."
+    },
+    {
+      "id": 48,
+      "start": 153.5,
+      "end": 161.32,
+      "ts": "02:33.500 -> 02:41.320",
+      "jp": "なので皆さんはまず丁寧語をちゃんと使えるようにしてください",
+      "jp_html": "なので<ruby>皆さん<rt>みなさん</rt></ruby>はまず<ruby>丁寧語<rt>ていねいご</rt></ruby>をちゃんと<ruby>使え<rt>つかえ</rt></ruby>るようにしてください",
+      "zh": "所以大家首先要能正确使用丁宁语",
+      "en": "So please make sure you can properly use polite language first."
+    },
+    {
+      "id": 49,
+      "start": 161.32,
+      "end": 162.82,
+      "ts": "02:41.320 -> 02:42.820",
+      "jp": "ですます",
+      "jp_html": "ですます",
+      "zh": "结束了",
+      "en": "is desu masu"
+    },
+    {
+      "id": 50,
+      "start": 162.82,
+      "end": 165.62,
+      "ts": "02:42.820 -> 02:45.620",
+      "jp": "ちゃんと使えるようにしてください",
+      "jp_html": "ちゃんと<ruby>使え<rt>つかえ</rt></ruby>るようにしてください",
+      "zh": "请确保可以正常使用。",
+      "en": "Please make sure it can be used properly."
+    },
+    {
+      "id": 51,
+      "start": 165.62,
+      "end": 171.94,
+      "ts": "02:45.620 -> 02:51.940",
+      "jp": "敬語はそんなに心配しなくていいですね",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>はそんなに<ruby>心配<rt>しんぱい</rt></ruby>しなくていいですね",
+      "zh": "不用太担心敬语呢",
+      "en": "You don't need to worry so much about using honorifics."
+    },
+    {
+      "id": 52,
+      "start": 171.94,
+      "end": 175.7,
+      "ts": "02:51.940 -> 02:55.700",
+      "jp": "もし日本で旅館で仕事がしたいとか",
+      "jp_html": "もし<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>旅館<rt>りょかん</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>がしたいとか",
+      "zh": "如果想在日本旅馆工作的话",
+      "en": "If you want to work in an inn in Japan"
+    },
+    {
+      "id": 53,
+      "start": 175.7,
+      "end": 180.12,
+      "ts": "02:55.700 -> 03:00.120",
+      "jp": "ホテルで働きたいとかレストランで働きたいとか",
+      "jp_html": "ホテルで<ruby>働き<rt>はたらき</rt></ruby>たいとかレストランで<ruby>働き<rt>はたらき</rt></ruby>たいとか",
+      "zh": "想在酒店工作或在餐馆工作",
+      "en": "I want to work at a hotel or at a restaurant."
+    },
+    {
+      "id": 54,
+      "start": 180.12,
+      "end": 185.5,
+      "ts": "03:00.120 -> 03:05.500",
+      "jp": "そういう人たちは敬語の練習をしなければいけない",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>たちは<ruby>敬語<rt>けいご</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>をしなければいけない",
+      "zh": "这样的人应该练习使用敬语",
+      "en": "Those people need to practice polite language."
+    },
+    {
+      "id": 55,
+      "start": 185.5,
+      "end": 190.14,
+      "ts": "03:05.500 -> 03:10.140",
+      "jp": "だけどほとんどの旅行とか",
+      "jp_html": "だけどほとんどの<ruby>旅行<rt>りょこう</rt></ruby>とか",
+      "zh": "但是大多数旅行之类的",
+      "en": "But most of the travel, etc."
+    },
+    {
+      "id": 56,
+      "start": 190.14,
+      "end": 195.5,
+      "ts": "03:10.140 -> 03:15.500",
+      "jp": "日本に普通に住んでいる人",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>普通<rt>ふつう</rt></ruby>に<ruby>住ん<rt>すん</rt></ruby>でいる<ruby>人<rt>にん</rt></ruby>",
+      "zh": "在日本普通居住的人",
+      "en": "People living normally in Japan"
+    },
+    {
+      "id": 57,
+      "start": 195.5,
+      "end": 197.3,
+      "ts": "03:15.500 -> 03:17.300",
+      "jp": "僕の奥さんとか",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>とか",
+      "zh": "我的妻子或者老婆",
+      "en": "My wife or my spouse"
+    },
+    {
+      "id": 58,
+      "start": 197.3,
+      "end": 205.58,
+      "ts": "03:17.300 -> 03:25.580",
+      "jp": "そういう人は毎日敬語は普通は使わないと思いますね",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>敬語<rt>けいご</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>は<ruby>使わ<rt>つかわ</rt></ruby>ないと<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "我想这样的人每天通常不会使用敬语吧",
+      "en": "I think such people don't usually use honorifics every day."
+    },
+    {
+      "id": 59,
+      "start": 205.58,
+      "end": 215.5,
+      "ts": "03:25.580 -> 03:35.500",
+      "jp": "仕事だけですね仕事でちょっと上司の人",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>だけですね<ruby>仕事<rt>しごと</rt></ruby>でちょっと<ruby>上司<rt>じょうし</rt></ruby>の<ruby>人<rt>にん</rt></ruby>",
+      "zh": "只是工作呢，工作的时候稍微和上司说了一下",
+      "en": "It's just work. There's a little something with my boss."
+    },
+    {
+      "id": 60,
+      "start": 215.5,
+      "end": 221.68,
+      "ts": "03:35.500 -> 03:41.680",
+      "jp": "自分より上の立場の人と話す時とか",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>より<ruby>上の<rt>うえの</rt></ruby><ruby>立場<rt>たちば</rt></ruby>の<ruby>人<rt>にん</rt></ruby>と<ruby>話す<rt>はなす</rt></ruby><ruby>時<rt>とき</rt></ruby>とか",
+      "zh": "和比自己地位高的人说话的时候",
+      "en": "When talking to someone in a higher position than yourself,"
+    },
+    {
+      "id": 61,
+      "start": 221.68,
+      "end": 225.18,
+      "ts": "03:41.680 -> 03:45.180",
+      "jp": "お客様と話す時は敬語を使います",
+      "jp_html": "お<ruby>客様<rt>きゃくさま</rt></ruby>と<ruby>話す<rt>はなす</rt></ruby><ruby>時<rt>とき</rt></ruby>は<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ます",
+      "zh": "和顾客说话时使用敬语",
+      "en": "When speaking with customers, I use honorifics."
+    },
+    {
+      "id": 62,
+      "start": 225.18,
+      "end": 228.56,
+      "ts": "03:45.180 -> 03:48.560",
+      "jp": "でも普通旅行している人とかね",
+      "jp_html": "でも<ruby>普通<rt>ふつう</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>している<ruby>人<rt>にん</rt></ruby>とかね",
+      "zh": "但是普通的旅游的人呢",
+      "en": "But like, ordinary travelers, you know?"
+    },
+    {
+      "id": 63,
+      "start": 228.56,
+      "end": 232.68,
+      "ts": "03:48.560 -> 03:52.680",
+      "jp": "そういう人は全く敬語を使う必要はありません",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>は<ruby>全く<rt>まったく</rt></ruby><ruby>敬語<rt>けいご</rt></ruby>を<ruby>使う<rt>つかう</rt></ruby><ruby>必要<rt>ひつよう</rt></ruby>はありません",
+      "zh": "这种人完全不需要使用敬语",
+      "en": "Such people have no need to use honorifics at all."
+    },
+    {
+      "id": 64,
+      "start": 232.68,
+      "end": 241.32,
+      "ts": "03:52.680 -> 04:01.320",
+      "jp": "お客さんなので敬語を使われることはたくさんあると思う",
+      "jp_html": "お<ruby>客<rt>きゃく</rt></ruby>さんなので<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使わ<rt>つかわ</rt></ruby>れることはたくさんあると<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想被使用敬语的情况很多都是顾客。",
+      "en": "I think it's common for polite language to be used when speaking to customers."
+    },
+    {
+      "id": 65,
+      "start": 241.32,
+      "end": 244.76,
+      "ts": "04:01.320 -> 04:04.760",
+      "jp": "スタッフの人がお客さんに敬語を使います",
+      "jp_html": "スタッフの<ruby>人<rt>にん</rt></ruby>がお<ruby>客<rt>きゃく</rt></ruby>さんに<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ます",
+      "zh": "工作人员会对顾客使用敬语",
+      "en": "The staff uses honorific language with customers."
+    },
+    {
+      "id": 66,
+      "start": 244.76,
+      "end": 249.42,
+      "ts": "04:04.760 -> 04:09.420",
+      "jp": "でもお客さんはスタッフに敬語を使いません",
+      "jp_html": "でもお<ruby>客<rt>きゃく</rt></ruby>さんはスタッフに<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使い<rt>つかい</rt></ruby>ません",
+      "zh": "但是顾客不会对工作人员使用敬语",
+      "en": "But customers do not use honorifics with staff."
+    },
+    {
+      "id": 67,
+      "start": 249.42,
+      "end": 252.34,
+      "ts": "04:09.420 -> 04:12.340",
+      "jp": "なのでまずは丁寧語ですね",
+      "jp_html": "なのでまずは<ruby>丁寧語<rt>ていねいご</rt></ruby>ですね",
+      "zh": "所以首先使用丁寧语吧",
+      "en": "So let's start with polite language first."
+    },
+    {
+      "id": 68,
+      "start": 252.34,
+      "end": 256.12,
+      "ts": "04:12.340 -> 04:16.120",
+      "jp": "敬語は少しずつでいいと思います",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>は<ruby>少し<rt>すこし</rt></ruby>ずつでいいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为敬语可以逐渐学习使用。",
+      "en": "I think it's good to use honorifics little by little."
+    },
+    {
+      "id": 69,
+      "start": 256.12,
+      "end": 264.46,
+      "ts": "04:16.120 -> 04:24.460",
+      "jp": "でも多分JLPTの1級とか2級とか",
+      "jp_html": "でも<ruby>多分<rt>たぶん</rt></ruby>JLPTの1<ruby>級<rt>きゅう</rt></ruby>とか2<ruby>級<rt>きゅう</rt></ruby>とか",
+      "zh": "但也可能是N1或N2等级吧",
+      "en": "But probably N JLPT level 1 or 2"
+    },
+    {
+      "id": 70,
+      "start": 264.46,
+      "end": 267.56,
+      "ts": "04:24.460 -> 04:27.560",
+      "jp": "たくさんの敬語が出てくると思うので",
+      "jp_html": "たくさんの<ruby>敬語<rt>けいご</rt></ruby>が<ruby>出て<rt>でて</rt></ruby>くると<ruby>思う<rt>おもう</rt></ruby>ので",
+      "zh": "我认为会出现很多敬语",
+      "en": "I think there will be many honorifics used."
+    },
+    {
+      "id": 71,
+      "start": 267.56,
+      "end": 273.6,
+      "ts": "04:27.560 -> 04:33.600",
+      "jp": "JLPTを取りたい人はちょっと敬語の勉強をしなくてはいけない",
+      "jp_html": "JLPTを<ruby>取り<rt>とり</rt></ruby>たい<ruby>人<rt>にん</rt></ruby>はちょっと<ruby>敬語<rt>けいご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をしなくてはいけない",
+      "zh": "想要参加 JLPT 的人需要稍微学习一下敬语",
+      "en": "People who want to take the JLPT need to study polite language a bit."
+    },
+    {
+      "id": 72,
+      "start": 273.6,
+      "end": 274.96,
+      "ts": "04:33.600 -> 04:34.960",
+      "jp": "大変ですね",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>ですね",
+      "zh": "真麻烦啊",
+      "en": "It's very troublesome, isn't it?"
+    },
+    {
+      "id": 73,
+      "start": 274.96,
+      "end": 275.86,
+      "ts": "04:34.960 -> 04:35.860",
+      "jp": "頑張れ",
+      "jp_html": "<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "加油",
+      "en": "Keep going"
+    },
+    {
+      "id": 74,
+      "start": 275.86,
+      "end": 278.08,
+      "ts": "04:35.860 -> 04:38.080",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
