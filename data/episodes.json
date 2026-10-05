@@ -1,5 +1,17 @@
 [
   {
+    "id": "1594",
+    "title": "#1594「皆さんにお願い！（オラに少しだけ元気をくれー！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/10/05/1594%e3%80%8c%e7%9a%86%e3%81%95%e3%82%93%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84%ef%bc%81%ef%bc%88%e3%82%aa%e3%83%a9%e3%81%ab%e5%b0%91%e3%81%97%e3%81%a0%e3%81%91%e5%85%83%e6%b0%97%e3%82%92%e3%81%8f/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1594.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1594.json"
+  },
+  {
     "id": "1593",
     "title": "#1593「敬語（けいご）、丁寧語（ていねいご）について！」",
     "category_id": "podcast",

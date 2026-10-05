@@ -1,0 +1,924 @@
+{
+  "id": "1594",
+  "title": "#1594「皆さんにお願い！（オラに少しだけ元気をくれー！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1594.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1594.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/05/1594%e3%80%8c%e7%9a%86%e3%81%95%e3%82%93%e3%81%ab%e3%81%8a%e9%a1%98%e3%81%84%ef%bc%81%ef%bc%88%e3%82%aa%e3%83%a9%e3%81%ab%e5%b0%91%e3%81%97%e3%81%a0%e3%81%91%e5%85%83%e6%b0%97%e3%82%92%e3%81%8f/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.1,
+      "end": 2.94,
+      "ts": "00:01.100 -> 00:02.940",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙克ين",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 2.94,
+      "end": 5.76,
+      "ts": "00:02.940 -> 00:05.760",
+      "jp": "今日は皆さんにお願い",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>皆さん<rt>みなさん</rt></ruby>にお<ruby>願い<rt>ねがい</rt></ruby>",
+      "zh": "今天请各位",
+      "en": "I have a request for everyone today."
+    },
+    {
+      "id": 2,
+      "start": 5.76,
+      "end": 7.3,
+      "ts": "00:05.760 -> 00:07.300",
+      "jp": "またお願いだ",
+      "jp_html": "またお<ruby>願い<rt>ねがい</rt></ruby>だ",
+      "zh": "再拜托了",
+      "en": "Please again."
+    },
+    {
+      "id": 3,
+      "start": 7.3,
+      "end": 10.82,
+      "ts": "00:07.300 -> 00:10.820",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 4,
+      "start": 10.82,
+      "end": 14.26,
+      "ts": "00:10.820 -> 00:14.260",
+      "jp": "日本語コンテッペドラゴンボールの時間です",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペドラゴンボールの<ruby>時間<rt>じかん</rt></ruby>です",
+      "zh": "日语动漫龙珠的时间到了",
+      "en": "The time for Japanese language Dragon Ball is here"
+    },
+    {
+      "id": 5,
+      "start": 14.26,
+      "end": 16.86,
+      "ts": "00:14.260 -> 00:16.860",
+      "jp": "あの悟空が",
+      "jp_html": "あの<ruby>悟空<rt>ごくう</rt></ruby>が",
+      "zh": "那个悟空",
+      "en": "That Goku"
+    },
+    {
+      "id": 6,
+      "start": 16.86,
+      "end": 19.2,
+      "ts": "00:16.860 -> 00:19.200",
+      "jp": "ドラゴンボール知ってますか",
+      "jp_html": "ドラゴンボール<ruby>知って<rt>しって</rt></ruby>ますか",
+      "zh": "你听说过龙珠吗？",
+      "en": "Do you know Dragon Ball?"
+    },
+    {
+      "id": 7,
+      "start": 19.2,
+      "end": 22.1,
+      "ts": "00:19.200 -> 00:22.100",
+      "jp": "ドラゴンボールの悟空が",
+      "jp_html": "ドラゴンボールの<ruby>悟空<rt>ごくう</rt></ruby>が",
+      "zh": "龙珠的孙悟空",
+      "en": "The Saiyan Goku from Dragon Ball"
+    },
+    {
+      "id": 8,
+      "start": 22.1,
+      "end": 26.94,
+      "ts": "00:22.100 -> 00:26.940",
+      "jp": "みんなオラに力を貸してくれと言って",
+      "jp_html": "みんなオラに<ruby>力<rt>ちから</rt></ruby>を<ruby>貸し<rt>かし</rt></ruby>てくれと<ruby>言って<rt>いって</rt></ruby>",
+      "zh": "大家都对奥拉说要借给他力量",
+      "en": "Everyone is saying they should lend me their strength."
+    },
+    {
+      "id": 9,
+      "start": 26.94,
+      "end": 32.8,
+      "ts": "00:26.940 -> 00:32.800",
+      "jp": "地球にいる人々の元気を少しずつもらって",
+      "jp_html": "<ruby>地球<rt>ちきゅう</rt></ruby>にいる<ruby>人々<rt>ひとびと</rt></ruby>の<ruby>元気<rt>げんき</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby>ずつもらって",
+      "zh": "逐渐从人们那里获取活力",
+      "en": "People gradually take some of their vitality."
+    },
+    {
+      "id": 10,
+      "start": 32.8,
+      "end": 35.1,
+      "ts": "00:32.800 -> 00:35.100",
+      "jp": "それで元気玉を作ります",
+      "jp_html": "それで<ruby>元気<rt>げんき</rt></ruby><ruby>玉<rt>たま</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>ます",
+      "zh": "然后我就制作活力珠",
+      "en": "So we make a energy ball."
+    },
+    {
+      "id": 11,
+      "start": 35.1,
+      "end": 40.98,
+      "ts": "00:35.100 -> 00:40.980",
+      "jp": "僕は元気玉を作る予定はないんですが",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>元気<rt>げんき</rt></ruby><ruby>玉<rt>たま</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby><ruby>予定<rt>よてい</rt></ruby>はないんですが",
+      "zh": "我没有计划制作元气弹",
+      "en": "I don't have any plans to make happiness balls."
+    },
+    {
+      "id": 12,
+      "start": 40.98,
+      "end": 47.74,
+      "ts": "00:40.980 -> 00:47.740",
+      "jp": "やっぱり日本語コンテッペの元気がちょっと足りなくなっていると",
+      "jp_html": "やっぱり<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>元気<rt>げんき</rt></ruby>がちょっと<ruby>足り<rt>たり</rt></ruby>なくなっていると",
+      "zh": "果然日语歌曲的活力稍微不足了一些",
+      "en": "It seems that the vitality of Japanese language contexts is slightly diminishing."
+    },
+    {
+      "id": 13,
+      "start": 47.74,
+      "end": 51.98,
+      "ts": "00:47.740 -> 00:51.980",
+      "jp": "まあまあまあこれはお金ですね",
+      "jp_html": "まあまあまあこれはお<ruby>金<rt>きん</rt></ruby>ですね",
+      "zh": "这倒是挺有钱的呢",
+      "en": "This is money, right?"
+    },
+    {
+      "id": 14,
+      "start": 51.98,
+      "end": 56.74,
+      "ts": "00:51.980 -> 00:56.740",
+      "jp": "お金のことは心配したくない",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>のことは<ruby>心配<rt>しんぱい</rt></ruby>したくない",
+      "zh": "不想担心钱的事情",
+      "en": "I don't want to worry about money."
+    },
+    {
+      "id": 15,
+      "start": 56.74,
+      "end": 61.82,
+      "ts": "00:56.740 -> 01:01.820",
+      "jp": "お金のことは話したくないですが",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>のことは<ruby>話し<rt>はなし</rt></ruby>たくないですが",
+      "zh": "我不想谈论钱的事情",
+      "en": "I don't want to talk about money, but"
+    },
+    {
+      "id": 16,
+      "start": 61.82,
+      "end": 64.28,
+      "ts": "01:01.820 -> 01:04.280",
+      "jp": "ちょっと心配になってきました",
+      "jp_html": "ちょっと<ruby>心配<rt>しんぱい</rt></ruby>になってきました",
+      "zh": "我开始有点担心了",
+      "en": "I'm starting to feel a bit worried."
+    },
+    {
+      "id": 17,
+      "start": 64.28,
+      "end": 65.82,
+      "ts": "01:04.280 -> 01:05.820",
+      "jp": "ちょっとね",
+      "jp_html": "ちょっとね",
+      "zh": "稍微一下",
+      "en": "Oh, just a little bit."
+    },
+    {
+      "id": 18,
+      "start": 65.82,
+      "end": 69.62,
+      "ts": "01:05.820 -> 01:09.620",
+      "jp": "今年はちょっとリラックスしすぎてて",
+      "jp_html": "<ruby>今年<rt>こんねん</rt></ruby>はちょっとリラックスしすぎてて",
+      "zh": "今年有点放松过头了",
+      "en": "This year I've relaxed a bit too much."
+    },
+    {
+      "id": 19,
+      "start": 69.62,
+      "end": 71.16,
+      "ts": "01:09.620 -> 01:11.160",
+      "jp": "少しね",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ね",
+      "zh": "少nej",
+      "en": "Just a little."
+    },
+    {
+      "id": 20,
+      "start": 71.16,
+      "end": 73.22,
+      "ts": "01:11.160 -> 01:13.220",
+      "jp": "大変です",
+      "jp_html": "<ruby>大変<rt>たいへん</rt></ruby>です",
+      "zh": "很糟糕",
+      "en": "It's terrible."
+    },
+    {
+      "id": 21,
+      "start": 73.22,
+      "end": 73.88,
+      "ts": "01:13.220 -> 01:13.880",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 22,
+      "start": 73.88,
+      "end": 75.88,
+      "ts": "01:13.880 -> 01:15.880",
+      "jp": "ちょっと皆さんに",
+      "jp_html": "ちょっと<ruby>皆さん<rt>みなさん</rt></ruby>に",
+      "zh": "稍微让大家知道一下",
+      "en": "Just a moment everyone,"
+    },
+    {
+      "id": 23,
+      "start": 75.88,
+      "end": 78.22,
+      "ts": "01:15.880 -> 01:18.220",
+      "jp": "元気玉を少しずつね",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby><ruby>玉<rt>たま</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby>ずつね",
+      "zh": "一点点元气球",
+      "en": "Little by little, I'll gather the energy ball."
+    },
+    {
+      "id": 24,
+      "start": 78.22,
+      "end": 79.76,
+      "ts": "01:18.220 -> 01:19.760",
+      "jp": "元気を少しずついただきたい",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby>ずついただきたい",
+      "zh": "希望能逐渐恢复活力",
+      "en": "I want to gradually gain some energy."
+    },
+    {
+      "id": 25,
+      "start": 79.76,
+      "end": 82.88,
+      "ts": "01:19.760 -> 01:22.880",
+      "jp": "なぜこういうことになっているかというと",
+      "jp_html": "なぜこういうことになっているかというと",
+      "zh": "为什么会变成这样",
+      "en": "The reason why things are this way is..."
+    },
+    {
+      "id": 26,
+      "start": 82.88,
+      "end": 90.76,
+      "ts": "01:22.880 -> 01:30.760",
+      "jp": "やっぱり普通ねビジネスって商品を作って",
+      "jp_html": "やっぱり<ruby>普通<rt>ふつう</rt></ruby>ねビジネスって<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>作っ<rt>つくっ</rt></ruby>て",
+      "zh": "果然普通呢商务就是制作产品",
+      "en": "Still, it's just business, making products."
+    },
+    {
+      "id": 27,
+      "start": 90.76,
+      "end": 95.9,
+      "ts": "01:30.760 -> 01:35.900",
+      "jp": "それを売ったりサブスクリプションだったり",
+      "jp_html": "それを<ruby>売っ<rt>うっ</rt></ruby>たりサブスクリプションだったり",
+      "zh": "把它卖出去，或者采用订阅制",
+      "en": "to sell it or as a subscription"
+    },
+    {
+      "id": 28,
+      "start": 95.9,
+      "end": 100.42,
+      "ts": "01:35.900 -> 01:40.420",
+      "jp": "人々からお金をもらいますよね",
+      "jp_html": "<ruby>人々<rt>ひとびと</rt></ruby>からお<ruby>金<rt>きん</rt></ruby>をもらいますよね",
+      "zh": "人们不是从别人那里收钱吗？",
+      "en": "Don't you take money from people?"
+    },
+    {
+      "id": 29,
+      "start": 100.42,
+      "end": 108.56,
+      "ts": "01:40.420 -> 01:48.560",
+      "jp": "でもポッドキャストっていうのはそういうのがあまりできないというか",
+      "jp_html": "でもポッドキャストっていうのはそういうのがあまりできないというか",
+      "zh": "但是播客这种形式不太容易做到这一点",
+      "en": "But podcasts aren't really good for that, either."
+    },
+    {
+      "id": 30,
+      "start": 108.56,
+      "end": 109.98,
+      "ts": "01:48.560 -> 01:49.980",
+      "jp": "できるんですけど",
+      "jp_html": "できるんですけど",
+      "zh": "可以做到",
+      "en": "Can I do it?"
+    },
+    {
+      "id": 31,
+      "start": 109.98,
+      "end": 114.52,
+      "ts": "01:49.980 -> 01:54.520",
+      "jp": "例えばメンバーシップオンリーコンテンツとかね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>メンバーシップオンリーコンテンツとかね",
+      "zh": "例如会员专享内容之类的",
+      "en": "For example, membership-only content or something like that."
+    },
+    {
+      "id": 32,
+      "start": 114.52,
+      "end": 116.84,
+      "ts": "01:54.520 -> 01:56.840",
+      "jp": "でも僕はそれをしたくないんですね",
+      "jp_html": "でも<ruby>僕は<rt>ぼくは</rt></ruby>それをしたくないんですね",
+      "zh": "但我dont想这样做呢",
+      "en": "But I don't want to do that, you know."
+    },
+    {
+      "id": 33,
+      "start": 116.84,
+      "end": 121.54,
+      "ts": "01:56.840 -> 02:01.540",
+      "jp": "したくない理由は何度も何度もここで言ったように",
+      "jp_html": "したくない<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>もここで<ruby>言った<rt>いった</rt></ruby>ように",
+      "zh": "不想的理由像我之前说的那样，已经说了无数次了",
+      "en": "The reasons why you don't want to have been mentioned many times here."
+    },
+    {
+      "id": 34,
+      "start": 121.54,
+      "end": 126.2,
+      "ts": "02:01.540 -> 02:06.200",
+      "jp": "やっぱり大学生とか高校生とか",
+      "jp_html": "やっぱり<ruby>大学生<rt>だいがくせい</rt></ruby>とか<ruby>高校生<rt>こうこうせい</rt></ruby>とか",
+      "zh": "果然有大学生或者高中生",
+      "en": "Still, college students or high school students"
+    },
+    {
+      "id": 35,
+      "start": 126.2,
+      "end": 131.0,
+      "ts": "02:06.200 -> 02:11.000",
+      "jp": "そして仕事がない人とかいるじゃないですか",
+      "jp_html": "そして<ruby>仕事<rt>しごと</rt></ruby>がない<ruby>人<rt>にん</rt></ruby>とかいるじゃないですか",
+      "zh": "不是还有没有工作的人吗",
+      "en": "Don't they have people who don't have any work, right?"
+    },
+    {
+      "id": 36,
+      "start": 131.0,
+      "end": 135.88,
+      "ts": "02:11.000 -> 02:15.880",
+      "jp": "そういう人でも日本語の勉強できるように",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>でも<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>できるように",
+      "zh": "这样的人也能学习日语",
+      "en": "Such people can also study Japanese."
+    },
+    {
+      "id": 37,
+      "start": 135.88,
+      "end": 140.38,
+      "ts": "02:15.880 -> 02:20.380",
+      "jp": "この日本語コンテッペは",
+      "jp_html": "この<ruby>日本語<rt>にほんご</rt></ruby>コンテッペは",
+      "zh": "这个日语句子是",
+      "en": "This Japanese sentence is"
+    },
+    {
+      "id": 38,
+      "start": 140.38,
+      "end": 143.38,
+      "ts": "02:20.380 -> 02:23.380",
+      "jp": "全ての人に聞いてほしい",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>聞い<rt>きい</rt></ruby>てほしい",
+      "zh": "我希望所有人都能听到",
+      "en": "I want everyone to hear this."
+    },
+    {
+      "id": 39,
+      "start": 143.38,
+      "end": 146.98,
+      "ts": "02:23.380 -> 02:26.980",
+      "jp": "全ての人が勉強ができる",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が<ruby>勉強<rt>べんきょう</rt></ruby>ができる",
+      "zh": "每个人都能学习",
+      "en": "Everyone can study."
+    },
+    {
+      "id": 40,
+      "start": 146.98,
+      "end": 148.3,
+      "ts": "02:26.980 -> 02:28.300",
+      "jp": "無料で勉強ができる",
+      "jp_html": "<ruby>無料<rt>むりょう</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>ができる",
+      "zh": "可以免费学习",
+      "en": "You can study for free."
+    },
+    {
+      "id": 41,
+      "start": 148.3,
+      "end": 149.98,
+      "ts": "02:28.300 -> 02:29.980",
+      "jp": "そういう場所を作りたい",
+      "jp_html": "そういう<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>作り<rt>つくり</rt></ruby>たい",
+      "zh": "我想创造这样一个地方",
+      "en": "I want to create such a place"
+    },
+    {
+      "id": 42,
+      "start": 149.98,
+      "end": 152.26,
+      "ts": "02:29.980 -> 02:32.260",
+      "jp": "そういう気持ちでやってきました",
+      "jp_html": "そういう<ruby>気持ち<rt>きもち</rt></ruby>でやってきました",
+      "zh": "怀着这样的心情来的",
+      "en": "Coming with that feeling."
+    },
+    {
+      "id": 43,
+      "start": 152.26,
+      "end": 154.92,
+      "ts": "02:32.260 -> 02:34.920",
+      "jp": "ウィキピディアとかもそうですよね",
+      "jp_html": "ウィキピディアとかもそうですよね",
+      "zh": "维基百科也是一样的吧",
+      "en": "Wikipedia is also like that, right?"
+    },
+    {
+      "id": 44,
+      "start": 154.92,
+      "end": 157.68,
+      "ts": "02:34.920 -> 02:37.680",
+      "jp": "ウィキピディアのビジネスモデルは",
+      "jp_html": "ウィキピディアのビジネスモデルは",
+      "zh": "维基百科的商业模式是",
+      "en": "The business model of Wikipedia is"
+    },
+    {
+      "id": 45,
+      "start": 157.68,
+      "end": 160.64,
+      "ts": "02:37.680 -> 02:40.640",
+      "jp": "全ての人が無料で使える",
+      "jp_html": "<ruby>全て<rt>すべて</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が<ruby>無料<rt>むりょう</rt></ruby>で<ruby>使え<rt>つかえ</rt></ruby>る",
+      "zh": "所有人都可以免费使用",
+      "en": "Everyone can use it for free."
+    },
+    {
+      "id": 46,
+      "start": 160.64,
+      "end": 161.98,
+      "ts": "02:40.640 -> 02:41.980",
+      "jp": "だけどたまに",
+      "jp_html": "だけどたまに",
+      "zh": "但是偶尔",
+      "en": "But sometimes"
+    },
+    {
+      "id": 47,
+      "start": 161.98,
+      "end": 164.7,
+      "ts": "02:41.980 -> 02:44.700",
+      "jp": "ドネーションプリーズって言ってますよね",
+      "jp_html": "ドネーションプリーズって<ruby>言って<rt>いって</rt></ruby>ますよね",
+      "zh": "你说的是“请捐款”吧？",
+      "en": "They are saying please donate, right?"
+    },
+    {
+      "id": 48,
+      "start": 164.7,
+      "end": 168.28,
+      "ts": "02:44.700 -> 02:48.280",
+      "jp": "それと同じことを僕もしたいと思います",
+      "jp_html": "それと<ruby>同じ<rt>おなじ</rt></ruby>ことを<ruby>僕<rt>ぼく</rt></ruby>もしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我也想做同样的事情",
+      "en": "I also want to do the same thing."
+    },
+    {
+      "id": 49,
+      "start": 168.28,
+      "end": 170.04,
+      "ts": "02:48.280 -> 02:50.040",
+      "jp": "皆さんお願い",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>お<ruby>願い<rt>ねがい</rt></ruby>",
+      "zh": "各位请",
+      "en": "Everyone, please."
+    },
+    {
+      "id": 50,
+      "start": 170.04,
+      "end": 171.92,
+      "ts": "02:50.040 -> 02:51.920",
+      "jp": "僕に元気をください",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>に<ruby>元気<rt>げんき</rt></ruby>をください",
+      "zh": "给我点力气吧",
+      "en": "Give me some energy"
+    },
+    {
+      "id": 51,
+      "start": 171.92,
+      "end": 173.78,
+      "ts": "02:51.920 -> 02:53.780",
+      "jp": "というわけで待ってます",
+      "jp_html": "というわけで<ruby>待っ<rt>まっ</rt></ruby>てます",
+      "zh": "因此我在等着",
+      "en": "So I'm waiting."
+    },
+    {
+      "id": 52,
+      "start": 173.78,
+      "end": 175.24,
+      "ts": "02:53.780 -> 02:55.240",
+      "jp": "パートレオン",
+      "jp_html": "パートレオン",
+      "zh": "帕特雷昂",
+      "en": "Patron"
+    },
+    {
+      "id": 53,
+      "start": 175.24,
+      "end": 178.04,
+      "ts": "02:55.240 -> 02:58.040",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 54,
+      "start": 178.04,
+      "end": 179.06,
+      "ts": "02:58.040 -> 02:59.060",
+      "jp": "コフィ",
+      "jp_html": "コフィ",
+      "zh": "科菲",
+      "en": "Kofi"
+    },
+    {
+      "id": 55,
+      "start": 179.06,
+      "end": 180.42,
+      "ts": "02:59.060 -> 03:00.420",
+      "jp": "コフィ",
+      "jp_html": "コフィ",
+      "zh": "科菲",
+      "en": "Kofi"
+    },
+    {
+      "id": 56,
+      "start": 180.42,
+      "end": 185.06,
+      "ts": "03:00.420 -> 03:05.060",
+      "jp": "簡単に見つかります",
+      "jp_html": "<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>見つ<rt>みつ</rt></ruby>かります",
+      "zh": "很容易找到",
+      "en": "It is easily found."
+    },
+    {
+      "id": 57,
+      "start": 185.06,
+      "end": 187.36,
+      "ts": "03:05.060 -> 03:07.360",
+      "jp": "日本語コンテッペを探して",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>探し<rt>さがし</rt></ruby>て",
+      "zh": "寻找日语配音",
+      "en": "Looking for Japanese context peppers"
+    },
+    {
+      "id": 58,
+      "start": 187.36,
+      "end": 189.88,
+      "ts": "03:07.360 -> 03:09.880",
+      "jp": "5ドルでも",
+      "jp_html": "5ドルでも",
+      "zh": "5美元也行",
+      "en": "5 dollars also"
+    },
+    {
+      "id": 59,
+      "start": 189.88,
+      "end": 190.8,
+      "ts": "03:09.880 -> 03:10.800",
+      "jp": "10ドルでも",
+      "jp_html": "10ドルでも",
+      "zh": "10美元也行",
+      "en": "For 10 dollars"
+    },
+    {
+      "id": 60,
+      "start": 190.8,
+      "end": 191.82,
+      "ts": "03:10.800 -> 03:11.820",
+      "jp": "大丈夫です",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "他是真棒",
+      "en": "It's okay."
+    },
+    {
+      "id": 61,
+      "start": 191.82,
+      "end": 194.1,
+      "ts": "03:11.820 -> 03:14.100",
+      "jp": "1ドルでも大丈夫",
+      "jp_html": "1ドルでも<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>",
+      "zh": "1美元也没问题",
+      "en": "It's okay with 1 dollar."
+    },
+    {
+      "id": 62,
+      "start": 194.1,
+      "end": 196.2,
+      "ts": "03:14.100 -> 03:16.200",
+      "jp": "少しずつ",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ずつ",
+      "zh": "一点点",
+      "en": "little by little"
+    },
+    {
+      "id": 63,
+      "start": 196.2,
+      "end": 198.96,
+      "ts": "03:16.200 -> 03:18.960",
+      "jp": "パワーをください",
+      "jp_html": "パワーをください",
+      "zh": "请给我力量",
+      "en": "Please give me power."
+    },
+    {
+      "id": 64,
+      "start": 198.96,
+      "end": 201.04,
+      "ts": "03:18.960 -> 03:21.040",
+      "jp": "エネルギーをください",
+      "jp_html": "エネルギーをください",
+      "zh": "请给我能量。",
+      "en": "Give me energy"
+    },
+    {
+      "id": 65,
+      "start": 201.04,
+      "end": 203.52,
+      "ts": "03:21.040 -> 03:23.520",
+      "jp": "僕のコーヒーをください",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のコーヒーをください",
+      "zh": "请给我我的咖啡",
+      "en": "Please give me my coffee."
+    },
+    {
+      "id": 66,
+      "start": 203.52,
+      "end": 205.0,
+      "ts": "03:23.520 -> 03:25.000",
+      "jp": "僕の",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の",
+      "zh": "我的",
+      "en": "My"
+    },
+    {
+      "id": 67,
+      "start": 205.0,
+      "end": 206.82,
+      "ts": "03:25.000 -> 03:26.820",
+      "jp": "アイスクリームを",
+      "jp_html": "アイスクリームを",
+      "zh": "冰淇淋",
+      "en": "ice cream"
+    },
+    {
+      "id": 68,
+      "start": 206.82,
+      "end": 208.42,
+      "ts": "03:26.820 -> 03:28.420",
+      "jp": "チョコレートを",
+      "jp_html": "チョコレートを",
+      "zh": "巧克力",
+      "en": "Chocolate to"
+    },
+    {
+      "id": 69,
+      "start": 208.42,
+      "end": 209.56,
+      "ts": "03:28.420 -> 03:29.560",
+      "jp": "プロテインを",
+      "jp_html": "プロテインを",
+      "zh": "蛋白质",
+      "en": "Protein to"
+    },
+    {
+      "id": 70,
+      "start": 209.56,
+      "end": 213.0,
+      "ts": "03:29.560 -> 03:33.000",
+      "jp": "卵を",
+      "jp_html": "<ruby>卵<rt>たまご</rt></ruby>を",
+      "zh": "蛋",
+      "en": "egg"
+    },
+    {
+      "id": 71,
+      "start": 213.0,
+      "end": 214.74,
+      "ts": "03:33.000 -> 03:34.740",
+      "jp": "牛乳をください",
+      "jp_html": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>をください",
+      "zh": "请给我牛奶",
+      "en": "Please give me milk."
+    },
+    {
+      "id": 72,
+      "start": 214.74,
+      "end": 216.68,
+      "ts": "03:34.740 -> 03:36.680",
+      "jp": "元気をください",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>をください",
+      "zh": "请给我点力气",
+      "en": "Give me energy"
+    },
+    {
+      "id": 73,
+      "start": 216.68,
+      "end": 217.7,
+      "ts": "03:36.680 -> 03:37.700",
+      "jp": "休みをください",
+      "jp_html": "<ruby>休み<rt>やすみ</rt></ruby>をください",
+      "zh": "请休息",
+      "en": "Please rest."
+    },
+    {
+      "id": 74,
+      "start": 217.7,
+      "end": 219.78,
+      "ts": "03:37.700 -> 03:39.780",
+      "jp": "とにかくお願い",
+      "jp_html": "とにかくお<ruby>願い<rt>ねがい</rt></ruby>",
+      "zh": "无论如何请帮帮忙",
+      "en": "Please, just let me."
+    },
+    {
+      "id": 75,
+      "start": 219.78,
+      "end": 221.52,
+      "ts": "03:39.780 -> 03:41.520",
+      "jp": "お願いだ",
+      "jp_html": "お<ruby>願い<rt>ねがい</rt></ruby>だ",
+      "zh": "请了",
+      "en": "Please."
+    },
+    {
+      "id": 76,
+      "start": 221.52,
+      "end": 223.44,
+      "ts": "03:41.520 -> 03:43.440",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 77,
+      "start": 223.44,
+      "end": 225.3,
+      "ts": "03:43.440 -> 03:45.300",
+      "jp": "次回はこんな話はしません",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>はこんな<ruby>話<rt>はなし</rt></ruby>はしません",
+      "zh": "下次就不会说这种话了",
+      "en": "Next time I won't tell such stories."
+    },
+    {
+      "id": 78,
+      "start": 225.3,
+      "end": 227.94,
+      "ts": "03:45.300 -> 03:47.940",
+      "jp": "これはもうたまにね",
+      "jp_html": "これはもうたまにね",
+      "zh": "这现在已经不经常了",
+      "en": "This is something I do now and then."
+    },
+    {
+      "id": 79,
+      "start": 227.94,
+      "end": 229.1,
+      "ts": "03:47.940 -> 03:49.100",
+      "jp": "たまーにだけ",
+      "jp_html": "たまーにだけ",
+      "zh": "偶尔",
+      "en": "Sometimes only"
+    },
+    {
+      "id": 80,
+      "start": 229.1,
+      "end": 231.6,
+      "ts": "03:49.100 -> 03:51.600",
+      "jp": "いつもじゃないですよたまーにね",
+      "jp_html": "いつもじゃないですよたまーにね",
+      "zh": "不是总是哦，偶尔才会呢",
+      "en": "It's not always, you know, sometimes."
+    },
+    {
+      "id": 81,
+      "start": 231.6,
+      "end": 234.26,
+      "ts": "03:51.600 -> 03:54.260",
+      "jp": "次はもうこういう話はしません",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>はもうこういう<ruby>話<rt>はなし</rt></ruby>はしません",
+      "zh": "下次就不再说这种事了",
+      "en": "We won't be talking about this kind of thing anymore."
+    },
+    {
+      "id": 82,
+      "start": 234.26,
+      "end": 235.68,
+      "ts": "03:54.260 -> 03:55.680",
+      "jp": "しばらくしません",
+      "jp_html": "しばらくしません",
+      "zh": "不一会儿",
+      "en": "Not for a while"
+    },
+    {
+      "id": 83,
+      "start": 235.68,
+      "end": 238.36,
+      "ts": "03:55.680 -> 03:58.360",
+      "jp": "なのでぜひぜひ",
+      "jp_html": "なのでぜひぜひ",
+      "zh": "所以当然当然",
+      "en": "So please please"
+    },
+    {
+      "id": 84,
+      "start": 238.36,
+      "end": 239.96,
+      "ts": "03:58.360 -> 03:59.960",
+      "jp": "今までもし",
+      "jp_html": "<ruby>今まで<rt>いままで</rt></ruby>もし",
+      "zh": "以前也如果",
+      "en": "If until now"
+    },
+    {
+      "id": 85,
+      "start": 239.96,
+      "end": 242.28,
+      "ts": "03:59.960 -> 04:02.280",
+      "jp": "日本語コンテッペを聞いて役に立った",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>聞い<rt>きい</rt></ruby>て<ruby>役に立っ<rt>やくにたっ</rt></ruby>た",
+      "zh": "听日语口译很有帮助",
+      "en": "I found the Japanese accent helpful."
+    },
+    {
+      "id": 86,
+      "start": 242.28,
+      "end": 243.96,
+      "ts": "04:02.280 -> 04:03.960",
+      "jp": "日本語のリスニングが",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>のリスニングが",
+      "zh": "日语的听力günguàn",
+      "en": "Japanese listening skills"
+    },
+    {
+      "id": 87,
+      "start": 243.96,
+      "end": 245.4,
+      "ts": "04:03.960 -> 04:05.400",
+      "jp": "良くなったという人がいたら",
+      "jp_html": "<ruby>良く<rt>よく</rt></ruby>なったという<ruby>人<rt>にん</rt></ruby>がいたら",
+      "zh": "如果有人觉得变好了",
+      "en": "If someone says they have improved"
+    },
+    {
+      "id": 88,
+      "start": 245.4,
+      "end": 248.1,
+      "ts": "04:05.400 -> 04:08.100",
+      "jp": "あの僕を助けてください",
+      "jp_html": "あの<ruby>僕<rt>ぼく</rt></ruby>を<ruby>助け<rt>たすけ</rt></ruby>てください",
+      "zh": "请帮助那个我",
+      "en": "Help me save that guy."
+    },
+    {
+      "id": 89,
+      "start": 248.1,
+      "end": 249.12,
+      "ts": "04:08.100 -> 04:09.120",
+      "jp": "よろしくお願いします",
+      "jp_html": "よろしくお<ruby>願い<rt>ねがい</rt></ruby>します",
+      "zh": "请多关照",
+      "en": "Please take care."
+    },
+    {
+      "id": 90,
+      "start": 249.12,
+      "end": 250.2,
+      "ts": "04:09.120 -> 04:10.200",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
