@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1595",
+      "title": "#1595「皆さん、本当にありがとうございました！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/10/06/1595%e3%80%8c%e7%9a%86%e3%81%95%e3%82%93%e3%80%81%e6%9c%ac%e5%bd%93%e3%81%ab%e3%81%82%e3%82%8a%e3%81%8c%e3%81%a8%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1595.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1595.json"
+    },
+    {
       "id": "1594",
       "title": "#1594「皆さんにお願い！（オラに少しだけ元気をくれー！」",
       "category_id": "podcast",
