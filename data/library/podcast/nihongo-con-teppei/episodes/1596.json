@@ -1,0 +1,404 @@
+{
+  "id": "1596",
+  "title": "#1596「文法について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1596mp3.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1596mp3.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/08/1596%e3%80%8c%e6%96%87%e6%b3%95%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.3,
+      "end": 8.21,
+      "ts": "00:01.300 -> 00:08.210",
+      "jp": "今日は文法について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>について",
+      "zh": "今天关于语法",
+      "en": "Today, I will talk about grammar."
+    },
+    {
+      "id": 1,
+      "start": 8.21,
+      "end": 10.89,
+      "ts": "00:08.210 -> 00:10.890",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all well?"
+    },
+    {
+      "id": 2,
+      "start": 10.89,
+      "end": 13.63,
+      "ts": "00:10.890 -> 00:13.630",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语 Conteppe 的时间呢",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 3,
+      "start": 13.63,
+      "end": 18.83,
+      "ts": "00:13.630 -> 00:18.830",
+      "jp": "日本語の勉強について話してますね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>てますね",
+      "zh": "我们在谈论日语学习呢",
+      "en": "We're talking about studying Japanese."
+    },
+    {
+      "id": 4,
+      "start": 19.91,
+      "end": 24.25,
+      "ts": "00:19.910 -> 00:24.250",
+      "jp": "あの文法について今日は話したいと思うんですが",
+      "jp_html": "あの<ruby>文法<rt>ぶんぽう</rt></ruby>について<ruby>今日は<rt>こんにちは</rt></ruby><ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思う<rt>おもう</rt></ruby>んですが",
+      "zh": "我想今天谈谈那个语法",
+      "en": "I want to talk about that grammar today."
+    },
+    {
+      "id": 5,
+      "start": 24.25,
+      "end": 29.37,
+      "ts": "00:24.250 -> 00:29.370",
+      "jp": "文法ってめんどくさいですよね",
+      "jp_html": "<ruby>文法<rt>ぶんぽう</rt></ruby>ってめんどくさいですよね",
+      "zh": "文法真是麻烦吧？",
+      "en": "Grammar is troublesome, isn't it?"
+    },
+    {
+      "id": 6,
+      "start": 29.37,
+      "end": 37.53,
+      "ts": "00:29.370 -> 00:37.530",
+      "jp": "なんか考えれば考えるほどわからなくなってくる",
+      "jp_html": "なんか<ruby>考え<rt>かんがえ</rt></ruby>れば<ruby>考え<rt>かんがえ</rt></ruby>るほどわからなくなってくる",
+      "zh": "越想越觉得弄不懂了",
+      "en": "The more I think about it, the less I understand."
+    },
+    {
+      "id": 7,
+      "start": 37.53,
+      "end": 43.25,
+      "ts": "00:37.530 -> 00:43.250",
+      "jp": "僕も英語を勉強したしスペイン語を勉強して",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>も<ruby>英語<rt>えいご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>したしスペイン<ruby>語<rt>ご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>して",
+      "zh": "我也学过英语还学过西班牙语",
+      "en": "I also studied English and Spanish."
+    },
+    {
+      "id": 8,
+      "start": 43.25,
+      "end": 48.05,
+      "ts": "00:43.250 -> 00:48.050",
+      "jp": "たくさんの教科書を勉強しました",
+      "jp_html": "たくさんの<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しました",
+      "zh": "我学习了大量教科书",
+      "en": "I studied many textbooks."
+    },
+    {
+      "id": 9,
+      "start": 49.53,
+      "end": 56.75,
+      "ts": "00:49.530 -> 00:56.750",
+      "jp": "そしていつも文法はなんかわかるようなわかんないような",
+      "jp_html": "そしていつも<ruby>文法<rt>ぶんぽう</rt></ruby>はなんかわかるようなわかんないような",
+      "zh": "然后语法总是让人似懂非懂的",
+      "en": "And grammar is always something I sort of understand but don't really understand."
+    },
+    {
+      "id": 10,
+      "start": 56.75,
+      "end": 64.73,
+      "ts": "00:56.750 -> 01:04.730",
+      "jp": "そしていくら文法を勉強しても話せるようにならないんですよね",
+      "jp_html": "そしていくら<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しても<ruby>話せ<rt>はなせ</rt></ruby>るようにならないんですよね",
+      "zh": "然后无论怎么学语法也说不好啊",
+      "en": "And no matter how much I study grammar, I can't seem to speak fluently."
+    },
+    {
+      "id": 11,
+      "start": 64.73,
+      "end": 71.67,
+      "ts": "01:04.730 -> 01:11.670",
+      "jp": "これは一体何の意味があるのかとかね",
+      "jp_html": "これは<ruby>一体何<rt>いったいなに</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>があるのかとかね",
+      "zh": "这到底有什么意义呢",
+      "en": "What does this have any meaning for, I wonder."
+    },
+    {
+      "id": 12,
+      "start": 71.67,
+      "end": 78.89,
+      "ts": "01:11.670 -> 01:18.890",
+      "jp": "だんだん言語の勉強が嫌いになっていくような感じがするんですね",
+      "jp_html": "だんだん<ruby>言語<rt>げんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>嫌い<rt>きらい</rt></ruby>になっていくような<ruby>感じ<rt>かんじ</rt></ruby>がするんですね",
+      "zh": "感觉你越来越不喜欢语言学习了呢",
+      "en": "I feel like I'm gradually starting to dislike studying languages."
+    },
+    {
+      "id": 13,
+      "start": 80.95,
+      "end": 85.35,
+      "ts": "01:20.950 -> 01:25.350",
+      "jp": "実は文法はとても便利なものです",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>はとても<ruby>便利<rt>べんり</rt></ruby>なものです",
+      "zh": "实际上语法是非常方便的東西",
+      "en": "Actually, grammar is a very handy thing."
+    },
+    {
+      "id": 14,
+      "start": 85.35,
+      "end": 91.41,
+      "ts": "01:25.350 -> 01:31.410",
+      "jp": "文法を知っておくとやっぱり理解するのに役に立ちます",
+      "jp_html": "<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>知って<rt>しって</rt></ruby>おくとやっぱり<ruby>理解<rt>りかい</rt></ruby>するのに<ruby>役に立ち<rt>やくにたち</rt></ruby>ます",
+      "zh": "了解语法的话果然在理解时很有帮助",
+      "en": "Knowing grammar really helps in understanding things anyway."
+    },
+    {
+      "id": 15,
+      "start": 91.41,
+      "end": 98.07,
+      "ts": "01:31.410 -> 01:38.070",
+      "jp": "だけど文法の勉強をしすぎるのは良くないですね",
+      "jp_html": "だけど<ruby>文法<rt>ぶんぽう</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をしすぎるのは<ruby>良く<rt>よく</rt></ruby>ないですね",
+      "zh": "但是学习语法过多也不是好事呢",
+      "en": "But studying grammar too much isn't good either."
+    },
+    {
+      "id": 16,
+      "start": 98.07,
+      "end": 103.93,
+      "ts": "01:38.070 -> 01:43.930",
+      "jp": "文法の勉強はいつも少しやって",
+      "jp_html": "<ruby>文法<rt>ぶんぽう</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>はいつも<ruby>少し<rt>すこし</rt></ruby>やって",
+      "zh": "语法的学习总是稍微做一点",
+      "en": "Studying grammar is always a bit doing it a little at times"
+    },
+    {
+      "id": 17,
+      "start": 104.93,
+      "end": 110.63,
+      "ts": "01:44.930 -> 01:50.630",
+      "jp": "あとはいつものようにたくさん聞いたりとか",
+      "jp_html": "あとはいつものようにたくさん<ruby>聞い<rt>きい</rt></ruby>たりとか",
+      "zh": "然后像往常一样听了很多东西",
+      "en": "The rest is just like usual, listening a lot or something like that."
+    },
+    {
+      "id": 18,
+      "start": 110.63,
+      "end": 113.19,
+      "ts": "01:50.630 -> 01:53.190",
+      "jp": "たくさん読んだりとか",
+      "jp_html": "たくさん<ruby>読んだ<rt>よんだ</rt></ruby>りとか",
+      "zh": "读了很多书或者",
+      "en": "Read a lot or something like that"
+    },
+    {
+      "id": 19,
+      "start": 113.19,
+      "end": 115.93,
+      "ts": "01:53.190 -> 01:55.930",
+      "jp": "インプットが大事ですね",
+      "jp_html": "インプットが<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "输入很重要呢",
+      "en": "Input is important, huh?"
+    },
+    {
+      "id": 20,
+      "start": 115.93,
+      "end": 120.39,
+      "ts": "01:55.930 -> 02:00.390",
+      "jp": "でも文法を少し勉強すると",
+      "jp_html": "でも<ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>少し<rt>すこし</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>すると",
+      "zh": "但是稍微学习一下语法就会",
+      "en": "But if you study grammar a little bit and"
+    },
+    {
+      "id": 21,
+      "start": 120.39,
+      "end": 125.41,
+      "ts": "02:00.390 -> 02:05.410",
+      "jp": "それを聞いた時とかそれを読んだ時に",
+      "jp_html": "それを<ruby>聞い<rt>きい</rt></ruby>た<ruby>時<rt>とき</rt></ruby>とかそれを<ruby>読んだ<rt>よんだ</rt></ruby><ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "听到那个时候或者读到那个时候",
+      "en": "When I heard that, or when I read it,"
+    },
+    {
+      "id": 22,
+      "start": 125.41,
+      "end": 129.77,
+      "ts": "02:05.410 -> 02:09.770",
+      "jp": "もっともっと理解がうまくいくことがあります",
+      "jp_html": "もっともっと<ruby>理解<rt>りかい</rt></ruby>がうまくいくことがあります",
+      "zh": "有时候理解会更加顺利",
+      "en": "There are times when understanding improves even more."
+    },
+    {
+      "id": 23,
+      "start": 129.77,
+      "end": 132.97,
+      "ts": "02:09.770 -> 02:12.970",
+      "jp": "なので文法は大事です",
+      "jp_html": "なので<ruby>文法<rt>ぶんぽう</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "所以语法很重要",
+      "en": "So grammar is important."
+    },
+    {
+      "id": 24,
+      "start": 132.97,
+      "end": 138.11,
+      "ts": "02:12.970 -> 02:18.110",
+      "jp": "大事だけど勉強しすぎないようにしてみてください",
+      "jp_html": "<ruby>大事<rt>だいじ</rt></ruby>だけど<ruby>勉強<rt>べんきょう</rt></ruby>しすぎないようにしてみてください",
+      "zh": "事情虽重要但别学得太多",
+      "en": "Make it important, but don't study too much."
+    },
+    {
+      "id": 25,
+      "start": 138.11,
+      "end": 141.37,
+      "ts": "02:18.110 -> 02:21.370",
+      "jp": "そして全然勉強しないのも",
+      "jp_html": "そして<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しないのも",
+      "zh": "然后完全不学习的 also",
+      "en": "And then there's completely not studying at all."
+    },
+    {
+      "id": 26,
+      "start": 141.37,
+      "end": 149.76,
+      "ts": "02:21.370 -> 02:29.760",
+      "jp": "僕はあんまり勉強しなくていいと思いますけど",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>あんまり<ruby>勉強<rt>べんきょう</rt></ruby>しなくていいと<ruby>思い<rt>おもい</rt></ruby>ますけど",
+      "zh": "我觉得我不用好好学习吧",
+      "en": "I think I don't have to study much."
+    },
+    {
+      "id": 27,
+      "start": 149.76,
+      "end": 156.76,
+      "ts": "02:29.760 -> 02:36.760",
+      "jp": "たまに少しチェックするといいかなと思います",
+      "jp_html": "たまに<ruby>少し<rt>すこし</rt></ruby>チェックするといいかなと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想时不时检查一下也是不错的",
+      "en": "I think it would be good to check it occasionally."
+    },
+    {
+      "id": 28,
+      "start": 156.76,
+      "end": 160.8,
+      "ts": "02:36.760 -> 02:40.800",
+      "jp": "1週間に1回か2回チェックして",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>か2<ruby>回<rt>かい</rt></ruby>チェックして",
+      "zh": "每周检查一到两次",
+      "en": "Check it once or twice a week."
+    },
+    {
+      "id": 29,
+      "start": 160.8,
+      "end": 165.06,
+      "ts": "02:40.800 -> 02:45.060",
+      "jp": "普通の日はたくさんのインプット",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>日<rt>にち</rt></ruby>はたくさんのインプット",
+      "zh": "普通的日子有很多輸入",
+      "en": "On ordinary days, there's a lot of input."
+    },
+    {
+      "id": 30,
+      "start": 165.06,
+      "end": 169.04,
+      "ts": "02:45.060 -> 02:49.040",
+      "jp": "それをやってみてください",
+      "jp_html": "それをやってみてください",
+      "zh": "请试试看",
+      "en": "Try doing that please."
+    },
+    {
+      "id": 31,
+      "start": 169.04,
+      "end": 172.56,
+      "ts": "02:49.040 -> 02:52.560",
+      "jp": "僕はそっちの方が効果的だと思います",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>そっちの<ruby>方が<rt>ほうが</rt></ruby><ruby>効果的<rt>こうかてき</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为那边的方法更有效",
+      "en": "I think that one is more effective."
+    },
+    {
+      "id": 32,
+      "start": 172.56,
+      "end": 176.02,
+      "ts": "02:52.560 -> 02:56.020",
+      "jp": "文法の勉強は10%ぐらい",
+      "jp_html": "<ruby>文法<rt>ぶんぽう</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>は10%ぐらい",
+      "zh": "学习语法大约占10%左右",
+      "en": "Studying grammar is about 10%"
+    },
+    {
+      "id": 33,
+      "start": 176.02,
+      "end": 180.5,
+      "ts": "02:56.020 -> 03:00.500",
+      "jp": "90%はイマージョン",
+      "jp_html": "90%はイマージョン",
+      "zh": "90%是沉浸",
+      "en": "90% is Immersion"
+    },
+    {
+      "id": 34,
+      "start": 180.5,
+      "end": 182.16,
+      "ts": "03:00.500 -> 03:02.160",
+      "jp": "たくさんのインプット",
+      "jp_html": "たくさんのインプット",
+      "zh": "大量的输入",
+      "en": "Lots of input"
+    },
+    {
+      "id": 35,
+      "start": 182.16,
+      "end": 185.12,
+      "ts": "03:02.160 -> 03:05.120",
+      "jp": "僕はそっちの方が効果的だと思う",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>そっちの<ruby>方が<rt>ほうが</rt></ruby><ruby>効果的<rt>こうかてき</rt></ruby>だと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我认为那边的方法更有效",
+      "en": "I think that's more effective."
+    },
+    {
+      "id": 36,
+      "start": 185.12,
+      "end": 188.04,
+      "ts": "03:05.120 -> 03:08.040",
+      "jp": "なので文法は大事です",
+      "jp_html": "なので<ruby>文法<rt>ぶんぽう</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "所以语法很重要",
+      "en": "So grammar is important."
+    },
+    {
+      "id": 37,
+      "start": 188.04,
+      "end": 192.08,
+      "ts": "03:08.040 -> 03:12.080",
+      "jp": "大事だけどやりすぎないようにしてみてください",
+      "jp_html": "<ruby>大事<rt>だいじ</rt></ruby>だけどやりすぎないようにしてみてください",
+      "zh": "事情很多，但别做得太过。",
+      "en": "It's important, but don't overdo it."
+    },
+    {
+      "id": 38,
+      "start": 192.08,
+      "end": 194.18,
+      "ts": "03:12.080 -> 03:14.180",
+      "jp": "それでは元に",
+      "jp_html": "それでは<ruby>元に<rt>もとに</rt></ruby>",
+      "zh": "那就回去吧",
+      "en": "Then back to the original."
+    }
+  ]
+}
