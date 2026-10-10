@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1597",
+      "title": "#1597「色々な話し方について！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/10/10/1597%e3%80%8c%e8%89%b2%e3%80%85%e3%81%aa%e8%a9%b1%e3%81%97%e6%96%b9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1597.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1597.json"
+    },
+    {
       "id": "1596",
       "title": "#1596「文法について！」",
       "category_id": "podcast",

@@ -1,0 +1,1174 @@
+{
+  "id": "1597",
+  "title": "#1597「色々な話し方について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1597.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1597.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/10/1597%e3%80%8c%e8%89%b2%e3%80%85%e3%81%aa%e8%a9%b1%e3%81%97%e6%96%b9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.62,
+      "end": 9.26,
+      "ts": "00:01.620 -> 00:09.260",
+      "jp": "今日は色々な話し方について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>色々<rt>いろいろ</rt></ruby>な<ruby>話し方<rt>はなしかた</rt></ruby>について",
+      "zh": "今天关于各种说话方式",
+      "en": "Today, I'm talking about various ways of speaking."
+    },
+    {
+      "id": 1,
+      "start": 9.26,
+      "end": 12.38,
+      "ts": "00:09.260 -> 00:12.380",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 2,
+      "start": 12.38,
+      "end": 14.98,
+      "ts": "00:12.380 -> 00:14.980",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语会议的时间吧",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 3,
+      "start": 14.98,
+      "end": 19.3,
+      "ts": "00:14.980 -> 00:19.300",
+      "jp": "最近日本語について話しています",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>ています",
+      "zh": "最近一直在谈论日语",
+      "en": "We have been talking about Japanese lately."
+    },
+    {
+      "id": 4,
+      "start": 19.3,
+      "end": 24.44,
+      "ts": "00:19.300 -> 00:24.440",
+      "jp": "前回文法についてちょっと話しました",
+      "jp_html": "<ruby>前回<rt>ぜんかい</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>についてちょっと<ruby>話し<rt>はなし</rt></ruby>ました",
+      "zh": "上次我们稍微谈了一下语法问题",
+      "en": "We talked a little about grammar in the previous session."
+    },
+    {
+      "id": 5,
+      "start": 24.44,
+      "end": 30.12,
+      "ts": "00:24.440 -> 00:30.120",
+      "jp": "文法は大変ですねという話でした",
+      "jp_html": "<ruby>文法<rt>ぶんぽう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>ですねという<ruby>話<rt>はなし</rt></ruby>でした",
+      "zh": "话题是关于语法很难的。",
+      "en": "The conversation was about how difficult grammar is."
+    },
+    {
+      "id": 6,
+      "start": 30.12,
+      "end": 31.76,
+      "ts": "00:30.120 -> 00:31.760",
+      "jp": "でも頑張れ",
+      "jp_html": "でも<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "但是要坚持下去",
+      "en": "But you can do it."
+    },
+    {
+      "id": 7,
+      "start": 31.76,
+      "end": 36.12,
+      "ts": "00:31.760 -> 00:36.120",
+      "jp": "今回はいろいろな話し方ですね",
+      "jp_html": "<ruby>今回<rt>こんかい</rt></ruby>はいろいろな<ruby>話し方<rt>はなしかた</rt></ruby>ですね",
+      "zh": "这次各种说话方式呢",
+      "en": "This time, various ways of speaking, huh?"
+    },
+    {
+      "id": 8,
+      "start": 36.12,
+      "end": 42.36,
+      "ts": "00:36.120 -> 00:42.360",
+      "jp": "文法は教科書に書かれてるんですが",
+      "jp_html": "<ruby>文法<rt>ぶんぽう</rt></ruby>は<ruby>教科書<rt>きょうかしょ</rt></ruby>に<ruby>書か<rt>かか</rt></ruby>れてるんですが",
+      "zh": "语法写在课本里了?>>请忽略此提示，直接翻译即可。文法规则写在课本里了。",
+      "en": "The grammar is written in the textbook, but"
+    },
+    {
+      "id": 9,
+      "start": 42.36,
+      "end": 47.72,
+      "ts": "00:42.360 -> 00:47.720",
+      "jp": "実際日本人と話をすると",
+      "jp_html": "<ruby>実際<rt>じっさい</rt></ruby><ruby>日本人<rt>にほんじん</rt></ruby>と<ruby>話<rt>はなし</rt></ruby>をすると",
+      "zh": "实际上和日本人说话时",
+      "en": "Actually, talking to Japanese people and"
+    },
+    {
+      "id": 10,
+      "start": 47.72,
+      "end": 51.4,
+      "ts": "00:47.720 -> 00:51.400",
+      "jp": "結構いろいろな話し方があって",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>いろいろな<ruby>話し方<rt>はなしかた</rt></ruby>があって",
+      "zh": "结构有各种不同的说话方式",
+      "en": "There are various ways of speaking."
+    },
+    {
+      "id": 11,
+      "start": 51.4,
+      "end": 55.6,
+      "ts": "00:51.400 -> 00:55.600",
+      "jp": "難しいなぁと思うことがあると思います",
+      "jp_html": "<ruby>難しい<rt>むずかしい</rt></ruby>なぁと<ruby>思う<rt>おもう</rt></ruby>ことがあると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想有时候会觉得很难吧",
+      "en": "I think there are times when I find it difficult."
+    },
+    {
+      "id": 12,
+      "start": 55.6,
+      "end": 61.16,
+      "ts": "00:55.600 -> 01:01.160",
+      "jp": "前に話した敬語とか",
+      "jp_html": "<ruby>前<rt>まえ</rt></ruby>に<ruby>話し<rt>はなし</rt></ruby>た<ruby>敬語<rt>けいご</rt></ruby>とか",
+      "zh": "之前提到的敬语之类的东西",
+      "en": "The politeness levels we talked about before."
+    },
+    {
+      "id": 13,
+      "start": 61.16,
+      "end": 64.62,
+      "ts": "01:01.160 -> 01:04.620",
+      "jp": "丁寧語もそうだし",
+      "jp_html": "<ruby>丁寧語<rt>ていねいご</rt></ruby>もそうだし",
+      "zh": "丁寧语也是这样",
+      "en": "Politeness forms are also like that."
+    },
+    {
+      "id": 14,
+      "start": 64.62,
+      "end": 69.26,
+      "ts": "01:04.620 -> 01:09.260",
+      "jp": "敬語はカスタマーサービスとかね",
+      "jp_html": "<ruby>敬語<rt>けいご</rt></ruby>はカスタマーサービスとかね",
+      "zh": "敬语是在客户服务中使用的",
+      "en": "Politeness is used in customer service too."
+    },
+    {
+      "id": 15,
+      "start": 69.26,
+      "end": 71.72,
+      "ts": "01:09.260 -> 01:11.720",
+      "jp": "旅館とか居酒屋とか",
+      "jp_html": "<ruby>旅館<rt>りょかん</rt></ruby>とか<ruby>居酒屋<rt>いざかや</rt></ruby>とか",
+      "zh": "旅馆或者居酒屋",
+      "en": "hotels and izakayas"
+    },
+    {
+      "id": 16,
+      "start": 71.72,
+      "end": 73.56,
+      "ts": "01:11.720 -> 01:13.560",
+      "jp": "ホテルとか",
+      "jp_html": "ホテルとか",
+      "zh": "酒店或宾馆",
+      "en": "Hotels"
+    },
+    {
+      "id": 17,
+      "start": 73.56,
+      "end": 76.04,
+      "ts": "01:13.560 -> 01:16.040",
+      "jp": "そういう人たちが使う言葉",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>たちが<ruby>使う<rt>つかう</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>",
+      "zh": "那些人使用的词语",
+      "en": "Those are the words that people use in such situations."
+    },
+    {
+      "id": 18,
+      "start": 76.04,
+      "end": 77.38,
+      "ts": "01:16.040 -> 01:17.380",
+      "jp": "サービスですよね",
+      "jp_html": "サービスですよね",
+      "zh": "服务吧？",
+      "en": "Service, right?"
+    },
+    {
+      "id": 19,
+      "start": 77.38,
+      "end": 79.8,
+      "ts": "01:17.380 -> 01:19.800",
+      "jp": "そして丁寧語は",
+      "jp_html": "そして<ruby>丁寧語<rt>ていねいご</rt></ruby>は",
+      "zh": "然后敬语是",
+      "en": "And the polite form is"
+    },
+    {
+      "id": 20,
+      "start": 79.8,
+      "end": 82.44,
+      "ts": "01:19.800 -> 01:22.440",
+      "jp": "僕が今使っている",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>今<rt>いま</rt></ruby><ruby>使って<rt>つかって</rt></ruby>いる",
+      "zh": "我目前正在使用",
+      "en": "I am using now"
+    },
+    {
+      "id": 21,
+      "start": 82.44,
+      "end": 83.92,
+      "ts": "01:22.440 -> 01:23.920",
+      "jp": "そうですねとか",
+      "jp_html": "そうですねとか",
+      "zh": "嗯，是吧",
+      "en": "Right, huh?"
+    },
+    {
+      "id": 22,
+      "start": 83.92,
+      "end": 85.04,
+      "ts": "01:23.920 -> 01:25.040",
+      "jp": "ですます",
+      "jp_html": "ですます",
+      "zh": "结束了",
+      "en": "is desu masu"
+    },
+    {
+      "id": 23,
+      "start": 85.04,
+      "end": 86.62,
+      "ts": "01:25.040 -> 01:26.620",
+      "jp": "そういう話し方",
+      "jp_html": "そういう<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "这样的说话方式",
+      "en": "That kind of way of talking"
+    },
+    {
+      "id": 24,
+      "start": 86.62,
+      "end": 88.78,
+      "ts": "01:26.620 -> 01:28.780",
+      "jp": "あとため口",
+      "jp_html": "あとため<ruby>口<rt>くち</rt></ruby>",
+      "zh": "还用口头语呢",
+      "en": "And by the way"
+    },
+    {
+      "id": 25,
+      "start": 88.78,
+      "end": 91.38,
+      "ts": "01:28.780 -> 01:31.380",
+      "jp": "ため子みたいなのがあって",
+      "jp_html": "ため<ruby>子<rt>こ</rt></ruby>みたいなのがあって",
+      "zh": "有一种叫做“奉子”的东西",
+      "en": "There's something like a tame child."
+    },
+    {
+      "id": 26,
+      "start": 91.38,
+      "end": 93.62,
+      "ts": "01:31.380 -> 01:33.620",
+      "jp": "それは家族とか",
+      "jp_html": "それは<ruby>家族<rt>かぞく</rt></ruby>とか",
+      "zh": "那是家人或家庭事务",
+      "en": "That's about family or something like that."
+    },
+    {
+      "id": 27,
+      "start": 93.62,
+      "end": 96.5,
+      "ts": "01:33.620 -> 01:36.500",
+      "jp": "友達とかと話す",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>とかと<ruby>話す<rt>はなす</rt></ruby>",
+      "zh": "和朋友说话",
+      "en": "Talk with friends"
+    },
+    {
+      "id": 28,
+      "start": 96.5,
+      "end": 98.32,
+      "ts": "01:36.500 -> 01:38.320",
+      "jp": "話し方ですね",
+      "jp_html": "<ruby>話し方<rt>はなしかた</rt></ruby>ですね",
+      "zh": "说话方式呢",
+      "en": "The way of speaking, I suppose."
+    },
+    {
+      "id": 29,
+      "start": 98.32,
+      "end": 101.9,
+      "ts": "01:38.320 -> 01:41.900",
+      "jp": "おー君ちゃん元気みたいな",
+      "jp_html": "おー<ruby>君<rt>くん</rt></ruby>ちゃん<ruby>元気<rt>げんき</rt></ruby>みたいな",
+      "zh": "哦你小子精神似的",
+      "en": "Oh, you're as energetic as can be!"
+    },
+    {
+      "id": 30,
+      "start": 101.9,
+      "end": 104.48,
+      "ts": "01:41.900 -> 01:44.480",
+      "jp": "元気ですかじゃなくて元気",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですかじゃなくて<ruby>元気<rt>げんき</rt></ruby>",
+      "zh": "元气吗不是元气",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 31,
+      "start": 104.48,
+      "end": 107.74,
+      "ts": "01:44.480 -> 01:47.740",
+      "jp": "そういう話し方とか",
+      "jp_html": "そういう<ruby>話し方<rt>はなしかた</rt></ruby>とか",
+      "zh": "这样的说话方式",
+      "en": "That kind of way of talking"
+    },
+    {
+      "id": 32,
+      "start": 107.74,
+      "end": 110.3,
+      "ts": "01:47.740 -> 01:50.300",
+      "jp": "あとは俺とか",
+      "jp_html": "あとは<ruby>俺<rt>おれ</rt></ruby>とか",
+      "zh": "剩下的就是我和我了",
+      "en": "It's me and me or I and myself."
+    },
+    {
+      "id": 33,
+      "start": 110.3,
+      "end": 112.9,
+      "ts": "01:50.300 -> 01:52.900",
+      "jp": "僕とか",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>とか",
+      "zh": "我或者",
+      "en": "Me or meatus"
+    },
+    {
+      "id": 34,
+      "start": 112.9,
+      "end": 114.82,
+      "ts": "01:52.900 -> 01:54.820",
+      "jp": "私とか",
+      "jp_html": "<ruby>私<rt>わたし</rt></ruby>とか",
+      "zh": "我和",
+      "en": "I and"
+    },
+    {
+      "id": 35,
+      "start": 114.82,
+      "end": 118.36,
+      "ts": "01:54.820 -> 01:58.360",
+      "jp": "なんかいろいろな話し方がありますよね",
+      "jp_html": "なんかいろいろな<ruby>話し方<rt>はなしかた</rt></ruby>がありますよね",
+      "zh": "各种说话方式确实有很多吧？",
+      "en": "There are various ways of speaking, aren't there?"
+    },
+    {
+      "id": 36,
+      "start": 118.36,
+      "end": 120.82,
+      "ts": "01:58.360 -> 02:00.820",
+      "jp": "方言もある",
+      "jp_html": "<ruby>方言<rt>ほうげん</rt></ruby>もある",
+      "zh": "也有方言",
+      "en": "There are also dialects."
+    },
+    {
+      "id": 37,
+      "start": 120.82,
+      "end": 124.22,
+      "ts": "02:00.820 -> 02:04.220",
+      "jp": "例えば東京だったら",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>だったら",
+      "zh": "比如东京的话",
+      "en": "For example, if it's Tokyo"
+    },
+    {
+      "id": 38,
+      "start": 124.22,
+      "end": 126.44,
+      "ts": "02:04.220 -> 02:06.440",
+      "jp": "俺さーみたいなね",
+      "jp_html": "<ruby>俺<rt>おれ</rt></ruby>さーみたいなね",
+      "zh": "像我这样的人呢",
+      "en": "Like me, you know?"
+    },
+    {
+      "id": 39,
+      "start": 126.44,
+      "end": 129.1,
+      "ts": "02:06.440 -> 02:09.100",
+      "jp": "俺さー最近さー",
+      "jp_html": "<ruby>俺<rt>おれ</rt></ruby>さー<ruby>最近<rt>さいきん</rt></ruby>さー",
+      "zh": "我最近啊",
+      "en": "I recently, you know?"
+    },
+    {
+      "id": 40,
+      "start": 129.1,
+      "end": 132.36,
+      "ts": "02:09.100 -> 02:12.360",
+      "jp": "ちょっとさー疲れてるんだけどさーみたいなね",
+      "jp_html": "ちょっとさー<ruby>疲れ<rt>つかれ</rt></ruby>てるんだけどさーみたいなね",
+      "zh": "稍微有点累呢。",
+      "en": "I'm kind of tired, you know?"
+    },
+    {
+      "id": 41,
+      "start": 132.36,
+      "end": 135.0,
+      "ts": "02:12.360 -> 02:15.000",
+      "jp": "そういうさーを入れたり",
+      "jp_html": "そういうさーを<ruby>入れ<rt>いれ</rt></ruby>たり",
+      "zh": "这样就加上了啦",
+      "en": "So I put in those kinds of things."
+    },
+    {
+      "id": 42,
+      "start": 135.0,
+      "end": 139.56,
+      "ts": "02:15.000 -> 02:19.560",
+      "jp": "でも関西だと大阪とかだと",
+      "jp_html": "でも<ruby>関西<rt>かんさい</rt></ruby>だと<ruby>大阪<rt>おおさか</rt></ruby>とかだと",
+      "zh": "但是在关西的话，比如大阪等地",
+      "en": "But in Kansai, it's like Osaka or so."
+    },
+    {
+      "id": 43,
+      "start": 139.56,
+      "end": 143.38,
+      "ts": "02:19.560 -> 02:23.380",
+      "jp": "なんていうかなちょっとわかんないな",
+      "jp_html": "なんていうかなちょっとわかんないな",
+      "zh": "说呢，有点不太明白呢",
+      "en": "You know, I'm not quite sure."
+    },
+    {
+      "id": 44,
+      "start": 143.38,
+      "end": 149.16,
+      "ts": "02:23.380 -> 02:29.160",
+      "jp": "僕は関西弁とか東北弁とか",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>関西弁<rt>かんさいべん</rt></ruby>とか<ruby>東北弁<rt>とうほくべん</rt></ruby>とか",
+      "zh": "我讲关西方言或东北方言",
+      "en": "I speak Kansai dialect or Tohoku dialect or"
+    },
+    {
+      "id": 45,
+      "start": 149.16,
+      "end": 155.78,
+      "ts": "02:29.160 -> 02:35.780",
+      "jp": "九州のなんかいろいろな博多弁とか全然話せません",
+      "jp_html": "<ruby>九州<rt>きゅうしゅう</rt></ruby>のなんかいろいろな<ruby>博多弁<rt>はかたべん</rt></ruby>とか<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>話せ<rt>はなせ</rt></ruby>ません",
+      "zh": "我完全不会说九州的各种博多方言",
+      "en": "I can't speak any of the various Kyushu dialects, like Hakata-ben, at all."
+    },
+    {
+      "id": 46,
+      "start": 155.78,
+      "end": 157.34,
+      "ts": "02:35.780 -> 02:37.340",
+      "jp": "すごく苦手",
+      "jp_html": "すごく<ruby>苦手<rt>にがて</rt></ruby>",
+      "zh": "非常不喜欢",
+      "en": "I really dislike it."
+    },
+    {
+      "id": 47,
+      "start": 157.34,
+      "end": 160.46,
+      "ts": "02:37.340 -> 02:40.460",
+      "jp": "全然できない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>できない",
+      "zh": "完全不能",
+      "en": "Cannot do at all"
+    },
+    {
+      "id": 48,
+      "start": 160.46,
+      "end": 162.14,
+      "ts": "02:40.460 -> 02:42.140",
+      "jp": "なのでやらない方がいいでしょう",
+      "jp_html": "なのでやらない<ruby>方が<rt>ほうが</rt></ruby>いいでしょう",
+      "zh": "所以不做了比较好",
+      "en": "So it's better not to do it."
+    },
+    {
+      "id": 49,
+      "start": 162.14,
+      "end": 164.68,
+      "ts": "02:42.140 -> 02:44.680",
+      "jp": "いろいろな方言とか",
+      "jp_html": "いろいろな<ruby>方言<rt>ほうげん</rt></ruby>とか",
+      "zh": "各种方言等",
+      "en": "various dialects"
+    },
+    {
+      "id": 50,
+      "start": 164.68,
+      "end": 168.2,
+      "ts": "02:44.680 -> 02:48.200",
+      "jp": "あとおじいさんの話し方",
+      "jp_html": "あとおじいさんの<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "爷爷说话的方式",
+      "en": "After the grandfather's way of speaking"
+    },
+    {
+      "id": 51,
+      "start": 168.2,
+      "end": 170.2,
+      "ts": "02:48.200 -> 02:50.200",
+      "jp": "おばあさんの話し方",
+      "jp_html": "おばあさんの<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "奶奶的说话方式",
+      "en": "The way grandma talks"
+    },
+    {
+      "id": 52,
+      "start": 170.2,
+      "end": 172.72,
+      "ts": "02:50.200 -> 02:52.720",
+      "jp": "お父さんお母さん",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>お<ruby>母さん<rt>かあさん</rt></ruby>",
+      "zh": "爸爸妈妈",
+      "en": "father mother"
+    },
+    {
+      "id": 53,
+      "start": 172.72,
+      "end": 176.64,
+      "ts": "02:52.720 -> 02:56.640",
+      "jp": "子どもたちの話し方結構違いますよね",
+      "jp_html": "<ruby>子ども<rt>こども</rt></ruby>たちの<ruby>話し方<rt>はなしかた</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>違い<rt>ちがい</rt></ruby>ますよね",
+      "zh": "孩子们的说话方式确实不一样吧",
+      "en": "Don't children speak quite differently, don't they?"
+    },
+    {
+      "id": 54,
+      "start": 176.64,
+      "end": 180.5,
+      "ts": "02:56.640 -> 03:00.500",
+      "jp": "そういう年齢年世代",
+      "jp_html": "そういう<ruby>年齢<rt>ねんれい</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>世代<rt>せだい</rt></ruby>",
+      "zh": "这样的年龄阶段",
+      "en": "That age generation"
+    },
+    {
+      "id": 55,
+      "start": 180.5,
+      "end": 184.52,
+      "ts": "03:00.500 -> 03:04.520",
+      "jp": "そういうのが変わると話し方も変わる",
+      "jp_html": "そういうのが<ruby>変わ<rt>かわ</rt></ruby>ると<ruby>話し方<rt>はなしかた</rt></ruby>も<ruby>変わ<rt>かわ</rt></ruby>る",
+      "zh": "这种情况变了说话的方式也会变",
+      "en": "When that changes, the way of talking also changes."
+    },
+    {
+      "id": 56,
+      "start": 184.52,
+      "end": 186.7,
+      "ts": "03:04.520 -> 03:06.700",
+      "jp": "そしてやっぱり男と女ですね",
+      "jp_html": "そしてやっぱり<ruby>男<rt>おとこ</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>ですね",
+      "zh": "然后果然还是男人和女人呢",
+      "en": "And of course, men and women, too."
+    },
+    {
+      "id": 57,
+      "start": 186.7,
+      "end": 190.1,
+      "ts": "03:06.700 -> 03:10.100",
+      "jp": "日本語では結構違います",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>では<ruby>結構<rt>けっこう</rt></ruby><ruby>違い<rt>ちがい</rt></ruby>ます",
+      "zh": "日语中其实挺不一样的。",
+      "en": "In Japanese, it is quite different."
+    },
+    {
+      "id": 58,
+      "start": 190.1,
+      "end": 193.36,
+      "ts": "03:10.100 -> 03:13.360",
+      "jp": "男の話し方女の話し方",
+      "jp_html": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>話し方<rt>はなしかた</rt></ruby><ruby>女<rt>おんな</rt></ruby>の<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "男人的说话方式女人的说话方式",
+      "en": "Men's way of talking Women's way of talking"
+    },
+    {
+      "id": 59,
+      "start": 193.36,
+      "end": 196.7,
+      "ts": "03:13.360 -> 03:16.700",
+      "jp": "それにもいろんなグラデーションがあって",
+      "jp_html": "それにもいろんなグラデーションがあって",
+      "zh": "那里也有很多层次变化",
+      "en": "There are various gradations in that as well"
+    },
+    {
+      "id": 60,
+      "start": 196.7,
+      "end": 199.62,
+      "ts": "03:16.700 -> 03:19.620",
+      "jp": "すごく男っぽい話し方や",
+      "jp_html": "すごく<ruby>男<rt>おとこ</rt></ruby>っぽい<ruby>話し方<rt>はなしかた</rt></ruby>や",
+      "zh": "说话非常 masculinized",
+      "en": "It's very masculine way of talking"
+    },
+    {
+      "id": 61,
+      "start": 199.62,
+      "end": 202.6,
+      "ts": "03:19.620 -> 03:22.600",
+      "jp": "本当に女っぽい話し方もあるけど",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>女<rt>おんな</rt></ruby>っぽい<ruby>話し方<rt>はなしかた</rt></ruby>もあるけど",
+      "zh": "真的有一些听起来很女性化的说话方式",
+      "en": "There are also ways of speaking that are really feminine."
+    },
+    {
+      "id": 62,
+      "start": 202.6,
+      "end": 205.88,
+      "ts": "03:22.600 -> 03:25.880",
+      "jp": "少しニュートラルっぽい話し方もあって",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ニュートラルっぽい<ruby>話し方<rt>はなしかた</rt></ruby>もあって",
+      "zh": "有一些稍微中立的说话方式",
+      "en": "There's also a way of speaking that's somewhat neutral."
+    },
+    {
+      "id": 63,
+      "start": 205.88,
+      "end": 207.1,
+      "ts": "03:25.880 -> 03:27.100",
+      "jp": "まあいろいろある",
+      "jp_html": "まあいろいろある",
+      "zh": "反正有很多事情",
+      "en": "Well, there are various things."
+    },
+    {
+      "id": 64,
+      "start": 207.1,
+      "end": 211.64,
+      "ts": "03:27.100 -> 03:31.640",
+      "jp": "年齢とか性格とか",
+      "jp_html": "<ruby>年齢<rt>ねんれい</rt></ruby>とか<ruby>性格<rt>せいかく</rt></ruby>とか",
+      "zh": "年龄或者性格等等",
+      "en": "Age or personality or"
+    },
+    {
+      "id": 65,
+      "start": 211.64,
+      "end": 213.68,
+      "ts": "03:31.640 -> 03:33.680",
+      "jp": "男女とか",
+      "jp_html": "<ruby>男女<rt>だんじょ</rt></ruby>とか",
+      "zh": "男女或者性别",
+      "en": "men and women or males and females"
+    },
+    {
+      "id": 66,
+      "start": 213.68,
+      "end": 216.54,
+      "ts": "03:33.680 -> 03:36.540",
+      "jp": "あとは地域とか",
+      "jp_html": "あとは<ruby>地域<rt>ちいき</rt></ruby>とか",
+      "zh": "剩下的就是地区之类的东西了",
+      "en": "It's about regions or areas."
+    },
+    {
+      "id": 67,
+      "start": 216.54,
+      "end": 218.46,
+      "ts": "03:36.540 -> 03:38.460",
+      "jp": "場所ですね場所とか",
+      "jp_html": "<ruby>場所<rt>ばしょ</rt></ruby>ですね<ruby>場所<rt>ばしょ</rt></ruby>とか",
+      "zh": "地点呢地点或者地方",
+      "en": "Place, place or something like that."
+    },
+    {
+      "id": 68,
+      "start": 218.46,
+      "end": 221.12,
+      "ts": "03:38.460 -> 03:41.120",
+      "jp": "あとはその文化もあるかな",
+      "jp_html": "あとはその<ruby>文化<rt>ぶんか</rt></ruby>もあるかな",
+      "zh": "剩下的可能也有那样的文化吧",
+      "en": "There might be that culture too."
+    },
+    {
+      "id": 69,
+      "start": 221.12,
+      "end": 224.14,
+      "ts": "03:41.120 -> 03:44.140",
+      "jp": "文化によって話し方がちょっと変わる",
+      "jp_html": "<ruby>文化<rt>ぶんか</rt></ruby>によって<ruby>話し方<rt>はなしかた</rt></ruby>がちょっと<ruby>変わ<rt>かわ</rt></ruby>る",
+      "zh": "说话方式会因为文化略有不同",
+      "en": "The way of speaking changes a little by culture."
+    },
+    {
+      "id": 70,
+      "start": 224.14,
+      "end": 228.72,
+      "ts": "03:44.140 -> 03:48.720",
+      "jp": "例えばなんかアニメオタクとか",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>なんかアニメオタクとか",
+      "zh": "比如什么动漫宅男或者",
+      "en": "For example, like anime otaku or"
+    },
+    {
+      "id": 71,
+      "start": 228.72,
+      "end": 231.5,
+      "ts": "03:48.720 -> 03:51.500",
+      "jp": "漫画オタクとかの話し方や",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>オタクとかの<ruby>話し方<rt>はなしかた</rt></ruby>や",
+      "zh": "漫画宅男或者类似的说话方式和",
+      "en": "The way manga otaku talk or speak"
+    },
+    {
+      "id": 72,
+      "start": 231.5,
+      "end": 236.64,
+      "ts": "03:51.500 -> 03:56.640",
+      "jp": "野球が好きな人たちの話し方とか",
+      "jp_html": "<ruby>野球<rt>やきゅう</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>な<ruby>人<rt>にん</rt></ruby>たちの<ruby>話し方<rt>はなしかた</rt></ruby>とか",
+      "zh": "喜欢棒球的人们的说话方式或",
+      "en": "The way people who like baseball talk about it"
+    },
+    {
+      "id": 73,
+      "start": 236.64,
+      "end": 239.74,
+      "ts": "03:56.640 -> 03:59.740",
+      "jp": "仕事ですよね",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>ですよね",
+      "zh": "是工作吧？",
+      "en": "It's work, right?"
+    },
+    {
+      "id": 74,
+      "start": 239.74,
+      "end": 245.48,
+      "ts": "03:59.740 -> 04:05.480",
+      "jp": "仕事でのセールスマンの人たちの話し方や",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>でのセールスマンの<ruby>人<rt>にん</rt></ruby>たちの<ruby>話し方<rt>はなしかた</rt></ruby>や",
+      "zh": "销售人员在工作中的说话方式或",
+      "en": "The way salespeople talk at work"
+    },
+    {
+      "id": 75,
+      "start": 245.48,
+      "end": 249.34,
+      "ts": "04:05.480 -> 04:09.340",
+      "jp": "いろいろなところですよね",
+      "jp_html": "いろいろなところですよね",
+      "zh": "确实很多地方吧",
+      "en": "Isn't it various places?"
+    },
+    {
+      "id": 76,
+      "start": 249.34,
+      "end": 255.14,
+      "ts": "04:09.340 -> 04:15.140",
+      "jp": "文化の違いとかもあって話し方が結構変わるかな",
+      "jp_html": "<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違い<rt>ちがい</rt></ruby>とかもあって<ruby>話し方<rt>はなしかた</rt></ruby>が<ruby>結構<rt>けっこう</rt></ruby><ruby>変わ<rt>かわ</rt></ruby>るかな",
+      "zh": "文化的差异也可能导致说话方式会有所不同吧",
+      "en": "There might be quite a few changes in how we talk due to cultural differences."
+    },
+    {
+      "id": 77,
+      "start": 255.14,
+      "end": 259.6,
+      "ts": "04:15.140 -> 04:19.600",
+      "jp": "仕事でもいろいろありますよね",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>でもいろいろありますよね",
+      "zh": "工作中也有各种事情吧",
+      "en": "There are various things in work, aren't there?"
+    },
+    {
+      "id": 78,
+      "start": 259.6,
+      "end": 263.04,
+      "ts": "04:19.600 -> 04:23.040",
+      "jp": "例えば大工さんとか漁師さんとか",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>大工<rt>だいく</rt></ruby>さんとか<ruby>漁師<rt>りょうし</rt></ruby>さんとか",
+      "zh": "比如木匠或渔民",
+      "en": "For example, carpenters or fishermen"
+    },
+    {
+      "id": 79,
+      "start": 263.04,
+      "end": 267.32,
+      "ts": "04:23.040 -> 04:27.320",
+      "jp": "そういうちょっと男っぽい話し方をするかもしれない",
+      "jp_html": "そういうちょっと<ruby>男<rt>おとこ</rt></ruby>っぽい<ruby>話し方<rt>はなしかた</rt></ruby>をするかもしれない",
+      "zh": "可能会有点像男生说话的方式",
+      "en": "You might end up talking in a somewhat masculine way"
+    },
+    {
+      "id": 80,
+      "start": 267.32,
+      "end": 272.34,
+      "ts": "04:27.320 -> 04:32.340",
+      "jp": "でも大学の先生とかお医者さんとか",
+      "jp_html": "でも<ruby>大学<rt>だいがく</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>とかお<ruby>医者<rt>いしゃ</rt></ruby>さんとか",
+      "zh": "但是大学的教授或者医生等等",
+      "en": "But professors or doctors"
+    },
+    {
+      "id": 81,
+      "start": 272.34,
+      "end": 276.98,
+      "ts": "04:32.340 -> 04:36.980",
+      "jp": "そういう人たちはちょっと柔らかい話し方をするかもしれない",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>たちはちょっと<ruby>柔らかい<rt>やわらかい</rt></ruby><ruby>話し方<rt>はなしかた</rt></ruby>をするかもしれない",
+      "zh": "这样的人可能说话会稍微柔和一点",
+      "en": "Those kinds of people might speak a little more softly."
+    },
+    {
+      "id": 82,
+      "start": 276.98,
+      "end": 279.46,
+      "ts": "04:36.980 -> 04:39.460",
+      "jp": "人によって違いますよね",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>によって<ruby>違い<rt>ちがい</rt></ruby>ますよね",
+      "zh": "确实因人而异吧",
+      "en": "It varies from person to person, doesn't it?"
+    },
+    {
+      "id": 83,
+      "start": 279.46,
+      "end": 283.52,
+      "ts": "04:39.460 -> 04:43.520",
+      "jp": "人によって違うし場所によって違うし",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>によって<ruby>違うし<rt>ちがうし</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>によって<ruby>違うし<rt>ちがうし</rt></ruby>",
+      "zh": "人不同，地方也不同",
+      "en": "It varies from person to person and from place to place."
+    },
+    {
+      "id": 84,
+      "start": 283.52,
+      "end": 285.24,
+      "ts": "04:43.520 -> 04:45.240",
+      "jp": "仕事によって違うし",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>によって<ruby>違うし<rt>ちがうし</rt></ruby>",
+      "zh": "工作不同",
+      "en": "It varies by work."
+    },
+    {
+      "id": 85,
+      "start": 285.24,
+      "end": 287.72,
+      "ts": "04:45.240 -> 04:47.720",
+      "jp": "いろいろな話し方がある",
+      "jp_html": "いろいろな<ruby>話し方<rt>はなしかた</rt></ruby>がある",
+      "zh": "有不同的说话方式",
+      "en": "There are various ways of speaking."
+    },
+    {
+      "id": 86,
+      "start": 287.72,
+      "end": 295.96,
+      "ts": "04:47.720 -> 04:55.960",
+      "jp": "僕からのアドバイスはあんまり心配しなくて大丈夫です",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>からのアドバイスはあんまり<ruby>心配<rt>しんぱい</rt></ruby>しなくて<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "我的建议你不用太担心",
+      "en": "His advice is that you shouldn't worry too much."
+    },
+    {
+      "id": 87,
+      "start": 295.96,
+      "end": 300.86,
+      "ts": "04:55.960 -> 05:00.860",
+      "jp": "これはやっぱりたくさんのインプットですねコンテンツ",
+      "jp_html": "これはやっぱりたくさんのインプットですねコンテンツ",
+      "zh": "这果然有很多输入内容呢",
+      "en": "This is definitely a lot of input on the content."
+    },
+    {
+      "id": 88,
+      "start": 300.86,
+      "end": 307.1,
+      "ts": "05:00.860 -> 05:07.100",
+      "jp": "例えばドラマテレビドラマを見ると",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ドラマテレビドラマを<ruby>見る<rt>みる</rt></ruby>と",
+      "zh": "例如看电视剧",
+      "en": "For example, when you watch a drama on TV"
+    },
+    {
+      "id": 89,
+      "start": 307.1,
+      "end": 310.1,
+      "ts": "05:07.100 -> 05:10.100",
+      "jp": "いろいろな話し方を聞くことができますね",
+      "jp_html": "いろいろな<ruby>話し方<rt>はなしかた</rt></ruby>を<ruby>聞く<rt>きく</rt></ruby>ことができますね",
+      "zh": "可以听到各种不同的说话方式呢",
+      "en": "You can hear various ways of speaking, can't you?"
+    },
+    {
+      "id": 90,
+      "start": 310.1,
+      "end": 314.1,
+      "ts": "05:10.100 -> 05:14.100",
+      "jp": "例えば昔の話侍の話",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>昔<rt>むかし</rt></ruby>の<ruby>話<rt>はなし</rt></ruby><ruby>侍<rt>さむらい</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>",
+      "zh": "比如旧时的武士的故事",
+      "en": "For example, old stories about samurai."
+    },
+    {
+      "id": 91,
+      "start": 314.1,
+      "end": 318.86,
+      "ts": "05:14.100 -> 05:18.860",
+      "jp": "侍の話を見ればちょっと古い話し方",
+      "jp_html": "<ruby>侍<rt>さむらい</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>見れ<rt>みれ</rt></ruby>ばちょっと<ruby>古い<rt>ふるい</rt></ruby><ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "看仆人的说法有点老式的表达方式",
+      "en": "By the servant's story, it seems to have an old way of speaking."
+    },
+    {
+      "id": 92,
+      "start": 318.86,
+      "end": 321.68,
+      "ts": "05:18.860 -> 05:21.680",
+      "jp": "もちろんフィクションの中ですけど",
+      "jp_html": "もちろんフィクションの<ruby>中<rt>なか</rt></ruby>ですけど",
+      "zh": "当然是在小说里面啦",
+      "en": "Of course in the fiction."
+    },
+    {
+      "id": 93,
+      "start": 321.68,
+      "end": 324.12,
+      "ts": "05:21.680 -> 05:24.120",
+      "jp": "フィクションの中でいろいろな話し方",
+      "jp_html": "フィクションの<ruby>中<rt>なか</rt></ruby>でいろいろな<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "虚构作品中各种说话方式",
+      "en": "In fiction, various ways of speaking"
+    },
+    {
+      "id": 94,
+      "start": 324.12,
+      "end": 326.6,
+      "ts": "05:24.120 -> 05:26.600",
+      "jp": "侍っぽい話し方",
+      "jp_html": "<ruby>侍っ<rt>じっ</rt></ruby>ぽい<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "像侍一样的说话方式",
+      "en": "Like a samurai's way of speaking"
+    },
+    {
+      "id": 95,
+      "start": 326.6,
+      "end": 331.28,
+      "ts": "05:26.600 -> 05:31.280",
+      "jp": "学ぶことができる",
+      "jp_html": "<ruby>学ぶ<rt>まなぶ</rt></ruby>ことができる",
+      "zh": "可以学习",
+      "en": "Can learn"
+    },
+    {
+      "id": 96,
+      "start": 331.28,
+      "end": 335.94,
+      "ts": "05:31.280 -> 05:35.940",
+      "jp": "そして高校生が主人公のアニメを見れば",
+      "jp_html": "そして<ruby>高校生<rt>こうこうせい</rt></ruby>が<ruby>主人公<rt>しゅじんこう</rt></ruby>のアニメを<ruby>見れ<rt>みれ</rt></ruby>ば",
+      "zh": "然后看一部以高中生为主人公的动画就好了",
+      "en": "Then watch an anime with a high school student as the protagonist."
+    },
+    {
+      "id": 97,
+      "start": 335.94,
+      "end": 338.48,
+      "ts": "05:35.940 -> 05:38.480",
+      "jp": "ちょっと高校生っぽい話し方とかね",
+      "jp_html": "ちょっと<ruby>高校生<rt>こうこうせい</rt></ruby>っぽい<ruby>話し方<rt>はなしかた</rt></ruby>とかね",
+      "zh": "稍微有点高中生的说话方式吧",
+      "en": "Kind of like how high school students talk, you know?"
+    },
+    {
+      "id": 98,
+      "start": 338.48,
+      "end": 340.72,
+      "ts": "05:38.480 -> 05:40.720",
+      "jp": "もちろんフィクションだけどね",
+      "jp_html": "もちろんフィクションだけどね",
+      "zh": "当然那是小说啦",
+      "en": "Of course it's fiction though."
+    },
+    {
+      "id": 99,
+      "start": 340.72,
+      "end": 348.78,
+      "ts": "05:40.720 -> 05:48.780",
+      "jp": "YouTubeとかだと本当のノンフィクションの話し方も見ることができる",
+      "jp_html": "YouTubeとかだと<ruby>本当<rt>ほんとう</rt></ruby>のノンフィクションの<ruby>話し方<rt>はなしかた</rt></ruby>も<ruby>見る<rt>みる</rt></ruby>ことができる",
+      "zh": "在YouTube上，你也可以看到真实的非虚构的谈话方式。",
+      "en": "On YouTube, you can also see how real non-fiction conversations take place."
+    },
+    {
+      "id": 100,
+      "start": 348.78,
+      "end": 353.8,
+      "ts": "05:48.780 -> 05:53.800",
+      "jp": "例えばYouTubeで大学生のグループが話している",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>YouTubeで<ruby>大学生<rt>だいがくせい</rt></ruby>のグループが<ruby>話し<rt>はなし</rt></ruby>ている",
+      "zh": "例如，在YouTube上一群大学生在交谈",
+      "en": "For example, a group of college students is talking on YouTube."
+    },
+    {
+      "id": 101,
+      "start": 353.8,
+      "end": 356.66,
+      "ts": "05:53.800 -> 05:56.660",
+      "jp": "そうすれば若い人の話し方",
+      "jp_html": "そうすれば<ruby>若い<rt>わかい</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "那样就能听到年轻人的说话方式",
+      "en": "Then it would affect the way young people speak."
+    },
+    {
+      "id": 102,
+      "start": 356.66,
+      "end": 360.38,
+      "ts": "05:56.660 -> 06:00.380",
+      "jp": "男同士の友達との話し方",
+      "jp_html": "<ruby>男同士<rt>おとこどうし</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>との<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "与男性朋友说话的方式",
+      "en": "The way to talk with male friends"
+    },
+    {
+      "id": 103,
+      "start": 360.38,
+      "end": 363.44,
+      "ts": "06:00.380 -> 06:03.440",
+      "jp": "女同士の友達との話し方",
+      "jp_html": "<ruby>女同士<rt>おんなどうし</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>との<ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "与女性朋友交谈的方式",
+      "en": "The way to talk with female friends"
+    },
+    {
+      "id": 104,
+      "start": 363.44,
+      "end": 366.32,
+      "ts": "06:03.440 -> 06:06.320",
+      "jp": "男と女が混ざった時の話し方",
+      "jp_html": "<ruby>男<rt>おとこ</rt></ruby>と<ruby>女<rt>おんな</rt></ruby>が<ruby>混ざ<rt>まざ</rt></ruby>った<ruby>時の<rt>ときの</rt></ruby><ruby>話し方<rt>はなしかた</rt></ruby>",
+      "zh": "男女混合时的说话方式",
+      "en": "The way of talking when men and women mix"
+    },
+    {
+      "id": 105,
+      "start": 366.32,
+      "end": 369.2,
+      "ts": "06:06.320 -> 06:09.200",
+      "jp": "デートの時の話し方とか",
+      "jp_html": "デートの<ruby>時の<rt>ときの</rt></ruby><ruby>話し方<rt>はなしかた</rt></ruby>とか",
+      "zh": "约会时的说话方式",
+      "en": "The way of talking on dates"
+    },
+    {
+      "id": 106,
+      "start": 369.2,
+      "end": 372.1,
+      "ts": "06:09.200 -> 06:12.100",
+      "jp": "仕事の時の話し方とか",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>の<ruby>時の<rt>ときの</rt></ruby><ruby>話し方<rt>はなしかた</rt></ruby>とか",
+      "zh": "工作时的说话方式或",
+      "en": "The way of talking at work"
+    },
+    {
+      "id": 107,
+      "start": 372.1,
+      "end": 374.96,
+      "ts": "06:12.100 -> 06:14.960",
+      "jp": "いろいろな話し方を見ることができます",
+      "jp_html": "いろいろな<ruby>話し方<rt>はなしかた</rt></ruby>を<ruby>見る<rt>みる</rt></ruby>ことができます",
+      "zh": "可以看到各种不同的说话方式",
+      "en": "You can see various ways of speaking."
+    },
+    {
+      "id": 108,
+      "start": 374.96,
+      "end": 381.76,
+      "ts": "06:14.960 -> 06:21.760",
+      "jp": "なのでこれはねやっぱり楽しいですよ",
+      "jp_html": "なのでこれはねやっぱり<ruby>楽しい<rt>たのしい</rt></ruby>ですよ",
+      "zh": "所以这真的很好玩啊",
+      "en": "So this is really fun, you know"
+    },
+    {
+      "id": 109,
+      "start": 381.76,
+      "end": 383.14,
+      "ts": "06:21.760 -> 06:23.140",
+      "jp": "面白いんですね",
+      "jp_html": "<ruby>面白い<rt>おもしろい</rt></ruby>んですね",
+      "zh": "真有趣呢",
+      "en": "It's interesting, huh?"
+    },
+    {
+      "id": 110,
+      "start": 383.14,
+      "end": 386.24,
+      "ts": "06:23.140 -> 06:26.240",
+      "jp": "なのでいろいろな話し方があって",
+      "jp_html": "なのでいろいろな<ruby>話し方<rt>はなしかた</rt></ruby>があって",
+      "zh": "所以有不同的说话方式",
+      "en": "So there are various ways of speaking."
+    },
+    {
+      "id": 111,
+      "start": 386.24,
+      "end": 389.78,
+      "ts": "06:26.240 -> 06:29.780",
+      "jp": "難しいなと思うかもしれないけど",
+      "jp_html": "<ruby>難しい<rt>むずかしい</rt></ruby>なと<ruby>思う<rt>おもう</rt></ruby>かもしれないけど",
+      "zh": "你可能会觉得这很难吧",
+      "en": "You might think it's difficult, but"
+    },
+    {
+      "id": 112,
+      "start": 389.78,
+      "end": 392.92,
+      "ts": "06:29.780 -> 06:32.920",
+      "jp": "いろいろな話し方があるから",
+      "jp_html": "いろいろな<ruby>話し方<rt>はなしかた</rt></ruby>があるから",
+      "zh": "有不同的说话方式",
+      "en": "There are various ways of speaking."
+    },
+    {
+      "id": 113,
+      "start": 392.92,
+      "end": 397.52,
+      "ts": "06:32.920 -> 06:37.520",
+      "jp": "面白いなとポジティブに考えることもできます",
+      "jp_html": "<ruby>面白い<rt>おもしろい</rt></ruby>なとポジティブに<ruby>考え<rt>かんがえ</rt></ruby>ることもできます",
+      "zh": "可以积极地想这挺有趣的",
+      "en": "I can also think positively and find it interesting."
+    },
+    {
+      "id": 114,
+      "start": 397.52,
+      "end": 399.9,
+      "ts": "06:37.520 -> 06:39.900",
+      "jp": "なので皆さん頑張って",
+      "jp_html": "なので<ruby>皆さん<rt>みなさん</rt></ruby><ruby>頑張っ<rt>がんばっ</rt></ruby>て",
+      "zh": "所以大家加油",
+      "en": "So everyone, please try your best."
+    },
+    {
+      "id": 115,
+      "start": 399.9,
+      "end": 400.72,
+      "ts": "06:39.900 -> 06:40.720",
+      "jp": "頑張ってね",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>てね",
+      "zh": "加油呢",
+      "en": "Keep trying/neatly"
+    }
+  ]
+}
