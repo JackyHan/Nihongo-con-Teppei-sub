@@ -1,5 +1,17 @@
 [
   {
+    "id": "1598",
+    "title": "#1598「リソース（教材など）について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/10/12/1598%e3%80%8c%e3%83%aa%e3%82%bd%e3%83%bc%e3%82%b9%ef%bc%88%e6%95%99%e6%9d%90%e3%81%aa%e3%81%a9%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1598.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1598.json"
+  },
+  {
     "id": "1597",
     "title": "#1597「色々な話し方について！」",
     "category_id": "podcast",

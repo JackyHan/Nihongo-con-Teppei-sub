@@ -1,0 +1,694 @@
+{
+  "id": "1598",
+  "title": "#1598「リソース（教材など）について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1598.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1598.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/12/1598%e3%80%8c%e3%83%aa%e3%82%bd%e3%83%bc%e3%82%b9%ef%bc%88%e6%95%99%e6%9d%90%e3%81%aa%e3%81%a9%ef%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.39,
+      "end": 3.03,
+      "ts": "00:01.390 -> 00:03.030",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 3.03,
+      "end": 10.21,
+      "ts": "00:03.030 -> 00:10.210",
+      "jp": "今日はリソース教材などについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>リソース<ruby>教材<rt>きょうざい</rt></ruby>などについて",
+      "zh": "今天关于资源教材等的内容",
+      "en": "Today, I will be talking about resource materials, etc."
+    },
+    {
+      "id": 2,
+      "start": 10.21,
+      "end": 13.33,
+      "ts": "00:10.210 -> 00:13.330",
+      "jp": "はい皆さんこんにちは",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby>こんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 13.33,
+      "end": 15.89,
+      "ts": "00:13.330 -> 00:15.890",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 15.89,
+      "end": 20.39,
+      "ts": "00:15.890 -> 00:20.390",
+      "jp": "日本語の勉強について話しています",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>について<ruby>話し<rt>はなし</rt></ruby>ています",
+      "zh": "我们在谈论日语的学习。",
+      "en": "We are talking about studying Japanese."
+    },
+    {
+      "id": 5,
+      "start": 20.39,
+      "end": 25.37,
+      "ts": "00:20.390 -> 00:25.370",
+      "jp": "日本語の勉強のリソースはたくさんありますよね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>のリソースはたくさんありますよね",
+      "zh": "日语的学习资源很多吧",
+      "en": "There are many resources for studying Japanese, right?"
+    },
+    {
+      "id": 6,
+      "start": 26.83,
+      "end": 29.01,
+      "ts": "00:26.830 -> 00:29.010",
+      "jp": "教材もたくさんありますよね",
+      "jp_html": "<ruby>教材<rt>きょうざい</rt></ruby>もたくさんありますよね",
+      "zh": "教材也有很多吧",
+      "en": "There are also many textbooks, aren't there?"
+    },
+    {
+      "id": 7,
+      "start": 29.01,
+      "end": 38.17,
+      "ts": "00:29.010 -> 00:38.170",
+      "jp": "教材リソース教科書テキストブックいろいろある",
+      "jp_html": "<ruby>教材<rt>きょうざい</rt></ruby>リソース<ruby>教科書<rt>きょうかしょ</rt></ruby>テキストブックいろいろある",
+      "zh": "教材资源课本文本书等等都有",
+      "en": "Textbook resources textbooks various kinds available"
+    },
+    {
+      "id": 8,
+      "start": 38.17,
+      "end": 41.25,
+      "ts": "00:38.170 -> 00:41.250",
+      "jp": "コンテンツもたくさんある",
+      "jp_html": "コンテンツもたくさんある",
+      "zh": "也有很多内容",
+      "en": "There is also a lot of content."
+    },
+    {
+      "id": 9,
+      "start": 41.25,
+      "end": 43.53,
+      "ts": "00:41.250 -> 00:43.530",
+      "jp": "ポッドキャストYouTube",
+      "jp_html": "ポッドキャストYouTube",
+      "zh": "播客YouTube",
+      "en": "Podcast YouTube"
+    },
+    {
+      "id": 10,
+      "start": 43.53,
+      "end": 47.47,
+      "ts": "00:43.530 -> 00:47.470",
+      "jp": "いろいろなコースもありますね",
+      "jp_html": "いろいろなコースもありますね",
+      "zh": "也有许多不同的课程呢",
+      "en": "There are also various courses, right?"
+    },
+    {
+      "id": 11,
+      "start": 47.47,
+      "end": 48.87,
+      "ts": "00:47.470 -> 00:48.870",
+      "jp": "いろんなコースもある",
+      "jp_html": "いろんなコースもある",
+      "zh": "有各种不同的课程",
+      "en": "There are various courses available."
+    },
+    {
+      "id": 12,
+      "start": 48.87,
+      "end": 53.99,
+      "ts": "00:48.870 -> 00:53.990",
+      "jp": "いろいろな先生がいろいろ違うことを言う",
+      "jp_html": "いろいろな<ruby>先生<rt>せんせい</rt></ruby>がいろいろ<ruby>違うこ<rt>ちがうこ</rt></ruby>とを<ruby>言う<rt>いう</rt></ruby>",
+      "zh": "各种老师说的内容都不同",
+      "en": "Many teachers say different things."
+    },
+    {
+      "id": 13,
+      "start": 53.99,
+      "end": 59.79,
+      "ts": "00:53.990 -> 00:59.790",
+      "jp": "僕が言うことも多分ちょっと他の先生と違うと思う",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が<ruby>言う<rt>いう</rt></ruby>ことも<ruby>多分<rt>たぶん</rt></ruby>ちょっと<ruby>他の<rt>ほかの</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>と<ruby>違う<rt>ちがう</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想说的可能和别的老师有点不一样",
+      "en": "I think what I say might be a bit different from other teachers."
+    },
+    {
+      "id": 14,
+      "start": 59.79,
+      "end": 64.13,
+      "ts": "00:59.790 -> 01:04.130",
+      "jp": "いろいろあるからじゃあどれを選べばいいのか",
+      "jp_html": "いろいろあるからじゃあどれを<ruby>選べ<rt>えらべ</rt></ruby>ばいいのか",
+      "zh": "因为有很多选择，所以不知道该选哪个",
+      "en": "There are many options, so which one should I choose?"
+    },
+    {
+      "id": 15,
+      "start": 64.13,
+      "end": 68.29,
+      "ts": "01:04.130 -> 01:08.290",
+      "jp": "どれを選べば自分にとっていいのか",
+      "jp_html": "どれを<ruby>選べ<rt>えらべ</rt></ruby>ば<ruby>自分<rt>じぶん</rt></ruby>にとっていいのか",
+      "zh": "选择哪个对自己好",
+      "en": "Which one would be good for me?"
+    },
+    {
+      "id": 16,
+      "start": 68.29,
+      "end": 75.13,
+      "ts": "01:08.290 -> 01:15.130",
+      "jp": "多すぎるリソースはちょっと混乱しますね",
+      "jp_html": "<ruby>多す<rt>おおす</rt></ruby>ぎるリソースはちょっと<ruby>混乱<rt>こんらん</rt></ruby>しますね",
+      "zh": "过多的资源反而会有点让人困惑呢",
+      "en": "Too many resources can be a bit confusing, huh?"
+    },
+    {
+      "id": 17,
+      "start": 75.13,
+      "end": 76.69,
+      "ts": "01:15.130 -> 01:16.690",
+      "jp": "ちょっと難しいですよね",
+      "jp_html": "ちょっと<ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "确实有点难吧？",
+      "en": "It's a bit difficult, isn't it?"
+    },
+    {
+      "id": 18,
+      "start": 76.69,
+      "end": 84.2,
+      "ts": "01:16.690 -> 01:24.200",
+      "jp": "まあこれはね僕のアドバイスは",
+      "jp_html": "まあこれはね<ruby>僕<rt>ぼく</rt></ruby>のアドバイスは",
+      "zh": "嗯，这是我的建议是",
+      "en": "Well, this is where my advice is."
+    },
+    {
+      "id": 19,
+      "start": 84.2,
+      "end": 90.26,
+      "ts": "01:24.200 -> 01:30.260",
+      "jp": "やっぱりいろいろ選びすぎない方がいいと思います",
+      "jp_html": "やっぱりいろいろ<ruby>選び<rt>えらび</rt></ruby>すぎない<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得最好不要选择太多",
+      "en": "I think it's better not to choose too many options."
+    },
+    {
+      "id": 20,
+      "start": 90.26,
+      "end": 95.04,
+      "ts": "01:30.260 -> 01:35.040",
+      "jp": "いろいろあるから全部をチェックすると",
+      "jp_html": "いろいろあるから<ruby>全部<rt>ぜんぶ</rt></ruby>をチェックすると",
+      "zh": "因为有很多所以全部检查一下",
+      "en": "There are various things so checking all of them would be necessary."
+    },
+    {
+      "id": 21,
+      "start": 95.04,
+      "end": 99.38,
+      "ts": "01:35.040 -> 01:39.380",
+      "jp": "たくさんの時間を使ってしまいますね",
+      "jp_html": "たくさんの<ruby>時間<rt>じかん</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby>しまいますね",
+      "zh": "花了很多时间啊",
+      "en": "It takes up so much time, doesn't it?"
+    },
+    {
+      "id": 22,
+      "start": 99.38,
+      "end": 101.74,
+      "ts": "01:39.380 -> 01:41.740",
+      "jp": "この教科書がいいかな",
+      "jp_html": "この<ruby>教科書<rt>きょうかしょ</rt></ruby>がいいかな",
+      "zh": "这本教科书不错吧",
+      "en": "Is this textbook good?"
+    },
+    {
+      "id": 23,
+      "start": 101.74,
+      "end": 103.8,
+      "ts": "01:41.740 -> 01:43.800",
+      "jp": "それともこの教科書がいいかな",
+      "jp_html": "それともこの<ruby>教科書<rt>きょうかしょ</rt></ruby>がいいかな",
+      "zh": "那幺这套课本不错吧",
+      "en": "Or maybe this textbook is good?"
+    },
+    {
+      "id": 24,
+      "start": 103.8,
+      "end": 106.96,
+      "ts": "01:43.800 -> 01:46.960",
+      "jp": "すべての教科書を買って",
+      "jp_html": "すべての<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て",
+      "zh": "把所有的教科书都买来了",
+      "en": "Buy all the textbooks"
+    },
+    {
+      "id": 25,
+      "start": 106.96,
+      "end": 110.3,
+      "ts": "01:46.960 -> 01:50.300",
+      "jp": "すべてのオンラインコースに",
+      "jp_html": "すべてのオンラインコースに",
+      "zh": "所有在线课程都包括",
+      "en": "All online courses include"
+    },
+    {
+      "id": 26,
+      "start": 110.3,
+      "end": 113.56,
+      "ts": "01:50.300 -> 01:53.560",
+      "jp": "お金を払って",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て",
+      "zh": "付钱",
+      "en": "Pay money"
+    },
+    {
+      "id": 27,
+      "start": 113.56,
+      "end": 116.86,
+      "ts": "01:53.560 -> 01:56.860",
+      "jp": "そうするとお金もなくなる",
+      "jp_html": "そうするとお<ruby>金<rt>きん</rt></ruby>もなくなる",
+      "zh": "那样就没钱了",
+      "en": "Then you will run out of money."
+    },
+    {
+      "id": 28,
+      "start": 116.86,
+      "end": 119.0,
+      "ts": "01:56.860 -> 01:59.000",
+      "jp": "そして時間もなくなる",
+      "jp_html": "そして<ruby>時間<rt>じかん</rt></ruby>もなくなる",
+      "zh": "然后时间也就没了",
+      "en": "And there is no time left."
+    },
+    {
+      "id": 29,
+      "start": 119.0,
+      "end": 121.7,
+      "ts": "01:59.000 -> 02:01.700",
+      "jp": "それは良くないですよね",
+      "jp_html": "それは<ruby>良く<rt>よく</rt></ruby>ないですよね",
+      "zh": "那不好吧？",
+      "en": "Isn't that bad, right?"
+    },
+    {
+      "id": 30,
+      "start": 121.7,
+      "end": 126.05,
+      "ts": "02:01.700 -> 02:06.050",
+      "jp": "僕のアドバイスは",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のアドバイスは",
+      "zh": "我的建议是",
+      "en": "My advice is"
+    },
+    {
+      "id": 31,
+      "start": 126.05,
+      "end": 130.21,
+      "ts": "02:06.050 -> 02:10.210",
+      "jp": "皆さんはもちろん日本語コンテッペを",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はもちろん<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを",
+      "zh": "大家当然可以使用日语进行交谈",
+      "en": "Of course, everyone, Japanese conversation to English translation is:"
+    },
+    {
+      "id": 32,
+      "start": 130.21,
+      "end": 133.85,
+      "ts": "02:10.210 -> 02:13.850",
+      "jp": "他の人は他の何か",
+      "jp_html": "<ruby>他の<rt>ほかの</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>他の<rt>ほかの</rt></ruby><ruby>何か<rt>なにか</rt></ruby>",
+      "zh": "其他人别的东西",
+      "en": "Other people have other things."
+    },
+    {
+      "id": 33,
+      "start": 133.85,
+      "end": 141.27,
+      "ts": "02:13.850 -> 02:21.270",
+      "jp": "選んだもの一つをずっとやるのがいいんじゃないかなと思いますね",
+      "jp_html": "<ruby>選ん<rt>えらん</rt></ruby>だもの<ruby>一つ<rt>ひとつ</rt></ruby>をずっとやるのがいいんじゃないかなと<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "我觉得选中一个东西然后一直做下去可能会比较好呢",
+      "en": "I think it's better to stick with one chosen thing and keep working on it."
+    },
+    {
+      "id": 34,
+      "start": 141.27,
+      "end": 144.09,
+      "ts": "02:21.270 -> 02:24.090",
+      "jp": "やっぱりいろいろ試すと",
+      "jp_html": "やっぱりいろいろ<ruby>試す<rt>ためす</rt></ruby>と",
+      "zh": "果然尝试一下各种方法会有所不同",
+      "en": "Sure, I'll try various approaches."
+    },
+    {
+      "id": 35,
+      "start": 144.09,
+      "end": 145.79,
+      "ts": "02:24.090 -> 02:25.790",
+      "jp": "時間がなくなる",
+      "jp_html": "<ruby>時間<rt>じかん</rt></ruby>がなくなる",
+      "zh": "时间没了",
+      "en": "Time is running out."
+    },
+    {
+      "id": 36,
+      "start": 145.79,
+      "end": 147.61,
+      "ts": "02:25.790 -> 02:27.610",
+      "jp": "お金がなくなる",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>がなくなる",
+      "zh": "钱没了",
+      "en": "Money runs out"
+    },
+    {
+      "id": 37,
+      "start": 147.61,
+      "end": 148.45,
+      "ts": "02:27.610 -> 02:28.450",
+      "jp": "なので",
+      "jp_html": "なので",
+      "zh": "所以",
+      "en": "So"
+    },
+    {
+      "id": 38,
+      "start": 148.45,
+      "end": 151.51,
+      "ts": "02:28.450 -> 02:31.510",
+      "jp": "時間とお金は大事ですからね",
+      "jp_html": "<ruby>時間<rt>じかん</rt></ruby>とお<ruby>金<rt>きん</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>ですからね",
+      "zh": "时间与金钱都很重要呢",
+      "en": "Time and money are important, you know?"
+    },
+    {
+      "id": 39,
+      "start": 151.51,
+      "end": 153.29,
+      "ts": "02:31.510 -> 02:33.290",
+      "jp": "両方大事ですよ",
+      "jp_html": "<ruby>両方<rt>りょうほう</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>ですよ",
+      "zh": "两者都重要啊",
+      "en": "Both are important, respectively."
+    },
+    {
+      "id": 40,
+      "start": 153.29,
+      "end": 154.61,
+      "ts": "02:33.290 -> 02:34.610",
+      "jp": "時間とお金",
+      "jp_html": "<ruby>時間<rt>じかん</rt></ruby>とお<ruby>金<rt>きん</rt></ruby>",
+      "zh": "时间与金钱",
+      "en": "Time and money"
+    },
+    {
+      "id": 41,
+      "start": 154.61,
+      "end": 157.49,
+      "ts": "02:34.610 -> 02:37.490",
+      "jp": "時間とお金は大事なので",
+      "jp_html": "<ruby>時間<rt>じかん</rt></ruby>とお<ruby>金<rt>きん</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>なので",
+      "zh": "时间与金钱很重要",
+      "en": "Time and money are important so"
+    },
+    {
+      "id": 42,
+      "start": 157.49,
+      "end": 160.79,
+      "ts": "02:37.490 -> 02:40.790",
+      "jp": "まあ日本語コンテッペがいいんじゃないかな",
+      "jp_html": "まあ<ruby>日本語<rt>にほんご</rt></ruby>コンテッペがいいんじゃないかな",
+      "zh": "maybe 日语口音不错呢",
+      "en": "Maybe the Japanese context is better isn't it?"
+    },
+    {
+      "id": 43,
+      "start": 160.79,
+      "end": 163.87,
+      "ts": "02:40.790 -> 02:43.870",
+      "jp": "お金は無料です",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>は<ruby>無料<rt>むりょう</rt></ruby>です",
+      "zh": "钱是免费的",
+      "en": "The money is free."
+    },
+    {
+      "id": 44,
+      "start": 163.87,
+      "end": 165.25,
+      "ts": "02:43.870 -> 02:45.250",
+      "jp": "お金はかからない",
+      "jp_html": "お<ruby>金<rt>きん</rt></ruby>はかからない",
+      "zh": "不需要花钱",
+      "en": "It's free."
+    },
+    {
+      "id": 45,
+      "start": 165.25,
+      "end": 167.37,
+      "ts": "02:45.250 -> 02:47.370",
+      "jp": "そして時間はね",
+      "jp_html": "そして<ruby>時間<rt>じかん</rt></ruby>はね",
+      "zh": "然后时间是呢",
+      "en": "And time is..."
+    },
+    {
+      "id": 46,
+      "start": 167.37,
+      "end": 168.57,
+      "ts": "02:47.370 -> 02:48.570",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 47,
+      "start": 168.57,
+      "end": 170.57,
+      "ts": "02:48.570 -> 02:50.570",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 48,
+      "start": 170.57,
+      "end": 173.27,
+      "ts": "02:50.570 -> 02:53.270",
+      "jp": "ポッドキャストをたくさん聞くっていうのは",
+      "jp_html": "ポッドキャストをたくさん<ruby>聞く<rt>きく</rt></ruby>っていうのは",
+      "zh": "听很多播客的意思是",
+      "en": "Listening to lots of podcasts is"
+    },
+    {
+      "id": 49,
+      "start": 173.27,
+      "end": 178.17,
+      "ts": "02:53.270 -> 02:58.170",
+      "jp": "掃除をしながら散歩をしながら料理をしながら",
+      "jp_html": "<ruby>掃除<rt>そうじ</rt></ruby>をしながら<ruby>散歩<rt>さんぽ</rt></ruby>をしながら<ruby>料理<rt>りょうり</rt></ruby>をしながら",
+      "zh": "打扫卫生的同时散步的同时做饭的同时",
+      "en": "Cleaning while walking and cooking at the same time"
+    },
+    {
+      "id": 50,
+      "start": 178.17,
+      "end": 180.39,
+      "ts": "02:58.170 -> 03:00.390",
+      "jp": "何かをしながらできるので",
+      "jp_html": "<ruby>何か<rt>なにか</rt></ruby>をしながらできるので",
+      "zh": "可以在做其他事情时进行",
+      "en": "I can do it while doing something else."
+    },
+    {
+      "id": 51,
+      "start": 180.39,
+      "end": 185.03,
+      "ts": "03:00.390 -> 03:05.030",
+      "jp": "時間も無駄じゃないですよね",
+      "jp_html": "<ruby>時間<rt>じかん</rt></ruby>も<ruby>無駄<rt>むだ</rt></ruby>じゃないですよね",
+      "zh": "时间也不白费吧？",
+      "en": "Isn't it also not wasting time?"
+    },
+    {
+      "id": 52,
+      "start": 185.03,
+      "end": 188.49,
+      "ts": "03:05.030 -> 03:08.490",
+      "jp": "ポッドキャストを毎日聞いて",
+      "jp_html": "ポッドキャストを<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞い<rt>きい</rt></ruby>て",
+      "zh": "每天听播客",
+      "en": "I listen to podcasts every day."
+    },
+    {
+      "id": 53,
+      "start": 188.49,
+      "end": 191.95,
+      "ts": "03:08.490 -> 03:11.950",
+      "jp": "勉強をするっていうのがいいんじゃないかな",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>をするっていうのがいいんじゃないかな",
+      "zh": "不是去做功课吗 maybe那是个好主意",
+      "en": "Maybe studying would be good."
+    },
+    {
+      "id": 54,
+      "start": 191.95,
+      "end": 194.83,
+      "ts": "03:11.950 -> 03:14.830",
+      "jp": "もちろん人によっては",
+      "jp_html": "もちろん<ruby>人<rt>にん</rt></ruby>によっては",
+      "zh": "当然因人而异",
+      "en": "Of course, depending on people,"
+    },
+    {
+      "id": 55,
+      "start": 194.83,
+      "end": 197.21,
+      "ts": "03:14.830 -> 03:17.210",
+      "jp": "僕は日本語コンテッペは好きじゃない",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>コンテッペは<ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "我不喜欢日语コンテッペ",
+      "en": "I don't like Japanese pop music."
+    },
+    {
+      "id": 56,
+      "start": 197.21,
+      "end": 200.53,
+      "ts": "03:17.210 -> 03:20.530",
+      "jp": "僕は他のポッドキャストがいいとか",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>他の<rt>ほかの</rt></ruby>ポッドキャストがいいとか",
+      "zh": "我认为其他播客不错",
+      "en": "I think other podcasts are good."
+    },
+    {
+      "id": 57,
+      "start": 200.53,
+      "end": 204.03,
+      "ts": "03:20.530 -> 03:24.030",
+      "jp": "他のYouTubeがいいとか",
+      "jp_html": "<ruby>他の<rt>ほかの</rt></ruby>YouTubeがいいとか",
+      "zh": "别人说其他的YouTube比较好",
+      "en": "Others say that other YouTube is better."
+    },
+    {
+      "id": 58,
+      "start": 204.03,
+      "end": 207.45,
+      "ts": "03:24.030 -> 03:27.450",
+      "jp": "そういう人はもちろん大丈夫ですよ",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>はもちろん<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ",
+      "zh": "当然这样的人都没问题的",
+      "en": "Of course, such people are okay too."
+    },
+    {
+      "id": 59,
+      "start": 207.45,
+      "end": 212.17,
+      "ts": "03:27.450 -> 03:32.170",
+      "jp": "でもやっぱりいろいろ試しすぎない方がいいんじゃないかな",
+      "jp_html": "でもやっぱりいろいろ<ruby>試し<rt>ためし</rt></ruby>すぎない<ruby>方が<rt>ほうが</rt></ruby>いいんじゃないかな",
+      "zh": "但还是不要尝试太多比较好吧",
+      "en": "But maybe it's better not to try too many things, huh?"
+    },
+    {
+      "id": 60,
+      "start": 212.17,
+      "end": 216.91,
+      "ts": "03:32.170 -> 03:36.910",
+      "jp": "いろいろ試すとわからなくなるし疲れますからね",
+      "jp_html": "いろいろ<ruby>試す<rt>ためす</rt></ruby>とわからなくなるし<ruby>疲れ<rt>つかれ</rt></ruby>ますからね",
+      "zh": "尝试多了就会搞不清楚，也会累啊",
+      "en": "Trying lots of things can make it confusing and tiresome, you know?"
+    },
+    {
+      "id": 61,
+      "start": 216.91,
+      "end": 220.35,
+      "ts": "03:36.910 -> 03:40.350",
+      "jp": "たくさん試すと疲れるので",
+      "jp_html": "たくさん<ruby>試す<rt>ためす</rt></ruby>と<ruby>疲れ<rt>つかれ</rt></ruby>るので",
+      "zh": "多试几次就会累",
+      "en": "Trying many things can be tiring."
+    },
+    {
+      "id": 62,
+      "start": 220.35,
+      "end": 223.35,
+      "ts": "03:40.350 -> 03:43.350",
+      "jp": "試しすぎない方がいいと思います",
+      "jp_html": "<ruby>試し<rt>ためし</rt></ruby>すぎない<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为不要过度尝试比较好",
+      "en": "I think it's better not to overdo it."
+    },
+    {
+      "id": 63,
+      "start": 223.35,
+      "end": 227.81,
+      "ts": "03:43.350 -> 03:47.810",
+      "jp": "自分が信じる一つの方法を見つけて",
+      "jp_html": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>信じ<rt>しんじ</rt></ruby>る<ruby>一つ<rt>ひとつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けて",
+      "zh": "找到一个自己相信的方法",
+      "en": "Find one way to believe in."
+    },
+    {
+      "id": 64,
+      "start": 227.81,
+      "end": 231.75,
+      "ts": "03:47.810 -> 03:51.750",
+      "jp": "それを毎日やるのがいいと思う",
+      "jp_html": "それを<ruby>毎日<rt>まいにち</rt></ruby>やるのがいいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "每天做这个我觉得很好",
+      "en": "I think it's good to do that every day."
+    },
+    {
+      "id": 65,
+      "start": 231.75,
+      "end": 233.91,
+      "ts": "03:51.750 -> 03:53.910",
+      "jp": "それが僕からのアドバイスです",
+      "jp_html": "それが<ruby>僕<rt>ぼく</rt></ruby>からのアドバイスです",
+      "zh": "这是我给你的建议",
+      "en": "That is my advice."
+    },
+    {
+      "id": 66,
+      "start": 233.91,
+      "end": 235.67,
+      "ts": "03:53.910 -> 03:55.670",
+      "jp": "今日も頑張っていこう",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>頑張っ<rt>がんばっ</rt></ruby>ていこう",
+      "zh": "今天也要加油",
+      "en": "Let's work hard today too."
+    },
+    {
+      "id": 67,
+      "start": 235.67,
+      "end": 236.41,
+      "ts": "03:55.670 -> 03:56.410",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}
