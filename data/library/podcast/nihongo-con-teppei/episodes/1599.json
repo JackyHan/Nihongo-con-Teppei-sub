@@ -1,0 +1,724 @@
+{
+  "id": "1599",
+  "title": "#1599「リスニングについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1599.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1599.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/14/1599%e3%80%8c%e3%83%aa%e3%82%b9%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.39,
+      "end": 9.92,
+      "ts": "00:01.390 -> 00:09.920",
+      "jp": "今日はリスニングについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>リスニングについて",
+      "zh": "今天关于听力",
+      "en": "Today, about listening."
+    },
+    {
+      "id": 1,
+      "start": 9.92,
+      "end": 12.94,
+      "ts": "00:09.920 -> 00:12.940",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 2,
+      "start": 12.94,
+      "end": 15.2,
+      "ts": "00:12.940 -> 00:15.200",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 3,
+      "start": 15.2,
+      "end": 16.28,
+      "ts": "00:15.200 -> 00:16.280",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 4,
+      "start": 16.28,
+      "end": 23.36,
+      "ts": "00:16.280 -> 00:23.360",
+      "jp": "あの日本語のこの懲戒力ですね",
+      "jp_html": "あの<ruby>日本語<rt>にほんご</rt></ruby>のこの<ruby>懲戒<rt>ちょうかい</rt></ruby><ruby>力<rt>ちから</rt></ruby>ですね",
+      "zh": "那个日语的这种约束力呢",
+      "en": "That power of this disciplinary force in Japanese, huh?"
+    },
+    {
+      "id": 5,
+      "start": 23.36,
+      "end": 26.24,
+      "ts": "00:23.360 -> 00:26.240",
+      "jp": "懲戒リスニングですね",
+      "jp_html": "<ruby>懲戒<rt>ちょうかい</rt></ruby>リスニングですね",
+      "zh": "惩戒听力吧",
+      "en": "It's disciplinary listening, right?"
+    },
+    {
+      "id": 6,
+      "start": 26.24,
+      "end": 27.2,
+      "ts": "00:26.240 -> 00:27.200",
+      "jp": "懲戒",
+      "jp_html": "<ruby>懲戒<rt>ちょうかい</rt></ruby>",
+      "zh": "惩戒",
+      "en": "Discipline"
+    },
+    {
+      "id": 7,
+      "start": 27.2,
+      "end": 30.2,
+      "ts": "00:27.200 -> 00:30.200",
+      "jp": "皆さんは得意ですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>は<ruby>得意<rt>とくい</rt></ruby>ですか",
+      "zh": "您擅长吗？",
+      "en": "Do you excel in this?"
+    },
+    {
+      "id": 8,
+      "start": 30.2,
+      "end": 32.36,
+      "ts": "00:30.200 -> 00:32.360",
+      "jp": "もちろん得意ですよね",
+      "jp_html": "もちろん<ruby>得意<rt>とくい</rt></ruby>ですよね",
+      "zh": "当然很擅长吧",
+      "en": "Of course, you're good at that, right?"
+    },
+    {
+      "id": 9,
+      "start": 32.36,
+      "end": 37.58,
+      "ts": "00:32.360 -> 00:37.580",
+      "jp": "日本語コンテッペを聞いている皆さんは",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>聞い<rt>きい</rt></ruby>ている<ruby>皆さん<rt>みなさん</rt></ruby>は",
+      "zh": "正在听日语播客的各位听众朋友们",
+      "en": "People listening to Japanese contappe are"
+    },
+    {
+      "id": 10,
+      "start": 37.58,
+      "end": 43.16,
+      "ts": "00:37.580 -> 00:43.160",
+      "jp": "懲戒の問題が得意でしょと思ったら",
+      "jp_html": "<ruby>懲戒<rt>ちょうかい</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>でしょと<ruby>思った<rt>おもった</rt></ruby>ら",
+      "zh": "原来你擅长处理惩罚的问题啊",
+      "en": "I thought you were good with disciplinary issues."
+    },
+    {
+      "id": 11,
+      "start": 43.16,
+      "end": 45.76,
+      "ts": "00:43.160 -> 00:45.760",
+      "jp": "やっぱりちょっとそれは違うんですよね",
+      "jp_html": "やっぱりちょっとそれは<ruby>違う<rt>ちがう</rt></ruby>んですよね",
+      "zh": "果然那有一点不一样呢",
+      "en": "It's just a little different, you know?"
+    },
+    {
+      "id": 12,
+      "start": 45.76,
+      "end": 48.14,
+      "ts": "00:45.760 -> 00:48.140",
+      "jp": "わかります",
+      "jp_html": "わかります",
+      "zh": "明白",
+      "en": "Understand"
+    },
+    {
+      "id": 13,
+      "start": 48.14,
+      "end": 53.68,
+      "ts": "00:48.140 -> 00:53.680",
+      "jp": "JLPTの懲戒のセクション",
+      "jp_html": "JLPTの<ruby>懲戒<rt>ちょうかい</rt></ruby>のセクション",
+      "zh": "JLPT的惩戒部分",
+      "en": "The disciplinary section of JLPT"
+    },
+    {
+      "id": 14,
+      "start": 53.68,
+      "end": 58.46,
+      "ts": "00:53.680 -> 00:58.460",
+      "jp": "問題をやってみると全然わからない",
+      "jp_html": "<ruby>問題<rt>もんだい</rt></ruby>をやってみると<ruby>全然<rt>ぜんぜん</rt></ruby>わからない",
+      "zh": "试着做题完全不懂",
+      "en": "Trying to solve the problem, I completely don't understand it."
+    },
+    {
+      "id": 15,
+      "start": 58.46,
+      "end": 62.16,
+      "ts": "00:58.460 -> 01:02.160",
+      "jp": "こういうことがあると思う",
+      "jp_html": "こういうことがあると<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想可能会有这样的事情。",
+      "en": "I think there are times like this."
+    },
+    {
+      "id": 16,
+      "start": 62.16,
+      "end": 67.88,
+      "ts": "01:02.160 -> 01:07.880",
+      "jp": "これはですね、実は懲戒力の問題ではありません。",
+      "jp_html": "これはですね、<ruby>実は<rt>じつは</rt></ruby><ruby>懲戒<rt>ちょうかい</rt></ruby><ruby>力<rt>ちから</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>ではありません。",
+      "zh": "这其实不是关于惩戒权的问题。",
+      "en": "This, in fact, is not a matter of disciplinary power."
+    },
+    {
+      "id": 17,
+      "start": 69.0,
+      "end": 70.52,
+      "ts": "01:09.000 -> 01:10.520",
+      "jp": "心配しないでください。",
+      "jp_html": "<ruby>心配<rt>しんぱい</rt></ruby>しないでください。",
+      "zh": "不要担心。",
+      "en": "Don't worry."
+    },
+    {
+      "id": 18,
+      "start": 71.96,
+      "end": 75.36,
+      "ts": "01:11.960 -> 01:15.360",
+      "jp": "日本語コンテッペを毎日聞いている皆さんの",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞い<rt>きい</rt></ruby>ている<ruby>皆さん<rt>みなさん</rt></ruby>の",
+      "zh": "每天听日语播音的各位听众",
+      "en": "People who are listening to Japanese podcasts every day"
+    },
+    {
+      "id": 19,
+      "start": 75.36,
+      "end": 79.54,
+      "ts": "01:15.360 -> 01:19.540",
+      "jp": "懲戒力、リスニングの能力は高いです。",
+      "jp_html": "<ruby>懲戒<rt>ちょうかい</rt></ruby><ruby>力<rt>ちから</rt></ruby>、リスニングの<ruby>能力<rt>のうりょく</rt></ruby>は<ruby>高い<rt>たかい</rt></ruby>です。",
+      "zh": "惩戒力、听力的能力很高。",
+      "en": "The disciplinary power and listening ability are high."
+    },
+    {
+      "id": 20,
+      "start": 80.68,
+      "end": 87.4,
+      "ts": "01:20.680 -> 01:27.400",
+      "jp": "だけどこれがテストになるとね、やっぱりいろいろ違うんですね。",
+      "jp_html": "だけどこれがテストになるとね、やっぱりいろいろ<ruby>違う<rt>ちがう</rt></ruby>んですね。",
+      "zh": "但是这如果是考试的话，果然还是有很多不同的地方呢。",
+      "en": "But when this becomes a test, you know, everything really is different, though."
+    },
+    {
+      "id": 21,
+      "start": 88.7,
+      "end": 90.6,
+      "ts": "01:28.700 -> 01:30.600",
+      "jp": "まずフォーマットが違う。",
+      "jp_html": "まずフォーマットが<ruby>違う<rt>ちがう</rt></ruby>。",
+      "zh": "首先格式不同。",
+      "en": "The format is different first."
+    },
+    {
+      "id": 22,
+      "start": 90.6,
+      "end": 95.98,
+      "ts": "01:30.600 -> 01:35.980",
+      "jp": "なんかこれから2人の人が会話をします",
+      "jp_html": "なんかこれから2<ruby>人<rt>にん</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が<ruby>会話<rt>かいわ</rt></ruby>をします",
+      "zh": "好像接下来会有两个人进行对话。",
+      "en": "Something two people will have a conversation about soon."
+    },
+    {
+      "id": 23,
+      "start": 95.98,
+      "end": 101.28,
+      "ts": "01:35.980 -> 01:41.280",
+      "jp": "それを聞いてその後質問に答えてくださいみたいな",
+      "jp_html": "それを<ruby>聞い<rt>きい</rt></ruby>てその<ruby>後<rt>のち</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>に<ruby>答え<rt>こたえ</rt></ruby>てくださいみたいな",
+      "zh": "听到那个之后，请回答问题吧contiued",
+      "en": "After hearing that, please answer the questions."
+    },
+    {
+      "id": 24,
+      "start": 101.28,
+      "end": 103.92,
+      "ts": "01:41.280 -> 01:43.920",
+      "jp": "ちょっとこう自然じゃない",
+      "jp_html": "ちょっとこう<ruby>自然<rt>しぜん</rt></ruby>じゃない",
+      "zh": "有点不太自然",
+      "en": "It's a bit unnatural."
+    },
+    {
+      "id": 25,
+      "start": 103.92,
+      "end": 108.18,
+      "ts": "01:43.920 -> 01:48.180",
+      "jp": "ちょっと変な問題がたくさん出ます",
+      "jp_html": "ちょっと<ruby>変な<rt>へんな</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>がたくさん<ruby>出ま<rt>でま</rt></ruby>す",
+      "zh": "出现了很多奇怪的问题",
+      "en": "A lot of strange problems come up."
+    },
+    {
+      "id": 26,
+      "start": 108.18,
+      "end": 112.6,
+      "ts": "01:48.180 -> 01:52.600",
+      "jp": "そしていつも違うキャラクターたちが",
+      "jp_html": "そしていつも<ruby>違う<rt>ちがう</rt></ruby>キャラクターたちが",
+      "zh": "然后总是不同的角色们",
+      "en": "And it's always different characters."
+    },
+    {
+      "id": 27,
+      "start": 112.6,
+      "end": 115.2,
+      "ts": "01:52.600 -> 01:55.200",
+      "jp": "いろいろな話をします",
+      "jp_html": "いろいろな<ruby>話<rt>はなし</rt></ruby>をします",
+      "zh": "我们聊很多话题",
+      "en": "We will talk about various things."
+    },
+    {
+      "id": 28,
+      "start": 115.2,
+      "end": 119.64,
+      "ts": "01:55.200 -> 01:59.640",
+      "jp": "いわゆるコンテクストがないというか",
+      "jp_html": "いわゆるコンテクストがないというか",
+      "zh": "所谓的上下文不够吧",
+      "en": "It's kind of lacking context."
+    },
+    {
+      "id": 29,
+      "start": 119.64,
+      "end": 126.84,
+      "ts": "01:59.640 -> 02:06.840",
+      "jp": "ちょっと1つ目の問題2つ目の問題3つ目の問題",
+      "jp_html": "ちょっと1つ<ruby>目の<rt>めの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>2つ<ruby>目の<rt>めの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>3つ<ruby>目の<rt>めの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>",
+      "zh": "稍微第一个问题第二个问题第三个问题",
+      "en": "A little bit of the first problem two problems the third problem"
+    },
+    {
+      "id": 30,
+      "start": 126.84,
+      "end": 129.02,
+      "ts": "02:06.840 -> 02:09.020",
+      "jp": "全部が違うんですね",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>が<ruby>違う<rt>ちがう</rt></ruby>んですね",
+      "zh": "全都不同呢",
+      "en": "Everything is different, isn't it?"
+    },
+    {
+      "id": 31,
+      "start": 129.02,
+      "end": 132.08,
+      "ts": "02:09.020 -> 02:12.080",
+      "jp": "全然違うシチュエーション",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違う<rt>ちがう</rt></ruby>シチュエーション",
+      "zh": "完全不同的情况",
+      "en": "Completely different situation"
+    },
+    {
+      "id": 32,
+      "start": 132.08,
+      "end": 137.06,
+      "ts": "02:12.080 -> 02:17.060",
+      "jp": "そしてそれが次から次にやってくるんですね",
+      "jp_html": "そしてそれが<ruby>次<rt>つぎ</rt></ruby>から<ruby>次に<rt>つぎに</rt></ruby>やってくるんですね",
+      "zh": "然后它们一个接一个地来呢",
+      "en": "And it keeps coming one after another."
+    },
+    {
+      "id": 33,
+      "start": 137.06,
+      "end": 138.8,
+      "ts": "02:17.060 -> 02:18.800",
+      "jp": "はい次の問題です",
+      "jp_html": "はい<ruby>次の<rt>つぎの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>です",
+      "zh": "下一个问题是什么？",
+      "en": "The next problem is."
+    },
+    {
+      "id": 34,
+      "start": 138.8,
+      "end": 140.54,
+      "ts": "02:18.800 -> 02:20.540",
+      "jp": "はい次の問題です",
+      "jp_html": "はい<ruby>次の<rt>つぎの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>です",
+      "zh": "下一个问题是什么？",
+      "en": "The next problem is."
+    },
+    {
+      "id": 35,
+      "start": 140.54,
+      "end": 142.26,
+      "ts": "02:20.540 -> 02:22.260",
+      "jp": "はい次の問題です",
+      "jp_html": "はい<ruby>次の<rt>つぎの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>です",
+      "zh": "下一个问题是什么？",
+      "en": "The next problem is."
+    },
+    {
+      "id": 36,
+      "start": 142.26,
+      "end": 145.54,
+      "ts": "02:22.260 -> 02:25.540",
+      "jp": "ちょっとこう疲れますよね",
+      "jp_html": "ちょっとこう<ruby>疲れ<rt>つかれ</rt></ruby>ますよね",
+      "zh": "稍微感觉有些疲劳吧？",
+      "en": "A little tired, isn't it?"
+    },
+    {
+      "id": 37,
+      "start": 145.54,
+      "end": 148.7,
+      "ts": "02:25.540 -> 02:28.700",
+      "jp": "そして集中ですね",
+      "jp_html": "そして<ruby>集中<rt>しゅうちゅう</rt></ruby>ですね",
+      "zh": "然后就是集中了呢",
+      "en": "And then focus."
+    },
+    {
+      "id": 38,
+      "start": 148.7,
+      "end": 150.36,
+      "ts": "02:28.700 -> 02:30.360",
+      "jp": "集中力の問題",
+      "jp_html": "<ruby>集中力<rt>しゅうちゅうりょく</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>",
+      "zh": "注意力的问题",
+      "en": "Problems with concentration"
+    },
+    {
+      "id": 39,
+      "start": 150.36,
+      "end": 154.18,
+      "ts": "02:30.360 -> 02:34.180",
+      "jp": "やっぱり集中するのは難しいですよね",
+      "jp_html": "やっぱり<ruby>集中<rt>しゅうちゅう</rt></ruby>するのは<ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "果然集中注意力是很难的吧",
+      "en": "It's really difficult to concentrate, isn't it?"
+    },
+    {
+      "id": 40,
+      "start": 154.18,
+      "end": 155.66,
+      "ts": "02:34.180 -> 02:35.660",
+      "jp": "1時間",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "1小时",
+      "en": "One hour"
+    },
+    {
+      "id": 41,
+      "start": 155.66,
+      "end": 157.84,
+      "ts": "02:35.660 -> 02:37.840",
+      "jp": "はい次の問題",
+      "jp_html": "はい<ruby>次の<rt>つぎの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>",
+      "zh": "好的下一个问题",
+      "en": "Yes next problem"
+    },
+    {
+      "id": 42,
+      "start": 157.84,
+      "end": 159.34,
+      "ts": "02:37.840 -> 02:39.340",
+      "jp": "はい次の問題",
+      "jp_html": "はい<ruby>次の<rt>つぎの</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>",
+      "zh": "好的下一个问题",
+      "en": "Yes next problem"
+    },
+    {
+      "id": 43,
+      "start": 159.34,
+      "end": 164.82,
+      "ts": "02:39.340 -> 02:44.820",
+      "jp": "1時間の間ずっと集中するのは難しいですよね",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>の<ruby>間<rt>かん</rt></ruby>ずっと<ruby>集中<rt>しゅうちゅう</rt></ruby>するのは<ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "一小时一直集中注意力很难吧",
+      "en": "It's difficult to concentrate for an hour, isn't it?"
+    },
+    {
+      "id": 44,
+      "start": 164.82,
+      "end": 167.9,
+      "ts": "02:44.820 -> 02:47.900",
+      "jp": "僕もよくわかります",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>もよくわかります",
+      "zh": "我也能理解",
+      "en": "I also understand well."
+    },
+    {
+      "id": 45,
+      "start": 167.9,
+      "end": 170.76,
+      "ts": "02:47.900 -> 02:50.760",
+      "jp": "大人になって集中力が",
+      "jp_html": "<ruby>大人<rt>おとな</rt></ruby>になって<ruby>集中力<rt>しゅうちゅうりょく</rt></ruby>が",
+      "zh": "长大后注意力变得",
+      "en": "As an adult, concentration has become"
+    },
+    {
+      "id": 46,
+      "start": 170.76,
+      "end": 173.16,
+      "ts": "02:50.760 -> 02:53.160",
+      "jp": "なんかなくなった気がする",
+      "jp_html": "なんかなくなった<ruby>気が<rt>きが</rt></ruby>する",
+      "zh": "感觉好像少了些什么",
+      "en": "I feel like something is missing."
+    },
+    {
+      "id": 47,
+      "start": 173.16,
+      "end": 178.01,
+      "ts": "02:53.160 -> 02:58.010",
+      "jp": "子供の時とか中学生の時",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>時<rt>とき</rt></ruby>とか<ruby>中学生<rt>ちゅうがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "孩子时候或者初中时候",
+      "en": "When I was a child or in middle school"
+    },
+    {
+      "id": 48,
+      "start": 178.01,
+      "end": 183.77,
+      "ts": "02:58.010 -> 03:03.770",
+      "jp": "高校生の時は1時間のテスト2時間のテスト3時間のテスト",
+      "jp_html": "<ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は1<ruby>時間<rt>じかん</rt></ruby>のテスト2<ruby>時間<rt>じかん</rt></ruby>のテスト3<ruby>時間<rt>じかん</rt></ruby>のテスト",
+      "zh": "高中时有一小时的考试两小时的考试三小时的考试",
+      "en": "In high school, there was a one-hour test, a two-hour test, and a three-hour test."
+    },
+    {
+      "id": 49,
+      "start": 183.77,
+      "end": 186.21,
+      "ts": "03:03.770 -> 03:06.210",
+      "jp": "なんか問題なかった気がする",
+      "jp_html": "なんか<ruby>問題<rt>もんだい</rt></ruby>なかった<ruby>気が<rt>きが</rt></ruby>する",
+      "zh": "感觉没什么问题",
+      "en": "I feel like there weren't any problems."
+    },
+    {
+      "id": 50,
+      "start": 186.21,
+      "end": 192.93,
+      "ts": "03:06.210 -> 03:12.930",
+      "jp": "でも最近は1時間集中することがちょっと難しいですよね",
+      "jp_html": "でも<ruby>最近<rt>さいきん</rt></ruby>は1<ruby>時間<rt>じかん</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby>することがちょっと<ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "但最近集中一小时都挺难的吧",
+      "en": "But lately, it's a bit difficult to concentrate for an hour, isn't it?"
+    },
+    {
+      "id": 51,
+      "start": 192.93,
+      "end": 194.93,
+      "ts": "03:12.930 -> 03:14.930",
+      "jp": "わかります",
+      "jp_html": "わかります",
+      "zh": "明白",
+      "en": "Understand"
+    },
+    {
+      "id": 52,
+      "start": 194.93,
+      "end": 200.79,
+      "ts": "03:14.930 -> 03:20.790",
+      "jp": "だから皆さんのリスニングはいい",
+      "jp_html": "だから<ruby>皆さん<rt>みなさん</rt></ruby>のリスニングはいい",
+      "zh": "所以大家的听力不错",
+      "en": "So everyone's listening is good."
+    },
+    {
+      "id": 53,
+      "start": 200.79,
+      "end": 206.33,
+      "ts": "03:20.790 -> 03:26.330",
+      "jp": "だけどJLPTとかのリスニングテストは",
+      "jp_html": "だけどJLPTとかのリスニングテストは",
+      "zh": "但是 JLPT 或者听力测试是",
+      "en": "But tests like the JLPT listening test are"
+    },
+    {
+      "id": 54,
+      "start": 206.33,
+      "end": 209.61,
+      "ts": "03:26.330 -> 03:29.610",
+      "jp": "ちょっと特別な練習をしなければいけません",
+      "jp_html": "ちょっと<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>練習<rt>れんしゅう</rt></ruby>をしなければいけません",
+      "zh": "我需要做一些特别的练习",
+      "en": "I need to do a special practice."
+    },
+    {
+      "id": 55,
+      "start": 209.61,
+      "end": 215.57,
+      "ts": "03:29.610 -> 03:35.570",
+      "jp": "やっぱりJLPTのリスニングの練習をしなければいけない",
+      "jp_html": "やっぱりJLPTのリスニングの<ruby>練習<rt>れんしゅう</rt></ruby>をしなければいけない",
+      "zh": "果然需要再练习一下JLPT的听力试题",
+      "en": "I really need to practice the listening for the JLPT."
+    },
+    {
+      "id": 56,
+      "start": 215.57,
+      "end": 218.17,
+      "ts": "03:35.570 -> 03:38.170",
+      "jp": "JLPTの教科書を買って",
+      "jp_html": "JLPTの<ruby>教科書<rt>きょうかしょ</rt></ruby>を<ruby>買っ<rt>かっ</rt></ruby>て",
+      "zh": "买来 JLPT 的教科书",
+      "en": "Buy a JLPT textbook"
+    },
+    {
+      "id": 57,
+      "start": 218.17,
+      "end": 223.31,
+      "ts": "03:38.170 -> 03:43.310",
+      "jp": "たくさんたくさんたくさん練習をしなければいけません",
+      "jp_html": "たくさんたくさんたくさん<ruby>練習<rt>れんしゅう</rt></ruby>をしなければいけません",
+      "zh": "我们必须得多练习才行",
+      "en": "I need to practice a lot, lots, and lots."
+    },
+    {
+      "id": 58,
+      "start": 223.31,
+      "end": 227.49,
+      "ts": "03:43.310 -> 03:47.490",
+      "jp": "なのでまあそうですね",
+      "jp_html": "なのでまあそうですね",
+      "zh": "所以嗯这样吧",
+      "en": "So, well, that's right."
+    },
+    {
+      "id": 59,
+      "start": 227.49,
+      "end": 232.27,
+      "ts": "03:47.490 -> 03:52.270",
+      "jp": "普通の時は日本語コンテッペを毎日聞けば",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞け<rt>きけ</rt></ruby>ば",
+      "zh": "普通的时候，每天听日语广播就能",
+      "en": "On normal days, listening to Japanese podcasts daily would help."
+    },
+    {
+      "id": 60,
+      "start": 232.27,
+      "end": 233.81,
+      "ts": "03:52.270 -> 03:53.810",
+      "jp": "リスニングは良くなります",
+      "jp_html": "リスニングは<ruby>良く<rt>よく</rt></ruby>なります",
+      "zh": "听力会变好",
+      "en": "Listening will improve"
+    },
+    {
+      "id": 61,
+      "start": 233.81,
+      "end": 240.79,
+      "ts": "03:53.810 -> 04:00.790",
+      "jp": "だけどテストはやっぱりテストのための勉強をしなければいけない",
+      "jp_html": "だけどテストはやっぱりテストのための<ruby>勉強<rt>べんきょう</rt></ruby>をしなければいけない",
+      "zh": "但是考试还是要为考试而学习",
+      "en": "But you still need to study for the test for the test."
+    },
+    {
+      "id": 62,
+      "start": 240.79,
+      "end": 242.43,
+      "ts": "04:00.790 -> 04:02.430",
+      "jp": "そういうことですね",
+      "jp_html": "そういうことですね",
+      "zh": "就是这样吧",
+      "en": "That's right, I see."
+    },
+    {
+      "id": 63,
+      "start": 242.43,
+      "end": 251.57,
+      "ts": "04:02.430 -> 04:11.570",
+      "jp": "もし皆さんが日本語コンテッペイフォービギナーズは簡単すぎると思うのであれば",
+      "jp_html": "もし<ruby>皆さん<rt>みなさん</rt></ruby>が<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイフォービギナーズは<ruby>簡単<rt>かんたん</rt></ruby>すぎると<ruby>思う<rt>おもう</rt></ruby>のであれば",
+      "zh": "如果大家觉得日语初级听力太简单的话",
+      "en": "If you all find Japanese for Beginners too easy,"
+    },
+    {
+      "id": 64,
+      "start": 252.29,
+      "end": 256.37,
+      "ts": "04:12.290 -> 04:16.370",
+      "jp": "日本語コンテッペイシリーズには上級者のための",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイシリーズには<ruby>上級者<rt>じょうきゅうしゃ</rt></ruby>のための",
+      "zh": "日语conteppe系列包括高级用法",
+      "en": "The Japanese Contempo series includes advanced-level materials for"
+    },
+    {
+      "id": 65,
+      "start": 256.37,
+      "end": 262.37,
+      "ts": "04:16.370 -> 04:22.370",
+      "jp": "ハーとかZとかあとはノリコさんとかキミちゃんとか",
+      "jp_html": "ハーとかZとかあとはノリコさんとかキミちゃんとか",
+      "zh": "ハー或者Z还有ノリコ小姐或者キミ酱",
+      "en": "Haa or Z or then Noriko-san or Kimichan or"
+    },
+    {
+      "id": 66,
+      "start": 262.37,
+      "end": 265.63,
+      "ts": "04:22.370 -> 04:25.630",
+      "jp": "そういう会話もたくさんあるので",
+      "jp_html": "そういう<ruby>会話<rt>かいわ</rt></ruby>もたくさんあるので",
+      "zh": "所以也有很多这样的对话",
+      "en": "So many conversations like that also exist."
+    },
+    {
+      "id": 67,
+      "start": 265.63,
+      "end": 268.69,
+      "ts": "04:25.630 -> 04:28.690",
+      "jp": "いろいろ聞いてみてください",
+      "jp_html": "いろいろ<ruby>聞い<rt>きい</rt></ruby>てみてください",
+      "zh": "请多咨询一下",
+      "en": "Please ask various things."
+    },
+    {
+      "id": 68,
+      "start": 268.69,
+      "end": 271.87,
+      "ts": "04:28.690 -> 04:31.870",
+      "jp": "というわけでリスニングは大事です",
+      "jp_html": "というわけでリスニングは<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "因此听力很重要",
+      "en": "Therefore, listening is important."
+    },
+    {
+      "id": 69,
+      "start": 271.87,
+      "end": 273.17,
+      "ts": "04:31.870 -> 04:33.170",
+      "jp": "毎日聞いてください",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请每天听一听。",
+      "en": "Please listen every day."
+    },
+    {
+      "id": 70,
+      "start": 273.17,
+      "end": 273.97,
+      "ts": "04:33.170 -> 04:33.970",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}
