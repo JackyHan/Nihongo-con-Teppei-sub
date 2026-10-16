@@ -1,5 +1,17 @@
 [
   {
+    "id": "1600",
+    "title": "#1600「Nihongo con Teppei For Beginners 1600回、おめでとう！！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/10/16/1600%e3%80%8cnihongo-con-teppei-for-beginners-1600%e5%9b%9e%e3%80%81%e3%81%8a%e3%82%81%e3%81%a7%e3%81%a8%e3%81%86%ef%bc%81%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1600.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1600.json"
+  },
+  {
     "id": "1599",
     "title": "#1599「リスニングについて！」",
     "category_id": "podcast",
