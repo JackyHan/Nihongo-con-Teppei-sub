@@ -1,0 +1,1204 @@
+{
+  "id": "1601",
+  "title": "#1601「ボキャブラリーについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1601.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1601.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/18/1601%e3%80%8c%e3%83%9c%e3%82%ad%e3%83%a3%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.68,
+      "end": 3.52,
+      "ts": "00:01.680 -> 00:03.520",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 3.52,
+      "end": 8.24,
+      "ts": "00:03.520 -> 00:08.240",
+      "jp": "今日はボキャブラリーについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ボキャブラリーについて",
+      "zh": "今天关于词汇量的话题",
+      "en": "Today about vocabulary"
+    },
+    {
+      "id": 2,
+      "start": 8.24,
+      "end": 11.32,
+      "ts": "00:08.240 -> 00:11.320",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 11.32,
+      "end": 13.6,
+      "ts": "00:11.320 -> 00:13.600",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语播音的时间吧",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 13.6,
+      "end": 15.08,
+      "ts": "00:13.600 -> 00:15.080",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 15.08,
+      "end": 20.0,
+      "ts": "00:15.080 -> 00:20.000",
+      "jp": "今日はボキャブラリーについてですね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ボキャブラリーについてですね",
+      "zh": "今天关于词汇量的话题",
+      "en": "Today we're talking about vocabulary."
+    },
+    {
+      "id": 6,
+      "start": 20.0,
+      "end": 27.3,
+      "ts": "00:20.000 -> 00:27.300",
+      "jp": "たくさんの人からこういう質問をもらいます",
+      "jp_html": "たくさんの<ruby>人<rt>にん</rt></ruby>からこういう<ruby>質問<rt>しつもん</rt></ruby>をもらいます",
+      "zh": "我经常收到很多人的这种提问",
+      "en": "I receive such questions from many people."
+    },
+    {
+      "id": 7,
+      "start": 27.3,
+      "end": 38.04,
+      "ts": "00:27.300 -> 00:38.040",
+      "jp": "先生覚えたボキャブラリー覚えた単語をすぐに忘れてしまうんですけど",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby><ruby>覚え<rt>おぼえ</rt></ruby>たボキャブラリー<ruby>覚え<rt>おぼえ</rt></ruby>た<ruby>単語<rt>たんご</rt></ruby>をすぐに<ruby>忘れ<rt>わすれ</rt></ruby>てしまうんですけど",
+      "zh": "先生记住的词汇记住的单词很快就忘掉了不过",
+      "en": "The vocabulary I learned as a teacher quickly forgets it though"
+    },
+    {
+      "id": 8,
+      "start": 38.04,
+      "end": 40.1,
+      "ts": "00:38.040 -> 00:40.100",
+      "jp": "どうしたらいいですか",
+      "jp_html": "どうしたらいいですか",
+      "zh": "该怎么办好呢？",
+      "en": "What should I do?"
+    },
+    {
+      "id": 9,
+      "start": 40.1,
+      "end": 44.58,
+      "ts": "00:40.100 -> 00:44.580",
+      "jp": "まあねわかりますよ",
+      "jp_html": "まあねわかりますよ",
+      "zh": "嗯，我能理解。",
+      "en": "Well, I understand."
+    },
+    {
+      "id": 10,
+      "start": 44.58,
+      "end": 47.56,
+      "ts": "00:44.580 -> 00:47.560",
+      "jp": "やっぱりそれは普通ですね",
+      "jp_html": "やっぱりそれは<ruby>普通<rt>ふつう</rt></ruby>ですね",
+      "zh": "果然那才是正常的吧",
+      "en": "Yeah, that's normal, right?"
+    },
+    {
+      "id": 11,
+      "start": 47.56,
+      "end": 52.46,
+      "ts": "00:47.560 -> 00:52.460",
+      "jp": "一度覚えたことをすぐに忘れてしまう",
+      "jp_html": "<ruby>一度<rt>いちど</rt></ruby><ruby>覚え<rt>おぼえ</rt></ruby>たことをすぐに<ruby>忘れ<rt>わすれ</rt></ruby>てしまう",
+      "zh": "一旦记住了很快就会忘记",
+      "en": "I tend to forget things I've learned quickly."
+    },
+    {
+      "id": 12,
+      "start": 52.46,
+      "end": 54.56,
+      "ts": "00:52.460 -> 00:54.560",
+      "jp": "これは普通ですよ",
+      "jp_html": "これは<ruby>普通<rt>ふつう</rt></ruby>ですよ",
+      "zh": "这是正常的。",
+      "en": "This is normal."
+    },
+    {
+      "id": 13,
+      "start": 54.56,
+      "end": 59.22,
+      "ts": "00:54.560 -> 00:59.220",
+      "jp": "例えば僕も映画を見てね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>も<ruby>映画<rt>えいが</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>ね",
+      "zh": "比如我也去看电影呢",
+      "en": "For example, I also watch movies."
+    },
+    {
+      "id": 14,
+      "start": 59.22,
+      "end": 66.48,
+      "ts": "00:59.220 -> 01:06.480",
+      "jp": "新しい映画の監督とか女優とか俳優とか",
+      "jp_html": "<ruby>新しい<rt>あたらしい</rt></ruby><ruby>映画<rt>えいが</rt></ruby>の<ruby>監督<rt>かんとく</rt></ruby>とか<ruby>女優<rt>じょゆう</rt></ruby>とか<ruby>俳優<rt>はいゆう</rt></ruby>とか",
+      "zh": "新电影的导演或者女演员或者男演员",
+      "en": "The directors, actresses, or actors of the new movie"
+    },
+    {
+      "id": 15,
+      "start": 66.48,
+      "end": 70.58,
+      "ts": "01:06.480 -> 01:10.580",
+      "jp": "名前をすぐに忘れてしまいますね",
+      "jp_html": "<ruby>名前<rt>なまえ</rt></ruby>をすぐに<ruby>忘れ<rt>わすれ</rt></ruby>てしまいますね",
+      "zh": "名字我总是记不住呢",
+      "en": "I tend to forget names right away, doesn't it?"
+    },
+    {
+      "id": 16,
+      "start": 70.58,
+      "end": 74.2,
+      "ts": "01:10.580 -> 01:14.200",
+      "jp": "あの人は誰だったかなとか全然思い出せない",
+      "jp_html": "あの<ruby>人<rt>にん</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>だったかなとか<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>思い出せ<rt>おもいだせ</rt></ruby>ない",
+      "zh": "那个人是谁完全不记得了",
+      "en": "I can't really remember who that person was at all."
+    },
+    {
+      "id": 17,
+      "start": 74.2,
+      "end": 82.51,
+      "ts": "01:14.200 -> 01:22.510",
+      "jp": "だけど何度も何度も何度も見たり聞いたりすれば",
+      "jp_html": "だけど<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>見た<rt>みた</rt></ruby>り<ruby>聞い<rt>きい</rt></ruby>たりすれば",
+      "zh": "但是多次多次多次看过听过就能",
+      "en": "But if you see it or hear it many, many times"
+    },
+    {
+      "id": 18,
+      "start": 82.51,
+      "end": 85.01,
+      "ts": "01:22.510 -> 01:25.010",
+      "jp": "まあ思い出せます",
+      "jp_html": "まあ<ruby>思い出せ<rt>おもいだせ</rt></ruby>ます",
+      "zh": "嗯，记得。",
+      "en": "Well, I can remember that."
+    },
+    {
+      "id": 19,
+      "start": 85.01,
+      "end": 88.27,
+      "ts": "01:25.010 -> 01:28.270",
+      "jp": "クリストファーノーランとかね",
+      "jp_html": "クリストファーノーランとかね",
+      "zh": "克里斯托弗·诺兰或者",
+      "en": "Christopher Nolan 或者"
+    },
+    {
+      "id": 20,
+      "start": 88.27,
+      "end": 91.39,
+      "ts": "01:28.270 -> 01:31.390",
+      "jp": "何度も何度もクリストファーノーラン",
+      "jp_html": "<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>もクリストファーノーラン",
+      "zh": "反复多次克里斯托弗·诺兰",
+      "en": "Christopher Nolan multiple times"
+    },
+    {
+      "id": 21,
+      "start": 91.39,
+      "end": 92.59,
+      "ts": "01:31.390 -> 01:32.590",
+      "jp": "クリストファーノーラン",
+      "jp_html": "クリストファーノーラン",
+      "zh": "克里斯托弗·诺兰",
+      "en": "Christopher Nolan"
+    },
+    {
+      "id": 22,
+      "start": 92.59,
+      "end": 95.55,
+      "ts": "01:32.590 -> 01:35.550",
+      "jp": "そう話していれば覚えられます",
+      "jp_html": "そう<ruby>話し<rt>はなし</rt></ruby>ていれば<ruby>覚え<rt>おぼえ</rt></ruby>られます",
+      "zh": "这样说着就能记住了",
+      "en": "The more you talk about it, the better you will remember it."
+    },
+    {
+      "id": 23,
+      "start": 95.55,
+      "end": 98.57,
+      "ts": "01:35.550 -> 01:38.570",
+      "jp": "でも1回だとね",
+      "jp_html": "でも1<ruby>回<rt>かい</rt></ruby>だとね",
+      "zh": "但是只一次呢",
+      "en": "But just once, you know?"
+    },
+    {
+      "id": 24,
+      "start": 98.57,
+      "end": 103.01,
+      "ts": "01:38.570 -> 01:43.010",
+      "jp": "ノーラン",
+      "jp_html": "ノーラン",
+      "zh": "诺兰",
+      "en": "Nolan"
+    },
+    {
+      "id": 25,
+      "start": 103.01,
+      "end": 103.83,
+      "ts": "01:43.010 -> 01:43.830",
+      "jp": "ノーラン",
+      "jp_html": "ノーラン",
+      "zh": "诺兰",
+      "en": "Nolan"
+    },
+    {
+      "id": 26,
+      "start": 103.83,
+      "end": 106.05,
+      "ts": "01:43.830 -> 01:46.050",
+      "jp": "なんだっけな",
+      "jp_html": "なんだっけな",
+      "zh": "是啥来着",
+      "en": "I wonder what it was exactly."
+    },
+    {
+      "id": 27,
+      "start": 106.05,
+      "end": 109.13,
+      "ts": "01:46.050 -> 01:49.130",
+      "jp": "クリスなんだっけとかね",
+      "jp_html": "クリスなんだっけとかね",
+      "zh": "叫的是克里斯吧",
+      "en": "Right, what's Chris's name again?"
+    },
+    {
+      "id": 28,
+      "start": 109.13,
+      "end": 111.91,
+      "ts": "01:49.130 -> 01:51.910",
+      "jp": "1回では覚えられない",
+      "jp_html": "1<ruby>回<rt>かい</rt></ruby>では<ruby>覚え<rt>おぼえ</rt></ruby>られない",
+      "zh": "一次记不住",
+      "en": "I can't remember it after one time."
+    },
+    {
+      "id": 29,
+      "start": 111.91,
+      "end": 114.87,
+      "ts": "01:51.910 -> 01:54.870",
+      "jp": "だけど何度も何度もクリストファーノーラン",
+      "jp_html": "だけど<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>もクリストファーノーラン",
+      "zh": "但是克里斯托弗·诺兰反复地",
+      "en": "But multiple times multiple Christopher Nolan"
+    },
+    {
+      "id": 30,
+      "start": 114.87,
+      "end": 118.85,
+      "ts": "01:54.870 -> 01:58.850",
+      "jp": "クリストファーノーラン話をすれば覚えられます",
+      "jp_html": "クリストファーノーラン<ruby>話<rt>はなし</rt></ruby>をすれば<ruby>覚え<rt>おぼえ</rt></ruby>られます",
+      "zh": "说起克里斯托弗·诺兰就能记住",
+      "en": "If I talk about Christopher Nolan, I will remember it."
+    },
+    {
+      "id": 31,
+      "start": 118.85,
+      "end": 121.43,
+      "ts": "01:58.850 -> 02:01.430",
+      "jp": "ボキャブラリーも同じですね",
+      "jp_html": "ボキャブラリーも<ruby>同じ<rt>おなじ</rt></ruby>ですね",
+      "zh": "词汇也是一样的呢",
+      "en": "The vocabulary is the same as well."
+    },
+    {
+      "id": 32,
+      "start": 121.43,
+      "end": 125.21,
+      "ts": "02:01.430 -> 02:05.210",
+      "jp": "何度も何度も使えば覚えられる",
+      "jp_html": "<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>使え<rt>つかえ</rt></ruby>ば<ruby>覚え<rt>おぼえ</rt></ruby>られる",
+      "zh": "多用几次就能记住",
+      "en": "The more you use it, the more you will remember it."
+    },
+    {
+      "id": 33,
+      "start": 125.21,
+      "end": 128.73,
+      "ts": "02:05.210 -> 02:08.730",
+      "jp": "何度も何度も聞けば覚えられます",
+      "jp_html": "<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>聞け<rt>きけ</rt></ruby>ば<ruby>覚え<rt>おぼえ</rt></ruby>られます",
+      "zh": "多听几次就能记住了",
+      "en": "The more you hear it, the better you'll remember it."
+    },
+    {
+      "id": 34,
+      "start": 128.73,
+      "end": 133.87,
+      "ts": "02:08.730 -> 02:13.870",
+      "jp": "なので1回で覚えるっていうのは無理ですね",
+      "jp_html": "なので1<ruby>回<rt>かい</rt></ruby>で<ruby>覚え<rt>おぼえ</rt></ruby>るっていうのは<ruby>無理<rt>むり</rt></ruby>ですね",
+      "zh": "所以一次记住它是不可能的呢",
+      "en": "So, it's impossible to memorize it in one go, right?"
+    },
+    {
+      "id": 35,
+      "start": 133.87,
+      "end": 139.97,
+      "ts": "02:13.870 -> 02:19.970",
+      "jp": "普通の人が1つの言葉を覚えるのに",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が1つの<ruby>言葉<rt>ことば</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>るのに",
+      "zh": "普通人记住一个单词需要",
+      "en": "A ordinary person to learn one word takes"
+    },
+    {
+      "id": 36,
+      "start": 139.97,
+      "end": 144.13,
+      "ts": "02:19.970 -> 02:24.130",
+      "jp": "やっぱり20回ぐらいは聞かないとダメらしいですね",
+      "jp_html": "やっぱり20<ruby>回<rt>かい</rt></ruby>ぐらいは<ruby>聞か<rt>きか</rt></ruby>ないとダメらしいですね",
+      "zh": "看来不听个20多次不行呢",
+      "en": "It seems that you need to listen to it around 20 times or so."
+    },
+    {
+      "id": 37,
+      "start": 144.13,
+      "end": 146.91,
+      "ts": "02:24.130 -> 02:26.910",
+      "jp": "1回では覚えられません",
+      "jp_html": "1<ruby>回<rt>かい</rt></ruby>では<ruby>覚え<rt>おぼえ</rt></ruby>られません",
+      "zh": "一次记不住",
+      "en": "I can't remember it after one time."
+    },
+    {
+      "id": 38,
+      "start": 146.91,
+      "end": 148.95,
+      "ts": "02:26.910 -> 02:28.950",
+      "jp": "20回ぐらいは聞いてください",
+      "jp_html": "20<ruby>回<rt>かい</rt></ruby>ぐらいは<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请听20次左右",
+      "en": "Please listen to it about 20 times."
+    },
+    {
+      "id": 39,
+      "start": 148.95,
+      "end": 152.13,
+      "ts": "02:28.950 -> 02:32.130",
+      "jp": "しかもいろいろなコンテクストの中で",
+      "jp_html": "しかもいろいろなコンテクストの<ruby>中<rt>なか</rt></ruby>で",
+      "zh": "而且在各种不同的背景下",
+      "en": "Moreover, in various contexts"
+    },
+    {
+      "id": 40,
+      "start": 152.13,
+      "end": 155.09,
+      "ts": "02:32.130 -> 02:35.090",
+      "jp": "20回ぐらい聞かなければいけない",
+      "jp_html": "20<ruby>回<rt>かい</rt></ruby>ぐらい<ruby>聞か<rt>きか</rt></ruby>なければいけない",
+      "zh": "大概需要听20次才行",
+      "en": "I need to hear it about 20 times."
+    },
+    {
+      "id": 41,
+      "start": 155.09,
+      "end": 157.03,
+      "ts": "02:35.090 -> 02:37.030",
+      "jp": "日本語コンテンペでは",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテンペでは",
+      "zh": "日本语コンテンpe에서는",
+      "en": "Japanese Contemporary"
+    },
+    {
+      "id": 42,
+      "start": 157.03,
+      "end": 161.05,
+      "ts": "02:37.030 -> 02:41.050",
+      "jp": "同じ言葉を何度も何度も使うと思う",
+      "jp_html": "<ruby>同じ<rt>おなじ</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>使う<rt>つかう</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "会觉得重复使用同一个词语",
+      "en": "I think you will repeat the same words over and over."
+    },
+    {
+      "id": 43,
+      "start": 161.05,
+      "end": 164.53,
+      "ts": "02:41.050 -> 02:44.530",
+      "jp": "そして違うコンテクストの中で使うと思う",
+      "jp_html": "そして<ruby>違う<rt>ちがう</rt></ruby>コンテクストの<ruby>中<rt>なか</rt></ruby>で<ruby>使う<rt>つかう</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "然后我想在不同的语境中使用它",
+      "en": "I think I will use it in a different context."
+    },
+    {
+      "id": 44,
+      "start": 164.53,
+      "end": 166.39,
+      "ts": "02:44.530 -> 02:46.390",
+      "jp": "だから効果的なんですよね",
+      "jp_html": "だから<ruby>効果的<rt>こうかてき</rt></ruby>なんですよね",
+      "zh": "所以才有效果呢",
+      "en": "That's why it's effective, right?"
+    },
+    {
+      "id": 45,
+      "start": 166.39,
+      "end": 168.13,
+      "ts": "02:46.390 -> 02:48.130",
+      "jp": "だから効果がある",
+      "jp_html": "だから<ruby>効果<rt>こうか</rt></ruby>がある",
+      "zh": "所以有效",
+      "en": "Therefore, it is effective."
+    },
+    {
+      "id": 46,
+      "start": 168.13,
+      "end": 172.83,
+      "ts": "02:48.130 -> 02:52.830",
+      "jp": "なのでポッドキャストを何回も聞いてください",
+      "jp_html": "なのでポッドキャストを<ruby>何回<rt>なんかい</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "所以请多听几遍这个播客",
+      "en": "So please listen to the podcast several times."
+    },
+    {
+      "id": 47,
+      "start": 172.83,
+      "end": 175.85,
+      "ts": "02:52.830 -> 02:55.850",
+      "jp": "そして話すとき",
+      "jp_html": "そして<ruby>話す<rt>はなす</rt></ruby>とき",
+      "zh": "然后说话时",
+      "en": "And when speaking"
+    },
+    {
+      "id": 48,
+      "start": 175.85,
+      "end": 177.13,
+      "ts": "02:55.850 -> 02:57.130",
+      "jp": "話すときに",
+      "jp_html": "<ruby>話す<rt>はなす</rt></ruby>ときに",
+      "zh": "说话的时候",
+      "en": "when speaking"
+    },
+    {
+      "id": 49,
+      "start": 177.13,
+      "end": 178.51,
+      "ts": "02:57.130 -> 02:58.510",
+      "jp": "あああの言葉",
+      "jp_html": "あああの<ruby>言葉<rt>ことば</rt></ruby>",
+      "zh": "啊，那些话",
+      "en": "Ah those words"
+    },
+    {
+      "id": 50,
+      "start": 178.51,
+      "end": 181.07,
+      "ts": "02:58.510 -> 03:01.070",
+      "jp": "あれなんだっけな",
+      "jp_html": "あれなんだっけな",
+      "zh": "那是啥来着",
+      "en": "What was that again?"
+    },
+    {
+      "id": 51,
+      "start": 181.07,
+      "end": 182.61,
+      "ts": "03:01.070 -> 03:02.610",
+      "jp": "とかね",
+      "jp_html": "とかね",
+      "zh": "或者",
+      "en": "or something"
+    },
+    {
+      "id": 52,
+      "start": 182.61,
+      "end": 185.27,
+      "ts": "03:02.610 -> 03:05.270",
+      "jp": "例えば東京で電車に",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に",
+      "zh": "例如在东京乘坐电车时",
+      "en": "For example, in Tokyo on a train"
+    },
+    {
+      "id": 53,
+      "start": 185.27,
+      "end": 187.39,
+      "ts": "03:05.270 -> 03:07.390",
+      "jp": "乗ったとき間違えました",
+      "jp_html": "<ruby>乗っ<rt>じょうっ</rt></ruby>たとき<ruby>間違え<rt>まちがえ</rt></ruby>ました",
+      "zh": "坐的时候搞错了",
+      "en": "I got off at the wrong stop."
+    },
+    {
+      "id": 54,
+      "start": 187.39,
+      "end": 188.39,
+      "ts": "03:07.390 -> 03:08.390",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 55,
+      "start": 188.39,
+      "end": 190.01,
+      "ts": "03:08.390 -> 03:10.010",
+      "jp": "急行",
+      "jp_html": "<ruby>急行<rt>きゅうこう</rt></ruby>",
+      "zh": "急驶",
+      "en": "Express"
+    },
+    {
+      "id": 56,
+      "start": 190.01,
+      "end": 193.59,
+      "ts": "03:10.010 -> 03:13.590",
+      "jp": "急行ともう一つはなんだったかな",
+      "jp_html": "<ruby>急行<rt>きゅうこう</rt></ruby>ともう<ruby>一つ<rt>ひとつ</rt></ruby>はなんだったかな",
+      "zh": "急行还有另一个是什么呢",
+      "en": "What was the other one for the rush trip?"
+    },
+    {
+      "id": 57,
+      "start": 193.59,
+      "end": 194.33,
+      "ts": "03:13.590 -> 03:14.330",
+      "jp": "とかね",
+      "jp_html": "とかね",
+      "zh": "或者",
+      "en": "or something"
+    },
+    {
+      "id": 58,
+      "start": 194.33,
+      "end": 197.07,
+      "ts": "03:14.330 -> 03:17.070",
+      "jp": "急行とかね",
+      "jp_html": "<ruby>急行<rt>きゅうこう</rt></ruby>とかね",
+      "zh": "急行或者",
+      "en": "Quickly or urgently"
+    },
+    {
+      "id": 59,
+      "start": 197.07,
+      "end": 199.23,
+      "ts": "03:17.070 -> 03:19.230",
+      "jp": "あるでしょ特急電車",
+      "jp_html": "あるでしょ<ruby>特急電車<rt>とっきゅうでんしゃ</rt></ruby>",
+      "zh": "不是还有特快列车吗",
+      "en": "Don't you have a special express train?"
+    },
+    {
+      "id": 60,
+      "start": 199.23,
+      "end": 200.53,
+      "ts": "03:19.230 -> 03:20.530",
+      "jp": "急行電車",
+      "jp_html": "<ruby>急行電車<rt>きゅうこうでんしゃ</rt></ruby>",
+      "zh": "急行列车",
+      "en": "Express train"
+    },
+    {
+      "id": 61,
+      "start": 200.53,
+      "end": 202.71,
+      "ts": "03:20.530 -> 03:22.710",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 62,
+      "start": 202.83,
+      "end": 204.21,
+      "ts": "03:22.830 -> 03:24.210",
+      "jp": "あと純急",
+      "jp_html": "あと<ruby>純<rt>じゅん</rt></ruby><ruby>急<rt>きゅう</rt></ruby>",
+      "zh": "后来紧急",
+      "en": "And then suddenly"
+    },
+    {
+      "id": 63,
+      "start": 204.21,
+      "end": 205.89,
+      "ts": "03:24.210 -> 03:25.890",
+      "jp": "純急行かな",
+      "jp_html": "<ruby>純<rt>じゅん</rt></ruby><ruby>急行<rt>きゅうこう</rt></ruby>かな",
+      "zh": "急行吧",
+      "en": "Hurry up please"
+    },
+    {
+      "id": 64,
+      "start": 205.89,
+      "end": 207.61,
+      "ts": "03:25.890 -> 03:27.610",
+      "jp": "あと各駅停車",
+      "jp_html": "あと<ruby>各駅停車<rt>かくえきていしゃ</rt></ruby>",
+      "zh": "另外，各站停车",
+      "en": "Then each station stop"
+    },
+    {
+      "id": 65,
+      "start": 207.61,
+      "end": 211.05,
+      "ts": "03:27.610 -> 03:31.050",
+      "jp": "忘れますよね",
+      "jp_html": "<ruby>忘れ<rt>わすれ</rt></ruby>ますよね",
+      "zh": "忘记了吧",
+      "en": "Don't you forget?"
+    },
+    {
+      "id": 66,
+      "start": 211.05,
+      "end": 212.57,
+      "ts": "03:31.050 -> 03:32.570",
+      "jp": "各駅停車",
+      "jp_html": "<ruby>各駅停車<rt>かくえきていしゃ</rt></ruby>",
+      "zh": "各站停车",
+      "en": "Stops at all stations"
+    },
+    {
+      "id": 67,
+      "start": 212.57,
+      "end": 213.79,
+      "ts": "03:32.570 -> 03:33.790",
+      "jp": "ローカルのやつですね",
+      "jp_html": "ローカルのやつですね",
+      "zh": "本地的那个人吧",
+      "en": "The local one, right?"
+    },
+    {
+      "id": 68,
+      "start": 213.79,
+      "end": 217.85,
+      "ts": "03:33.790 -> 03:37.850",
+      "jp": "一つずつ停まる電車ですね",
+      "jp_html": "<ruby>一つ<rt>ひとつ</rt></ruby>ずつ<ruby>停ま<rt>とま</rt></ruby>る<ruby>電車<rt>でんしゃ</rt></ruby>ですね",
+      "zh": "一辆接一辆停下来的火车吧",
+      "en": "It's a train that stops one by one, right?"
+    },
+    {
+      "id": 69,
+      "start": 217.85,
+      "end": 220.01,
+      "ts": "03:37.850 -> 03:40.010",
+      "jp": "各駅停車",
+      "jp_html": "<ruby>各駅停車<rt>かくえきていしゃ</rt></ruby>",
+      "zh": "各站停车",
+      "en": "Stops at all stations"
+    },
+    {
+      "id": 70,
+      "start": 220.01,
+      "end": 221.71,
+      "ts": "03:40.010 -> 03:41.710",
+      "jp": "でもこういうのを",
+      "jp_html": "でもこういうのを",
+      "zh": "但是这种东西",
+      "en": "But this kind of thing"
+    },
+    {
+      "id": 71,
+      "start": 221.71,
+      "end": 223.35,
+      "ts": "03:41.710 -> 03:43.350",
+      "jp": "やっぱりいろいろなところで",
+      "jp_html": "やっぱりいろいろなところで",
+      "zh": "果然在各种地方",
+      "en": "Anyway, in various places"
+    },
+    {
+      "id": 72,
+      "start": 223.35,
+      "end": 224.85,
+      "ts": "03:43.350 -> 03:44.850",
+      "jp": "何度も何度も聞けば",
+      "jp_html": "<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>聞け<rt>きけ</rt></ruby>ば",
+      "zh": "一遍遍地听",
+      "en": "The more you hear it, the better."
+    },
+    {
+      "id": 73,
+      "start": 224.85,
+      "end": 227.35,
+      "ts": "03:44.850 -> 03:47.350",
+      "jp": "思い出すことができるようになります",
+      "jp_html": "<ruby>思い出す<rt>おもいだす</rt></ruby>ことができるようになります",
+      "zh": "我可以重新回忆起来",
+      "en": "I will be able to remember it."
+    },
+    {
+      "id": 74,
+      "start": 227.35,
+      "end": 230.65,
+      "ts": "03:47.350 -> 03:50.650",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 75,
+      "start": 230.65,
+      "end": 232.09,
+      "ts": "03:50.650 -> 03:52.090",
+      "jp": "何て言うかな",
+      "jp_html": "<ruby>何て<rt>なんて</rt></ruby><ruby>言う<rt>いう</rt></ruby>かな",
+      "zh": "该怎么说呢",
+      "en": "What should I say?"
+    },
+    {
+      "id": 76,
+      "start": 232.09,
+      "end": 238.49,
+      "ts": "03:52.090 -> 03:58.490",
+      "jp": "まもなく東京行き各駅停車が参ります",
+      "jp_html": "まもなく<ruby>東京行<rt>とうきょういき</rt></ruby>き<ruby>各駅停車<rt>かくえきていしゃ</rt></ruby>が<ruby>参り<rt>まいり</rt></ruby>ます",
+      "zh": "不久将有东京方向的各站停车列车到达",
+      "en": "The local train for Tokyo will be arriving soon."
+    },
+    {
+      "id": 77,
+      "start": 238.49,
+      "end": 240.81,
+      "ts": "03:58.490 -> 04:00.810",
+      "jp": "8番線各駅停車",
+      "jp_html": "8<ruby>番線<rt>ばんせん</rt></ruby><ruby>各駅停車<rt>かくえきていしゃ</rt></ruby>",
+      "zh": "8号线各站停车",
+      "en": "Line 8 stops at all stations"
+    },
+    {
+      "id": 78,
+      "start": 240.81,
+      "end": 243.29,
+      "ts": "04:00.810 -> 04:03.290",
+      "jp": "8番線各駅停車が参ります",
+      "jp_html": "8<ruby>番線<rt>ばんせん</rt></ruby><ruby>各駅停車<rt>かくえきていしゃ</rt></ruby>が<ruby>参り<rt>まいり</rt></ruby>ます",
+      "zh": "8号线各站停车",
+      "en": "The 8-line local train will stop at all stations."
+    },
+    {
+      "id": 79,
+      "start": 243.29,
+      "end": 248.19,
+      "ts": "04:03.290 -> 04:08.190",
+      "jp": "黄色い線の内側に立ってお待ちくださいませ",
+      "jp_html": "<ruby>黄色い<rt>きいろい</rt></ruby><ruby>線<rt>せん</rt></ruby>の<ruby>内側<rt>うちがわ</rt></ruby>に<ruby>立っ<rt>たっ</rt></ruby>てお<ruby>待ち<rt>まち</rt></ruby>くださいませ",
+      "zh": "请站在黄色线内等候",
+      "en": "Please wait inside the yellow line."
+    },
+    {
+      "id": 80,
+      "start": 248.19,
+      "end": 253.43,
+      "ts": "04:08.190 -> 04:13.430",
+      "jp": "まもなく三鷹行き急行電車が",
+      "jp_html": "まもなく<ruby>三鷹<rt>みたか</rt></ruby><ruby>行き<rt>いき</rt></ruby><ruby>急行電車<rt>きゅうこうでんしゃ</rt></ruby>が",
+      "zh": "不久将有开往三鹰的快速列车",
+      "en": "The rapid train to Shimoyama is about to depart."
+    },
+    {
+      "id": 81,
+      "start": 253.43,
+      "end": 256.41,
+      "ts": "04:13.430 -> 04:16.410",
+      "jp": "9番線急行電車参ります",
+      "jp_html": "9<ruby>番線<rt>ばんせん</rt></ruby><ruby>急行電車<rt>きゅうこうでんしゃ</rt></ruby><ruby>参り<rt>まいり</rt></ruby>ます",
+      "zh": "第9号线快车来了",
+      "en": "I will board the 9th line express train."
+    },
+    {
+      "id": 82,
+      "start": 256.41,
+      "end": 260.63,
+      "ts": "04:16.410 -> 04:20.630",
+      "jp": "毎日毎日聞けば思い出しますよ",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>聞け<rt>きけ</rt></ruby>ば<ruby>思い出し<rt>おもいだし</rt></ruby>ますよ",
+      "zh": "天天听就能想起来呀",
+      "en": "The more I hear it every day, the more I will remember."
+    },
+    {
+      "id": 83,
+      "start": 260.63,
+      "end": 262.09,
+      "ts": "04:20.630 -> 04:22.090",
+      "jp": "覚えますよ",
+      "jp_html": "<ruby>覚え<rt>おぼえ</rt></ruby>ますよ",
+      "zh": "我会记住的",
+      "en": "I will remember."
+    },
+    {
+      "id": 84,
+      "start": 262.09,
+      "end": 263.63,
+      "ts": "04:22.090 -> 04:23.630",
+      "jp": "山手線",
+      "jp_html": "<ruby>山手線<rt>やまのてせん</rt></ruby>",
+      "zh": "山手线",
+      "en": "Shinjuku Line"
+    },
+    {
+      "id": 85,
+      "start": 263.63,
+      "end": 264.67,
+      "ts": "04:23.630 -> 04:24.670",
+      "jp": "山手線です",
+      "jp_html": "<ruby>山手線<rt>やまのてせん</rt></ruby>です",
+      "zh": "山手线",
+      "en": "It's the Mountain Line."
+    },
+    {
+      "id": 86,
+      "start": 264.67,
+      "end": 266.09,
+      "ts": "04:24.670 -> 04:26.090",
+      "jp": "山手線内側",
+      "jp_html": "<ruby>山手線内<rt>やまてせんない</rt></ruby><ruby>側<rt>がわ</rt></ruby>",
+      "zh": "内侧的山手线",
+      "en": "Inside the Shinjuku Outer Line"
+    },
+    {
+      "id": 87,
+      "start": 266.09,
+      "end": 269.01,
+      "ts": "04:26.090 -> 04:29.010",
+      "jp": "山手線内回り",
+      "jp_html": "<ruby>山手線内<rt>やまてせんない</rt></ruby><ruby>回り<rt>まわり</rt></ruby>",
+      "zh": "山手线内环",
+      "en": "Inner Circle of Shinjuku Line"
+    },
+    {
+      "id": 88,
+      "start": 269.01,
+      "end": 270.43,
+      "ts": "04:29.010 -> 04:30.430",
+      "jp": "渋谷行きです",
+      "jp_html": "<ruby>渋谷<rt>しぶや</rt></ruby><ruby>行き<rt>いき</rt></ruby>です",
+      "zh": "去涩谷",
+      "en": "It's going to Shibuya."
+    },
+    {
+      "id": 89,
+      "start": 270.43,
+      "end": 272.29,
+      "ts": "04:30.430 -> 04:32.290",
+      "jp": "まもなく参ります",
+      "jp_html": "まもなく<ruby>参り<rt>まいり</rt></ruby>ます",
+      "zh": "马上就来",
+      "en": "I will arrive soon."
+    },
+    {
+      "id": 90,
+      "start": 272.29,
+      "end": 274.15,
+      "ts": "04:32.290 -> 04:34.150",
+      "jp": "山手線は",
+      "jp_html": "<ruby>山手線<rt>やまのてせん</rt></ruby>は",
+      "zh": "山手线是",
+      "en": "The Mountain Hand Line is"
+    },
+    {
+      "id": 91,
+      "start": 274.15,
+      "end": 276.77,
+      "ts": "04:34.150 -> 04:36.770",
+      "jp": "急行とか各駅とか",
+      "jp_html": "<ruby>急行<rt>きゅうこう</rt></ruby>とか<ruby>各駅<rt>かくえき</rt></ruby>とか",
+      "zh": "急行或各站停",
+      "en": "Express or停靠所有车站"
+    },
+    {
+      "id": 92,
+      "start": 276.77,
+      "end": 277.59,
+      "ts": "04:36.770 -> 04:37.590",
+      "jp": "ないですね",
+      "jp_html": "ないですね",
+      "zh": "没有吧",
+      "en": "There isn't any, is there?"
+    },
+    {
+      "id": 93,
+      "start": 277.59,
+      "end": 281.17,
+      "ts": "04:37.590 -> 04:41.170",
+      "jp": "なんか山手線の人こういう声ですね",
+      "jp_html": "なんか<ruby>山手線<rt>やまのてせん</rt></ruby>の<ruby>人<rt>にん</rt></ruby>こういう<ruby>声<rt>こえ</rt></ruby>ですね",
+      "zh": "好像山手线那边的人声音是这样的",
+      "en": "Some people have this kind of voice on the Mountain Line."
+    },
+    {
+      "id": 94,
+      "start": 281.17,
+      "end": 283.15,
+      "ts": "04:41.170 -> 04:43.150",
+      "jp": "まもなく山手線",
+      "jp_html": "まもなく<ruby>山手線<rt>やまのてせん</rt></ruby>",
+      "zh": "即将开通山手线",
+      "en": "The山手线will be departing soon"
+    },
+    {
+      "id": 95,
+      "start": 283.15,
+      "end": 284.43,
+      "ts": "04:43.150 -> 04:44.430",
+      "jp": "内側",
+      "jp_html": "<ruby>内側<rt>うちがわ</rt></ruby>",
+      "zh": "内侧",
+      "en": "inside"
+    },
+    {
+      "id": 96,
+      "start": 284.43,
+      "end": 287.13,
+      "ts": "04:44.430 -> 04:47.130",
+      "jp": "内回り外回り",
+      "jp_html": "<ruby>内回<rt>ないかい</rt></ruby>り<ruby>外回り<rt>そとまわり</rt></ruby>",
+      "zh": "内侧绕行 外侧绕行",
+      "en": "Inside circuit Outside circuit"
+    },
+    {
+      "id": 97,
+      "start": 287.13,
+      "end": 289.21,
+      "ts": "04:47.130 -> 04:49.210",
+      "jp": "ですよね確かね",
+      "jp_html": "ですよね<ruby>確か<rt>たしか</rt></ruby>ね",
+      "zh": "确实呢",
+      "en": "Right, surely?"
+    },
+    {
+      "id": 98,
+      "start": 289.21,
+      "end": 291.13,
+      "ts": "04:49.210 -> 04:51.130",
+      "jp": "山梨線外回り",
+      "jp_html": "<ruby>山梨<rt>やまなし</rt></ruby><ruby>線外<rt>せんがい</rt></ruby><ruby>回り<rt>まわり</rt></ruby>",
+      "zh": "山梨线外圈",
+      "en": "Yamanote Line outer loop"
+    },
+    {
+      "id": 99,
+      "start": 291.13,
+      "end": 292.95,
+      "ts": "04:51.130 -> 04:52.950",
+      "jp": "池袋行きまいります",
+      "jp_html": "<ruby>池袋<rt>いけぶくろ</rt></ruby><ruby>行き<rt>いき</rt></ruby>まいります",
+      "zh": "前往池袋",
+      "en": "I'm going to Ikebukuro."
+    },
+    {
+      "id": 100,
+      "start": 292.95,
+      "end": 297.53,
+      "ts": "04:52.950 -> 04:57.530",
+      "jp": "危ないですから黄色い線の内側でお待ちくださいませ",
+      "jp_html": "<ruby>危ない<rt>あぶない</rt></ruby>ですから<ruby>黄色い<rt>きいろい</rt></ruby><ruby>線<rt>せん</rt></ruby>の<ruby>内側<rt>うちがわ</rt></ruby>でお<ruby>待ち<rt>まち</rt></ruby>くださいませ",
+      "zh": "请在黄色线内等待，注意安全",
+      "en": "Please wait inside the yellow line as it is dangerous."
+    },
+    {
+      "id": 101,
+      "start": 297.53,
+      "end": 300.98,
+      "ts": "04:57.530 -> 05:00.980",
+      "jp": "まもなく",
+      "jp_html": "まもなく",
+      "zh": "即将",
+      "en": "Almostmediately"
+    },
+    {
+      "id": 102,
+      "start": 300.98,
+      "end": 303.76,
+      "ts": "05:00.980 -> 05:03.760",
+      "jp": "てててててててててててててて",
+      "jp_html": "てててててててててててててて",
+      "zh": "滴滴滴滴滴滴滴滴滴",
+      "en": "te te te te te te te te te te te"
+    },
+    {
+      "id": 103,
+      "start": 303.76,
+      "end": 304.74,
+      "ts": "05:03.760 -> 05:04.740",
+      "jp": "まもなく",
+      "jp_html": "まもなく",
+      "zh": "即将",
+      "en": "Almostmediately"
+    },
+    {
+      "id": 104,
+      "start": 304.74,
+      "end": 307.7,
+      "ts": "05:04.740 -> 05:07.700",
+      "jp": "なんかそういう声ですよね",
+      "jp_html": "なんかそういう<ruby>声<rt>こえ</rt></ruby>ですよね",
+      "zh": "就是那种声音吧？",
+      "en": "It's kind of that sort of voice, huh?"
+    },
+    {
+      "id": 105,
+      "start": 307.7,
+      "end": 308.52,
+      "ts": "05:07.700 -> 05:08.520",
+      "jp": "まもなく",
+      "jp_html": "まもなく",
+      "zh": "即将",
+      "en": "Almost immediately"
+    },
+    {
+      "id": 106,
+      "start": 308.52,
+      "end": 311.82,
+      "ts": "05:08.520 -> 05:11.820",
+      "jp": "横浜行き",
+      "jp_html": "<ruby>横浜<rt>よこはま</rt></ruby><ruby>行き<rt>いき</rt></ruby>",
+      "zh": "前往横滨",
+      "en": "Yokohama-bound"
+    },
+    {
+      "id": 107,
+      "start": 311.82,
+      "end": 313.7,
+      "ts": "05:11.820 -> 05:13.700",
+      "jp": "特急電車がまいります",
+      "jp_html": "<ruby>特急電車<rt>とっきゅうでんしゃ</rt></ruby>がまいります",
+      "zh": "特急电车将到来",
+      "en": "The special express train is coming."
+    },
+    {
+      "id": 108,
+      "start": 313.7,
+      "end": 316.2,
+      "ts": "05:13.700 -> 05:16.200",
+      "jp": "そういう感じで",
+      "jp_html": "そういう<ruby>感じ<rt>かんじ</rt></ruby>で",
+      "zh": "就是这种感觉",
+      "en": "That's kind of how it feels."
+    },
+    {
+      "id": 109,
+      "start": 316.2,
+      "end": 318.26,
+      "ts": "05:16.200 -> 05:18.260",
+      "jp": "まあ何回も聞けば大丈夫です",
+      "jp_html": "まあ<ruby>何回<rt>なんかい</rt></ruby>も<ruby>聞け<rt>きけ</rt></ruby>ば<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "多听几次就没问题了",
+      "en": "It's okay to ask several times."
+    },
+    {
+      "id": 110,
+      "start": 318.26,
+      "end": 319.94,
+      "ts": "05:18.260 -> 05:19.940",
+      "jp": "何度も何度も聞いてください",
+      "jp_html": "<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请多次多听几次",
+      "en": "Please hear it many times."
+    },
+    {
+      "id": 111,
+      "start": 319.94,
+      "end": 322.38,
+      "ts": "05:19.940 -> 05:22.380",
+      "jp": "何度も何度も聞けば",
+      "jp_html": "<ruby>何度<rt>なんど</rt></ruby>も<ruby>何度<rt>なんど</rt></ruby>も<ruby>聞け<rt>きけ</rt></ruby>ば",
+      "zh": "一遍遍地听",
+      "en": "The more you hear it, the better."
+    },
+    {
+      "id": 112,
+      "start": 322.38,
+      "end": 325.06,
+      "ts": "05:22.380 -> 05:25.060",
+      "jp": "新しいボキャブラリー",
+      "jp_html": "<ruby>新しい<rt>あたらしい</rt></ruby>ボキャブラリー",
+      "zh": "新的词汇",
+      "en": "new vocabulary"
+    },
+    {
+      "id": 113,
+      "start": 325.06,
+      "end": 326.58,
+      "ts": "05:25.060 -> 05:26.580",
+      "jp": "覚えられます",
+      "jp_html": "<ruby>覚え<rt>おぼえ</rt></ruby>られます",
+      "zh": "记得",
+      "en": "Can you remember?"
+    },
+    {
+      "id": 114,
+      "start": 326.58,
+      "end": 329.82,
+      "ts": "05:26.580 -> 05:29.820",
+      "jp": "日本語コンテッペを何回も聞いてください",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>何回<rt>なんかい</rt></ruby>も<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请多次听日语conteppe",
+      "en": "Please listen to the Japanese pronunciation multiple times."
+    },
+    {
+      "id": 115,
+      "start": 329.82,
+      "end": 331.52,
+      "ts": "05:29.820 -> 05:31.520",
+      "jp": "何回も真似してください",
+      "jp_html": "<ruby>何回<rt>なんかい</rt></ruby>も<ruby>真似<rt>まね</rt></ruby>してください",
+      "zh": "请多加练习",
+      "en": "Please try it several times."
+    },
+    {
+      "id": 116,
+      "start": 331.52,
+      "end": 334.5,
+      "ts": "05:31.520 -> 05:34.500",
+      "jp": "間もなく何回もね",
+      "jp_html": "<ruby>間<rt>かん</rt></ruby>もなく<ruby>何回<rt>なんかい</rt></ruby>もね",
+      "zh": "不久将多次",
+      "en": "Almost immediately several times"
+    },
+    {
+      "id": 117,
+      "start": 334.5,
+      "end": 336.22,
+      "ts": "05:34.500 -> 05:36.220",
+      "jp": "真似してください",
+      "jp_html": "<ruby>真似<rt>まね</rt></ruby>してください",
+      "zh": "真的请'user'帮忙",
+      "en": "Please mimic that."
+    },
+    {
+      "id": 118,
+      "start": 336.22,
+      "end": 339.0,
+      "ts": "05:36.220 -> 05:39.000",
+      "jp": "それではもとね",
+      "jp_html": "それではもとね",
+      "zh": "那么也是乃",
+      "en": "Then, Tomune"
+    }
+  ]
+}
