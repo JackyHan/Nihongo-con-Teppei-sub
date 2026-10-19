@@ -1,0 +1,824 @@
+{
+  "id": "1602",
+  "title": "#1602「会話の自信がないと言うことについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1602.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1602.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/19/1602%e3%80%8c%e4%bc%9a%e8%a9%b1%e3%81%ae%e8%87%aa%e4%bf%a1%e3%81%8c%e3%81%aa%e3%81%84%e3%81%a8%e8%a8%80%e3%81%86%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.2,
+      "end": 2.64,
+      "ts": "00:01.200 -> 00:02.640",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.64,
+      "end": 9.84,
+      "ts": "00:02.640 -> 00:09.840",
+      "jp": "今日は会話の自信がないことについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>がないことについて",
+      "zh": "今天关于对话缺乏自信的事情",
+      "en": "Today, I'm talking about not having confidence in conversations."
+    },
+    {
+      "id": 2,
+      "start": 9.84,
+      "end": 12.5,
+      "ts": "00:09.840 -> 00:12.500",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 3,
+      "start": 12.5,
+      "end": 14.96,
+      "ts": "00:12.500 -> 00:14.960",
+      "jp": "日本語コンテッペ雨ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペ<ruby>雨<rt>あめ</rt></ruby>ですね",
+      "zh": "日语天气预报下雨呢",
+      "en": "Japanese context it's raining, huh?"
+    },
+    {
+      "id": 4,
+      "start": 14.96,
+      "end": 16.78,
+      "ts": "00:14.960 -> 00:16.780",
+      "jp": "ちょっと雨が降ってるな",
+      "jp_html": "ちょっと<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てるな",
+      "zh": "有点下雨呢",
+      "en": "It's raining a little bit, isn't it?"
+    },
+    {
+      "id": 5,
+      "start": 16.78,
+      "end": 20.12,
+      "ts": "00:16.780 -> 00:20.120",
+      "jp": "まあまあ大丈夫ですね",
+      "jp_html": "まあまあ<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですね",
+      "zh": "还行，没问题吧？",
+      "en": "It's okay, things are fine."
+    },
+    {
+      "id": 6,
+      "start": 20.12,
+      "end": 21.92,
+      "ts": "00:20.120 -> 00:21.920",
+      "jp": "たまには雨が降り",
+      "jp_html": "たまには<ruby>雨<rt>あめ</rt></ruby>が<ruby>降り<rt>おり</rt></ruby>",
+      "zh": "偶尔会下雨",
+      "en": "Sometimes it rains."
+    },
+    {
+      "id": 7,
+      "start": 21.92,
+      "end": 23.58,
+      "ts": "00:21.920 -> 00:23.580",
+      "jp": "たまには曇り",
+      "jp_html": "たまには<ruby>曇り<rt>くもり</rt></ruby>",
+      "zh": "偶尔阴天",
+      "en": "Sometimes it's cloudy"
+    },
+    {
+      "id": 8,
+      "start": 23.58,
+      "end": 25.08,
+      "ts": "00:23.580 -> 00:25.080",
+      "jp": "たまには晴れる",
+      "jp_html": "たまには<ruby>晴れ<rt>はれ</rt></ruby>る",
+      "zh": "偶尔会晴天",
+      "en": "Sometimes it clears up."
+    },
+    {
+      "id": 9,
+      "start": 25.08,
+      "end": 27.4,
+      "ts": "00:25.080 -> 00:27.400",
+      "jp": "それがまあ天気ですね",
+      "jp_html": "それがまあ<ruby>天気<rt>てんき</rt></ruby>ですね",
+      "zh": "那倒是天气呢",
+      "en": "That's kind of the weather, though."
+    },
+    {
+      "id": 10,
+      "start": 27.4,
+      "end": 30.94,
+      "ts": "00:27.400 -> 00:30.940",
+      "jp": "モチベーションもたまには上がり",
+      "jp_html": "モチベーションもたまには<ruby>上が<rt>あが</rt></ruby>り",
+      "zh": "有时动力也会提升",
+      "en": "Motivation also sometimes rises."
+    },
+    {
+      "id": 11,
+      "start": 30.94,
+      "end": 33.54,
+      "ts": "00:30.940 -> 00:33.540",
+      "jp": "たまには下がりたまには普通",
+      "jp_html": "たまには<ruby>下が<rt>さが</rt></ruby>りたまには<ruby>普通<rt>ふつう</rt></ruby>",
+      "zh": "有时低一点有时正常",
+      "en": "Sometimes down sometimes regular"
+    },
+    {
+      "id": 12,
+      "start": 33.54,
+      "end": 39.92,
+      "ts": "00:33.540 -> 00:39.920",
+      "jp": "それが日本語の勉強の人生ですね",
+      "jp_html": "それが<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>ですね",
+      "zh": "这就是学习日语的一生吧",
+      "en": "That's the life of studying Japanese, huh?"
+    },
+    {
+      "id": 13,
+      "start": 39.92,
+      "end": 42.38,
+      "ts": "00:39.920 -> 00:42.380",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 14,
+      "start": 42.38,
+      "end": 45.24,
+      "ts": "00:42.380 -> 00:45.240",
+      "jp": "今やる気がありますか",
+      "jp_html": "<ruby>今や<rt>いまや</rt></ruby>る<ruby>気が<rt>きが</rt></ruby>ありますか",
+      "zh": "你现在有干劲吗？",
+      "en": "Do you have the motivation now?"
+    },
+    {
+      "id": 15,
+      "start": 45.24,
+      "end": 46.74,
+      "ts": "00:45.240 -> 00:46.740",
+      "jp": "やる気がないですか",
+      "jp_html": "やる<ruby>気が<rt>きが</rt></ruby>ないですか",
+      "zh": "你没有精神吗？",
+      "en": "Don't you have any energy?"
+    },
+    {
+      "id": 16,
+      "start": 46.74,
+      "end": 51.14,
+      "ts": "00:46.740 -> 00:51.140",
+      "jp": "とりあえず日本語コンテッペでも聞いてみようと",
+      "jp_html": "とりあえず<ruby>日本語<rt>にほんご</rt></ruby>コンテッペでも<ruby>聞い<rt>きい</rt></ruby>てみようと",
+      "zh": "暂时试试用日语问一下",
+      "en": "Let's try asking in Japanese first."
+    },
+    {
+      "id": 17,
+      "start": 51.14,
+      "end": 55.68,
+      "ts": "00:51.140 -> 00:55.680",
+      "jp": "いつものようにポッドキャストを再生して",
+      "jp_html": "いつものようにポッドキャストを<ruby>再生<rt>さいせい</rt></ruby>して",
+      "zh": "像往常一样播放播客",
+      "en": "Play the podcast as usual."
+    },
+    {
+      "id": 18,
+      "start": 55.68,
+      "end": 57.18,
+      "ts": "00:55.680 -> 00:57.180",
+      "jp": "ありがとうございます",
+      "jp_html": "ありがとうございます",
+      "zh": "谢谢",
+      "en": "Thank you"
+    },
+    {
+      "id": 19,
+      "start": 57.18,
+      "end": 60.49,
+      "ts": "00:57.180 -> 01:00.490",
+      "jp": "一緒に頑張りましょう",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>頑張り<rt>がんばり</rt></ruby>ましょう",
+      "zh": "一起加油吧",
+      "en": "Let's work hard together."
+    },
+    {
+      "id": 20,
+      "start": 60.49,
+      "end": 68.91,
+      "ts": "01:00.490 -> 01:08.910",
+      "jp": "今日のトピックですけど会話の自信がないということについてですね",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>のトピックですけど<ruby>会話<rt>かいわ</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>がないということについてですね",
+      "zh": "今天的主题是关于对话缺乏自信这个问题",
+      "en": "Today's topic is about not having confidence in conversations."
+    },
+    {
+      "id": 21,
+      "start": 68.91,
+      "end": 75.73,
+      "ts": "01:08.910 -> 01:15.730",
+      "jp": "たくさんの生徒さんからそういうことを聞きますね",
+      "jp_html": "たくさんの<ruby>生徒<rt>せいと</rt></ruby>さんからそういうことを<ruby>聞き<rt>きき</rt></ruby>ますね",
+      "zh": "我经常听到很多学生这么说。",
+      "en": "I hear such things from many students, you know."
+    },
+    {
+      "id": 22,
+      "start": 75.73,
+      "end": 83.59,
+      "ts": "01:15.730 -> 01:23.590",
+      "jp": "先生僕は聞くのは結構大丈夫になってきたんですけど",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>聞く<rt>きく</rt></ruby>のは<ruby>結構<rt>けっこう</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>になってきたんですけど",
+      "zh": "先生我听懂的越来越多啦",
+      "en": "Teacher I'm getting more comfortable with listening now."
+    },
+    {
+      "id": 23,
+      "start": 83.59,
+      "end": 86.63,
+      "ts": "01:23.590 -> 01:26.630",
+      "jp": "話す自信が全くありません",
+      "jp_html": "<ruby>話す<rt>はなす</rt></ruby><ruby>自信<rt>じしん</rt></ruby>が<ruby>全く<rt>まったく</rt></ruby>ありません",
+      "zh": "完全没有说话的自信",
+      "en": "I have no confidence at all in speaking."
+    },
+    {
+      "id": 24,
+      "start": 86.63,
+      "end": 92.93,
+      "ts": "01:26.630 -> 01:32.930",
+      "jp": "僕はそれを聞いてそれは普通ですよ",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>それを<ruby>聞い<rt>きい</rt></ruby>てそれは<ruby>普通<rt>ふつう</rt></ruby>ですよ",
+      "zh": "我听到那句话，觉得这很平常。",
+      "en": "I heard that and it's normal."
+    },
+    {
+      "id": 25,
+      "start": 92.93,
+      "end": 94.71,
+      "ts": "01:32.930 -> 01:34.710",
+      "jp": "心配しないでください",
+      "jp_html": "<ruby>心配<rt>しんぱい</rt></ruby>しないでください",
+      "zh": "不要担心",
+      "en": "Don't worry about it."
+    },
+    {
+      "id": 26,
+      "start": 94.71,
+      "end": 96.95,
+      "ts": "01:34.710 -> 01:36.950",
+      "jp": "少しずつ慣れます",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>慣れ<rt>なれ</rt></ruby>ます",
+      "zh": "逐渐习惯下来",
+      "en": "I gradually get used to it."
+    },
+    {
+      "id": 27,
+      "start": 96.95,
+      "end": 100.29,
+      "ts": "01:36.950 -> 01:40.290",
+      "jp": "としか言えないんですけど",
+      "jp_html": "としか<ruby>言え<rt>いえ</rt></ruby>ないんですけど",
+      "zh": "我只能说这么多",
+      "en": "I can't say anything else but"
+    },
+    {
+      "id": 28,
+      "start": 100.29,
+      "end": 105.89,
+      "ts": "01:40.290 -> 01:45.890",
+      "jp": "本当に自信がないっていうのは仕方がないですよね",
+      "jp_html": "<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>自信<rt>じしん</rt></ruby>がないっていうのは<ruby>仕方<rt>しかた</rt></ruby>がないですよね",
+      "zh": "真的没有自信也是没办法吧？",
+      "en": "It's understandable that you don't have much confidence, isn't it?"
+    },
+    {
+      "id": 29,
+      "start": 105.89,
+      "end": 109.71,
+      "ts": "01:45.890 -> 01:49.710",
+      "jp": "まずはそれは大丈夫です",
+      "jp_html": "まずはそれは<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "首先那是没问题的",
+      "en": "First, that is okay."
+    },
+    {
+      "id": 30,
+      "start": 109.71,
+      "end": 111.21,
+      "ts": "01:49.710 -> 01:51.210",
+      "jp": "それは普通です",
+      "jp_html": "それは<ruby>普通<rt>ふつう</rt></ruby>です",
+      "zh": "这是正常的。",
+      "en": "That is ordinary."
+    },
+    {
+      "id": 31,
+      "start": 111.21,
+      "end": 115.11,
+      "ts": "01:51.210 -> 01:55.110",
+      "jp": "やっぱり経験がないからね",
+      "jp_html": "やっぱり<ruby>経験<rt>けいけん</rt></ruby>がないからね",
+      "zh": "果然因为没有经验啊",
+      "en": "That's because you don't have any experience, right?"
+    },
+    {
+      "id": 32,
+      "start": 115.11,
+      "end": 120.01,
+      "ts": "01:55.110 -> 02:00.010",
+      "jp": "日本語を話すことがあまりないでしょ",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話す<rt>はなす</rt></ruby>ことがあまりないでしょ",
+      "zh": "你不是很少说日语吧",
+      "en": "Don't you speak Japanese very often?"
+    },
+    {
+      "id": 33,
+      "start": 120.01,
+      "end": 124.55,
+      "ts": "02:00.010 -> 02:04.550",
+      "jp": "久しぶりに話す",
+      "jp_html": "<ruby>久し<rt>ひさし</rt></ruby>ぶりに<ruby>話す<rt>はなす</rt></ruby>",
+      "zh": "很久没说话了",
+      "en": "It's been a while since we talked."
+    },
+    {
+      "id": 34,
+      "start": 124.55,
+      "end": 128.87,
+      "ts": "02:04.550 -> 02:08.870",
+      "jp": "例えば僕の生徒さんたちも",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>さんたちも",
+      "zh": "比如我的学生们也",
+      "en": "For example, my students also"
+    },
+    {
+      "id": 35,
+      "start": 128.87,
+      "end": 133.33,
+      "ts": "02:08.870 -> 02:13.330",
+      "jp": "多分1週間に1回僕と話すだけですよね",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>と<ruby>話す<rt>はなす</rt></ruby>だけですよね",
+      "zh": "大概每周和我聊一次吧？",
+      "en": "Probably you talk to me just once a week, right?"
+    },
+    {
+      "id": 36,
+      "start": 133.33,
+      "end": 138.87,
+      "ts": "02:13.330 -> 02:18.870",
+      "jp": "僕以外の人と日本語を話すことはあまりないと思う",
+      "jp_html": "<ruby>僕以外<rt>ぼくいがい</rt></ruby>の<ruby>人<rt>にん</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話す<rt>はなす</rt></ruby>ことはあまりないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我想除了我之外和别人用日语说话的机会不多",
+      "en": "I think I don't talk in Japanese with anyone except for me."
+    },
+    {
+      "id": 37,
+      "start": 138.87,
+      "end": 143.27,
+      "ts": "02:18.870 -> 02:23.270",
+      "jp": "だけど1週間に1回僕と話せば",
+      "jp_html": "だけど1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>と<ruby>話せ<rt>はなせ</rt></ruby>ば",
+      "zh": "但是每周和我聊一次就好了",
+      "en": "But if you could talk to me once a week,"
+    },
+    {
+      "id": 38,
+      "start": 143.27,
+      "end": 145.17,
+      "ts": "02:23.270 -> 02:25.170",
+      "jp": "少しずつ慣れてきます",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>慣れ<rt>なれ</rt></ruby>てきます",
+      "zh": "渐渐习惯起来了",
+      "en": "I gradually get used to it."
+    },
+    {
+      "id": 39,
+      "start": 145.17,
+      "end": 150.37,
+      "ts": "02:25.170 -> 02:30.370",
+      "jp": "なので会話の自信がないというのは",
+      "jp_html": "なので<ruby>会話<rt>かいわ</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>がないというのは",
+      "zh": "所以对话缺乏自信",
+      "en": "So having confidence in conversations is lacking."
+    },
+    {
+      "id": 40,
+      "start": 150.37,
+      "end": 152.75,
+      "ts": "02:30.370 -> 02:32.750",
+      "jp": "当たり前のことなんですけど",
+      "jp_html": "<ruby>当たり前<rt>あたりまえ</rt></ruby>のことなんですけど",
+      "zh": "这是再自然不过的事情",
+      "en": "It's a matter of course."
+    },
+    {
+      "id": 41,
+      "start": 152.75,
+      "end": 156.41,
+      "ts": "02:32.750 -> 02:36.410",
+      "jp": "もし自信をつけたいんだったら",
+      "jp_html": "もし<ruby>自信<rt>じしん</rt></ruby>をつけたいんだったら",
+      "zh": "如果你想要增强自信的话",
+      "en": "If you want to build your confidence,"
+    },
+    {
+      "id": 42,
+      "start": 156.41,
+      "end": 158.91,
+      "ts": "02:36.410 -> 02:38.910",
+      "jp": "やっぱり1週間に1回とか",
+      "jp_html": "やっぱり1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回と<rt>まわと</rt></ruby>か",
+      "zh": "果然是一周一次之类的",
+      "en": "Still, once a week or so."
+    },
+    {
+      "id": 43,
+      "start": 158.91,
+      "end": 161.09,
+      "ts": "02:38.910 -> 02:41.090",
+      "jp": "1週間に2回とか",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に2<ruby>回と<rt>まわと</rt></ruby>か",
+      "zh": "一周两次或者",
+      "en": "Twice a week or so"
+    },
+    {
+      "id": 44,
+      "start": 161.09,
+      "end": 166.59,
+      "ts": "02:41.090 -> 02:46.590",
+      "jp": "先生と話すのが一番いいんじゃないかなと思いますね",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>と<ruby>話す<rt>はなす</rt></ruby>のが<ruby>一番<rt>いちばん</rt></ruby>いいんじゃないかなと<ruby>思い<rt>おもい</rt></ruby>ますね",
+      "zh": "我觉得和先生说话是最好的吧",
+      "en": "I think it would be best to talk to the teacher."
+    },
+    {
+      "id": 45,
+      "start": 166.59,
+      "end": 170.11,
+      "ts": "02:46.590 -> 02:50.110",
+      "jp": "なぜ先生がいいかというと",
+      "jp_html": "なぜ<ruby>先生<rt>せんせい</rt></ruby>がいいかというと",
+      "zh": "为什么老师好是因为",
+      "en": "The reason why the teacher is good is because"
+    },
+    {
+      "id": 46,
+      "start": 170.11,
+      "end": 177.29,
+      "ts": "02:50.110 -> 02:57.290",
+      "jp": "友達とかだとちょっとこう続かない可能性がありますね",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>とかだとちょっとこう<ruby>続か<rt>つづか</rt></ruby>ない<ruby>可能性<rt>かのうせい</rt></ruby>がありますね",
+      "zh": "朋友之间可能会有点不太连续吧",
+      "en": "With friends, it might not continue in this way, you know?"
+    },
+    {
+      "id": 47,
+      "start": 177.29,
+      "end": 185.21,
+      "ts": "02:57.290 -> 03:05.210",
+      "jp": "例えば1週間に1回友達とオンラインで話そうと約束しても",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>1<ruby>週間<rt>しゅうかん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>とオンラインで<ruby>話そ<rt>はなそ</rt></ruby>うと<ruby>約束<rt>やくそく</rt></ruby>しても",
+      "zh": "比如答应每周和朋友在线聊一次",
+      "en": "For example, if you promise to talk online with friends once a week"
+    },
+    {
+      "id": 48,
+      "start": 185.21,
+      "end": 188.75,
+      "ts": "03:05.210 -> 03:08.750",
+      "jp": "なんか少しずつねめんどくさくなって",
+      "jp_html": "なんか<ruby>少し<rt>すこし</rt></ruby>ずつねめんどくさくなって",
+      "zh": "感觉有点渐渐烦了",
+      "en": "It's gradually starting to bother me."
+    },
+    {
+      "id": 49,
+      "start": 188.75,
+      "end": 193.69,
+      "ts": "03:08.750 -> 03:13.690",
+      "jp": "1年間とか続かないことが多いですよね",
+      "jp_html": "1<ruby>年間<rt>ねんかん</rt></ruby>とか<ruby>続か<rt>つづか</rt></ruby>ないことが<ruby>多い<rt>おおい</rt></ruby>ですよね",
+      "zh": "一年左右持续的不多吧",
+      "en": "It often doesn't last for a year, does it?"
+    },
+    {
+      "id": 50,
+      "start": 194.69,
+      "end": 200.01,
+      "ts": "03:14.690 -> 03:20.010",
+      "jp": "もし友達と毎週毎週毎週話ができれば",
+      "jp_html": "もし<ruby>友達<rt>ともだち</rt></ruby>と<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby><ruby>話<rt>はなし</rt></ruby>ができれば",
+      "zh": "如果能每周和朋友聊天就好了",
+      "en": "If I could talk to friends every week every week every week."
+    },
+    {
+      "id": 51,
+      "start": 200.01,
+      "end": 202.09,
+      "ts": "03:20.010 -> 03:22.090",
+      "jp": "それはいいんですけど",
+      "jp_html": "それはいいんですけど",
+      "zh": "那倒是挺好的。",
+      "en": "That's fine."
+    },
+    {
+      "id": 52,
+      "start": 202.09,
+      "end": 206.91,
+      "ts": "03:22.090 -> 03:26.910",
+      "jp": "先生だったら1年とか2年とか3年とかね",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>だったら1<ruby>年<rt>ねん</rt></ruby>とか2<ruby>年<rt>ねん</rt></ruby>とか3<ruby>年<rt>ねん</rt></ruby>とかね",
+      "zh": "如果是先生的话，是一年或者两年或者三年这样的吧",
+      "en": "If I were a teacher, it would be for one year or two years or three years, etc."
+    },
+    {
+      "id": 53,
+      "start": 206.91,
+      "end": 210.01,
+      "ts": "03:26.910 -> 03:30.010",
+      "jp": "続けることは普通は難しくないです",
+      "jp_html": "<ruby>続け<rt>つづけ</rt></ruby>ることは<ruby>普通<rt>ふつう</rt></ruby>は<ruby>難しく<rt>むずかしく</rt></ruby>ないです",
+      "zh": "继续通常不是很难",
+      "en": "Continuing is generally not difficult."
+    },
+    {
+      "id": 54,
+      "start": 210.01,
+      "end": 214.37,
+      "ts": "03:30.010 -> 03:34.370",
+      "jp": "なぜかというと先生を見つけてお金を払って",
+      "jp_html": "なぜかというと<ruby>先生<rt>せんせい</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けてお<ruby>金<rt>きん</rt></ruby>を<ruby>払っ<rt>はらっ</rt></ruby>て",
+      "zh": "之所以是因为找到了老师并付了钱",
+      "en": "Because somehow, I found the teacher and paid them."
+    },
+    {
+      "id": 55,
+      "start": 214.37,
+      "end": 216.99,
+      "ts": "03:34.370 -> 03:36.990",
+      "jp": "毎週毎週話すっていうのは",
+      "jp_html": "<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby><ruby>話す<rt>はなす</rt></ruby>っていうのは",
+      "zh": "每周每周说话是指",
+      "en": "Talking every week every week means"
+    },
+    {
+      "id": 56,
+      "start": 216.99,
+      "end": 219.83,
+      "ts": "03:36.990 -> 03:39.830",
+      "jp": "それは先生の仕事だからね",
+      "jp_html": "それは<ruby>先生<rt>せんせい</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>だからね",
+      "zh": "那是老师的ework",
+      "en": "That's the teacher's job, you know."
+    },
+    {
+      "id": 57,
+      "start": 219.83,
+      "end": 223.29,
+      "ts": "03:39.830 -> 03:43.290",
+      "jp": "友達よりも多分簡単だと思います",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>よりも<ruby>多分<rt>たぶん</rt></ruby><ruby>簡単<rt>かんたん</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得这比朋友更容易",
+      "en": "I think it's probably easier than friends."
+    },
+    {
+      "id": 58,
+      "start": 223.29,
+      "end": 225.01,
+      "ts": "03:43.290 -> 03:45.010",
+      "jp": "問題はお金ですよね",
+      "jp_html": "<ruby>問題<rt>もんだい</rt></ruby>はお<ruby>金<rt>きん</rt></ruby>ですよね",
+      "zh": "问题是钱吧",
+      "en": "The problem is money, right?"
+    },
+    {
+      "id": 59,
+      "start": 225.01,
+      "end": 229.49,
+      "ts": "03:45.010 -> 03:49.490",
+      "jp": "だけどもしお金に問題がない人だったら",
+      "jp_html": "だけどもしお<ruby>金<rt>きん</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>がない<ruby>人<rt>にん</rt></ruby>だったら",
+      "zh": "但是如果有钱的话",
+      "en": "But if there were no issues with money for that person,..."
+    },
+    {
+      "id": 60,
+      "start": 229.49,
+      "end": 234.87,
+      "ts": "03:49.490 -> 03:54.870",
+      "jp": "先生を見つけて毎週毎週話をするというのが",
+      "jp_html": "<ruby>先生<rt>せんせい</rt></ruby>を<ruby>見つ<rt>みつ</rt></ruby>けて<ruby>毎週<rt>まいしゅう</rt></ruby><ruby>毎週<rt>まいしゅう</rt></ruby><ruby>話<rt>はなし</rt></ruby>をするというのが",
+      "zh": "每周找到先生谈话这是",
+      "en": "Finding the teacher and talking to them every week every week."
+    },
+    {
+      "id": 61,
+      "start": 234.87,
+      "end": 240.65,
+      "ts": "03:54.870 -> 04:00.650",
+      "jp": "会話の自信をつけるための一番いい方法と思います",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>をつけるための<ruby>一番<rt>いちばん</rt></ruby>いい<ruby>方法<rt>ほうほう</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为提高对话自信最好的方法是",
+      "en": "I think the best way to build confidence in conversations."
+    },
+    {
+      "id": 62,
+      "start": 240.65,
+      "end": 243.03,
+      "ts": "04:00.650 -> 04:03.030",
+      "jp": "会話の自信がない",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>がない",
+      "zh": "对话缺乏自信",
+      "en": "Lack of confidence in conversations"
+    },
+    {
+      "id": 63,
+      "start": 243.03,
+      "end": 248.51,
+      "ts": "04:03.030 -> 04:08.510",
+      "jp": "そのためにはそれを良くするためには",
+      "jp_html": "そのためにはそれを<ruby>良く<rt>よく</rt></ruby>するためには",
+      "zh": "因此，为了改善它，需要这样做",
+      "en": "For that, it needs to be improved."
+    },
+    {
+      "id": 64,
+      "start": 248.51,
+      "end": 252.47,
+      "ts": "04:08.510 -> 04:12.470",
+      "jp": "会話をするのが一番です",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>をするのが<ruby>一番<rt>いちばん</rt></ruby>です",
+      "zh": "说话是最好的。",
+      "en": "Talking is the best."
+    },
+    {
+      "id": 65,
+      "start": 252.47,
+      "end": 254.05,
+      "ts": "04:12.470 -> 04:14.050",
+      "jp": "会話をしなければいけない",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>をしなければいけない",
+      "zh": "必须进行对话",
+      "en": "I need to have a conversation."
+    },
+    {
+      "id": 66,
+      "start": 254.05,
+      "end": 257.35,
+      "ts": "04:14.050 -> 04:17.350",
+      "jp": "自信がないことはたくさんやって",
+      "jp_html": "<ruby>自信<rt>じしん</rt></ruby>がないことはたくさんやって",
+      "zh": "缺乏自信就多尝试",
+      "en": "Confidence issues can make you try many things"
+    },
+    {
+      "id": 67,
+      "start": 257.35,
+      "end": 261.07,
+      "ts": "04:17.350 -> 04:21.070",
+      "jp": "慣れるしかないですね",
+      "jp_html": "<ruby>慣れ<rt>なれ</rt></ruby>るしかないですね",
+      "zh": "只好慢慢适应吧",
+      "en": "We just have to get used to it, I suppose."
+    },
+    {
+      "id": 68,
+      "start": 261.07,
+      "end": 263.31,
+      "ts": "04:21.070 -> 04:23.310",
+      "jp": "たくさんやれば慣れます",
+      "jp_html": "たくさんやれば<ruby>慣れ<rt>なれ</rt></ruby>ます",
+      "zh": "多练就好了",
+      "en": "The more you do it, the more you'll get used to it."
+    },
+    {
+      "id": 69,
+      "start": 263.31,
+      "end": 265.03,
+      "ts": "04:23.310 -> 04:25.030",
+      "jp": "たくさん会話をすれば",
+      "jp_html": "たくさん<ruby>会話<rt>かいわ</rt></ruby>をすれば",
+      "zh": "多说话就能多练习",
+      "en": "The more conversations you have,"
+    },
+    {
+      "id": 70,
+      "start": 265.03,
+      "end": 267.27,
+      "ts": "04:25.030 -> 04:27.270",
+      "jp": "会話になれます",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>になれます",
+      "zh": "能对话吗？",
+      "en": "Can we have a conversation?"
+    },
+    {
+      "id": 71,
+      "start": 267.27,
+      "end": 269.63,
+      "ts": "04:27.270 -> 04:29.630",
+      "jp": "そうすると自信がつく",
+      "jp_html": "そうすると<ruby>自信<rt>じしん</rt></ruby>がつく",
+      "zh": "这样一来就会建立信心",
+      "en": "Then confidence will be built up"
+    },
+    {
+      "id": 72,
+      "start": 269.63,
+      "end": 273.59,
+      "ts": "04:29.630 -> 04:33.590",
+      "jp": "なので心配しないでください",
+      "jp_html": "なので<ruby>心配<rt>しんぱい</rt></ruby>しないでください",
+      "zh": "所以不要担心",
+      "en": "So please don't worry."
+    },
+    {
+      "id": 73,
+      "start": 273.59,
+      "end": 275.57,
+      "ts": "04:33.590 -> 04:35.570",
+      "jp": "会話の自信がない",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>がない",
+      "zh": "对话缺乏自信",
+      "en": "Lack of confidence in conversations"
+    },
+    {
+      "id": 74,
+      "start": 275.57,
+      "end": 276.99,
+      "ts": "04:35.570 -> 04:36.990",
+      "jp": "それは普通です",
+      "jp_html": "それは<ruby>普通<rt>ふつう</rt></ruby>です",
+      "zh": "这是正常的。",
+      "en": "That is ordinary."
+    },
+    {
+      "id": 75,
+      "start": 276.99,
+      "end": 281.33,
+      "ts": "04:36.990 -> 04:41.330",
+      "jp": "だから少しずつ慣れるように",
+      "jp_html": "だから<ruby>少し<rt>すこし</rt></ruby>ずつ<ruby>慣れ<rt>なれ</rt></ruby>るように",
+      "zh": "所以要慢慢来适应",
+      "en": "So gradually get used to it."
+    },
+    {
+      "id": 76,
+      "start": 281.33,
+      "end": 283.63,
+      "ts": "04:41.330 -> 04:43.630",
+      "jp": "たくさん話してみてください",
+      "jp_html": "たくさん<ruby>話し<rt>はなし</rt></ruby>てみてください",
+      "zh": "多说说看",
+      "en": "Talk a lot and see how it goes."
+    },
+    {
+      "id": 77,
+      "start": 283.63,
+      "end": 286.65,
+      "ts": "04:43.630 -> 04:46.650",
+      "jp": "たくさん話せば会話の自信が",
+      "jp_html": "たくさん<ruby>話せ<rt>はなせ</rt></ruby>ば<ruby>会話<rt>かいわ</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>が",
+      "zh": "多说话就能增加对话的自信",
+      "en": "The more you talk, the more confidence in conversation you will gain."
+    },
+    {
+      "id": 78,
+      "start": 286.65,
+      "end": 288.97,
+      "ts": "04:46.650 -> 04:48.970",
+      "jp": "必ずつくと思います",
+      "jp_html": "<ruby>必ず<rt>かならず</rt></ruby>つくと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "一定会有的吧",
+      "en": "I think it will definitely happen."
+    },
+    {
+      "id": 79,
+      "start": 288.97,
+      "end": 290.41,
+      "ts": "04:48.970 -> 04:50.410",
+      "jp": "それではまた次回",
+      "jp_html": "それではまた<ruby>次回<rt>じかい</rt></ruby>",
+      "zh": "那下次见",
+      "en": "See you next time."
+    },
+    {
+      "id": 80,
+      "start": 290.41,
+      "end": 293.05,
+      "ts": "04:50.410 -> 04:53.050",
+      "jp": "またね",
+      "jp_html": "またね",
+      "zh": "再见",
+      "en": "See you later"
+    }
+  ]
+}
