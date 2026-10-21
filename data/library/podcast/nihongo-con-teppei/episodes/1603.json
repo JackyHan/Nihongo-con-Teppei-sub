@@ -1,0 +1,824 @@
+{
+  "id": "1603",
+  "title": "#1603「やる気、モチベーションの保ち方について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1603.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1603.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/21/1603%e3%80%8c%e3%82%84%e3%82%8b%e6%b0%97%e3%80%81%e3%83%a2%e3%83%81%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e4%bf%9d%e3%81%a1%e6%96%b9%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.36,
+      "end": 2.78,
+      "ts": "00:01.360 -> 00:02.780",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.78,
+      "end": 10.06,
+      "ts": "00:02.780 -> 00:10.060",
+      "jp": "今日はやる気モチベーションの保ち方について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>やる<ruby>気<rt>き</rt></ruby>モチベーションの<ruby>保ち<rt>たもち</rt></ruby><ruby>方<rt>ほう</rt></ruby>について",
+      "zh": "今天关于如何保持积极性和动力的话题",
+      "en": "Today, I will talk about how to maintain motivation and enthusiasm."
+    },
+    {
+      "id": 2,
+      "start": 10.06,
+      "end": 12.62,
+      "ts": "00:10.060 -> 00:12.620",
+      "jp": "はい皆さん元気ですか",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi everyone, are you all okay?"
+    },
+    {
+      "id": 3,
+      "start": 12.62,
+      "end": 14.8,
+      "ts": "00:12.620 -> 00:14.800",
+      "jp": "日本語コンテッペイの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペイの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "这是日语发音的时间吧",
+      "en": "It's time for Japanese conversation practice."
+    },
+    {
+      "id": 4,
+      "start": 14.8,
+      "end": 15.76,
+      "ts": "00:14.800 -> 00:15.760",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 15.76,
+      "end": 21.16,
+      "ts": "00:15.760 -> 00:21.160",
+      "jp": "あのまあやる気とかモチベーションが",
+      "jp_html": "あのまあやる<ruby>気<rt>き</rt></ruby>とかモチベーションが",
+      "zh": "那 maybe 有些动力或者积极性",
+      "en": "That is, my enthusiasm or motivation is"
+    },
+    {
+      "id": 6,
+      "start": 21.16,
+      "end": 26.14,
+      "ts": "00:21.160 -> 00:26.140",
+      "jp": "高かったり低かったりしますよね",
+      "jp_html": "<ruby>高かっ<rt>たかっ</rt></ruby>たり<ruby>低か<rt>ひくか</rt></ruby>ったりしますよね",
+      "zh": "高低不一，对吧？",
+      "en": "They are high sometimes and low sometimes, right?"
+    },
+    {
+      "id": 7,
+      "start": 26.14,
+      "end": 29.22,
+      "ts": "00:26.140 -> 00:29.220",
+      "jp": "たまに朝起きて",
+      "jp_html": "たまに<ruby>朝起き<rt>あさおき</rt></ruby>て",
+      "zh": "有时早上起床",
+      "en": "Sometimes I wake up in the morning"
+    },
+    {
+      "id": 8,
+      "start": 29.22,
+      "end": 33.04,
+      "ts": "00:29.220 -> 00:33.040",
+      "jp": "うわーなんかやる気が出てきたっていう時もあるし",
+      "jp_html": "うわーなんかやる<ruby>気が<rt>きが</rt></ruby><ruby>出て<rt>でて</rt></ruby>きたっていう<ruby>時<rt>とき</rt></ruby>もあるし",
+      "zh": "有时候我会觉得突然有了干劲",
+      "en": "Sometimes I feel like I have a lot of energy and motivation to do something."
+    },
+    {
+      "id": 9,
+      "start": 33.04,
+      "end": 37.2,
+      "ts": "00:33.040 -> 00:37.200",
+      "jp": "朝起きてなんかやる気ねえな",
+      "jp_html": "<ruby>朝起き<rt>あさおき</rt></ruby>てなんかやる<ruby>気ね<rt>きね</rt></ruby>えな",
+      "zh": "早上起来觉得没精神呢",
+      "en": "I don't have any energy to do anything when I wake up."
+    },
+    {
+      "id": 10,
+      "start": 37.2,
+      "end": 41.8,
+      "ts": "00:37.200 -> 00:41.800",
+      "jp": "勉強したくねえなっていう時もあると思います",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>したくねえなっていう<ruby>時<rt>とき</rt></ruby>もあると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "有时候也会不想学习吧",
+      "en": "I also think there are times when you don't feel like studying."
+    },
+    {
+      "id": 11,
+      "start": 41.8,
+      "end": 43.86,
+      "ts": "00:41.800 -> 00:43.860",
+      "jp": "まあ普通ですよね",
+      "jp_html": "まあ<ruby>普通<rt>ふつう</rt></ruby>ですよね",
+      "zh": "嘛，很正常吧？",
+      "en": "Well, that's normal, right?"
+    },
+    {
+      "id": 12,
+      "start": 43.86,
+      "end": 50.22,
+      "ts": "00:43.860 -> 00:50.220",
+      "jp": "じゃあ僕がやる気がない時どうするかというと",
+      "jp_html": "じゃあ<ruby>僕<rt>ぼく</rt></ruby>がやる<ruby>気が<rt>きが</rt></ruby>ない<ruby>時<rt>とき</rt></ruby>どうするかというと",
+      "zh": "那么当我没有动力的时候该怎么办呢？",
+      "en": "Then what do I do when I don't have any motivation?"
+    },
+    {
+      "id": 13,
+      "start": 50.22,
+      "end": 53.88,
+      "ts": "00:50.220 -> 00:53.880",
+      "jp": "まあ例えば外を歩いたりね散歩したりとか",
+      "jp_html": "まあ<ruby>例えば<rt>たとえば</rt></ruby><ruby>外<rt>そと</rt></ruby>を<ruby>歩い<rt>あるい</rt></ruby>たりね<ruby>散歩<rt>さんぽ</rt></ruby>したりとか",
+      "zh": "比如出去走走或者散步之类的",
+      "en": "For example, walking outside or taking a stroll."
+    },
+    {
+      "id": 14,
+      "start": 53.88,
+      "end": 59.5,
+      "ts": "00:53.880 -> 00:59.500",
+      "jp": "コーヒー飲んでチョコレート食べて散歩するとか",
+      "jp_html": "コーヒー<ruby>飲ん<rt>のん</rt></ruby>でチョコレート<ruby>食べて<rt>たべて</rt></ruby><ruby>散歩<rt>さんぽ</rt></ruby>するとか",
+      "zh": "喝咖啡吃巧克力再去散步之类的",
+      "en": "Drink coffee, eat chocolate, and go for a walk."
+    },
+    {
+      "id": 15,
+      "start": 59.5,
+      "end": 65.52,
+      "ts": "00:59.500 -> 01:05.520",
+      "jp": "そういうことをするとやる気がないときもちょっとやる気が出てくる",
+      "jp_html": "そういうことをするとやる<ruby>気が<rt>きが</rt></ruby>ないときもちょっとやる<ruby>気が<rt>きが</rt></ruby><ruby>出て<rt>でて</rt></ruby>くる",
+      "zh": "这样做了的话，即使在没精神的时候也能稍微有点精神。",
+      "en": "Then you might find that it can boost your motivation even when you don't feel like doing anything."
+    },
+    {
+      "id": 16,
+      "start": 65.52,
+      "end": 71.48,
+      "ts": "01:05.520 -> 01:11.480",
+      "jp": "そういうやる気のトリガーみたいなものがあるんだと思います",
+      "jp_html": "そういうやる<ruby>気の<rt>きの</rt></ruby>トリガーみたいなものがあるんだと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为有一种激发积极性的触发器",
+      "en": "I think there's some kind of trigger for that enthusiasm."
+    },
+    {
+      "id": 17,
+      "start": 71.48,
+      "end": 76.44,
+      "ts": "01:11.480 -> 01:16.440",
+      "jp": "みんなね例えばジムに行くとやる気が出てくるとか",
+      "jp_html": "みんなね<ruby>例えば<rt>たとえば</rt></ruby>ジムに<ruby>行く<rt>いく</rt></ruby>とやる<ruby>気が<rt>きが</rt></ruby><ruby>出て<rt>でて</rt></ruby>くるとか",
+      "zh": "比如说去健身房就会有干劲",
+      "en": "Everyone, for example, you might feel more motivated to go to the gym."
+    },
+    {
+      "id": 18,
+      "start": 76.44,
+      "end": 84.94,
+      "ts": "01:16.440 -> 01:24.940",
+      "jp": "友達と会うとやる気が出てくるとか",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>会う<rt>あう</rt></ruby>とやる<ruby>気が<rt>きが</rt></ruby><ruby>出て<rt>でて</rt></ruby>くるとか",
+      "zh": "和朋友见面就会有干劲或者说有动力了",
+      "en": "It seems to boost my motivation when I meet up with friends."
+    },
+    {
+      "id": 19,
+      "start": 84.94,
+      "end": 87.06,
+      "ts": "01:24.940 -> 01:27.060",
+      "jp": "なんかいろいろあるでしょみんな",
+      "jp_html": "なんかいろいろあるでしょみんな",
+      "zh": "各种各样的事情吧，大家。",
+      "en": "There are lots of things, you know, everyone."
+    },
+    {
+      "id": 20,
+      "start": 87.06,
+      "end": 89.66,
+      "ts": "01:27.060 -> 01:29.660",
+      "jp": "僕にとっては散歩ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>にとっては<ruby>散歩<rt>さんぽ</rt></ruby>ですね",
+      "zh": "对我来说就是散步呢",
+      "en": "For me, it's just a walk."
+    },
+    {
+      "id": 21,
+      "start": 89.66,
+      "end": 93.66,
+      "ts": "01:29.660 -> 01:33.660",
+      "jp": "散歩すると結構やる気が出てくるかなと思うんですけど",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>すると<ruby>結構<rt>けっこう</rt></ruby>やる<ruby>気が<rt>きが</rt></ruby><ruby>出て<rt>でて</rt></ruby>くるかなと<ruby>思う<rt>おもう</rt></ruby>んですけど",
+      "zh": "我觉得散步后会有点儿精神焕发呢",
+      "en": "I think I get quite motivated when I go for a walk."
+    },
+    {
+      "id": 22,
+      "start": 93.66,
+      "end": 95.56,
+      "ts": "01:33.660 -> 01:35.560",
+      "jp": "例えば雨の日ね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>ね",
+      "zh": "比如下雨天呢",
+      "en": "For example, on a rainy day."
+    },
+    {
+      "id": 23,
+      "start": 95.56,
+      "end": 98.5,
+      "ts": "01:35.560 -> 01:38.500",
+      "jp": "雨の日の散歩な",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>の<ruby>散歩<rt>さんぽ</rt></ruby>な",
+      "zh": "下雨天散步",
+      "en": "A walk on a rainy day"
+    },
+    {
+      "id": 24,
+      "start": 98.5,
+      "end": 100.46,
+      "ts": "01:38.500 -> 01:40.460",
+      "jp": "めんどくさいですよね",
+      "jp_html": "めんどくさいですよね",
+      "zh": "真烦对吧？",
+      "en": "It's troublesome, isn't it?"
+    },
+    {
+      "id": 25,
+      "start": 100.46,
+      "end": 102.66,
+      "ts": "01:40.460 -> 01:42.660",
+      "jp": "雨が降ってるからね",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降っ<rt>ふっ</rt></ruby>てるからね",
+      "zh": "因为下雨了呢",
+      "en": "It's raining, you know."
+    },
+    {
+      "id": 26,
+      "start": 102.66,
+      "end": 106.0,
+      "ts": "01:42.660 -> 01:46.000",
+      "jp": "雨の日は散歩ちょっと",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>は<ruby>散歩<rt>さんぽ</rt></ruby>ちょっと",
+      "zh": "下雨天散步稍微少一点",
+      "en": "On rainy days, I walk a little bit."
+    },
+    {
+      "id": 27,
+      "start": 106.0,
+      "end": 108.76,
+      "ts": "01:46.000 -> 01:48.760",
+      "jp": "弱い雨",
+      "jp_html": "<ruby>弱い<rt>よわい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>",
+      "zh": "弱的雨水",
+      "en": "Weak rain"
+    },
+    {
+      "id": 28,
+      "start": 108.76,
+      "end": 111.38,
+      "ts": "01:48.760 -> 01:51.380",
+      "jp": "弱い雨の日は僕は散歩します",
+      "jp_html": "<ruby>弱い<rt>よわい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>は<ruby>僕は<rt>ぼくは</rt></ruby><ruby>散歩<rt>さんぽ</rt></ruby>します",
+      "zh": "下雨天我就会出去散步",
+      "en": "On rainy days, I go for a walk."
+    },
+    {
+      "id": 29,
+      "start": 111.38,
+      "end": 113.9,
+      "ts": "01:51.380 -> 01:53.900",
+      "jp": "強い雨の日ね",
+      "jp_html": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>ね",
+      "zh": "下雨天吧",
+      "en": "It's a day with strong rain, huh?"
+    },
+    {
+      "id": 30,
+      "start": 113.9,
+      "end": 116.54,
+      "ts": "01:53.900 -> 01:56.540",
+      "jp": "強い雨はちょっと",
+      "jp_html": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>はちょっと",
+      "zh": "强降雨有点儿",
+      "en": "The strong rain is just a little bit."
+    },
+    {
+      "id": 31,
+      "start": 116.54,
+      "end": 121.06,
+      "ts": "01:56.540 -> 02:01.060",
+      "jp": "強い雨の日は散歩しないかな",
+      "jp_html": "<ruby>強い<rt>つよい</rt></ruby><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>は<ruby>散歩<rt>さんぽ</rt></ruby>しないかな",
+      "zh": "下雨天就不出去散步了吧",
+      "en": "On rainy days, I don't go for a walk, right?"
+    },
+    {
+      "id": 32,
+      "start": 121.06,
+      "end": 125.4,
+      "ts": "02:01.060 -> 02:05.400",
+      "jp": "でも例えば近所のカフェに行くとかね",
+      "jp_html": "でも<ruby>例えば<rt>たとえば</rt></ruby><ruby>近所<rt>きんじょ</rt></ruby>のカフェに<ruby>行く<rt>いく</rt></ruby>とかね",
+      "zh": "比如去附近的咖啡馆之类的",
+      "en": "For example, going to a nearby café."
+    },
+    {
+      "id": 33,
+      "start": 125.4,
+      "end": 127.72,
+      "ts": "02:05.400 -> 02:07.720",
+      "jp": "一番近いカフェに行って",
+      "jp_html": "<ruby>一番近い<rt>いちばんちかい</rt></ruby>カフェに<ruby>行って<rt>いって</rt></ruby>",
+      "zh": "去最近的咖啡店",
+      "en": "Go to the nearest café."
+    },
+    {
+      "id": 34,
+      "start": 127.72,
+      "end": 128.7,
+      "ts": "02:07.720 -> 02:08.700",
+      "jp": "ちょっとこう",
+      "jp_html": "ちょっとこう",
+      "zh": "稍微这样",
+      "en": "Just a little like this"
+    },
+    {
+      "id": 35,
+      "start": 128.7,
+      "end": 132.86,
+      "ts": "02:08.700 -> 02:12.860",
+      "jp": "考えてみるとかね",
+      "jp_html": "<ruby>考え<rt>かんがえ</rt></ruby>てみるとかね",
+      "zh": "想想倒也差不多",
+      "en": "Thinking about it, perhaps."
+    },
+    {
+      "id": 36,
+      "start": 132.86,
+      "end": 135.28,
+      "ts": "02:12.860 -> 02:15.280",
+      "jp": "ポッドキャストのアイデアを考えてみるとか",
+      "jp_html": "ポッドキャストのアイデアを<ruby>考え<rt>かんがえ</rt></ruby>てみるとか",
+      "zh": "思考一下播客的想法",
+      "en": "Thinking about podcast ideas"
+    },
+    {
+      "id": 37,
+      "start": 135.28,
+      "end": 137.24,
+      "ts": "02:15.280 -> 02:17.240",
+      "jp": "そういうのはいいと思う",
+      "jp_html": "そういうのはいいと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得那样挺好的",
+      "en": "I think that's good."
+    },
+    {
+      "id": 38,
+      "start": 137.24,
+      "end": 138.56,
+      "ts": "02:17.240 -> 02:18.560",
+      "jp": "気分転換ですね",
+      "jp_html": "<ruby>気分転換<rt>きぶんてんかん</rt></ruby>ですね",
+      "zh": "换换心情呢",
+      "en": "It's a change of mood, huh?"
+    },
+    {
+      "id": 39,
+      "start": 138.56,
+      "end": 141.82,
+      "ts": "02:18.560 -> 02:21.820",
+      "jp": "ちょっとリフレッシュするのがいいと思います",
+      "jp_html": "ちょっとリフレッシュするのがいいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得稍微休息一下会比较好",
+      "en": "I think it would be good to take a little break and refresh yourself."
+    },
+    {
+      "id": 40,
+      "start": 141.82,
+      "end": 149.44,
+      "ts": "02:21.820 -> 02:29.440",
+      "jp": "人によってどうやってやる気を出せばいいかっていうのはあると思うけど",
+      "jp_html": "<ruby>人<rt>にん</rt></ruby>によってどうやってやる<ruby>気を<rt>きを</rt></ruby><ruby>出せ<rt>だせ</rt></ruby>ばいいかっていうのはあると<ruby>思う<rt>おもう</rt></ruby>けど",
+      "zh": "我认为人们对如何才能提起精神的看法可能有所不同。",
+      "en": "I think there might be different ways to motivate oneself depending on the person."
+    },
+    {
+      "id": 41,
+      "start": 149.44,
+      "end": 154.38,
+      "ts": "02:29.440 -> 02:34.380",
+      "jp": "僕から勧められることは",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>から<ruby>勧め<rt>すすめ</rt></ruby>られることは",
+      "zh": "我推荐的事情",
+      "en": "What is recommended to me is"
+    },
+    {
+      "id": 42,
+      "start": 154.38,
+      "end": 158.4,
+      "ts": "02:34.380 -> 02:38.400",
+      "jp": "やっぱり日本語コンテッペを聞いてくださいと",
+      "jp_html": "やっぱり<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>聞い<rt>きい</rt></ruby>てくださいと",
+      "zh": "果然请听日语发音",
+      "en": "Anyway, please listen to the Japanese pronunciation guide."
+    },
+    {
+      "id": 43,
+      "start": 158.4,
+      "end": 161.8,
+      "ts": "02:38.400 -> 02:41.800",
+      "jp": "ほとんどのエピソードでは",
+      "jp_html": "ほとんどのエピソードでは",
+      "zh": "在大多数情况下",
+      "en": "In most episodes,"
+    },
+    {
+      "id": 44,
+      "start": 161.8,
+      "end": 165.7,
+      "ts": "02:41.800 -> 02:45.700",
+      "jp": "頑張れと言ってるはずなので",
+      "jp_html": "<ruby>頑張れ<rt>がんばれ</rt></ruby>と<ruby>言って<rt>いって</rt></ruby>るはずなので",
+      "zh": "我应该是说加油的吧",
+      "en": "I'm supposed to be saying \"you can do it\"."
+    },
+    {
+      "id": 45,
+      "start": 165.7,
+      "end": 168.36,
+      "ts": "02:45.700 -> 02:48.360",
+      "jp": "僕のこの声からね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のこの<ruby>声<rt>こえ</rt></ruby>からね",
+      "zh": "从我这个声音里",
+      "en": "From my voice, you know"
+    },
+    {
+      "id": 46,
+      "start": 168.36,
+      "end": 172.86,
+      "ts": "02:48.360 -> 02:52.860",
+      "jp": "僕の声からエネルギーをもらってください",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>からエネルギーをもらってください",
+      "zh": "请从我的声音中获得能量",
+      "en": "Get energy from my voice."
+    },
+    {
+      "id": 47,
+      "start": 172.86,
+      "end": 175.34,
+      "ts": "02:52.860 -> 02:55.340",
+      "jp": "僕はあの",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>あの",
+      "zh": "我那时",
+      "en": "I was at that"
+    },
+    {
+      "id": 48,
+      "start": 175.34,
+      "end": 179.76,
+      "ts": "02:55.340 -> 02:59.760",
+      "jp": "いい先生かどうか分かりません",
+      "jp_html": "いい<ruby>先生<rt>せんせい</rt></ruby>かどうか<ruby>分か<rt>わか</rt></ruby>りません",
+      "zh": "不清楚他是不是个好老师",
+      "en": "I can't tell if the teacher is good or not."
+    },
+    {
+      "id": 49,
+      "start": 179.76,
+      "end": 181.92,
+      "ts": "02:59.760 -> 03:01.920",
+      "jp": "僕は自分が",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>が",
+      "zh": "我发现自己",
+      "en": "I am myself"
+    },
+    {
+      "id": 50,
+      "start": 181.92,
+      "end": 185.84,
+      "ts": "03:01.920 -> 03:05.840",
+      "jp": "いろいろなことをよく知っている",
+      "jp_html": "いろいろなことをよく<ruby>知って<rt>しって</rt></ruby>いる",
+      "zh": "知道很多事情",
+      "en": "Knows a lot of things"
+    },
+    {
+      "id": 51,
+      "start": 185.84,
+      "end": 186.66,
+      "ts": "03:05.840 -> 03:06.660",
+      "jp": "いろんな",
+      "jp_html": "いろんな",
+      "zh": "各种各样的",
+      "en": "various"
+    },
+    {
+      "id": 52,
+      "start": 186.66,
+      "end": 191.08,
+      "ts": "03:06.660 -> 03:11.080",
+      "jp": "なんか文法とかボキャブラリーとか",
+      "jp_html": "なんか<ruby>文法<rt>ぶんぽう</rt></ruby>とかボキャブラリーとか",
+      "zh": "什么语法或词汇之类的",
+      "en": "Something about grammar and vocabulary"
+    },
+    {
+      "id": 53,
+      "start": 191.08,
+      "end": 195.54,
+      "ts": "03:11.080 -> 03:15.540",
+      "jp": "なんかこううまく教えられる先生とは思ってません",
+      "jp_html": "なんかこううまく<ruby>教え<rt>おしえ</rt></ruby>られる<ruby>先生<rt>せんせい</rt></ruby>とは<ruby>思って<rt>おもって</rt></ruby>ません",
+      "zh": "我觉得不太像能教得很好的老师",
+      "en": "I don't think he's the kind of teacher who can explain things well."
+    },
+    {
+      "id": 54,
+      "start": 195.54,
+      "end": 199.52,
+      "ts": "03:15.540 -> 03:19.520",
+      "jp": "だけどエネルギーですよね",
+      "jp_html": "だけどエネルギーですよね",
+      "zh": "但是能源吧？",
+      "en": "But it's about energy, right?"
+    },
+    {
+      "id": 55,
+      "start": 199.52,
+      "end": 205.14,
+      "ts": "03:19.520 -> 03:25.140",
+      "jp": "みんなにずっとエネルギーを送り続けてます",
+      "jp_html": "みんなにずっとエネルギーを<ruby>送り<rt>おくり</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てます",
+      "zh": "我一直向大家传递能量",
+      "en": "I have been sending energy to everyone continuously."
+    },
+    {
+      "id": 56,
+      "start": 205.14,
+      "end": 207.16,
+      "ts": "03:25.140 -> 03:27.160",
+      "jp": "もう何年かな",
+      "jp_html": "もう<ruby>何年<rt>なんねん</rt></ruby>かな",
+      "zh": "已经多少年了",
+      "en": "How many years already?"
+    },
+    {
+      "id": 57,
+      "start": 207.16,
+      "end": 210.3,
+      "ts": "03:27.160 -> 03:30.300",
+      "jp": "6年7年8年わからない",
+      "jp_html": "6<ruby>年<rt>ねん</rt></ruby>7<ruby>年<rt>ねん</rt></ruby>8<ruby>年<rt>ねん</rt></ruby>わからない",
+      "zh": "6年7年8年不明白",
+      "en": "6 years 7 years 8 years I don't understand"
+    },
+    {
+      "id": 58,
+      "start": 210.3,
+      "end": 214.14,
+      "ts": "03:30.300 -> 03:34.140",
+      "jp": "何年続けてるかもうわからないけど",
+      "jp_html": "<ruby>何年<rt>なんねん</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てるかもうわからないけど",
+      "zh": "连续了多少年都已经记不清了",
+      "en": "I can't remember how many years in a row it's been."
+    },
+    {
+      "id": 59,
+      "start": 214.14,
+      "end": 219.48,
+      "ts": "03:34.140 -> 03:39.480",
+      "jp": "毎日毎日世界中の人にエネルギーを送り続けてるんです",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>にエネルギーを<ruby>送り<rt>おくり</rt></ruby><ruby>続け<rt>つづけ</rt></ruby>てるんです",
+      "zh": "每天每天都在向全世界的人发送能量",
+      "en": "I am sending energy to people all around the world every single day."
+    },
+    {
+      "id": 60,
+      "start": 219.48,
+      "end": 221.62,
+      "ts": "03:39.480 -> 03:41.620",
+      "jp": "だからエネルギーはある",
+      "jp_html": "だからエネルギーはある",
+      "zh": "所以有能量",
+      "en": "Therefore, there is energy."
+    },
+    {
+      "id": 61,
+      "start": 221.62,
+      "end": 225.18,
+      "ts": "03:41.620 -> 03:45.180",
+      "jp": "僕はエネルギーの先生です",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>エネルギーの<ruby>先生<rt>せんせい</rt></ruby>です",
+      "zh": "我是能源老师",
+      "en": "I am an energy teacher."
+    },
+    {
+      "id": 62,
+      "start": 225.18,
+      "end": 228.88,
+      "ts": "03:45.180 -> 03:48.880",
+      "jp": "なので日本語コンテッペにはエネルギーがたくさんある",
+      "jp_html": "なので<ruby>日本語<rt>にほんご</rt></ruby>コンテッペにはエネルギーがたくさんある",
+      "zh": "所以日语接头词有很多能量",
+      "en": "So, Japanese context has a lot of energy."
+    },
+    {
+      "id": 63,
+      "start": 228.88,
+      "end": 231.22,
+      "ts": "03:48.880 -> 03:51.220",
+      "jp": "だからやる気がない時",
+      "jp_html": "だからやる<ruby>気が<rt>きが</rt></ruby>ない<ruby>時<rt>とき</rt></ruby>",
+      "zh": "所以没精神的时候",
+      "en": "So when I don't have any motivation"
+    },
+    {
+      "id": 64,
+      "start": 231.22,
+      "end": 233.0,
+      "ts": "03:51.220 -> 03:53.000",
+      "jp": "モチベーションが低い時",
+      "jp_html": "モチベーションが<ruby>低い<rt>ひくい</rt></ruby><ruby>時<rt>とき</rt></ruby>",
+      "zh": "动力低落时",
+      "en": "When motivation is low"
+    },
+    {
+      "id": 65,
+      "start": 233.0,
+      "end": 235.16,
+      "ts": "03:53.000 -> 03:55.160",
+      "jp": "日本語コンテッペを聞いてください",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请听日语发音",
+      "en": "Please hear out the Japanese contingency plan."
+    },
+    {
+      "id": 66,
+      "start": 235.16,
+      "end": 239.44,
+      "ts": "03:55.160 -> 03:59.440",
+      "jp": "そしてちょっと散歩したり掃除したり",
+      "jp_html": "そしてちょっと<ruby>散歩<rt>さんぽ</rt></ruby>したり<ruby>掃除<rt>そうじ</rt></ruby>したり",
+      "zh": "然后出去散步一下或者打扫卫生",
+      "en": "And I'll go for a little walk or do some cleaning."
+    },
+    {
+      "id": 67,
+      "start": 240.08,
+      "end": 243.88,
+      "ts": "04:00.080 -> 04:03.880",
+      "jp": "すれば多分やる気がまた出てくるんじゃないかな",
+      "jp_html": "すれば<ruby>多分<rt>たぶん</rt></ruby>やる<ruby>気が<rt>きが</rt></ruby>また<ruby>出て<rt>でて</rt></ruby>くるんじゃないかな",
+      "zh": "这样 maybe 再次出现一些干劲呢",
+      "en": "Then maybe my motivation will come back again, wouldn't it?"
+    },
+    {
+      "id": 68,
+      "start": 243.88,
+      "end": 245.74,
+      "ts": "04:03.880 -> 04:05.740",
+      "jp": "そうだといいですね",
+      "jp_html": "そうだといいですね",
+      "zh": "希望如此",
+      "en": "I hope so."
+    },
+    {
+      "id": 69,
+      "start": 245.74,
+      "end": 247.24,
+      "ts": "04:05.740 -> 04:07.240",
+      "jp": "そうだと",
+      "jp_html": "そうだと",
+      "zh": "是这样的",
+      "en": "So it is."
+    },
+    {
+      "id": 70,
+      "start": 247.24,
+      "end": 248.56,
+      "ts": "04:07.240 -> 04:08.560",
+      "jp": "そうだといいな",
+      "jp_html": "そうだといいな",
+      "zh": "但愿如此",
+      "en": "I hope so."
+    },
+    {
+      "id": 71,
+      "start": 248.56,
+      "end": 251.68,
+      "ts": "04:08.560 -> 04:11.680",
+      "jp": "みんなが僕の声を聞いて",
+      "jp_html": "みんなが<ruby>僕<rt>ぼく</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>を<ruby>聞い<rt>きい</rt></ruby>て",
+      "zh": "大家都听我的声音",
+      "en": "Everyone is listening to my voice"
+    },
+    {
+      "id": 72,
+      "start": 251.68,
+      "end": 253.86,
+      "ts": "04:11.680 -> 04:13.860",
+      "jp": "ちょっと元気になってくれるといいな",
+      "jp_html": "ちょっと<ruby>元気<rt>げんき</rt></ruby>になってくれるといいな",
+      "zh": "希望你能够稍微有点精神就好了",
+      "en": "It would be nice if you could perk up a little."
+    },
+    {
+      "id": 73,
+      "start": 253.86,
+      "end": 256.96,
+      "ts": "04:13.860 -> 04:16.960",
+      "jp": "そう願いますね",
+      "jp_html": "そう<ruby>願い<rt>ねがい</rt></ruby>ますね",
+      "zh": "但愿如此吧",
+      "en": "I hope so."
+    },
+    {
+      "id": 74,
+      "start": 256.96,
+      "end": 259.26,
+      "ts": "04:16.960 -> 04:19.260",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 75,
+      "start": 259.26,
+      "end": 260.62,
+      "ts": "04:19.260 -> 04:20.620",
+      "jp": "やる気がないとき",
+      "jp_html": "やる<ruby>気が<rt>きが</rt></ruby>ないとき",
+      "zh": "没劲的时候",
+      "en": "When I don't feel like doing anything"
+    },
+    {
+      "id": 76,
+      "start": 260.62,
+      "end": 262.4,
+      "ts": "04:20.620 -> 04:22.400",
+      "jp": "モチベーションが低いときは",
+      "jp_html": "モチベーションが<ruby>低い<rt>ひくい</rt></ruby>ときは",
+      "zh": "动力低落的时候",
+      "en": "When motivation is low,"
+    },
+    {
+      "id": 77,
+      "start": 262.4,
+      "end": 264.3,
+      "ts": "04:22.400 -> 04:24.300",
+      "jp": "日本語コンテッペを聞け",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペを<ruby>聞け<rt>きけ</rt></ruby>",
+      "zh": "可以听日语歌曲",
+      "en": "Listen to Japanese rap"
+    },
+    {
+      "id": 78,
+      "start": 264.3,
+      "end": 266.32,
+      "ts": "04:24.300 -> 04:26.320",
+      "jp": "ということでした",
+      "jp_html": "ということでした",
+      "zh": "就是这样了",
+      "en": "That was it."
+    },
+    {
+      "id": 79,
+      "start": 266.32,
+      "end": 267.5,
+      "ts": "04:26.320 -> 04:27.500",
+      "jp": "頑張れ",
+      "jp_html": "<ruby>頑張れ<rt>がんばれ</rt></ruby>",
+      "zh": "加油",
+      "en": "Keep going"
+    },
+    {
+      "id": 80,
+      "start": 267.5,
+      "end": 268.36,
+      "ts": "04:27.500 -> 04:28.360",
+      "jp": "元に",
+      "jp_html": "<ruby>元に<rt>もとに</rt></ruby>",
+      "zh": "元的",
+      "en": "Original"
+    }
+  ]
+}
