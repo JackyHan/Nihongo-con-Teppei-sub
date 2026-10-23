@@ -1,0 +1,984 @@
+{
+  "id": "1604",
+  "title": "#1604「勉強時間を作ることについて！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1604.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1604.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/23/1604%e3%80%8c%e5%8b%89%e5%bc%b7%e6%99%82%e9%96%93%e3%82%92%e4%bd%9c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.26,
+      "end": 2.56,
+      "ts": "00:01.260 -> 00:02.560",
+      "jp": "借金!",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>!",
+      "zh": "借钱！",
+      "en": "Debt!"
+    },
+    {
+      "id": 1,
+      "start": 3.68,
+      "end": 8.8,
+      "ts": "00:03.680 -> 00:08.800",
+      "jp": "今日は勉強時間を作ることについて",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>勉強時間<rt>べんきょうじかん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>ことについて",
+      "zh": "关于今天安排学习时间",
+      "en": "Today, about creating study time."
+    },
+    {
+      "id": 2,
+      "start": 8.8,
+      "end": 11.66,
+      "ts": "00:08.800 -> 00:11.660",
+      "jp": "はい、皆さん元気ですか?",
+      "jp_html": "はい、<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "大家好，你们好吗？",
+      "en": "Hi, everyone, are you okay?"
+    },
+    {
+      "id": 3,
+      "start": 11.98,
+      "end": 13.76,
+      "ts": "00:11.980 -> 00:13.760",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语 Conteppe 的时间呢",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 13.76,
+      "end": 18.04,
+      "ts": "00:13.760 -> 00:18.040",
+      "jp": "あの、勉強時間ありますか?",
+      "jp_html": "あの、<ruby>勉強時間<rt>べんきょうじかん</rt></ruby>ありますか?",
+      "zh": "那个，有学习时间吗？",
+      "en": "Do you have study time?"
+    },
+    {
+      "id": 5,
+      "start": 19.22,
+      "end": 21.82,
+      "ts": "00:19.220 -> 00:21.820",
+      "jp": "あの、毎日毎日忙しいですよね",
+      "jp_html": "あの、<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>忙しい<rt>いそがしい</rt></ruby>ですよね",
+      "zh": "那些日子每天都很忙吧？",
+      "en": "Those days are so busy, aren't they?"
+    },
+    {
+      "id": 6,
+      "start": 21.82,
+      "end": 26.26,
+      "ts": "00:21.820 -> 00:26.260",
+      "jp": "多分これを聞いているほとんどの人は",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>これを<ruby>聞い<rt>きい</rt></ruby>ているほとんどの<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "大概大多数听这段话的人都是",
+      "en": "Most people listening to this probably"
+    },
+    {
+      "id": 7,
+      "start": 26.26,
+      "end": 28.26,
+      "ts": "00:26.260 -> 00:28.260",
+      "jp": "仕事をしてますね",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>をしてますね",
+      "zh": "你在工作呢。",
+      "en": "I am working, aren't I?"
+    },
+    {
+      "id": 8,
+      "start": 28.26,
+      "end": 32.12,
+      "ts": "00:28.260 -> 00:32.120",
+      "jp": "もしくは学校に行ってますね",
+      "jp_html": "もしくは<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>ますね",
+      "zh": "或者你在上学呢",
+      "en": "Or you're going to school, I suppose."
+    },
+    {
+      "id": 9,
+      "start": 32.12,
+      "end": 33.74,
+      "ts": "00:32.120 -> 00:33.740",
+      "jp": "大学とか",
+      "jp_html": "<ruby>大学<rt>だいがく</rt></ruby>とか",
+      "zh": "大学或者",
+      "en": "university or college"
+    },
+    {
+      "id": 10,
+      "start": 33.74,
+      "end": 38.8,
+      "ts": "00:33.740 -> 00:38.800",
+      "jp": "毎日毎日勉強とか",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>とか",
+      "zh": "天天学习之类的",
+      "en": "Day by day studying or learning"
+    },
+    {
+      "id": 11,
+      "start": 38.8,
+      "end": 42.9,
+      "ts": "00:38.800 -> 00:42.900",
+      "jp": "学校の勉強とか仕事とか",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>とか<ruby>仕事<rt>しごと</rt></ruby>とか",
+      "zh": "学校的学业或工作",
+      "en": "studying at school or work"
+    },
+    {
+      "id": 12,
+      "start": 42.9,
+      "end": 46.38,
+      "ts": "00:42.900 -> 00:46.380",
+      "jp": "子供がいる人もいるかもしれない",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>がいる<ruby>人<rt>にん</rt></ruby>もいるかもしれない",
+      "zh": "也可能有孩子在场",
+      "en": "There might be people with children as well."
+    },
+    {
+      "id": 13,
+      "start": 46.38,
+      "end": 50.66,
+      "ts": "00:46.380 -> 00:50.660",
+      "jp": "両親の世話をしている人もいるかもしれない",
+      "jp_html": "<ruby>両親<rt>りょうしん</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしている<ruby>人<rt>にん</rt></ruby>もいるかもしれない",
+      "zh": "也可能是有在照顾父母的人",
+      "en": "There might be people who are taking care of their parents."
+    },
+    {
+      "id": 14,
+      "start": 50.66,
+      "end": 53.78,
+      "ts": "00:50.660 -> 00:53.780",
+      "jp": "とにかく忙しいですよね",
+      "jp_html": "とにかく<ruby>忙しい<rt>いそがしい</rt></ruby>ですよね",
+      "zh": "确实好忙吧？",
+      "en": "You must be very busy, right?"
+    },
+    {
+      "id": 15,
+      "start": 53.78,
+      "end": 56.58,
+      "ts": "00:53.780 -> 00:56.580",
+      "jp": "毎日毎日時間がない",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>時間<rt>じかん</rt></ruby>がない",
+      "zh": "每天都没有时间",
+      "en": "Day after day, there's never enough time."
+    },
+    {
+      "id": 16,
+      "start": 56.58,
+      "end": 63.52,
+      "ts": "00:56.580 -> 01:03.520",
+      "jp": "そういう時に日本語の勉強の時間",
+      "jp_html": "そういう<ruby>時に<rt>ときに</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "在这种时候，学习日语的时间",
+      "en": "When it's time to study Japanese in such situations"
+    },
+    {
+      "id": 17,
+      "start": 63.52,
+      "end": 73.0,
+      "ts": "01:03.520 -> 01:13.000",
+      "jp": "日本語のための勉強時間を作るのは結構難しいですよね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>のための<ruby>勉強時間<rt>べんきょうじかん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>のは<ruby>結構<rt>けっこう</rt></ruby><ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "为学习日语安排时间确实挺难的吧？",
+      "en": "It's quite difficult to make study time for Japanese, isn't it?"
+    },
+    {
+      "id": 18,
+      "start": 73.0,
+      "end": 75.2,
+      "ts": "01:13.000 -> 01:15.200",
+      "jp": "1時間",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "1小时",
+      "en": "1 hour"
+    },
+    {
+      "id": 19,
+      "start": 75.2,
+      "end": 76.92,
+      "ts": "01:15.200 -> 01:16.920",
+      "jp": "1時間",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "1小时",
+      "en": "1 hour"
+    },
+    {
+      "id": 20,
+      "start": 76.92,
+      "end": 79.18,
+      "ts": "01:16.920 -> 01:19.180",
+      "jp": "1時間時間あるかな",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>あるかな",
+      "zh": "有一小时吗？",
+      "en": "Do we have about one hour?"
+    },
+    {
+      "id": 21,
+      "start": 79.18,
+      "end": 82.22,
+      "ts": "01:19.180 -> 01:22.220",
+      "jp": "1時間",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "1小时",
+      "en": "1 hour"
+    },
+    {
+      "id": 22,
+      "start": 82.22,
+      "end": 84.42,
+      "ts": "01:22.220 -> 01:24.420",
+      "jp": "1時間",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "1小时",
+      "en": "1 hour"
+    },
+    {
+      "id": 23,
+      "start": 84.42,
+      "end": 89.68,
+      "ts": "01:24.420 -> 01:29.680",
+      "jp": "例えば僕は子供がいます",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>がいます",
+      "zh": "比如我有孩子",
+      "en": "For example, I have children."
+    },
+    {
+      "id": 24,
+      "start": 89.68,
+      "end": 92.7,
+      "ts": "01:29.680 -> 01:32.700",
+      "jp": "僕はちょっとラッキーで",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ちょっとラッキーで",
+      "zh": "我有点儿幸运",
+      "en": "I was just a little lucky"
+    },
+    {
+      "id": 25,
+      "start": 92.7,
+      "end": 93.44,
+      "ts": "01:32.700 -> 01:33.440",
+      "jp": "家でね",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>でね",
+      "zh": "在家里",
+      "en": "At home"
+    },
+    {
+      "id": 26,
+      "start": 93.44,
+      "end": 95.68,
+      "ts": "01:33.440 -> 01:35.680",
+      "jp": "家で仕事をしてるから",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしてるから",
+      "zh": "在家工作",
+      "en": "I'm working from home."
+    },
+    {
+      "id": 27,
+      "start": 95.68,
+      "end": 97.56,
+      "ts": "01:35.680 -> 01:37.560",
+      "jp": "まあまあ時間はあります",
+      "jp_html": "まあまあ<ruby>時間<rt>じかん</rt></ruby>はあります",
+      "zh": "还有一段时间",
+      "en": "There's still some time."
+    },
+    {
+      "id": 28,
+      "start": 97.56,
+      "end": 100.76,
+      "ts": "01:37.560 -> 01:40.760",
+      "jp": "でも例えば週末ですよね",
+      "jp_html": "でも<ruby>例えば<rt>たとえば</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>ですよね",
+      "zh": "比如周末吧",
+      "en": "But for example, on weekends, right?"
+    },
+    {
+      "id": 29,
+      "start": 100.76,
+      "end": 101.52,
+      "ts": "01:40.760 -> 01:41.520",
+      "jp": "週末",
+      "jp_html": "<ruby>週末<rt>しゅうまつ</rt></ruby>",
+      "zh": "周末",
+      "en": "weekend"
+    },
+    {
+      "id": 30,
+      "start": 101.52,
+      "end": 104.3,
+      "ts": "01:41.520 -> 01:44.300",
+      "jp": "週末は家に子供がいる",
+      "jp_html": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>に<ruby>子供<rt>こども</rt></ruby>がいる",
+      "zh": "周末家里有孩子",
+      "en": "Weekend has kids at home"
+    },
+    {
+      "id": 31,
+      "start": 104.3,
+      "end": 105.42,
+      "ts": "01:44.300 -> 01:45.420",
+      "jp": "奥さんもいる",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>もいる",
+      "zh": "也有太太",
+      "en": "There is also a lady/woman."
+    },
+    {
+      "id": 32,
+      "start": 105.42,
+      "end": 107.98,
+      "ts": "01:45.420 -> 01:47.980",
+      "jp": "いろいろやることがあるんですね",
+      "jp_html": "いろいろやることがあるんですね",
+      "zh": "原来你有很多事情要做呢。",
+      "en": "There are many things you have to do, huh?"
+    },
+    {
+      "id": 33,
+      "start": 107.98,
+      "end": 113.12,
+      "ts": "01:47.980 -> 01:53.120",
+      "jp": "子供の将棋のクラスとか",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>の<ruby>将棋<rt>しょうぎ</rt></ruby>のクラスとか",
+      "zh": "孩子的围棋班级",
+      "en": "Classes for children's shogi (Japanese chess)"
+    },
+    {
+      "id": 34,
+      "start": 113.12,
+      "end": 116.9,
+      "ts": "01:53.120 -> 01:56.900",
+      "jp": "学校の宿題とか",
+      "jp_html": "<ruby>学校<rt>がっこう</rt></ruby>の<ruby>宿題<rt>しゅくだい</rt></ruby>とか",
+      "zh": "学校的作业之类的",
+      "en": "Homework from school"
+    },
+    {
+      "id": 35,
+      "start": 116.9,
+      "end": 118.74,
+      "ts": "01:56.900 -> 01:58.740",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 36,
+      "start": 118.74,
+      "end": 121.98,
+      "ts": "01:58.740 -> 02:01.980",
+      "jp": "3人で遊んだり",
+      "jp_html": "3<ruby>人<rt>にん</rt></ruby>で<ruby>遊んだ<rt>あそんだ</rt></ruby>り",
+      "zh": "3个人一起玩或游戏",
+      "en": "Played with three people or"
+    },
+    {
+      "id": 37,
+      "start": 121.98,
+      "end": 124.2,
+      "ts": "02:01.980 -> 02:04.200",
+      "jp": "映画を見たり",
+      "jp_html": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>り",
+      "zh": "看电影或",
+      "en": "To watch movies"
+    },
+    {
+      "id": 38,
+      "start": 124.2,
+      "end": 125.82,
+      "ts": "02:04.200 -> 02:05.820",
+      "jp": "散歩したり",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>したり",
+      "zh": "散步或",
+      "en": "To walk around"
+    },
+    {
+      "id": 39,
+      "start": 125.82,
+      "end": 128.32,
+      "ts": "02:05.820 -> 02:08.320",
+      "jp": "いろいろですよね",
+      "jp_html": "いろいろですよね",
+      "zh": "确实很多呢",
+      "en": "Isn't it varied?"
+    },
+    {
+      "id": 40,
+      "start": 128.32,
+      "end": 131.56,
+      "ts": "02:08.320 -> 02:11.560",
+      "jp": "そうすると1時間勉強する時間はないです",
+      "jp_html": "そうすると1<ruby>時間<rt>じかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>時間<rt>じかん</rt></ruby>はないです",
+      "zh": "那样就根本没有时间学习一小时了",
+      "en": "Then I don't have time to study for an hour."
+    },
+    {
+      "id": 41,
+      "start": 131.56,
+      "end": 134.2,
+      "ts": "02:11.560 -> 02:14.200",
+      "jp": "1時間ないと思う",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>ないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "我觉得没有一个小时的时间。",
+      "en": "I think I don't have 1 hour."
+    },
+    {
+      "id": 42,
+      "start": 134.2,
+      "end": 135.56,
+      "ts": "02:14.200 -> 02:15.560",
+      "jp": "普通の人は",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>は",
+      "zh": "普通人",
+      "en": "Ordinary people"
+    },
+    {
+      "id": 43,
+      "start": 135.56,
+      "end": 137.66,
+      "ts": "02:15.560 -> 02:17.660",
+      "jp": "週末1時間",
+      "jp_html": "<ruby>週末<rt>しゅうまつ</rt></ruby>1<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "周末1小时",
+      "en": "Weekend 1 hour"
+    },
+    {
+      "id": 44,
+      "start": 137.66,
+      "end": 138.9,
+      "ts": "02:17.660 -> 02:18.900",
+      "jp": "難しいな",
+      "jp_html": "<ruby>難しい<rt>むずかしい</rt></ruby>な",
+      "zh": "真难啊",
+      "en": "It's difficult."
+    },
+    {
+      "id": 45,
+      "start": 138.9,
+      "end": 142.12,
+      "ts": "02:18.900 -> 02:22.120",
+      "jp": "普通の日ももっと難しいですよね",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>日<rt>にち</rt></ruby>ももっと<ruby>難しい<rt>むずかしい</rt></ruby>ですよね",
+      "zh": "普通的日子也更难了吧",
+      "en": "Don't ordinary days seem more difficult too?"
+    },
+    {
+      "id": 46,
+      "start": 142.12,
+      "end": 145.46,
+      "ts": "02:22.120 -> 02:25.460",
+      "jp": "僕はラッキーだけど",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>ラッキーだけど",
+      "zh": "我很幸运",
+      "en": "I am lucky but"
+    },
+    {
+      "id": 47,
+      "start": 145.46,
+      "end": 146.78,
+      "ts": "02:25.460 -> 02:26.780",
+      "jp": "例えば僕の奥さん",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>",
+      "zh": "比如我的妻子",
+      "en": "For example, my wife."
+    },
+    {
+      "id": 48,
+      "start": 146.78,
+      "end": 147.96,
+      "ts": "02:26.780 -> 02:27.960",
+      "jp": "僕の奥さんは",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>は",
+      "zh": "我的妻子",
+      "en": "My wife"
+    },
+    {
+      "id": 49,
+      "start": 147.96,
+      "end": 151.86,
+      "ts": "02:27.960 -> 02:31.860",
+      "jp": "日本語の勉強が必要ですよね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>ですよね",
+      "zh": "日语的学习是吧？",
+      "en": "You need to study Japanese, right?"
+    },
+    {
+      "id": 50,
+      "start": 151.86,
+      "end": 153.7,
+      "ts": "02:31.860 -> 02:33.700",
+      "jp": "奥さんはスペイン人です",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>はスペイン<ruby>人<rt>にん</rt></ruby>です",
+      "zh": "太太是西班牙人",
+      "en": "The woman is Spanish."
+    },
+    {
+      "id": 51,
+      "start": 153.7,
+      "end": 159.42,
+      "ts": "02:33.700 -> 02:39.420",
+      "jp": "奥さんは朝起きて朝ごはん食べて会社に行きます",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>は<ruby>朝起き<rt>あさおき</rt></ruby>て<ruby>朝ごはん<rt>あさごはん</rt></ruby><ruby>食べて<rt>たべて</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ます",
+      "zh": "妻子早上起床吃早餐然后去公司",
+      "en": "The wife gets up in the morning, eats breakfast, and goes to work."
+    },
+    {
+      "id": 52,
+      "start": 159.42,
+      "end": 164.8,
+      "ts": "02:39.420 -> 02:44.800",
+      "jp": "仕事が終わって家に帰るのは夜の7時ぐらいですね",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終わ<rt>おわ</rt></ruby>って<ruby>家<rt>いえ</rt></ruby>に<ruby>帰る<rt>かえる</rt></ruby>のは<ruby>夜<rt>よる</rt></ruby>の7<ruby>時<rt>とき</rt></ruby>ぐらいですね",
+      "zh": "工作结束回家大概是在晚上七点左右吧",
+      "en": "I usually get home around 7 PM when work is done."
+    },
+    {
+      "id": 53,
+      "start": 164.8,
+      "end": 170.58,
+      "ts": "02:44.800 -> 02:50.580",
+      "jp": "家に帰ってきて晩ごはん食べてお風呂に入って",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰っ<rt>かえっ</rt></ruby>てきて<ruby>晩<rt>ばん</rt></ruby>ごはん<ruby>食べて<rt>たべて</rt></ruby>お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入っ<rt>いっっ</rt></ruby>て",
+      "zh": "回家来吃晚饭然后泡澡",
+      "en": "I came home and had dinner and took a bath."
+    },
+    {
+      "id": 54,
+      "start": 171.58,
+      "end": 174.48,
+      "ts": "02:51.580 -> 02:54.480",
+      "jp": "子供といろいろ話したり",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>といろいろ<ruby>話し<rt>はなし</rt></ruby>たり",
+      "zh": "和孩子们聊了很多话题",
+      "en": "I talked to the children about various things."
+    },
+    {
+      "id": 55,
+      "start": 174.48,
+      "end": 178.2,
+      "ts": "02:54.480 -> 02:58.200",
+      "jp": "子供のためにスペイン語で本を読んだり",
+      "jp_html": "<ruby>子供<rt>こども</rt></ruby>のためにスペイン<ruby>語<rt>ご</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>読んだ<rt>よんだ</rt></ruby>り",
+      "zh": "为了孩子用西班牙语读书",
+      "en": "I read books in Spanish for my children or to my children"
+    },
+    {
+      "id": 56,
+      "start": 178.2,
+      "end": 181.78,
+      "ts": "02:58.200 -> 03:01.780",
+      "jp": "まあいろいろしたらまあだいたい9時半ぐらいかな",
+      "jp_html": "まあいろいろしたらまあだいたい9<ruby>時半<rt>じはん</rt></ruby>ぐらいかな",
+      "zh": "反正试了一下差不多九点半左右吧",
+      "en": "Well, if you do various things, it's probably around 9:30, right?"
+    },
+    {
+      "id": 57,
+      "start": 181.78,
+      "end": 185.44,
+      "ts": "03:01.780 -> 03:05.440",
+      "jp": "9時半10時ぐらいになってしまいますね",
+      "jp_html": "9<ruby>時半<rt>じはん</rt></ruby>10<ruby>時<rt>とき</rt></ruby>ぐらいになってしまいますね",
+      "zh": "九点半到十点左右吧",
+      "en": "It will end up being around 9:30 to 10:00, I see."
+    },
+    {
+      "id": 58,
+      "start": 185.44,
+      "end": 191.02,
+      "ts": "03:05.440 -> 03:11.020",
+      "jp": "でそれからまあ1時間勉強したくないでしょ",
+      "jp_html": "でそれからまあ1<ruby>時間<rt>じかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したくないでしょ",
+      "zh": "那你还想不想学一个小时啊",
+      "en": "So you don't want to study for about an hour, right?"
+    },
+    {
+      "id": 59,
+      "start": 191.02,
+      "end": 193.96,
+      "ts": "03:11.020 -> 03:13.960",
+      "jp": "結構大変ですよね",
+      "jp_html": "<ruby>結構大変<rt>けっこうたいへん</rt></ruby>ですよね",
+      "zh": "结构真是大变啊",
+      "en": "It must be really tough, huh?"
+    },
+    {
+      "id": 60,
+      "start": 193.96,
+      "end": 198.22,
+      "ts": "03:13.960 -> 03:18.220",
+      "jp": "普通の人は時間がないと思う",
+      "jp_html": "<ruby>普通<rt>ふつう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>がないと<ruby>思う<rt>おもう</rt></ruby>",
+      "zh": "人们常常觉得自己没有时间。",
+      "en": "I think ordinary people think they don't have time."
+    },
+    {
+      "id": 61,
+      "start": 198.22,
+      "end": 203.64,
+      "ts": "03:18.220 -> 03:23.640",
+      "jp": "じゃあどうやって勉強時間を作ればいいかというと",
+      "jp_html": "じゃあどうやって<ruby>勉強時間<rt>べんきょうじかん</rt></ruby>を<ruby>作れ<rt>つくれ</rt></ruby>ばいいかというと",
+      "zh": "那么要怎么创造学习时间呢？",
+      "en": "Then how can you create study time?"
+    },
+    {
+      "id": 62,
+      "start": 203.64,
+      "end": 207.68,
+      "ts": "03:23.640 -> 03:27.680",
+      "jp": "やっぱり電車に乗ってる時間とか",
+      "jp_html": "やっぱり<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗って<rt>のって</rt></ruby>る<ruby>時間<rt>じかん</rt></ruby>とか",
+      "zh": "果然在乘车的时间里",
+      "en": "Anyway, the time when I'm on the train or subway"
+    },
+    {
+      "id": 63,
+      "start": 207.68,
+      "end": 210.86,
+      "ts": "03:27.680 -> 03:30.860",
+      "jp": "車を運転してる時間とか",
+      "jp_html": "<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してる<ruby>時間<rt>じかん</rt></ruby>とか",
+      "zh": "开车的时间",
+      "en": "The time spent driving a car"
+    },
+    {
+      "id": 64,
+      "start": 210.86,
+      "end": 212.44,
+      "ts": "03:30.860 -> 03:32.440",
+      "jp": "そういう",
+      "jp_html": "そういう",
+      "zh": "这样的",
+      "en": "That's it"
+    },
+    {
+      "id": 65,
+      "start": 212.44,
+      "end": 215.58,
+      "ts": "03:32.440 -> 03:35.580",
+      "jp": "ポッドキャストですよね",
+      "jp_html": "ポッドキャストですよね",
+      "zh": "这不是播客吗？",
+      "en": "Isn't it a podcast?"
+    },
+    {
+      "id": 66,
+      "start": 215.58,
+      "end": 218.94,
+      "ts": "03:35.580 -> 03:38.940",
+      "jp": "ポッドキャストを聞きながら会社に行くとか",
+      "jp_html": "ポッドキャストを<ruby>聞き<rt>きき</rt></ruby>ながら<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とか",
+      "zh": "开车去公司的时候听播客",
+      "en": "Going to work while listening to a podcast."
+    },
+    {
+      "id": 67,
+      "start": 218.94,
+      "end": 221.48,
+      "ts": "03:38.940 -> 03:41.480",
+      "jp": "ポッドキャストを聞きながら帰るとか",
+      "jp_html": "ポッドキャストを<ruby>聞き<rt>きき</rt></ruby>ながら<ruby>帰る<rt>かえる</rt></ruby>とか",
+      "zh": "听着播客回家",
+      "en": "Returning while listening to a podcast"
+    },
+    {
+      "id": 68,
+      "start": 221.48,
+      "end": 224.4,
+      "ts": "03:41.480 -> 03:44.400",
+      "jp": "やっぱりそれが一番だと思います",
+      "jp_html": "やっぱりそれが<ruby>一番<rt>いちばん</rt></ruby>だと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "果然我认为那才是最好的。",
+      "en": "I think that's the best option."
+    },
+    {
+      "id": 69,
+      "start": 224.4,
+      "end": 228.48,
+      "ts": "03:44.400 -> 03:48.480",
+      "jp": "あとはちょっとトイレの中で",
+      "jp_html": "あとはちょっとトイレの<ruby>中<rt>なか</rt></ruby>で",
+      "zh": "然后稍微在厕所里待会儿",
+      "en": "The rest is just in the bathroom."
+    },
+    {
+      "id": 70,
+      "start": 228.48,
+      "end": 230.22,
+      "ts": "03:48.480 -> 03:50.220",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, well, well"
+    },
+    {
+      "id": 71,
+      "start": 230.22,
+      "end": 235.18,
+      "ts": "03:50.220 -> 03:55.180",
+      "jp": "トイレの中で少し単語をチェックしたりとか",
+      "jp_html": "トイレの<ruby>中<rt>なか</rt></ruby>で<ruby>少し<rt>すこし</rt></ruby><ruby>単語<rt>たんご</rt></ruby>をチェックしたりとか",
+      "zh": "我在厕所里检查了一些单词",
+      "en": "I checked some words in the toilet or something"
+    },
+    {
+      "id": 72,
+      "start": 235.18,
+      "end": 238.76,
+      "ts": "03:55.180 -> 03:58.760",
+      "jp": "そういう隙間時間ですよね",
+      "jp_html": "そういう<ruby>隙間<rt>すきま</rt></ruby><ruby>時間<rt>じかん</rt></ruby>ですよね",
+      "zh": "这就是所谓的空闲时间吧",
+      "en": "Those are indeed those gaps in time, right?"
+    },
+    {
+      "id": 73,
+      "start": 238.76,
+      "end": 240.74,
+      "ts": "03:58.760 -> 04:00.740",
+      "jp": "ちょっと時間があるちょっとだけね",
+      "jp_html": "ちょっと<ruby>時間<rt>じかん</rt></ruby>があるちょっとだけね",
+      "zh": "有点时间就稍微做一下",
+      "en": "I have a little bit of time just a little bit."
+    },
+    {
+      "id": 74,
+      "start": 240.74,
+      "end": 243.52,
+      "ts": "04:00.740 -> 04:03.520",
+      "jp": "1分とか2分とか3分とか",
+      "jp_html": "1<ruby>分と<rt>ふんと</rt></ruby>か2<ruby>分と<rt>ふんと</rt></ruby>か3<ruby>分と<rt>ふんと</rt></ruby>か",
+      "zh": "1分钟或者2分钟或者3分钟",
+      "en": "1 minute or 2 minutes or 3 minutes"
+    },
+    {
+      "id": 75,
+      "start": 243.52,
+      "end": 246.92,
+      "ts": "04:03.520 -> 04:06.920",
+      "jp": "昼ご飯を食べた後5分とか",
+      "jp_html": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べた<rt>たべた</rt></ruby><ruby>後<rt>のち</rt></ruby>5<ruby>分と<rt>ふんと</rt></ruby>か",
+      "zh": "吃完午饭后5分钟之类",
+      "en": "After eating lunch, 5 minutes or so."
+    },
+    {
+      "id": 76,
+      "start": 246.92,
+      "end": 250.64,
+      "ts": "04:06.920 -> 04:10.640",
+      "jp": "そういう少しの時間を使って勉強する",
+      "jp_html": "そういう<ruby>少し<rt>すこし</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>する",
+      "zh": "用这么一点时间来学习",
+      "en": "To spend a little time like that studying"
+    },
+    {
+      "id": 77,
+      "start": 250.64,
+      "end": 254.92,
+      "ts": "04:10.640 -> 04:14.920",
+      "jp": "そうすれば1日の中で1時間ぐらい",
+      "jp_html": "そうすれば1<ruby>日<rt>にち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で1<ruby>時間<rt>じかん</rt></ruby>ぐらい",
+      "zh": "这样一天之内就可以空出大约一小时来",
+      "en": "Then you could have about an hour per day"
+    },
+    {
+      "id": 78,
+      "start": 254.92,
+      "end": 258.56,
+      "ts": "04:14.920 -> 04:18.560",
+      "jp": "勉強時間を作れると思います",
+      "jp_html": "<ruby>勉強時間<rt>べんきょうじかん</rt></ruby>を<ruby>作れ<rt>つくれ</rt></ruby>ると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我相信可以安排出学习时间",
+      "en": "I think I can make time for studying."
+    },
+    {
+      "id": 79,
+      "start": 258.56,
+      "end": 265.56,
+      "ts": "04:18.560 -> 04:25.560",
+      "jp": "というわけで勉強時間を作ることは結構難しい",
+      "jp_html": "というわけで<ruby>勉強時間<rt>べんきょうじかん</rt></ruby>を<ruby>作る<rt>つくる</rt></ruby>ことは<ruby>結構<rt>けっこう</rt></ruby><ruby>難しい<rt>むずかしい</rt></ruby>",
+      "zh": "因此安排学习时间其实挺难的",
+      "en": "So making time for study is quite difficult."
+    },
+    {
+      "id": 80,
+      "start": 265.56,
+      "end": 268.42,
+      "ts": "04:25.560 -> 04:28.420",
+      "jp": "1時間ストレートでね",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>ストレートでね",
+      "zh": "一小时不中断地",
+      "en": "1 hour straightatte"
+    },
+    {
+      "id": 81,
+      "start": 268.42,
+      "end": 271.86,
+      "ts": "04:28.420 -> 04:31.860",
+      "jp": "1時間まとめて勉強するのは難しい",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>まとめて<ruby>勉強<rt>べんきょう</rt></ruby>するのは<ruby>難しい<rt>むずかしい</rt></ruby>",
+      "zh": "一次性集中学习一小时很难",
+      "en": "It's difficult to study for one hour straight."
+    },
+    {
+      "id": 82,
+      "start": 271.86,
+      "end": 276.88,
+      "ts": "04:31.860 -> 04:36.880",
+      "jp": "だけど会社に行くとき会社から帰るとき",
+      "jp_html": "だけど<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>行く<rt>いく</rt></ruby>とき<ruby>会社<rt>かいしゃ</rt></ruby>から<ruby>帰る<rt>かえる</rt></ruby>とき",
+      "zh": "但是去公司的时候从公司回来的时候",
+      "en": "But when going to work, and when returning from work,"
+    },
+    {
+      "id": 83,
+      "start": 276.88,
+      "end": 284.66,
+      "ts": "04:36.880 -> 04:44.660",
+      "jp": "そして5分とかの小さい隙間時間を使って勉強すれば",
+      "jp_html": "そして5<ruby>分と<rt>ふんと</rt></ruby>かの<ruby>小さい<rt>ちーさい</rt></ruby><ruby>隙間<rt>すきま</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>使って<rt>つかって</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>すれば",
+      "zh": "然后就可以利用5分钟或更短的空闲时间来学习了",
+      "en": "And by using even small gaps of time like 5 minutes for studying,"
+    },
+    {
+      "id": 84,
+      "start": 284.66,
+      "end": 286.28,
+      "ts": "04:44.660 -> 04:46.280",
+      "jp": "毎日1時間ぐらいかな",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>1<ruby>時間<rt>じかん</rt></ruby>ぐらいかな",
+      "zh": "大概每天花一小时左右吧",
+      "en": "About an hour a day, maybe."
+    },
+    {
+      "id": 85,
+      "start": 286.28,
+      "end": 290.34,
+      "ts": "04:46.280 -> 04:50.340",
+      "jp": "1時間ぐらい日本語の勉強ができると思います",
+      "jp_html": "1<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>ができると<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为我可以学习大约1个小时的日语。",
+      "en": "I think I can study Japanese for about an hour."
+    },
+    {
+      "id": 86,
+      "start": 290.34,
+      "end": 293.24,
+      "ts": "04:50.340 -> 04:53.240",
+      "jp": "頑張ってください",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>てください",
+      "zh": "请加油",
+      "en": "Please try your best."
+    },
+    {
+      "id": 87,
+      "start": 293.24,
+      "end": 295.72,
+      "ts": "04:53.240 -> 04:55.720",
+      "jp": "ルーティンですね",
+      "jp_html": "ルーティンですね",
+      "zh": "例行公事吧",
+      "en": "It's routine, huh?"
+    },
+    {
+      "id": 88,
+      "start": 295.72,
+      "end": 297.76,
+      "ts": "04:55.720 -> 04:57.760",
+      "jp": "大事なのは習慣です",
+      "jp_html": "<ruby>大事<rt>だいじ</rt></ruby>なのは<ruby>習慣<rt>しゅうかん</rt></ruby>です",
+      "zh": "关键是习惯。",
+      "en": "The important thing is habits."
+    },
+    {
+      "id": 89,
+      "start": 297.76,
+      "end": 299.78,
+      "ts": "04:57.760 -> 04:59.780",
+      "jp": "毎日家を出たら",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>家<rt>いえ</rt></ruby>を<ruby>出た<rt>でた</rt></ruby>ら",
+      "zh": "每天出门时",
+      "en": "Every day when I leave home"
+    },
+    {
+      "id": 90,
+      "start": 299.78,
+      "end": 303.48,
+      "ts": "04:59.780 -> 05:03.480",
+      "jp": "家を出るときにポッドキャストを聞く",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>を<ruby>出る<rt>でる</rt></ruby>ときにポッドキャストを<ruby>聞く<rt>きく</rt></ruby>",
+      "zh": "出门时听播客",
+      "en": "I listen to podcasts when I leave home."
+    },
+    {
+      "id": 91,
+      "start": 303.48,
+      "end": 308.3,
+      "ts": "05:03.480 -> 05:08.300",
+      "jp": "犬の散歩をするときにポッドキャストを聞く",
+      "jp_html": "<ruby>犬<rt>いぬ</rt></ruby>の<ruby>散歩<rt>さんぽ</rt></ruby>をするときにポッドキャストを<ruby>聞く<rt>きく</rt></ruby>",
+      "zh": "在遛狗时听播客",
+      "en": "I listen to podcasts when I take my dog for a walk."
+    },
+    {
+      "id": 92,
+      "start": 308.3,
+      "end": 310.22,
+      "ts": "05:08.300 -> 05:10.220",
+      "jp": "そういう習慣ですよね",
+      "jp_html": "そういう<ruby>習慣<rt>しゅうかん</rt></ruby>ですよね",
+      "zh": "这就是一种习惯吧？",
+      "en": "Isn't that kind of a habit, though?"
+    },
+    {
+      "id": 93,
+      "start": 310.22,
+      "end": 313.58,
+      "ts": "05:10.220 -> 05:13.580",
+      "jp": "習慣を作ればそんなに難しくないと思います",
+      "jp_html": "<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>作れ<rt>つくれ</rt></ruby>ばそんなに<ruby>難しく<rt>むずかしく</rt></ruby>ないと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "养成习惯后，就不会那么难了",
+      "en": "I think it's not that difficult if you make it a habit."
+    },
+    {
+      "id": 94,
+      "start": 313.58,
+      "end": 315.44,
+      "ts": "05:13.580 -> 05:15.440",
+      "jp": "応援してます",
+      "jp_html": "<ruby>応援<rt>おうえん</rt></ruby>してます",
+      "zh": "我在支持你",
+      "en": "I'm supporting you"
+    },
+    {
+      "id": 95,
+      "start": 315.44,
+      "end": 316.14,
+      "ts": "05:15.440 -> 05:16.140",
+      "jp": "頑張ってください",
+      "jp_html": "<ruby>頑張っ<rt>がんばっ</rt></ruby>てください",
+      "zh": "请加油",
+      "en": "Please try your best."
+    },
+    {
+      "id": 96,
+      "start": 316.14,
+      "end": 317.42,
+      "ts": "05:16.140 -> 05:17.420",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

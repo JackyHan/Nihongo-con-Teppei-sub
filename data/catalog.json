@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1604",
+      "title": "#1604「勉強時間を作ることについて！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/10/23/1604%e3%80%8c%e5%8b%89%e5%bc%b7%e6%99%82%e9%96%93%e3%82%92%e4%bd%9c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1604.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1604.json"
+    },
+    {
       "id": "1603",
       "title": "#1603「やる気、モチベーションの保ち方について！」",
       "category_id": "podcast",
