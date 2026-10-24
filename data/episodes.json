@@ -1,5 +1,17 @@
 [
   {
+    "id": "1605",
+    "title": "#1605「上達を感じられない時について！」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/10/24/1605%e3%80%8c%e4%b8%8a%e9%81%94%e3%82%92%e6%84%9f%e3%81%98%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e6%99%82%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1605.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1605.json"
+  },
+  {
     "id": "1604",
     "title": "#1604「勉強時間を作ることについて！」",
     "category_id": "podcast",

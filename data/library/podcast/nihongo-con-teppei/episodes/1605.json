@@ -1,0 +1,814 @@
+{
+  "id": "1605",
+  "title": "#1605「上達を感じられない時について！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1605.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1605.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/24/1605%e3%80%8c%e4%b8%8a%e9%81%94%e3%82%92%e6%84%9f%e3%81%98%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e6%99%82%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.33,
+      "end": 2.63,
+      "ts": "00:01.330 -> 00:02.630",
+      "jp": "借金",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>",
+      "zh": "借钱",
+      "en": "Debt"
+    },
+    {
+      "id": 1,
+      "start": 2.63,
+      "end": 10.05,
+      "ts": "00:02.630 -> 00:10.050",
+      "jp": "今日は上達を感じられない時について",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>上達<rt>じょうたつ</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>られない<ruby>時に<rt>ときに</rt></ruby>ついて",
+      "zh": "今天关于感觉不到进步的时候",
+      "en": "Today about times when I feel no improvement."
+    },
+    {
+      "id": 2,
+      "start": 10.05,
+      "end": 12.39,
+      "ts": "00:10.050 -> 00:12.390",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 12.39,
+      "end": 15.63,
+      "ts": "00:12.390 -> 00:15.630",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语 Conteppe 的时间呢",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 15.63,
+      "end": 16.53,
+      "ts": "00:15.630 -> 00:16.530",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 5,
+      "start": 16.53,
+      "end": 18.59,
+      "ts": "00:16.530 -> 00:18.590",
+      "jp": "今日はね天気がいい",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ね<ruby>天気<rt>てんき</rt></ruby>がいい",
+      "zh": "今天天气很好",
+      "en": "Today, the weather is nice."
+    },
+    {
+      "id": 6,
+      "start": 18.59,
+      "end": 23.53,
+      "ts": "00:18.590 -> 00:23.530",
+      "jp": "天気がいい時もあれば天気が悪い時もある",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>がいい<ruby>時<rt>とき</rt></ruby>もあれば<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>時<rt>とき</rt></ruby>もある",
+      "zh": "天气好的时候也有天气坏的时候",
+      "en": "There are times when the weather is good and times when it is bad."
+    },
+    {
+      "id": 7,
+      "start": 23.53,
+      "end": 26.87,
+      "ts": "00:23.530 -> 00:26.870",
+      "jp": "天気が悪い時もあれば天気がいい時もある",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>時<rt>とき</rt></ruby>もあれば<ruby>天気<rt>てんき</rt></ruby>がいい<ruby>時<rt>とき</rt></ruby>もある",
+      "zh": "天气好的时候也有天气坏的时候",
+      "en": "There are times when the weather is bad and times when it is good."
+    },
+    {
+      "id": 8,
+      "start": 26.87,
+      "end": 29.61,
+      "ts": "00:26.870 -> 00:29.610",
+      "jp": "今日は天気がいいですね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>天気<rt>てんき</rt></ruby>がいいですね",
+      "zh": "今天天气不错呢",
+      "en": "The weather is nice today, isn't it?"
+    },
+    {
+      "id": 9,
+      "start": 29.61,
+      "end": 32.05,
+      "ts": "00:29.610 -> 00:32.050",
+      "jp": "まあ悪くない",
+      "jp_html": "まあ<ruby>悪く<rt>わるく</rt></ruby>ない",
+      "zh": "还不错",
+      "en": "Not bad."
+    },
+    {
+      "id": 10,
+      "start": 32.05,
+      "end": 40.39,
+      "ts": "00:32.050 -> 00:40.390",
+      "jp": "天気が悪い時も雨の日も悪くない",
+      "jp_html": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>時<rt>とき</rt></ruby>も<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>も<ruby>悪く<rt>わるく</rt></ruby>ない",
+      "zh": "天气不好也下雨的日子也不坏",
+      "en": "It's not bad when it's a rainy day or when the weather is bad."
+    },
+    {
+      "id": 11,
+      "start": 40.39,
+      "end": 41.91,
+      "ts": "00:40.390 -> 00:41.910",
+      "jp": "でも天気がいい",
+      "jp_html": "でも<ruby>天気<rt>てんき</rt></ruby>がいい",
+      "zh": "但是天气好",
+      "en": "But the weather is nice."
+    },
+    {
+      "id": 12,
+      "start": 41.91,
+      "end": 43.39,
+      "ts": "00:41.910 -> 00:43.390",
+      "jp": "太陽がある",
+      "jp_html": "<ruby>太陽<rt>たいよう</rt></ruby>がある",
+      "zh": "太阳在那儿",
+      "en": "The sun is there."
+    },
+    {
+      "id": 13,
+      "start": 43.39,
+      "end": 45.45,
+      "ts": "00:43.390 -> 00:45.450",
+      "jp": "ちょっと暖かくてね",
+      "jp_html": "ちょっと<ruby>暖かく<rt>あたたかく</rt></ruby>てね",
+      "zh": "天气稍微暖和了一些呢",
+      "en": "It's a bit warm, you know."
+    },
+    {
+      "id": 14,
+      "start": 45.45,
+      "end": 47.27,
+      "ts": "00:45.450 -> 00:47.270",
+      "jp": "いい感じですね",
+      "jp_html": "いい<ruby>感じ<rt>かんじ</rt></ruby>ですね",
+      "zh": "感觉不错呢",
+      "en": "It feels good, doesn't it?"
+    },
+    {
+      "id": 15,
+      "start": 47.27,
+      "end": 49.45,
+      "ts": "00:47.270 -> 00:49.450",
+      "jp": "さっき僕は散歩に行きました",
+      "jp_html": "さっき<ruby>僕は<rt>ぼくは</rt></ruby><ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行き<rt>いき</rt></ruby>ました",
+      "zh": "刚才我去散步了",
+      "en": "I went for a walk just now."
+    },
+    {
+      "id": 16,
+      "start": 49.45,
+      "end": 50.47,
+      "ts": "00:49.450 -> 00:50.470",
+      "jp": "いいですね",
+      "jp_html": "いいですね",
+      "zh": "不错呢",
+      "en": "It's good, isn't it?"
+    },
+    {
+      "id": 17,
+      "start": 50.47,
+      "end": 52.65,
+      "ts": "00:50.470 -> 00:52.650",
+      "jp": "はいはいはい",
+      "jp_html": "はいはいはい",
+      "zh": "嗨嗨嗨",
+      "en": "Yes yes yes"
+    },
+    {
+      "id": 18,
+      "start": 52.65,
+      "end": 54.23,
+      "ts": "00:52.650 -> 00:54.230",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 19,
+      "start": 54.23,
+      "end": 56.45,
+      "ts": "00:54.230 -> 00:56.450",
+      "jp": "秋を楽しんでますか",
+      "jp_html": "<ruby>秋<rt>あき</rt></ruby>を<ruby>楽し<rt>たのし</rt></ruby>んでますか",
+      "zh": "您在享受秋天吗？",
+      "en": "Are you enjoying autumn?"
+    },
+    {
+      "id": 20,
+      "start": 56.45,
+      "end": 58.85,
+      "ts": "00:56.450 -> 00:58.850",
+      "jp": "今日はですね",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>ですね",
+      "zh": "今天呢",
+      "en": "Today, um"
+    },
+    {
+      "id": 21,
+      "start": 58.85,
+      "end": 73.99,
+      "ts": "00:58.850 -> 01:13.990",
+      "jp": "上達についてですね。上達を感じられないとき。初級のとき、ビギナーのとき。初級のときはどんどん成長する感じがしますね。",
+      "jp_html": "<ruby>上達<rt>じょうたつ</rt></ruby>についてですね。<ruby>上達<rt>じょうたつ</rt></ruby>を<ruby>感じ<rt>かんじ</rt></ruby>られないとき。<ruby>初級<rt>しょきゅう</rt></ruby>のとき、ビギナーのとき。<ruby>初級<rt>しょきゅう</rt></ruby>のときはどんどん<ruby>成長す<rt>せいちょうす</rt></ruby>る<ruby>感じ<rt>かんじ</rt></ruby>がしますね。",
+      "zh": "关于进步的问题。感觉不到进步的时候。在初级阶段，在初学者阶段。在初级阶段，感觉自己一直在成长。",
+      "en": "Regarding improvement. When you can't feel progress. During the beginner stage,初级阶段感觉进步非常明显。"
+    },
+    {
+      "id": 22,
+      "start": 74.83,
+      "end": 86.41,
+      "ts": "01:14.830 -> 01:26.410",
+      "jp": "どんどん上達する感じがする。毎日毎日新しい言葉を覚えて。毎日毎日新しい文法を勉強して。",
+      "jp_html": "どんどん<ruby>上達<rt>じょうたつ</rt></ruby>する<ruby>感じ<rt>かんじ</rt></ruby>がする。<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>て。<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>して。",
+      "zh": "感觉不断提升。每天都在学习新的单词。每天都在学习新的语法。",
+      "en": "I feel like I'm improving day by day. Learning new words every single day. Studying new grammar every single day."
+    },
+    {
+      "id": 23,
+      "start": 86.41,
+      "end": 93.81,
+      "ts": "01:26.410 -> 01:33.810",
+      "jp": "1週間2週間3週間4週間どんどん成長する感じがあります",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>2<ruby>週間<rt>しゅうかん</rt></ruby>3<ruby>週間<rt>しゅうかん</rt></ruby>4<ruby>週間<rt>しゅうかん</rt></ruby>どんどん<ruby>成長す<rt>せいちょうす</rt></ruby>る<ruby>感じ<rt>かんじ</rt></ruby>があります",
+      "zh": "有一种不断成长的感觉，一周两周三周四周",
+      "en": "I have a feeling of growing steadily from one week to two weeks to three weeks to four weeks."
+    },
+    {
+      "id": 24,
+      "start": 93.81,
+      "end": 97.97,
+      "ts": "01:33.810 -> 01:37.970",
+      "jp": "最初の1年すごく成長する",
+      "jp_html": "<ruby>最初<rt>さいしょ</rt></ruby>の1<ruby>年<rt>ねん</rt></ruby>すごく<ruby>成長す<rt>せいちょうす</rt></ruby>る",
+      "zh": "第一年真的会有很多成长",
+      "en": "The first year is really where I grow a lot."
+    },
+    {
+      "id": 25,
+      "start": 97.97,
+      "end": 101.11,
+      "ts": "01:37.970 -> 01:41.110",
+      "jp": "2年目もめっちゃ成長する",
+      "jp_html": "2<ruby>年目<rt>ねんめ</rt></ruby>もめっちゃ<ruby>成長す<rt>せいちょうす</rt></ruby>る",
+      "zh": "第二年也会变得很强",
+      "en": "I grew a lot in my second year too"
+    },
+    {
+      "id": 26,
+      "start": 101.11,
+      "end": 106.21,
+      "ts": "01:41.110 -> 01:46.210",
+      "jp": "でも3年目4年目ぐらいになると",
+      "jp_html": "でも3<ruby>年目<rt>ねんめ</rt></ruby>4<ruby>年目<rt>ねんめ</rt></ruby>ぐらいになると",
+      "zh": "但到了第三年、第四年左右就开始",
+      "en": "But by the third and fourth year,"
+    },
+    {
+      "id": 27,
+      "start": 106.21,
+      "end": 114.99,
+      "ts": "01:46.210 -> 01:54.990",
+      "jp": "ちょっとあれ僕の日本語は最近上達してないんじゃないのか",
+      "jp_html": "ちょっとあれ<ruby>僕<rt>ぼく</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby><ruby>上達<rt>じょうたつ</rt></ruby>してないんじゃないのか",
+      "zh": "我的日语最近好像没进步反而退步了呢",
+      "en": "Maybe my Japanese has gotten worse lately, doesn't it?"
+    },
+    {
+      "id": 28,
+      "start": 114.99,
+      "end": 119.81,
+      "ts": "01:54.990 -> 01:59.810",
+      "jp": "と感じ始める人が多いです",
+      "jp_html": "と<ruby>感じ<rt>かんじ</rt></ruby><ruby>始め<rt>はじめ</rt></ruby>る<ruby>人<rt>にん</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>です",
+      "zh": "越来越多的人开始这么觉得",
+      "en": "Many people start to feel that way."
+    },
+    {
+      "id": 29,
+      "start": 119.81,
+      "end": 126.27,
+      "ts": "01:59.810 -> 02:06.270",
+      "jp": "ただそれは感じているだけで",
+      "jp_html": "ただそれは<ruby>感じ<rt>かんじ</rt></ruby>ているだけで",
+      "zh": "只是感觉而已",
+      "en": "That's just how it feels."
+    },
+    {
+      "id": 30,
+      "start": 126.27,
+      "end": 129.13,
+      "ts": "02:06.270 -> 02:09.130",
+      "jp": "上達していないわけではないんですね",
+      "jp_html": "<ruby>上達<rt>じょうたつ</rt></ruby>していないわけではないんですね",
+      "zh": "并不是说没有达到啊",
+      "en": "You haven't reached a level of proficiency, though."
+    },
+    {
+      "id": 31,
+      "start": 129.13,
+      "end": 133.45,
+      "ts": "02:09.130 -> 02:13.450",
+      "jp": "今日はそれについてちょっと話したいと思います",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>それについてちょっと<ruby>話し<rt>はなし</rt></ruby>たいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "今天我想稍微谈谈那个话题",
+      "en": "Today, I want to talk a little about that."
+    },
+    {
+      "id": 32,
+      "start": 133.45,
+      "end": 136.13,
+      "ts": "02:13.450 -> 02:16.130",
+      "jp": "ビギナーの人",
+      "jp_html": "ビギナーの<ruby>人<rt>にん</rt></ruby>",
+      "zh": "初学者的人",
+      "en": "Beginner's level"
+    },
+    {
+      "id": 33,
+      "start": 136.13,
+      "end": 139.93,
+      "ts": "02:16.130 -> 02:19.930",
+      "jp": "初級の人が勉強する言葉というのは",
+      "jp_html": "<ruby>初級<rt>しょきゅう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>が<ruby>勉強<rt>べんきょう</rt></ruby>する<ruby>言葉<rt>ことば</rt></ruby>というのは",
+      "zh": "初级的人学习的语言是",
+      "en": "The words that初级的人学习是指"
+    },
+    {
+      "id": 34,
+      "start": 139.93,
+      "end": 143.53,
+      "ts": "02:19.930 -> 02:23.530",
+      "jp": "すごく基本的な言葉ですね",
+      "jp_html": "すごく<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>ですね",
+      "zh": "这是非常基础的词语吧",
+      "en": "Such basic words, right?"
+    },
+    {
+      "id": 35,
+      "start": 143.53,
+      "end": 147.93,
+      "ts": "02:23.530 -> 02:27.930",
+      "jp": "月曜日火曜日水曜日とか",
+      "jp_html": "<ruby>月曜日<rt>げつようび</rt></ruby><ruby>火曜日<rt>かようび</rt></ruby><ruby>水曜日<rt>すいようび</rt></ruby>とか",
+      "zh": "星期一星期二星期三",
+      "en": "Monday Tuesday Wednesday etc."
+    },
+    {
+      "id": 36,
+      "start": 147.93,
+      "end": 150.93,
+      "ts": "02:27.930 -> 02:30.930",
+      "jp": "明日明後日とか",
+      "jp_html": "<ruby>明日明後日<rt>あすあさって</rt></ruby>とか",
+      "zh": "明天后天之类的",
+      "en": "Tomorrow and the day after tomorrow, etc."
+    },
+    {
+      "id": 37,
+      "start": 150.93,
+      "end": 153.19,
+      "ts": "02:30.930 -> 02:33.190",
+      "jp": "昨日一昨日とか",
+      "jp_html": "<ruby>昨日一昨日<rt>きのうおととい</rt></ruby>とか",
+      "zh": "前天昨天",
+      "en": "The day before yesterday or the day before that"
+    },
+    {
+      "id": 38,
+      "start": 153.19,
+      "end": 158.33,
+      "ts": "02:33.190 -> 02:38.330",
+      "jp": "そういう言葉は毎日たくさん使うから",
+      "jp_html": "そういう<ruby>言葉<rt>ことば</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>たくさん<ruby>使う<rt>つかう</rt></ruby>から",
+      "zh": "这样的词语每天要用很多次",
+      "en": "Such words are used大量地每天。"
+    },
+    {
+      "id": 39,
+      "start": 158.33,
+      "end": 161.15,
+      "ts": "02:38.330 -> 02:41.150",
+      "jp": "会話をするときに",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>をするときに",
+      "zh": "说话的时候",
+      "en": "When talking with someone"
+    },
+    {
+      "id": 40,
+      "start": 161.15,
+      "end": 162.47,
+      "ts": "02:41.150 -> 02:42.470",
+      "jp": "この言葉だ",
+      "jp_html": "この<ruby>言葉<rt>ことば</rt></ruby>だ",
+      "zh": "这句话",
+      "en": "This word"
+    },
+    {
+      "id": 41,
+      "start": 162.47,
+      "end": 164.91,
+      "ts": "02:42.470 -> 02:44.910",
+      "jp": "新しく覚えたこの言葉だ",
+      "jp_html": "<ruby>新しく<rt>あたらしく</rt></ruby><ruby>覚え<rt>おぼえ</rt></ruby>たこの<ruby>言葉<rt>ことば</rt></ruby>だ",
+      "zh": "这是我 newly 学到的词",
+      "en": "This is a new word I learned recently."
+    },
+    {
+      "id": 42,
+      "start": 164.91,
+      "end": 166.91,
+      "ts": "02:44.910 -> 02:46.910",
+      "jp": "たくさん使います",
+      "jp_html": "たくさん<ruby>使い<rt>つかい</rt></ruby>ます",
+      "zh": "使用很多",
+      "en": "I use it a lot."
+    },
+    {
+      "id": 43,
+      "start": 166.91,
+      "end": 168.35,
+      "ts": "02:46.910 -> 02:48.350",
+      "jp": "たくさん気がつきます",
+      "jp_html": "たくさん<ruby>気が<rt>きが</rt></ruby>つきます",
+      "zh": "很多东西会变得很明显",
+      "en": "Many things become apparent."
+    },
+    {
+      "id": 44,
+      "start": 168.35,
+      "end": 171.97,
+      "ts": "02:48.350 -> 02:51.970",
+      "jp": "中級以上になると",
+      "jp_html": "<ruby>中級<rt>ちゅうきゅう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になると",
+      "zh": "到了中级以后",
+      "en": "Above intermediate level and"
+    },
+    {
+      "id": 45,
+      "start": 171.97,
+      "end": 176.17,
+      "ts": "02:51.970 -> 02:56.170",
+      "jp": "ちょっと難しい言葉を覚えますね",
+      "jp_html": "ちょっと<ruby>難しい<rt>むずかしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>ますね",
+      "zh": "记住了些难懂的单词吧",
+      "en": "You're learning some difficult words, huh?"
+    },
+    {
+      "id": 46,
+      "start": 176.17,
+      "end": 182.73,
+      "ts": "02:56.170 -> 03:02.730",
+      "jp": "例えばニュースで出てくる言葉とか",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ニュースで<ruby>出て<rt>でて</rt></ruby>くる<ruby>言葉<rt>ことば</rt></ruby>とか",
+      "zh": "比如新闻里出现的词语",
+      "en": "For example, words that come up in the news"
+    },
+    {
+      "id": 47,
+      "start": 182.73,
+      "end": 189.93,
+      "ts": "03:02.730 -> 03:09.930",
+      "jp": "政治の言葉経済の言葉科学の言葉",
+      "jp_html": "<ruby>政治<rt>せいじ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby><ruby>経済<rt>けいざい</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby><ruby>科学<rt>かがく</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>",
+      "zh": "政治的词语经济词语科学词语",
+      "en": "Political words Economic words Scientific words"
+    },
+    {
+      "id": 48,
+      "start": 189.93,
+      "end": 193.65,
+      "ts": "03:09.930 -> 03:13.650",
+      "jp": "何しようかな",
+      "jp_html": "<ruby>何<rt>なに</rt></ruby>しようかな",
+      "zh": "该怎么办呢",
+      "en": "What should I do?"
+    },
+    {
+      "id": 49,
+      "start": 193.65,
+      "end": 198.09,
+      "ts": "03:13.650 -> 03:18.090",
+      "jp": "例えばね文化の言葉でもいいな文化の言葉",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ね<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>でもいいな<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>",
+      "zh": "比如文化的词语也好文化的词语",
+      "en": "For example, we could use cultural terms like \"cultural terms\"."
+    },
+    {
+      "id": 50,
+      "start": 198.09,
+      "end": 201.77,
+      "ts": "03:18.090 -> 03:21.770",
+      "jp": "例えば着物あるでしょ着物ね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby><ruby>着物<rt>きもの</rt></ruby>あるでしょ<ruby>着物<rt>きもの</rt></ruby>ね",
+      "zh": "比如和服不是吗？和服怎么样？",
+      "en": "For example, you have a kimono, right? Kimono, you know?"
+    },
+    {
+      "id": 51,
+      "start": 201.77,
+      "end": 206.37,
+      "ts": "03:21.770 -> 03:26.370",
+      "jp": "着物のベルトのことなんていうかわかりますか",
+      "jp_html": "<ruby>着物<rt>きもの</rt></ruby>のベルトのことなんていうかわかりますか",
+      "zh": "你知道和服的带子叫什么吗",
+      "en": "Do you know what is meant by the sash of a kimono?"
+    },
+    {
+      "id": 52,
+      "start": 206.37,
+      "end": 209.11,
+      "ts": "03:26.370 -> 03:29.110",
+      "jp": "着物の帯と言いますね帯",
+      "jp_html": "<ruby>着物<rt>きもの</rt></ruby>の<ruby>帯<rt>おび</rt></ruby>と<ruby>言い<rt>いい</rt></ruby>ますね<ruby>帯<rt>おび</rt></ruby>",
+      "zh": "说和服的带子就是带子",
+      "en": "The obi, which is the sash of a kimono."
+    },
+    {
+      "id": 53,
+      "start": 209.11,
+      "end": 215.47,
+      "ts": "03:29.110 -> 03:35.470",
+      "jp": "じゃあ帯という言葉着物の帯という言葉を覚えて",
+      "jp_html": "じゃあ<ruby>帯<rt>おび</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby><ruby>着物<rt>きもの</rt></ruby>の<ruby>帯<rt>おび</rt></ruby>という<ruby>言葉<rt>ことば</rt></ruby>を<ruby>覚え<rt>おぼえ</rt></ruby>て",
+      "zh": "接着把“带”这个词语翻译为和着物相关的“带子”的“带”之后，记得学习一下和服的“带”这个词",
+      "en": "Okay, let's talk about the sash of a kimono. Remember the word \"sash\" for the belt of a kimono."
+    },
+    {
+      "id": 54,
+      "start": 215.47,
+      "end": 219.49,
+      "ts": "03:35.470 -> 03:39.490",
+      "jp": "それを使うことはあんまりないですよね",
+      "jp_html": "それを<ruby>使う<rt>つかう</rt></ruby>ことはあんまりないですよね",
+      "zh": "用它的机会不多吧？",
+      "en": "Don't you use that too often, right?"
+    },
+    {
+      "id": 55,
+      "start": 219.49,
+      "end": 223.89,
+      "ts": "03:39.490 -> 03:43.890",
+      "jp": "着物の話を普通はしないですよね",
+      "jp_html": "<ruby>着物<rt>きもの</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>普通<rt>ふつう</rt></ruby>はしないですよね",
+      "zh": "通常我们不会谈论和服的话题吧？",
+      "en": "Don't we usually not talk about kimono?"
+    },
+    {
+      "id": 56,
+      "start": 223.89,
+      "end": 227.47,
+      "ts": "03:43.890 -> 03:47.470",
+      "jp": "だから中級以上になると",
+      "jp_html": "だから<ruby>中級<rt>ちゅうきゅう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になると",
+      "zh": "所以中级以上就会",
+      "en": "So at intermediate levels and above,"
+    },
+    {
+      "id": 57,
+      "start": 227.47,
+      "end": 233.63,
+      "ts": "03:47.470 -> 03:53.630",
+      "jp": "新しく覚えた言葉をあんまり使うチャンスがありません",
+      "jp_html": "<ruby>新しく<rt>あたらしく</rt></ruby><ruby>覚え<rt>おぼえ</rt></ruby>た<ruby>言葉<rt>ことば</rt></ruby>をあんまり<ruby>使う<rt>つかう</rt></ruby>チャンスがありません",
+      "zh": "新学習の言葉あまり使う機会がありません",
+      "en": "I don't get many chances to use the new words I've learned."
+    },
+    {
+      "id": 58,
+      "start": 233.63,
+      "end": 241.63,
+      "ts": "03:53.630 -> 04:01.630",
+      "jp": "だからなんか私の日本語は全然良くなってないなっていう気がするんですね",
+      "jp_html": "だからなんか<ruby>私<rt>わたし</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>良く<rt>よく</rt></ruby>なってないなっていう<ruby>気が<rt>きが</rt></ruby>するんですね",
+      "zh": "所以我感觉我的日语完全没变好呢",
+      "en": "So I feel like my Japanese hasn't really improved at all."
+    },
+    {
+      "id": 59,
+      "start": 241.63,
+      "end": 246.17,
+      "ts": "04:01.630 -> 04:06.170",
+      "jp": "でも実際はどんどん良くなってます",
+      "jp_html": "でも<ruby>実際<rt>じっさい</rt></ruby>はどんどん<ruby>良く<rt>よく</rt></ruby>なってます",
+      "zh": "但实际上是在不断变好",
+      "en": "But actually, it's getting better and better."
+    },
+    {
+      "id": 60,
+      "start": 246.17,
+      "end": 249.49,
+      "ts": "04:06.170 -> 04:09.490",
+      "jp": "毎日たくさんのインプットをして",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>たくさんのインプットをして",
+      "zh": "每天接受大量的输入",
+      "en": "I put in a lot of input every day."
+    },
+    {
+      "id": 61,
+      "start": 249.49,
+      "end": 252.35,
+      "ts": "04:09.490 -> 04:12.350",
+      "jp": "そしてたくさん話せば",
+      "jp_html": "そしてたくさん<ruby>話せ<rt>はなせ</rt></ruby>ば",
+      "zh": "然后多说些话吧",
+      "en": "And the more you talk, the better."
+    },
+    {
+      "id": 62,
+      "start": 252.35,
+      "end": 256.83,
+      "ts": "04:12.350 -> 04:16.830",
+      "jp": "必ず皆さんの日本語はどんどんどんどん自然になっていくので",
+      "jp_html": "<ruby>必ず<rt>かならず</rt></ruby><ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>はどんどんどんどん<ruby>自然<rt>しぜん</rt></ruby>になっていくので",
+      "zh": "一定会越来越自然地掌握日语的",
+      "en": "Your Japanese will definitely become more and more natural over time."
+    },
+    {
+      "id": 63,
+      "start": 256.83,
+      "end": 259.19,
+      "ts": "04:16.830 -> 04:19.190",
+      "jp": "心配しないでください",
+      "jp_html": "<ruby>心配<rt>しんぱい</rt></ruby>しないでください",
+      "zh": "不要担心",
+      "en": "Don't worry."
+    },
+    {
+      "id": 64,
+      "start": 259.19,
+      "end": 264.55,
+      "ts": "04:19.190 -> 04:24.550",
+      "jp": "初級の時はどんどんどんどん上達してる気がします",
+      "jp_html": "<ruby>初級<rt>しょきゅう</rt></ruby>の<ruby>時<rt>とき</rt></ruby>はどんどんどんどん<ruby>上達<rt>じょうたつ</rt></ruby>してる<ruby>気が<rt>きが</rt></ruby>します",
+      "zh": "初级的时候我觉得自己一直在进步",
+      "en": "I feel like I'm improving steadily when I'm at the beginner level."
+    },
+    {
+      "id": 65,
+      "start": 264.55,
+      "end": 269.53,
+      "ts": "04:24.550 -> 04:29.530",
+      "jp": "中級になるとちょっと上達が遅いような感じがするけど",
+      "jp_html": "<ruby>中級<rt>ちゅうきゅう</rt></ruby>になるとちょっと<ruby>上達<rt>じょうたつ</rt></ruby>が<ruby>遅い<rt>おそい</rt></ruby>ような<ruby>感じ<rt>かんじ</rt></ruby>がするけど",
+      "zh": "中级的时候感觉进步稍微慢了一些",
+      "en": "I feel like progress slows down a bit at intermediate level."
+    },
+    {
+      "id": 66,
+      "start": 269.53,
+      "end": 271.63,
+      "ts": "04:29.530 -> 04:31.630",
+      "jp": "それには理由があって",
+      "jp_html": "それには<ruby>理由<rt>りゆう</rt></ruby>があって",
+      "zh": "那里面有些原因",
+      "en": "There is a reason for that."
+    },
+    {
+      "id": 67,
+      "start": 271.63,
+      "end": 278.33,
+      "ts": "04:31.630 -> 04:38.330",
+      "jp": "さっき言った難しい言葉は毎日使わないという理由と",
+      "jp_html": "さっき<ruby>言った<rt>いった</rt></ruby><ruby>難しい<rt>むずかしい</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>使わ<rt>つかわ</rt></ruby>ないという<ruby>理由<rt>りゆう</rt></ruby>と",
+      "zh": "刚才说的难词是因为每天不用这些词的理由",
+      "en": "The difficult words I said are ones that I don't use every day for the reason that"
+    },
+    {
+      "id": 68,
+      "start": 278.33,
+      "end": 282.89,
+      "ts": "04:38.330 -> 04:42.890",
+      "jp": "あとはやっぱり中級は長いんですよね",
+      "jp_html": "あとはやっぱり<ruby>中級<rt>ちゅうきゅう</rt></ruby>は<ruby>長い<rt>ながい</rt></ruby>んですよね",
+      "zh": "中级的确实挺长的呢",
+      "en": "It's just that the intermediate level seems long, though."
+    },
+    {
+      "id": 69,
+      "start": 282.89,
+      "end": 285.59,
+      "ts": "04:42.890 -> 04:45.590",
+      "jp": "中級はたくさんの言葉があります",
+      "jp_html": "<ruby>中級<rt>ちゅうきゅう</rt></ruby>はたくさんの<ruby>言葉<rt>ことば</rt></ruby>があります",
+      "zh": "中级有很多单词",
+      "en": "Intermediate has many words."
+    },
+    {
+      "id": 70,
+      "start": 285.59,
+      "end": 287.81,
+      "ts": "04:45.590 -> 04:47.810",
+      "jp": "たくさんの言葉がある",
+      "jp_html": "たくさんの<ruby>言葉<rt>ことば</rt></ruby>がある",
+      "zh": "有很多话可以说",
+      "en": "There are many words."
+    },
+    {
+      "id": 71,
+      "start": 287.81,
+      "end": 291.71,
+      "ts": "04:47.810 -> 04:51.710",
+      "jp": "なので中級以上の人",
+      "jp_html": "なので<ruby>中級<rt>ちゅうきゅう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>",
+      "zh": "所以对中级以上的人",
+      "en": "So for intermediate and above levels"
+    },
+    {
+      "id": 72,
+      "start": 291.71,
+      "end": 293.63,
+      "ts": "04:51.710 -> 04:53.630",
+      "jp": "中級上級",
+      "jp_html": "<ruby>中級<rt>ちゅうきゅう</rt></ruby><ruby>上級<rt>じょうきゅう</rt></ruby>",
+      "zh": "中级高级",
+      "en": "Intermediate Advanced"
+    },
+    {
+      "id": 73,
+      "start": 293.63,
+      "end": 297.47,
+      "ts": "04:53.630 -> 04:57.470",
+      "jp": "そういう人たちはちょっと言葉が多すぎるので",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>たちはちょっと<ruby>言葉<rt>ことば</rt></ruby>が<ruby>多す<rt>おおす</rt></ruby>ぎるので",
+      "zh": "这种人说话稍微有点过多一些",
+      "en": "Those people use a bit too many words."
+    },
+    {
+      "id": 74,
+      "start": 297.47,
+      "end": 301.57,
+      "ts": "04:57.470 -> 05:01.570",
+      "jp": "あまり使わない言葉ばっかりかもしれないけど",
+      "jp_html": "あまり<ruby>使わ<rt>つかわ</rt></ruby>ない<ruby>言葉<rt>ことば</rt></ruby>ばっかりかもしれないけど",
+      "zh": "可能只是些很少用到的词语吧",
+      "en": "It might be that all of them are words I hardly ever use."
+    },
+    {
+      "id": 75,
+      "start": 301.57,
+      "end": 303.81,
+      "ts": "05:01.570 -> 05:03.810",
+      "jp": "必ず上達してますから",
+      "jp_html": "<ruby>必ず<rt>かならず</rt></ruby><ruby>上達<rt>じょうたつ</rt></ruby>してますから",
+      "zh": "一定在进步当中",
+      "en": "They are definitely improving."
+    },
+    {
+      "id": 76,
+      "start": 303.81,
+      "end": 305.33,
+      "ts": "05:03.810 -> 05:05.330",
+      "jp": "心配しないで",
+      "jp_html": "<ruby>心配<rt>しんぱい</rt></ruby>しないで",
+      "zh": "不要担心",
+      "en": "Don't worry"
+    },
+    {
+      "id": 77,
+      "start": 305.33,
+      "end": 307.45,
+      "ts": "05:05.330 -> 05:07.450",
+      "jp": "今日も頑張っていきましょう",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>頑張っ<rt>がんばっ</rt></ruby>ていきましょう",
+      "zh": "今天也要加油哦",
+      "en": "Let's work hard today too."
+    },
+    {
+      "id": 78,
+      "start": 307.45,
+      "end": 308.53,
+      "ts": "05:07.450 -> 05:08.530",
+      "jp": "毎日頑張りましょう",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>頑張り<rt>がんばり</rt></ruby>ましょう",
+      "zh": "每天加油吧",
+      "en": "Let's work hard every day."
+    },
+    {
+      "id": 79,
+      "start": 308.53,
+      "end": 309.83,
+      "ts": "05:08.530 -> 05:09.830",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
