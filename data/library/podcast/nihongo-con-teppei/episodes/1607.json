@@ -1,0 +1,1154 @@
+{
+  "id": "1607",
+  "title": "#1607「音楽シリーズ①」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1607.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1607.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/10/28/1607%e3%80%8c%e9%9f%b3%e6%a5%bd%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e2%91%a0%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.46,
+      "end": 3.06,
+      "ts": "00:01.460 -> 00:03.060",
+      "jp": "借金!",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>!",
+      "zh": "借钱！",
+      "en": "Debt!"
+    },
+    {
+      "id": 1,
+      "start": 4.26,
+      "end": 7.42,
+      "ts": "00:04.260 -> 00:07.420",
+      "jp": "今日は音楽シリーズ",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby><ruby>音楽<rt>おんがく</rt></ruby>シリーズ",
+      "zh": "今天是音乐系列",
+      "en": "Today's music series"
+    },
+    {
+      "id": 2,
+      "start": 7.42,
+      "end": 10.4,
+      "ts": "00:07.420 -> 00:10.400",
+      "jp": "はい、皆さん元気ですか?",
+      "jp_html": "はい、<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "大家好，你们好吗?",
+      "en": "Hi, everyone, are you okay?"
+    },
+    {
+      "id": 3,
+      "start": 10.6,
+      "end": 12.52,
+      "ts": "00:10.600 -> 00:12.520",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语播音的时间吧",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 4,
+      "start": 12.52,
+      "end": 17.14,
+      "ts": "00:12.520 -> 00:17.140",
+      "jp": "今日からちょっと音楽シリーズいきます",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>からちょっと<ruby>音楽<rt>おんがく</rt></ruby>シリーズいきます",
+      "zh": "从今天开始稍微来个音乐系列",
+      "en": "From today, I'll be doing a little music series."
+    },
+    {
+      "id": 5,
+      "start": 17.14,
+      "end": 21.46,
+      "ts": "00:17.140 -> 00:21.460",
+      "jp": "これはどういうことかと言いますと",
+      "jp_html": "これはどういうことかと<ruby>言い<rt>いい</rt></ruby>ますと",
+      "zh": "这究竟是什么意思",
+      "en": "To put it simply, this means..."
+    },
+    {
+      "id": 6,
+      "start": 21.46,
+      "end": 27.28,
+      "ts": "00:21.460 -> 00:27.280",
+      "jp": "日本語でたくさんのバンドとか",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>でたくさんのバンドとか",
+      "zh": "用日语说很多乐队之类的",
+      "en": "In Japanese, many bands or"
+    },
+    {
+      "id": 7,
+      "start": 27.28,
+      "end": 30.4,
+      "ts": "00:27.280 -> 00:30.400",
+      "jp": "ミュージシャンの名前を言うときに",
+      "jp_html": "ミュージシャンの<ruby>名前<rt>なまえ</rt></ruby>を<ruby>言う<rt>いう</rt></ruby>ときに",
+      "zh": "说音乐家的名字时",
+      "en": "When saying the name of a musician"
+    },
+    {
+      "id": 8,
+      "start": 30.4,
+      "end": 34.5,
+      "ts": "00:30.400 -> 00:34.500",
+      "jp": "やっぱり英語の音とちょっと違いますよね",
+      "jp_html": "やっぱり<ruby>英語<rt>えいご</rt></ruby>の<ruby>音<rt>おと</rt></ruby>とちょっと<ruby>違い<rt>ちがい</rt></ruby>ますよね",
+      "zh": "果然和英语的发音有点不一样吧",
+      "en": "Yeah, it still sounds a bit different from English, doesn't it?"
+    },
+    {
+      "id": 9,
+      "start": 34.5,
+      "end": 39.4,
+      "ts": "00:34.500 -> 00:39.400",
+      "jp": "なのでたくさん練習した方がいいと思って",
+      "jp_html": "なのでたくさん<ruby>練習<rt>れんしゅう</rt></ruby>した<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思って<rt>おもって</rt></ruby>",
+      "zh": "所以我想多练习会比较好",
+      "en": "So I think it's better to practice a lot."
+    },
+    {
+      "id": 10,
+      "start": 39.4,
+      "end": 44.96,
+      "ts": "00:39.400 -> 00:44.960",
+      "jp": "今日からちょっと音楽シリーズやってみたいと思います",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>からちょっと<ruby>音楽<rt>おんがく</rt></ruby>シリーズやってみたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "从今天开始想试试音乐系列节目",
+      "en": "I'd like to try doing a little music series from today."
+    },
+    {
+      "id": 11,
+      "start": 44.96,
+      "end": 46.84,
+      "ts": "00:44.960 -> 00:46.840",
+      "jp": "例えばですね",
+      "jp_html": "<ruby>例えば<rt>たとえば</rt></ruby>ですね",
+      "zh": "比如呢",
+      "en": "For example,"
+    },
+    {
+      "id": 12,
+      "start": 46.84,
+      "end": 48.94,
+      "ts": "00:46.840 -> 00:48.940",
+      "jp": "ザ・ビートルズ",
+      "jp_html": "ザ・ビートルズ",
+      "zh": "披头士",
+      "en": "The Beatles"
+    },
+    {
+      "id": 13,
+      "start": 48.94,
+      "end": 51.52,
+      "ts": "00:48.940 -> 00:51.520",
+      "jp": "ザ・ビートルズ",
+      "jp_html": "ザ・ビートルズ",
+      "zh": "披头士",
+      "en": "The Beatles"
+    },
+    {
+      "id": 14,
+      "start": 51.52,
+      "end": 54.32,
+      "ts": "00:51.520 -> 00:54.320",
+      "jp": "皆さんはビートルズが好きですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はビートルズが<ruby>好き<rt>すき</rt></ruby>ですか",
+      "zh": "您喜欢披头士乐队吗？",
+      "en": "Do you like The Beatles?"
+    },
+    {
+      "id": 15,
+      "start": 54.32,
+      "end": 55.48,
+      "ts": "00:54.320 -> 00:55.480",
+      "jp": "ビートルズ",
+      "jp_html": "ビートルズ",
+      "zh": "披头士",
+      "en": "The Beatles"
+    },
+    {
+      "id": 16,
+      "start": 55.48,
+      "end": 62.76,
+      "ts": "00:55.480 -> 01:02.760",
+      "jp": "ビートルズは僕のお父さんとかお母さんとかが結構好きで",
+      "jp_html": "ビートルズは<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>父さん<rt>とうさん</rt></ruby>とかお<ruby>母さん<rt>かあさん</rt></ruby>とかが<ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>で",
+      "zh": "披头士乐队我爸爸和妈妈挺喜欢的",
+      "en": "The Beatles are quite liked by my parents."
+    },
+    {
+      "id": 17,
+      "start": 62.76,
+      "end": 65.9,
+      "ts": "01:02.760 -> 01:05.900",
+      "jp": "車の中でよく聞いてましたね",
+      "jp_html": "<ruby>車<rt>くるま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でよく<ruby>聞い<rt>きい</rt></ruby>てましたね",
+      "zh": "我在车里经常听的。",
+      "en": "I listened to it a lot in the car, didn't I?"
+    },
+    {
+      "id": 18,
+      "start": 65.9,
+      "end": 67.28,
+      "ts": "01:05.900 -> 01:07.280",
+      "jp": "ザ・ビートルズ",
+      "jp_html": "ザ・ビートルズ",
+      "zh": "披头士",
+      "en": "The Beatles"
+    },
+    {
+      "id": 19,
+      "start": 67.28,
+      "end": 73.5,
+      "ts": "01:07.280 -> 01:13.500",
+      "jp": "ジョン・レノン、ポール・マッカートニー、ジョージ・ハリソン、リンゴスター",
+      "jp_html": "ジョン・レノン、ポール・マッカートニー、ジョージ・ハリソン、リンゴスター",
+      "zh": "约翰·列侬、保罗·麦卡特尼、乔治·哈里森、林戈·斯塔尔",
+      "en": "John Lennon, Paul McCartney, George Harrison, Ringo Starr"
+    },
+    {
+      "id": 20,
+      "start": 73.5,
+      "end": 75.72,
+      "ts": "01:13.500 -> 01:15.720",
+      "jp": "その4人ですよね",
+      "jp_html": "その4<ruby>人<rt>にん</rt></ruby>ですよね",
+      "zh": "就是那四个人吧？",
+      "en": "Those four, right?"
+    },
+    {
+      "id": 21,
+      "start": 75.72,
+      "end": 80.58,
+      "ts": "01:15.720 -> 01:20.580",
+      "jp": "有名なバンド知らない人は多分ゼロじゃないかな",
+      "jp_html": "<ruby>有名<rt>ゆうめい</rt></ruby>なバンド<ruby>知ら<rt>しら</rt></ruby>ない<ruby>人<rt>にん</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby>ゼロじゃないかな",
+      "zh": "有名的的乐队不知道的人大概不会是零吧",
+      "en": "I bet the number of people who don't know famous bands is probably zero."
+    },
+    {
+      "id": 22,
+      "start": 80.58,
+      "end": 83.18,
+      "ts": "01:20.580 -> 01:23.180",
+      "jp": "ビートルズ",
+      "jp_html": "ビートルズ",
+      "zh": "披头士",
+      "en": "The Beatles"
+    },
+    {
+      "id": 23,
+      "start": 83.18,
+      "end": 89.6,
+      "ts": "01:23.180 -> 01:29.600",
+      "jp": "そしてビートルズと同じぐらい有名なバンド",
+      "jp_html": "そしてビートルズと<ruby>同じ<rt>おなじ</rt></ruby>ぐらい<ruby>有名<rt>ゆうめい</rt></ruby>なバンド",
+      "zh": "和披头士一样著名的乐队",
+      "en": "And just as famous a band as the Beatles"
+    },
+    {
+      "id": 24,
+      "start": 89.6,
+      "end": 91.76,
+      "ts": "01:29.600 -> 01:31.760",
+      "jp": "ローリングストーンズ",
+      "jp_html": "ローリングストーンズ",
+      "zh": "滚石乐队",
+      "en": "The Rolling Stones"
+    },
+    {
+      "id": 25,
+      "start": 91.76,
+      "end": 93.84,
+      "ts": "01:31.760 -> 01:33.840",
+      "jp": "ローリングストーンズ",
+      "jp_html": "ローリングストーンズ",
+      "zh": "滚石乐队",
+      "en": "Rolling Stones"
+    },
+    {
+      "id": 26,
+      "start": 93.84,
+      "end": 98.42,
+      "ts": "01:33.840 -> 01:38.420",
+      "jp": "ローリングストーンズはビートルズに比べると",
+      "jp_html": "ローリングストーンズはビートルズに<ruby>比べ<rt>くらべ</rt></ruby>ると",
+      "zh": "滚石乐队与披头士相比",
+      "en": "The Rolling Stones compare to the Beatles"
+    },
+    {
+      "id": 27,
+      "start": 98.42,
+      "end": 101.46,
+      "ts": "01:38.420 -> 01:41.460",
+      "jp": "ちょっとこう悪って感じですね",
+      "jp_html": "ちょっとこう<ruby>悪っ<rt>わるっ</rt></ruby>て<ruby>感じ<rt>かんじ</rt></ruby>ですね",
+      "zh": "感觉有点不舒服呢",
+      "en": "It feels a bit off or wrong."
+    },
+    {
+      "id": 28,
+      "start": 101.46,
+      "end": 104.6,
+      "ts": "01:41.460 -> 01:44.600",
+      "jp": "悪っていうのはちょっとなんかこう",
+      "jp_html": "<ruby>悪っ<rt>わるっ</rt></ruby>ていうのはちょっとなんかこう",
+      "zh": "恶的東西有點怪怪的",
+      "en": "Evil is sort of like this, you know?"
+    },
+    {
+      "id": 29,
+      "start": 104.6,
+      "end": 107.0,
+      "ts": "01:44.600 -> 01:47.000",
+      "jp": "かっこいいけど",
+      "jp_html": "かっこいいけど",
+      "zh": "很好看但",
+      "en": "It's cool but"
+    },
+    {
+      "id": 30,
+      "start": 107.0,
+      "end": 112.6,
+      "ts": "01:47.000 -> 01:52.600",
+      "jp": "なんかちょっと悪いことをしている若者みたいな",
+      "jp_html": "なんかちょっと<ruby>悪い<rt>わるい</rt></ruby>ことをしている<ruby>若者<rt>わかもの</rt></ruby>みたいな",
+      "zh": "好像在做错事的年轻人一样",
+      "en": "Like a young person doing something slightly wrong"
+    },
+    {
+      "id": 31,
+      "start": 112.6,
+      "end": 116.14,
+      "ts": "01:52.600 -> 01:56.140",
+      "jp": "そういうイメージだったらしいですね",
+      "jp_html": "そういうイメージだったらしいですね",
+      "zh": "原来给人的印象是这样的吧？",
+      "en": "It seemed that was the kind of image, though."
+    },
+    {
+      "id": 32,
+      "start": 116.14,
+      "end": 121.48,
+      "ts": "01:56.140 -> 02:01.480",
+      "jp": "今ではおじいちゃんたちになってますが",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>ではおじいちゃんたちになってますが",
+      "zh": "现在都成了爷爷们了",
+      "en": "Now that they have become grandfathers,"
+    },
+    {
+      "id": 33,
+      "start": 121.48,
+      "end": 124.62,
+      "ts": "02:01.480 -> 02:04.620",
+      "jp": "パワフルなおじいちゃんたちですね",
+      "jp_html": "パワフルなおじいちゃんたちですね",
+      "zh": "这些强大的爷爷们啊",
+      "en": "Those powerful grandfathers, huh?"
+    },
+    {
+      "id": 34,
+      "start": 124.62,
+      "end": 125.54,
+      "ts": "02:04.620 -> 02:05.540",
+      "jp": "パワフルな",
+      "jp_html": "パワフルな",
+      "zh": "强大的",
+      "en": "Powerful"
+    },
+    {
+      "id": 35,
+      "start": 125.54,
+      "end": 130.84,
+      "ts": "02:05.540 -> 02:10.840",
+      "jp": "もちろんビートルズのポールマッカートニー",
+      "jp_html": "もちろんビートルズのポールマッカートニー",
+      "zh": "当然披头士乐队的保罗·麦卡特尼",
+      "en": "Of course, Paul McCartney of The Beatles"
+    },
+    {
+      "id": 36,
+      "start": 130.84,
+      "end": 133.2,
+      "ts": "02:10.840 -> 02:13.200",
+      "jp": "リンゴスター2人とも元気ですけど",
+      "jp_html": "リンゴスター2<ruby>人<rt>にん</rt></ruby>とも<ruby>元気<rt>げんき</rt></ruby>ですけど",
+      "zh": "两个林果斯泰都很好tà。",
+      "en": "Both Ringo Stars are fine but"
+    },
+    {
+      "id": 37,
+      "start": 133.2,
+      "end": 135.04,
+      "ts": "02:13.200 -> 02:15.040",
+      "jp": "ローリングストーンズ",
+      "jp_html": "ローリングストーンズ",
+      "zh": "滚石乐队",
+      "en": "Rolling Stones"
+    },
+    {
+      "id": 38,
+      "start": 135.04,
+      "end": 138.76,
+      "ts": "02:15.040 -> 02:18.760",
+      "jp": "まだバンドでライブをやったり",
+      "jp_html": "まだバンドでライブをやったり",
+      "zh": "乐队还在继续演出或live演奏",
+      "en": "Still performs live with the band"
+    },
+    {
+      "id": 39,
+      "start": 138.76,
+      "end": 143.48,
+      "ts": "02:18.760 -> 02:23.480",
+      "jp": "この前新しいアルバムが出ましたね",
+      "jp_html": "この<ruby>前<rt>まえ</rt></ruby><ruby>新しい<rt>あたらしい</rt></ruby>アルバムが<ruby>出ま<rt>でま</rt></ruby>したね",
+      "zh": "最近出了新专辑啊",
+      "en": "Didn't you release a new album recently?"
+    },
+    {
+      "id": 40,
+      "start": 143.48,
+      "end": 144.52,
+      "ts": "02:23.480 -> 02:24.520",
+      "jp": "とても良かったです",
+      "jp_html": "とても<ruby>良か<rt>よか</rt></ruby>ったです",
+      "zh": "真的很好。",
+      "en": "It was very good."
+    },
+    {
+      "id": 41,
+      "start": 144.52,
+      "end": 147.16,
+      "ts": "02:24.520 -> 02:27.160",
+      "jp": "聞きましたけどとてもかっこよかった",
+      "jp_html": "<ruby>聞き<rt>きき</rt></ruby>ましたけどとてもかっこよかった",
+      "zh": "听说真的很酷炫",
+      "en": "I heard it was really cool."
+    },
+    {
+      "id": 42,
+      "start": 147.16,
+      "end": 149.08,
+      "ts": "02:27.160 -> 02:29.080",
+      "jp": "ローリングストーンズ",
+      "jp_html": "ローリングストーンズ",
+      "zh": "滚石乐队",
+      "en": "Rolling Stones"
+    },
+    {
+      "id": 43,
+      "start": 149.08,
+      "end": 152.1,
+      "ts": "02:29.080 -> 02:32.100",
+      "jp": "そしてザ・フー",
+      "jp_html": "そしてザ・フー",
+      "zh": "然后是披头士",
+      "en": "And then The Who"
+    },
+    {
+      "id": 44,
+      "start": 152.1,
+      "end": 153.3,
+      "ts": "02:32.100 -> 02:33.300",
+      "jp": "ザ・フー",
+      "jp_html": "ザ・フー",
+      "zh": "齐柏林飞车队",
+      "en": "The Who"
+    },
+    {
+      "id": 45,
+      "start": 153.3,
+      "end": 155.18,
+      "ts": "02:33.300 -> 02:35.180",
+      "jp": "ザ・フーは",
+      "jp_html": "ザ・フーは",
+      "zh": "甲壳虫乐队是",
+      "en": "The Who is"
+    },
+    {
+      "id": 46,
+      "start": 155.18,
+      "end": 159.34,
+      "ts": "02:35.180 -> 02:39.340",
+      "jp": "ザ・フーもイギリスのバンドですね",
+      "jp_html": "ザ・フーもイギリスのバンドですね",
+      "zh": "也是英国的乐队呢",
+      "en": "The Who is also an English band."
+    },
+    {
+      "id": 47,
+      "start": 159.34,
+      "end": 162.34,
+      "ts": "02:39.340 -> 02:42.340",
+      "jp": "ビートルズ、ローリングストーンズ、ザ・フー",
+      "jp_html": "ビートルズ、ローリングストーンズ、ザ・フー",
+      "zh": "披头士、滚石乐队、_the_ 花园-Sahara",
+      "en": "The Beatles, Rolling Stones, The Who"
+    },
+    {
+      "id": 48,
+      "start": 162.34,
+      "end": 164.38,
+      "ts": "02:42.340 -> 02:44.380",
+      "jp": "そしてザ・キンクス",
+      "jp_html": "そしてザ・キンクス",
+      "zh": "然后是“The Kinks”",
+      "en": "And then The Kinks"
+    },
+    {
+      "id": 49,
+      "start": 164.38,
+      "end": 181.54,
+      "ts": "02:44.380 -> 03:01.540",
+      "jp": "僕は大学生の時にちょっとギターでカバーしました",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>ちょっとギターでカバーしました",
+      "zh": "我在大学的时候稍微弹了一下吉他cover了首歌",
+      "en": "I covered a song on guitar when I was in university."
+    },
+    {
+      "id": 50,
+      "start": 181.54,
+      "end": 184.58,
+      "ts": "03:01.540 -> 03:04.580",
+      "jp": "簡単だけどかっこいい",
+      "jp_html": "<ruby>簡単<rt>かんたん</rt></ruby>だけどかっこいい",
+      "zh": "简单但很酷",
+      "en": "Simple but cool"
+    },
+    {
+      "id": 51,
+      "start": 184.58,
+      "end": 187.64,
+      "ts": "03:04.580 -> 03:07.640",
+      "jp": "簡単だけどかっこいいですかね",
+      "jp_html": "<ruby>簡単<rt>かんたん</rt></ruby>だけどかっこいいですかね",
+      "zh": "简单但帅吧",
+      "en": "Is it cool but simple, right?"
+    },
+    {
+      "id": 52,
+      "start": 187.64,
+      "end": 192.98,
+      "ts": "03:07.640 -> 03:12.980",
+      "jp": "そしてThe Doors",
+      "jp_html": "そしてThe Doors",
+      "zh": "然后是The Doors",
+      "en": "And then The Doors"
+    },
+    {
+      "id": 53,
+      "start": 192.98,
+      "end": 198.1,
+      "ts": "03:12.980 -> 03:18.100",
+      "jp": "Doorsここでアメリカのバンドになりましたね",
+      "jp_html": "Doorsここでアメリカのバンドになりましたね",
+      "zh": "Door们这里成了美国的乐队呢",
+      "en": "Doors Here they became an American band."
+    },
+    {
+      "id": 54,
+      "start": 198.1,
+      "end": 202.44,
+      "ts": "03:18.100 -> 03:22.440",
+      "jp": "アメリカのバンドカリフォルニアのThe Doors",
+      "jp_html": "アメリカのバンドカリフォルニアのThe Doors",
+      "zh": "美国的乐队加利福尼亚的门徒",
+      "en": "American band California's The Doors"
+    },
+    {
+      "id": 55,
+      "start": 202.44,
+      "end": 207.68,
+      "ts": "03:22.440 -> 03:27.680",
+      "jp": "実は僕はThe Doorsが大好き",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby>The Doorsが<ruby>大好き<rt>だいすき</rt></ruby>",
+      "zh": "其实我非常喜欢The Doors乐队",
+      "en": "Actually, I really love The Doors."
+    },
+    {
+      "id": 56,
+      "start": 207.68,
+      "end": 210.7,
+      "ts": "03:27.680 -> 03:30.700",
+      "jp": "大学生の時たくさん聴いてましたね",
+      "jp_html": "<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>たくさん<ruby>聴い<rt>きい</rt></ruby>てましたね",
+      "zh": "大学的时候听了很多吧",
+      "en": "You listened to it a lot in college, right?"
+    },
+    {
+      "id": 57,
+      "start": 210.7,
+      "end": 215.3,
+      "ts": "03:30.700 -> 03:35.300",
+      "jp": "僕はその時ちょっとヒッピーみたいな",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby>その<ruby>時<rt>とき</rt></ruby>ちょっとヒッピーみたいな",
+      "zh": "我当时有点像 hippie 一样",
+      "en": "I was kind of hippie-like at that time."
+    },
+    {
+      "id": 58,
+      "start": 215.3,
+      "end": 219.06,
+      "ts": "03:35.300 -> 03:39.060",
+      "jp": "ヒッピーになりたい大学生でした",
+      "jp_html": "ヒッピーになりたい<ruby>大学生<rt>だいがくせい</rt></ruby>でした",
+      "zh": "想成为 hippie 的大学生",
+      "en": "I was a college student who wanted to be a hippie."
+    },
+    {
+      "id": 59,
+      "start": 219.06,
+      "end": 223.28,
+      "ts": "03:39.060 -> 03:43.280",
+      "jp": "だから部屋の中にはThe Doorsのポスター",
+      "jp_html": "だから<ruby>部屋<rt>へや</rt></ruby>の<ruby>中に<rt>なかに</rt></ruby>はThe Doorsのポスター",
+      "zh": "所以房间里挂着The Doors的海报",
+      "en": "So there is a poster of The Doors in the room."
+    },
+    {
+      "id": 60,
+      "start": 223.28,
+      "end": 226.1,
+      "ts": "03:43.280 -> 03:46.100",
+      "jp": "貼って",
+      "jp_html": "<ruby>貼っ<rt>はっ</rt></ruby>て",
+      "zh": "贴上",
+      "en": "Paste"
+    },
+    {
+      "id": 61,
+      "start": 226.1,
+      "end": 229.6,
+      "ts": "03:46.100 -> 03:49.600",
+      "jp": "ちょっとサイケデリックな",
+      "jp_html": "ちょっとサイケデリックな",
+      "zh": "稍微psychedelic的",
+      "en": "A little psychedelic"
+    },
+    {
+      "id": 62,
+      "start": 229.6,
+      "end": 232.06,
+      "ts": "03:49.600 -> 03:52.060",
+      "jp": "アルバムは",
+      "jp_html": "アルバムは",
+      "zh": "专辑是",
+      "en": "The album is"
+    },
+    {
+      "id": 63,
+      "start": 232.06,
+      "end": 234.14,
+      "ts": "03:52.060 -> 03:54.140",
+      "jp": "全部聴きましたね",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>聴き<rt>きき</rt></ruby>ましたね",
+      "zh": "你全都听完了吧",
+      "en": "Did you listen to all of it?"
+    },
+    {
+      "id": 64,
+      "start": 234.14,
+      "end": 236.2,
+      "ts": "03:54.140 -> 03:56.200",
+      "jp": "ジム・モリソンの",
+      "jp_html": "ジム・モリソンの",
+      "zh": "吉姆·莫里森的",
+      "en": "Jim Morrison's"
+    },
+    {
+      "id": 65,
+      "start": 236.2,
+      "end": 237.92,
+      "ts": "03:56.200 -> 03:57.920",
+      "jp": "もちろん",
+      "jp_html": "もちろん",
+      "zh": "当然",
+      "en": "Of course"
+    },
+    {
+      "id": 66,
+      "start": 237.92,
+      "end": 239.02,
+      "ts": "03:57.920 -> 03:59.020",
+      "jp": "ファーストアルバム",
+      "jp_html": "ファーストアルバム",
+      "zh": "首张专辑",
+      "en": "First album"
+    },
+    {
+      "id": 67,
+      "start": 239.02,
+      "end": 240.28,
+      "ts": "03:59.020 -> 04:00.280",
+      "jp": "セカンドアルバム",
+      "jp_html": "セカンドアルバム",
+      "zh": "第二张专辑",
+      "en": "Second album"
+    },
+    {
+      "id": 68,
+      "start": 240.28,
+      "end": 241.4,
+      "ts": "04:00.280 -> 04:01.400",
+      "jp": "サードアルバム",
+      "jp_html": "サードアルバム",
+      "zh": "第三张专辑",
+      "en": "Third album"
+    },
+    {
+      "id": 69,
+      "start": 241.4,
+      "end": 241.8,
+      "ts": "04:01.400 -> 04:01.800",
+      "jp": "全部",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>",
+      "zh": "全部",
+      "en": "All"
+    },
+    {
+      "id": 70,
+      "start": 241.8,
+      "end": 246.6,
+      "ts": "04:01.800 -> 04:06.600",
+      "jp": "オルガンのベース",
+      "jp_html": "オルガンのベース",
+      "zh": "管风琴的低音",
+      "en": "Organ bass"
+    },
+    {
+      "id": 71,
+      "start": 246.6,
+      "end": 248.52,
+      "ts": "04:06.600 -> 04:08.520",
+      "jp": "めっちゃかっこいいですね",
+      "jp_html": "めっちゃかっこいいですね",
+      "zh": "真的好酷啊",
+      "en": "It's really cool, isn't it?"
+    },
+    {
+      "id": 72,
+      "start": 248.52,
+      "end": 257.1,
+      "ts": "04:08.520 -> 04:17.100",
+      "jp": "The Doors",
+      "jp_html": "The Doors",
+      "zh": "大门",
+      "en": "The Doors"
+    },
+    {
+      "id": 73,
+      "start": 257.1,
+      "end": 258.7,
+      "ts": "04:17.100 -> 04:18.700",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 74,
+      "start": 258.7,
+      "end": 261.3,
+      "ts": "04:18.700 -> 04:21.300",
+      "jp": "次ね",
+      "jp_html": "<ruby>次ね<rt>つぎね</rt></ruby>",
+      "zh": "接着",
+      "en": "Next please"
+    },
+    {
+      "id": 75,
+      "start": 261.3,
+      "end": 263.08,
+      "ts": "04:21.300 -> 04:23.080",
+      "jp": "まだまだいきますよ",
+      "jp_html": "まだまだいきますよ",
+      "zh": "还继续走呢",
+      "en": "We will go on."
+    },
+    {
+      "id": 76,
+      "start": 263.08,
+      "end": 264.08,
+      "ts": "04:23.080 -> 04:24.080",
+      "jp": "The Bars",
+      "jp_html": "The Bars",
+      "zh": "酒吧",
+      "en": "The Bars"
+    },
+    {
+      "id": 77,
+      "start": 264.08,
+      "end": 267.52,
+      "ts": "04:24.080 -> 04:27.520",
+      "jp": "Mr. Tamblyn Man",
+      "jp_html": "Mr. Tamblyn Man",
+      "zh": "坦布林先生曼",
+      "en": "Mr. Tamblyn Man"
+    },
+    {
+      "id": 78,
+      "start": 267.52,
+      "end": 269.38,
+      "ts": "04:27.520 -> 04:29.380",
+      "jp": "The Bars",
+      "jp_html": "The Bars",
+      "zh": "酒吧",
+      "en": "The Bars"
+    },
+    {
+      "id": 79,
+      "start": 269.38,
+      "end": 272.46,
+      "ts": "04:29.380 -> 04:32.460",
+      "jp": "Mr. Tamblyn Man",
+      "jp_html": "Mr. Tamblyn Man",
+      "zh": "坦布林先生曼",
+      "en": "Mr. Tamblyn Man"
+    },
+    {
+      "id": 80,
+      "start": 272.46,
+      "end": 273.14,
+      "ts": "04:32.460 -> 04:33.140",
+      "jp": "これは",
+      "jp_html": "これは",
+      "zh": "这是",
+      "en": "This is"
+    },
+    {
+      "id": 81,
+      "start": 273.14,
+      "end": 274.9,
+      "ts": "04:33.140 -> 04:34.900",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 82,
+      "start": 274.9,
+      "end": 277.58,
+      "ts": "04:34.900 -> 04:37.580",
+      "jp": "ボブディラン",
+      "jp_html": "ボブディラン",
+      "zh": "鲍勃·迪伦",
+      "en": "Bob Dylan"
+    },
+    {
+      "id": 83,
+      "start": 277.58,
+      "end": 278.76,
+      "ts": "04:37.580 -> 04:38.760",
+      "jp": "ボブディランが",
+      "jp_html": "ボブディランが",
+      "zh": "鲍勃·迪伦",
+      "en": "Bob Dylanが"
+    },
+    {
+      "id": 84,
+      "start": 278.76,
+      "end": 280.64,
+      "ts": "04:38.760 -> 04:40.640",
+      "jp": "カバーをしました",
+      "jp_html": "カバーをしました",
+      "zh": "覆盖了",
+      "en": "I covered it."
+    },
+    {
+      "id": 85,
+      "start": 280.64,
+      "end": 282.3,
+      "ts": "04:40.640 -> 04:42.300",
+      "jp": "え?ちょっと待てよ",
+      "jp_html": "え?ちょっと<ruby>待て<rt>まて</rt></ruby>よ",
+      "zh": "咦？等等一下",
+      "en": "Hm? Hold on a moment."
+    },
+    {
+      "id": 86,
+      "start": 282.3,
+      "end": 285.12,
+      "ts": "04:42.300 -> 04:45.120",
+      "jp": "どっちがオリジナルかな",
+      "jp_html": "どっちがオリジナルかな",
+      "zh": "哪个是原创的呢",
+      "en": "Which one is the original?"
+    },
+    {
+      "id": 87,
+      "start": 285.12,
+      "end": 287.26,
+      "ts": "04:45.120 -> 04:47.260",
+      "jp": "ボブ・ディランがオリジナル?",
+      "jp_html": "ボブ・ディランがオリジナル?",
+      "zh": "鲍勃·迪伦的原创？",
+      "en": "Is Bob Dylan the original?"
+    },
+    {
+      "id": 88,
+      "start": 287.4,
+      "end": 288.78,
+      "ts": "04:47.400 -> 04:48.780",
+      "jp": "それともザ・バーズがオリジナル?",
+      "jp_html": "それともザ・バーズがオリジナル?",
+      "zh": "那倒是《THE BAND》是原版？",
+      "en": "Or were The Birds the original?"
+    },
+    {
+      "id": 89,
+      "start": 289.54,
+      "end": 292.6,
+      "ts": "04:49.540 -> 04:52.600",
+      "jp": "ちょっと忘れてしまったけど",
+      "jp_html": "ちょっと<ruby>忘れ<rt>わすれ</rt></ruby>てしまったけど",
+      "zh": "稍微忘记了一下不过",
+      "en": "I kind of forgot that, but"
+    },
+    {
+      "id": 90,
+      "start": 292.6,
+      "end": 294.92,
+      "ts": "04:52.600 -> 04:54.920",
+      "jp": "まあまあまあとにかくザ・バーズ",
+      "jp_html": "まあまあまあとにかくザ・バーズ",
+      "zh": "姑且不论ザ· Vaults",
+      "en": "Well, to sum up, The Birds."
+    },
+    {
+      "id": 91,
+      "start": 294.92,
+      "end": 299.96,
+      "ts": "04:54.920 -> 04:59.960",
+      "jp": "ファーストアルバムはとてもロックな感じで",
+      "jp_html": "ファーストアルバムはとてもロックな<ruby>感じ<rt>かんじ</rt></ruby>で",
+      "zh": "第一张专辑感觉非常摇滚",
+      "en": "The first album has a very rock feel."
+    },
+    {
+      "id": 92,
+      "start": 299.96,
+      "end": 301.92,
+      "ts": "04:59.960 -> 05:01.920",
+      "jp": "セカンドアルバムはちょっとカントリー",
+      "jp_html": "セカンドアルバムはちょっとカントリー",
+      "zh": "第二张专辑有点乡村音乐风格",
+      "en": "The second album is a bit country."
+    },
+    {
+      "id": 93,
+      "start": 301.92,
+      "end": 305.44,
+      "ts": "05:01.920 -> 05:05.440",
+      "jp": "カントリーロックみたいな感じだったと思うけど",
+      "jp_html": "カントリーロックみたいな<ruby>感じ<rt>かんじ</rt></ruby>だったと<ruby>思う<rt>おもう</rt></ruby>けど",
+      "zh": "我觉得像是乡村摇滚的感觉",
+      "en": "I think it was in a country rock style."
+    },
+    {
+      "id": 94,
+      "start": 305.44,
+      "end": 306.42,
+      "ts": "05:05.440 -> 05:06.420",
+      "jp": "ちょっと覚えてない",
+      "jp_html": "ちょっと<ruby>覚え<rt>おぼえ</rt></ruby>てない",
+      "zh": "记不太起来了",
+      "en": "I kind of forgot."
+    },
+    {
+      "id": 95,
+      "start": 306.42,
+      "end": 308.78,
+      "ts": "05:06.420 -> 05:08.780",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 96,
+      "start": 308.78,
+      "end": 311.44,
+      "ts": "05:08.780 -> 05:11.440",
+      "jp": "次ですね",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>ですね",
+      "zh": "这是第二次了",
+      "en": "Next please."
+    },
+    {
+      "id": 97,
+      "start": 311.44,
+      "end": 312.96,
+      "ts": "05:11.440 -> 05:12.960",
+      "jp": "次はちょっと次回いきます",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>はちょっと<ruby>次回<rt>じかい</rt></ruby>いきます",
+      "zh": "下次见再见",
+      "en": "The next one will be skipped for next time."
+    },
+    {
+      "id": 98,
+      "start": 312.96,
+      "end": 314.02,
+      "ts": "05:12.960 -> 05:14.020",
+      "jp": "長くなるので",
+      "jp_html": "<ruby>長く<rt>ながく</rt></ruby>なるので",
+      "zh": "长篇大论所以",
+      "en": "It will be long."
+    },
+    {
+      "id": 99,
+      "start": 314.02,
+      "end": 316.38,
+      "ts": "05:14.020 -> 05:16.380",
+      "jp": "今回どうでしたか",
+      "jp_html": "<ruby>今回<rt>こんかい</rt></ruby>どうでしたか",
+      "zh": "这次怎么样？",
+      "en": "How was it this time?"
+    },
+    {
+      "id": 100,
+      "start": 316.38,
+      "end": 318.38,
+      "ts": "05:16.380 -> 05:18.380",
+      "jp": "音楽シリーズいいですよね",
+      "jp_html": "<ruby>音楽<rt>おんがく</rt></ruby>シリーズいいですよね",
+      "zh": "音乐系列不错吧",
+      "en": "Don't music series sound good?"
+    },
+    {
+      "id": 101,
+      "start": 318.38,
+      "end": 320.14,
+      "ts": "05:18.380 -> 05:20.140",
+      "jp": "カタカナで",
+      "jp_html": "カタカナで",
+      "zh": "katakana里",
+      "en": "Katakana"
+    },
+    {
+      "id": 102,
+      "start": 320.14,
+      "end": 320.96,
+      "ts": "05:20.140 -> 05:20.960",
+      "jp": "The Beatles",
+      "jp_html": "The Beatles",
+      "zh": "披头士乐队",
+      "en": "The Beatles"
+    },
+    {
+      "id": 103,
+      "start": 320.96,
+      "end": 322.8,
+      "ts": "05:20.960 -> 05:22.800",
+      "jp": "The Rolling Stones",
+      "jp_html": "The Rolling Stones",
+      "zh": "滚石乐队",
+      "en": "The Rolling Stones"
+    },
+    {
+      "id": 104,
+      "start": 322.8,
+      "end": 323.84,
+      "ts": "05:22.800 -> 05:23.840",
+      "jp": "The Who",
+      "jp_html": "The Who",
+      "zh": "谁",
+      "en": "The Who"
+    },
+    {
+      "id": 105,
+      "start": 323.84,
+      "end": 324.88,
+      "ts": "05:23.840 -> 05:24.880",
+      "jp": "The Kinks",
+      "jp_html": "The Kinks",
+      "zh": "凯尼克斯",
+      "en": "The Kinks"
+    },
+    {
+      "id": 106,
+      "start": 324.88,
+      "end": 326.18,
+      "ts": "05:24.880 -> 05:26.180",
+      "jp": "The Doors",
+      "jp_html": "The Doors",
+      "zh": "大门",
+      "en": "The Doors"
+    },
+    {
+      "id": 107,
+      "start": 326.18,
+      "end": 327.72,
+      "ts": "05:26.180 -> 05:27.720",
+      "jp": "The Bars",
+      "jp_html": "The Bars",
+      "zh": "酒吧",
+      "en": "The Bars"
+    },
+    {
+      "id": 108,
+      "start": 327.72,
+      "end": 329.64,
+      "ts": "05:27.720 -> 05:29.640",
+      "jp": "みんなザザザザ",
+      "jp_html": "みんなザザザザ",
+      "zh": "大家扎扎扎扎",
+      "en": "Everyone zzzzzz"
+    },
+    {
+      "id": 109,
+      "start": 329.64,
+      "end": 331.8,
+      "ts": "05:29.640 -> 05:31.800",
+      "jp": "いいですね",
+      "jp_html": "いいですね",
+      "zh": "不错呢",
+      "en": "It's good, isn't it?"
+    },
+    {
+      "id": 110,
+      "start": 331.8,
+      "end": 335.34,
+      "ts": "05:31.800 -> 05:35.340",
+      "jp": "ジョニー・マーのザザじゃないけど",
+      "jp_html": "ジョニー・マーのザザじゃないけど",
+      "zh": "乔尼·马克的不是那个扎扎",
+      "en": "It's not by Jonny May anyway."
+    },
+    {
+      "id": 111,
+      "start": 335.34,
+      "end": 336.54,
+      "ts": "05:35.340 -> 05:36.540",
+      "jp": "ザザザザ",
+      "jp_html": "ザザザザ",
+      "zh": "扎扎扎扎",
+      "en": "Zazazaza"
+    },
+    {
+      "id": 112,
+      "start": 336.54,
+      "end": 340.56,
+      "ts": "05:36.540 -> 05:40.560",
+      "jp": "次回も続きいきます",
+      "jp_html": "<ruby>次回<rt>じかい</rt></ruby>も<ruby>続き<rt>つづき</rt></ruby>いきます",
+      "zh": "下次继续下去",
+      "en": "Next time, it will continue."
+    },
+    {
+      "id": 113,
+      "start": 340.56,
+      "end": 342.08,
+      "ts": "05:40.560 -> 05:42.080",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}
