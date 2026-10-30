@@ -1,5 +1,17 @@
 [
   {
+    "id": "1608",
+    "title": "#1608「音楽シリーズ②」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/10/30/1608%e3%80%8c%e9%9f%b3%e6%a5%bd%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e2%91%a1%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/10/Beginners-con-Teppei1608.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1608.json"
+  },
+  {
     "id": "1607",
     "title": "#1607「音楽シリーズ①」",
     "category_id": "podcast",
