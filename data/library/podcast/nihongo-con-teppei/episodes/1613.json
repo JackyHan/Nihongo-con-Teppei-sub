@@ -1,0 +1,1294 @@
+{
+  "id": "1613",
+  "title": "#1613「映画シリーズ③」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1613.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1613.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/11/08/1613%e3%80%8c%e6%98%a0%e7%94%bb%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e2%91%a2%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.33,
+      "end": 6.33,
+      "ts": "00:01.330 -> 00:06.330",
+      "jp": "借金! 今日も映画について",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>! <ruby>今日<rt>きょう</rt></ruby>も<ruby>映画<rt>えいが</rt></ruby>について",
+      "zh": "借钱！今天也要 talking about 电影",
+      "en": "Debt! About movies today too."
+    },
+    {
+      "id": 1,
+      "start": 6.33,
+      "end": 14.55,
+      "ts": "00:06.330 -> 00:14.550",
+      "jp": "はいみなさんこんにちは 映画についてというか 映画のタイトルを読んでます",
+      "jp_html": "はいみなさんこんにちは <ruby>映画<rt>えいが</rt></ruby>についてというか <ruby>映画<rt>えいが</rt></ruby>のタイトルを<ruby>読んで<rt>よんで</rt></ruby>ます",
+      "zh": "大家好，我是看着电影标题呢",
+      "en": "Hello everyone, I'm reading out the title of the movie, kind of about the movie, you know?"
+    },
+    {
+      "id": 2,
+      "start": 14.55,
+      "end": 26.21,
+      "ts": "00:14.550 -> 00:26.210",
+      "jp": "カタカナのたくさんのタイトルたち これを聞いて日本語で映画の話とか",
+      "jp_html": "カタカナのたくさんのタイトルたち これを<ruby>聞い<rt>きい</rt></ruby>て<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>とか",
+      "zh": "许多用片假名和平假名写的标题 这句话听起来像是在谈论日语电影或者日文对话",
+      "en": "Many titles in katakana, hear this and talk about movies in Japanese"
+    },
+    {
+      "id": 3,
+      "start": 26.47,
+      "end": 31.11,
+      "ts": "00:26.470 -> 00:31.110",
+      "jp": "日本語で音楽の話ができるようになってください",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>音楽<rt>おんがく</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>ができるようになってください",
+      "zh": "请能用日语谈论音乐",
+      "en": "Please be able to talk about music in Japanese."
+    },
+    {
+      "id": 4,
+      "start": 31.11,
+      "end": 35.31,
+      "ts": "00:31.110 -> 00:35.310",
+      "jp": "有名な映画たちですね",
+      "jp_html": "<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>たちですね",
+      "zh": "著名的电影呢",
+      "en": "Those are famous movies, right?"
+    },
+    {
+      "id": 5,
+      "start": 35.31,
+      "end": 36.53,
+      "ts": "00:35.310 -> 00:36.530",
+      "jp": "有名",
+      "jp_html": "<ruby>有名<rt>ゆうめい</rt></ruby>",
+      "zh": "有名",
+      "en": "Famous"
+    },
+    {
+      "id": 6,
+      "start": 36.53,
+      "end": 38.41,
+      "ts": "00:36.530 -> 00:38.410",
+      "jp": "いい映画",
+      "jp_html": "いい<ruby>映画<rt>えいが</rt></ruby>",
+      "zh": "好电影",
+      "en": "Good movie"
+    },
+    {
+      "id": 7,
+      "start": 38.41,
+      "end": 41.17,
+      "ts": "00:38.410 -> 00:41.170",
+      "jp": "もあるし",
+      "jp_html": "もあるし",
+      "zh": "也有",
+      "en": "There is also."
+    },
+    {
+      "id": 8,
+      "start": 41.17,
+      "end": 44.21,
+      "ts": "00:41.170 -> 00:44.210",
+      "jp": "全然いい映画じゃない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>いい<ruby>映画<rt>えいが</rt></ruby>じゃない",
+      "zh": "这部电影并不好",
+      "en": "It's not a good movie at all."
+    },
+    {
+      "id": 9,
+      "start": 44.21,
+      "end": 48.55,
+      "ts": "00:44.210 -> 00:48.550",
+      "jp": "悪い映画もたくさんありますね",
+      "jp_html": "<ruby>悪い<rt>わるい</rt></ruby><ruby>映画<rt>えいが</rt></ruby>もたくさんありますね",
+      "zh": "确实有很多糟糕的电影呢",
+      "en": "There are also many bad movies, don't they?"
+    },
+    {
+      "id": 10,
+      "start": 48.55,
+      "end": 50.39,
+      "ts": "00:48.550 -> 00:50.390",
+      "jp": "次は",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>は",
+      "zh": "接下来",
+      "en": "Next is"
+    },
+    {
+      "id": 11,
+      "start": 50.39,
+      "end": 51.73,
+      "ts": "00:50.390 -> 00:51.730",
+      "jp": "ザ・ロック",
+      "jp_html": "ザ・ロック",
+      "zh": "摇滚",
+      "en": "The Rock"
+    },
+    {
+      "id": 12,
+      "start": 51.73,
+      "end": 52.81,
+      "ts": "00:51.730 -> 00:52.810",
+      "jp": "これは",
+      "jp_html": "これは",
+      "zh": "这是",
+      "en": "This is"
+    },
+    {
+      "id": 13,
+      "start": 52.81,
+      "end": 56.39,
+      "ts": "00:52.810 -> 00:56.390",
+      "jp": "いい映画かな",
+      "jp_html": "いい<ruby>映画<rt>えいが</rt></ruby>かな",
+      "zh": "这部电影不错吧",
+      "en": "Would it be a good movie?"
+    },
+    {
+      "id": 14,
+      "start": 56.39,
+      "end": 58.79,
+      "ts": "00:56.390 -> 00:58.790",
+      "jp": "ザ・ロック",
+      "jp_html": "ザ・ロック",
+      "zh": "摇滚",
+      "en": "The Rock"
+    },
+    {
+      "id": 15,
+      "start": 58.79,
+      "end": 60.57,
+      "ts": "00:58.790 -> 01:00.570",
+      "jp": "覚えてますか",
+      "jp_html": "<ruby>覚え<rt>おぼえ</rt></ruby>てますか",
+      "zh": "你还记得吗",
+      "en": "Do you remember?"
+    },
+    {
+      "id": 16,
+      "start": 60.57,
+      "end": 64.53,
+      "ts": "01:00.570 -> 01:04.530",
+      "jp": "多分ジョン・マルコビッチのやつかな",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby>ジョン・マルコビッチのやつかな",
+      "zh": "可能是约翰·马科维奇的作品吧",
+      "en": "Probably John Markovic's, right?"
+    },
+    {
+      "id": 17,
+      "start": 64.53,
+      "end": 70.27,
+      "ts": "01:04.530 -> 01:10.270",
+      "jp": "僕の友達が好きだったな",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>だったな",
+      "zh": "我的朋友很喜欢呢",
+      "en": "My friend liked it."
+    },
+    {
+      "id": 18,
+      "start": 70.27,
+      "end": 72.75,
+      "ts": "01:10.270 -> 01:12.750",
+      "jp": "90年代ですよね",
+      "jp_html": "90<ruby>年代<rt>ねんだい</rt></ruby>ですよね",
+      "zh": "那是90年代吧？",
+      "en": "Isn't it from the 1990s?"
+    },
+    {
+      "id": 19,
+      "start": 72.75,
+      "end": 76.45,
+      "ts": "01:12.750 -> 01:16.450",
+      "jp": "次の映画僕は結構好きだった",
+      "jp_html": "<ruby>次の<rt>つぎの</rt></ruby><ruby>映画<rt>えいが</rt></ruby><ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>だった",
+      "zh": "这部电影我挺喜欢的",
+      "en": "I quite liked the next movie."
+    },
+    {
+      "id": 20,
+      "start": 76.45,
+      "end": 78.03,
+      "ts": "01:16.450 -> 01:18.030",
+      "jp": "ザ・フライ",
+      "jp_html": "ザ・フライ",
+      "zh": "飞镖",
+      "en": "The Fly"
+    },
+    {
+      "id": 21,
+      "start": 78.03,
+      "end": 80.63,
+      "ts": "01:18.030 -> 01:20.630",
+      "jp": "知ってますか",
+      "jp_html": "<ruby>知って<rt>しって</rt></ruby>ますか",
+      "zh": "你知道吗",
+      "en": "Do you know?"
+    },
+    {
+      "id": 22,
+      "start": 80.63,
+      "end": 81.91,
+      "ts": "01:20.630 -> 01:21.910",
+      "jp": "ハエ男",
+      "jp_html": "ハエ<ruby>男<rt>おとこ</rt></ruby>",
+      "zh": "苍蝇男",
+      "en": "Fly Guy"
+    },
+    {
+      "id": 23,
+      "start": 81.91,
+      "end": 86.03,
+      "ts": "01:21.910 -> 01:26.030",
+      "jp": "ホラーですよね",
+      "jp_html": "ホラーですよね",
+      "zh": "这是恐怖吧？",
+      "en": "Is it horror?"
+    },
+    {
+      "id": 24,
+      "start": 86.03,
+      "end": 86.97,
+      "ts": "01:26.030 -> 01:26.970",
+      "jp": "ザ・フライ",
+      "jp_html": "ザ・フライ",
+      "zh": "飞镖",
+      "en": "The Fly"
+    },
+    {
+      "id": 25,
+      "start": 86.97,
+      "end": 89.67,
+      "ts": "01:26.970 -> 01:29.670",
+      "jp": "これね僕は結構好きで",
+      "jp_html": "これね<ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>で",
+      "zh": "这我挺喜欢的",
+      "en": "This is something I quite like."
+    },
+    {
+      "id": 26,
+      "start": 89.67,
+      "end": 95.01,
+      "ts": "01:29.670 -> 01:35.010",
+      "jp": "まあ多分中学生か高校生ぐらいの時に見たのかな",
+      "jp_html": "まあ<ruby>多分<rt>たぶん</rt></ruby><ruby>中学生<rt>ちゅうがくせい</rt></ruby>か<ruby>高校生<rt>こうこうせい</rt></ruby>ぐらいの<ruby>時に<rt>ときに</rt></ruby><ruby>見た<rt>みた</rt></ruby>のかな",
+      "zh": "大概是在上初中或高中的时候看的吧",
+      "en": "Probably I saw it when I was in middle school or high school."
+    },
+    {
+      "id": 27,
+      "start": 95.01,
+      "end": 98.51,
+      "ts": "01:35.010 -> 01:38.510",
+      "jp": "結構ショッキングでしたよね",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>ショッキングでしたよね",
+      "zh": "结构 shockingly 没错吧",
+      "en": "It was quite shocking, wasn't it?"
+    },
+    {
+      "id": 28,
+      "start": 98.51,
+      "end": 105.15,
+      "ts": "01:38.510 -> 01:45.150",
+      "jp": "面白いアイデアだけど怖いアイデアでしたね",
+      "jp_html": "<ruby>面白い<rt>おもしろい</rt></ruby>アイデアだけど<ruby>怖い<rt>こわい</rt></ruby>アイデアでしたね",
+      "zh": "这是一个有趣的主意，但也是一个可怕的想法吧",
+      "en": "It was an interesting idea but a scary one, wasn't it?"
+    },
+    {
+      "id": 29,
+      "start": 105.15,
+      "end": 108.59,
+      "ts": "01:45.150 -> 01:48.590",
+      "jp": "これはまあまあホラー映画なので",
+      "jp_html": "これはまあまあホラー<ruby>映画<rt>えいが</rt></ruby>なので",
+      "zh": "这是一部不错的恐怖电影",
+      "en": "This is kind of a horror movie so"
+    },
+    {
+      "id": 30,
+      "start": 108.59,
+      "end": 114.33,
+      "ts": "01:48.590 -> 01:54.330",
+      "jp": "まあ見たことがない人は見なくていいです",
+      "jp_html": "まあ<ruby>見た<rt>みた</rt></ruby>ことがない<ruby>人<rt>にん</rt></ruby>は<ruby>見な<rt>みな</rt></ruby>くていいです",
+      "zh": "没见过的人不用去看。",
+      "en": "People who haven't seen it don't have to see it."
+    },
+    {
+      "id": 31,
+      "start": 114.33,
+      "end": 115.99,
+      "ts": "01:54.330 -> 01:55.990",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 32,
+      "start": 115.99,
+      "end": 119.91,
+      "ts": "01:55.990 -> 01:59.910",
+      "jp": "次は",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>は",
+      "zh": "接下来",
+      "en": "Next is"
+    },
+    {
+      "id": 33,
+      "start": 119.91,
+      "end": 123.67,
+      "ts": "01:59.910 -> 02:03.670",
+      "jp": "どれにしようかな",
+      "jp_html": "どれにしようかな",
+      "zh": "选哪个呢",
+      "en": "Let's see which one to choose shall we?"
+    },
+    {
+      "id": 34,
+      "start": 123.67,
+      "end": 127.23,
+      "ts": "02:03.670 -> 02:07.230",
+      "jp": "ロッキー",
+      "jp_html": "ロッキー",
+      "zh": "洛基",
+      "en": "Rocky"
+    },
+    {
+      "id": 35,
+      "start": 127.23,
+      "end": 128.69,
+      "ts": "02:07.230 -> 02:08.690",
+      "jp": "ロッキーですね",
+      "jp_html": "ロッキーですね",
+      "zh": "岩石呢",
+      "en": "It's Rocky, right?"
+    },
+    {
+      "id": 36,
+      "start": 128.69,
+      "end": 133.17,
+      "ts": "02:08.690 -> 02:13.170",
+      "jp": "ロッキーはシルベスタスタローンの",
+      "jp_html": "ロッキーはシルベスタスタローンの",
+      "zh": "洛基是史泰龙的角色",
+      "en": "Rocky is Sylvester Stallone's"
+    },
+    {
+      "id": 37,
+      "start": 133.17,
+      "end": 136.05,
+      "ts": "02:13.170 -> 02:16.050",
+      "jp": "エイドリアンのロッキーですね",
+      "jp_html": "エイドリアンのロッキーですね",
+      "zh": "艾德里安的洛基呢",
+      "en": "It's Adrian's Rocky, huh?"
+    },
+    {
+      "id": 38,
+      "start": 136.05,
+      "end": 138.95,
+      "ts": "02:16.050 -> 02:18.950",
+      "jp": "ロッキー好きですかボクシング",
+      "jp_html": "ロッキー<ruby>好き<rt>すき</rt></ruby>ですかボクシング",
+      "zh": "你喜欢 rocky 拳击",
+      "en": "Do you like Rocky? Boxing."
+    },
+    {
+      "id": 39,
+      "start": 138.95,
+      "end": 144.07,
+      "ts": "02:18.950 -> 02:24.070",
+      "jp": "シルベスタスタローンはロッキーで有名",
+      "jp_html": "シルベスタスタローンはロッキーで<ruby>有名<rt>ゆうめい</rt></ruby>",
+      "zh": "史泰龙因洛奇系列电影而闻名",
+      "en": "Sylvester Stallone is famous for Rocky."
+    },
+    {
+      "id": 40,
+      "start": 144.07,
+      "end": 145.95,
+      "ts": "02:24.070 -> 02:25.950",
+      "jp": "そしてランボー",
+      "jp_html": "そしてランボー",
+      "zh": "然后是兰博",
+      "en": "And then Rambo"
+    },
+    {
+      "id": 41,
+      "start": 145.95,
+      "end": 147.15,
+      "ts": "02:25.950 -> 02:27.150",
+      "jp": "コブラ",
+      "jp_html": "コブラ",
+      "zh": "眼镜蛇",
+      "en": "Cobra"
+    },
+    {
+      "id": 42,
+      "start": 147.15,
+      "end": 148.91,
+      "ts": "02:27.150 -> 02:28.910",
+      "jp": "違うちょっと待ってください",
+      "jp_html": "<ruby>違う<rt>ちがう</rt></ruby>ちょっと<ruby>待っ<rt>まっ</rt></ruby>てください",
+      "zh": "不同请稍等一下",
+      "en": "Wrong, wait a moment please"
+    },
+    {
+      "id": 43,
+      "start": 148.91,
+      "end": 150.31,
+      "ts": "02:28.910 -> 02:30.310",
+      "jp": "コブラは違うな",
+      "jp_html": "コブラは<ruby>違う<rt>ちがう</rt></ruby>な",
+      "zh": "眼镜蛇不一样",
+      "en": "The cobra is different."
+    },
+    {
+      "id": 44,
+      "start": 150.31,
+      "end": 153.49,
+      "ts": "02:30.310 -> 02:33.490",
+      "jp": "コブラはシュワレツネッカーですよね",
+      "jp_html": "コブラはシュワレツネッカーですよね",
+      "zh": "科布拉是施瓦茨奈格吗？",
+      "en": "Cobra is Schwarzenegger, right?"
+    },
+    {
+      "id": 45,
+      "start": 153.49,
+      "end": 154.71,
+      "ts": "02:33.490 -> 02:34.710",
+      "jp": "トップガン",
+      "jp_html": "トップガン",
+      "zh": "壮志凌云",
+      "en": "Top Gun"
+    },
+    {
+      "id": 46,
+      "start": 154.71,
+      "end": 157.35,
+      "ts": "02:34.710 -> 02:37.350",
+      "jp": "トップガンは",
+      "jp_html": "トップガンは",
+      "zh": "TOP GUN是",
+      "en": "Top Gun is"
+    },
+    {
+      "id": 47,
+      "start": 157.35,
+      "end": 161.16,
+      "ts": "02:37.350 -> 02:41.160",
+      "jp": "えーちょっと待ってください",
+      "jp_html": "えーちょっと<ruby>待っ<rt>まっ</rt></ruby>てください",
+      "zh": "嗯请稍等一下",
+      "en": "Ah wait a moment please"
+    },
+    {
+      "id": 48,
+      "start": 161.16,
+      "end": 162.84,
+      "ts": "02:41.160 -> 02:42.840",
+      "jp": "トップガンは",
+      "jp_html": "トップガンは",
+      "zh": "TOP GUN是",
+      "en": "Top Gun is"
+    },
+    {
+      "id": 49,
+      "start": 162.84,
+      "end": 165.78,
+      "ts": "02:42.840 -> 02:45.780",
+      "jp": "あのー",
+      "jp_html": "あのー",
+      "zh": "嗯——",
+      "en": "Um-"
+    },
+    {
+      "id": 50,
+      "start": 165.78,
+      "end": 166.56,
+      "ts": "02:45.780 -> 02:46.560",
+      "jp": "あれですよね",
+      "jp_html": "あれですよね",
+      "zh": "对吧？",
+      "en": "Isn't that one?"
+    },
+    {
+      "id": 51,
+      "start": 166.56,
+      "end": 168.28,
+      "ts": "02:46.560 -> 02:48.280",
+      "jp": "トムクルーズでしょ",
+      "jp_html": "トムクルーズでしょ",
+      "zh": "汤姆·克鲁斯吧",
+      "en": "It's Tom Cruise, right?"
+    },
+    {
+      "id": 52,
+      "start": 168.28,
+      "end": 170.42,
+      "ts": "02:48.280 -> 02:50.420",
+      "jp": "ちょっとね",
+      "jp_html": "ちょっとね",
+      "zh": "稍微一下",
+      "en": "Oh, just a little bit."
+    },
+    {
+      "id": 53,
+      "start": 170.42,
+      "end": 172.54,
+      "ts": "02:50.420 -> 02:52.540",
+      "jp": "そうですよね",
+      "jp_html": "そうですよね",
+      "zh": "是吧",
+      "en": "Yes, don't you think?"
+    },
+    {
+      "id": 54,
+      "start": 172.54,
+      "end": 174.52,
+      "ts": "02:52.540 -> 02:54.520",
+      "jp": "そうですよね",
+      "jp_html": "そうですよね",
+      "zh": "是吧",
+      "en": "Yes, don't you think?"
+    },
+    {
+      "id": 55,
+      "start": 174.52,
+      "end": 176.34,
+      "ts": "02:54.520 -> 02:56.340",
+      "jp": "まあまあ",
+      "jp_html": "まあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well, okay."
+    },
+    {
+      "id": 56,
+      "start": 176.34,
+      "end": 179.84,
+      "ts": "02:56.340 -> 02:59.840",
+      "jp": "ロッキーランボーコブラトップガン",
+      "jp_html": "ロッキーランボーコブラトップガン",
+      "zh": "岩石蓝宝cobra顶枪",
+      "en": "Rocky,ランボーコブラ,トップガン"
+    },
+    {
+      "id": 57,
+      "start": 179.84,
+      "end": 181.4,
+      "ts": "02:59.840 -> 03:01.400",
+      "jp": "次はね",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>はね",
+      "zh": "接下来",
+      "en": "Next is ne"
+    },
+    {
+      "id": 58,
+      "start": 181.4,
+      "end": 183.98,
+      "ts": "03:01.400 -> 03:03.980",
+      "jp": "次ちょっと全然違うな",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>ちょっと<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違う<rt>ちがう</rt></ruby>な",
+      "zh": "其次完全不一样呢",
+      "en": "It's a bit completely different, huh?"
+    },
+    {
+      "id": 59,
+      "start": 183.98,
+      "end": 185.66,
+      "ts": "03:03.980 -> 03:05.660",
+      "jp": "プリティウォーマン",
+      "jp_html": "プリティウォーマン",
+      "zh": "Pretty Woman",
+      "en": "Pretty Woman"
+    },
+    {
+      "id": 60,
+      "start": 185.66,
+      "end": 186.78,
+      "ts": "03:05.660 -> 03:06.780",
+      "jp": "プリティウーマン",
+      "jp_html": "プリティウーマン",
+      "zh": "Pretty Woman",
+      "en": "Pretty Woman"
+    },
+    {
+      "id": 61,
+      "start": 186.78,
+      "end": 188.8,
+      "ts": "03:06.780 -> 03:08.800",
+      "jp": "日本語でプリティウーマン",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>でプリティウーマン",
+      "zh": "用日语说《 Pretty Woman 》",
+      "en": "Pretty Woman in Japanese"
+    },
+    {
+      "id": 62,
+      "start": 188.8,
+      "end": 191.64,
+      "ts": "03:08.800 -> 03:11.640",
+      "jp": "プリティウーマンはジュリアロバーツと",
+      "jp_html": "プリティウーマンはジュリアロバーツと",
+      "zh": "pretty woman 是茱莉亞羅伯茲和",
+      "en": "Pretty Woman is with Julia Roberts and"
+    },
+    {
+      "id": 63,
+      "start": 191.64,
+      "end": 193.46,
+      "ts": "03:11.640 -> 03:13.460",
+      "jp": "えーっとあの",
+      "jp_html": "えーっとあの",
+      "zh": "嗯那个",
+      "en": "Um, that"
+    },
+    {
+      "id": 64,
+      "start": 193.46,
+      "end": 195.0,
+      "ts": "03:13.460 -> 03:15.000",
+      "jp": "ハチの人ね",
+      "jp_html": "ハチの<ruby>人<rt>にん</rt></ruby>ね",
+      "zh": "蜜蜂的人类化",
+      "en": "The person is a bee."
+    },
+    {
+      "id": 65,
+      "start": 195.0,
+      "end": 195.9,
+      "ts": "03:15.000 -> 03:15.900",
+      "jp": "ハチの",
+      "jp_html": "ハチの",
+      "zh": "蜜蜂的",
+      "en": "Hachi's"
+    },
+    {
+      "id": 66,
+      "start": 195.9,
+      "end": 197.86,
+      "ts": "03:15.900 -> 03:17.860",
+      "jp": "ハチの人ね",
+      "jp_html": "ハチの<ruby>人<rt>にん</rt></ruby>ね",
+      "zh": "蜜蜂的人类化",
+      "en": "The person is a bee."
+    },
+    {
+      "id": 67,
+      "start": 197.86,
+      "end": 199.16,
+      "ts": "03:17.860 -> 03:19.160",
+      "jp": "誰でしたっけ",
+      "jp_html": "<ruby>誰<rt>だれ</rt></ruby>でしたっけ",
+      "zh": "是谁来着",
+      "en": "Who was it, anyway?"
+    },
+    {
+      "id": 68,
+      "start": 199.16,
+      "end": 202.16,
+      "ts": "03:19.160 -> 03:22.160",
+      "jp": "髪の長い人ね",
+      "jp_html": "<ruby>髪<rt>かみ</rt></ruby>の<ruby>長い<rt>ながい</rt></ruby><ruby>人<rt>にん</rt></ruby>ね",
+      "zh": "头发长的人呢",
+      "en": "The person with long hair."
+    },
+    {
+      "id": 69,
+      "start": 202.16,
+      "end": 204.52,
+      "ts": "03:22.160 -> 03:24.520",
+      "jp": "プリティウーマン",
+      "jp_html": "プリティウーマン",
+      "zh": "pretty woman",
+      "en": "Pretty Woman"
+    },
+    {
+      "id": 70,
+      "start": 204.52,
+      "end": 207.52,
+      "ts": "03:24.520 -> 03:27.520",
+      "jp": "あんまり好きじゃないな僕は全然好きじゃない",
+      "jp_html": "あんまり<ruby>好き<rt>すき</rt></ruby>じゃないな<ruby>僕は<rt>ぼくは</rt></ruby><ruby>全然<rt>ぜんぜん</rt></ruby><ruby>好き<rt>すき</rt></ruby>じゃない",
+      "zh": "我不是很喜欢其实我完全不喜欢",
+      "en": "I don't like it much/I don't like it at all"
+    },
+    {
+      "id": 71,
+      "start": 207.52,
+      "end": 210.34,
+      "ts": "03:27.520 -> 03:30.340",
+      "jp": "嫌な話ですよね",
+      "jp_html": "<ruby>嫌な<rt>いやな</rt></ruby><ruby>話<rt>はなし</rt></ruby>ですよね",
+      "zh": "真是不愉快的话题吧",
+      "en": "Ugh, is it not a unpleasant topic?"
+    },
+    {
+      "id": 72,
+      "start": 210.34,
+      "end": 214.72,
+      "ts": "03:30.340 -> 03:34.720",
+      "jp": "次ゴーストこっちの方がいいですよねゴースト",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>ゴーストこっちの<ruby>方が<rt>ほうが</rt></ruby>いいですよねゴースト",
+      "zh": "下次鬼魂这边的更好吧鬼魂",
+      "en": "Next ghost, this one is better, right? Ghost"
+    },
+    {
+      "id": 73,
+      "start": 214.72,
+      "end": 219.52,
+      "ts": "03:34.720 -> 03:39.520",
+      "jp": "ゴーストはなんか死んだボーイフレンドが",
+      "jp_html": "ゴーストはなんか<ruby>死ん<rt>しん</rt></ruby>だボーイフレンドが",
+      "zh": "鬼魂是某个死去的情侣",
+      "en": "The ghost is something of a dead boyfriend."
+    },
+    {
+      "id": 74,
+      "start": 219.52,
+      "end": 226.02,
+      "ts": "03:39.520 -> 03:46.020",
+      "jp": "幽霊になって彼女を守るみたいな話なんですけど",
+      "jp_html": "<ruby>幽霊<rt>ゆうれい</rt></ruby>になって<ruby>彼女<rt>かのじょ</rt></ruby>を<ruby>守る<rt>まもる</rt></ruby>みたいな<ruby>話<rt>はなし</rt></ruby>なんですけど",
+      "zh": "这就像变成鬼魂来保护她这样的故事",
+      "en": "It's like a story about becoming a ghost to protect her."
+    },
+    {
+      "id": 75,
+      "start": 226.02,
+      "end": 228.52,
+      "ts": "03:46.020 -> 03:48.520",
+      "jp": "まあ漫画っぽいですよね",
+      "jp_html": "まあ<ruby>漫画<rt>まんが</rt></ruby>っぽいですよね",
+      "zh": "确实有点像漫画呢",
+      "en": "Well, it kinda looks like a manga, doesn't it?"
+    },
+    {
+      "id": 76,
+      "start": 230.04,
+      "end": 234.22,
+      "ts": "03:50.040 -> 03:54.220",
+      "jp": "漫画っぽいから日本で結構人気になりましたね",
+      "jp_html": "<ruby>漫画<rt>まんが</rt></ruby>っぽいから<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>結構<rt>けっこう</rt></ruby><ruby>人気<rt>にんき</rt></ruby>になりましたね",
+      "zh": "因为画风像漫画，所以在日本挺受欢迎的吧",
+      "en": "It became quite popular in Japan because it looks like a manga."
+    },
+    {
+      "id": 77,
+      "start": 234.22,
+      "end": 238.34,
+      "ts": "03:54.220 -> 03:58.340",
+      "jp": "日本人はそういうちょっとナイーブな",
+      "jp_html": "<ruby>日本人<rt>にほんじん</rt></ruby>はそういうちょっとナイーブな",
+      "zh": "日本人是这样稍微有些天真",
+      "en": "The Japanese are somewhat naive in that regard."
+    },
+    {
+      "id": 78,
+      "start": 238.34,
+      "end": 241.92,
+      "ts": "03:58.340 -> 04:01.920",
+      "jp": "ラブストーリーみたいなのが好きですから",
+      "jp_html": "ラブストーリーみたいなのが<ruby>好き<rt>すき</rt></ruby>ですから",
+      "zh": "我喜欢像爱情故事那样的",
+      "en": "I like love stories."
+    },
+    {
+      "id": 79,
+      "start": 241.92,
+      "end": 243.18,
+      "ts": "04:01.920 -> 04:03.180",
+      "jp": "ゴースト",
+      "jp_html": "ゴースト",
+      "zh": "鬼",
+      "en": "Ghost"
+    },
+    {
+      "id": 80,
+      "start": 243.18,
+      "end": 246.22,
+      "ts": "04:03.180 -> 04:06.220",
+      "jp": "あれはデミムーアーかな",
+      "jp_html": "あれはデミムーアーかな",
+      "zh": "那是德米莫阿吗？",
+      "en": "That was Demi Moore, huh?"
+    },
+    {
+      "id": 81,
+      "start": 246.22,
+      "end": 248.8,
+      "ts": "04:06.220 -> 04:08.800",
+      "jp": "髪が短くてね",
+      "jp_html": "<ruby>髪<rt>かみ</rt></ruby>が<ruby>短く<rt>みじかく</rt></ruby>てね",
+      "zh": "头发短着呢",
+      "en": "My hair is short, you see."
+    },
+    {
+      "id": 82,
+      "start": 248.8,
+      "end": 250.74,
+      "ts": "04:08.800 -> 04:10.740",
+      "jp": "ショートカットでチャーミングとか",
+      "jp_html": "ショートカットでチャーミングとか",
+      "zh": "快捷方式里 charm 或者",
+      "en": "Shortcut for charming, huh?"
+    },
+    {
+      "id": 83,
+      "start": 250.74,
+      "end": 255.26,
+      "ts": "04:10.740 -> 04:15.260",
+      "jp": "言ってたけど僕も子供だったからよく覚えてません",
+      "jp_html": "<ruby>言って<rt>いって</rt></ruby>たけど<ruby>僕<rt>ぼく</rt></ruby>も<ruby>子供<rt>こども</rt></ruby>だったからよく<ruby>覚え<rt>おぼえ</rt></ruby>てません",
+      "zh": "他说过，但我也是孩子，所以记不清了",
+      "en": "I said so, but I was just a kid back then, so I don't remember well."
+    },
+    {
+      "id": 84,
+      "start": 255.26,
+      "end": 262.68,
+      "ts": "04:15.260 -> 04:22.680",
+      "jp": "まあ2回か3回テレビで見たなって感じですね",
+      "jp_html": "まあ2<ruby>回<rt>かい</rt></ruby>か3<ruby>回<rt>かい</rt></ruby>テレビで<ruby>見た<rt>みた</rt></ruby>なって<ruby>感じ<rt>かんじ</rt></ruby>ですね",
+      "zh": "大概看过两三次电视吧",
+      "en": "It feels like I've seen it on TV two or three times."
+    },
+    {
+      "id": 85,
+      "start": 262.68,
+      "end": 264.9,
+      "ts": "04:22.680 -> 04:24.900",
+      "jp": "いい映画かというと",
+      "jp_html": "いい<ruby>映画<rt>えいが</rt></ruby>かというと",
+      "zh": "这部电影还算不错吧？",
+      "en": "Is it a good movie?"
+    },
+    {
+      "id": 86,
+      "start": 264.9,
+      "end": 267.76,
+      "ts": "04:24.900 -> 04:27.760",
+      "jp": "ハテナなので",
+      "jp_html": "ハテナなので",
+      "zh": "所以是 Hatena",
+      "en": "So it's a hatena."
+    },
+    {
+      "id": 87,
+      "start": 267.76,
+      "end": 269.62,
+      "ts": "04:27.760 -> 04:29.620",
+      "jp": "見なくていいです",
+      "jp_html": "<ruby>見な<rt>みな</rt></ruby>くていいです",
+      "zh": "看不见也没关系",
+      "en": "It's okay not to see it."
+    },
+    {
+      "id": 88,
+      "start": 269.62,
+      "end": 270.48,
+      "ts": "04:29.620 -> 04:30.480",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 89,
+      "start": 270.48,
+      "end": 273.62,
+      "ts": "04:30.480 -> 04:33.620",
+      "jp": "ノッティングヒルの恋人",
+      "jp_html": "ノッティングヒルの<ruby>恋人<rt>こいびと</rt></ruby>",
+      "zh": "诺丁山的情人",
+      "en": "Notting Hill Lover"
+    },
+    {
+      "id": 90,
+      "start": 273.62,
+      "end": 276.28,
+      "ts": "04:33.620 -> 04:36.280",
+      "jp": "これはあれですよね",
+      "jp_html": "これはあれですよね",
+      "zh": "这不就是那个吗？",
+      "en": "Is this that one?"
+    },
+    {
+      "id": 91,
+      "start": 276.28,
+      "end": 277.3,
+      "ts": "04:36.280 -> 04:37.300",
+      "jp": "ノッティングヒルの恋人",
+      "jp_html": "ノッティングヒルの<ruby>恋人<rt>こいびと</rt></ruby>",
+      "zh": "诺丁山的情人",
+      "en": "Notting Hill Lover"
+    },
+    {
+      "id": 92,
+      "start": 277.3,
+      "end": 281.24,
+      "ts": "04:37.300 -> 04:41.240",
+      "jp": "イギリス映画ですよね",
+      "jp_html": "イギリス<ruby>映画<rt>えいが</rt></ruby>ですよね",
+      "zh": "这是英国电影吧？",
+      "en": "Is it an English movie?"
+    },
+    {
+      "id": 93,
+      "start": 281.24,
+      "end": 284.26,
+      "ts": "04:41.240 -> 04:44.260",
+      "jp": "あれ面白かったんじゃないかな",
+      "jp_html": "あれ<ruby>面白か<rt>おもしろか</rt></ruby>ったんじゃないかな",
+      "zh": "那应该挺有趣的吧",
+      "en": "weren't those fun, huh?"
+    },
+    {
+      "id": 94,
+      "start": 284.26,
+      "end": 286.32,
+      "ts": "04:44.260 -> 04:46.320",
+      "jp": "この辺ですよね",
+      "jp_html": "この<ruby>辺<rt>へん</rt></ruby>ですよね",
+      "zh": "这就是那边吧？",
+      "en": "Is this around here?"
+    },
+    {
+      "id": 95,
+      "start": 286.32,
+      "end": 287.86,
+      "ts": "04:46.320 -> 04:47.860",
+      "jp": "ノッティングヒルの恋人",
+      "jp_html": "ノッティングヒルの<ruby>恋人<rt>こいびと</rt></ruby>",
+      "zh": "诺丁山的情人",
+      "en": "Notting Hill Lover"
+    },
+    {
+      "id": 96,
+      "start": 287.86,
+      "end": 290.14,
+      "ts": "04:47.860 -> 04:50.140",
+      "jp": "ラブアクチュアリー",
+      "jp_html": "ラブアクチュアリー",
+      "zh": "爱精算师",
+      "en": "Love Actuary"
+    },
+    {
+      "id": 97,
+      "start": 290.14,
+      "end": 291.4,
+      "ts": "04:50.140 -> 04:51.400",
+      "jp": "ブリジットジョーンズ",
+      "jp_html": "ブリジットジョーンズ",
+      "zh": "布里杰特·琼斯",
+      "en": "Bridget Jones"
+    },
+    {
+      "id": 98,
+      "start": 291.4,
+      "end": 297.12,
+      "ts": "04:51.400 -> 04:57.120",
+      "jp": "この辺は結構2000年ぐらいかな",
+      "jp_html": "この<ruby>辺<rt>へん</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>2000<ruby>年<rt>ねん</rt></ruby>ぐらいかな",
+      "zh": "这个地方大概是在2000年前左右吧",
+      "en": "This area is probably around 2000 yen or so."
+    },
+    {
+      "id": 99,
+      "start": 297.12,
+      "end": 301.72,
+      "ts": "04:57.120 -> 05:01.720",
+      "jp": "僕のお姉さんが好きなタイプの映画ですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>のお<ruby>姉さん<rt>ねえさん</rt></ruby>が<ruby>好き<rt>すき</rt></ruby>なタイプの<ruby>映画<rt>えいが</rt></ruby>ですね",
+      "zh": "我姐姐喜欢的电影类型呢",
+      "en": "It's the kind of movie my sister likes."
+    },
+    {
+      "id": 100,
+      "start": 301.72,
+      "end": 303.88,
+      "ts": "05:01.720 -> 05:03.880",
+      "jp": "次ハイフィデリティ",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>ハイフィデリティ",
+      "zh": "次级保真度",
+      "en": "Next high-fidelity"
+    },
+    {
+      "id": 101,
+      "start": 303.88,
+      "end": 305.94,
+      "ts": "05:03.880 -> 05:05.940",
+      "jp": "これはレンタルビデオ屋の話ですよね",
+      "jp_html": "これはレンタルビデオ<ruby>屋<rt>や</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>ですよね",
+      "zh": "这是关于租视频店的故事吧？",
+      "en": "Is this about a rental video store?"
+    },
+    {
+      "id": 102,
+      "start": 305.94,
+      "end": 310.94,
+      "ts": "05:05.940 -> 05:10.940",
+      "jp": "これ僕結構見た何回か見たと思うけどね",
+      "jp_html": "これ<ruby>僕<rt>ぼく</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>見た<rt>みた</rt></ruby><ruby>何回<rt>なんかい</rt></ruby>か<ruby>見た<rt>みた</rt></ruby>と<ruby>思う<rt>おもう</rt></ruby>けどね",
+      "zh": "我觉得我看过几次吧。",
+      "en": "I think I've seen this a few times though."
+    },
+    {
+      "id": 103,
+      "start": 310.94,
+      "end": 312.76,
+      "ts": "05:10.940 -> 05:12.760",
+      "jp": "好きでしたね",
+      "jp_html": "<ruby>好き<rt>すき</rt></ruby>でしたね",
+      "zh": "你喜欢呢",
+      "en": "You liked it, didn't you?"
+    },
+    {
+      "id": 104,
+      "start": 312.76,
+      "end": 316.26,
+      "ts": "05:12.760 -> 05:16.260",
+      "jp": "ハイフィデリティのレンタルビデオ屋は",
+      "jp_html": "ハイフィデリティのレンタルビデオ<ruby>屋<rt>や</rt></ruby>は",
+      "zh": "高保真的租赁视频店是",
+      "en": "The high-fidelity rental video store is"
+    },
+    {
+      "id": 105,
+      "start": 316.26,
+      "end": 321.22,
+      "ts": "05:16.260 -> 05:21.220",
+      "jp": "僕がアルバイトというか仕事をしていたレンタルビデオ屋にそっくりですね",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がアルバイトというか<ruby>仕事<rt>しごと</rt></ruby>をしていたレンタルビデオ<ruby>屋<rt>や</rt></ruby>にそっくりですね",
+      "zh": "这和我做兼职的租视频店简直一模一样",
+      "en": "It's pretty much like the rental video store where I used to work as a part-time job."
+    },
+    {
+      "id": 106,
+      "start": 321.22,
+      "end": 323.4,
+      "ts": "05:21.220 -> 05:23.400",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 107,
+      "start": 323.4,
+      "end": 325.12,
+      "ts": "05:23.400 -> 05:25.120",
+      "jp": "ビフォーサンライズ",
+      "jp_html": "ビフォーサンライズ",
+      "zh": "比 foresunrise",
+      "en": "Before sunrise"
+    },
+    {
+      "id": 108,
+      "start": 325.12,
+      "end": 326.28,
+      "ts": "05:25.120 -> 05:26.280",
+      "jp": "ビフォーサンセット",
+      "jp_html": "ビフォーサンセット",
+      "zh": "傍晚之前",
+      "en": "Before sunset"
+    },
+    {
+      "id": 109,
+      "start": 326.28,
+      "end": 328.18,
+      "ts": "05:26.280 -> 05:28.180",
+      "jp": "そしてビフォーミッドナイト",
+      "jp_html": "そしてビフォーミッドナイト",
+      "zh": "然后午夜之前",
+      "en": "And then before midnight"
+    },
+    {
+      "id": 110,
+      "start": 328.18,
+      "end": 331.04,
+      "ts": "05:28.180 -> 05:31.040",
+      "jp": "これイーサンホークですよね",
+      "jp_html": "これイーサンホークですよね",
+      "zh": "这是伊森霍克吗？",
+      "en": "Is this Ethan Hawk?"
+    },
+    {
+      "id": 111,
+      "start": 331.04,
+      "end": 333.68,
+      "ts": "05:31.040 -> 05:33.680",
+      "jp": "ジェリーデルピーかな",
+      "jp_html": "ジェリーデルピーかな",
+      "zh": "杰里德尔皮吗",
+      "en": "Jelly Delpy?"
+    },
+    {
+      "id": 112,
+      "start": 333.68,
+      "end": 338.6,
+      "ts": "05:33.680 -> 05:38.600",
+      "jp": "監督は",
+      "jp_html": "<ruby>監督<rt>かんとく</rt></ruby>は",
+      "zh": "监督是",
+      "en": "The director is"
+    },
+    {
+      "id": 113,
+      "start": 338.6,
+      "end": 340.98,
+      "ts": "05:38.600 -> 05:40.980",
+      "jp": "ちょっと思い出せないな",
+      "jp_html": "ちょっと<ruby>思い出せ<rt>おもいだせ</rt></ruby>ないな",
+      "zh": "哎，好像记不起来了呢",
+      "en": "I can't quite remember now."
+    },
+    {
+      "id": 114,
+      "start": 340.98,
+      "end": 342.84,
+      "ts": "05:40.980 -> 05:42.840",
+      "jp": "あの人ですよね",
+      "jp_html": "あの<ruby>人<rt>にん</rt></ruby>ですよね",
+      "zh": "就是他吧？",
+      "en": "Is that person you mean?"
+    },
+    {
+      "id": 115,
+      "start": 342.84,
+      "end": 346.52,
+      "ts": "05:42.840 -> 05:46.520",
+      "jp": "僕は結構好きでしたね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>でしたね",
+      "zh": "我挺喜欢的呢",
+      "en": "I quite liked it, didn't I?"
+    },
+    {
+      "id": 116,
+      "start": 346.52,
+      "end": 349.26,
+      "ts": "05:46.520 -> 05:49.260",
+      "jp": "僕は英語の勉強をしてた時に",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>英語<rt>えいご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>をしてた<ruby>時に<rt>ときに</rt></ruby>",
+      "zh": "我在学英语的时候",
+      "en": "I was studying English when"
+    },
+    {
+      "id": 117,
+      "start": 349.26,
+      "end": 349.82,
+      "ts": "05:49.260 -> 05:49.820",
+      "jp": "たくさん",
+      "jp_html": "たくさん",
+      "zh": "很多",
+      "en": "many"
+    },
+    {
+      "id": 118,
+      "start": 349.82,
+      "end": 352.76,
+      "ts": "05:49.820 -> 05:52.760",
+      "jp": "ビフォーサンライズビフォーサンセット",
+      "jp_html": "ビフォーサンライズビフォーサンセット",
+      "zh": "晨曦之前日落之前",
+      "en": "Before sunrise Before sunset"
+    },
+    {
+      "id": 119,
+      "start": 352.76,
+      "end": 355.1,
+      "ts": "05:52.760 -> 05:55.100",
+      "jp": "たくさん見ましたね",
+      "jp_html": "たくさん<ruby>見ま<rt>みま</rt></ruby>したね",
+      "zh": "你看了很多吧",
+      "en": "You saw a lot, didn't you?"
+    },
+    {
+      "id": 120,
+      "start": 355.1,
+      "end": 356.98,
+      "ts": "05:55.100 -> 05:56.980",
+      "jp": "会話だけで",
+      "jp_html": "<ruby>会話<rt>かいわ</rt></ruby>だけで",
+      "zh": "仅通过对话",
+      "en": "Just conversation"
+    },
+    {
+      "id": 121,
+      "start": 356.98,
+      "end": 359.88,
+      "ts": "05:56.980 -> 05:59.880",
+      "jp": "ストーリーが進んでいくので",
+      "jp_html": "ストーリーが<ruby>進ん<rt>すすん</rt></ruby>でいくので",
+      "zh": "故事 progressing",
+      "en": "As the story progresses"
+    },
+    {
+      "id": 122,
+      "start": 359.88,
+      "end": 360.98,
+      "ts": "05:59.880 -> 06:00.980",
+      "jp": "とてもいい",
+      "jp_html": "とてもいい",
+      "zh": "非常好",
+      "en": "Very good"
+    },
+    {
+      "id": 123,
+      "start": 360.98,
+      "end": 363.42,
+      "ts": "06:00.980 -> 06:03.420",
+      "jp": "英語の勉強になりました",
+      "jp_html": "<ruby>英語<rt>えいご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>になりました",
+      "zh": "英语的学习有了收获",
+      "en": "I learned from studying English."
+    },
+    {
+      "id": 124,
+      "start": 363.42,
+      "end": 364.7,
+      "ts": "06:03.420 -> 06:04.700",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 125,
+      "start": 364.7,
+      "end": 367.62,
+      "ts": "06:04.700 -> 06:07.620",
+      "jp": "そろそろ時間なので",
+      "jp_html": "そろそろ<ruby>時間<rt>じかん</rt></ruby>なので",
+      "zh": "时间差不多了",
+      "en": "It's time so I'll finish now."
+    },
+    {
+      "id": 126,
+      "start": 367.62,
+      "end": 370.92,
+      "ts": "06:07.620 -> 06:10.920",
+      "jp": "また次回続きをやりたいと思います",
+      "jp_html": "また<ruby>次回<rt>じかい</rt></ruby><ruby>続き<rt>つづき</rt></ruby>をやりたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "下次还想继续做下去",
+      "en": "I want to continue this next time."
+    },
+    {
+      "id": 127,
+      "start": 370.92,
+      "end": 372.24,
+      "ts": "06:10.920 -> 06:12.240",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

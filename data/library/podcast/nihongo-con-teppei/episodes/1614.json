@@ -1,0 +1,1024 @@
+{
+  "id": "1614",
+  "title": "#1614「映画シリーズ④」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1614.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1614.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/11/10/1614%e3%80%8c%e6%98%a0%e7%94%bb%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e2%91%a3%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.1,
+      "end": 2.74,
+      "ts": "00:01.100 -> 00:02.740",
+      "jp": "シャッキーン",
+      "jp_html": "シャッキーン",
+      "zh": "沙基恩",
+      "en": "Shakkin"
+    },
+    {
+      "id": 1,
+      "start": 2.74,
+      "end": 7.24,
+      "ts": "00:02.740 -> 00:07.240",
+      "jp": "今日も映画のタイトルを読んでます",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>も<ruby>映画<rt>えいが</rt></ruby>のタイトルを<ruby>読んで<rt>よんで</rt></ruby>ます",
+      "zh": "今天也在读电影的标题",
+      "en": "I am reading the titles of today's movies."
+    },
+    {
+      "id": 2,
+      "start": 7.24,
+      "end": 10.64,
+      "ts": "00:07.240 -> 00:10.640",
+      "jp": "はい皆さんこんばんは",
+      "jp_html": "はい<ruby>皆さん<rt>みなさん</rt></ruby>こんばんは",
+      "zh": "大家晚上好",
+      "en": "Hello everyone good evening"
+    },
+    {
+      "id": 3,
+      "start": 10.64,
+      "end": 12.06,
+      "ts": "00:10.640 -> 00:12.060",
+      "jp": "夜になりました",
+      "jp_html": "<ruby>夜<rt>よる</rt></ruby>になりました",
+      "zh": "夜晚幕落下了",
+      "en": "The night has come."
+    },
+    {
+      "id": 4,
+      "start": 12.06,
+      "end": 14.28,
+      "ts": "00:12.060 -> 00:14.280",
+      "jp": "日本語コンテッペの時間ですね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>コンテッペの<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "日语播音的时间吧",
+      "en": "It's time for Japanese conversation, huh?"
+    },
+    {
+      "id": 5,
+      "start": 14.28,
+      "end": 15.38,
+      "ts": "00:14.280 -> 00:15.380",
+      "jp": "元気ですか",
+      "jp_html": "<ruby>元気<rt>げんき</rt></ruby>ですか",
+      "zh": "你元气吗？",
+      "en": "Are you energetic?"
+    },
+    {
+      "id": 6,
+      "start": 15.38,
+      "end": 18.1,
+      "ts": "00:15.380 -> 00:18.100",
+      "jp": "映画のタイトルを",
+      "jp_html": "<ruby>映画<rt>えいが</rt></ruby>のタイトルを",
+      "zh": "电影的标题",
+      "en": "The title of the movie"
+    },
+    {
+      "id": 7,
+      "start": 18.1,
+      "end": 20.7,
+      "ts": "00:18.100 -> 00:20.700",
+      "jp": "日本語で読んでます",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>読んで<rt>よんで</rt></ruby>ます",
+      "zh": "用日语读着呢",
+      "en": "I am reading in Japanese."
+    },
+    {
+      "id": 8,
+      "start": 20.7,
+      "end": 24.44,
+      "ts": "00:20.700 -> 00:24.440",
+      "jp": "日本語というかカタカナ英語で読んでます",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>というかカタカナ<ruby>英語<rt>えいご</rt></ruby>で<ruby>読んで<rt>よんで</rt></ruby>ます",
+      "zh": "用日语或者说读成 katakana 英语",
+      "en": "Reading in katakana English style"
+    },
+    {
+      "id": 9,
+      "start": 24.44,
+      "end": 26.8,
+      "ts": "00:24.440 -> 00:26.800",
+      "jp": "次の映画は",
+      "jp_html": "<ruby>次の<rt>つぎの</rt></ruby><ruby>映画<rt>えいが</rt></ruby>は",
+      "zh": "接下来的电影是",
+      "en": "The next movie is"
+    },
+    {
+      "id": 10,
+      "start": 26.8,
+      "end": 29.1,
+      "ts": "00:26.800 -> 00:29.100",
+      "jp": "ロストイントランスレーション",
+      "jp_html": "ロストイントランスレーション",
+      "zh": "失入翻译",
+      "en": "Lost in Translation"
+    },
+    {
+      "id": 11,
+      "start": 29.1,
+      "end": 32.3,
+      "ts": "00:29.100 -> 00:32.300",
+      "jp": "ロストイントランスレーションですね",
+      "jp_html": "ロストイントランスレーションですね",
+      "zh": "这就是失译了吧",
+      "en": "Isn't that lost in translation?"
+    },
+    {
+      "id": 12,
+      "start": 32.3,
+      "end": 38.5,
+      "ts": "00:32.300 -> 00:38.500",
+      "jp": "これは結構僕が大学生の時かな",
+      "jp_html": "これは<ruby>結構<rt>けっこう</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>が<ruby>大学生<rt>だいがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>かな",
+      "zh": "这大概是我上大学的时候吧",
+      "en": "This was probably when I was in college."
+    },
+    {
+      "id": 13,
+      "start": 38.5,
+      "end": 41.52,
+      "ts": "00:38.500 -> 00:41.520",
+      "jp": "結構人気になって",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby><ruby>人気<rt>にんき</rt></ruby>になって",
+      "zh": "结构人气增加",
+      "en": "Became quite popular"
+    },
+    {
+      "id": 14,
+      "start": 41.52,
+      "end": 48.34,
+      "ts": "00:41.520 -> 00:48.340",
+      "jp": "外国でも外国とか色々な国でですね",
+      "jp_html": "<ruby>外国<rt>がいこく</rt></ruby>でも<ruby>外国<rt>がいこく</rt></ruby>とか<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>国<rt>くに</rt></ruby>でですね",
+      "zh": "在国外，也在其他各种国家里",
+      "en": "Abroad, in various countries as well,"
+    },
+    {
+      "id": 15,
+      "start": 48.34,
+      "end": 51.42,
+      "ts": "00:48.340 -> 00:51.420",
+      "jp": "色々な国で人気になりました",
+      "jp_html": "<ruby>色々<rt>いろいろ</rt></ruby>な<ruby>国<rt>くに</rt></ruby>で<ruby>人気<rt>にんき</rt></ruby>になりました",
+      "zh": "在很多国家变得流行起来",
+      "en": "It became popular in various countries."
+    },
+    {
+      "id": 16,
+      "start": 51.42,
+      "end": 57.34,
+      "ts": "00:51.420 -> 00:57.340",
+      "jp": "実は僕の奥さんもロストイントランスレーションを見て",
+      "jp_html": "<ruby>実は<rt>じつは</rt></ruby><ruby>僕<rt>ぼく</rt></ruby>の<ruby>奥さん<rt>おくさん</rt></ruby>もロストイントランスレーションを<ruby>見て<rt>みて</rt></ruby>",
+      "zh": "其实我的妻子也看过《洛斯托夫特的翻译》",
+      "en": "Actually, my wife also watched Lost in Translation."
+    },
+    {
+      "id": 17,
+      "start": 57.34,
+      "end": 60.28,
+      "ts": "00:57.340 -> 01:00.280",
+      "jp": "日本に興味が出たらしいです",
+      "jp_html": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>が<ruby>出た<rt>でた</rt></ruby>らしいです",
+      "zh": "据说他对日本产生了兴趣",
+      "en": "It seems that he/she has developed an interest in Japan."
+    },
+    {
+      "id": 18,
+      "start": 60.28,
+      "end": 65.12,
+      "ts": "01:00.280 -> 01:05.120",
+      "jp": "というわけでたくさんの日本語学習者の",
+      "jp_html": "というわけでたくさんの<ruby>日本語学<rt>にほんごがく</rt></ruby><ruby>習<rt>しゅう</rt></ruby><ruby>者<rt>もの</rt></ruby>の",
+      "zh": "因此，有许多日语学习者",
+      "en": "Thus, there are many Japanese language learners."
+    },
+    {
+      "id": 19,
+      "start": 65.12,
+      "end": 70.54,
+      "ts": "01:05.120 -> 01:10.540",
+      "jp": "ちょっと最初の日本語",
+      "jp_html": "ちょっと<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>",
+      "zh": "稍微最初的日本语",
+      "en": "Just a bit of Japanese at the beginning."
+    },
+    {
+      "id": 20,
+      "start": 70.54,
+      "end": 78.84,
+      "ts": "01:10.540 -> 01:18.840",
+      "jp": "東京はいいな東京はかっこいいなって思うきっかけみたいなものが",
+      "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>はいいな<ruby>東京<rt>とうきょう</rt></ruby>はかっこいいなって<ruby>思う<rt>おもう</rt></ruby>きっかけみたいなものが",
+      "zh": "东京真好，我会想到东京真是酷。",
+      "en": "I think there's something that makes me feel Tokyo is cool and nice."
+    },
+    {
+      "id": 21,
+      "start": 78.84,
+      "end": 81.66,
+      "ts": "01:18.840 -> 01:21.660",
+      "jp": "ロストイントランスレーションですよね",
+      "jp_html": "ロストイントランスレーションですよね",
+      "zh": "这不是翻译中的丢失吗",
+      "en": "Isn't that lost in translation?"
+    },
+    {
+      "id": 22,
+      "start": 81.66,
+      "end": 90.8,
+      "ts": "01:21.660 -> 01:30.800",
+      "jp": "そこにカラオケとかバーとかスキヤキヤとか",
+      "jp_html": "そこにカラオケとかバーとかスキヤキヤとか",
+      "zh": "那里有卡拉OK、酒吧和火锅店等",
+      "en": "There are karaoke, bars, and ski-yaki (hot pot) places there."
+    },
+    {
+      "id": 23,
+      "start": 90.8,
+      "end": 93.74,
+      "ts": "01:30.800 -> 01:33.740",
+      "jp": "いろいろ出てきて僕も行ったことがあります",
+      "jp_html": "いろいろ<ruby>出て<rt>でて</rt></ruby>きて<ruby>僕<rt>ぼく</rt></ruby>も<ruby>行った<rt>いった</rt></ruby>ことがあります",
+      "zh": "各种东西都有，我也去过。",
+      "en": "I've gone there when various things came up."
+    },
+    {
+      "id": 24,
+      "start": 93.74,
+      "end": 97.9,
+      "ts": "01:33.740 -> 01:37.900",
+      "jp": "カラオケはもちろん行ったことあるし",
+      "jp_html": "カラオケはもちろん<ruby>行った<rt>いった</rt></ruby>ことあるし",
+      "zh": "卡拉OK当然去过",
+      "en": "I've been to a karaoke place, of course."
+    },
+    {
+      "id": 25,
+      "start": 97.9,
+      "end": 100.82,
+      "ts": "01:37.900 -> 01:40.820",
+      "jp": "新宿ですよねあれは確か",
+      "jp_html": "<ruby>新宿<rt>しんじゅく</rt></ruby>ですよねあれは<ruby>確か<rt>たしか</rt></ruby>",
+      "zh": "新宿吧，那确实是",
+      "en": "Isn't it Shinjuku? That was surely there."
+    },
+    {
+      "id": 26,
+      "start": 100.82,
+      "end": 104.46,
+      "ts": "01:40.820 -> 01:44.460",
+      "jp": "そしてバーですねバーも行ったことがあります",
+      "jp_html": "そしてバーですねバーも<ruby>行った<rt>いった</rt></ruby>ことがあります",
+      "zh": "然后是酒吧呢我也去过酒吧。",
+      "en": "And the bar, I have also been to a bar."
+    },
+    {
+      "id": 27,
+      "start": 107.2,
+      "end": 110.08,
+      "ts": "01:47.200 -> 01:50.080",
+      "jp": "そしてスキヤキヤかあそこも行ったことがあります",
+      "jp_html": "そしてスキヤキヤかあそこも<ruby>行った<rt>いった</rt></ruby>ことがあります",
+      "zh": "然后涮锅也去过那里",
+      "en": "And I have also been to Sakyikya or that karaoke place."
+    },
+    {
+      "id": 28,
+      "start": 110.08,
+      "end": 113.48,
+      "ts": "01:50.080 -> 01:53.480",
+      "jp": "ロストイントランスレーション",
+      "jp_html": "ロストイントランスレーション",
+      "zh": "失入翻译",
+      "en": "Lost in Translation"
+    },
+    {
+      "id": 29,
+      "start": 113.48,
+      "end": 115.04,
+      "ts": "01:53.480 -> 01:55.040",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 30,
+      "start": 115.04,
+      "end": 122.0,
+      "ts": "01:55.040 -> 02:02.000",
+      "jp": "アメリカンビューティー",
+      "jp_html": "アメリカンビューティー",
+      "zh": "美国 beauty",
+      "en": "American Beauty"
+    },
+    {
+      "id": 31,
+      "start": 122.0,
+      "end": 124.24,
+      "ts": "02:02.000 -> 02:04.240",
+      "jp": "これは変な映画でしたね",
+      "jp_html": "これは<ruby>変な<rt>へんな</rt></ruby><ruby>映画<rt>えいが</rt></ruby>でしたね",
+      "zh": "这是一部奇怪的电影呢",
+      "en": "This was a strange movie, wasn't it?"
+    },
+    {
+      "id": 32,
+      "start": 124.24,
+      "end": 129.04,
+      "ts": "02:04.240 -> 02:09.040",
+      "jp": "でも面白かったけどちょっと変な映画ですよね",
+      "jp_html": "でも<ruby>面白か<rt>おもしろか</rt></ruby>ったけどちょっと<ruby>変な<rt>へんな</rt></ruby><ruby>映画<rt>えいが</rt></ruby>ですよね",
+      "zh": "但挺有趣的，不过有点奇怪的电影吧",
+      "en": "But it was fun, but isn't it a little strange movie, right?"
+    },
+    {
+      "id": 33,
+      "start": 129.04,
+      "end": 131.48,
+      "ts": "02:09.040 -> 02:11.480",
+      "jp": "そしてアメリカンサイコ",
+      "jp_html": "そしてアメリカンサイコ",
+      "zh": "然后是美国心理症",
+      "en": "And American Psycho"
+    },
+    {
+      "id": 34,
+      "start": 131.48,
+      "end": 133.34,
+      "ts": "02:11.480 -> 02:13.340",
+      "jp": "これも変な映画ですよね",
+      "jp_html": "これも<ruby>変な<rt>へんな</rt></ruby><ruby>映画<rt>えいが</rt></ruby>ですよね",
+      "zh": "这也是一部奇怪的电影吧？",
+      "en": "Isn't this also a strange movie?"
+    },
+    {
+      "id": 35,
+      "start": 134.34,
+      "end": 139.0,
+      "ts": "02:14.340 -> 02:19.000",
+      "jp": "このアメリカンとつくのは結構変な映画が多いですよね",
+      "jp_html": "このアメリカンとつくのは<ruby>結構<rt>けっこう</rt></ruby><ruby>変な<rt>へんな</rt></ruby><ruby>映画<rt>えいが</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ですよね",
+      "zh": "和这个美国人合作的电影往往都很奇怪是吧",
+      "en": "It seems that the ones made with Americans tend to be quite strange movies, doesn't it?"
+    },
+    {
+      "id": 36,
+      "start": 139.0,
+      "end": 141.78,
+      "ts": "02:19.000 -> 02:21.780",
+      "jp": "アメリカンヒストリーXとか",
+      "jp_html": "アメリカンヒストリーXとか",
+      "zh": "美国历史X或者american history x",
+      "en": "American History X"
+    },
+    {
+      "id": 37,
+      "start": 141.78,
+      "end": 143.42,
+      "ts": "02:21.780 -> 02:23.420",
+      "jp": "アメリカンハニーとか",
+      "jp_html": "アメリカンハニーとか",
+      "zh": "美国蜂蜜或类似的东西",
+      "en": "American Honey"
+    },
+    {
+      "id": 38,
+      "start": 143.42,
+      "end": 146.36,
+      "ts": "02:23.420 -> 02:26.360",
+      "jp": "アメリカンビューティー",
+      "jp_html": "アメリカンビューティー",
+      "zh": "美国美丽",
+      "en": "American Beauty"
+    },
+    {
+      "id": 39,
+      "start": 146.36,
+      "end": 147.36,
+      "ts": "02:26.360 -> 02:27.360",
+      "jp": "アメリカンサイコ",
+      "jp_html": "アメリカンサイコ",
+      "zh": "美国精神病人",
+      "en": "American Psycho"
+    },
+    {
+      "id": 40,
+      "start": 147.36,
+      "end": 152.06,
+      "ts": "02:27.360 -> 02:32.060",
+      "jp": "おすすめするかというと",
+      "jp_html": "おすすめするかというと",
+      "zh": "推荐不推荐呢",
+      "en": "Would I recommend it?"
+    },
+    {
+      "id": 41,
+      "start": 152.06,
+      "end": 153.36,
+      "ts": "02:32.060 -> 02:33.360",
+      "jp": "おすすめはしないな",
+      "jp_html": "おすすめはしないな",
+      "zh": "不推荐呢",
+      "en": "I wouldn't recommend it."
+    },
+    {
+      "id": 42,
+      "start": 153.36,
+      "end": 156.06,
+      "ts": "02:33.360 -> 02:36.060",
+      "jp": "ちょっと怖いですからね",
+      "jp_html": "ちょっと<ruby>怖い<rt>こわい</rt></ruby>ですからね",
+      "zh": "这有点可怕呢",
+      "en": "It's a little scary, you know?"
+    },
+    {
+      "id": 43,
+      "start": 156.06,
+      "end": 157.98,
+      "ts": "02:36.060 -> 02:37.980",
+      "jp": "なんか全部怖いんです",
+      "jp_html": "なんか<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>怖い<rt>こわい</rt></ruby>んです",
+      "zh": "什么东西都害怕",
+      "en": "Everything is scary."
+    },
+    {
+      "id": 44,
+      "start": 157.98,
+      "end": 159.68,
+      "ts": "02:37.980 -> 02:39.680",
+      "jp": "全部怖いな",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>怖い<rt>こわい</rt></ruby>な",
+      "zh": "全都好可怕啊",
+      "en": "Everything is scary."
+    },
+    {
+      "id": 45,
+      "start": 159.68,
+      "end": 161.4,
+      "ts": "02:39.680 -> 02:41.400",
+      "jp": "アメリカンビューティーも",
+      "jp_html": "アメリカンビューティーも",
+      "zh": "美国之美也",
+      "en": "American Beauty also"
+    },
+    {
+      "id": 46,
+      "start": 161.4,
+      "end": 163.22,
+      "ts": "02:41.400 -> 02:43.220",
+      "jp": "アメリカンサイコも",
+      "jp_html": "アメリカンサイコも",
+      "zh": "美国 Psycho 也",
+      "en": "American Psycho also"
+    },
+    {
+      "id": 47,
+      "start": 163.22,
+      "end": 164.4,
+      "ts": "02:43.220 -> 02:44.400",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 48,
+      "start": 164.4,
+      "end": 168.48,
+      "ts": "02:44.400 -> 02:48.480",
+      "jp": "どれにしようかな",
+      "jp_html": "どれにしようかな",
+      "zh": "选哪个呢",
+      "en": "Let's see which one to choose shall we?"
+    },
+    {
+      "id": 49,
+      "start": 168.48,
+      "end": 170.36,
+      "ts": "02:48.480 -> 02:50.360",
+      "jp": "ファーゴ",
+      "jp_html": "ファーゴ",
+      "zh": "Fargo",
+      "en": "Fargo"
+    },
+    {
+      "id": 50,
+      "start": 170.36,
+      "end": 172.48,
+      "ts": "02:50.360 -> 02:52.480",
+      "jp": "ビックリボウスティ",
+      "jp_html": "ビックリボウスティ",
+      "zh": "大吃一驚",
+      "en": "Big Surprise Tea"
+    },
+    {
+      "id": 51,
+      "start": 172.48,
+      "end": 173.56,
+      "ts": "02:52.480 -> 02:53.560",
+      "jp": "この辺ですよね",
+      "jp_html": "この<ruby>辺<rt>へん</rt></ruby>ですよね",
+      "zh": "这就是那边吧？",
+      "en": "Is this around here?"
+    },
+    {
+      "id": 52,
+      "start": 173.56,
+      "end": 176.16,
+      "ts": "02:53.560 -> 02:56.160",
+      "jp": "公演ですよね",
+      "jp_html": "<ruby>公演<rt>こうえん</rt></ruby>ですよね",
+      "zh": "演出吗？",
+      "en": "It's a performance, right?"
+    },
+    {
+      "id": 53,
+      "start": 176.16,
+      "end": 176.56,
+      "ts": "02:56.160 -> 02:56.560",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 54,
+      "start": 176.56,
+      "end": 180.36,
+      "ts": "02:56.560 -> 03:00.360",
+      "jp": "ちょっと変わった",
+      "jp_html": "ちょっと<ruby>変わ<rt>かわ</rt></ruby>った",
+      "zh": "有点不同寻常",
+      "en": "A little bit different"
+    },
+    {
+      "id": 55,
+      "start": 180.36,
+      "end": 182.9,
+      "ts": "03:00.360 -> 03:02.900",
+      "jp": "あのムードのある",
+      "jp_html": "あのムードのある",
+      "zh": "那个氛围的",
+      "en": "That mood-y"
+    },
+    {
+      "id": 56,
+      "start": 182.9,
+      "end": 184.8,
+      "ts": "03:02.900 -> 03:04.800",
+      "jp": "ムードっていうか",
+      "jp_html": "ムードっていうか",
+      "zh": "气氛或者说感觉",
+      "en": "Mood, I guess"
+    },
+    {
+      "id": 57,
+      "start": 184.8,
+      "end": 186.1,
+      "ts": "03:04.800 -> 03:06.100",
+      "jp": "ちょっと不思議な",
+      "jp_html": "ちょっと<ruby>不思議<rt>ふしぎ</rt></ruby>な",
+      "zh": "有点奇怪",
+      "en": "A little mysterious"
+    },
+    {
+      "id": 58,
+      "start": 186.1,
+      "end": 188.1,
+      "ts": "03:06.100 -> 03:08.100",
+      "jp": "変な話ですよね",
+      "jp_html": "<ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>ですよね",
+      "zh": "怪哉，是吧？",
+      "en": "Isn't it a strange story?"
+    },
+    {
+      "id": 59,
+      "start": 188.1,
+      "end": 190.54,
+      "ts": "03:08.100 -> 03:10.540",
+      "jp": "まあ変な話がやっぱり",
+      "jp_html": "まあ<ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>がやっぱり",
+      "zh": "毕竟还是有些奇怪的故事",
+      "en": "Well, weird stories do tend toipopularity contest."
+    },
+    {
+      "id": 60,
+      "start": 190.54,
+      "end": 191.66,
+      "ts": "03:10.540 -> 03:11.660",
+      "jp": "いいですよね",
+      "jp_html": "いいですよね",
+      "zh": "不错吧",
+      "en": "Isn't it good?"
+    },
+    {
+      "id": 61,
+      "start": 191.66,
+      "end": 193.56,
+      "ts": "03:11.660 -> 03:13.560",
+      "jp": "変な話といえば",
+      "jp_html": "<ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>といえば",
+      "zh": "说起怪事",
+      "en": "If I were to tell you a strange story..."
+    },
+    {
+      "id": 62,
+      "start": 193.56,
+      "end": 195.3,
+      "ts": "03:13.560 -> 03:15.300",
+      "jp": "オールドボーイ",
+      "jp_html": "オールドボーイ",
+      "zh": "老男孩",
+      "en": "Old Boy"
+    },
+    {
+      "id": 63,
+      "start": 195.3,
+      "end": 197.96,
+      "ts": "03:15.300 -> 03:17.960",
+      "jp": "これも変な話ですよね",
+      "jp_html": "これも<ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>ですよね",
+      "zh": "这也算是个奇怪的故事吧",
+      "en": "This is also a strange story, isn't it?"
+    },
+    {
+      "id": 64,
+      "start": 197.96,
+      "end": 202.18,
+      "ts": "03:17.960 -> 03:22.180",
+      "jp": "これは韓国映画でしょ",
+      "jp_html": "これは<ruby>韓国映画<rt>かんこくえいが</rt></ruby>でしょ",
+      "zh": "这是韩国电影吧",
+      "en": "Isn't this a Korean movie?"
+    },
+    {
+      "id": 65,
+      "start": 202.18,
+      "end": 208.38,
+      "ts": "03:22.180 -> 03:28.380",
+      "jp": "でも元々は多分日本の漫画家なんかじゃなかったっけ",
+      "jp_html": "でも<ruby>元々<rt>もともと</rt></ruby>は<ruby>多分<rt>たぶん</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>漫画家<rt>まんがか</rt></ruby>なんかじゃなかったっけ",
+      "zh": "但恐怕原本不是什么日本漫画家吧",
+      "en": "But maybe originally they weren't manga artists from Japan, though."
+    },
+    {
+      "id": 66,
+      "start": 208.38,
+      "end": 209.7,
+      "ts": "03:28.380 -> 03:29.700",
+      "jp": "ちょっと覚えてないけど",
+      "jp_html": "ちょっと<ruby>覚え<rt>おぼえ</rt></ruby>てないけど",
+      "zh": "记不太清楚了但",
+      "en": "I kind of don't remember but"
+    },
+    {
+      "id": 67,
+      "start": 209.7,
+      "end": 212.42,
+      "ts": "03:29.700 -> 03:32.420",
+      "jp": "オールドボーイは結構覚えてますね",
+      "jp_html": "オールドボーイは<ruby>結構<rt>けっこう</rt></ruby><ruby>覚え<rt>おぼえ</rt></ruby>てますね",
+      "zh": "老男孩我还挺记得的。",
+      "en": "I remember Old Boy pretty well."
+    },
+    {
+      "id": 68,
+      "start": 212.42,
+      "end": 215.72,
+      "ts": "03:32.420 -> 03:35.720",
+      "jp": "オールドボーイとかキルビルとか",
+      "jp_html": "オールドボーイとかキルビルとか",
+      "zh": "老男孩或者杀戮时刻",
+      "en": "Old Boy and Kill Bill"
+    },
+    {
+      "id": 69,
+      "start": 215.72,
+      "end": 217.64,
+      "ts": "03:35.720 -> 03:37.640",
+      "jp": "多分同じ時ですよね",
+      "jp_html": "<ruby>多分<rt>たぶん</rt></ruby><ruby>同じ<rt>おなじ</rt></ruby><ruby>時<rt>とき</rt></ruby>ですよね",
+      "zh": "大概在同一时间吧",
+      "en": "Probably at the same time, right?"
+    },
+    {
+      "id": 70,
+      "start": 217.64,
+      "end": 223.38,
+      "ts": "03:37.640 -> 03:43.380",
+      "jp": "韓国映画はパラサイトとか",
+      "jp_html": "<ruby>韓国映画<rt>かんこくえいが</rt></ruby>はパラサイトとか",
+      "zh": "韩国电影有寄生虫等",
+      "en": "Korean movies are like Parasite, etc."
+    },
+    {
+      "id": 71,
+      "start": 223.38,
+      "end": 227.44,
+      "ts": "03:43.380 -> 03:47.440",
+      "jp": "結構たまに話題になりますね",
+      "jp_html": "<ruby>結構<rt>けっこう</rt></ruby>たまに<ruby>話題<rt>わだい</rt></ruby>になりますね",
+      "zh": "结构不时成为话题呢",
+      "en": "It's话题有时会提起。"
+    },
+    {
+      "id": 72,
+      "start": 227.44,
+      "end": 230.8,
+      "ts": "03:47.440 -> 03:50.800",
+      "jp": "ちょっと変な話が多いと思います",
+      "jp_html": "ちょっと<ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>と<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我觉得有很多奇怪的故事",
+      "en": "I think there are quite a few strange stories."
+    },
+    {
+      "id": 73,
+      "start": 230.8,
+      "end": 232.94,
+      "ts": "03:50.800 -> 03:52.940",
+      "jp": "次",
+      "jp_html": "<ruby>次<rt>つぎ</rt></ruby>",
+      "zh": "次",
+      "en": "Next"
+    },
+    {
+      "id": 74,
+      "start": 232.94,
+      "end": 238.84,
+      "ts": "03:52.940 -> 03:58.840",
+      "jp": "マルホランドドライブ",
+      "jp_html": "マルホランドドライブ",
+      "zh": "马洛赫兰驱动",
+      "en": "Mulholland Drive"
+    },
+    {
+      "id": 75,
+      "start": 238.84,
+      "end": 243.04,
+      "ts": "03:58.840 -> 04:03.040",
+      "jp": "また変な話ですね",
+      "jp_html": "また<ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>ですね",
+      "zh": "这又是个奇怪的故事呢",
+      "en": "It's a strange story, huh?"
+    },
+    {
+      "id": 76,
+      "start": 243.04,
+      "end": 245.8,
+      "ts": "04:03.040 -> 04:05.800",
+      "jp": "全部変な話ですね",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>ですね",
+      "zh": "全是怪谈呢",
+      "en": "It's all strange talk, huh?"
+    },
+    {
+      "id": 77,
+      "start": 245.8,
+      "end": 246.84,
+      "ts": "04:05.800 -> 04:06.840",
+      "jp": "ツインピークス",
+      "jp_html": "ツインピークス",
+      "zh": "双峰（电视剧）",
+      "en": "Twin Peaks"
+    },
+    {
+      "id": 78,
+      "start": 246.84,
+      "end": 248.42,
+      "ts": "04:06.840 -> 04:08.420",
+      "jp": "イレイザーヘッド",
+      "jp_html": "イレイザーヘッド",
+      "zh": "防尘帽",
+      "en": "Exhausted Head"
+    },
+    {
+      "id": 79,
+      "start": 248.42,
+      "end": 249.82,
+      "ts": "04:08.420 -> 04:09.820",
+      "jp": "デビットリンチですね",
+      "jp_html": "デビットリンチですね",
+      "zh": "大卫·林奇呢",
+      "en": "It's David Lynch, right?"
+    },
+    {
+      "id": 80,
+      "start": 249.82,
+      "end": 252.18,
+      "ts": "04:09.820 -> 04:12.180",
+      "jp": "変な話が多いです",
+      "jp_html": "<ruby>変な<rt>へんな</rt></ruby><ruby>話<rt>はなし</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>です",
+      "zh": "有很多怪谈",
+      "en": "There are many strange stories."
+    },
+    {
+      "id": 81,
+      "start": 252.18,
+      "end": 253.88,
+      "ts": "04:12.180 -> 04:13.880",
+      "jp": "エレファントマン",
+      "jp_html": "エレファントマン",
+      "zh": "象人男",
+      "en": "Elephant Man"
+    },
+    {
+      "id": 82,
+      "start": 253.88,
+      "end": 256.74,
+      "ts": "04:13.880 -> 04:16.740",
+      "jp": "エレファントマンも見たときは",
+      "jp_html": "エレファントマンも<ruby>見た<rt>みた</rt></ruby>ときは",
+      "zh": "看到 Elephant Man 时",
+      "en": "When I saw Elephants Man too"
+    },
+    {
+      "id": 83,
+      "start": 256.74,
+      "end": 259.38,
+      "ts": "04:16.740 -> 04:19.380",
+      "jp": "ちょっと衝撃でしたね",
+      "jp_html": "ちょっと<ruby>衝撃<rt>しょうげき</rt></ruby>でしたね",
+      "zh": "确实让人惊讶呢",
+      "en": "It was quite shocking, wasn't it?"
+    },
+    {
+      "id": 84,
+      "start": 259.38,
+      "end": 260.14,
+      "ts": "04:19.380 -> 04:20.140",
+      "jp": "衝撃",
+      "jp_html": "<ruby>衝撃<rt>しょうげき</rt></ruby>",
+      "zh": "冲击",
+      "en": "Shock"
+    },
+    {
+      "id": 85,
+      "start": 260.14,
+      "end": 261.68,
+      "ts": "04:20.140 -> 04:21.680",
+      "jp": "いい言葉ですね",
+      "jp_html": "いい<ruby>言葉<rt>ことば</rt></ruby>ですね",
+      "zh": "这句话很好呢",
+      "en": "Good words indeed."
+    },
+    {
+      "id": 86,
+      "start": 261.68,
+      "end": 263.2,
+      "ts": "04:21.680 -> 04:23.200",
+      "jp": "衝撃というのは驚いた",
+      "jp_html": "<ruby>衝撃<rt>しょうげき</rt></ruby>というのは<ruby>驚い<rt>おどろい</rt></ruby>た",
+      "zh": "冲击就是惊讶",
+      "en": "Shock is when you're surprised."
+    },
+    {
+      "id": 87,
+      "start": 263.2,
+      "end": 264.88,
+      "ts": "04:23.200 -> 04:24.880",
+      "jp": "ということね",
+      "jp_html": "ということね",
+      "zh": "就是这样了",
+      "en": "That's it"
+    },
+    {
+      "id": 88,
+      "start": 264.88,
+      "end": 268.86,
+      "ts": "04:24.880 -> 04:28.860",
+      "jp": "その辺にしとくかな",
+      "jp_html": "その<ruby>辺<rt>へん</rt></ruby>にしとくかな",
+      "zh": "就在这里吧",
+      "en": "Let's settle on that side, shall we?"
+    },
+    {
+      "id": 89,
+      "start": 268.86,
+      "end": 270.66,
+      "ts": "04:28.860 -> 04:30.660",
+      "jp": "あと",
+      "jp_html": "あと",
+      "zh": "之后",
+      "en": "later"
+    },
+    {
+      "id": 90,
+      "start": 270.66,
+      "end": 273.52,
+      "ts": "04:30.660 -> 04:33.520",
+      "jp": "たまに",
+      "jp_html": "たまに",
+      "zh": "偶尔",
+      "en": "Sometimes"
+    },
+    {
+      "id": 91,
+      "start": 273.52,
+      "end": 275.9,
+      "ts": "04:33.520 -> 04:35.900",
+      "jp": "フランス映画とかも",
+      "jp_html": "フランス<ruby>映画<rt>えいが</rt></ruby>とかも",
+      "zh": "法国电影也行",
+      "en": "French movies as well"
+    },
+    {
+      "id": 92,
+      "start": 275.9,
+      "end": 277.82,
+      "ts": "04:35.900 -> 04:37.820",
+      "jp": "人気になりますね",
+      "jp_html": "<ruby>人気<rt>にんき</rt></ruby>になりますね",
+      "zh": "确实越来越受欢迎呢",
+      "en": "It's becoming popular, isn't it?"
+    },
+    {
+      "id": 93,
+      "start": 277.82,
+      "end": 279.72,
+      "ts": "04:37.820 -> 04:39.720",
+      "jp": "アメリとかね",
+      "jp_html": "アメリとかね",
+      "zh": "美利坚或者 kinetics",
+      "en": "America and Japan"
+    },
+    {
+      "id": 94,
+      "start": 279.72,
+      "end": 282.4,
+      "ts": "04:39.720 -> 04:42.400",
+      "jp": "ショコラとかね",
+      "jp_html": "ショコラとかね",
+      "zh": "巧克力或者呢",
+      "en": "Chocolate and nuts"
+    },
+    {
+      "id": 95,
+      "start": 282.4,
+      "end": 283.68,
+      "ts": "04:42.400 -> 04:43.680",
+      "jp": "ショコラはでも",
+      "jp_html": "ショコラはでも",
+      "zh": "巧克力也是",
+      "en": "Chocolate is also"
+    },
+    {
+      "id": 96,
+      "start": 283.68,
+      "end": 286.1,
+      "ts": "04:43.680 -> 04:46.100",
+      "jp": "ジョニーデップのやつね",
+      "jp_html": "ジョニーデップのやつね",
+      "zh": "Johnny Depp的那个",
+      "en": "Johnny Depp's one"
+    },
+    {
+      "id": 97,
+      "start": 286.1,
+      "end": 288.38,
+      "ts": "04:46.100 -> 04:48.380",
+      "jp": "あとはいろいろですよね",
+      "jp_html": "あとはいろいろですよね",
+      "zh": "剩下的就有很多了吧",
+      "en": "Well, there are many things, right?"
+    },
+    {
+      "id": 98,
+      "start": 288.38,
+      "end": 289.58,
+      "ts": "04:48.380 -> 04:49.580",
+      "jp": "いろいろなフランス映画",
+      "jp_html": "いろいろなフランス<ruby>映画<rt>えいが</rt></ruby>",
+      "zh": "各种法国电影",
+      "en": "Various French movies"
+    },
+    {
+      "id": 99,
+      "start": 289.58,
+      "end": 294.96,
+      "ts": "04:49.580 -> 04:54.960",
+      "jp": "そろそろちょっと時間なのでまた続きは次回",
+      "jp_html": "そろそろちょっと<ruby>時間<rt>じかん</rt></ruby>なのでまた<ruby>続き<rt>つづき</rt></ruby>は<ruby>次回<rt>じかい</rt></ruby>",
+      "zh": "差不多时间到了，所以继续的内容下次再说吧",
+      "en": "It's about time, so I'll continue next time."
+    },
+    {
+      "id": 100,
+      "start": 294.96,
+      "end": 295.94,
+      "ts": "04:54.960 -> 04:55.940",
+      "jp": "よろしく",
+      "jp_html": "よろしく",
+      "zh": "请多关照",
+      "en": "Nice to meet you"
+    }
+  ]
+}
