@@ -1,0 +1,894 @@
+{
+  "id": "1616",
+  "title": "#1616「よく寝た、よく寝た、よく寝たぁ〜！」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1616.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1616.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/11/14/1616%e3%80%8c%e3%82%88%e3%81%8f%e5%af%9d%e3%81%9f%e3%80%81%e3%82%88%e3%81%8f%e5%af%9d%e3%81%9f%e3%80%81%e3%82%88%e3%81%8f%e5%af%9d%e3%81%9f%e3%81%81%e3%80%9c%ef%bc%81%e3%80%8d/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.23,
+      "end": 2.87,
+      "ts": "00:01.230 -> 00:02.870",
+      "jp": "シャッキーン!",
+      "jp_html": "シャッキーン!",
+      "zh": "沙克钦！",
+      "en": "Shakkin!"
+    },
+    {
+      "id": 1,
+      "start": 3.29,
+      "end": 6.19,
+      "ts": "00:03.290 -> 00:06.190",
+      "jp": "今日はよく寝たよく寝たよく寝た",
+      "jp_html": "<ruby>今日は<rt>こんにちは</rt></ruby>よく<ruby>寝た<rt>ねた</rt></ruby>よく<ruby>寝た<rt>ねた</rt></ruby>よく<ruby>寝た<rt>ねた</rt></ruby>",
+      "zh": "我今天睡得好好的，睡得好好的，睡得好好的",
+      "en": "I slept well, I slept well, I slept well"
+    },
+    {
+      "id": 2,
+      "start": 6.19,
+      "end": 8.77,
+      "ts": "00:06.190 -> 00:08.770",
+      "jp": "はい、皆さん元気ですか?",
+      "jp_html": "はい、<ruby>皆さん<rt>みなさん</rt></ruby><ruby>元気<rt>げんき</rt></ruby>ですか?",
+      "zh": "大家好，你们好吗?",
+      "en": "Hi, everyone, are you alright?"
+    },
+    {
+      "id": 3,
+      "start": 10.35,
+      "end": 14.77,
+      "ts": "00:10.350 -> 00:14.770",
+      "jp": "あの、昨日の夜、よく寝ましたね",
+      "jp_html": "あの、<ruby>昨日<rt>きのう</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、よく<ruby>寝ま<rt>ねま</rt></ruby>したね",
+      "zh": "昨晚睡得好吗？",
+      "en": "Oh, did you sleep well last night?"
+    },
+    {
+      "id": 4,
+      "start": 14.77,
+      "end": 21.85,
+      "ts": "00:14.770 -> 00:21.850",
+      "jp": "まあ、理由は、一昨日の夜、よく眠れなかったからですね",
+      "jp_html": "まあ、<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>一昨日<rt>いっさくじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>、よく<ruby>眠れ<rt>ねむれ</rt></ruby>なかったからですね",
+      "zh": "好吧，原因是一两天前的晚上没睡好。",
+      "en": "Well, the reason is that I didn't sleep well last night."
+    },
+    {
+      "id": 5,
+      "start": 21.85,
+      "end": 29.84,
+      "ts": "00:21.850 -> 00:29.840",
+      "jp": "一昨日の夜は、ちょっと、まあなんか寝るのが遅くなって",
+      "jp_html": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は、ちょっと、まあなんか<ruby>寝る<rt>ねる</rt></ruby>のが<ruby>遅く<rt>おそく</rt></ruby>なって",
+      "zh": "前天晚上，稍微晚了一些，嗯，有点儿熬夜了",
+      "en": "The night before yesterday, I stayed up a bit late, you know?"
+    },
+    {
+      "id": 6,
+      "start": 29.84,
+      "end": 34.78,
+      "ts": "00:29.840 -> 00:34.780",
+      "jp": "しかも夜コーヒーを飲んでしまったので",
+      "jp_html": "しかも<ruby>夜<rt>よる</rt></ruby>コーヒーを<ruby>飲ん<rt>のん</rt></ruby>でしまったので",
+      "zh": "而且晚上喝了咖啡",
+      "en": "Moreover, I drank coffee late at night so"
+    },
+    {
+      "id": 7,
+      "start": 34.78,
+      "end": 37.46,
+      "ts": "00:34.780 -> 00:37.460",
+      "jp": "ちょっと眠れなかったんですね",
+      "jp_html": "ちょっと<ruby>眠れ<rt>ねむれ</rt></ruby>なかったんですね",
+      "zh": "你昨晚好像没睡好啊",
+      "en": "You couldn't sleep well, huh?"
+    },
+    {
+      "id": 8,
+      "start": 37.46,
+      "end": 49.02,
+      "ts": "00:37.460 -> 00:49.020",
+      "jp": "一昨日の夜はだいたい5時間30分ぐらい寝ました",
+      "jp_html": "<ruby>一昨日<rt>いっさくじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>はだいたい5<ruby>時間<rt>じかん</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>ぐらい<ruby>寝ま<rt>ねま</rt></ruby>した",
+      "zh": "前天晚上大约睡了5小时30分钟",
+      "en": "I slept for about 5 hours and 30 minutes last night."
+    },
+    {
+      "id": 9,
+      "start": 49.02,
+      "end": 53.44,
+      "ts": "00:49.020 -> 00:53.440",
+      "jp": "だから昨日はめっちゃ眠くて",
+      "jp_html": "だから<ruby>昨日<rt>きのう</rt></ruby>はめっちゃ<ruby>眠く<rt>ねむく</rt></ruby>て",
+      "zh": "所以昨天特别困",
+      "en": "That's why I was super tired yesterday."
+    },
+    {
+      "id": 10,
+      "start": 53.44,
+      "end": 55.74,
+      "ts": "00:53.440 -> 00:55.740",
+      "jp": "昨日は早く寝ました",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>早く<rt>はやく</rt></ruby><ruby>寝ま<rt>ねま</rt></ruby>した",
+      "zh": "昨天早睡了",
+      "en": "I went to bed early yesterday."
+    },
+    {
+      "id": 11,
+      "start": 56.74,
+      "end": 59.8,
+      "ts": "00:56.740 -> 00:59.800",
+      "jp": "昨日は8時間寝ました",
+      "jp_html": "<ruby>昨日<rt>きのう</rt></ruby>は8<ruby>時間<rt>じかん</rt></ruby><ruby>寝ま<rt>ねま</rt></ruby>した",
+      "zh": "昨天睡了8个小时",
+      "en": "I slept for 8 hours yesterday."
+    },
+    {
+      "id": 12,
+      "start": 59.8,
+      "end": 61.5,
+      "ts": "00:59.800 -> 01:01.500",
+      "jp": "8時間",
+      "jp_html": "8<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "8小时",
+      "en": "8 hours"
+    },
+    {
+      "id": 13,
+      "start": 61.5,
+      "end": 64.32,
+      "ts": "01:01.500 -> 01:04.320",
+      "jp": "8時間寝たら",
+      "jp_html": "8<ruby>時間<rt>じかん</rt></ruby><ruby>寝た<rt>ねた</rt></ruby>ら",
+      "zh": "睡了8小时",
+      "en": "If I slept for 8 hours"
+    },
+    {
+      "id": 14,
+      "start": 64.32,
+      "end": 66.14,
+      "ts": "01:04.320 -> 01:06.140",
+      "jp": "朝起きた時",
+      "jp_html": "<ruby>朝起き<rt>あさおき</rt></ruby>た<ruby>時<rt>とき</rt></ruby>",
+      "zh": "早上起床时",
+      "en": "When I woke up in the morning"
+    },
+    {
+      "id": 15,
+      "start": 66.14,
+      "end": 69.5,
+      "ts": "01:06.140 -> 01:09.500",
+      "jp": "めっちゃ元気で",
+      "jp_html": "めっちゃ<ruby>元気<rt>げんき</rt></ruby>で",
+      "zh": "好得很有活力",
+      "en": "I'm really energetic!"
+    },
+    {
+      "id": 16,
+      "start": 69.5,
+      "end": 72.26,
+      "ts": "01:09.500 -> 01:12.260",
+      "jp": "おーっとなりましたね",
+      "jp_html": "おーっとなりましたね",
+      "zh": "哎呀，这样啊",
+      "en": "Ah, it seems."
+    },
+    {
+      "id": 17,
+      "start": 72.26,
+      "end": 76.36,
+      "ts": "01:12.260 -> 01:16.360",
+      "jp": "おーっとなりましたね",
+      "jp_html": "おーっとなりましたね",
+      "zh": "哎呀，这样啊",
+      "en": "Ah, it seems."
+    },
+    {
+      "id": 18,
+      "start": 76.36,
+      "end": 78.5,
+      "ts": "01:16.360 -> 01:18.500",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嗯嗯嗯",
+      "en": "Well well well"
+    },
+    {
+      "id": 19,
+      "start": 78.5,
+      "end": 80.2,
+      "ts": "01:18.500 -> 01:20.200",
+      "jp": "まあまあまあ",
+      "jp_html": "まあまあまあ",
+      "zh": "嘛嘛嘛",
+      "en": "Well well well"
+    },
+    {
+      "id": 20,
+      "start": 80.2,
+      "end": 82.46,
+      "ts": "01:20.200 -> 01:22.460",
+      "jp": "そして朝",
+      "jp_html": "そして<ruby>朝<rt>あさ</rt></ruby>",
+      "zh": "然后早晨",
+      "en": "And then in the morning"
+    },
+    {
+      "id": 21,
+      "start": 82.46,
+      "end": 85.06,
+      "ts": "01:22.460 -> 01:25.060",
+      "jp": "コーヒーを飲んだら",
+      "jp_html": "コーヒーを<ruby>飲ん<rt>のん</rt></ruby>だら",
+      "zh": "喝了咖啡之后",
+      "en": "After drinking coffee"
+    },
+    {
+      "id": 22,
+      "start": 85.06,
+      "end": 88.1,
+      "ts": "01:25.060 -> 01:28.100",
+      "jp": "おーっとなりましたね",
+      "jp_html": "おーっとなりましたね",
+      "zh": "哎呀，这样啊",
+      "en": "Ah, it seems."
+    },
+    {
+      "id": 23,
+      "start": 88.1,
+      "end": 92.55,
+      "ts": "01:28.100 -> 01:32.550",
+      "jp": "だから今めっちゃ元気です",
+      "jp_html": "だから<ruby>今<rt>いま</rt></ruby>めっちゃ<ruby>元気<rt>げんき</rt></ruby>です",
+      "zh": "所以我现在特别有精神",
+      "en": "That's why I'm feeling really energetic right now."
+    },
+    {
+      "id": 24,
+      "start": 92.55,
+      "end": 96.75,
+      "ts": "01:32.550 -> 01:36.750",
+      "jp": "今は午前9時30分",
+      "jp_html": "<ruby>今<rt>いま</rt></ruby>は<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>とき</rt></ruby>30<ruby>分<rt>ふん</rt></ruby>",
+      "zh": "现在是上午9点30分",
+      "en": "It is now 9:30 AM"
+    },
+    {
+      "id": 25,
+      "start": 96.75,
+      "end": 99.99,
+      "ts": "01:36.750 -> 01:39.990",
+      "jp": "めっちゃ元気ですね",
+      "jp_html": "めっちゃ<ruby>元気<rt>げんき</rt></ruby>ですね",
+      "zh": "你看起来好有精神啊",
+      "en": "You seem really energetic!"
+    },
+    {
+      "id": 26,
+      "start": 99.99,
+      "end": 104.31,
+      "ts": "01:39.990 -> 01:44.310",
+      "jp": "この後レッスンがあります",
+      "jp_html": "この<ruby>後<rt>のち</rt></ruby>レッスンがあります",
+      "zh": "接下来还有课",
+      "en": "I have a lesson later."
+    },
+    {
+      "id": 27,
+      "start": 104.31,
+      "end": 107.61,
+      "ts": "01:44.310 -> 01:47.610",
+      "jp": "10時からレッスン",
+      "jp_html": "10<ruby>時<rt>とき</rt></ruby>からレッスン",
+      "zh": "从10点开始上课",
+      "en": "The lesson starts at 10 o'clock."
+    },
+    {
+      "id": 28,
+      "start": 107.61,
+      "end": 110.41,
+      "ts": "01:47.610 -> 01:50.410",
+      "jp": "11時もレッスン",
+      "jp_html": "11<ruby>時<rt>とき</rt></ruby>もレッスン",
+      "zh": "11点也上课",
+      "en": "The lesson is at 11 o'clock."
+    },
+    {
+      "id": 29,
+      "start": 110.41,
+      "end": 114.51,
+      "ts": "01:50.410 -> 01:54.510",
+      "jp": "そして昼ご飯を食べて",
+      "jp_html": "そして<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食べて<rt>たべて</rt></ruby>",
+      "zh": "然后吃了午饭",
+      "en": "And I ate lunch."
+    },
+    {
+      "id": 30,
+      "start": 114.51,
+      "end": 117.73,
+      "ts": "01:54.510 -> 01:57.730",
+      "jp": "散歩をしようかなと思っています",
+      "jp_html": "<ruby>散歩<rt>さんぽ</rt></ruby>をしようかなと<ruby>思って<rt>おもって</rt></ruby>います",
+      "zh": "我想去散步",
+      "en": "I'm thinking about going for a walk."
+    },
+    {
+      "id": 31,
+      "start": 117.73,
+      "end": 121.51,
+      "ts": "01:57.730 -> 02:01.510",
+      "jp": "今日の天気は晴れ",
+      "jp_html": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>晴れ<rt>はれ</rt></ruby>",
+      "zh": "今天的天气是晴朗",
+      "en": "Today's weather is clear/sunny"
+    },
+    {
+      "id": 32,
+      "start": 121.51,
+      "end": 124.27,
+      "ts": "02:01.510 -> 02:04.270",
+      "jp": "めっちゃいい気分ですね",
+      "jp_html": "めっちゃいい<ruby>気分<rt>きぶん</rt></ruby>ですね",
+      "zh": "感觉真好呢",
+      "en": "It's such a great mood, isn't it?"
+    },
+    {
+      "id": 33,
+      "start": 124.27,
+      "end": 129.87,
+      "ts": "02:04.270 -> 02:09.870",
+      "jp": "最近ちょっと曇りが続いていました",
+      "jp_html": "<ruby>最近<rt>さいきん</rt></ruby>ちょっと<ruby>曇り<rt>くもり</rt></ruby>が<ruby>続い<rt>つづい</rt></ruby>ていました",
+      "zh": "最近天气有点阴沉。",
+      "en": "Lately, it has been a bit overcast."
+    },
+    {
+      "id": 34,
+      "start": 129.87,
+      "end": 131.69,
+      "ts": "02:09.870 -> 02:11.690",
+      "jp": "曇り",
+      "jp_html": "<ruby>曇り<rt>くもり</rt></ruby>",
+      "zh": "阴天",
+      "en": "Cloudy"
+    },
+    {
+      "id": 35,
+      "start": 131.69,
+      "end": 135.93,
+      "ts": "02:11.690 -> 02:15.930",
+      "jp": "なので今日はいい天気だから嬉しいですね",
+      "jp_html": "なので<ruby>今日は<rt>こんにちは</rt></ruby>いい<ruby>天気<rt>てんき</rt></ruby>だから<ruby>嬉しい<rt>うれしい</rt></ruby>ですね",
+      "zh": "所以今天天气好所以很高兴呢",
+      "en": "So today being nice weather makes you happy, doesn't it?"
+    },
+    {
+      "id": 36,
+      "start": 135.93,
+      "end": 137.99,
+      "ts": "02:15.930 -> 02:17.990",
+      "jp": "皆さんはどうですか",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>はどうですか",
+      "zh": "您怎么样？",
+      "en": "How about you all?"
+    },
+    {
+      "id": 37,
+      "start": 137.99,
+      "end": 140.79,
+      "ts": "02:17.990 -> 02:20.790",
+      "jp": "いい天気がありますか",
+      "jp_html": "いい<ruby>天気<rt>てんき</rt></ruby>がありますか",
+      "zh": "天气好吗？",
+      "en": "Is it nice weather?"
+    },
+    {
+      "id": 38,
+      "start": 140.79,
+      "end": 142.65,
+      "ts": "02:20.790 -> 02:22.650",
+      "jp": "それとも全然ないですか",
+      "jp_html": "それとも<ruby>全然<rt>ぜんぜん</rt></ruby>ないですか",
+      "zh": "那完全没有吗？",
+      "en": "Is there none at all?"
+    },
+    {
+      "id": 39,
+      "start": 142.65,
+      "end": 149.73,
+      "ts": "02:22.650 -> 02:29.730",
+      "jp": "まあ秋と冬はちょっと天気が悪い国が多いですよね",
+      "jp_html": "まあ<ruby>秋<rt>あき</rt></ruby>と<ruby>冬<rt>ふゆ</rt></ruby>はちょっと<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪い<rt>わるい</rt></ruby><ruby>国<rt>くに</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>ですよね",
+      "zh": "嗯，秋天和冬天天气糟糕的国家比较多吧",
+      "en": "Well, it seems that there are often more cloudy countries in autumn and winter."
+    },
+    {
+      "id": 40,
+      "start": 149.73,
+      "end": 159.49,
+      "ts": "02:29.730 -> 02:39.490",
+      "jp": "僕は東京にいますけど東京は実は秋と冬は天気がいいです",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>東京<rt>とうきょう</rt></ruby>にいますけど<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>実は<rt>じつは</rt></ruby><ruby>秋<rt>あき</rt></ruby>と<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>天気<rt>てんき</rt></ruby>がいいです",
+      "zh": "我住在东京，但其实东京的秋天和冬天天气很好。",
+      "en": "I am in Tokyo but actually, Tokyo has nice weather in autumn and winter."
+    },
+    {
+      "id": 41,
+      "start": 159.49,
+      "end": 161.17,
+      "ts": "02:39.490 -> 02:41.170",
+      "jp": "雨が少ないです",
+      "jp_html": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>です",
+      "zh": "雨水少",
+      "en": "There is little rain."
+    },
+    {
+      "id": 42,
+      "start": 161.17,
+      "end": 165.79,
+      "ts": "02:41.170 -> 02:45.790",
+      "jp": "なのでこれからいい季節ですね",
+      "jp_html": "なのでこれからいい<ruby>季節<rt>きせつ</rt></ruby>ですね",
+      "zh": "所以从现在开始就是好季节了",
+      "en": "So from now on, it should be a nice season."
+    },
+    {
+      "id": 43,
+      "start": 165.79,
+      "end": 167.99,
+      "ts": "02:45.790 -> 02:47.990",
+      "jp": "僕は結構好きですね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>結構<rt>けっこう</rt></ruby><ruby>好き<rt>すき</rt></ruby>ですね",
+      "zh": "我挺喜欢的",
+      "en": "I like it quite a bit."
+    },
+    {
+      "id": 44,
+      "start": 167.99,
+      "end": 170.33,
+      "ts": "02:47.990 -> 02:50.330",
+      "jp": "この秋と冬",
+      "jp_html": "この<ruby>秋<rt>あき</rt></ruby>と<ruby>冬<rt>ふゆ</rt></ruby>",
+      "zh": "这个秋天和冬天",
+      "en": "This autumn and winter"
+    },
+    {
+      "id": 45,
+      "start": 170.33,
+      "end": 176.92,
+      "ts": "02:50.330 -> 02:56.920",
+      "jp": "そろそろ寒くなってきたので",
+      "jp_html": "そろそろ<ruby>寒く<rt>さむく</rt></ruby>なってきたので",
+      "zh": "渐渐冷起来了呢",
+      "en": "It's starting to get cold now."
+    },
+    {
+      "id": 46,
+      "start": 176.92,
+      "end": 181.56,
+      "ts": "02:56.920 -> 03:01.560",
+      "jp": "布団を冬の布団にしたり",
+      "jp_html": "<ruby>布団<rt>ふとん</rt></ruby>を<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>布団<rt>ふとん</rt></ruby>にしたり",
+      "zh": "把被子换成冬天的厚被子",
+      "en": "Change the futon to one for winter."
+    },
+    {
+      "id": 47,
+      "start": 181.56,
+      "end": 184.34,
+      "ts": "03:01.560 -> 03:04.340",
+      "jp": "ちょっとブランケットを使ったりして",
+      "jp_html": "ちょっとブランケットを<ruby>使った<rt>つかった</rt></ruby>りして",
+      "zh": "偶尔使用毯子保暖一下",
+      "en": "I used the blanket a little bit or so."
+    },
+    {
+      "id": 48,
+      "start": 184.34,
+      "end": 189.26,
+      "ts": "03:04.340 -> 03:09.260",
+      "jp": "パジャマを着て8時間ぐらい眠れば",
+      "jp_html": "パジャマを<ruby>着て<rt>きて</rt></ruby>8<ruby>時間<rt>じかん</rt></ruby>ぐらい<ruby>眠れ<rt>ねむれ</rt></ruby>ば",
+      "zh": "穿着睡衣睡大约8小时",
+      "en": "Wearing pajamas, I sleep for about 8 hours."
+    },
+    {
+      "id": 49,
+      "start": 189.26,
+      "end": 191.76,
+      "ts": "03:09.260 -> 03:11.760",
+      "jp": "毎日いいですね",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby>いいですね",
+      "zh": "每天很好呢",
+      "en": "It's nice every day."
+    },
+    {
+      "id": 50,
+      "start": 191.76,
+      "end": 195.6,
+      "ts": "03:11.760 -> 03:15.600",
+      "jp": "寝るのは大事ですよ",
+      "jp_html": "<ruby>寝る<rt>ねる</rt></ruby>のは<ruby>大事<rt>だいじ</rt></ruby>ですよ",
+      "zh": "睡觉是很重要的哦",
+      "en": "Sleeping is important, you know."
+    },
+    {
+      "id": 51,
+      "start": 195.6,
+      "end": 199.24,
+      "ts": "03:15.600 -> 03:19.240",
+      "jp": "眠るのは多分一番大事です",
+      "jp_html": "<ruby>眠る<rt>ねむる</rt></ruby>のは<ruby>多分<rt>たぶん</rt></ruby><ruby>一番大事<rt>いちばんだいじ</rt></ruby>です",
+      "zh": "睡觉可能是最重要的事情吧",
+      "en": "Sleeping is probably the most important thing."
+    },
+    {
+      "id": 52,
+      "start": 199.24,
+      "end": 202.76,
+      "ts": "03:19.240 -> 03:22.760",
+      "jp": "なので寝てください",
+      "jp_html": "なので<ruby>寝て<rt>ねて</rt></ruby>ください",
+      "zh": "所以请睡觉吧",
+      "en": "So please go to sleep."
+    },
+    {
+      "id": 53,
+      "start": 202.76,
+      "end": 208.86,
+      "ts": "03:22.760 -> 03:28.860",
+      "jp": "眠るためにはまずコーヒーを飲みすぎないこと",
+      "jp_html": "<ruby>眠る<rt>ねむる</rt></ruby>ためにはまずコーヒーを<ruby>飲み<rt>のみ</rt></ruby>すぎないこと",
+      "zh": "为了睡眠，首先要不要喝太多咖啡",
+      "en": "To sleep well, you shouldn't drink too much coffee."
+    },
+    {
+      "id": 54,
+      "start": 208.86,
+      "end": 213.24,
+      "ts": "03:28.860 -> 03:33.240",
+      "jp": "そしてリラックスすること",
+      "jp_html": "そしてリラックスすること",
+      "zh": "然后放松一下",
+      "en": "And then relax."
+    },
+    {
+      "id": 55,
+      "start": 213.24,
+      "end": 216.94,
+      "ts": "03:33.240 -> 03:36.940",
+      "jp": "やっぱり少し運動すること",
+      "jp_html": "やっぱり<ruby>少し<rt>すこし</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>すること",
+      "zh": "果然应该稍微运动一下",
+      "en": "Surely it's good to do some exercise."
+    },
+    {
+      "id": 56,
+      "start": 216.94,
+      "end": 219.82,
+      "ts": "03:36.940 -> 03:39.820",
+      "jp": "それが大事です",
+      "jp_html": "それが<ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "这很重要。",
+      "en": "That is important."
+    },
+    {
+      "id": 57,
+      "start": 220.66,
+      "end": 224.22,
+      "ts": "03:40.660 -> 03:44.220",
+      "jp": "できれば外に出て太陽を浴びること",
+      "jp_html": "できれば<ruby>外<rt>そと</rt></ruby>に<ruby>出て<rt>でて</rt></ruby><ruby>太陽<rt>たいよう</rt></ruby>を<ruby>浴び<rt>あび</rt></ruby>ること",
+      "zh": "尽可能出去晒太阳",
+      "en": "If possible, go outside and bask in the sun."
+    },
+    {
+      "id": 58,
+      "start": 224.22,
+      "end": 228.38,
+      "ts": "03:44.220 -> 03:48.380",
+      "jp": "仕事をしている人は難しいかもしれないけど",
+      "jp_html": "<ruby>仕事<rt>しごと</rt></ruby>をしている<ruby>人<rt>にん</rt></ruby>は<ruby>難しい<rt>むずかしい</rt></ruby>かもしれないけど",
+      "zh": "工作的人可能会觉得很难吧",
+      "en": "People who are working might find it difficult maybe."
+    },
+    {
+      "id": 59,
+      "start": 228.38,
+      "end": 231.38,
+      "ts": "03:48.380 -> 03:51.380",
+      "jp": "やっぱり外に出るのも大事ですね",
+      "jp_html": "やっぱり<ruby>外<rt>そと</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>のも<ruby>大事<rt>だいじ</rt></ruby>ですね",
+      "zh": "果然外出也很重要呢",
+      "en": "Going out is important too, you know?"
+    },
+    {
+      "id": 60,
+      "start": 231.38,
+      "end": 233.52,
+      "ts": "03:51.380 -> 03:53.520",
+      "jp": "家の外に出る",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出る<rt>でる</rt></ruby>",
+      "zh": "出门",
+      "en": "To go outside the house"
+    },
+    {
+      "id": 61,
+      "start": 233.52,
+      "end": 234.98,
+      "ts": "03:53.520 -> 03:54.980",
+      "jp": "ちょっと散歩する",
+      "jp_html": "ちょっと<ruby>散歩<rt>さんぽ</rt></ruby>する",
+      "zh": "稍微散步一下",
+      "en": "I'll go for a short walk."
+    },
+    {
+      "id": 62,
+      "start": 234.98,
+      "end": 236.62,
+      "ts": "03:54.980 -> 03:56.620",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 63,
+      "start": 236.62,
+      "end": 239.88,
+      "ts": "03:56.620 -> 03:59.880",
+      "jp": "お酒を飲みすぎない",
+      "jp_html": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲み<rt>のみ</rt></ruby>すぎない",
+      "zh": "不要喝太多酒",
+      "en": "Don't drink too much alcohol."
+    },
+    {
+      "id": 64,
+      "start": 239.88,
+      "end": 242.38,
+      "ts": "03:59.880 -> 04:02.380",
+      "jp": "食べすぎない",
+      "jp_html": "<ruby>食べ<rt>たべ</rt></ruby>すぎない",
+      "zh": "不要吃太多",
+      "en": "Don't overeat."
+    },
+    {
+      "id": 65,
+      "start": 242.38,
+      "end": 244.78,
+      "ts": "04:02.380 -> 04:04.780",
+      "jp": "甘いものを食べすぎない",
+      "jp_html": "<ruby>甘い<rt>あまい</rt></ruby>ものを<ruby>食べ<rt>たべ</rt></ruby>すぎない",
+      "zh": "不要吃太多甜食",
+      "en": "Don't eat too much sweet food."
+    },
+    {
+      "id": 66,
+      "start": 244.78,
+      "end": 247.02,
+      "ts": "04:04.780 -> 04:07.020",
+      "jp": "全部ですよね",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby>ですよね",
+      "zh": "全是吧",
+      "en": "All of it, right?"
+    },
+    {
+      "id": 67,
+      "start": 247.02,
+      "end": 248.78,
+      "ts": "04:07.020 -> 04:08.780",
+      "jp": "全部大事です",
+      "jp_html": "<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>です",
+      "zh": "全是大事",
+      "en": "It's all important."
+    },
+    {
+      "id": 68,
+      "start": 248.78,
+      "end": 251.8,
+      "ts": "04:08.780 -> 04:11.800",
+      "jp": "そしてゆっくり寝てください",
+      "jp_html": "そしてゆっくり<ruby>寝て<rt>ねて</rt></ruby>ください",
+      "zh": "然后请慢慢睡吧",
+      "en": "And please sleep well."
+    },
+    {
+      "id": 69,
+      "start": 251.8,
+      "end": 254.08,
+      "ts": "04:11.800 -> 04:14.080",
+      "jp": "ゆっくり寝て",
+      "jp_html": "ゆっくり<ruby>寝て<rt>ねて</rt></ruby>",
+      "zh": "慢慢睡",
+      "en": "Sleep slowly"
+    },
+    {
+      "id": 70,
+      "start": 254.08,
+      "end": 256.38,
+      "ts": "04:14.080 -> 04:16.380",
+      "jp": "頭がピカーン",
+      "jp_html": "<ruby>頭<rt>あたま</rt></ruby>がピカーン",
+      "zh": "头啪一声",
+      "en": "Headache"
+    },
+    {
+      "id": 71,
+      "start": 256.38,
+      "end": 258.4,
+      "ts": "04:16.380 -> 04:18.400",
+      "jp": "めっちゃ元気で",
+      "jp_html": "めっちゃ<ruby>元気<rt>げんき</rt></ruby>で",
+      "zh": "好得很有活力",
+      "en": "I'm super energetic!"
+    },
+    {
+      "id": 72,
+      "start": 258.4,
+      "end": 261.86,
+      "ts": "04:18.400 -> 04:21.860",
+      "jp": "めっちゃ元気だったら勉強ができます",
+      "jp_html": "めっちゃ<ruby>元気<rt>げんき</rt></ruby>だったら<ruby>勉強<rt>べんきょう</rt></ruby>ができます",
+      "zh": "如果精力充沛就可以学习",
+      "en": "If I'm feeling really energetic, I can study."
+    },
+    {
+      "id": 73,
+      "start": 261.86,
+      "end": 265.36,
+      "ts": "04:21.860 -> 04:25.360",
+      "jp": "すべては日本語の勉強のため",
+      "jp_html": "すべては<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>のため",
+      "zh": "所有都是为了学习日语",
+      "en": "All for studying Japanese."
+    },
+    {
+      "id": 74,
+      "start": 265.36,
+      "end": 269.82,
+      "ts": "04:25.360 -> 04:29.820",
+      "jp": "すべては皆さんの日本語の上達のためです",
+      "jp_html": "すべては<ruby>皆さん<rt>みなさん</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>上達<rt>じょうたつ</rt></ruby>のためです",
+      "zh": "这都是为了大家的日语提高",
+      "en": "It is all for the improvement of everyone's Japanese skills."
+    },
+    {
+      "id": 75,
+      "start": 269.82,
+      "end": 271.28,
+      "ts": "04:29.820 -> 04:31.280",
+      "jp": "ちゃんと寝てください",
+      "jp_html": "ちゃんと<ruby>寝て<rt>ねて</rt></ruby>ください",
+      "zh": "请好好睡觉。",
+      "en": "Please make sure you sleep well."
+    },
+    {
+      "id": 76,
+      "start": 271.28,
+      "end": 275.46,
+      "ts": "04:31.280 -> 04:35.460",
+      "jp": "眠らずに勉強するのはダメです",
+      "jp_html": "<ruby>眠ら<rt>ねむら</rt></ruby>ずに<ruby>勉強<rt>べんきょう</rt></ruby>するのはダメです",
+      "zh": "不熬夜学习不行",
+      "en": "Staying up late to study is not good."
+    },
+    {
+      "id": 77,
+      "start": 275.46,
+      "end": 278.6,
+      "ts": "04:35.460 -> 04:38.600",
+      "jp": "眠って勉強してください",
+      "jp_html": "<ruby>眠っ<rt>ねむっ</rt></ruby>て<ruby>勉強<rt>べんきょう</rt></ruby>してください",
+      "zh": "睡觉去学习吧",
+      "en": "Sleep and study please."
+    },
+    {
+      "id": 78,
+      "start": 278.6,
+      "end": 280.38,
+      "ts": "04:38.600 -> 04:40.380",
+      "jp": "眠ってじゃないな",
+      "jp_html": "<ruby>眠っ<rt>ねむっ</rt></ruby>てじゃないな",
+      "zh": "你不是在睡觉吧",
+      "en": "You're not sleeping, are you?"
+    },
+    {
+      "id": 79,
+      "start": 280.38,
+      "end": 282.8,
+      "ts": "04:40.380 -> 04:42.800",
+      "jp": "夢の中で勉強はできません",
+      "jp_html": "<ruby>夢<rt>ゆめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>はできません",
+      "zh": "在梦中不能学习",
+      "en": "I cannot study in a dream."
+    },
+    {
+      "id": 80,
+      "start": 282.8,
+      "end": 284.74,
+      "ts": "04:42.800 -> 04:44.740",
+      "jp": "ちゃんと眠って",
+      "jp_html": "ちゃんと<ruby>眠っ<rt>ねむっ</rt></ruby>て",
+      "zh": "好好睡觉",
+      "en": "Sleep well"
+    },
+    {
+      "id": 81,
+      "start": 284.74,
+      "end": 286.24,
+      "ts": "04:44.740 -> 04:46.240",
+      "jp": "起きて",
+      "jp_html": "<ruby>起き<rt>おき</rt></ruby>て",
+      "zh": "起床",
+      "en": "Get up"
+    },
+    {
+      "id": 82,
+      "start": 286.24,
+      "end": 287.94,
+      "ts": "04:46.240 -> 04:47.940",
+      "jp": "勉強してください",
+      "jp_html": "<ruby>勉強<rt>べんきょう</rt></ruby>してください",
+      "zh": "请学习",
+      "en": "Study please."
+    },
+    {
+      "id": 83,
+      "start": 287.94,
+      "end": 289.22,
+      "ts": "04:47.940 -> 04:49.220",
+      "jp": "はい",
+      "jp_html": "はい",
+      "zh": "好",
+      "en": "Yes"
+    },
+    {
+      "id": 84,
+      "start": 289.22,
+      "end": 292.6,
+      "ts": "04:49.220 -> 04:52.600",
+      "jp": "というわけで僕はめっちゃ元気です",
+      "jp_html": "というわけで<ruby>僕は<rt>ぼくは</rt></ruby>めっちゃ<ruby>元気<rt>げんき</rt></ruby>です",
+      "zh": "因此我感觉非常棒",
+      "en": "So I'm feeling really energetic."
+    },
+    {
+      "id": 85,
+      "start": 292.6,
+      "end": 293.5,
+      "ts": "04:52.600 -> 04:53.500",
+      "jp": "この後",
+      "jp_html": "この<ruby>後<rt>のち</rt></ruby>",
+      "zh": "之后",
+      "en": "After this"
+    },
+    {
+      "id": 86,
+      "start": 293.5,
+      "end": 295.66,
+      "ts": "04:53.500 -> 04:55.660",
+      "jp": "洗濯をしたいと思います",
+      "jp_html": "<ruby>洗濯<rt>せんたく</rt></ruby>をしたいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我想洗衣服",
+      "en": "I want to do some laundry."
+    },
+    {
+      "id": 87,
+      "start": 295.66,
+      "end": 297.08,
+      "ts": "04:55.660 -> 04:57.080",
+      "jp": "それではまたね",
+      "jp_html": "それではまたね",
+      "zh": "那我们下次见",
+      "en": "See you later"
+    }
+  ]
+}

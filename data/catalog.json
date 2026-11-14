@@ -28,6 +28,18 @@
   ],
   "episodes": [
     {
+      "id": "1616",
+      "title": "#1616「よく寝た、よく寝た、よく寝たぁ〜！」",
+      "category_id": "podcast",
+      "category_title": "Podcast",
+      "media_type": "audio",
+      "source_url": "https://nihongoconteppei.com/2026/11/14/1616%e3%80%8c%e3%82%88%e3%81%8f%e5%af%9d%e3%81%9f%e3%80%81%e3%82%88%e3%81%8f%e5%af%9d%e3%81%9f%e3%80%81%e3%82%88%e3%81%8f%e5%af%9d%e3%81%9f%e3%81%81%e3%80%9c%ef%bc%81%e3%80%8d/",
+      "series_id": "nihongo-con-teppei",
+      "series_title": "Nihongo con Teppei",
+      "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1616.mp3",
+      "data_path": "library/podcast/nihongo-con-teppei/episodes/1616.json"
+    },
+    {
       "id": "1615",
       "title": "#1615「映画シリーズ⑤」",
       "category_id": "podcast",
