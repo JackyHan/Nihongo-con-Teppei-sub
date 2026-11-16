@@ -1,5 +1,17 @@
 [
   {
+    "id": "1617",
+    "title": "#1617「ちょっと寒い…」",
+    "category_id": "podcast",
+    "category_title": "Podcast",
+    "media_type": "audio",
+    "source_url": "https://nihongoconteppei.com/2026/11/16/1617%e3%80%8c%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8%e5%af%92%e3%81%84-%e3%80%8d/",
+    "series_id": "nihongo-con-teppei",
+    "series_title": "Nihongo con Teppei",
+    "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1617.mp3",
+    "data_path": "library/podcast/nihongo-con-teppei/episodes/1617.json"
+  },
+  {
     "id": "1616",
     "title": "#1616「よく寝た、よく寝た、よく寝たぁ〜！」",
     "category_id": "podcast",
