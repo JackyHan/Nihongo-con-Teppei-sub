@@ -1,0 +1,2644 @@
+{
+  "id": "1618",
+  "title": "#1618「昇竜拳！（しょうりゅうけん！）波動拳！（はどうけん！）」",
+  "category_id": "podcast",
+  "category_title": "Podcast",
+  "media_type": "audio",
+  "media_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1618.mp3",
+  "audio_url": "https://media.blubrry.com/nihongo_con_teppei/nihongoconteppei.com/wp-content/uploads/2026/11/Beginners-con-Teppei1618.mp3",
+  "source_url": "https://nihongoconteppei.com/2026/11/19/1618%e3%80%8c%e6%98%87%e7%ab%9c%e6%8b%b3%ef%bc%81%ef%bc%88%e3%81%97%e3%82%87%e3%81%86%e3%82%8a%e3%82%85%e3%81%86%e3%81%91%e3%82%93%ef%bc%81%ef%bc%89%e6%b3%a2%e5%8b%95%e6%8b%b3%ef%bc%81%ef%bc%88/",
+  "series_id": "nihongo-con-teppei",
+  "series_title": "Nihongo con Teppei",
+  "entries": [
+    {
+      "id": 0,
+      "start": 1.33,
+      "end": 6.53,
+      "ts": "00:01.330 -> 00:06.530",
+      "jp": "借金!今日は昇竜券!",
+      "jp_html": "<ruby>借金<rt>しゃっきん</rt></ruby>!<ruby>今日は<rt>こんにちは</rt></ruby><ruby>昇竜<rt>しょうりゅう</rt></ruby><ruby>券<rt>けん</rt></ruby>!",
+      "zh": "借钱！今天是升龙券！",
+      "en": "Debt! Today's Rising Dragon Ticket!"
+    },
+    {
+      "id": 1,
+      "start": 8.09,
+      "end": 9.77,
+      "ts": "00:08.090 -> 00:09.770",
+      "jp": "波動券!",
+      "jp_html": "<ruby>波動<rt>はどう</rt></ruby><ruby>券<rt>けん</rt></ruby>!",
+      "zh": "波动券!",
+      "en": "Vibration Ticket!"
+    },
+    {
+      "id": 2,
+      "start": 10.59,
+      "end": 11.49,
+      "ts": "00:10.590 -> 00:11.490",
+      "jp": "はいみなさんこんにちは",
+      "jp_html": "はいみなさんこんにちは",
+      "zh": "大家好，你好。",
+      "en": "Hello everyone hello"
+    },
+    {
+      "id": 3,
+      "start": 11.49,
+      "end": 17.57,
+      "ts": "00:11.490 -> 00:17.570",
+      "jp": "ストリートファイターの映画を見てきました",
+      "jp_html": "ストリートファイターの<ruby>映画<rt>えいが</rt></ruby>を<ruby>見て<rt>みて</rt></ruby>きました",
+      "zh": "我刚看了 STREET FIGHTER 的电影",
+      "en": "I watched the Street Fighter movie."
+    },
+    {
+      "id": 4,
+      "start": 17.57,
+      "end": 24.77,
+      "ts": "00:17.570 -> 00:24.770",
+      "jp": "奥さんと子供と一緒にストリートファイターを見てきました",
+      "jp_html": "<ruby>奥さん<rt>おくさん</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>ストリートファイターを<ruby>見て<rt>みて</rt></ruby>きました",
+      "zh": "我和妻子还有孩子一起看了街头霸王这部电影",
+      "en": "I watched Street Fighter with my wife and kids."
+    },
+    {
+      "id": 5,
+      "start": 24.77,
+      "end": 26.41,
+      "ts": "00:24.770 -> 00:26.410",
+      "jp": "新宿に行ってきました",
+      "jp_html": "<ruby>新宿<rt>しんじゅく</rt></ruby>に<ruby>行って<rt>いって</rt></ruby>きました",
+      "zh": "我去新宿了",
+      "en": "I went to Shinjuku."
+    },
+    {
+      "id": 6,
+      "start": 26.41,
+      "end": 28.65,
+      "ts": "00:26.410 -> 00:28.650",
+      "jp": "ゴジラの",
+      "jp_html": "ゴジラの",
+      "zh": "哥吉拉的",
+      "en": "Godzilla's"
+    },
+    {
+      "id": 7,
+      "start": 28.65,
+      "end": 31.53,
+      "ts": "00:28.650 -> 00:31.530",
+      "jp": "ゴジラで有名な",
+      "jp_html": "ゴジラで<ruby>有名<rt>ゆうめい</rt></ruby>な",
+      "zh": "著名的哥吉拉",
+      "en": "Famous for Godzilla"
+    },
+    {
+      "id": 8,
+      "start": 31.53,
+      "end": 33.41,
+      "ts": "00:31.530 -> 00:33.410",
+      "jp": "東方シネマ",
+      "jp_html": "<ruby>東方<rt>とうほう</rt></ruby>シネマ",
+      "zh": "东方 cinema",
+      "en": "Eastern Cinema"
+    },
+    {
+      "id": 9,
+      "start": 33.41,
+      "end": 35.41,
+      "ts": "00:33.410 -> 00:35.410",
+      "jp": "新宿東方シネマ",
+      "jp_html": "<ruby>新宿<rt>しんじゅく</rt></ruby><ruby>東方<rt>とうほう</rt></ruby>シネマ",
+      "zh": "新宿东方电影院",
+      "en": "New Shibuya Oriental Cinema"
+    },
+    {
+      "id": 10,
+      "start": 35.41,
+      "end": 37.19,
+      "ts": "00:35.410 -> 00:37.190",
+      "jp": "ゴジラビルですね",
+      "jp_html": "ゴジラビルですね",
+      "zh": "哥吉拉大厦吧",
+      "en": "It's Godzilla Building, right?"
+    },
+    {
+      "id": 11,
+      "start": 37.19,
+      "end": 38.33,
+      "ts": "00:37.190 -> 00:38.330",
+      "jp": "ゴジラがあります",
+      "jp_html": "ゴジラがあります",
+      "zh": "有哥吉拉",
+      "en": "There is Godzilla."
+    },
+    {
+      "id": 12,
+      "start": 38.33,
+      "end": 40.33,
+      "ts": "00:38.330 -> 00:40.330",
+      "jp": "大きいゴジラがいる",
+      "jp_html": "<ruby>大きい<rt>おおきい</rt></ruby>ゴジラがいる",
+      "zh": "有只大的哥吉拉。",
+      "en": "There is a big Godzilla."
+    },
+    {
+      "id": 13,
+      "start": 40.33,
+      "end": 44.41,
+      "ts": "00:40.330 -> 00:44.410",
+      "jp": "そこでゴジラじゃなくて",
+      "jp_html": "そこでゴジラじゃなくて",
+      "zh": "在那里不是哥吉拉",
+      "en": "There, not Godzilla"
+    },
+    {
+      "id": 14,
+      "start": 44.41,
+      "end": 47.79,
+      "ts": "00:44.410 -> 00:47.790",
+      "jp": "ストリートファイターを見てきました",
+      "jp_html": "ストリートファイターを<ruby>見て<rt>みて</rt></ruby>きました",
+      "zh": "我去看 STREET FIGHTER 了",
+      "en": "I watched Street Fighter."
+    },
+    {
+      "id": 15,
+      "start": 47.79,
+      "end": 49.25,
+      "ts": "00:47.790 -> 00:49.250",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嘛",
+      "en": "Well"
+    },
+    {
+      "id": 16,
+      "start": 49.25,
+      "end": 50.67,
+      "ts": "00:49.250 -> 00:50.670",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 17,
+      "start": 50.67,
+      "end": 53.47,
+      "ts": "00:50.670 -> 00:53.470",
+      "jp": "よかったですよ",
+      "jp_html": "よかったですよ",
+      "zh": "很好啊",
+      "en": "It was good, wasn't it?"
+    },
+    {
+      "id": 18,
+      "start": 53.47,
+      "end": 54.85,
+      "ts": "00:53.470 -> 00:54.850",
+      "jp": "あのなんていうかな",
+      "jp_html": "あのなんていうかな",
+      "zh": "那叫什么呢",
+      "en": "How should I put it?"
+    },
+    {
+      "id": 19,
+      "start": 54.85,
+      "end": 61.41,
+      "ts": "00:54.850 -> 01:01.410",
+      "jp": "なんか大きいハンバーガーを食べたような気持ちですね",
+      "jp_html": "なんか<ruby>大きい<rt>おおきい</rt></ruby>ハンバーガーを<ruby>食べた<rt>たべた</rt></ruby>ような<ruby>気持ち<rt>きもち</rt></ruby>ですね",
+      "zh": "好像吃了一个大汉堡的感觉呢",
+      "en": "It's like you ate a big hamburger."
+    },
+    {
+      "id": 20,
+      "start": 61.41,
+      "end": 64.51,
+      "ts": "01:01.410 -> 01:04.510",
+      "jp": "ケチャップがたくさん入って",
+      "jp_html": "ケチャップがたくさん<ruby>入っ<rt>いっっ</rt></ruby>て",
+      "zh": "里面有很多番茄酱",
+      "en": "There's a lot of ketchup in it."
+    },
+    {
+      "id": 21,
+      "start": 64.51,
+      "end": 70.49,
+      "ts": "01:04.510 -> 01:10.490",
+      "jp": "なんか肉が大きくてパンが大きくて",
+      "jp_html": "なんか<ruby>肉<rt>にく</rt></ruby>が<ruby>大きく<rt>おおきく</rt></ruby>てパンが<ruby>大きく<rt>おおきく</rt></ruby>て",
+      "zh": "感觉肉很大，面包也很大",
+      "en": "Something like meat is big and bread is big"
+    },
+    {
+      "id": 22,
+      "start": 70.49,
+      "end": 72.09,
+      "ts": "01:10.490 -> 01:12.090",
+      "jp": "ケチャップがたくさん入った",
+      "jp_html": "ケチャップがたくさん<ruby>入っ<rt>いっっ</rt></ruby>た",
+      "zh": "里面有很多番茄酱",
+      "en": "Ketchup is plentiful."
+    },
+    {
+      "id": 23,
+      "start": 72.09,
+      "end": 76.65,
+      "ts": "01:12.090 -> 01:16.650",
+      "jp": "いいハンバーガーを食べた感じがします",
+      "jp_html": "いいハンバーガーを<ruby>食べた<rt>たべた</rt></ruby><ruby>感じ<rt>かんじ</rt></ruby>がします",
+      "zh": "我觉得吃到了很好的汉堡包",
+      "en": "It feels like I ate a good hamburger."
+    },
+    {
+      "id": 24,
+      "start": 76.65,
+      "end": 81.23,
+      "ts": "01:16.650 -> 01:21.230",
+      "jp": "そしてフライドポテト",
+      "jp_html": "そしてフライドポテト",
+      "zh": "然后是炸薯条",
+      "en": "And the fried potatoes"
+    },
+    {
+      "id": 25,
+      "start": 81.23,
+      "end": 85.81,
+      "ts": "01:21.230 -> 01:25.810",
+      "jp": "そしてコカコーラ",
+      "jp_html": "そしてコカコーラ",
+      "zh": "然后是可口可乐",
+      "en": "And Coca-Cola"
+    },
+    {
+      "id": 26,
+      "start": 85.81,
+      "end": 88.15,
+      "ts": "01:25.810 -> 01:28.150",
+      "jp": "そんな感じの映画でした",
+      "jp_html": "そんな<ruby>感じ<rt>かんじ</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>でした",
+      "zh": "这样的电影感觉",
+      "en": "It was a movie like that."
+    },
+    {
+      "id": 27,
+      "start": 88.15,
+      "end": 90.21,
+      "ts": "01:28.150 -> 01:30.210",
+      "jp": "あの",
+      "jp_html": "あの",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 28,
+      "start": 90.21,
+      "end": 92.23,
+      "ts": "01:30.210 -> 01:32.230",
+      "jp": "よかったですよ",
+      "jp_html": "よかったですよ",
+      "zh": "很好啊",
+      "en": "It was good, wasn't it?"
+    },
+    {
+      "id": 29,
+      "start": 92.23,
+      "end": 94.29,
+      "ts": "01:32.230 -> 01:34.290",
+      "jp": "たくさんのかっこいい音楽",
+      "jp_html": "たくさんのかっこいい<ruby>音楽<rt>おんがく</rt></ruby>",
+      "zh": "很多酷炫的音乐",
+      "en": "Lots of cool music"
+    },
+    {
+      "id": 30,
+      "start": 94.29,
+      "end": 96.15,
+      "ts": "01:34.290 -> 01:36.150",
+      "jp": "90年代とかの",
+      "jp_html": "90<ruby>年代<rt>ねんだい</rt></ruby>とかの",
+      "zh": "90年代的的",
+      "en": "From the 90s onwards"
+    },
+    {
+      "id": 31,
+      "start": 96.15,
+      "end": 97.39,
+      "ts": "01:36.150 -> 01:37.390",
+      "jp": "音楽や",
+      "jp_html": "<ruby>音楽<rt>おんがく</rt></ruby>や",
+      "zh": "音乐或",
+      "en": "Music and"
+    },
+    {
+      "id": 32,
+      "start": 97.39,
+      "end": 99.83,
+      "ts": "01:37.390 -> 01:39.830",
+      "jp": "なんかまあ",
+      "jp_html": "なんかまあ",
+      "zh": "嗯，勉强可以",
+      "en": "Well, kinda"
+    },
+    {
+      "id": 33,
+      "start": 99.83,
+      "end": 101.91,
+      "ts": "01:39.830 -> 01:41.910",
+      "jp": "やっぱりストリートファイター",
+      "jp_html": "やっぱりストリートファイター",
+      "zh": "果然又是街头霸王",
+      "en": "Still Street Fighter"
+    },
+    {
+      "id": 34,
+      "start": 101.91,
+      "end": 104.71,
+      "ts": "01:41.910 -> 01:44.710",
+      "jp": "ストリートファイター2",
+      "jp_html": "ストリートファイター2",
+      "zh": "街头霸王2",
+      "en": "Street Fighter II"
+    },
+    {
+      "id": 35,
+      "start": 104.71,
+      "end": 105.73,
+      "ts": "01:44.710 -> 01:45.730",
+      "jp": "僕が",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>が",
+      "zh": "我",
+      "en": "I"
+    },
+    {
+      "id": 36,
+      "start": 105.73,
+      "end": 108.05,
+      "ts": "01:45.730 -> 01:48.050",
+      "jp": "小学生の時",
+      "jp_html": "<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "小学的时候",
+      "en": "When I was in elementary school"
+    },
+    {
+      "id": 37,
+      "start": 108.05,
+      "end": 110.55,
+      "ts": "01:48.050 -> 01:50.550",
+      "jp": "スーパーファミコンで",
+      "jp_html": "スーパーファミコンで",
+      "zh": "超级任天堂中",
+      "en": "Super Famicom for"
+    },
+    {
+      "id": 38,
+      "start": 110.55,
+      "end": 112.57,
+      "ts": "01:50.550 -> 01:52.570",
+      "jp": "ストリートファイター2を",
+      "jp_html": "ストリートファイター2を",
+      "zh": "街头霸王2",
+      "en": "Street Fighter 2 to"
+    },
+    {
+      "id": 39,
+      "start": 112.57,
+      "end": 113.13,
+      "ts": "01:52.570 -> 01:53.130",
+      "jp": "やりました",
+      "jp_html": "やりました",
+      "zh": "做到了",
+      "en": "We did it."
+    },
+    {
+      "id": 40,
+      "start": 113.13,
+      "end": 118.95,
+      "ts": "01:53.130 -> 01:58.950",
+      "jp": "小学生だな小学生の時",
+      "jp_html": "<ruby>小学生<rt>しょうがくせい</rt></ruby>だな<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>時<rt>とき</rt></ruby>",
+      "zh": "小学生呢，小的时候",
+      "en": "I'm a elementary school student. I was an elementary school student."
+    },
+    {
+      "id": 41,
+      "start": 118.95,
+      "end": 123.29,
+      "ts": "01:58.950 -> 02:03.290",
+      "jp": "スーパーファミコンですよねストリートファイター2",
+      "jp_html": "スーパーファミコンですよねストリートファイター2",
+      "zh": "这不是超级任天堂吗？街头霸王II？",
+      "en": "Isn't it Super Nintendo? Street Fighter II?"
+    },
+    {
+      "id": 42,
+      "start": 123.29,
+      "end": 124.87,
+      "ts": "02:03.290 -> 02:04.870",
+      "jp": "カプコンの",
+      "jp_html": "カプコンの",
+      "zh": "卡普空的",
+      "en": "Capcom's"
+    },
+    {
+      "id": 43,
+      "start": 124.87,
+      "end": 131.65,
+      "ts": "02:04.870 -> 02:11.650",
+      "jp": "その前はストリートファイター2は",
+      "jp_html": "その<ruby>前<rt>まえ</rt></ruby>はストリートファイター2は",
+      "zh": "之前是街头霸王2",
+      "en": "Before that, it was Street Fighter 2."
+    },
+    {
+      "id": 44,
+      "start": 131.65,
+      "end": 135.41,
+      "ts": "02:11.650 -> 02:15.410",
+      "jp": "ゲームセンターでできました",
+      "jp_html": "ゲームセンターでできました",
+      "zh": "在游戏中心完成了",
+      "en": "I made it at the arcade."
+    },
+    {
+      "id": 45,
+      "start": 135.41,
+      "end": 139.85,
+      "ts": "02:15.410 -> 02:19.850",
+      "jp": "ゲームセンターで結構やっていた僕は",
+      "jp_html": "ゲームセンターで<ruby>結構<rt>けっこう</rt></ruby>やっていた<ruby>僕は<rt>ぼくは</rt></ruby>",
+      "zh": "我在 Arcade 里玩得挺多的",
+      "en": "The one who was quite popular in arcades"
+    },
+    {
+      "id": 46,
+      "start": 139.85,
+      "end": 144.73,
+      "ts": "02:19.850 -> 02:24.730",
+      "jp": "だけどゲームセンターは1回100円なんですよね",
+      "jp_html": "だけどゲームセンターは1<ruby>回<rt>かい</rt></ruby>100<ruby>円<rt>えん</rt></ruby>なんですよね",
+      "zh": "但是游戏中心是一次100日元吧",
+      "en": "But the game center is 100 yen per play, right?"
+    },
+    {
+      "id": 47,
+      "start": 144.73,
+      "end": 147.29,
+      "ts": "02:24.730 -> 02:27.290",
+      "jp": "ワンプレイ100円です",
+      "jp_html": "ワンプレイ100<ruby>円<rt>えん</rt></ruby>です",
+      "zh": "一个游戏100日元",
+      "en": "The play costs 100 yen."
+    },
+    {
+      "id": 48,
+      "start": 147.29,
+      "end": 155.77,
+      "ts": "02:27.290 -> 02:35.770",
+      "jp": "僕は子供だったので100円か200円かそれぐらいですよね",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>だったので100<ruby>円<rt>えん</rt></ruby>か200<ruby>円<rt>えん</rt></ruby>かそれぐらいですよね",
+      "zh": "因为我是孩子，所以大概是100日元或200日元吧",
+      "en": "I was a child so it must have been around 100 yen or 200 yen, right?"
+    },
+    {
+      "id": 49,
+      "start": 155.77,
+      "end": 160.61,
+      "ts": "02:35.770 -> 02:40.610",
+      "jp": "お父さんとかお母さんにストリートファイターやりたい",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>とかお<ruby>母さん<rt>かあさん</rt></ruby>にストリートファイターやりたい",
+      "zh": "想让爸爸或妈妈玩街头霸王游戏技巧一下",
+      "en": "I want to play Street Fighter with my dad and mom."
+    },
+    {
+      "id": 50,
+      "start": 161.11,
+      "end": 163.63,
+      "ts": "02:41.110 -> 02:43.630",
+      "jp": "スト2と言ってましたストリートファイター2",
+      "jp_html": "スト2と<ruby>言って<rt>いって</rt></ruby>ましたストリートファイター2",
+      "zh": "他说是街斗2，就是街头霸王2",
+      "en": "He said Street Fighter 2"
+    },
+    {
+      "id": 51,
+      "start": 163.63,
+      "end": 167.61,
+      "ts": "02:43.630 -> 02:47.610",
+      "jp": "スト2お父さんスト2やりたい",
+      "jp_html": "スト2お<ruby>父さん<rt>とうさん</rt></ruby>スト2やりたい",
+      "zh": "想玩斯特2爸爸斯特2",
+      "en": "I want to play Super Smash Bros. father Super Smash Bros."
+    },
+    {
+      "id": 52,
+      "start": 167.61,
+      "end": 170.53,
+      "ts": "02:47.610 -> 02:50.530",
+      "jp": "お母さんスト2やりたいと言って",
+      "jp_html": "お<ruby>母さん<rt>かあさん</rt></ruby>スト2やりたいと<ruby>言って<rt>いって</rt></ruby>",
+      "zh": "妈妈说她想玩 Strap On 2 游戏",
+      "en": "My mother said she wants to try Mom's Strait 2."
+    },
+    {
+      "id": 53,
+      "start": 170.53,
+      "end": 173.97,
+      "ts": "02:50.530 -> 02:53.970",
+      "jp": "100円とか200円をもらって",
+      "jp_html": "100<ruby>円<rt>えん</rt></ruby>とか200<ruby>円<rt>えん</rt></ruby>をもらって",
+      "zh": "收到一两百日元",
+      "en": "For 100 yen or 200 yen"
+    },
+    {
+      "id": 54,
+      "start": 173.97,
+      "end": 177.59,
+      "ts": "02:53.970 -> 02:57.590",
+      "jp": "ゲームセンターでスト2をやってました",
+      "jp_html": "ゲームセンターでスト2をやってました",
+      "zh": "我在游戏中心玩了街机版的街头霸王2",
+      "en": "I was playing Street Fighter at the arcade."
+    },
+    {
+      "id": 55,
+      "start": 177.59,
+      "end": 180.65,
+      "ts": "02:57.590 -> 03:00.650",
+      "jp": "だけどもっとやりたい",
+      "jp_html": "だけどもっとやりたい",
+      "zh": "但是还想做得更多",
+      "en": "But I want to do more."
+    },
+    {
+      "id": 56,
+      "start": 180.65,
+      "end": 182.63,
+      "ts": "03:00.650 -> 03:02.630",
+      "jp": "もっともっとやりたい",
+      "jp_html": "もっともっとやりたい",
+      "zh": "想做更多事情",
+      "en": "I want to do even more"
+    },
+    {
+      "id": 57,
+      "start": 182.63,
+      "end": 187.67,
+      "ts": "03:02.630 -> 03:07.670",
+      "jp": "そのタイミングでスーパーファミコンで",
+      "jp_html": "そのタイミングでスーパーファミコンで",
+      "zh": "在那个时机使用超级任天堂游戏机",
+      "en": "At that timing with Super Nintendo"
+    },
+    {
+      "id": 58,
+      "start": 187.67,
+      "end": 189.91,
+      "ts": "03:07.670 -> 03:09.910",
+      "jp": "スト2が出ました",
+      "jp_html": "スト2が<ruby>出ま<rt>でま</rt></ruby>した",
+      "zh": "街机版2出来了",
+      "en": "St2 has come out"
+    },
+    {
+      "id": 59,
+      "start": 189.91,
+      "end": 191.81,
+      "ts": "03:09.910 -> 03:11.810",
+      "jp": "発売されました",
+      "jp_html": "<ruby>発売<rt>はつばい</rt></ruby>されました",
+      "zh": "已发布",
+      "en": "It has been released."
+    },
+    {
+      "id": 60,
+      "start": 191.81,
+      "end": 194.69,
+      "ts": "03:11.810 -> 03:14.690",
+      "jp": "めっちゃめちゃ嬉しかったですね",
+      "jp_html": "めっちゃめちゃ<ruby>嬉しか<rt>うれしか</rt></ruby>ったですね",
+      "zh": "真的非常高兴吧",
+      "en": "It was really, really happy for you, right?"
+    },
+    {
+      "id": 61,
+      "start": 194.69,
+      "end": 198.41,
+      "ts": "03:14.690 -> 03:18.410",
+      "jp": "これで毎日ストツーができる",
+      "jp_html": "これで<ruby>毎日<rt>まいにち</rt></ruby>ストツーができる",
+      "zh": "现在每天都可以打太极拳了",
+      "en": "This allows for daily guitar practice."
+    },
+    {
+      "id": 62,
+      "start": 198.41,
+      "end": 201.49,
+      "ts": "03:18.410 -> 03:21.490",
+      "jp": "家で練習できる",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>で<ruby>練習<rt>れんしゅう</rt></ruby>できる",
+      "zh": "在家可以练习",
+      "en": "You can practice at home."
+    },
+    {
+      "id": 63,
+      "start": 201.49,
+      "end": 205.61,
+      "ts": "03:21.490 -> 03:25.610",
+      "jp": "毎日毎日コンピューターと戦って練習して",
+      "jp_html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>コンピューターと<ruby>戦っ<rt>たたかっ</rt></ruby>て<ruby>練習<rt>れんしゅう</rt></ruby>して",
+      "zh": "每天每天与计算机作战练习",
+      "en": "Day after day, fighting against the computer and practicing."
+    },
+    {
+      "id": 64,
+      "start": 205.61,
+      "end": 209.69,
+      "ts": "03:25.610 -> 03:29.690",
+      "jp": "1週間に2回かな",
+      "jp_html": "1<ruby>週間<rt>しゅうかん</rt></ruby>に2<ruby>回<rt>かい</rt></ruby>かな",
+      "zh": "一周两次吧",
+      "en": "About twice a week."
+    },
+    {
+      "id": 65,
+      "start": 209.69,
+      "end": 213.09,
+      "ts": "03:29.690 -> 03:33.090",
+      "jp": "水曜日と土曜日",
+      "jp_html": "<ruby>水曜日<rt>すいようび</rt></ruby>と<ruby>土曜日<rt>どようび</rt></ruby>",
+      "zh": "星期三和星期六",
+      "en": "Wednesday and Saturday"
+    },
+    {
+      "id": 66,
+      "start": 213.09,
+      "end": 215.37,
+      "ts": "03:33.090 -> 03:35.370",
+      "jp": "僕は剣道をやっていたので",
+      "jp_html": "<ruby>僕は<rt>ぼくは</rt></ruby><ruby>剣道<rt>けんどう</rt></ruby>をやっていたので",
+      "zh": "因为我练过剑道所以",
+      "en": "I practiced kendo."
+    },
+    {
+      "id": 67,
+      "start": 215.37,
+      "end": 217.45,
+      "ts": "03:35.370 -> 03:37.450",
+      "jp": "水曜日と土曜日に",
+      "jp_html": "<ruby>水曜日<rt>すいようび</rt></ruby>と<ruby>土曜日<rt>どようび</rt></ruby>に",
+      "zh": "星期三和星期六",
+      "en": "Wednesday and Saturday"
+    },
+    {
+      "id": 68,
+      "start": 217.45,
+      "end": 219.53,
+      "ts": "03:37.450 -> 03:39.530",
+      "jp": "友達が来るんですね",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>来る<rt>くる</rt></ruby>んですね",
+      "zh": "朋友要来呢",
+      "en": "My friends are coming, huh?"
+    },
+    {
+      "id": 69,
+      "start": 219.53,
+      "end": 220.77,
+      "ts": "03:39.530 -> 03:40.770",
+      "jp": "僕の家に来て",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>来て<rt>きて</rt></ruby>",
+      "zh": "来我家",
+      "en": "Come to my house"
+    },
+    {
+      "id": 70,
+      "start": 220.77,
+      "end": 224.29,
+      "ts": "03:40.770 -> 03:44.290",
+      "jp": "剣道が始まるまでの時間",
+      "jp_html": "<ruby>剣道<rt>けんどう</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>るまでの<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "剑道开始之前的时光",
+      "en": "The time before karate begins"
+    },
+    {
+      "id": 71,
+      "start": 224.29,
+      "end": 226.19,
+      "ts": "03:44.290 -> 03:46.190",
+      "jp": "剣道が始まるまで",
+      "jp_html": "<ruby>剣道<rt>けんどう</rt></ruby>が<ruby>始ま<rt>はじま</rt></ruby>るまで",
+      "zh": "剑道开始之前",
+      "en": "Until karate begins"
+    },
+    {
+      "id": 72,
+      "start": 226.19,
+      "end": 229.13,
+      "ts": "03:46.190 -> 03:49.130",
+      "jp": "2時間か3時間",
+      "jp_html": "2<ruby>時間<rt>じかん</rt></ruby>か3<ruby>時間<rt>じかん</rt></ruby>",
+      "zh": "2小时或3小时",
+      "en": "2 hours or 3 hours"
+    },
+    {
+      "id": 73,
+      "start": 229.13,
+      "end": 231.59,
+      "ts": "03:49.130 -> 03:51.590",
+      "jp": "スト2をやるんですよ",
+      "jp_html": "スト2をやるんですよ",
+      "zh": "玩スト2游戏技巧",
+      "en": "I'm going to play Super Smash Bros."
+    },
+    {
+      "id": 74,
+      "start": 231.59,
+      "end": 233.07,
+      "ts": "03:51.590 -> 03:53.070",
+      "jp": "家で",
+      "jp_html": "<ruby>家<rt>いえ</rt></ruby>で",
+      "zh": "在家里",
+      "en": "at home"
+    },
+    {
+      "id": 75,
+      "start": 233.07,
+      "end": 234.03,
+      "ts": "03:53.070 -> 03:54.030",
+      "jp": "僕の部屋で",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>で",
+      "zh": "我的房间裡",
+      "en": "In my room"
+    },
+    {
+      "id": 76,
+      "start": 234.03,
+      "end": 235.61,
+      "ts": "03:54.030 -> 03:55.610",
+      "jp": "スト2をね",
+      "jp_html": "スト2をね",
+      "zh": "玩街机2",
+      "en": "Play Super Smash Bros. 2"
+    },
+    {
+      "id": 77,
+      "start": 235.61,
+      "end": 237.77,
+      "ts": "03:55.610 -> 03:57.770",
+      "jp": "友達たちと",
+      "jp_html": "<ruby>友達<rt>ともだち</rt></ruby>たちと",
+      "zh": "和朋友们",
+      "en": "With friends"
+    },
+    {
+      "id": 78,
+      "start": 237.77,
+      "end": 241.41,
+      "ts": "03:57.770 -> 04:01.410",
+      "jp": "僕がよく使っていたのは",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>がよく<ruby>使って<rt>つかって</rt></ruby>いたのは",
+      "zh": "我经常使用的的是",
+      "en": "The one I used often was"
+    },
+    {
+      "id": 79,
+      "start": 241.41,
+      "end": 243.21,
+      "ts": "04:01.410 -> 04:03.210",
+      "jp": "ガイル",
+      "jp_html": "ガイル",
+      "zh": "盖尔",
+      "en": "Gail"
+    },
+    {
+      "id": 80,
+      "start": 243.21,
+      "end": 247.01,
+      "ts": "04:03.210 -> 04:07.010",
+      "jp": "ソニックムーヴ",
+      "jp_html": "ソニックムーヴ",
+      "zh": "Sonic Move",
+      "en": "Sonic Move"
+    },
+    {
+      "id": 81,
+      "start": 247.01,
+      "end": 248.57,
+      "ts": "04:07.010 -> 04:08.570",
+      "jp": "ソニックムーヴ",
+      "jp_html": "ソニックムーヴ",
+      "zh": "Sonic Move",
+      "en": "Sonic Move"
+    },
+    {
+      "id": 82,
+      "start": 248.57,
+      "end": 250.43,
+      "ts": "04:08.570 -> 04:10.430",
+      "jp": "ソニックムーヴ",
+      "jp_html": "ソニックムーヴ",
+      "zh": "索尼克移动",
+      "en": "Sonic Move"
+    },
+    {
+      "id": 83,
+      "start": 250.43,
+      "end": 252.03,
+      "ts": "04:10.430 -> 04:12.030",
+      "jp": "ソニックムーヴ",
+      "jp_html": "ソニックムーヴ",
+      "zh": "索尼克移动",
+      "en": "Sonic Move"
+    },
+    {
+      "id": 84,
+      "start": 252.03,
+      "end": 253.83,
+      "ts": "04:12.030 -> 04:13.830",
+      "jp": "ムーヴでしたっけ",
+      "jp_html": "ムーヴでしたっけ",
+      "zh": "叫了吧？",
+      "en": "Was it Move, though?"
+    },
+    {
+      "id": 85,
+      "start": 253.83,
+      "end": 255.97,
+      "ts": "04:13.830 -> 04:15.970",
+      "jp": "ちょっと忘れてしまったけど",
+      "jp_html": "ちょっと<ruby>忘れ<rt>わすれ</rt></ruby>てしまったけど",
+      "zh": "稍微忘记了一下不过",
+      "en": "I kind of forgot that, but"
+    },
+    {
+      "id": 86,
+      "start": 255.97,
+      "end": 257.27,
+      "ts": "04:15.970 -> 04:17.270",
+      "jp": "あとサマー",
+      "jp_html": "あとサマー",
+      "zh": "另外夏目",
+      "en": "And Summer"
+    },
+    {
+      "id": 87,
+      "start": 257.27,
+      "end": 259.85,
+      "ts": "04:17.270 -> 04:19.850",
+      "jp": "サマーソルトキック",
+      "jp_html": "サマーソルトキック",
+      "zh": "夏日盐粒踢",
+      "en": "Summer Solstice Kick"
+    },
+    {
+      "id": 88,
+      "start": 259.85,
+      "end": 260.45,
+      "ts": "04:19.850 -> 04:20.450",
+      "jp": "かな",
+      "jp_html": "かな",
+      "zh": "卡那",
+      "en": "kan"
+    },
+    {
+      "id": 89,
+      "start": 260.45,
+      "end": 263.43,
+      "ts": "04:20.450 -> 04:23.430",
+      "jp": "ブーンってやつね",
+      "jp_html": "ブーンってやつね",
+      "zh": "boom那个东西",
+      "en": "That boop thing, you know?"
+    },
+    {
+      "id": 90,
+      "start": 263.43,
+      "end": 264.63,
+      "ts": "04:23.430 -> 04:24.630",
+      "jp": "ソニックムーブ",
+      "jp_html": "ソニックムーブ",
+      "zh": "Sonic 运动",
+      "en": "Sonic Move"
+    },
+    {
+      "id": 91,
+      "start": 264.63,
+      "end": 267.97,
+      "ts": "04:24.630 -> 04:27.970",
+      "jp": "あとはもちろん龍とか剣ですよね",
+      "jp_html": "あとはもちろん<ruby>龍<rt>りゅう</rt></ruby>とか<ruby>剣<rt>つるぎ</rt></ruby>ですよね",
+      "zh": "剩下的当然就是龙和剑了吧",
+      "en": "The rest of course includes dragons and swords, right?"
+    },
+    {
+      "id": 92,
+      "start": 269.17,
+      "end": 270.45,
+      "ts": "04:29.170 -> 04:30.450",
+      "jp": "波動剣",
+      "jp_html": "<ruby>波動<rt>はどう</rt></ruby><ruby>剣<rt>つるぎ</rt></ruby>",
+      "zh": "波动剑",
+      "en": "Vibrating Sword"
+    },
+    {
+      "id": 93,
+      "start": 270.45,
+      "end": 272.05,
+      "ts": "04:30.450 -> 04:32.050",
+      "jp": "昇竜剣",
+      "jp_html": "<ruby>昇竜<rt>しょうりゅう</rt></ruby><ruby>剣<rt>つるぎ</rt></ruby>",
+      "zh": "升龙剑",
+      "en": "Rising Dragon Sword"
+    },
+    {
+      "id": 94,
+      "start": 272.05,
+      "end": 273.51,
+      "ts": "04:32.050 -> 04:33.510",
+      "jp": "波動剣",
+      "jp_html": "<ruby>波動<rt>はどう</rt></ruby><ruby>剣<rt>つるぎ</rt></ruby>",
+      "zh": "波动剑",
+      "en": "Vibrating Sword"
+    },
+    {
+      "id": 95,
+      "start": 273.51,
+      "end": 275.15,
+      "ts": "04:33.510 -> 04:35.150",
+      "jp": "昇竜剣",
+      "jp_html": "<ruby>昇竜<rt>しょうりゅう</rt></ruby><ruby>剣<rt>つるぎ</rt></ruby>",
+      "zh": "升龙剑",
+      "en": "Rising Dragon Sword"
+    },
+    {
+      "id": 96,
+      "start": 275.15,
+      "end": 276.33,
+      "ts": "04:35.150 -> 04:36.330",
+      "jp": "You win",
+      "jp_html": "You win",
+      "zh": "你赢了",
+      "en": "You win"
+    },
+    {
+      "id": 97,
+      "start": 276.33,
+      "end": 279.21,
+      "ts": "04:36.330 -> 04:39.210",
+      "jp": "あとは",
+      "jp_html": "あとは",
+      "zh": "剩下的",
+      "en": "The rest is"
+    },
+    {
+      "id": 98,
+      "start": 279.21,
+      "end": 281.59,
+      "ts": "04:39.210 -> 04:41.590",
+      "jp": "エドモンドホンダ",
+      "jp_html": "エドモンドホンダ",
+      "zh": "埃德蒙·本田",
+      "en": "Edmund Honda"
+    },
+    {
+      "id": 99,
+      "start": 281.59,
+      "end": 284.55,
+      "ts": "04:41.590 -> 04:44.550",
+      "jp": "ほーほーほーほーほーほーとか",
+      "jp_html": "ほーほーほーほーほーほーとか",
+      "zh": "呼——呼——呼——呼——呼——呼——",
+      "en": "Ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho"
+    },
+    {
+      "id": 100,
+      "start": 284.55,
+      "end": 288.49,
+      "ts": "04:44.550 -> 04:48.490",
+      "jp": "まあまあいろいろ",
+      "jp_html": "まあまあいろいろ",
+      "zh": "嗯嗯各种各样的",
+      "en": "Well, there's various things."
+    },
+    {
+      "id": 101,
+      "start": 288.49,
+      "end": 291.09,
+      "ts": "04:48.490 -> 04:51.090",
+      "jp": "いろいろですよ",
+      "jp_html": "いろいろですよ",
+      "zh": "各种各样啊",
+      "en": "It varies."
+    },
+    {
+      "id": 102,
+      "start": 291.09,
+      "end": 292.85,
+      "ts": "04:51.090 -> 04:52.850",
+      "jp": "いろいろですよいろいろ",
+      "jp_html": "いろいろですよいろいろ",
+      "zh": "各种各样",
+      "en": "It varies, it varies."
+    },
+    {
+      "id": 103,
+      "start": 292.85,
+      "end": 294.95,
+      "ts": "04:52.850 -> 04:54.950",
+      "jp": "で今日あの映画を見ました",
+      "jp_html": "で<ruby>今日<rt>きょう</rt></ruby>あの<ruby>映画<rt>えいが</rt></ruby>を<ruby>見ま<rt>みま</rt></ruby>した",
+      "zh": "所以我今天看了那部电影",
+      "en": "I saw that movie today"
+    },
+    {
+      "id": 104,
+      "start": 294.95,
+      "end": 296.73,
+      "ts": "04:54.950 -> 04:56.730",
+      "jp": "ストリートファイターの映画を見た",
+      "jp_html": "ストリートファイターの<ruby>映画<rt>えいが</rt></ruby>を<ruby>見た<rt>みた</rt></ruby>",
+      "zh": "我看了街头霸王的电影",
+      "en": "I watched the Street Fighter movie."
+    },
+    {
+      "id": 105,
+      "start": 296.73,
+      "end": 298.15,
+      "ts": "04:56.730 -> 04:58.150",
+      "jp": "よかったですね",
+      "jp_html": "よかったですね",
+      "zh": "真好呢",
+      "en": "It was good, wasn't it?"
+    },
+    {
+      "id": 106,
+      "start": 298.15,
+      "end": 300.01,
+      "ts": "04:58.150 -> 05:00.010",
+      "jp": "主人公はリュウでしたね",
+      "jp_html": "<ruby>主人公<rt>しゅじんこう</rt></ruby>はリュウでしたね",
+      "zh": "主人公是 Ryu 吧？",
+      "en": "The protagonist was Ryu, right?"
+    },
+    {
+      "id": 107,
+      "start": 300.01,
+      "end": 301.75,
+      "ts": "05:00.010 -> 05:01.750",
+      "jp": "リュウとケンかな",
+      "jp_html": "リュウとケンかな",
+      "zh": "Ryu和Ken呢",
+      "en": "Ryu and Ken, maybe?"
+    },
+    {
+      "id": 108,
+      "start": 301.75,
+      "end": 303.39,
+      "ts": "05:01.750 -> 05:03.390",
+      "jp": "主人公はケンなのかな",
+      "jp_html": "<ruby>主人公<rt>しゅじんこう</rt></ruby>はケンなのかな",
+      "zh": "主人公是 ken 吗？",
+      "en": "Is the protagonist Ken, right?"
+    },
+    {
+      "id": 109,
+      "start": 303.39,
+      "end": 305.79,
+      "ts": "05:03.390 -> 05:05.790",
+      "jp": "とにかくリュウとケン",
+      "jp_html": "とにかくリュウとケン",
+      "zh": "总之是隆和肯",
+      "en": "Anyways, Ryu and Ken"
+    },
+    {
+      "id": 110,
+      "start": 305.79,
+      "end": 307.83,
+      "ts": "05:05.790 -> 05:07.830",
+      "jp": "二人の男が",
+      "jp_html": "<ruby>二人<rt>ふたり</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>が",
+      "zh": "两个男人",
+      "en": "Two men"
+    },
+    {
+      "id": 111,
+      "start": 307.83,
+      "end": 309.09,
+      "ts": "05:07.830 -> 05:09.090",
+      "jp": "主人公かね",
+      "jp_html": "<ruby>主人公<rt>しゅじんこう</rt></ruby>かね",
+      "zh": "主人公叫 ken",
+      "en": "The main character perhaps"
+    },
+    {
+      "id": 112,
+      "start": 309.09,
+      "end": 311.31,
+      "ts": "05:09.090 -> 05:11.310",
+      "jp": "あとチュンリー",
+      "jp_html": "あとチュンリー",
+      "zh": "接着チュンリー",
+      "en": "And then Chuntoonley"
+    },
+    {
+      "id": 113,
+      "start": 311.31,
+      "end": 312.61,
+      "ts": "05:11.310 -> 05:12.610",
+      "jp": "チュンリーですね",
+      "jp_html": "チュンリーですね",
+      "zh": "这就是楚利吧",
+      "en": "It's Tunley, right?"
+    },
+    {
+      "id": 114,
+      "start": 312.61,
+      "end": 316.03,
+      "ts": "05:12.610 -> 05:16.030",
+      "jp": "チュンリーは中国の女の人",
+      "jp_html": "チュンリーは<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>女の人<rt>おんなのひと</rt></ruby>",
+      "zh": "楚莉是中国的女性",
+      "en": "Chunli is a Chinese woman."
+    },
+    {
+      "id": 115,
+      "start": 316.03,
+      "end": 317.05,
+      "ts": "05:16.030 -> 05:17.050",
+      "jp": "女ファイター",
+      "jp_html": "<ruby>女<rt>おんな</rt></ruby>ファイター",
+      "zh": "女 Fighter",
+      "en": "Female fighter"
+    },
+    {
+      "id": 116,
+      "start": 317.05,
+      "end": 318.53,
+      "ts": "05:17.050 -> 05:18.530",
+      "jp": "かっこいいんですよね",
+      "jp_html": "かっこいいんですよね",
+      "zh": "确实很酷呢",
+      "en": "It's cool, isn't it?"
+    },
+    {
+      "id": 117,
+      "start": 318.53,
+      "end": 320.39,
+      "ts": "05:18.530 -> 05:20.390",
+      "jp": "かっこよくてかわいくて",
+      "jp_html": "かっこよくてかわいくて",
+      "zh": "帅帅的又可爱",
+      "en": "cool and cute"
+    },
+    {
+      "id": 118,
+      "start": 320.39,
+      "end": 322.25,
+      "ts": "05:20.390 -> 05:22.250",
+      "jp": "チュンリー",
+      "jp_html": "チュンリー",
+      "zh": "昌黎",
+      "en": "Chunli"
+    },
+    {
+      "id": 119,
+      "start": 322.25,
+      "end": 322.65,
+      "ts": "05:22.250 -> 05:22.650",
+      "jp": "そして",
+      "jp_html": "そして",
+      "zh": "然后",
+      "en": "And"
+    },
+    {
+      "id": 120,
+      "start": 322.65,
+      "end": 327.31,
+      "ts": "05:22.650 -> 05:27.310",
+      "jp": "悪いやつがいますね",
+      "jp_html": "<ruby>悪い<rt>わるい</rt></ruby>やつがいますね",
+      "zh": "有坏人啊。",
+      "en": "There's a bad guy, I see."
+    },
+    {
+      "id": 121,
+      "start": 327.31,
+      "end": 328.19,
+      "ts": "05:27.310 -> 05:28.190",
+      "jp": "悪いやつは",
+      "jp_html": "<ruby>悪い<rt>わるい</rt></ruby>やつは",
+      "zh": "坏 guys",
+      "en": "The bad guy is"
+    },
+    {
+      "id": 122,
+      "start": 328.19,
+      "end": 331.37,
+      "ts": "05:28.190 -> 05:31.370",
+      "jp": "日本語だとベガなんですけど",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>だとベガなんですけど",
+      "zh": "日语是叫做贝加",
+      "en": "In Japanese, it's Vega."
+    },
+    {
+      "id": 123,
+      "start": 331.37,
+      "end": 333.33,
+      "ts": "05:31.370 -> 05:33.330",
+      "jp": "英語だとバイソン",
+      "jp_html": "<ruby>英語<rt>えいご</rt></ruby>だとバイソン",
+      "zh": "英语中是水牛",
+      "en": "Bison"
+    },
+    {
+      "id": 124,
+      "start": 333.33,
+      "end": 334.59,
+      "ts": "05:33.330 -> 05:34.590",
+      "jp": "ストリートファイターは",
+      "jp_html": "ストリートファイターは",
+      "zh": "街头战士是",
+      "en": "Street Fighter is"
+    },
+    {
+      "id": 125,
+      "start": 334.59,
+      "end": 337.15,
+      "ts": "05:34.590 -> 05:37.150",
+      "jp": "日本語の名前と英語の名前が",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>と<ruby>英語<rt>えいご</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が",
+      "zh": "日语的名字和英语的名字가",
+      "en": "Japanese name and English name are"
+    },
+    {
+      "id": 126,
+      "start": 337.15,
+      "end": 338.61,
+      "ts": "05:37.150 -> 05:38.610",
+      "jp": "少し違うことがあります",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby><ruby>違うこ<rt>ちがうこ</rt></ruby>とがあります",
+      "zh": "有些不同的是",
+      "en": "There is something slightly different."
+    },
+    {
+      "id": 127,
+      "start": 338.61,
+      "end": 341.05,
+      "ts": "05:38.610 -> 05:41.050",
+      "jp": "スーパーマリオとかでも",
+      "jp_html": "スーパーマリオとかでも",
+      "zh": "比如超级马里奥中",
+      "en": "In Super Mario as well"
+    },
+    {
+      "id": 128,
+      "start": 341.05,
+      "end": 341.71,
+      "ts": "05:41.050 -> 05:41.710",
+      "jp": "そうですよね",
+      "jp_html": "そうですよね",
+      "zh": "是吧",
+      "en": "Yes, don't you think?"
+    },
+    {
+      "id": 129,
+      "start": 341.71,
+      "end": 345.49,
+      "ts": "05:41.710 -> 05:45.490",
+      "jp": "なんかこういろいろなキャラクターが",
+      "jp_html": "なんかこういろいろなキャラクターが",
+      "zh": "好像各种各样的角色",
+      "en": "Something like various characters are involved"
+    },
+    {
+      "id": 130,
+      "start": 345.49,
+      "end": 348.61,
+      "ts": "05:45.490 -> 05:48.610",
+      "jp": "日本語の名前と英語の名前が違います",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>と<ruby>英語<rt>えいご</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>違い<rt>ちがい</rt></ruby>ます",
+      "zh": "日文的名字和英文名字不一样",
+      "en": "The Japanese name and the English name are different."
+    },
+    {
+      "id": 131,
+      "start": 348.61,
+      "end": 352.89,
+      "ts": "05:48.610 -> 05:52.890",
+      "jp": "ストリートファイターの一番悪いやつ",
+      "jp_html": "ストリートファイターの<ruby>一番<rt>いちばん</rt></ruby><ruby>悪い<rt>わるい</rt></ruby>やつ",
+      "zh": "街头斗士中最坏的一个",
+      "en": "The worst character in Street Fighter"
+    },
+    {
+      "id": 132,
+      "start": 352.89,
+      "end": 354.35,
+      "ts": "05:52.890 -> 05:54.350",
+      "jp": "ベガ",
+      "jp_html": "ベガ",
+      "zh": "贝加",
+      "en": "Vega"
+    },
+    {
+      "id": 133,
+      "start": 354.35,
+      "end": 357.99,
+      "ts": "05:54.350 -> 05:57.990",
+      "jp": "でも英語だとバイソン",
+      "jp_html": "でも<ruby>英語<rt>えいご</rt></ruby>だとバイソン",
+      "zh": "但是英语中是bison",
+      "en": "But in English, it's bison."
+    },
+    {
+      "id": 134,
+      "start": 357.99,
+      "end": 361.85,
+      "ts": "05:57.990 -> 06:01.850",
+      "jp": "でも日本語のバイソンはまたボクサーの方なんですよね",
+      "jp_html": "でも<ruby>日本語<rt>にほんご</rt></ruby>のバイソンはまたボクサーの<ruby>方<rt>ほう</rt></ruby>なんですよね",
+      "zh": "但是日语的比森是 boxer 那个家伙吧？",
+      "en": "But the Japanese bison is also the boxer, isn't it?"
+    },
+    {
+      "id": 135,
+      "start": 361.85,
+      "end": 364.63,
+      "ts": "06:01.850 -> 06:04.630",
+      "jp": "ちょっと混乱しますね",
+      "jp_html": "ちょっと<ruby>混乱<rt>こんらん</rt></ruby>しますね",
+      "zh": "确实有些混乱呢",
+      "en": "It's a bit confusing, isn't it?"
+    },
+    {
+      "id": 136,
+      "start": 364.63,
+      "end": 367.77,
+      "ts": "06:04.630 -> 06:07.770",
+      "jp": "キャラクターの名前がちょっと分かりにくい",
+      "jp_html": "キャラクターの<ruby>名前<rt>なまえ</rt></ruby>がちょっと<ruby>分か<rt>わか</rt></ruby>りにくい",
+      "zh": "角色的名字有点难认清楚",
+      "en": "The name of the character is a bit hard to understand."
+    },
+    {
+      "id": 137,
+      "start": 367.77,
+      "end": 369.53,
+      "ts": "06:07.770 -> 06:09.530",
+      "jp": "日本語と英語が違うからね",
+      "jp_html": "<ruby>日本語<rt>にほんご</rt></ruby>と<ruby>英語<rt>えいご</rt></ruby>が<ruby>違うか<rt>ちがうか</rt></ruby>らね",
+      "zh": "日语和英语不一样呢",
+      "en": "Because Japanese and English are different, you know?"
+    },
+    {
+      "id": 138,
+      "start": 369.53,
+      "end": 374.03,
+      "ts": "06:09.530 -> 06:14.030",
+      "jp": "とにかくリュウとケンそしてチュンリーは",
+      "jp_html": "とにかくリュウとケンそしてチュンリーは",
+      "zh": "总之，龙、肯和查理都是",
+      "en": "Anyways, Ryu and Ken as well as Chun-Li are"
+    },
+    {
+      "id": 139,
+      "start": 374.03,
+      "end": 381.13,
+      "ts": "06:14.030 -> 06:21.130",
+      "jp": "みんなで悪いやつを倒す",
+      "jp_html": "みんなで<ruby>悪い<rt>わるい</rt></ruby>やつを<ruby>倒す<rt>たおす</rt></ruby>",
+      "zh": "大家一起打败坏人",
+      "en": "Everyone together to defeat the bad guy"
+    },
+    {
+      "id": 140,
+      "start": 381.13,
+      "end": 383.11,
+      "ts": "06:21.130 -> 06:23.110",
+      "jp": "悪いやつと戦うんですけど",
+      "jp_html": "<ruby>悪い<rt>わるい</rt></ruby>やつと<ruby>戦う<rt>たたかう</rt></ruby>んですけど",
+      "zh": "我要和坏人战斗",
+      "en": "I fight with the bad guy."
+    },
+    {
+      "id": 141,
+      "start": 383.11,
+      "end": 385.85,
+      "ts": "06:23.110 -> 06:25.850",
+      "jp": "みんないろいろな問題があるんですよね",
+      "jp_html": "みんないろいろな<ruby>問題<rt>もんだい</rt></ruby>があるんですよね",
+      "zh": "大家都有各种问题呢",
+      "en": "Everyone has various problems, you know?"
+    },
+    {
+      "id": 142,
+      "start": 385.85,
+      "end": 390.43,
+      "ts": "06:25.850 -> 06:30.430",
+      "jp": "すべてのキャラクターはいろいろな問題があって",
+      "jp_html": "すべてのキャラクターはいろいろな<ruby>問題<rt>もんだい</rt></ruby>があって",
+      "zh": "所有的角色都有各种问题和困扰",
+      "en": "All the characters have various problems and issues."
+    },
+    {
+      "id": 143,
+      "start": 390.43,
+      "end": 393.91,
+      "ts": "06:30.430 -> 06:33.910",
+      "jp": "それで頑張ってるんですけど",
+      "jp_html": "それで<ruby>頑張っ<rt>がんばっ</rt></ruby>てるんですけど",
+      "zh": "我尽力了不过",
+      "en": "And I'm trying my best, but"
+    },
+    {
+      "id": 144,
+      "start": 393.91,
+      "end": 399.47,
+      "ts": "06:33.910 -> 06:39.470",
+      "jp": "ストーリーは別に皆さん想像できるでしょ",
+      "jp_html": "ストーリーは<ruby>別に<rt>べつに</rt></ruby><ruby>皆さん<rt>みなさん</rt></ruby><ruby>想像<rt>そうぞう</rt></ruby>できるでしょ",
+      "zh": "故事别的你们也能想象得出吧",
+      "en": "The story is pretty much something you can imagine on your own, right?"
+    },
+    {
+      "id": 145,
+      "start": 399.47,
+      "end": 401.99,
+      "ts": "06:39.470 -> 06:41.990",
+      "jp": "だいたいわかるでしょ",
+      "jp_html": "だいたいわかるでしょ",
+      "zh": "你大概明白吧",
+      "en": "Don't you get it, right?"
+    },
+    {
+      "id": 146,
+      "start": 401.99,
+      "end": 403.65,
+      "ts": "06:41.990 -> 06:43.650",
+      "jp": "そんなに大事じゃないんです",
+      "jp_html": "そんなに<ruby>大事<rt>だいじ</rt></ruby>じゃないんです",
+      "zh": "并不那么重要",
+      "en": "It's not that important."
+    },
+    {
+      "id": 147,
+      "start": 403.65,
+      "end": 405.01,
+      "ts": "06:43.650 -> 06:45.010",
+      "jp": "全然",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>",
+      "zh": "完全",
+      "en": "Completely"
+    },
+    {
+      "id": 148,
+      "start": 405.01,
+      "end": 408.35,
+      "ts": "06:45.010 -> 06:48.350",
+      "jp": "大事なのはキャラクターですよね",
+      "jp_html": "<ruby>大事<rt>だいじ</rt></ruby>なのはキャラクターですよね",
+      "zh": "重要的不是角色吗？",
+      "en": "The important thing is the characters, right?"
+    },
+    {
+      "id": 149,
+      "start": 408.35,
+      "end": 409.49,
+      "ts": "06:48.350 -> 06:49.490",
+      "jp": "キャラクターと",
+      "jp_html": "キャラクターと",
+      "zh": "角色与",
+      "en": "Characters and"
+    },
+    {
+      "id": 150,
+      "start": 409.49,
+      "end": 410.59,
+      "ts": "06:49.490 -> 06:50.590",
+      "jp": "技",
+      "jp_html": "<ruby>技<rt>わざ</rt></ruby>",
+      "zh": "技",
+      "en": "Skill"
+    },
+    {
+      "id": 151,
+      "start": 410.59,
+      "end": 413.17,
+      "ts": "06:50.590 -> 06:53.170",
+      "jp": "昇竜拳とかね",
+      "jp_html": "<ruby>昇竜拳<rt>しょうりゅうけん</rt></ruby>とかね",
+      "zh": "升龙拳或者",
+      "en": "Dragon Punch"
+    },
+    {
+      "id": 152,
+      "start": 413.17,
+      "end": 414.39,
+      "ts": "06:53.170 -> 06:54.390",
+      "jp": "波動拳とか",
+      "jp_html": "<ruby>波動拳<rt>はどうけん</rt></ruby>とか",
+      "zh": "波动拳或者",
+      "en": "Wave Dust Fist or"
+    },
+    {
+      "id": 153,
+      "start": 414.39,
+      "end": 416.35,
+      "ts": "06:54.390 -> 06:56.350",
+      "jp": "そういうのを見ると",
+      "jp_html": "そういうのを<ruby>見る<rt>みる</rt></ruby>と",
+      "zh": "看到这样的事情",
+      "en": "Seeing that, it makes me feel..."
+    },
+    {
+      "id": 154,
+      "start": 416.35,
+      "end": 417.23,
+      "ts": "06:56.350 -> 06:57.230",
+      "jp": "おー来たぞ",
+      "jp_html": "おー<ruby>来た<rt>きた</rt></ruby>ぞ",
+      "zh": "哦来了啊",
+      "en": "Oh, here they come."
+    },
+    {
+      "id": 155,
+      "start": 417.23,
+      "end": 420.41,
+      "ts": "06:57.230 -> 07:00.410",
+      "jp": "竜が",
+      "jp_html": "<ruby>竜<rt>りゅう</rt></ruby>が",
+      "zh": "龙가",
+      "en": "The dragon that"
+    },
+    {
+      "id": 156,
+      "start": 420.41,
+      "end": 421.05,
+      "ts": "07:00.410 -> 07:01.050",
+      "jp": "行け",
+      "jp_html": "<ruby>行け<rt>いけ</rt></ruby>",
+      "zh": "走去",
+      "en": "Go"
+    },
+    {
+      "id": 157,
+      "start": 421.05,
+      "end": 423.51,
+      "ts": "07:01.050 -> 07:03.510",
+      "jp": "竜の竜餅扇風曲",
+      "jp_html": "<ruby>竜<rt>りゅう</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby><ruby>餅<rt>もち</rt></ruby><ruby>扇風<rt>せんぷう</rt></ruby><ruby>曲<rt>きょく</rt></ruby>",
+      "zh": "龙的龙饼扇风曲",
+      "en": "Dragon's Breath Dragon Puff Fan Wind Song"
+    },
+    {
+      "id": 158,
+      "start": 423.51,
+      "end": 424.89,
+      "ts": "07:03.510 -> 07:04.890",
+      "jp": "昇竜拳",
+      "jp_html": "<ruby>昇竜拳<rt>しょうりゅうけん</rt></ruby>",
+      "zh": "升龙拳",
+      "en": "Seiken Tensho"
+    },
+    {
+      "id": 159,
+      "start": 424.89,
+      "end": 427.03,
+      "ts": "07:04.890 -> 07:07.030",
+      "jp": "それを聞くだけで",
+      "jp_html": "それを<ruby>聞く<rt>きく</rt></ruby>だけで",
+      "zh": "光听就知道",
+      "en": "Just hearing that"
+    },
+    {
+      "id": 160,
+      "start": 427.03,
+      "end": 430.35,
+      "ts": "07:07.030 -> 07:10.350",
+      "jp": "体が熱くなるんですよね",
+      "jp_html": "<ruby>体<rt>からだ</rt></ruby>が<ruby>熱く<rt>あつく</rt></ruby>なるんですよね",
+      "zh": "身体会热起来呢",
+      "en": "It feels like my body is heating up."
+    },
+    {
+      "id": 161,
+      "start": 430.35,
+      "end": 431.73,
+      "ts": "07:10.350 -> 07:11.730",
+      "jp": "うん",
+      "jp_html": "うん",
+      "zh": "嗯",
+      "en": "Yeah"
+    },
+    {
+      "id": 162,
+      "start": 431.73,
+      "end": 432.89,
+      "ts": "07:11.730 -> 07:12.890",
+      "jp": "よかった",
+      "jp_html": "よかった",
+      "zh": "很好",
+      "en": "Good"
+    },
+    {
+      "id": 163,
+      "start": 432.89,
+      "end": 435.77,
+      "ts": "07:12.890 -> 07:15.770",
+      "jp": "でも正直言って",
+      "jp_html": "でも<ruby>正直<rt>しょうじき</rt></ruby><ruby>言って<rt>いって</rt></ruby>",
+      "zh": "但是老实说",
+      "en": "But honestly speaking"
+    },
+    {
+      "id": 164,
+      "start": 435.77,
+      "end": 439.67,
+      "ts": "07:15.770 -> 07:19.670",
+      "jp": "一番いい映画ではないです",
+      "jp_html": "<ruby>一番<rt>いちばん</rt></ruby>いい<ruby>映画<rt>えいが</rt></ruby>ではないです",
+      "zh": "这不是最好的电影",
+      "en": "It is not the best movie."
+    },
+    {
+      "id": 165,
+      "start": 439.67,
+      "end": 444.05,
+      "ts": "07:19.670 -> 07:24.050",
+      "jp": "ポイントをつけます",
+      "jp_html": "ポイントをつけます",
+      "zh": "打分",
+      "en": "I will mark the points."
+    },
+    {
+      "id": 166,
+      "start": 444.05,
+      "end": 444.91,
+      "ts": "07:24.050 -> 07:24.910",
+      "jp": "ポイント",
+      "jp_html": "ポイント",
+      "zh": "积分",
+      "en": "Points"
+    },
+    {
+      "id": 167,
+      "start": 444.91,
+      "end": 447.11,
+      "ts": "07:24.910 -> 07:27.110",
+      "jp": "5スター",
+      "jp_html": "5スター",
+      "zh": "5星",
+      "en": "5 stars"
+    },
+    {
+      "id": 168,
+      "start": 447.11,
+      "end": 448.75,
+      "ts": "07:27.110 -> 07:28.750",
+      "jp": "これが満点",
+      "jp_html": "これが<ruby>満点<rt>まんてん</rt></ruby>",
+      "zh": "这就是满分",
+      "en": "This is perfect"
+    },
+    {
+      "id": 169,
+      "start": 448.75,
+      "end": 451.13,
+      "ts": "07:28.750 -> 07:31.130",
+      "jp": "5スターが一番いい",
+      "jp_html": "5スターが<ruby>一番<rt>いちばん</rt></ruby>いい",
+      "zh": "五星最好",
+      "en": "5 stars is the best"
+    },
+    {
+      "id": 170,
+      "start": 451.13,
+      "end": 453.55,
+      "ts": "07:31.130 -> 07:33.550",
+      "jp": "ストリートファイターは",
+      "jp_html": "ストリートファイターは",
+      "zh": "街头战士是",
+      "en": "Street Fighter is"
+    },
+    {
+      "id": 171,
+      "start": 453.55,
+      "end": 454.93,
+      "ts": "07:33.550 -> 07:34.930",
+      "jp": "星",
+      "jp_html": "<ruby>星<rt>ほし</rt></ruby>",
+      "zh": "星",
+      "en": "Star"
+    },
+    {
+      "id": 172,
+      "start": 454.93,
+      "end": 457.53,
+      "ts": "07:34.930 -> 07:37.530",
+      "jp": "3つです",
+      "jp_html": "3つです",
+      "zh": "三个",
+      "en": "It is three."
+    },
+    {
+      "id": 173,
+      "start": 457.53,
+      "end": 459.93,
+      "ts": "07:37.530 -> 07:39.930",
+      "jp": "星3つ",
+      "jp_html": "<ruby>星<rt>ほし</rt></ruby>3つ",
+      "zh": "三星",
+      "en": "3 stars"
+    },
+    {
+      "id": 174,
+      "start": 459.93,
+      "end": 460.73,
+      "ts": "07:39.930 -> 07:40.730",
+      "jp": "悪くない",
+      "jp_html": "<ruby>悪く<rt>わるく</rt></ruby>ない",
+      "zh": "不错",
+      "en": "Not bad"
+    },
+    {
+      "id": 175,
+      "start": 460.73,
+      "end": 462.03,
+      "ts": "07:40.730 -> 07:42.030",
+      "jp": "全然悪くない",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>悪く<rt>わるく</rt></ruby>ない",
+      "zh": "还不错",
+      "en": "Not bad at all"
+    },
+    {
+      "id": 176,
+      "start": 462.03,
+      "end": 464.17,
+      "ts": "07:42.030 -> 07:44.170",
+      "jp": "でも星5つじゃない",
+      "jp_html": "でも<ruby>星<rt>ほし</rt></ruby>5つじゃない",
+      "zh": "但不是五星级的",
+      "en": "But it's not five stars."
+    },
+    {
+      "id": 177,
+      "start": 464.17,
+      "end": 466.89,
+      "ts": "07:44.170 -> 07:46.890",
+      "jp": "理由は",
+      "jp_html": "<ruby>理由<rt>りゆう</rt></ruby>は",
+      "zh": "原因是",
+      "en": "The reason is"
+    },
+    {
+      "id": 178,
+      "start": 466.89,
+      "end": 469.65,
+      "ts": "07:46.890 -> 07:49.650",
+      "jp": "ストリートファイターだから",
+      "jp_html": "ストリートファイターだから",
+      "zh": "街头战士因此",
+      "en": "Because of Street Fighter"
+    },
+    {
+      "id": 179,
+      "start": 469.65,
+      "end": 471.05,
+      "ts": "07:49.650 -> 07:51.050",
+      "jp": "これはね",
+      "jp_html": "これはね",
+      "zh": "这是呢",
+      "en": "This is uh"
+    },
+    {
+      "id": 180,
+      "start": 471.05,
+      "end": 473.53,
+      "ts": "07:51.050 -> 07:53.530",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 181,
+      "start": 473.53,
+      "end": 474.17,
+      "ts": "07:53.530 -> 07:54.170",
+      "jp": "その",
+      "jp_html": "その",
+      "zh": "那个",
+      "en": "That"
+    },
+    {
+      "id": 182,
+      "start": 474.17,
+      "end": 476.45,
+      "ts": "07:54.170 -> 07:56.450",
+      "jp": "まあ",
+      "jp_html": "まあ",
+      "zh": "嗯嘛",
+      "en": "Well"
+    },
+    {
+      "id": 183,
+      "start": 476.45,
+      "end": 478.15,
+      "ts": "07:56.450 -> 07:58.150",
+      "jp": "なんていうかな",
+      "jp_html": "なんていうかな",
+      "zh": "怎么说呢",
+      "en": "How would you say it?"
+    },
+    {
+      "id": 184,
+      "start": 478.15,
+      "end": 480.71,
+      "ts": "07:58.150 -> 08:00.710",
+      "jp": "お祭りですよね",
+      "jp_html": "お<ruby>祭り<rt>まつり</rt></ruby>ですよね",
+      "zh": "是节日吧？",
+      "en": "Is it a festival, right?"
+    },
+    {
+      "id": 185,
+      "start": 480.71,
+      "end": 482.03,
+      "ts": "08:00.710 -> 08:02.030",
+      "jp": "お祭りです",
+      "jp_html": "お<ruby>祭り<rt>まつり</rt></ruby>です",
+      "zh": "节日",
+      "en": "It's a festival."
+    },
+    {
+      "id": 186,
+      "start": 482.03,
+      "end": 483.57,
+      "ts": "08:02.030 -> 08:03.570",
+      "jp": "フェスティバル",
+      "jp_html": "フェスティバル",
+      "zh": "节日",
+      "en": "Festival"
+    },
+    {
+      "id": 187,
+      "start": 483.57,
+      "end": 484.55,
+      "ts": "08:03.570 -> 08:04.550",
+      "jp": "お祭りですね",
+      "jp_html": "お<ruby>祭り<rt>まつり</rt></ruby>ですね",
+      "zh": "节日呢",
+      "en": "It's a festival, huh?"
+    },
+    {
+      "id": 188,
+      "start": 484.55,
+      "end": 488.25,
+      "ts": "08:04.550 -> 08:08.250",
+      "jp": "ハロウィンパーティーみたいな",
+      "jp_html": "ハロウィンパーティーみたいな",
+      "zh": "像万圣节派对一样",
+      "en": "Like a Halloween party"
+    },
+    {
+      "id": 189,
+      "start": 488.25,
+      "end": 489.01,
+      "ts": "08:08.250 -> 08:09.010",
+      "jp": "そういうもんです",
+      "jp_html": "そういうもんです",
+      "zh": "就是这样的事情",
+      "en": "That's just how it is."
+    },
+    {
+      "id": 190,
+      "start": 489.01,
+      "end": 491.27,
+      "ts": "08:09.010 -> 08:11.270",
+      "jp": "僕たちの",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>たちの",
+      "zh": "我们的",
+      "en": "Our"
+    },
+    {
+      "id": 191,
+      "start": 491.27,
+      "end": 493.85,
+      "ts": "08:11.270 -> 08:13.850",
+      "jp": "思い出のね",
+      "jp_html": "<ruby>思い出<rt>おもいで</rt></ruby>のね",
+      "zh": "回忆的呢",
+      "en": "Memory ne"
+    },
+    {
+      "id": 192,
+      "start": 493.85,
+      "end": 495.11,
+      "ts": "08:13.850 -> 08:15.110",
+      "jp": "ストリートファイター",
+      "jp_html": "ストリートファイター",
+      "zh": "街头霸王",
+      "en": "Street Fighter"
+    },
+    {
+      "id": 193,
+      "start": 495.11,
+      "end": 498.27,
+      "ts": "08:15.110 -> 08:18.270",
+      "jp": "たくさんのおじさんが",
+      "jp_html": "たくさんのおじさんが",
+      "zh": "很多大叔",
+      "en": "Many old men"
+    },
+    {
+      "id": 194,
+      "start": 498.27,
+      "end": 499.79,
+      "ts": "08:18.270 -> 08:19.790",
+      "jp": "いましたね僕みたいな",
+      "jp_html": "いましたね<ruby>僕<rt>ぼく</rt></ruby>みたいな",
+      "zh": "不是吗，像我这样的",
+      "en": "I see. Someone like me."
+    },
+    {
+      "id": 195,
+      "start": 499.79,
+      "end": 502.29,
+      "ts": "08:19.790 -> 08:22.290",
+      "jp": "40歳50歳ぐらいの人が",
+      "jp_html": "40<ruby>歳<rt>とし</rt></ruby>50<ruby>歳<rt>とし</rt></ruby>ぐらいの<ruby>人<rt>にん</rt></ruby>が",
+      "zh": "40岁到50岁左右的人",
+      "en": "People in their 40s and 50s"
+    },
+    {
+      "id": 196,
+      "start": 502.29,
+      "end": 502.93,
+      "ts": "08:22.290 -> 08:22.930",
+      "jp": "たくさんいた",
+      "jp_html": "たくさんいた",
+      "zh": "有很多",
+      "en": "Many were there."
+    },
+    {
+      "id": 197,
+      "start": 502.93,
+      "end": 506.23,
+      "ts": "08:22.930 -> 08:26.230",
+      "jp": "そして子供と一緒に見てる人が多かった",
+      "jp_html": "そして<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>見て<rt>みて</rt></ruby>る<ruby>人<rt>にん</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>った",
+      "zh": "然后看的人大多是孩子和大人一起看的",
+      "en": "And there were many people watching with their children."
+    },
+    {
+      "id": 198,
+      "start": 506.23,
+      "end": 508.31,
+      "ts": "08:26.230 -> 08:28.310",
+      "jp": "お父さんと息子みたいなね",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>息子<rt>むすこ</rt></ruby>みたいなね",
+      "zh": "像父亲和儿子一样",
+      "en": "Like father, like son."
+    },
+    {
+      "id": 199,
+      "start": 508.31,
+      "end": 509.81,
+      "ts": "08:28.310 -> 08:29.810",
+      "jp": "そういう人が多かった",
+      "jp_html": "そういう<ruby>人<rt>にん</rt></ruby>が<ruby>多か<rt>おおか</rt></ruby>った",
+      "zh": "这种人比较多",
+      "en": "There were many people like that."
+    },
+    {
+      "id": 200,
+      "start": 509.81,
+      "end": 513.09,
+      "ts": "08:29.810 -> 08:33.090",
+      "jp": "僕の子供は",
+      "jp_html": "<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>は",
+      "zh": "我的孩子是",
+      "en": "My children are"
+    },
+    {
+      "id": 201,
+      "start": 513.09,
+      "end": 514.63,
+      "ts": "08:33.090 -> 08:34.630",
+      "jp": "あんまりしない",
+      "jp_html": "あんまりしない",
+      "zh": "不多做",
+      "en": "Don't do it too much"
+    },
+    {
+      "id": 202,
+      "start": 514.63,
+      "end": 515.87,
+      "ts": "08:34.630 -> 08:35.870",
+      "jp": "少ししかしない",
+      "jp_html": "<ruby>少し<rt>すこし</rt></ruby>しかしない",
+      "zh": "只是做了一点点",
+      "en": "Do very little"
+    },
+    {
+      "id": 203,
+      "start": 515.87,
+      "end": 518.51,
+      "ts": "08:35.870 -> 08:38.510",
+      "jp": "でも分かりますストリートファイター",
+      "jp_html": "でも<ruby>分か<rt>わか</rt></ruby>りますストリートファイター",
+      "zh": "但我知道街霸",
+      "en": "But I understand Street Fighter"
+    },
+    {
+      "id": 204,
+      "start": 518.51,
+      "end": 522.81,
+      "ts": "08:38.510 -> 08:42.810",
+      "jp": "でもちろん僕は子供の時にたくさんやった",
+      "jp_html": "でもちろん<ruby>僕は<rt>ぼくは</rt></ruby><ruby>子供<rt>こども</rt></ruby>の<ruby>時に<rt>ときに</rt></ruby>たくさんやった",
+      "zh": "当然我小时候做了很多",
+      "en": "Of course I did it when I was a child."
+    },
+    {
+      "id": 205,
+      "start": 522.81,
+      "end": 525.15,
+      "ts": "08:42.810 -> 08:45.150",
+      "jp": "だから子供と一緒にね",
+      "jp_html": "だから<ruby>子供<rt>こども</rt></ruby>と<ruby>一緒に<rt>いっしょに</rt></ruby>ね",
+      "zh": "所以和孩子一起吧",
+      "en": "So I went with the kids."
+    },
+    {
+      "id": 206,
+      "start": 525.15,
+      "end": 529.07,
+      "ts": "08:45.150 -> 08:49.070",
+      "jp": "ストリートファイターの映画を見て嬉しいです",
+      "jp_html": "ストリートファイターの<ruby>映画<rt>えいが</rt></ruby>を<ruby>見て<rt>みて</rt></ruby><ruby>嬉しい<rt>うれしい</rt></ruby>です",
+      "zh": "看到 STREET FIGHTER 的电影我很高兴",
+      "en": "I'm happy to watch the Street Fighter movie."
+    },
+    {
+      "id": 207,
+      "start": 529.07,
+      "end": 533.35,
+      "ts": "08:49.070 -> 08:53.350",
+      "jp": "スーパーマリオの映画と同じですね",
+      "jp_html": "スーパーマリオの<ruby>映画<rt>えいが</rt></ruby>と<ruby>同じ<rt>おなじ</rt></ruby>ですね",
+      "zh": "这和超级马里奥的电影一样呢",
+      "en": "It's the same as the Super Mario movie."
+    },
+    {
+      "id": 208,
+      "start": 533.35,
+      "end": 535.23,
+      "ts": "08:53.350 -> 08:55.230",
+      "jp": "スーパーマリオの映画も",
+      "jp_html": "スーパーマリオの<ruby>映画<rt>えいが</rt></ruby>も",
+      "zh": "超级马里奥的电影也",
+      "en": "The movie of Super Mario also"
+    },
+    {
+      "id": 209,
+      "start": 535.23,
+      "end": 537.95,
+      "ts": "08:55.230 -> 08:57.950",
+      "jp": "お父さんと子供とかね",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>とかね",
+      "zh": "父亲和孩子呢",
+      "en": "It's about fathers and children."
+    },
+    {
+      "id": 210,
+      "start": 537.95,
+      "end": 539.87,
+      "ts": "08:57.950 -> 08:59.870",
+      "jp": "お母さんももちろん",
+      "jp_html": "お<ruby>母さん<rt>かあさん</rt></ruby>ももちろん",
+      "zh": "妈妈当然也",
+      "en": "Mom of course"
+    },
+    {
+      "id": 211,
+      "start": 539.87,
+      "end": 541.19,
+      "ts": "08:59.870 -> 09:01.190",
+      "jp": "お父さんお母さん",
+      "jp_html": "お<ruby>父さん<rt>とうさん</rt></ruby>お<ruby>母さん<rt>かあさん</rt></ruby>",
+      "zh": "爸爸妈妈",
+      "en": "father mother"
+    },
+    {
+      "id": 212,
+      "start": 541.19,
+      "end": 542.57,
+      "ts": "09:01.190 -> 09:02.570",
+      "jp": "息子娘",
+      "jp_html": "<ruby>息子<rt>むすこ</rt></ruby><ruby>娘<rt>むすめ</rt></ruby>",
+      "zh": "儿子女şe",
+      "en": "son daughter"
+    },
+    {
+      "id": 213,
+      "start": 542.57,
+      "end": 544.17,
+      "ts": "09:02.570 -> 09:04.170",
+      "jp": "一緒に見て",
+      "jp_html": "<ruby>一緒に<rt>いっしょに</rt></ruby><ruby>見て<rt>みて</rt></ruby>",
+      "zh": "一起看",
+      "en": "Watch together"
+    },
+    {
+      "id": 214,
+      "start": 544.17,
+      "end": 547.75,
+      "ts": "09:04.170 -> 09:07.750",
+      "jp": "マリオはやっぱりいいなと",
+      "jp_html": "マリオはやっぱりいいなと",
+      "zh": "马里奥果然不错呢",
+      "en": "Mario is really good, isn't he?"
+    },
+    {
+      "id": 215,
+      "start": 547.75,
+      "end": 550.47,
+      "ts": "09:07.750 -> 09:10.470",
+      "jp": "そんな感じです",
+      "jp_html": "そんな<ruby>感じ<rt>かんじ</rt></ruby>です",
+      "zh": "就是那种感觉",
+      "en": "It feels like that."
+    },
+    {
+      "id": 216,
+      "start": 550.47,
+      "end": 551.23,
+      "ts": "09:10.470 -> 09:11.230",
+      "jp": "なのでこれは",
+      "jp_html": "なのでこれは",
+      "zh": "所以这是",
+      "en": "so this is"
+    },
+    {
+      "id": 217,
+      "start": 551.23,
+      "end": 555.09,
+      "ts": "09:11.230 -> 09:15.090",
+      "jp": "ちょっとファミリームービー",
+      "jp_html": "ちょっとファミリームービー",
+      "zh": "稍微家庭电影",
+      "en": "Just a family movie"
+    },
+    {
+      "id": 218,
+      "start": 555.09,
+      "end": 557.07,
+      "ts": "09:15.090 -> 09:17.070",
+      "jp": "ちょっと暴力多いけどね",
+      "jp_html": "ちょっと<ruby>暴力<rt>ぼうりょく</rt></ruby><ruby>多い<rt>おおい</rt></ruby>けどね",
+      "zh": "有点儿暴力多了吧",
+      "en": "A bit too violent, huh?"
+    },
+    {
+      "id": 219,
+      "start": 557.07,
+      "end": 557.55,
+      "ts": "09:17.070 -> 09:17.550",
+      "jp": "暴力",
+      "jp_html": "<ruby>暴力<rt>ぼうりょく</rt></ruby>",
+      "zh": "暴力",
+      "en": "Violence"
+    },
+    {
+      "id": 220,
+      "start": 557.55,
+      "end": 559.77,
+      "ts": "09:17.550 -> 09:19.770",
+      "jp": "多いですよ",
+      "jp_html": "<ruby>多い<rt>おおい</rt></ruby>ですよ",
+      "zh": "很多呢",
+      "en": "It's a lot."
+    },
+    {
+      "id": 221,
+      "start": 559.77,
+      "end": 561.19,
+      "ts": "09:19.770 -> 09:21.190",
+      "jp": "めっちゃ暴力多いです",
+      "jp_html": "めっちゃ<ruby>暴力<rt>ぼうりょく</rt></ruby><ruby>多い<rt>おおい</rt></ruby>です",
+      "zh": "真的好暴力",
+      "en": "There's really a lot of violence."
+    },
+    {
+      "id": 222,
+      "start": 561.19,
+      "end": 562.99,
+      "ts": "09:21.190 -> 09:22.990",
+      "jp": "ほとんど暴力",
+      "jp_html": "ほとんど<ruby>暴力<rt>ぼうりょく</rt></ruby>",
+      "zh": "几乎暴力",
+      "en": "almost violent"
+    },
+    {
+      "id": 223,
+      "start": 562.99,
+      "end": 565.93,
+      "ts": "09:22.990 -> 09:25.930",
+      "jp": "ほとんど喧嘩してます",
+      "jp_html": "ほとんど<ruby>喧嘩<rt>けんか</rt></ruby>してます",
+      "zh": "他们几乎在吵架。",
+      "en": "They are almost fighting."
+    },
+    {
+      "id": 224,
+      "start": 565.93,
+      "end": 567.67,
+      "ts": "09:25.930 -> 09:27.670",
+      "jp": "ほとんど戦っています",
+      "jp_html": "ほとんど<ruby>戦っ<rt>たたかっ</rt></ruby>ています",
+      "zh": "几乎在战斗中",
+      "en": "They are almost fighting."
+    },
+    {
+      "id": 225,
+      "start": 567.67,
+      "end": 569.25,
+      "ts": "09:27.670 -> 09:29.250",
+      "jp": "だけど",
+      "jp_html": "だけど",
+      "zh": "但是",
+      "en": "But"
+    },
+    {
+      "id": 226,
+      "start": 569.25,
+      "end": 573.57,
+      "ts": "09:29.250 -> 09:33.570",
+      "jp": "死んだりすることは",
+      "jp_html": "<ruby>死ん<rt>しん</rt></ruby>だりすることは",
+      "zh": "死亡也是",
+      "en": "To die is"
+    },
+    {
+      "id": 227,
+      "start": 573.57,
+      "end": 574.85,
+      "ts": "09:33.570 -> 09:34.850",
+      "jp": "ほとんどないかな",
+      "jp_html": "ほとんどないかな",
+      "zh": "几乎没有吧",
+      "en": "Almost none, right?"
+    },
+    {
+      "id": 228,
+      "start": 574.85,
+      "end": 578.07,
+      "ts": "09:34.850 -> 09:38.070",
+      "jp": "そんなに怖くはない",
+      "jp_html": "そんなに<ruby>怖く<rt>こわく</rt></ruby>はない",
+      "zh": "并没有那么可怕",
+      "en": "It's not that scary."
+    },
+    {
+      "id": 229,
+      "start": 578.07,
+      "end": 580.55,
+      "ts": "09:38.070 -> 09:40.550",
+      "jp": "ホラー映画じゃないからね",
+      "jp_html": "ホラー<ruby>映画<rt>えいが</rt></ruby>じゃないからね",
+      "zh": "因为不是恐怖电影呢",
+      "en": "It's not a horror movie, you know."
+    },
+    {
+      "id": 230,
+      "start": 580.55,
+      "end": 582.63,
+      "ts": "09:40.550 -> 09:42.630",
+      "jp": "ガーとか言ってるけど",
+      "jp_html": "ガーとか<ruby>言って<rt>いって</rt></ruby>るけど",
+      "zh": "他在说 GAR 这个词。",
+      "en": "He's saying something like \"gah\"."
+    },
+    {
+      "id": 231,
+      "start": 582.63,
+      "end": 584.95,
+      "ts": "09:42.630 -> 09:44.950",
+      "jp": "大丈夫です",
+      "jp_html": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です",
+      "zh": "他是真棒",
+      "en": "It's okay."
+    },
+    {
+      "id": 232,
+      "start": 584.95,
+      "end": 588.35,
+      "ts": "09:44.950 -> 09:48.350",
+      "jp": "小さい子供はやめた方がいいと思います",
+      "jp_html": "<ruby>小さい<rt>ちーさい</rt></ruby><ruby>子供<rt>こども</rt></ruby>はやめた<ruby>方が<rt>ほうが</rt></ruby>いいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "我认为小孩子最好不要这样做",
+      "en": "I think it's better to stop for small children."
+    },
+    {
+      "id": 233,
+      "start": 588.35,
+      "end": 591.81,
+      "ts": "09:48.350 -> 09:51.810",
+      "jp": "でも僕の子供11歳",
+      "jp_html": "でも<ruby>僕<rt>ぼく</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>11<ruby>歳<rt>とし</rt></ruby>",
+      "zh": "但是我的孩子11岁了",
+      "en": "But my child is 11 years old."
+    },
+    {
+      "id": 234,
+      "start": 591.81,
+      "end": 594.33,
+      "ts": "09:51.810 -> 09:54.330",
+      "jp": "全然大丈夫でしたね",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>でしたね",
+      "zh": "果然很厉害呢",
+      "en": "It was completely fine, wasn't it?"
+    },
+    {
+      "id": 235,
+      "start": 594.33,
+      "end": 596.67,
+      "ts": "09:54.330 -> 09:56.670",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 236,
+      "start": 596.67,
+      "end": 599.39,
+      "ts": "09:56.670 -> 09:59.390",
+      "jp": "ストリートファイターを見てきた話でした",
+      "jp_html": "ストリートファイターを<ruby>見て<rt>みて</rt></ruby>きた<ruby>話<rt>はなし</rt></ruby>でした",
+      "zh": "这是关于看街头霸王的故事",
+      "en": "It was about my experience watching Street Fighter."
+    },
+    {
+      "id": 237,
+      "start": 599.39,
+      "end": 602.47,
+      "ts": "09:59.390 -> 10:02.470",
+      "jp": "皆さんにおすすめはしません",
+      "jp_html": "<ruby>皆さん<rt>みなさん</rt></ruby>におすすめはしません",
+      "zh": "我不会推荐给大家",
+      "en": "I don't recommend it to everyone."
+    },
+    {
+      "id": 238,
+      "start": 602.47,
+      "end": 604.71,
+      "ts": "10:02.470 -> 10:04.710",
+      "jp": "おすすめはしません",
+      "jp_html": "おすすめはしません",
+      "zh": "我不推荐",
+      "en": "I don't recommend it."
+    },
+    {
+      "id": 239,
+      "start": 604.71,
+      "end": 606.51,
+      "ts": "10:04.710 -> 10:06.510",
+      "jp": "おすすめはしません",
+      "jp_html": "おすすめはしません",
+      "zh": "我不推荐",
+      "en": "I don't recommend it."
+    },
+    {
+      "id": 240,
+      "start": 606.51,
+      "end": 608.01,
+      "ts": "10:06.510 -> 10:08.010",
+      "jp": "見なくていいです",
+      "jp_html": "<ruby>見な<rt>みな</rt></ruby>くていいです",
+      "zh": "看不见也没关系",
+      "en": "It's okay not to see it."
+    },
+    {
+      "id": 241,
+      "start": 608.01,
+      "end": 610.63,
+      "ts": "10:08.010 -> 10:10.630",
+      "jp": "だけど見てもいいと思います",
+      "jp_html": "だけど<ruby>見て<rt>みて</rt></ruby>もいいと<ruby>思い<rt>おもい</rt></ruby>ます",
+      "zh": "但是我觉得也可以看看。",
+      "en": "But I think it's okay to look at it."
+    },
+    {
+      "id": 242,
+      "start": 610.63,
+      "end": 612.69,
+      "ts": "10:10.630 -> 10:12.690",
+      "jp": "あのなんか",
+      "jp_html": "あのなんか",
+      "zh": "那个什么",
+      "en": "Those something"
+    },
+    {
+      "id": 243,
+      "start": 612.69,
+      "end": 615.85,
+      "ts": "10:12.690 -> 10:15.850",
+      "jp": "ちょっと元気がない時とかに",
+      "jp_html": "ちょっと<ruby>元気<rt>げんき</rt></ruby>がない<ruby>時<rt>とき</rt></ruby>とかに",
+      "zh": "有时候感觉没精神的时候",
+      "en": "When I'm not feeling very energetic sometimes"
+    },
+    {
+      "id": 244,
+      "start": 615.85,
+      "end": 616.71,
+      "ts": "10:15.850 -> 10:16.710",
+      "jp": "見て",
+      "jp_html": "<ruby>見て<rt>みて</rt></ruby>",
+      "zh": "看",
+      "en": "See"
+    },
+    {
+      "id": 245,
+      "start": 616.71,
+      "end": 618.21,
+      "ts": "10:16.710 -> 10:18.210",
+      "jp": "おっしゃーとね",
+      "jp_html": "おっしゃーとね",
+      "zh": "你说呢",
+      "en": "Okay then."
+    },
+    {
+      "id": 246,
+      "start": 618.21,
+      "end": 620.47,
+      "ts": "10:18.210 -> 10:20.470",
+      "jp": "ちょっとこう元気をもらって",
+      "jp_html": "ちょっとこう<ruby>元気<rt>げんき</rt></ruby>をもらって",
+      "zh": "稍微有点精神焕发",
+      "en": "Just get a little bit of energy."
+    },
+    {
+      "id": 247,
+      "start": 620.47,
+      "end": 622.67,
+      "ts": "10:20.470 -> 10:22.670",
+      "jp": "また明日から頑張るぞ",
+      "jp_html": "また<ruby>明日<rt>あした</rt></ruby>から<ruby>頑張る<rt>がんばる</rt></ruby>ぞ",
+      "zh": "明天我一定要加油",
+      "en": "I'll work hard from tomorrow on."
+    },
+    {
+      "id": 248,
+      "start": 622.67,
+      "end": 625.29,
+      "ts": "10:22.670 -> 10:25.290",
+      "jp": "そんな映画ですよ",
+      "jp_html": "そんな<ruby>映画<rt>えいが</rt></ruby>ですよ",
+      "zh": "那就是那样的电影呢",
+      "en": "That kind of movie is it."
+    },
+    {
+      "id": 249,
+      "start": 625.29,
+      "end": 626.23,
+      "ts": "10:25.290 -> 10:26.230",
+      "jp": "全然",
+      "jp_html": "<ruby>全然<rt>ぜんぜん</rt></ruby>",
+      "zh": "完全",
+      "en": "Completely"
+    },
+    {
+      "id": 250,
+      "start": 626.23,
+      "end": 628.83,
+      "ts": "10:26.230 -> 10:28.830",
+      "jp": "深い映画ではないです",
+      "jp_html": "<ruby>深い<rt>ふかい</rt></ruby><ruby>映画<rt>えいが</rt></ruby>ではないです",
+      "zh": "这部电影不够深刻",
+      "en": "It is not a deep movie."
+    },
+    {
+      "id": 251,
+      "start": 628.83,
+      "end": 631.53,
+      "ts": "10:28.830 -> 10:31.530",
+      "jp": "でも元気な映画ですね",
+      "jp_html": "でも<ruby>元気<rt>げんき</rt></ruby>な<ruby>映画<rt>えいが</rt></ruby>ですね",
+      "zh": "但是一部充满活力的电影呢",
+      "en": "But it's a lively movie, though."
+    },
+    {
+      "id": 252,
+      "start": 631.53,
+      "end": 634.13,
+      "ts": "10:31.530 -> 10:34.130",
+      "jp": "音楽はかっこいい",
+      "jp_html": "<ruby>音楽<rt>おんがく</rt></ruby>はかっこいい",
+      "zh": "音乐很好听",
+      "en": "Music is cool"
+    },
+    {
+      "id": 253,
+      "start": 634.13,
+      "end": 638.65,
+      "ts": "10:34.130 -> 10:38.650",
+      "jp": "アクションもかっこいいしね",
+      "jp_html": "アクションもかっこいいしね",
+      "zh": "动作也很酷呢",
+      "en": "The action is cool too, you know?"
+    },
+    {
+      "id": 254,
+      "start": 638.65,
+      "end": 640.47,
+      "ts": "10:38.650 -> 10:40.470",
+      "jp": "いいですよ",
+      "jp_html": "いいですよ",
+      "zh": "好的。",
+      "en": "It's okay."
+    },
+    {
+      "id": 255,
+      "start": 640.47,
+      "end": 642.85,
+      "ts": "10:40.470 -> 10:42.850",
+      "jp": "というわけでそろそろ時間ですね",
+      "jp_html": "というわけでそろそろ<ruby>時間<rt>じかん</rt></ruby>ですね",
+      "zh": "所以现在该收工了",
+      "en": "So it's probably time now."
+    },
+    {
+      "id": 256,
+      "start": 642.85,
+      "end": 644.35,
+      "ts": "10:42.850 -> 10:44.350",
+      "jp": "ちょっと長かったですけど",
+      "jp_html": "ちょっと<ruby>長か<rt>ながか</rt></ruby>ったですけど",
+      "zh": "稍微长了一些不过",
+      "en": "It was a bit long, but"
+    },
+    {
+      "id": 257,
+      "start": 644.35,
+      "end": 648.13,
+      "ts": "10:44.350 -> 10:48.130",
+      "jp": "わからないボキャブラリーあったら",
+      "jp_html": "わからないボキャブラリーあったら",
+      "zh": "如果有不懂的词汇",
+      "en": "If there were any vocabulary I didn't understand"
+    },
+    {
+      "id": 258,
+      "start": 648.13,
+      "end": 649.37,
+      "ts": "10:48.130 -> 10:49.370",
+      "jp": "もう一度聞いてください",
+      "jp_html": "もう<ruby>一度<rt>いちど</rt></ruby><ruby>聞い<rt>きい</rt></ruby>てください",
+      "zh": "请再听一遍",
+      "en": "Please hear me out again."
+    },
+    {
+      "id": 259,
+      "start": 649.37,
+      "end": 652.87,
+      "ts": "10:49.370 -> 10:52.870",
+      "jp": "2回3回4回たくさん聞いて",
+      "jp_html": "2<ruby>回<rt>かい</rt></ruby>3<ruby>回<rt>かい</rt></ruby>4<ruby>回た<rt>まわた</rt></ruby>くさん<ruby>聞い<rt>きい</rt></ruby>て",
+      "zh": "多听两三次四次",
+      "en": "2 times, 3 times, 4 times, many times"
+    },
+    {
+      "id": 260,
+      "start": 652.87,
+      "end": 658.03,
+      "ts": "10:52.870 -> 10:58.030",
+      "jp": "どんどん日本語ファイターになってくださいね",
+      "jp_html": "どんどん<ruby>日本語<rt>にほんご</rt></ruby>ファイターになってくださいね",
+      "zh": "请越来越成为日语斗士吧",
+      "en": "Please become more Japanese fighters!"
+    },
+    {
+      "id": 261,
+      "start": 658.03,
+      "end": 659.55,
+      "ts": "10:58.030 -> 10:59.550",
+      "jp": "というわけで",
+      "jp_html": "というわけで",
+      "zh": "因此",
+      "en": "Thus,"
+    },
+    {
+      "id": 262,
+      "start": 659.55,
+      "end": 662.31,
+      "ts": "10:59.550 -> 11:02.310",
+      "jp": "元ね、ハドゥーキュン",
+      "jp_html": "<ruby>元ね<rt>もとね</rt></ruby>、ハドゥーキュン",
+      "zh": "元，哈杜昆",
+      "en": "Oh, Hadoukyun"
+    }
+  ]
+}
